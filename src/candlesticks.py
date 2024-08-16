@@ -26,8 +26,33 @@ def printCandlePattern(pattern, stock, market):
     print(patterns[["Date", "Open", "High", "Low", "Close", pattern]])
 
 
+patterns = [
+    "CDLHAMMER",
+    "CDLINVERTEDHAMMER",
+    "CDLENGULFING",  # Detects both bullish and bearish engulfing patterns
+    "CDLPIERCING",
+    "CDLMORNINGSTAR",
+    "CDL3WHITESOLDIERS",
+    "CDLHARAMI",  # Detects both bullish and bearish harami patterns
+    "CDLDRAGONFLYDOJI",
+    "CDLHOMINGPIGEON",
+    "CDLKICKINGBYLENGTH",
+    # bearish
+    "CDLHANGINGMAN",
+    "CDLSHOOTINGSTAR",
+    "CDLENGULFING",  # Detects both bullish and bearish engulfing patterns
+    "CDLDARKCLOUDCOVER",
+    "CDLEVENINGSTAR",
+    "CDL3BLACKCROWS",
+    "CDLHARAMI",  # Detects both bullish and bearish harami patterns
+    "CDLGRAVESTONEDOJI",
+    "CDLIDENTICAL3CROWS",
+    "CDLKICKING",
+]
+
 top200Symbols = i.nepse_symbols
 
 for symbol in top200Symbols:
-    printCandlePattern("CDLDOJI", symbol, "np")
-
+    # loop through all the patterns
+    for pattern in patterns:
+        printCandlePattern(pattern, symbol, "np")
