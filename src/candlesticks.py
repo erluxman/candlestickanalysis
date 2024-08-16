@@ -31,4 +31,3 @@ top200Symbols = i.snp_500_symbols
 
 for symbol in top200Symbols:
     printCandlePattern("CDLHAMMER", symbol, "en")
-    

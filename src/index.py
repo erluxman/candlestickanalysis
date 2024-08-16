@@ -241,5 +241,5 @@ def download_stock_data(symbol):
 
 
 # Download data for each symbol in the list
-for symbol in snp_500_symbols:
-    download_stock_data(symbol)
+# for symbol in snp_500_symbols:
+#     download_stock_data(symbol)
