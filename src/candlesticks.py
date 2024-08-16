@@ -1,6 +1,7 @@
 import yfinance as yf
 import talib
 import pandas as pd
+import index as i
 
 
 def printCandlePattern(pattern, stock, market):
@@ -20,8 +21,14 @@ def printCandlePattern(pattern, stock, market):
     candle = pattern_function(open_prices, high_prices, low_prices, close_prices)
     df[pattern] = candle
     patterns = df[df[pattern] != 0]
-    print(f"{pattern} patterns found on the following dates:")
+    print(f"{pattern} patterns found on the following dates: for {stock}")
     print(patterns[["Date", "Open", "High", "Low", "Close", pattern]])
 
 
 printCandlePattern("CDLHAMMER", "AAPL", "en")
+
+top200Symbols = i.snp_500_symbols
+
+for symbol in top200Symbols:
+    printCandlePattern("CDLHAMMER", symbol, "en")
+    
