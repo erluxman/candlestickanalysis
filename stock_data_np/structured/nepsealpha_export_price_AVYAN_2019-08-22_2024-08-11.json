@@ -1,0 +1,4292 @@
+[
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-08-11",
+        "Open": 1060.0,
+        "High": 1081.0,
+        "Low": 1046.0,
+        "Close": 1076.0,
+        "Percent Change": 3.45,
+        "Volume": 9611.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-08-08",
+        "Open": 1061.0,
+        "High": 1085.0,
+        "Low": 1020.0,
+        "Close": 1040.1,
+        "Percent Change": -0.02,
+        "Volume": 9181.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-08-07",
+        "Open": 1026.0,
+        "High": 1050.0,
+        "Low": 1010.0,
+        "Close": 1040.3,
+        "Percent Change": 1.39,
+        "Volume": 6028.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-08-06",
+        "Open": 1075.1,
+        "High": 1075.1,
+        "Low": 990.0,
+        "Close": 1026.0,
+        "Percent Change": -6.47,
+        "Volume": 10224.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-08-05",
+        "Open": 1088.0,
+        "High": 1109.0,
+        "Low": 1040.0,
+        "Close": 1097.0,
+        "Percent Change": 0.82,
+        "Volume": 8623.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-08-01",
+        "Open": 1150.0,
+        "High": 1195.0,
+        "Low": 1088.1,
+        "Close": 1088.1,
+        "Percent Change": -4.47,
+        "Volume": 20527.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-31",
+        "Open": 1085.1,
+        "High": 1164.8,
+        "Low": 1085.0,
+        "Close": 1139.0,
+        "Percent Change": 3.55,
+        "Volume": 20870.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-30",
+        "Open": 1071.0,
+        "High": 1105.0,
+        "Low": 1065.0,
+        "Close": 1100.0,
+        "Percent Change": 2.8,
+        "Volume": 13182.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-29",
+        "Open": 1150.0,
+        "High": 1150.0,
+        "Low": 1070.0,
+        "Close": 1070.0,
+        "Percent Change": -6.88,
+        "Volume": 17344.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-28",
+        "Open": 1171.9,
+        "High": 1195.0,
+        "Low": 1060.0,
+        "Close": 1149.0,
+        "Percent Change": 0.0,
+        "Volume": 23109.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-25",
+        "Open": 1109.0,
+        "High": 1180.0,
+        "Low": 1091.0,
+        "Close": 1149.0,
+        "Percent Change": 5.41,
+        "Volume": 34527.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-24",
+        "Open": 1109.0,
+        "High": 1140.0,
+        "Low": 1070.0,
+        "Close": 1090.0,
+        "Percent Change": -3.5,
+        "Volume": 21862.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-23",
+        "Open": 1091.0,
+        "High": 1170.0,
+        "Low": 1075.0,
+        "Close": 1129.5,
+        "Percent Change": 3.72,
+        "Volume": 18265.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-22",
+        "Open": 1050.0,
+        "High": 1120.0,
+        "Low": 1032.0,
+        "Close": 1089.0,
+        "Percent Change": 5.52,
+        "Volume": 39732.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-21",
+        "Open": 1060.0,
+        "High": 1070.0,
+        "Low": 1030.0,
+        "Close": 1032.0,
+        "Percent Change": -1.71,
+        "Volume": 23755.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-18",
+        "Open": 1040.0,
+        "High": 1079.9,
+        "Low": 1020.0,
+        "Close": 1050.0,
+        "Percent Change": 2.94,
+        "Volume": 23505.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-17",
+        "Open": 1014.0,
+        "High": 1025.0,
+        "Low": 995.0,
+        "Close": 1020.0,
+        "Percent Change": 1.19,
+        "Volume": 36866.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-16",
+        "Open": 959.5,
+        "High": 1010.0,
+        "Low": 959.5,
+        "Close": 1008.0,
+        "Percent Change": 2.96,
+        "Volume": 13666.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-15",
+        "Open": 1000.0,
+        "High": 1000.0,
+        "Low": 973.1,
+        "Close": 979.0,
+        "Percent Change": -1.81,
+        "Volume": 21284.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-14",
+        "Open": 1016.9,
+        "High": 1020.0,
+        "Low": 995.0,
+        "Close": 997.0,
+        "Percent Change": 0.0,
+        "Volume": 11463.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-11",
+        "Open": 999.0,
+        "High": 1026.0,
+        "Low": 990.0,
+        "Close": 997.0,
+        "Percent Change": -1.29,
+        "Volume": 20105.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-10",
+        "Open": 990.0,
+        "High": 1031.0,
+        "Low": 990.0,
+        "Close": 1010.0,
+        "Percent Change": 2.64,
+        "Volume": 26951.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-09",
+        "Open": 938.9,
+        "High": 1001.0,
+        "Low": 938.9,
+        "Close": 984.0,
+        "Percent Change": 2.71,
+        "Volume": 37391.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-08",
+        "Open": 950.3,
+        "High": 962.0,
+        "Low": 945.0,
+        "Close": 958.0,
+        "Percent Change": 1.38,
+        "Volume": 7544.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-07",
+        "Open": 935.0,
+        "High": 962.0,
+        "Low": 935.0,
+        "Close": 945.0,
+        "Percent Change": -0.52,
+        "Volume": 9623.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-04",
+        "Open": 930.0,
+        "High": 955.0,
+        "Low": 930.0,
+        "Close": 949.9,
+        "Percent Change": 0.2,
+        "Volume": 8319.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-03",
+        "Open": 977.0,
+        "High": 977.0,
+        "Low": 928.0,
+        "Close": 948.0,
+        "Percent Change": -1.15,
+        "Volume": 2827.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-02",
+        "Open": 958.0,
+        "High": 977.1,
+        "Low": 936.0,
+        "Close": 959.0,
+        "Percent Change": 2.02,
+        "Volume": 3721.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-07-01",
+        "Open": 925.3,
+        "High": 947.0,
+        "Low": 925.3,
+        "Close": 940.0,
+        "Percent Change": -0.21,
+        "Volume": 2521.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-30",
+        "Open": 949.0,
+        "High": 966.0,
+        "Low": 916.3,
+        "Close": 942.0,
+        "Percent Change": -0.74,
+        "Volume": 6012.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-27",
+        "Open": 921.2,
+        "High": 957.0,
+        "Low": 921.2,
+        "Close": 949.0,
+        "Percent Change": 1.05,
+        "Volume": 12035.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-26",
+        "Open": 941.0,
+        "High": 973.9,
+        "Low": 936.0,
+        "Close": 939.1,
+        "Percent Change": -2.18,
+        "Volume": 4539.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-25",
+        "Open": 955.0,
+        "High": 974.0,
+        "Low": 950.6,
+        "Close": 960.0,
+        "Percent Change": 0.63,
+        "Volume": 15341.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-24",
+        "Open": 900.0,
+        "High": 960.0,
+        "Low": 900.0,
+        "Close": 954.0,
+        "Percent Change": 5.54,
+        "Volume": 22076.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-23",
+        "Open": 900.0,
+        "High": 920.0,
+        "Low": 896.0,
+        "Close": 903.9,
+        "Percent Change": 0.43,
+        "Volume": 5814.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-20",
+        "Open": 903.0,
+        "High": 928.9,
+        "Low": 899.0,
+        "Close": 900.0,
+        "Percent Change": -2.27,
+        "Volume": 9317.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-19",
+        "Open": 912.0,
+        "High": 945.0,
+        "Low": 910.2,
+        "Close": 920.9,
+        "Percent Change": -0.77,
+        "Volume": 8115.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-18",
+        "Open": 945.0,
+        "High": 950.0,
+        "Low": 910.0,
+        "Close": 928.0,
+        "Percent Change": -1.38,
+        "Volume": 11196.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-16",
+        "Open": 954.6,
+        "High": 969.0,
+        "Low": 935.0,
+        "Close": 941.0,
+        "Percent Change": -3.39,
+        "Volume": 11167.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-13",
+        "Open": 988.0,
+        "High": 989.4,
+        "Low": 945.1,
+        "Close": 974.0,
+        "Percent Change": 0.41,
+        "Volume": 24811.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-12",
+        "Open": 988.0,
+        "High": 1000.0,
+        "Low": 952.0,
+        "Close": 970.0,
+        "Percent Change": 0.1,
+        "Volume": 18644.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-11",
+        "Open": 944.0,
+        "High": 989.0,
+        "Low": 916.0,
+        "Close": 969.0,
+        "Percent Change": 3.75,
+        "Volume": 15051.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-10",
+        "Open": 900.0,
+        "High": 940.0,
+        "Low": 900.0,
+        "Close": 934.0,
+        "Percent Change": 1.75,
+        "Volume": 24352.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-09",
+        "Open": 955.0,
+        "High": 968.0,
+        "Low": 917.9,
+        "Close": 917.9,
+        "Percent Change": -3.38,
+        "Volume": 22581.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-06",
+        "Open": 948.0,
+        "High": 981.2,
+        "Low": 947.0,
+        "Close": 950.0,
+        "Percent Change": -0.82,
+        "Volume": 26754.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-05",
+        "Open": 900.2,
+        "High": 975.0,
+        "Low": 900.0,
+        "Close": 957.9,
+        "Percent Change": 4.71,
+        "Volume": 40417.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-04",
+        "Open": 876.0,
+        "High": 923.5,
+        "Low": 876.0,
+        "Close": 914.8,
+        "Percent Change": 2.79,
+        "Volume": 18466.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-03",
+        "Open": 843.0,
+        "High": 915.0,
+        "Low": 843.0,
+        "Close": 890.0,
+        "Percent Change": 5.58,
+        "Volume": 20469.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-06-02",
+        "Open": 820.0,
+        "High": 853.1,
+        "Low": 804.4,
+        "Close": 843.0,
+        "Percent Change": 2.8,
+        "Volume": 13277.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-30",
+        "Open": 825.0,
+        "High": 843.0,
+        "Low": 812.0,
+        "Close": 820.0,
+        "Percent Change": -1.2,
+        "Volume": 11676.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-29",
+        "Open": 860.3,
+        "High": 893.9,
+        "Low": 830.0,
+        "Close": 830.0,
+        "Percent Change": -3.52,
+        "Volume": 6656.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-27",
+        "Open": 864.0,
+        "High": 882.0,
+        "Low": 833.2,
+        "Close": 860.3,
+        "Percent Change": 1.33,
+        "Volume": 10325.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-26",
+        "Open": 851.1,
+        "High": 865.0,
+        "Low": 831.1,
+        "Close": 849.0,
+        "Percent Change": -1.85,
+        "Volume": 5244.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-22",
+        "Open": 912.0,
+        "High": 912.0,
+        "Low": 865.0,
+        "Close": 865.0,
+        "Percent Change": -3.46,
+        "Volume": 18829.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-21",
+        "Open": 893.0,
+        "High": 928.2,
+        "Low": 882.1,
+        "Close": 896.0,
+        "Percent Change": 0.34,
+        "Volume": 21981.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-20",
+        "Open": 925.0,
+        "High": 942.0,
+        "Low": 885.0,
+        "Close": 893.0,
+        "Percent Change": -3.46,
+        "Volume": 30954.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-19",
+        "Open": 920.0,
+        "High": 930.0,
+        "Low": 894.5,
+        "Close": 925.0,
+        "Percent Change": 0.66,
+        "Volume": 28845.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-16",
+        "Open": 858.9,
+        "High": 931.7,
+        "Low": 850.0,
+        "Close": 918.9,
+        "Percent Change": 8.49,
+        "Volume": 50673.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-15",
+        "Open": 879.0,
+        "High": 896.5,
+        "Low": 842.0,
+        "Close": 847.0,
+        "Percent Change": -1.97,
+        "Volume": 29303.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-14",
+        "Open": 813.5,
+        "High": 875.0,
+        "Low": 813.5,
+        "Close": 864.0,
+        "Percent Change": 4.1,
+        "Volume": 20566.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-13",
+        "Open": 803.0,
+        "High": 830.0,
+        "Low": 803.0,
+        "Close": 830.0,
+        "Percent Change": 1.48,
+        "Volume": 15471.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-12",
+        "Open": 851.0,
+        "High": 851.0,
+        "Low": 811.2,
+        "Close": 817.9,
+        "Percent Change": -2.02,
+        "Volume": 15047.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-09",
+        "Open": 823.0,
+        "High": 839.9,
+        "Low": 803.0,
+        "Close": 834.8,
+        "Percent Change": 1.31,
+        "Volume": 32652.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-08",
+        "Open": 787.0,
+        "High": 825.9,
+        "Low": 762.1,
+        "Close": 824.0,
+        "Percent Change": 6.19,
+        "Volume": 40815.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-07",
+        "Open": 750.0,
+        "High": 800.7,
+        "Low": 750.0,
+        "Close": 776.0,
+        "Percent Change": 3.51,
+        "Volume": 20493.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-06",
+        "Open": 788.0,
+        "High": 788.0,
+        "Low": 745.0,
+        "Close": 749.7,
+        "Percent Change": -3.75,
+        "Volume": 7965.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-05",
+        "Open": 769.0,
+        "High": 816.0,
+        "Low": 764.4,
+        "Close": 778.9,
+        "Percent Change": 3.1,
+        "Volume": 41980.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-05-02",
+        "Open": 737.1,
+        "High": 790.0,
+        "Low": 737.1,
+        "Close": 755.5,
+        "Percent Change": 2.5,
+        "Volume": 21359.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-30",
+        "Open": 719.0,
+        "High": 754.0,
+        "Low": 719.0,
+        "Close": 737.1,
+        "Percent Change": 0.7,
+        "Volume": 14245.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-29",
+        "Open": 715.4,
+        "High": 755.0,
+        "Low": 715.4,
+        "Close": 732.0,
+        "Percent Change": 0.27,
+        "Volume": 10787.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-28",
+        "Open": 690.9,
+        "High": 740.0,
+        "Low": 690.9,
+        "Close": 730.0,
+        "Percent Change": 3.55,
+        "Volume": 21739.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-25",
+        "Open": 687.0,
+        "High": 719.1,
+        "Low": 687.0,
+        "Close": 705.0,
+        "Percent Change": 0.57,
+        "Volume": 8827.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-24",
+        "Open": 681.0,
+        "High": 707.0,
+        "Low": 676.0,
+        "Close": 701.0,
+        "Percent Change": 2.94,
+        "Volume": 10182.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-22",
+        "Open": 687.0,
+        "High": 712.0,
+        "Low": 680.1,
+        "Close": 681.0,
+        "Percent Change": -2.85,
+        "Volume": 6133.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-21",
+        "Open": 680.0,
+        "High": 707.4,
+        "Low": 663.0,
+        "Close": 701.0,
+        "Percent Change": 1.07,
+        "Volume": 6575.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-18",
+        "Open": 665.0,
+        "High": 693.6,
+        "Low": 661.1,
+        "Close": 693.6,
+        "Percent Change": 2.0,
+        "Volume": 7881.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-16",
+        "Open": 700.0,
+        "High": 700.0,
+        "Low": 680.0,
+        "Close": 680.0,
+        "Percent Change": -2.61,
+        "Volume": 4381.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-15",
+        "Open": 694.0,
+        "High": 722.0,
+        "Low": 685.1,
+        "Close": 698.2,
+        "Percent Change": 0.46,
+        "Volume": 20046.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-14",
+        "Open": 650.3,
+        "High": 698.0,
+        "Low": 650.3,
+        "Close": 695.0,
+        "Percent Change": 5.3,
+        "Volume": 14163.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-10",
+        "Open": 672.0,
+        "High": 684.0,
+        "Low": 657.0,
+        "Close": 660.0,
+        "Percent Change": -2.65,
+        "Volume": 10972.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-09",
+        "Open": 690.0,
+        "High": 700.0,
+        "Low": 670.0,
+        "Close": 678.0,
+        "Percent Change": -2.87,
+        "Volume": 13492.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-07",
+        "Open": 712.0,
+        "High": 723.0,
+        "Low": 690.0,
+        "Close": 698.0,
+        "Percent Change": -1.69,
+        "Volume": 27421.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-04",
+        "Open": 672.0,
+        "High": 715.0,
+        "Low": 672.0,
+        "Close": 710.0,
+        "Percent Change": 4.72,
+        "Volume": 38077.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-03",
+        "Open": 680.0,
+        "High": 693.9,
+        "Low": 670.0,
+        "Close": 678.0,
+        "Percent Change": 1.5,
+        "Volume": 19983.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-02",
+        "Open": 631.0,
+        "High": 702.0,
+        "Low": 631.0,
+        "Close": 668.0,
+        "Percent Change": 3.97,
+        "Volume": 21206.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-04-01",
+        "Open": 628.1,
+        "High": 649.0,
+        "Low": 628.1,
+        "Close": 642.5,
+        "Percent Change": 0.39,
+        "Volume": 2894.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-31",
+        "Open": 637.0,
+        "High": 680.0,
+        "Low": 634.0,
+        "Close": 640.0,
+        "Percent Change": -1.52,
+        "Volume": 6466.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-28",
+        "Open": 633.0,
+        "High": 665.0,
+        "Low": 633.0,
+        "Close": 649.9,
+        "Percent Change": 1.2,
+        "Volume": 7507.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-27",
+        "Open": 652.0,
+        "High": 666.0,
+        "Low": 642.0,
+        "Close": 642.2,
+        "Percent Change": -2.7,
+        "Volume": 6890.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-26",
+        "Open": 685.4,
+        "High": 693.0,
+        "Low": 659.0,
+        "Close": 660.0,
+        "Percent Change": -1.79,
+        "Volume": 12516.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-25",
+        "Open": 694.6,
+        "High": 694.6,
+        "Low": 657.1,
+        "Close": 672.0,
+        "Percent Change": -1.32,
+        "Volume": 8570.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-21",
+        "Open": 702.0,
+        "High": 709.0,
+        "Low": 676.2,
+        "Close": 681.0,
+        "Percent Change": -2.99,
+        "Volume": 8221.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-20",
+        "Open": 683.4,
+        "High": 712.0,
+        "Low": 676.0,
+        "Close": 702.0,
+        "Percent Change": 4.78,
+        "Volume": 38322.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-19",
+        "Open": 636.0,
+        "High": 671.2,
+        "Low": 634.5,
+        "Close": 670.0,
+        "Percent Change": 3.91,
+        "Volume": 25010.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-18",
+        "Open": 630.0,
+        "High": 654.0,
+        "Low": 630.0,
+        "Close": 644.8,
+        "Percent Change": 0.75,
+        "Volume": 6703.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-17",
+        "Open": 655.0,
+        "High": 656.8,
+        "Low": 635.0,
+        "Close": 640.0,
+        "Percent Change": -0.62,
+        "Volume": 6679.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-14",
+        "Open": 636.2,
+        "High": 656.0,
+        "Low": 630.0,
+        "Close": 644.0,
+        "Percent Change": -0.77,
+        "Volume": 8334.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-13",
+        "Open": 665.0,
+        "High": 678.0,
+        "Low": 639.0,
+        "Close": 649.0,
+        "Percent Change": -1.82,
+        "Volume": 8388.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-12",
+        "Open": 612.0,
+        "High": 673.0,
+        "Low": 612.0,
+        "Close": 661.0,
+        "Percent Change": 8.01,
+        "Volume": 21509.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-10",
+        "Open": 596.0,
+        "High": 623.0,
+        "Low": 591.0,
+        "Close": 612.0,
+        "Percent Change": 4.24,
+        "Volume": 8232.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-07",
+        "Open": 602.7,
+        "High": 602.7,
+        "Low": 585.2,
+        "Close": 587.1,
+        "Percent Change": -0.66,
+        "Volume": 2212.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-06",
+        "Open": 598.0,
+        "High": 598.0,
+        "Low": 581.0,
+        "Close": 591.0,
+        "Percent Change": 0.17,
+        "Volume": 1535.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-05",
+        "Open": 610.0,
+        "High": 610.0,
+        "Low": 588.0,
+        "Close": 590.0,
+        "Percent Change": -1.93,
+        "Volume": 1441.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-04",
+        "Open": 601.6,
+        "High": 601.6,
+        "Low": 601.6,
+        "Close": 601.6,
+        "Percent Change": 1.98,
+        "Volume": 10.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-03-03",
+        "Open": 580.0,
+        "High": 591.0,
+        "Low": 580.0,
+        "Close": 589.9,
+        "Percent Change": 0.15,
+        "Volume": 890.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-29",
+        "Open": 590.0,
+        "High": 600.0,
+        "Low": 584.0,
+        "Close": 589.0,
+        "Percent Change": -1.01,
+        "Volume": 2858.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-28",
+        "Open": 590.0,
+        "High": 601.5,
+        "Low": 590.0,
+        "Close": 595.0,
+        "Percent Change": 0.85,
+        "Volume": 2399.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-27",
+        "Open": 598.0,
+        "High": 601.0,
+        "Low": 590.0,
+        "Close": 590.0,
+        "Percent Change": -0.51,
+        "Volume": 4080.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-26",
+        "Open": 586.0,
+        "High": 602.0,
+        "Low": 582.0,
+        "Close": 593.0,
+        "Percent Change": 0.42,
+        "Volume": 1163.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-25",
+        "Open": 592.0,
+        "High": 604.0,
+        "Low": 590.0,
+        "Close": 590.5,
+        "Percent Change": -1.25,
+        "Volume": 3677.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-22",
+        "Open": 599.1,
+        "High": 604.0,
+        "Low": 595.0,
+        "Close": 598.0,
+        "Percent Change": -1.79,
+        "Volume": 8228.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-21",
+        "Open": 609.0,
+        "High": 610.0,
+        "Low": 599.5,
+        "Close": 608.9,
+        "Percent Change": -0.02,
+        "Volume": 3814.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-20",
+        "Open": 590.0,
+        "High": 610.0,
+        "Low": 590.0,
+        "Close": 609.0,
+        "Percent Change": 1.5,
+        "Volume": 5591.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-18",
+        "Open": 590.0,
+        "High": 607.0,
+        "Low": 588.0,
+        "Close": 600.0,
+        "Percent Change": 0.33,
+        "Volume": 3346.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-15",
+        "Open": 616.0,
+        "High": 616.0,
+        "Low": 597.0,
+        "Close": 598.0,
+        "Percent Change": -0.99,
+        "Volume": 2669.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-14",
+        "Open": 594.0,
+        "High": 625.0,
+        "Low": 594.0,
+        "Close": 604.0,
+        "Percent Change": 0.0,
+        "Volume": 1661.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-13",
+        "Open": 615.0,
+        "High": 615.0,
+        "Low": 589.0,
+        "Close": 604.0,
+        "Percent Change": -1.31,
+        "Volume": 3399.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-12",
+        "Open": 605.0,
+        "High": 614.0,
+        "Low": 605.0,
+        "Close": 612.0,
+        "Percent Change": 0.33,
+        "Volume": 1982.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-11",
+        "Open": 616.0,
+        "High": 616.0,
+        "Low": 605.0,
+        "Close": 610.0,
+        "Percent Change": 0.66,
+        "Volume": 1516.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-08",
+        "Open": 614.0,
+        "High": 614.0,
+        "Low": 602.0,
+        "Close": 606.0,
+        "Percent Change": 0.17,
+        "Volume": 2038.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-07",
+        "Open": 617.1,
+        "High": 617.1,
+        "Low": 600.1,
+        "Close": 605.0,
+        "Percent Change": 0.0,
+        "Volume": 1758.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-06",
+        "Open": 589.0,
+        "High": 605.0,
+        "Low": 589.0,
+        "Close": 605.0,
+        "Percent Change": 1.49,
+        "Volume": 1873.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-05",
+        "Open": 597.0,
+        "High": 604.0,
+        "Low": 595.0,
+        "Close": 596.1,
+        "Percent Change": -0.23,
+        "Volume": 1700.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-04",
+        "Open": 593.0,
+        "High": 610.0,
+        "Low": 593.0,
+        "Close": 597.5,
+        "Percent Change": -1.08,
+        "Volume": 1780.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-02-01",
+        "Open": 598.3,
+        "High": 610.0,
+        "Low": 595.0,
+        "Close": 604.0,
+        "Percent Change": -0.33,
+        "Volume": 3561.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-31",
+        "Open": 612.0,
+        "High": 616.0,
+        "Low": 604.0,
+        "Close": 606.0,
+        "Percent Change": -1.3,
+        "Volume": 3325.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-30",
+        "Open": 611.0,
+        "High": 627.3,
+        "Low": 611.0,
+        "Close": 614.0,
+        "Percent Change": -1.29,
+        "Volume": 2874.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-29",
+        "Open": 625.0,
+        "High": 629.3,
+        "Low": 611.2,
+        "Close": 622.0,
+        "Percent Change": 0.79,
+        "Volume": 2214.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-28",
+        "Open": 611.0,
+        "High": 630.0,
+        "Low": 611.0,
+        "Close": 617.1,
+        "Percent Change": -0.15,
+        "Volume": 2046.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-25",
+        "Open": 630.0,
+        "High": 630.0,
+        "Low": 608.1,
+        "Close": 618.0,
+        "Percent Change": 0.0,
+        "Volume": 2224.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-24",
+        "Open": 616.0,
+        "High": 635.0,
+        "Low": 610.0,
+        "Close": 618.0,
+        "Percent Change": -1.12,
+        "Volume": 3248.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-23",
+        "Open": 632.4,
+        "High": 632.4,
+        "Low": 616.0,
+        "Close": 625.0,
+        "Percent Change": 0.81,
+        "Volume": 4672.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-22",
+        "Open": 639.0,
+        "High": 639.0,
+        "Low": 615.0,
+        "Close": 620.0,
+        "Percent Change": -1.12,
+        "Volume": 5004.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-21",
+        "Open": 625.0,
+        "High": 645.0,
+        "Low": 624.0,
+        "Close": 627.0,
+        "Percent Change": -1.26,
+        "Volume": 4970.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-18",
+        "Open": 644.0,
+        "High": 644.0,
+        "Low": 620.5,
+        "Close": 635.0,
+        "Percent Change": -1.4,
+        "Volume": 9333.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-17",
+        "Open": 660.0,
+        "High": 671.0,
+        "Low": 643.0,
+        "Close": 644.0,
+        "Percent Change": -2.13,
+        "Volume": 11940.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-16",
+        "Open": 635.0,
+        "High": 658.0,
+        "Low": 635.0,
+        "Close": 658.0,
+        "Percent Change": 5.6,
+        "Volume": 14570.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-14",
+        "Open": 615.0,
+        "High": 628.0,
+        "Low": 610.0,
+        "Close": 623.1,
+        "Percent Change": 2.15,
+        "Volume": 6332.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-11",
+        "Open": 620.0,
+        "High": 624.0,
+        "Low": 593.0,
+        "Close": 610.0,
+        "Percent Change": -0.81,
+        "Volume": 5164.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-10",
+        "Open": 599.0,
+        "High": 623.0,
+        "Low": 599.0,
+        "Close": 615.0,
+        "Percent Change": 2.59,
+        "Volume": 7999.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-09",
+        "Open": 610.9,
+        "High": 619.4,
+        "Low": 596.0,
+        "Close": 599.5,
+        "Percent Change": 0.08,
+        "Volume": 2768.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-08",
+        "Open": 574.5,
+        "High": 599.0,
+        "Low": 574.5,
+        "Close": 599.0,
+        "Percent Change": 2.18,
+        "Volume": 3209.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-07",
+        "Open": 591.0,
+        "High": 599.0,
+        "Low": 585.0,
+        "Close": 586.2,
+        "Percent Change": -0.68,
+        "Volume": 2209.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-04",
+        "Open": 596.0,
+        "High": 604.0,
+        "Low": 589.0,
+        "Close": 590.2,
+        "Percent Change": -1.14,
+        "Volume": 1998.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-03",
+        "Open": 580.1,
+        "High": 620.0,
+        "Low": 580.1,
+        "Close": 597.0,
+        "Percent Change": 0.93,
+        "Volume": 1850.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-02",
+        "Open": 600.0,
+        "High": 602.0,
+        "Low": 591.2,
+        "Close": 591.5,
+        "Percent Change": -2.23,
+        "Volume": 2680.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2024-01-01",
+        "Open": 603.2,
+        "High": 614.9,
+        "Low": 603.0,
+        "Close": 605.0,
+        "Percent Change": 0.33,
+        "Volume": 3458.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-28",
+        "Open": 591.0,
+        "High": 610.0,
+        "Low": 591.0,
+        "Close": 603.0,
+        "Percent Change": 0.17,
+        "Volume": 4721.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-27",
+        "Open": 613.0,
+        "High": 615.0,
+        "Low": 600.0,
+        "Close": 602.0,
+        "Percent Change": -1.79,
+        "Volume": 2859.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-24",
+        "Open": 608.1,
+        "High": 631.0,
+        "Low": 608.1,
+        "Close": 613.0,
+        "Percent Change": -0.97,
+        "Volume": 4056.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-21",
+        "Open": 621.0,
+        "High": 643.6,
+        "Low": 616.0,
+        "Close": 619.0,
+        "Percent Change": -1.9,
+        "Volume": 8454.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-20",
+        "Open": 640.0,
+        "High": 648.0,
+        "Low": 617.3,
+        "Close": 631.0,
+        "Percent Change": -1.87,
+        "Volume": 9840.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-19",
+        "Open": 649.0,
+        "High": 649.0,
+        "Low": 627.2,
+        "Close": 643.0,
+        "Percent Change": 0.63,
+        "Volume": 2425.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-18",
+        "Open": 624.2,
+        "High": 648.0,
+        "Low": 612.0,
+        "Close": 639.0,
+        "Percent Change": 4.41,
+        "Volume": 13637.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-17",
+        "Open": 592.5,
+        "High": 615.0,
+        "Low": 592.0,
+        "Close": 612.0,
+        "Percent Change": 1.41,
+        "Volume": 2921.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-14",
+        "Open": 597.8,
+        "High": 609.7,
+        "Low": 597.0,
+        "Close": 603.5,
+        "Percent Change": -1.07,
+        "Volume": 2155.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-13",
+        "Open": 623.0,
+        "High": 623.0,
+        "Low": 603.1,
+        "Close": 610.0,
+        "Percent Change": -0.16,
+        "Volume": 4530.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-12",
+        "Open": 592.9,
+        "High": 629.0,
+        "Low": 581.1,
+        "Close": 611.0,
+        "Percent Change": 0.99,
+        "Volume": 4441.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-11",
+        "Open": 622.2,
+        "High": 622.2,
+        "Low": 600.0,
+        "Close": 605.0,
+        "Percent Change": -0.82,
+        "Volume": 4682.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-10",
+        "Open": 601.8,
+        "High": 613.8,
+        "Low": 601.8,
+        "Close": 610.0,
+        "Percent Change": 3.39,
+        "Volume": 40.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-07",
+        "Open": 586.0,
+        "High": 604.0,
+        "Low": 584.0,
+        "Close": 590.0,
+        "Percent Change": -1.14,
+        "Volume": 1485.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-06",
+        "Open": 590.0,
+        "High": 600.0,
+        "Low": 579.2,
+        "Close": 596.8,
+        "Percent Change": -0.53,
+        "Volume": 660.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-05",
+        "Open": 580.0,
+        "High": 635.0,
+        "Low": 580.0,
+        "Close": 600.0,
+        "Percent Change": 1.52,
+        "Volume": 1399.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-04",
+        "Open": 597.8,
+        "High": 600.0,
+        "Low": 586.3,
+        "Close": 591.0,
+        "Percent Change": -3.1,
+        "Volume": 1308.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-12-03",
+        "Open": 594.9,
+        "High": 609.9,
+        "Low": 580.0,
+        "Close": 609.9,
+        "Percent Change": 0.48,
+        "Volume": 1648.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-30",
+        "Open": 622.3,
+        "High": 622.3,
+        "Low": 595.0,
+        "Close": 607.0,
+        "Percent Change": -4.41,
+        "Volume": 4440.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-29",
+        "Open": 683.0,
+        "High": 669.4,
+        "Low": 614.7,
+        "Close": 635.0,
+        "Percent Change": -7.03,
+        "Volume": 7794.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-28",
+        "Open": 620.8,
+        "High": 683.0,
+        "Low": 593.0,
+        "Close": 683.0,
+        "Percent Change": 7.83,
+        "Volume": 4630.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-27",
+        "Open": 576.3,
+        "High": 633.4,
+        "Low": 566.6,
+        "Close": 633.4,
+        "Percent Change": 7.72,
+        "Volume": 2631.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-26",
+        "Open": 565.0,
+        "High": 595.6,
+        "Low": 555.5,
+        "Close": 588.0,
+        "Percent Change": 2.62,
+        "Volume": 2002.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-23",
+        "Open": 560.0,
+        "High": 600.0,
+        "Low": 555.0,
+        "Close": 573.0,
+        "Percent Change": 2.32,
+        "Volume": 2270.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-22",
+        "Open": 559.0,
+        "High": 572.0,
+        "Low": 550.0,
+        "Close": 560.0,
+        "Percent Change": -1.75,
+        "Volume": 600.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-21",
+        "Open": 574.0,
+        "High": 590.0,
+        "Low": 555.0,
+        "Close": 570.0,
+        "Percent Change": -2.56,
+        "Volume": 1330.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-20",
+        "Open": 577.2,
+        "High": 585.0,
+        "Low": 577.2,
+        "Close": 585.0,
+        "Percent Change": 1.74,
+        "Volume": 1380.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-09",
+        "Open": 576.0,
+        "High": 582.0,
+        "Low": 575.0,
+        "Close": 575.0,
+        "Percent Change": -0.86,
+        "Volume": 1526.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-08",
+        "Open": 579.0,
+        "High": 585.0,
+        "Low": 570.0,
+        "Close": 580.0,
+        "Percent Change": 0.0,
+        "Volume": 1415.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-07",
+        "Open": 575.0,
+        "High": 587.5,
+        "Low": 573.1,
+        "Close": 580.0,
+        "Percent Change": 0.69,
+        "Volume": 375.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-06",
+        "Open": 572.0,
+        "High": 586.5,
+        "Low": 572.0,
+        "Close": 576.0,
+        "Percent Change": 0.16,
+        "Volume": 1836.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-05",
+        "Open": 570.1,
+        "High": 580.0,
+        "Low": 570.1,
+        "Close": 575.1,
+        "Percent Change": -0.84,
+        "Volume": 600.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-02",
+        "Open": 575.0,
+        "High": 580.0,
+        "Low": 572.5,
+        "Close": 580.0,
+        "Percent Change": 0.35,
+        "Volume": 2264.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-11-01",
+        "Open": 576.0,
+        "High": 586.0,
+        "Low": 576.0,
+        "Close": 578.0,
+        "Percent Change": -0.34,
+        "Volume": 430.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-31",
+        "Open": 600.0,
+        "High": 600.0,
+        "Low": 580.0,
+        "Close": 580.0,
+        "Percent Change": -1.86,
+        "Volume": 1645.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-30",
+        "Open": 580.1,
+        "High": 595.0,
+        "Low": 580.1,
+        "Close": 591.0,
+        "Percent Change": 0.17,
+        "Volume": 710.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-29",
+        "Open": 600.0,
+        "High": 600.0,
+        "Low": 588.0,
+        "Close": 590.0,
+        "Percent Change": -1.67,
+        "Volume": 1667.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-19",
+        "Open": 603.0,
+        "High": 608.0,
+        "Low": 594.0,
+        "Close": 600.0,
+        "Percent Change": -1.64,
+        "Volume": 712.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-18",
+        "Open": 595.0,
+        "High": 620.0,
+        "Low": 591.0,
+        "Close": 610.0,
+        "Percent Change": 3.74,
+        "Volume": 1265.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-17",
+        "Open": 593.1,
+        "High": 601.0,
+        "Low": 588.0,
+        "Close": 588.0,
+        "Percent Change": 1.12,
+        "Volume": 1315.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-16",
+        "Open": 591.0,
+        "High": 599.0,
+        "Low": 581.5,
+        "Close": 581.5,
+        "Percent Change": -3.08,
+        "Volume": 1190.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-12",
+        "Open": 602.5,
+        "High": 614.0,
+        "Low": 600.0,
+        "Close": 600.0,
+        "Percent Change": -1.17,
+        "Volume": 3910.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-11",
+        "Open": 620.1,
+        "High": 620.1,
+        "Low": 605.1,
+        "Close": 607.1,
+        "Percent Change": -0.15,
+        "Volume": 630.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-10",
+        "Open": 610.8,
+        "High": 612.1,
+        "Low": 600.0,
+        "Close": 608.0,
+        "Percent Change": -0.46,
+        "Volume": 1834.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-09",
+        "Open": 615.0,
+        "High": 618.0,
+        "Low": 610.2,
+        "Close": 610.8,
+        "Percent Change": -1.47,
+        "Volume": 1686.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-08",
+        "Open": 613.5,
+        "High": 625.0,
+        "Low": 613.5,
+        "Close": 619.9,
+        "Percent Change": -0.18,
+        "Volume": 1836.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-05",
+        "Open": 616.3,
+        "High": 628.6,
+        "Low": 616.3,
+        "Close": 621.0,
+        "Percent Change": -1.13,
+        "Volume": 1638.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-04",
+        "Open": 614.0,
+        "High": 635.0,
+        "Low": 614.0,
+        "Close": 628.1,
+        "Percent Change": 0.96,
+        "Volume": 1030.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-03",
+        "Open": 621.6,
+        "High": 635.0,
+        "Low": 621.6,
+        "Close": 622.1,
+        "Percent Change": -1.88,
+        "Volume": 2082.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-02",
+        "Open": 622.0,
+        "High": 642.0,
+        "Low": 622.0,
+        "Close": 634.0,
+        "Percent Change": 0.48,
+        "Volume": 1940.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-10-01",
+        "Open": 638.0,
+        "High": 640.0,
+        "Low": 628.1,
+        "Close": 631.0,
+        "Percent Change": -2.92,
+        "Volume": 2741.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-27",
+        "Open": 661.5,
+        "High": 666.2,
+        "Low": 640.2,
+        "Close": 650.0,
+        "Percent Change": -3.6,
+        "Volume": 7750.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-26",
+        "Open": 670.0,
+        "High": 680.0,
+        "Low": 660.0,
+        "Close": 674.3,
+        "Percent Change": 0.19,
+        "Volume": 4319.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-25",
+        "Open": 677.0,
+        "High": 690.0,
+        "Low": 655.0,
+        "Close": 673.0,
+        "Percent Change": -2.45,
+        "Volume": 4292.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-24",
+        "Open": 686.0,
+        "High": 742.0,
+        "Low": 666.0,
+        "Close": 689.9,
+        "Percent Change": -1.44,
+        "Volume": 6277.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-21",
+        "Open": 714.5,
+        "High": 714.5,
+        "Low": 677.0,
+        "Close": 700.0,
+        "Percent Change": -3.98,
+        "Volume": 14912.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-19",
+        "Open": 650.8,
+        "High": 729.0,
+        "Low": 641.0,
+        "Close": 729.0,
+        "Percent Change": 9.79,
+        "Volume": 4128.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-18",
+        "Open": 639.8,
+        "High": 700.0,
+        "Low": 635.2,
+        "Close": 664.0,
+        "Percent Change": 1.72,
+        "Volume": 3823.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-17",
+        "Open": 657.6,
+        "High": 723.0,
+        "Low": 634.1,
+        "Close": 652.8,
+        "Percent Change": -2.71,
+        "Volume": 5719.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-13",
+        "Open": 641.9,
+        "High": 680.0,
+        "Low": 640.1,
+        "Close": 671.0,
+        "Percent Change": 2.44,
+        "Volume": 2990.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-12",
+        "Open": 626.2,
+        "High": 689.5,
+        "Low": 626.2,
+        "Close": 655.0,
+        "Percent Change": 2.52,
+        "Volume": 5574.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-11",
+        "Open": 608.6,
+        "High": 642.0,
+        "Low": 608.6,
+        "Close": 638.9,
+        "Percent Change": 2.88,
+        "Volume": 1996.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-10",
+        "Open": 603.1,
+        "High": 625.0,
+        "Low": 603.1,
+        "Close": 621.0,
+        "Percent Change": 0.98,
+        "Volume": 1330.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-07",
+        "Open": 603.0,
+        "High": 617.0,
+        "Low": 603.0,
+        "Close": 615.0,
+        "Percent Change": -0.02,
+        "Volume": 1923.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-05",
+        "Open": 611.6,
+        "High": 628.9,
+        "Low": 611.6,
+        "Close": 615.1,
+        "Percent Change": -1.43,
+        "Volume": 1550.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-04",
+        "Open": 615.0,
+        "High": 632.2,
+        "Low": 607.6,
+        "Close": 624.0,
+        "Percent Change": 0.66,
+        "Volume": 2000.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-09-03",
+        "Open": 615.0,
+        "High": 619.9,
+        "Low": 606.3,
+        "Close": 619.9,
+        "Percent Change": -0.66,
+        "Volume": 3920.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-30",
+        "Open": 617.4,
+        "High": 630.0,
+        "Low": 610.0,
+        "Close": 624.0,
+        "Percent Change": -0.92,
+        "Volume": 790.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-29",
+        "Open": 623.2,
+        "High": 639.9,
+        "Low": 601.0,
+        "Close": 629.8,
+        "Percent Change": 3.08,
+        "Volume": 5190.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-28",
+        "Open": 612.0,
+        "High": 620.0,
+        "Low": 602.0,
+        "Close": 611.0,
+        "Percent Change": 0.33,
+        "Volume": 2458.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-27",
+        "Open": 610.1,
+        "High": 622.0,
+        "Low": 606.0,
+        "Close": 609.0,
+        "Percent Change": -2.09,
+        "Volume": 1655.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-24",
+        "Open": 621.1,
+        "High": 637.0,
+        "Low": 621.0,
+        "Close": 622.0,
+        "Percent Change": -1.74,
+        "Volume": 1802.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-23",
+        "Open": 616.1,
+        "High": 638.0,
+        "Low": 616.1,
+        "Close": 633.0,
+        "Percent Change": 1.12,
+        "Volume": 1561.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-22",
+        "Open": 615.1,
+        "High": 635.0,
+        "Low": 615.1,
+        "Close": 626.0,
+        "Percent Change": 0.16,
+        "Volume": 1340.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-21",
+        "Open": 665.0,
+        "High": 665.0,
+        "Low": 625.0,
+        "Close": 625.0,
+        "Percent Change": -4.14,
+        "Volume": 3731.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-20",
+        "Open": 670.0,
+        "High": 683.4,
+        "Low": 652.0,
+        "Close": 652.0,
+        "Percent Change": -3.42,
+        "Volume": 2206.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-17",
+        "Open": 666.4,
+        "High": 691.0,
+        "Low": 666.4,
+        "Close": 675.1,
+        "Percent Change": -0.72,
+        "Volume": 1620.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-16",
+        "Open": 672.1,
+        "High": 685.0,
+        "Low": 672.0,
+        "Close": 680.0,
+        "Percent Change": -0.15,
+        "Volume": 1410.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-15",
+        "Open": 694.0,
+        "High": 709.0,
+        "Low": 678.0,
+        "Close": 681.0,
+        "Percent Change": -3.81,
+        "Volume": 6294.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-14",
+        "Open": 710.0,
+        "High": 730.0,
+        "Low": 696.0,
+        "Close": 708.0,
+        "Percent Change": -2.21,
+        "Volume": 8258.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-13",
+        "Open": 764.4,
+        "High": 764.4,
+        "Low": 702.0,
+        "Close": 724.0,
+        "Percent Change": -7.18,
+        "Volume": 8685.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-10",
+        "Open": 700.7,
+        "High": 780.0,
+        "Low": 690.0,
+        "Close": 780.0,
+        "Percent Change": 9.09,
+        "Volume": 4847.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-09",
+        "Open": 703.0,
+        "High": 715.0,
+        "Low": 675.3,
+        "Close": 715.0,
+        "Percent Change": 1.71,
+        "Volume": 9637.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-08",
+        "Open": 705.6,
+        "High": 719.0,
+        "Low": 695.0,
+        "Close": 703.0,
+        "Percent Change": -2.36,
+        "Volume": 1397.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-07",
+        "Open": 705.0,
+        "High": 728.0,
+        "Low": 701.0,
+        "Close": 720.0,
+        "Percent Change": 0.13,
+        "Volume": 2806.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-06",
+        "Open": 767.0,
+        "High": 767.0,
+        "Low": 703.8,
+        "Close": 719.1,
+        "Percent Change": -8.04,
+        "Volume": 15453.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-03",
+        "Open": 714.8,
+        "High": 782.0,
+        "Low": 714.0,
+        "Close": 782.0,
+        "Percent Change": 7.23,
+        "Volume": 5597.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-02",
+        "Open": 730.0,
+        "High": 734.4,
+        "Low": 703.1,
+        "Close": 729.3,
+        "Percent Change": -1.98,
+        "Volume": 1290.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-08-01",
+        "Open": 724.4,
+        "High": 797.0,
+        "Low": 700.0,
+        "Close": 744.0,
+        "Percent Change": 0.68,
+        "Volume": 13481.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-31",
+        "Open": 725.2,
+        "High": 746.0,
+        "Low": 724.0,
+        "Close": 739.0,
+        "Percent Change": -0.14,
+        "Volume": 11338.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-30",
+        "Open": 807.8,
+        "High": 807.8,
+        "Low": 724.0,
+        "Close": 740.0,
+        "Percent Change": -6.57,
+        "Volume": 13459.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-27",
+        "Open": 735.0,
+        "High": 792.0,
+        "Low": 725.0,
+        "Close": 792.0,
+        "Percent Change": 5.61,
+        "Volume": 17197.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-26",
+        "Open": 738.8,
+        "High": 767.9,
+        "Low": 730.0,
+        "Close": 749.9,
+        "Percent Change": -0.52,
+        "Volume": 3369.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-25",
+        "Open": 801.1,
+        "High": 801.1,
+        "Low": 733.0,
+        "Close": 753.8,
+        "Percent Change": -4.02,
+        "Volume": 14754.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-24",
+        "Open": 770.0,
+        "High": 785.4,
+        "Low": 726.0,
+        "Close": 785.4,
+        "Percent Change": 3.34,
+        "Volume": 11811.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-23",
+        "Open": 761.5,
+        "High": 769.0,
+        "Low": 732.1,
+        "Close": 760.0,
+        "Percent Change": -2.19,
+        "Volume": 16621.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-20",
+        "Open": 717.4,
+        "High": 777.0,
+        "Low": 717.4,
+        "Close": 777.0,
+        "Percent Change": 6.15,
+        "Volume": 7940.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-19",
+        "Open": 738.0,
+        "High": 782.3,
+        "Low": 709.0,
+        "Close": 732.0,
+        "Percent Change": -2.79,
+        "Volume": 10146.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-18",
+        "Open": 783.0,
+        "High": 783.0,
+        "Low": 711.0,
+        "Close": 753.0,
+        "Percent Change": -1.95,
+        "Volume": 17553.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-17",
+        "Open": 712.9,
+        "High": 768.0,
+        "Low": 687.0,
+        "Close": 768.0,
+        "Percent Change": 9.87,
+        "Volume": 22269.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-16",
+        "Open": 702.0,
+        "High": 704.1,
+        "Low": 688.2,
+        "Close": 699.0,
+        "Percent Change": -2.37,
+        "Volume": 2800.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-13",
+        "Open": 713.5,
+        "High": 756.0,
+        "Low": 713.0,
+        "Close": 716.0,
+        "Percent Change": -1.65,
+        "Volume": 9568.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-12",
+        "Open": 676.0,
+        "High": 728.0,
+        "Low": 676.0,
+        "Close": 728.0,
+        "Percent Change": 6.05,
+        "Volume": 16451.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-11",
+        "Open": 670.7,
+        "High": 690.6,
+        "Low": 665.0,
+        "Close": 686.5,
+        "Percent Change": 0.37,
+        "Volume": 3756.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-10",
+        "Open": 695.0,
+        "High": 697.0,
+        "Low": 667.1,
+        "Close": 684.0,
+        "Percent Change": -0.39,
+        "Volume": 4938.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-09",
+        "Open": 667.0,
+        "High": 689.0,
+        "Low": 642.0,
+        "Close": 686.7,
+        "Percent Change": 4.84,
+        "Volume": 4967.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-06",
+        "Open": 660.0,
+        "High": 660.0,
+        "Low": 640.0,
+        "Close": 655.0,
+        "Percent Change": -0.76,
+        "Volume": 7165.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-05",
+        "Open": 655.7,
+        "High": 680.0,
+        "Low": 647.0,
+        "Close": 660.0,
+        "Percent Change": -1.35,
+        "Volume": 1652.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-04",
+        "Open": 674.0,
+        "High": 701.0,
+        "Low": 653.0,
+        "Close": 669.0,
+        "Percent Change": 0.92,
+        "Volume": 2282.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-03",
+        "Open": 647.0,
+        "High": 673.0,
+        "Low": 647.0,
+        "Close": 662.9,
+        "Percent Change": 2.46,
+        "Volume": 5042.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-07-02",
+        "Open": 685.0,
+        "High": 685.0,
+        "Low": 647.0,
+        "Close": 647.0,
+        "Percent Change": -5.97,
+        "Volume": 5403.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-28",
+        "Open": 720.0,
+        "High": 720.0,
+        "Low": 688.0,
+        "Close": 688.1,
+        "Percent Change": -4.83,
+        "Volume": 7371.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-27",
+        "Open": 673.0,
+        "High": 725.0,
+        "Low": 671.0,
+        "Close": 723.0,
+        "Percent Change": 7.43,
+        "Volume": 13763.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-26",
+        "Open": 656.0,
+        "High": 680.0,
+        "Low": 654.8,
+        "Close": 673.0,
+        "Percent Change": 2.75,
+        "Volume": 9402.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-25",
+        "Open": 630.0,
+        "High": 655.0,
+        "Low": 630.0,
+        "Close": 655.0,
+        "Percent Change": 2.17,
+        "Volume": 4795.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-22",
+        "Open": 639.0,
+        "High": 663.0,
+        "Low": 639.0,
+        "Close": 641.1,
+        "Percent Change": -1.37,
+        "Volume": 1806.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-21",
+        "Open": 668.0,
+        "High": 675.0,
+        "Low": 643.0,
+        "Close": 650.0,
+        "Percent Change": -2.84,
+        "Volume": 6280.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-20",
+        "Open": 674.0,
+        "High": 705.0,
+        "Low": 669.0,
+        "Close": 669.0,
+        "Percent Change": -2.48,
+        "Volume": 3749.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-19",
+        "Open": 743.5,
+        "High": 743.5,
+        "Low": 686.0,
+        "Close": 686.0,
+        "Percent Change": -5.9,
+        "Volume": 9231.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-18",
+        "Open": 744.8,
+        "High": 744.8,
+        "Low": 691.0,
+        "Close": 729.0,
+        "Percent Change": -4.08,
+        "Volume": 19782.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-15",
+        "Open": 682.2,
+        "High": 760.0,
+        "Low": 661.6,
+        "Close": 760.0,
+        "Percent Change": 9.2,
+        "Volume": 8179.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-14",
+        "Open": 691.0,
+        "High": 746.0,
+        "Low": 659.6,
+        "Close": 696.0,
+        "Percent Change": 1.9,
+        "Volume": 9664.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-13",
+        "Open": 706.0,
+        "High": 706.0,
+        "Low": 642.1,
+        "Close": 683.0,
+        "Percent Change": -1.44,
+        "Volume": 9885.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-12",
+        "Open": 640.0,
+        "High": 693.0,
+        "Low": 618.0,
+        "Close": 693.0,
+        "Percent Change": 10.0,
+        "Volume": 9849.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-11",
+        "Open": 636.0,
+        "High": 636.0,
+        "Low": 606.0,
+        "Close": 630.0,
+        "Percent Change": 0.32,
+        "Volume": 5345.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-08",
+        "Open": 647.1,
+        "High": 647.1,
+        "Low": 609.6,
+        "Close": 628.0,
+        "Percent Change": -1.02,
+        "Volume": 5683.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-07",
+        "Open": 639.0,
+        "High": 639.0,
+        "Low": 611.4,
+        "Close": 634.5,
+        "Percent Change": -0.3,
+        "Volume": 9049.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-06",
+        "Open": 612.0,
+        "High": 636.4,
+        "Low": 589.0,
+        "Close": 636.4,
+        "Percent Change": 6.07,
+        "Volume": 7036.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-05",
+        "Open": 600.0,
+        "High": 636.6,
+        "Low": 592.0,
+        "Close": 600.0,
+        "Percent Change": -1.96,
+        "Volume": 4255.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-04",
+        "Open": 609.0,
+        "High": 635.0,
+        "Low": 587.0,
+        "Close": 612.0,
+        "Percent Change": 2.17,
+        "Volume": 2181.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-06-01",
+        "Open": 581.0,
+        "High": 599.0,
+        "Low": 570.4,
+        "Close": 599.0,
+        "Percent Change": 1.18,
+        "Volume": 944.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-31",
+        "Open": 589.9,
+        "High": 599.0,
+        "Low": 575.1,
+        "Close": 592.0,
+        "Percent Change": -1.64,
+        "Volume": 2047.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-30",
+        "Open": 598.8,
+        "High": 610.0,
+        "Low": 580.1,
+        "Close": 601.9,
+        "Percent Change": -1.49,
+        "Volume": 7626.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-28",
+        "Open": 615.0,
+        "High": 627.0,
+        "Low": 598.0,
+        "Close": 611.0,
+        "Percent Change": -0.65,
+        "Volume": 5703.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-24",
+        "Open": 607.0,
+        "High": 619.0,
+        "Low": 595.1,
+        "Close": 615.0,
+        "Percent Change": 1.32,
+        "Volume": 2829.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-23",
+        "Open": 593.9,
+        "High": 607.0,
+        "Low": 584.1,
+        "Close": 607.0,
+        "Percent Change": 3.41,
+        "Volume": 5694.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-22",
+        "Open": 571.4,
+        "High": 590.0,
+        "Low": 565.5,
+        "Close": 587.0,
+        "Percent Change": 0.69,
+        "Volume": 1385.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-21",
+        "Open": 572.1,
+        "High": 600.0,
+        "Low": 570.0,
+        "Close": 583.0,
+        "Percent Change": 0.0,
+        "Volume": 3495.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-18",
+        "Open": 594.6,
+        "High": 605.0,
+        "Low": 565.5,
+        "Close": 583.0,
+        "Percent Change": 0.0,
+        "Volume": 2760.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-17",
+        "Open": 570.0,
+        "High": 587.5,
+        "Low": 568.5,
+        "Close": 583.0,
+        "Percent Change": 0.52,
+        "Volume": 1645.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-16",
+        "Open": 565.0,
+        "High": 583.0,
+        "Low": 553.9,
+        "Close": 580.0,
+        "Percent Change": 1.06,
+        "Volume": 1005.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-15",
+        "Open": 553.0,
+        "High": 575.0,
+        "Low": 549.0,
+        "Close": 573.9,
+        "Percent Change": 0.02,
+        "Volume": 1205.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-14",
+        "Open": 560.7,
+        "High": 570.0,
+        "Low": 551.8,
+        "Close": 563.0,
+        "Percent Change": -1.57,
+        "Volume": 605.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-11",
+        "Open": 564.5,
+        "High": 572.0,
+        "Low": 563.6,
+        "Close": 572.0,
+        "Percent Change": -0.52,
+        "Volume": 2494.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-10",
+        "Open": 591.6,
+        "High": 603.0,
+        "Low": 567.7,
+        "Close": 575.0,
+        "Percent Change": -0.86,
+        "Volume": 890.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-09",
+        "Open": 572.5,
+        "High": 584.0,
+        "Low": 565.5,
+        "Close": 580.0,
+        "Percent Change": -0.51,
+        "Volume": 1015.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-08",
+        "Open": 578.2,
+        "High": 584.0,
+        "Low": 560.0,
+        "Close": 583.0,
+        "Percent Change": -1.19,
+        "Volume": 1760.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-07",
+        "Open": 594.0,
+        "High": 601.7,
+        "Low": 571.0,
+        "Close": 590.0,
+        "Percent Change": -2.48,
+        "Volume": 1740.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-04",
+        "Open": 578.1,
+        "High": 605.0,
+        "Low": 578.0,
+        "Close": 605.0,
+        "Percent Change": 2.89,
+        "Volume": 3201.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-03",
+        "Open": 580.0,
+        "High": 588.0,
+        "Low": 578.3,
+        "Close": 588.0,
+        "Percent Change": -0.34,
+        "Volume": 1900.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-05-02",
+        "Open": 582.5,
+        "High": 590.0,
+        "Low": 581.0,
+        "Close": 590.0,
+        "Percent Change": -0.72,
+        "Volume": 940.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-30",
+        "Open": 581.2,
+        "High": 594.3,
+        "Low": 581.2,
+        "Close": 594.3,
+        "Percent Change": 0.22,
+        "Volume": 1308.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-27",
+        "Open": 580.0,
+        "High": 594.9,
+        "Low": 580.0,
+        "Close": 593.0,
+        "Percent Change": 0.47,
+        "Volume": 1065.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-26",
+        "Open": 591.0,
+        "High": 595.0,
+        "Low": 590.1,
+        "Close": 590.2,
+        "Percent Change": -1.63,
+        "Volume": 610.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-25",
+        "Open": 585.0,
+        "High": 606.0,
+        "Low": 585.0,
+        "Close": 600.0,
+        "Percent Change": 0.84,
+        "Volume": 1073.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-24",
+        "Open": 580.1,
+        "High": 597.0,
+        "Low": 580.1,
+        "Close": 595.0,
+        "Percent Change": 1.26,
+        "Volume": 2017.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-23",
+        "Open": 584.1,
+        "High": 600.0,
+        "Low": 584.1,
+        "Close": 587.6,
+        "Percent Change": -1.41,
+        "Volume": 1750.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-20",
+        "Open": 595.4,
+        "High": 600.0,
+        "Low": 595.4,
+        "Close": 596.0,
+        "Percent Change": -1.81,
+        "Volume": 570.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-19",
+        "Open": 587.5,
+        "High": 607.9,
+        "Low": 587.5,
+        "Close": 607.0,
+        "Percent Change": 1.68,
+        "Volume": 660.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-18",
+        "Open": 620.0,
+        "High": 620.0,
+        "Low": 595.6,
+        "Close": 597.0,
+        "Percent Change": -1.81,
+        "Volume": 621.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-17",
+        "Open": 600.0,
+        "High": 612.0,
+        "Low": 592.0,
+        "Close": 608.0,
+        "Percent Change": 1.33,
+        "Volume": 1875.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-16",
+        "Open": 608.0,
+        "High": 610.0,
+        "Low": 594.9,
+        "Close": 600.0,
+        "Percent Change": -3.21,
+        "Volume": 2521.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-13",
+        "Open": 636.3,
+        "High": 645.0,
+        "Low": 600.7,
+        "Close": 619.9,
+        "Percent Change": -0.64,
+        "Volume": 2484.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-12",
+        "Open": 570.1,
+        "High": 625.0,
+        "Low": 570.0,
+        "Close": 623.9,
+        "Percent Change": 7.57,
+        "Volume": 2964.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-11",
+        "Open": 577.0,
+        "High": 581.4,
+        "Low": 567.0,
+        "Close": 580.0,
+        "Percent Change": 0.82,
+        "Volume": 820.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-10",
+        "Open": 579.0,
+        "High": 584.0,
+        "Low": 570.2,
+        "Close": 575.3,
+        "Percent Change": -0.98,
+        "Volume": 730.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-09",
+        "Open": 585.0,
+        "High": 589.0,
+        "Low": 580.1,
+        "Close": 581.0,
+        "Percent Change": -2.02,
+        "Volume": 1188.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-06",
+        "Open": 580.1,
+        "High": 598.6,
+        "Low": 580.1,
+        "Close": 593.0,
+        "Percent Change": 1.02,
+        "Volume": 1891.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-05",
+        "Open": 590.0,
+        "High": 600.0,
+        "Low": 580.1,
+        "Close": 587.0,
+        "Percent Change": -0.51,
+        "Volume": 2088.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-04",
+        "Open": 593.0,
+        "High": 600.0,
+        "Low": 585.0,
+        "Close": 590.0,
+        "Percent Change": 0.0,
+        "Volume": 1220.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-03",
+        "Open": 604.0,
+        "High": 604.0,
+        "Low": 589.0,
+        "Close": 590.0,
+        "Percent Change": -1.32,
+        "Volume": 1776.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-04-02",
+        "Open": 600.0,
+        "High": 634.0,
+        "Low": 597.9,
+        "Close": 597.9,
+        "Percent Change": -0.35,
+        "Volume": 1520.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-30",
+        "Open": 605.0,
+        "High": 612.0,
+        "Low": 600.0,
+        "Close": 600.0,
+        "Percent Change": -1.8,
+        "Volume": 2015.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-29",
+        "Open": 604.0,
+        "High": 625.0,
+        "Low": 604.0,
+        "Close": 611.0,
+        "Percent Change": -0.65,
+        "Volume": 732.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-28",
+        "Open": 620.0,
+        "High": 629.9,
+        "Low": 601.1,
+        "Close": 615.0,
+        "Percent Change": 0.82,
+        "Volume": 2610.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-27",
+        "Open": 613.0,
+        "High": 625.0,
+        "Low": 596.9,
+        "Close": 610.0,
+        "Percent Change": -2.4,
+        "Volume": 4340.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-26",
+        "Open": 619.0,
+        "High": 631.0,
+        "Low": 602.0,
+        "Close": 625.0,
+        "Percent Change": -0.83,
+        "Volume": 4333.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-23",
+        "Open": 650.3,
+        "High": 650.3,
+        "Low": 610.0,
+        "Close": 630.2,
+        "Percent Change": -5.02,
+        "Volume": 9655.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-22",
+        "Open": 637.5,
+        "High": 663.5,
+        "Low": 620.0,
+        "Close": 663.5,
+        "Percent Change": 2.0,
+        "Volume": 10117.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-20",
+        "Open": 635.8,
+        "High": 661.6,
+        "Low": 623.1,
+        "Close": 650.5,
+        "Percent Change": 0.28,
+        "Volume": 2803.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-19",
+        "Open": 623.3,
+        "High": 648.7,
+        "Low": 615.0,
+        "Close": 648.7,
+        "Percent Change": 2.0,
+        "Volume": 2226.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-16",
+        "Open": 627.2,
+        "High": 650.0,
+        "Low": 614.8,
+        "Close": 636.0,
+        "Percent Change": -0.63,
+        "Volume": 2952.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-15",
+        "Open": 621.0,
+        "High": 658.5,
+        "Low": 615.0,
+        "Close": 640.0,
+        "Percent Change": 1.11,
+        "Volume": 4335.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-14",
+        "Open": 598.9,
+        "High": 635.0,
+        "Low": 598.9,
+        "Close": 633.0,
+        "Percent Change": 3.6,
+        "Volume": 2917.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-13",
+        "Open": 619.0,
+        "High": 632.4,
+        "Low": 608.0,
+        "Close": 611.0,
+        "Percent Change": -2.71,
+        "Volume": 2205.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-12",
+        "Open": 665.0,
+        "High": 670.0,
+        "Low": 626.0,
+        "Close": 628.0,
+        "Percent Change": -3.68,
+        "Volume": 2005.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-09",
+        "Open": 615.0,
+        "High": 665.0,
+        "Low": 605.0,
+        "Close": 652.0,
+        "Percent Change": 7.59,
+        "Volume": 2980.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-07",
+        "Open": 610.0,
+        "High": 615.0,
+        "Low": 598.0,
+        "Close": 606.0,
+        "Percent Change": -0.41,
+        "Volume": 2395.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-05",
+        "Open": 625.1,
+        "High": 637.0,
+        "Low": 605.1,
+        "Close": 608.5,
+        "Percent Change": -2.66,
+        "Volume": 2759.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-02",
+        "Open": 637.0,
+        "High": 648.0,
+        "Low": 623.0,
+        "Close": 625.1,
+        "Percent Change": -3.83,
+        "Volume": 2099.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-03-01",
+        "Open": 657.0,
+        "High": 670.0,
+        "Low": 650.0,
+        "Close": 650.0,
+        "Percent Change": -0.98,
+        "Volume": 3282.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-28",
+        "Open": 662.0,
+        "High": 675.0,
+        "Low": 649.0,
+        "Close": 656.4,
+        "Percent Change": -0.85,
+        "Volume": 1210.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-27",
+        "Open": 693.0,
+        "High": 693.0,
+        "Low": 653.5,
+        "Close": 662.0,
+        "Percent Change": -2.65,
+        "Volume": 5296.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-26",
+        "Open": 621.4,
+        "High": 680.0,
+        "Low": 580.0,
+        "Close": 680.0,
+        "Percent Change": 7.26,
+        "Volume": 5578.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-23",
+        "Open": 682.1,
+        "High": 682.1,
+        "Low": 626.4,
+        "Close": 634.0,
+        "Percent Change": -8.91,
+        "Volume": 8464.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-22",
+        "Open": 699.0,
+        "High": 702.0,
+        "Low": 687.0,
+        "Close": 696.0,
+        "Percent Change": -0.3,
+        "Volume": 2230.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-20",
+        "Open": 702.1,
+        "High": 710.0,
+        "Low": 692.9,
+        "Close": 698.1,
+        "Percent Change": -1.81,
+        "Volume": 3151.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-16",
+        "Open": 707.4,
+        "High": 719.0,
+        "Low": 700.0,
+        "Close": 711.0,
+        "Percent Change": -1.25,
+        "Volume": 2811.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-15",
+        "Open": 708.1,
+        "High": 744.6,
+        "Low": 708.1,
+        "Close": 720.0,
+        "Percent Change": -0.06,
+        "Volume": 1379.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-14",
+        "Open": 722.0,
+        "High": 730.0,
+        "Low": 715.0,
+        "Close": 720.4,
+        "Percent Change": -0.22,
+        "Volume": 2062.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-12",
+        "Open": 730.1,
+        "High": 735.0,
+        "Low": 715.5,
+        "Close": 722.0,
+        "Percent Change": -3.09,
+        "Volume": 2929.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-09",
+        "Open": 731.0,
+        "High": 750.0,
+        "Low": 731.0,
+        "Close": 745.0,
+        "Percent Change": 0.0,
+        "Volume": 1664.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-08",
+        "Open": 760.0,
+        "High": 767.0,
+        "Low": 732.4,
+        "Close": 745.0,
+        "Percent Change": -0.8,
+        "Volume": 3738.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-07",
+        "Open": 705.1,
+        "High": 774.0,
+        "Low": 705.1,
+        "Close": 751.0,
+        "Percent Change": 5.33,
+        "Volume": 5592.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-06",
+        "Open": 705.0,
+        "High": 716.0,
+        "Low": 705.0,
+        "Close": 713.0,
+        "Percent Change": 0.14,
+        "Volume": 1493.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-05",
+        "Open": 710.0,
+        "High": 718.0,
+        "Low": 706.0,
+        "Close": 712.0,
+        "Percent Change": 0.56,
+        "Volume": 2232.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-02",
+        "Open": 738.0,
+        "High": 738.0,
+        "Low": 707.1,
+        "Close": 708.0,
+        "Percent Change": -2.21,
+        "Volume": 1410.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-02-01",
+        "Open": 705.0,
+        "High": 725.0,
+        "Low": 705.0,
+        "Close": 724.0,
+        "Percent Change": 1.97,
+        "Volume": 2242.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-31",
+        "Open": 715.5,
+        "High": 725.0,
+        "Low": 705.0,
+        "Close": 710.0,
+        "Percent Change": -2.74,
+        "Volume": 3497.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-30",
+        "Open": 727.1,
+        "High": 741.0,
+        "Low": 710.0,
+        "Close": 730.0,
+        "Percent Change": -1.35,
+        "Volume": 3470.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-29",
+        "Open": 745.5,
+        "High": 760.0,
+        "Low": 733.8,
+        "Close": 740.0,
+        "Percent Change": -0.74,
+        "Volume": 4200.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-26",
+        "Open": 751.0,
+        "High": 757.0,
+        "Low": 743.1,
+        "Close": 745.5,
+        "Percent Change": -0.33,
+        "Volume": 1765.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-25",
+        "Open": 753.7,
+        "High": 760.0,
+        "Low": 740.0,
+        "Close": 748.0,
+        "Percent Change": 1.22,
+        "Volume": 4402.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-24",
+        "Open": 765.0,
+        "High": 765.0,
+        "Low": 729.0,
+        "Close": 739.0,
+        "Percent Change": -1.47,
+        "Volume": 2656.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-23",
+        "Open": 751.0,
+        "High": 775.0,
+        "Low": 745.1,
+        "Close": 750.0,
+        "Percent Change": -0.66,
+        "Volume": 3363.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-19",
+        "Open": 750.0,
+        "High": 765.0,
+        "Low": 745.0,
+        "Close": 755.0,
+        "Percent Change": 0.67,
+        "Volume": 2321.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-18",
+        "Open": 784.5,
+        "High": 799.0,
+        "Low": 750.0,
+        "Close": 750.0,
+        "Percent Change": -2.72,
+        "Volume": 6399.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-17",
+        "Open": 750.0,
+        "High": 795.0,
+        "Low": 711.0,
+        "Close": 771.0,
+        "Percent Change": 3.21,
+        "Volume": 5702.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-12",
+        "Open": 775.0,
+        "High": 794.0,
+        "Low": 732.0,
+        "Close": 747.0,
+        "Percent Change": -4.23,
+        "Volume": 6110.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-10",
+        "Open": 805.0,
+        "High": 820.0,
+        "Low": 770.0,
+        "Close": 780.0,
+        "Percent Change": -3.23,
+        "Volume": 9186.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-09",
+        "Open": 810.0,
+        "High": 825.0,
+        "Low": 804.0,
+        "Close": 806.0,
+        "Percent Change": -0.49,
+        "Volume": 5361.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-08",
+        "Open": 795.0,
+        "High": 837.5,
+        "Low": 771.3,
+        "Close": 810.0,
+        "Percent Change": 3.03,
+        "Volume": 11690.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-05",
+        "Open": 795.0,
+        "High": 816.0,
+        "Low": 782.0,
+        "Close": 786.2,
+        "Percent Change": 0.79,
+        "Volume": 7591.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-04",
+        "Open": 756.0,
+        "High": 782.0,
+        "Low": 740.0,
+        "Close": 780.0,
+        "Percent Change": 4.84,
+        "Volume": 10902.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-03",
+        "Open": 706.0,
+        "High": 750.0,
+        "Low": 706.0,
+        "Close": 744.0,
+        "Percent Change": 3.62,
+        "Volume": 8060.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-02",
+        "Open": 725.0,
+        "High": 730.0,
+        "Low": 715.0,
+        "Close": 718.0,
+        "Percent Change": 0.1,
+        "Volume": 3850.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2023-01-01",
+        "Open": 731.0,
+        "High": 745.6,
+        "Low": 716.0,
+        "Close": 717.3,
+        "Percent Change": -1.87,
+        "Volume": 5760.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-29",
+        "Open": 698.1,
+        "High": 731.0,
+        "Low": 698.0,
+        "Close": 731.0,
+        "Percent Change": 3.54,
+        "Volume": 5065.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-28",
+        "Open": 710.0,
+        "High": 715.0,
+        "Low": 693.9,
+        "Close": 706.0,
+        "Percent Change": -1.53,
+        "Volume": 3355.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-27",
+        "Open": 718.0,
+        "High": 732.0,
+        "Low": 703.0,
+        "Close": 717.0,
+        "Percent Change": 1.85,
+        "Volume": 4135.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-26",
+        "Open": 667.0,
+        "High": 705.8,
+        "Low": 667.0,
+        "Close": 704.0,
+        "Percent Change": 5.53,
+        "Volume": 2748.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-22",
+        "Open": 662.0,
+        "High": 675.0,
+        "Low": 662.0,
+        "Close": 667.1,
+        "Percent Change": -1.2,
+        "Volume": 1460.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-21",
+        "Open": 696.6,
+        "High": 696.6,
+        "Low": 675.2,
+        "Close": 675.2,
+        "Percent Change": -1.14,
+        "Volume": 1171.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-20",
+        "Open": 670.0,
+        "High": 685.0,
+        "Low": 670.0,
+        "Close": 683.0,
+        "Percent Change": 1.34,
+        "Volume": 1405.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-19",
+        "Open": 672.0,
+        "High": 685.0,
+        "Low": 672.0,
+        "Close": 674.0,
+        "Percent Change": -0.44,
+        "Volume": 1515.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-18",
+        "Open": 681.0,
+        "High": 689.5,
+        "Low": 675.0,
+        "Close": 677.0,
+        "Percent Change": -2.31,
+        "Volume": 2509.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-15",
+        "Open": 714.0,
+        "High": 727.0,
+        "Low": 692.4,
+        "Close": 693.0,
+        "Percent Change": -1.0,
+        "Volume": 1246.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-14",
+        "Open": 706.0,
+        "High": 721.0,
+        "Low": 693.0,
+        "Close": 700.0,
+        "Percent Change": 1.0,
+        "Volume": 1775.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-13",
+        "Open": 685.0,
+        "High": 700.0,
+        "Low": 685.0,
+        "Close": 693.1,
+        "Percent Change": 0.01,
+        "Volume": 1235.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-12",
+        "Open": 681.2,
+        "High": 700.0,
+        "Low": 681.2,
+        "Close": 693.0,
+        "Percent Change": 0.0,
+        "Volume": 1595.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-11",
+        "Open": 693.0,
+        "High": 706.0,
+        "Low": 691.0,
+        "Close": 693.0,
+        "Percent Change": -1.7,
+        "Volume": 2157.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-07",
+        "Open": 706.0,
+        "High": 710.0,
+        "Low": 703.5,
+        "Close": 705.0,
+        "Percent Change": -0.14,
+        "Volume": 1425.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-06",
+        "Open": 702.0,
+        "High": 710.0,
+        "Low": 702.0,
+        "Close": 706.0,
+        "Percent Change": 0.14,
+        "Volume": 1460.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-05",
+        "Open": 710.1,
+        "High": 715.9,
+        "Low": 705.0,
+        "Close": 705.0,
+        "Percent Change": -1.4,
+        "Volume": 3273.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-04",
+        "Open": 716.2,
+        "High": 720.0,
+        "Low": 706.0,
+        "Close": 715.0,
+        "Percent Change": -0.17,
+        "Volume": 2645.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-12-01",
+        "Open": 715.5,
+        "High": 720.0,
+        "Low": 712.1,
+        "Close": 716.2,
+        "Percent Change": -0.25,
+        "Volume": 2740.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-30",
+        "Open": 711.1,
+        "High": 724.0,
+        "Low": 711.1,
+        "Close": 718.0,
+        "Percent Change": -0.95,
+        "Volume": 1441.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-29",
+        "Open": 710.5,
+        "High": 727.0,
+        "Low": 710.5,
+        "Close": 724.9,
+        "Percent Change": 0.12,
+        "Volume": 2189.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-28",
+        "Open": 725.0,
+        "High": 737.4,
+        "Low": 717.0,
+        "Close": 724.0,
+        "Percent Change": -1.9,
+        "Volume": 1905.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-27",
+        "Open": 710.1,
+        "High": 738.0,
+        "Low": 708.0,
+        "Close": 738.0,
+        "Percent Change": 3.36,
+        "Volume": 4318.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-24",
+        "Open": 708.3,
+        "High": 715.0,
+        "Low": 708.3,
+        "Close": 714.0,
+        "Percent Change": -0.7,
+        "Volume": 2013.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-23",
+        "Open": 725.0,
+        "High": 725.0,
+        "Low": 716.1,
+        "Close": 719.0,
+        "Percent Change": -0.79,
+        "Volume": 1864.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-22",
+        "Open": 731.0,
+        "High": 732.0,
+        "Low": 716.6,
+        "Close": 724.7,
+        "Percent Change": -0.74,
+        "Volume": 1530.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-17",
+        "Open": 725.0,
+        "High": 735.0,
+        "Low": 715.4,
+        "Close": 730.1,
+        "Percent Change": 2.4,
+        "Volume": 1710.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-16",
+        "Open": 720.0,
+        "High": 725.0,
+        "Low": 709.1,
+        "Close": 713.0,
+        "Percent Change": -0.03,
+        "Volume": 2109.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-15",
+        "Open": 724.0,
+        "High": 724.0,
+        "Low": 711.3,
+        "Close": 713.2,
+        "Percent Change": -1.49,
+        "Volume": 2240.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-14",
+        "Open": 710.1,
+        "High": 728.9,
+        "Low": 710.1,
+        "Close": 724.0,
+        "Percent Change": 0.56,
+        "Volume": 1880.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-13",
+        "Open": 740.0,
+        "High": 744.0,
+        "Low": 710.0,
+        "Close": 720.0,
+        "Percent Change": -1.37,
+        "Volume": 3485.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-10",
+        "Open": 743.0,
+        "High": 759.0,
+        "Low": 721.0,
+        "Close": 730.0,
+        "Percent Change": -2.28,
+        "Volume": 3358.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-09",
+        "Open": 764.0,
+        "High": 764.0,
+        "Low": 747.0,
+        "Close": 747.0,
+        "Percent Change": -2.35,
+        "Volume": 3832.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-08",
+        "Open": 760.3,
+        "High": 777.0,
+        "Low": 760.3,
+        "Close": 765.0,
+        "Percent Change": -1.16,
+        "Volume": 2826.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-07",
+        "Open": 790.0,
+        "High": 794.0,
+        "Low": 770.1,
+        "Close": 774.0,
+        "Percent Change": -1.15,
+        "Volume": 10064.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-06",
+        "Open": 759.0,
+        "High": 786.0,
+        "Low": 744.0,
+        "Close": 783.0,
+        "Percent Change": 3.16,
+        "Volume": 11612.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-03",
+        "Open": 780.0,
+        "High": 785.0,
+        "Low": 755.0,
+        "Close": 759.0,
+        "Percent Change": -3.31,
+        "Volume": 3880.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-02",
+        "Open": 777.0,
+        "High": 800.0,
+        "Low": 750.0,
+        "Close": 785.0,
+        "Percent Change": 0.9,
+        "Volume": 6290.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-11-01",
+        "Open": 731.0,
+        "High": 795.0,
+        "Low": 706.0,
+        "Close": 778.0,
+        "Percent Change": 6.43,
+        "Volume": 9803.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-10-31",
+        "Open": 782.4,
+        "High": 782.4,
+        "Low": 730.0,
+        "Close": 731.0,
+        "Percent Change": -4.71,
+        "Volume": 10764.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-10-23",
+        "Open": 830.0,
+        "High": 830.0,
+        "Low": 764.4,
+        "Close": 767.1,
+        "Percent Change": -7.6,
+        "Volume": 16958.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-10-20",
+        "Open": 906.5,
+        "High": 963.0,
+        "Low": 820.2,
+        "Close": 830.2,
+        "Percent Change": -6.59,
+        "Volume": 42382.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-10-19",
+        "Open": 824.1,
+        "High": 888.8,
+        "Low": 824.1,
+        "Close": 888.8,
+        "Percent Change": 10.0,
+        "Volume": 6990.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-10-17",
+        "Open": 749.0,
+        "High": 808.0,
+        "Low": 749.0,
+        "Close": 808.0,
+        "Percent Change": 9.99,
+        "Volume": 3780.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-10-16",
+        "Open": 681.2,
+        "High": 734.6,
+        "Low": 681.2,
+        "Close": 734.6,
+        "Percent Change": 9.99,
+        "Volume": 1944.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-10-13",
+        "Open": 619.3,
+        "High": 667.9,
+        "Low": 619.3,
+        "Close": 667.9,
+        "Percent Change": 3.71,
+        "Volume": 50.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-10-12",
+        "Open": 563.0,
+        "High": 607.2,
+        "Low": 563.0,
+        "Close": 607.2,
+        "Percent Change": 10.0,
+        "Volume": 70.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-10-11",
+        "Open": 511.0,
+        "High": 552.0,
+        "Low": 511.0,
+        "Close": 552.0,
+        "Percent Change": 9.98,
+        "Volume": 60.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-10-10",
+        "Open": 456.3,
+        "High": 501.9,
+        "Low": 456.3,
+        "Close": 501.9,
+        "Percent Change": 9.99,
+        "Volume": 90.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-10-09",
+        "Open": 447.4,
+        "High": 456.3,
+        "Low": 447.4,
+        "Close": 456.3,
+        "Percent Change": 4.01,
+        "Volume": 30.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-09-29",
+        "Open": 406.8,
+        "High": 438.7,
+        "Low": 406.8,
+        "Close": 438.7,
+        "Percent Change": 9.98,
+        "Volume": 50.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-09-28",
+        "Open": 368.7,
+        "High": 398.9,
+        "Low": 368.7,
+        "Close": 398.9,
+        "Percent Change": 8.19,
+        "Volume": 41.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-09-27",
+        "Open": 347.6,
+        "High": 368.7,
+        "Low": 347.6,
+        "Close": 368.7,
+        "Percent Change": 6.07,
+        "Volume": 60.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-09-25",
+        "Open": 316.0,
+        "High": 347.6,
+        "Low": 316.0,
+        "Close": 347.6,
+        "Percent Change": 0.0,
+        "Volume": 212.0
+    },
+    {
+        "Symbol": "AVYAN",
+        "Date": "2022-01-02",
+        "Open": 725.0,
+        "High": 730.0,
+        "Low": 715.0,
+        "Close": 718.0,
+        "Percent Change": 0.1,
+        "Volume": 3850.0
+    }
+]

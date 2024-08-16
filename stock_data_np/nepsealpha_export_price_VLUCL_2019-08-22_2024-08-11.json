@@ -1,0 +1,1512 @@
+[
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-08-11",
+        "Open":691.9,
+        "High":708.5,
+        "Low":664.6,
+        "Close":700.0,
+        "Percent Change":"1.17 %",
+        "Volume":"122,801.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-08-08",
+        "Open":723.1,
+        "High":723.1,
+        "Low":665.0,
+        "Close":691.9,
+        "Percent Change":"-2.41 %",
+        "Volume":"88,923.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-08-07",
+        "Open":646.8,
+        "High":720.0,
+        "Low":646.8,
+        "Close":709.0,
+        "Percent Change":"7.42 %",
+        "Volume":"100,649.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-08-06",
+        "Open":694.5,
+        "High":722.4,
+        "Low":646.0,
+        "Close":660.0,
+        "Percent Change":"-3.07 %",
+        "Volume":"158,130.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-08-05",
+        "Open":619.0,
+        "High":680.9,
+        "Low":618.0,
+        "Close":680.9,
+        "Percent Change":"10.00 %",
+        "Volume":"141,804.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-08-01",
+        "Open":609.6,
+        "High":633.4,
+        "Low":609.6,
+        "Close":619.0,
+        "Percent Change":"-0.48 %",
+        "Volume":"93,455.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-31",
+        "Open":603.8,
+        "High":635.0,
+        "Low":603.8,
+        "Close":622.0,
+        "Percent Change":"0.96 %",
+        "Volume":"72,866.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-30",
+        "Open":584.1,
+        "High":632.4,
+        "Low":584.1,
+        "Close":616.1,
+        "Percent Change":"3.37 %",
+        "Volume":"79,273.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-29",
+        "Open":605.0,
+        "High":624.0,
+        "Low":595.0,
+        "Close":596.0,
+        "Percent Change":"-0.33 %",
+        "Volume":"81,262.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-28",
+        "Open":614.0,
+        "High":630.0,
+        "Low":586.0,
+        "Close":598.0,
+        "Percent Change":"-1.16 %",
+        "Volume":"37,441.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-25",
+        "Open":605.0,
+        "High":615.9,
+        "Low":594.0,
+        "Close":605.0,
+        "Percent Change":"0.68 %",
+        "Volume":"54,895.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-24",
+        "Open":638.0,
+        "High":639.8,
+        "Low":593.2,
+        "Close":600.9,
+        "Percent Change":"-4.28 %",
+        "Volume":"117,569.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-23",
+        "Open":618.0,
+        "High":644.0,
+        "Low":618.0,
+        "Close":627.8,
+        "Percent Change":"1.75 %",
+        "Volume":"47,133.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-22",
+        "Open":606.0,
+        "High":622.0,
+        "Low":585.9,
+        "Close":617.0,
+        "Percent Change":"3.18 %",
+        "Volume":"69,889.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-21",
+        "Open":567.0,
+        "High":609.0,
+        "Low":560.0,
+        "Close":598.0,
+        "Percent Change":"7.55 %",
+        "Volume":"139,855.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-18",
+        "Open":555.0,
+        "High":574.9,
+        "Low":555.0,
+        "Close":556.0,
+        "Percent Change":"0.18 %",
+        "Volume":"82,111.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-17",
+        "Open":566.0,
+        "High":566.0,
+        "Low":546.5,
+        "Close":555.0,
+        "Percent Change":"0.00 %",
+        "Volume":"54,560.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-16",
+        "Open":518.5,
+        "High":558.0,
+        "Low":518.5,
+        "Close":555.0,
+        "Percent Change":"4.91 %",
+        "Volume":"73,102.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-15",
+        "Open":544.6,
+        "High":544.6,
+        "Low":523.5,
+        "Close":529.0,
+        "Percent Change":"-0.94 %",
+        "Volume":"39,026.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-14",
+        "Open":536.5,
+        "High":544.0,
+        "Low":520.0,
+        "Close":534.0,
+        "Percent Change":"1.52 %",
+        "Volume":"37,666.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-11",
+        "Open":530.0,
+        "High":534.8,
+        "Low":519.1,
+        "Close":526.0,
+        "Percent Change":"-0.38 %",
+        "Volume":"29,819.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-10",
+        "Open":520.0,
+        "High":530.0,
+        "Low":506.7,
+        "Close":528.0,
+        "Percent Change":"2.92 %",
+        "Volume":"39,294.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-09",
+        "Open":508.0,
+        "High":515.0,
+        "Low":506.0,
+        "Close":513.0,
+        "Percent Change":"0.83 %",
+        "Volume":"13,321.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-08",
+        "Open":509.0,
+        "High":517.0,
+        "Low":507.0,
+        "Close":508.8,
+        "Percent Change":"-0.63 %",
+        "Volume":"12,582.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-07",
+        "Open":512.0,
+        "High":516.0,
+        "Low":508.0,
+        "Close":512.0,
+        "Percent Change":"0.39 %",
+        "Volume":"14,382.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-04",
+        "Open":515.0,
+        "High":518.9,
+        "Low":510.0,
+        "Close":510.0,
+        "Percent Change":"-0.57 %",
+        "Volume":"11,665.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-03",
+        "Open":508.9,
+        "High":518.0,
+        "Low":507.4,
+        "Close":512.9,
+        "Percent Change":"-0.21 %",
+        "Volume":"11,904.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-02",
+        "Open":516.1,
+        "High":536.0,
+        "Low":509.0,
+        "Close":514.0,
+        "Percent Change":"1.58 %",
+        "Volume":"21,707.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-07-01",
+        "Open":501.5,
+        "High":508.9,
+        "Low":500.5,
+        "Close":506.0,
+        "Percent Change":"-0.76 %",
+        "Volume":"11,874.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-30",
+        "Open":512.0,
+        "High":513.0,
+        "Low":502.6,
+        "Close":509.9,
+        "Percent Change":"-0.45 %",
+        "Volume":"13,389.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-27",
+        "Open":506.1,
+        "High":515.0,
+        "Low":505.0,
+        "Close":512.2,
+        "Percent Change":"-0.51 %",
+        "Volume":"18,608.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-26",
+        "Open":523.4,
+        "High":532.0,
+        "Low":511.3,
+        "Close":514.8,
+        "Percent Change":"-1.57 %",
+        "Volume":"17,205.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-25",
+        "Open":511.9,
+        "High":530.0,
+        "Low":511.1,
+        "Close":523.0,
+        "Percent Change":"2.05 %",
+        "Volume":"27,496.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-24",
+        "Open":510.4,
+        "High":519.9,
+        "Low":509.1,
+        "Close":512.5,
+        "Percent Change":"0.10 %",
+        "Volume":"12,363.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-23",
+        "Open":505.1,
+        "High":513.0,
+        "Low":505.0,
+        "Close":512.0,
+        "Percent Change":"1.17 %",
+        "Volume":"11,725.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-20",
+        "Open":507.0,
+        "High":511.5,
+        "Low":505.0,
+        "Close":506.1,
+        "Percent Change":"-0.94 %",
+        "Volume":"25,353.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-19",
+        "Open":500.4,
+        "High":516.9,
+        "Low":500.4,
+        "Close":510.9,
+        "Percent Change":"0.06 %",
+        "Volume":"16,972.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-18",
+        "Open":510.1,
+        "High":516.0,
+        "Low":510.0,
+        "Close":510.6,
+        "Percent Change":"-0.76 %",
+        "Volume":"19,521.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-16",
+        "Open":521.0,
+        "High":525.8,
+        "Low":512.1,
+        "Close":514.5,
+        "Percent Change":"0.49 %",
+        "Volume":"24,039.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-13",
+        "Open":521.0,
+        "High":524.9,
+        "Low":512.0,
+        "Close":512.0,
+        "Percent Change":"-1.16 %",
+        "Volume":"47,721.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-12",
+        "Open":530.0,
+        "High":538.0,
+        "Low":516.0,
+        "Close":518.0,
+        "Percent Change":"-2.26 %",
+        "Volume":"42,462.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-11",
+        "Open":520.0,
+        "High":535.5,
+        "Low":520.0,
+        "Close":530.0,
+        "Percent Change":"1.92 %",
+        "Volume":"42,278.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-10",
+        "Open":540.6,
+        "High":540.6,
+        "Low":519.0,
+        "Close":520.0,
+        "Percent Change":"-1.89 %",
+        "Volume":"55,217.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-09",
+        "Open":503.0,
+        "High":535.0,
+        "Low":503.0,
+        "Close":530.0,
+        "Percent Change":"4.33 %",
+        "Volume":"89,395.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-06",
+        "Open":483.1,
+        "High":518.0,
+        "Low":483.1,
+        "Close":508.0,
+        "Percent Change":"4.31 %",
+        "Volume":"54,403.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-05",
+        "Open":490.1,
+        "High":499.0,
+        "Low":485.2,
+        "Close":487.0,
+        "Percent Change":"-2.01 %",
+        "Volume":"16,451.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-04",
+        "Open":497.0,
+        "High":508.0,
+        "Low":492.0,
+        "Close":497.0,
+        "Percent Change":"-1.39 %",
+        "Volume":"14,439.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-03",
+        "Open":510.0,
+        "High":518.0,
+        "Low":499.0,
+        "Close":504.0,
+        "Percent Change":"-1.18 %",
+        "Volume":"33,316.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-06-02",
+        "Open":510.0,
+        "High":517.0,
+        "Low":508.0,
+        "Close":510.0,
+        "Percent Change":"0.45 %",
+        "Volume":"25,839.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-30",
+        "Open":488.0,
+        "High":515.0,
+        "Low":488.0,
+        "Close":507.7,
+        "Percent Change":"4.04 %",
+        "Volume":"68,395.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-29",
+        "Open":484.0,
+        "High":505.0,
+        "Low":484.0,
+        "Close":488.0,
+        "Percent Change":"0.83 %",
+        "Volume":"48,930.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-27",
+        "Open":478.0,
+        "High":493.9,
+        "Low":478.0,
+        "Close":484.0,
+        "Percent Change":"-0.60 %",
+        "Volume":"18,508.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-26",
+        "Open":489.0,
+        "High":493.0,
+        "Low":480.6,
+        "Close":486.9,
+        "Percent Change":"-2.03 %",
+        "Volume":"14,811.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-22",
+        "Open":518.1,
+        "High":518.1,
+        "Low":490.0,
+        "Close":497.0,
+        "Percent Change":"-2.17 %",
+        "Volume":"25,700.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-21",
+        "Open":488.0,
+        "High":509.5,
+        "Low":476.0,
+        "Close":508.0,
+        "Percent Change":"5.83 %",
+        "Volume":"59,146.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-20",
+        "Open":478.0,
+        "High":485.3,
+        "Low":470.3,
+        "Close":480.0,
+        "Percent Change":"2.13 %",
+        "Volume":"20,767.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-19",
+        "Open":472.0,
+        "High":476.5,
+        "Low":460.0,
+        "Close":470.0,
+        "Percent Change":"1.29 %",
+        "Volume":"23,380.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-16",
+        "Open":460.5,
+        "High":473.8,
+        "Low":460.5,
+        "Close":464.0,
+        "Percent Change":"-0.83 %",
+        "Volume":"13,476.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-15",
+        "Open":489.0,
+        "High":489.0,
+        "Low":462.0,
+        "Close":467.9,
+        "Percent Change":"-2.50 %",
+        "Volume":"14,028.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-14",
+        "Open":465.0,
+        "High":484.0,
+        "Low":456.0,
+        "Close":479.9,
+        "Percent Change":"5.01 %",
+        "Volume":"26,314.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-13",
+        "Open":450.1,
+        "High":461.0,
+        "Low":450.1,
+        "Close":457.0,
+        "Percent Change":"0.66 %",
+        "Volume":"3,960.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-12",
+        "Open":456.0,
+        "High":457.9,
+        "Low":448.5,
+        "Close":454.0,
+        "Percent Change":"1.50 %",
+        "Volume":"9,087.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-09",
+        "Open":450.0,
+        "High":455.0,
+        "Low":447.1,
+        "Close":447.3,
+        "Percent Change":"-0.31 %",
+        "Volume":"6,766.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-08",
+        "Open":453.0,
+        "High":453.0,
+        "Low":445.1,
+        "Close":448.7,
+        "Percent Change":"-0.47 %",
+        "Volume":"8,095.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-07",
+        "Open":458.0,
+        "High":458.0,
+        "Low":448.0,
+        "Close":450.8,
+        "Percent Change":"-0.70 %",
+        "Volume":"8,103.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-06",
+        "Open":456.0,
+        "High":460.0,
+        "Low":451.7,
+        "Close":454.0,
+        "Percent Change":"-0.87 %",
+        "Volume":"6,864.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-05",
+        "Open":462.0,
+        "High":471.0,
+        "Low":458.0,
+        "Close":458.0,
+        "Percent Change":"-2.14 %",
+        "Volume":"12,054.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-05-02",
+        "Open":480.0,
+        "High":488.5,
+        "Low":468.0,
+        "Close":468.0,
+        "Percent Change":"-2.90 %",
+        "Volume":"12,695.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-30",
+        "Open":465.1,
+        "High":490.0,
+        "Low":465.1,
+        "Close":482.0,
+        "Percent Change":"2.99 %",
+        "Volume":"15,406.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-29",
+        "Open":467.1,
+        "High":476.9,
+        "Low":466.1,
+        "Close":468.0,
+        "Percent Change":"-0.85 %",
+        "Volume":"5,368.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-28",
+        "Open":466.0,
+        "High":474.9,
+        "Low":465.2,
+        "Close":472.0,
+        "Percent Change":"1.51 %",
+        "Volume":"8,076.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-25",
+        "Open":465.0,
+        "High":472.0,
+        "Low":465.0,
+        "Close":465.0,
+        "Percent Change":"-0.94 %",
+        "Volume":"8,240.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-24",
+        "Open":480.0,
+        "High":484.0,
+        "Low":469.0,
+        "Close":469.4,
+        "Percent Change":"-2.41 %",
+        "Volume":"7,636.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-22",
+        "Open":492.4,
+        "High":502.0,
+        "Low":476.0,
+        "Close":481.0,
+        "Percent Change":"-0.41 %",
+        "Volume":"12,253.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-21",
+        "Open":475.1,
+        "High":487.0,
+        "Low":475.0,
+        "Close":483.0,
+        "Percent Change":"1.68 %",
+        "Volume":"15,086.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-18",
+        "Open":485.0,
+        "High":490.0,
+        "Low":468.0,
+        "Close":475.0,
+        "Percent Change":"-3.06 %",
+        "Volume":"20,739.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-16",
+        "Open":500.0,
+        "High":500.0,
+        "Low":490.0,
+        "Close":490.0,
+        "Percent Change":"-1.92 %",
+        "Volume":"8,373.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-15",
+        "Open":501.0,
+        "High":505.1,
+        "Low":498.2,
+        "Close":499.6,
+        "Percent Change":"-0.48 %",
+        "Volume":"13,190.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-14",
+        "Open":500.0,
+        "High":510.0,
+        "Low":499.0,
+        "Close":502.0,
+        "Percent Change":"-0.99 %",
+        "Volume":"18,913.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-10",
+        "Open":508.0,
+        "High":515.0,
+        "Low":505.0,
+        "Close":507.0,
+        "Percent Change":"-0.20 %",
+        "Volume":"17,658.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-09",
+        "Open":509.0,
+        "High":516.0,
+        "Low":508.0,
+        "Close":508.0,
+        "Percent Change":"-0.20 %",
+        "Volume":"13,273.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-07",
+        "Open":496.1,
+        "High":509.0,
+        "Low":496.1,
+        "Close":509.0,
+        "Percent Change":"1.21 %",
+        "Volume":"10,805.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-04",
+        "Open":502.0,
+        "High":509.8,
+        "Low":499.0,
+        "Close":502.9,
+        "Percent Change":"0.02 %",
+        "Volume":"19,734.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-03",
+        "Open":507.0,
+        "High":515.0,
+        "Low":502.0,
+        "Close":502.8,
+        "Percent Change":"-0.44 %",
+        "Volume":"13,027.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-02",
+        "Open":510.0,
+        "High":513.5,
+        "Low":502.8,
+        "Close":505.0,
+        "Percent Change":"-1.56 %",
+        "Volume":"11,733.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-04-01",
+        "Open":510.1,
+        "High":515.0,
+        "Low":508.1,
+        "Close":513.0,
+        "Percent Change":"0.59 %",
+        "Volume":"17,017.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-31",
+        "Open":512.5,
+        "High":519.9,
+        "Low":510.0,
+        "Close":510.0,
+        "Percent Change":"-0.49 %",
+        "Volume":"15,853.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-28",
+        "Open":512.0,
+        "High":519.0,
+        "Low":511.0,
+        "Close":512.5,
+        "Percent Change":"-0.49 %",
+        "Volume":"12,709.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-27",
+        "Open":518.0,
+        "High":524.9,
+        "Low":510.4,
+        "Close":515.0,
+        "Percent Change":"-1.51 %",
+        "Volume":"13,532.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-26",
+        "Open":510.0,
+        "High":523.0,
+        "Low":510.0,
+        "Close":522.9,
+        "Percent Change":"2.13 %",
+        "Volume":"15,209.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-25",
+        "Open":511.0,
+        "High":517.8,
+        "Low":504.0,
+        "Close":512.0,
+        "Percent Change":"-0.23 %",
+        "Volume":"10,043.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-21",
+        "Open":526.9,
+        "High":526.9,
+        "Low":513.2,
+        "Close":513.2,
+        "Percent Change":"-0.74 %",
+        "Volume":"15,052.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-20",
+        "Open":518.4,
+        "High":523.9,
+        "Low":515.0,
+        "Close":517.0,
+        "Percent Change":"-0.27 %",
+        "Volume":"19,166.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-19",
+        "Open":523.0,
+        "High":534.4,
+        "Low":515.0,
+        "Close":518.4,
+        "Percent Change":"-1.07 %",
+        "Volume":"22,002.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-18",
+        "Open":524.0,
+        "High":528.0,
+        "Low":522.0,
+        "Close":524.0,
+        "Percent Change":"-0.19 %",
+        "Volume":"15,716.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-17",
+        "Open":543.0,
+        "High":543.0,
+        "Low":524.0,
+        "Close":525.0,
+        "Percent Change":"-1.81 %",
+        "Volume":"18,275.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-14",
+        "Open":544.0,
+        "High":549.9,
+        "Low":524.4,
+        "Close":534.7,
+        "Percent Change":"-1.71 %",
+        "Volume":"29,097.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-13",
+        "Open":536.0,
+        "High":545.0,
+        "Low":531.1,
+        "Close":544.0,
+        "Percent Change":"1.47 %",
+        "Volume":"42,058.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-12",
+        "Open":533.0,
+        "High":540.0,
+        "Low":530.0,
+        "Close":536.1,
+        "Percent Change":"0.58 %",
+        "Volume":"27,030.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-10",
+        "Open":540.0,
+        "High":545.0,
+        "Low":533.0,
+        "Close":533.0,
+        "Percent Change":"-0.56 %",
+        "Volume":"29,321.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-07",
+        "Open":543.0,
+        "High":553.0,
+        "Low":530.3,
+        "Close":536.0,
+        "Percent Change":"-1.29 %",
+        "Volume":"16,107.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-06",
+        "Open":525.1,
+        "High":549.0,
+        "Low":525.0,
+        "Close":543.0,
+        "Percent Change":"1.69 %",
+        "Volume":"44,401.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-05",
+        "Open":582.4,
+        "High":582.4,
+        "Low":532.0,
+        "Close":534.0,
+        "Percent Change":"-6.48 %",
+        "Volume":"53,753.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-04",
+        "Open":538.0,
+        "High":571.0,
+        "Low":538.0,
+        "Close":571.0,
+        "Percent Change":"8.14 %",
+        "Volume":"7,936.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-03-03",
+        "Open":520.0,
+        "High":538.9,
+        "Low":511.2,
+        "Close":528.0,
+        "Percent Change":"-0.19 %",
+        "Volume":"44,788.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-29",
+        "Open":548.9,
+        "High":548.9,
+        "Low":519.1,
+        "Close":529.0,
+        "Percent Change":"-2.40 %",
+        "Volume":"34,697.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-28",
+        "Open":510.5,
+        "High":554.0,
+        "Low":510.5,
+        "Close":542.0,
+        "Percent Change":"4.43 %",
+        "Volume":"91,844.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-27",
+        "Open":522.0,
+        "High":532.0,
+        "Low":515.0,
+        "Close":519.0,
+        "Percent Change":"-1.12 %",
+        "Volume":"11,125.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-26",
+        "Open":515.1,
+        "High":535.0,
+        "Low":515.1,
+        "Close":524.9,
+        "Percent Change":"0.75 %",
+        "Volume":"16,816.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-25",
+        "Open":516.0,
+        "High":540.0,
+        "Low":515.9,
+        "Close":521.0,
+        "Percent Change":"0.39 %",
+        "Volume":"32,893.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-22",
+        "Open":543.0,
+        "High":543.0,
+        "Low":514.0,
+        "Close":519.0,
+        "Percent Change":"-2.64 %",
+        "Volume":"39,171.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-21",
+        "Open":529.2,
+        "High":559.9,
+        "Low":525.2,
+        "Close":533.1,
+        "Percent Change":"-1.28 %",
+        "Volume":"18,825.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-20",
+        "Open":515.0,
+        "High":544.6,
+        "Low":515.0,
+        "Close":540.0,
+        "Percent Change":"4.15 %",
+        "Volume":"31,973.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-18",
+        "Open":526.7,
+        "High":540.0,
+        "Low":516.1,
+        "Close":518.5,
+        "Percent Change":"-3.45 %",
+        "Volume":"32,291.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-15",
+        "Open":549.9,
+        "High":562.0,
+        "Low":536.2,
+        "Close":537.0,
+        "Percent Change":"-2.35 %",
+        "Volume":"31,373.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-14",
+        "Open":540.0,
+        "High":555.0,
+        "Low":535.1,
+        "Close":549.9,
+        "Percent Change":"1.08 %",
+        "Volume":"24,291.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-13",
+        "Open":564.0,
+        "High":570.1,
+        "Low":542.0,
+        "Close":544.0,
+        "Percent Change":"-3.89 %",
+        "Volume":"52,993.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-12",
+        "Open":525.0,
+        "High":576.0,
+        "Low":525.0,
+        "Close":566.0,
+        "Percent Change":"7.79 %",
+        "Volume":"107,368.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-11",
+        "Open":535.5,
+        "High":543.5,
+        "Low":521.5,
+        "Close":525.1,
+        "Percent Change":"-1.94 %",
+        "Volume":"42,449.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-08",
+        "Open":518.0,
+        "High":537.3,
+        "Low":518.0,
+        "Close":535.5,
+        "Percent Change":"2.94 %",
+        "Volume":"38,153.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-07",
+        "Open":520.0,
+        "High":530.0,
+        "Low":517.0,
+        "Close":520.2,
+        "Percent Change":"-0.73 %",
+        "Volume":"15,357.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-06",
+        "Open":513.0,
+        "High":525.0,
+        "Low":505.0,
+        "Close":524.0,
+        "Percent Change":"2.14 %",
+        "Volume":"24,505.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-05",
+        "Open":500.0,
+        "High":515.1,
+        "Low":500.0,
+        "Close":513.0,
+        "Percent Change":"2.35 %",
+        "Volume":"17,400.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-04",
+        "Open":500.0,
+        "High":510.0,
+        "Low":491.1,
+        "Close":501.2,
+        "Percent Change":"-0.75 %",
+        "Volume":"17,918.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-02-01",
+        "Open":509.0,
+        "High":513.0,
+        "Low":502.1,
+        "Close":505.0,
+        "Percent Change":"-0.79 %",
+        "Volume":"26,731.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-31",
+        "Open":527.0,
+        "High":532.0,
+        "Low":504.7,
+        "Close":509.0,
+        "Percent Change":"-3.42 %",
+        "Volume":"37,216.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-30",
+        "Open":531.2,
+        "High":539.6,
+        "Low":525.0,
+        "Close":527.0,
+        "Percent Change":"-0.60 %",
+        "Volume":"38,007.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-29",
+        "Open":515.0,
+        "High":537.0,
+        "Low":515.0,
+        "Close":530.2,
+        "Percent Change":"0.99 %",
+        "Volume":"30,539.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-28",
+        "Open":505.0,
+        "High":527.0,
+        "Low":503.1,
+        "Close":525.0,
+        "Percent Change":"3.96 %",
+        "Volume":"31,024.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-25",
+        "Open":509.4,
+        "High":515.0,
+        "Low":496.1,
+        "Close":505.0,
+        "Percent Change":"-0.86 %",
+        "Volume":"28,866.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-24",
+        "Open":521.0,
+        "High":530.0,
+        "Low":509.0,
+        "Close":509.4,
+        "Percent Change":"-2.41 %",
+        "Volume":"28,559.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-23",
+        "Open":521.0,
+        "High":540.7,
+        "Low":516.4,
+        "Close":522.0,
+        "Percent Change":"-1.53 %",
+        "Volume":"32,181.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-22",
+        "Open":540.0,
+        "High":550.0,
+        "Low":528.0,
+        "Close":530.1,
+        "Percent Change":"-2.01 %",
+        "Volume":"35,703.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-21",
+        "Open":543.0,
+        "High":564.0,
+        "Low":537.0,
+        "Close":541.0,
+        "Percent Change":"-0.18 %",
+        "Volume":"40,419.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-18",
+        "Open":540.0,
+        "High":570.0,
+        "Low":530.0,
+        "Close":542.0,
+        "Percent Change":"-1.63 %",
+        "Volume":"62,515.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-17",
+        "Open":588.5,
+        "High":588.5,
+        "Low":545.0,
+        "Close":551.0,
+        "Percent Change":"-4.51 %",
+        "Volume":"58,811.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-16",
+        "Open":593.0,
+        "High":600.0,
+        "Low":565.1,
+        "Close":577.0,
+        "Percent Change":"-0.86 %",
+        "Volume":"62,737.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-14",
+        "Open":570.0,
+        "High":608.0,
+        "Low":570.0,
+        "Close":582.0,
+        "Percent Change":"3.93 %",
+        "Volume":"90,565.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-11",
+        "Open":550.0,
+        "High":568.0,
+        "Low":548.0,
+        "Close":560.0,
+        "Percent Change":"0.18 %",
+        "Volume":"27,247.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-10",
+        "Open":568.0,
+        "High":573.1,
+        "Low":555.0,
+        "Close":559.0,
+        "Percent Change":"-1.41 %",
+        "Volume":"27,275.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-09",
+        "Open":586.0,
+        "High":597.0,
+        "Low":562.0,
+        "Close":567.0,
+        "Percent Change":"-3.24 %",
+        "Volume":"43,715.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-08",
+        "Open":559.0,
+        "High":595.4,
+        "Low":548.0,
+        "Close":586.0,
+        "Percent Change":"4.83 %",
+        "Volume":"52,235.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-07",
+        "Open":596.7,
+        "High":607.0,
+        "Low":555.5,
+        "Close":559.0,
+        "Percent Change":"-4.44 %",
+        "Volume":"76,780.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-04",
+        "Open":550.0,
+        "High":595.0,
+        "Low":542.0,
+        "Close":585.0,
+        "Percent Change":"7.93 %",
+        "Volume":"68,836.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-03",
+        "Open":545.0,
+        "High":545.0,
+        "Low":530.0,
+        "Close":542.0,
+        "Percent Change":"0.30 %",
+        "Volume":"60,268.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-02",
+        "Open":555.0,
+        "High":570.0,
+        "Low":530.2,
+        "Close":540.4,
+        "Percent Change":"-1.57 %",
+        "Volume":"107,187.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2024-01-01",
+        "Open":545.2,
+        "High":588.0,
+        "Low":523.9,
+        "Close":549.0,
+        "Percent Change":"2.69 %",
+        "Volume":"150,275.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2023-12-28",
+        "Open":495.7,
+        "High":534.6,
+        "Low":495.7,
+        "Close":534.6,
+        "Percent Change":"10.00 %",
+        "Volume":"46,854.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2023-12-27",
+        "Open":450.7,
+        "High":486.0,
+        "Low":450.7,
+        "Close":486.0,
+        "Percent Change":"9.98 %",
+        "Volume":"18,977.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2023-12-24",
+        "Open":409.8,
+        "High":441.9,
+        "Low":409.8,
+        "Close":441.9,
+        "Percent Change":"9.98 %",
+        "Volume":"9,105.00"
+    },
+    {
+        "Symbol":"VLUCL",
+        "Date":"2023-12-21",
+        "Open":365.3,
+        "High":401.8,
+        "Low":365.3,
+        "Close":401.8,
+        "Percent Change":"0.00 %",
+        "Volume":"7,730.00"
+    }
+]

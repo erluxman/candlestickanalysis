@@ -1,0 +1,3822 @@
+[
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-08-11",
+        "Open":1863.5,
+        "High":1976.7,
+        "Low":1820.0,
+        "Close":1891.0,
+        "Percent Change":"3.50 %",
+        "Volume":"3,658.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-08-08",
+        "Open":1854.0,
+        "High":2002.0,
+        "Low":1825.0,
+        "Close":1827.0,
+        "Percent Change":"0.38 %",
+        "Volume":"5,782.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-08-07",
+        "Open":1821.0,
+        "High":1835.0,
+        "Low":1789.0,
+        "Close":1820.0,
+        "Percent Change":"1.93 %",
+        "Volume":"4,230.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-08-06",
+        "Open":1833.0,
+        "High":1871.0,
+        "Low":1785.6,
+        "Close":1785.6,
+        "Percent Change":"-0.76 %",
+        "Volume":"4,069.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-08-05",
+        "Open":1820.0,
+        "High":1831.0,
+        "Low":1796.1,
+        "Close":1799.2,
+        "Percent Change":"-1.74 %",
+        "Volume":"5,357.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-08-01",
+        "Open":1840.0,
+        "High":1920.0,
+        "Low":1831.1,
+        "Close":1831.1,
+        "Percent Change":"-1.50 %",
+        "Volume":"3,670.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-31",
+        "Open":1853.0,
+        "High":1900.0,
+        "Low":1853.0,
+        "Close":1859.0,
+        "Percent Change":"0.32 %",
+        "Volume":"3,996.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-30",
+        "Open":1830.0,
+        "High":1861.0,
+        "Low":1810.1,
+        "Close":1853.0,
+        "Percent Change":"0.43 %",
+        "Volume":"2,679.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-29",
+        "Open":1948.3,
+        "High":1948.3,
+        "Low":1830.0,
+        "Close":1845.0,
+        "Percent Change":"-3.41 %",
+        "Volume":"4,498.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-28",
+        "Open":1993.0,
+        "High":2000.0,
+        "Low":1854.0,
+        "Close":1910.1,
+        "Percent Change":"-2.25 %",
+        "Volume":"4,797.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-25",
+        "Open":1894.0,
+        "High":2011.0,
+        "Low":1866.0,
+        "Close":1954.0,
+        "Percent Change":"5.05 %",
+        "Volume":"8,966.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-24",
+        "Open":1959.9,
+        "High":2002.0,
+        "Low":1852.0,
+        "Close":1860.0,
+        "Percent Change":"-3.38 %",
+        "Volume":"3,385.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-23",
+        "Open":1856.0,
+        "High":2043.0,
+        "Low":1854.0,
+        "Close":1925.0,
+        "Percent Change":"1.95 %",
+        "Volume":"5,959.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-22",
+        "Open":1957.9,
+        "High":2016.0,
+        "Low":1881.0,
+        "Close":1888.1,
+        "Percent Change":"-1.67 %",
+        "Volume":"5,186.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-21",
+        "Open":2022.0,
+        "High":2022.0,
+        "Low":1911.0,
+        "Close":1920.1,
+        "Percent Change":"-3.17 %",
+        "Volume":"3,673.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-18",
+        "Open":1976.7,
+        "High":2121.0,
+        "Low":1968.9,
+        "Close":1983.0,
+        "Percent Change":"2.32 %",
+        "Volume":"9,605.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-17",
+        "Open":1978.0,
+        "High":1978.0,
+        "Low":1876.0,
+        "Close":1938.0,
+        "Percent Change":"-0.10 %",
+        "Volume":"2,414.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-16",
+        "Open":1960.0,
+        "High":1960.0,
+        "Low":1866.0,
+        "Close":1940.0,
+        "Percent Change":"-1.18 %",
+        "Volume":"2,353.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-15",
+        "Open":1927.0,
+        "High":2044.0,
+        "Low":1850.0,
+        "Close":1963.2,
+        "Percent Change":"3.87 %",
+        "Volume":"4,084.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-14",
+        "Open":1925.7,
+        "High":2038.9,
+        "Low":1863.0,
+        "Close":1890.0,
+        "Percent Change":"0.11 %",
+        "Volume":"3,352.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-11",
+        "Open":1958.5,
+        "High":1997.0,
+        "Low":1866.2,
+        "Close":1888.0,
+        "Percent Change":"-1.67 %",
+        "Volume":"2,829.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-10",
+        "Open":1944.0,
+        "High":2060.0,
+        "Low":1919.0,
+        "Close":1920.1,
+        "Percent Change":"0.74 %",
+        "Volume":"3,593.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-09",
+        "Open":1836.0,
+        "High":1980.0,
+        "Low":1800.0,
+        "Close":1906.0,
+        "Percent Change":"5.89 %",
+        "Volume":"10,112.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-08",
+        "Open":1814.0,
+        "High":1814.0,
+        "Low":1755.0,
+        "Close":1800.0,
+        "Percent Change":"0.90 %",
+        "Volume":"4,532.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-07",
+        "Open":1793.0,
+        "High":1793.0,
+        "Low":1725.7,
+        "Close":1784.0,
+        "Percent Change":"1.35 %",
+        "Volume":"1,714.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-04",
+        "Open":1734.0,
+        "High":1803.0,
+        "Low":1734.0,
+        "Close":1760.2,
+        "Percent Change":"-0.49 %",
+        "Volume":"2,284.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-03",
+        "Open":1738.3,
+        "High":1769.9,
+        "Low":1738.3,
+        "Close":1768.9,
+        "Percent Change":"-0.23 %",
+        "Volume":"2,300.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-02",
+        "Open":1785.0,
+        "High":1856.0,
+        "Low":1750.2,
+        "Close":1773.0,
+        "Percent Change":"1.31 %",
+        "Volume":"1,135.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-07-01",
+        "Open":1700.0,
+        "High":1853.0,
+        "Low":1700.0,
+        "Close":1750.0,
+        "Percent Change":"1.01 %",
+        "Volume":"1,588.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-30",
+        "Open":1740.0,
+        "High":1755.4,
+        "Low":1713.0,
+        "Close":1732.5,
+        "Percent Change":"-0.14 %",
+        "Volume":"3,169.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-27",
+        "Open":1753.0,
+        "High":1760.0,
+        "Low":1735.0,
+        "Close":1735.0,
+        "Percent Change":"-1.42 %",
+        "Volume":"1,799.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-26",
+        "Open":1800.0,
+        "High":1807.0,
+        "Low":1760.0,
+        "Close":1760.0,
+        "Percent Change":"-2.71 %",
+        "Volume":"2,378.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-25",
+        "Open":1775.0,
+        "High":1829.0,
+        "Low":1775.0,
+        "Close":1809.0,
+        "Percent Change":"1.92 %",
+        "Volume":"3,038.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-24",
+        "Open":1793.9,
+        "High":1825.0,
+        "Low":1761.0,
+        "Close":1775.0,
+        "Percent Change":"0.68 %",
+        "Volume":"3,550.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-23",
+        "Open":1810.0,
+        "High":1815.0,
+        "Low":1750.0,
+        "Close":1763.0,
+        "Percent Change":"-4.18 %",
+        "Volume":"4,129.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-20",
+        "Open":1886.0,
+        "High":1924.7,
+        "Low":1816.0,
+        "Close":1840.0,
+        "Percent Change":"-0.54 %",
+        "Volume":"6,330.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-19",
+        "Open":1711.0,
+        "High":1899.2,
+        "Low":1698.1,
+        "Close":1850.0,
+        "Percent Change":"6.87 %",
+        "Volume":"13,115.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-18",
+        "Open":1750.0,
+        "High":1764.0,
+        "Low":1700.0,
+        "Close":1731.1,
+        "Percent Change":"-0.45 %",
+        "Volume":"4,533.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-16",
+        "Open":1783.9,
+        "High":1783.9,
+        "Low":1712.1,
+        "Close":1739.0,
+        "Percent Change":"-0.57 %",
+        "Volume":"3,226.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-13",
+        "Open":1749.0,
+        "High":1795.0,
+        "Low":1681.0,
+        "Close":1749.0,
+        "Percent Change":"-0.06 %",
+        "Volume":"5,068.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-12",
+        "Open":1762.0,
+        "High":1790.0,
+        "Low":1750.0,
+        "Close":1750.0,
+        "Percent Change":"-1.13 %",
+        "Volume":"2,188.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-11",
+        "Open":1770.0,
+        "High":1785.0,
+        "Low":1740.0,
+        "Close":1770.0,
+        "Percent Change":"1.14 %",
+        "Volume":"4,597.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-10",
+        "Open":1715.0,
+        "High":1790.0,
+        "Low":1691.1,
+        "Close":1750.0,
+        "Percent Change":"2.04 %",
+        "Volume":"3,536.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-09",
+        "Open":1735.0,
+        "High":1765.0,
+        "Low":1713.0,
+        "Close":1715.0,
+        "Percent Change":"-1.44 %",
+        "Volume":"6,791.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-06",
+        "Open":1790.0,
+        "High":1815.0,
+        "Low":1740.0,
+        "Close":1740.0,
+        "Percent Change":"-1.42 %",
+        "Volume":"6,808.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-05",
+        "Open":1737.0,
+        "High":1800.0,
+        "Low":1737.0,
+        "Close":1765.0,
+        "Percent Change":"0.27 %",
+        "Volume":"4,557.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-04",
+        "Open":1770.0,
+        "High":1799.8,
+        "Low":1760.0,
+        "Close":1760.2,
+        "Percent Change":"0.58 %",
+        "Volume":"3,964.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-03",
+        "Open":1703.0,
+        "High":1795.2,
+        "Low":1669.0,
+        "Close":1750.0,
+        "Percent Change":"2.76 %",
+        "Volume":"3,856.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-06-02",
+        "Open":1716.0,
+        "High":1716.0,
+        "Low":1656.0,
+        "Close":1703.0,
+        "Percent Change":"1.07 %",
+        "Volume":"4,253.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-30",
+        "Open":1719.0,
+        "High":1720.0,
+        "Low":1665.0,
+        "Close":1685.0,
+        "Percent Change":"-0.20 %",
+        "Volume":"4,923.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-29",
+        "Open":1770.0,
+        "High":1839.0,
+        "Low":1688.3,
+        "Close":1688.3,
+        "Percent Change":"-4.62 %",
+        "Volume":"6,306.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-27",
+        "Open":1752.0,
+        "High":1818.0,
+        "Low":1751.0,
+        "Close":1770.0,
+        "Percent Change":"0.00 %",
+        "Volume":"12,043.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-26",
+        "Open":1803.0,
+        "High":1815.8,
+        "Low":1744.6,
+        "Close":1770.0,
+        "Percent Change":"-3.33 %",
+        "Volume":"14,276.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-22",
+        "Open":1810.0,
+        "High":1860.0,
+        "Low":1765.0,
+        "Close":1830.9,
+        "Percent Change":"0.35 %",
+        "Volume":"8,568.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-21",
+        "Open":1697.1,
+        "High":1845.0,
+        "Low":1670.0,
+        "Close":1824.5,
+        "Percent Change":"5.71 %",
+        "Volume":"14,231.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-20",
+        "Open":1878.9,
+        "High":1930.0,
+        "Low":1721.0,
+        "Close":1726.0,
+        "Percent Change":"-6.35 %",
+        "Volume":"16,967.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-19",
+        "Open":1780.6,
+        "High":1895.9,
+        "Low":1720.0,
+        "Close":1843.0,
+        "Percent Change":"5.57 %",
+        "Volume":"13,523.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-16",
+        "Open":1600.0,
+        "High":1745.7,
+        "Low":1600.0,
+        "Close":1745.7,
+        "Percent Change":"10.00 %",
+        "Volume":"22,121.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-15",
+        "Open":1545.0,
+        "High":1600.0,
+        "Low":1498.4,
+        "Close":1587.0,
+        "Percent Change":"1.73 %",
+        "Volume":"14,131.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-14",
+        "Open":1540.2,
+        "High":1660.0,
+        "Low":1515.0,
+        "Close":1560.0,
+        "Percent Change":"3.31 %",
+        "Volume":"13,946.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-13",
+        "Open":1400.0,
+        "High":1510.0,
+        "Low":1400.0,
+        "Close":1510.0,
+        "Percent Change":"9.99 %",
+        "Volume":"15,788.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-12",
+        "Open":1272.9,
+        "High":1372.8,
+        "Low":1272.9,
+        "Close":1372.8,
+        "Percent Change":"10.00 %",
+        "Volume":"23,260.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-09",
+        "Open":1270.0,
+        "High":1270.0,
+        "Low":1227.0,
+        "Close":1248.0,
+        "Percent Change":"-1.58 %",
+        "Volume":"3,926.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-08",
+        "Open":1203.7,
+        "High":1271.0,
+        "Low":1179.7,
+        "Close":1268.0,
+        "Percent Change":"7.45 %",
+        "Volume":"4,683.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-07",
+        "Open":1172.1,
+        "High":1234.0,
+        "Low":1172.1,
+        "Close":1180.1,
+        "Percent Change":"-1.25 %",
+        "Volume":"990.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-06",
+        "Open":1206.0,
+        "High":1206.0,
+        "Low":1160.0,
+        "Close":1195.0,
+        "Percent Change":"-2.85 %",
+        "Volume":"1,877.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-05",
+        "Open":1264.8,
+        "High":1285.0,
+        "Low":1200.0,
+        "Close":1230.0,
+        "Percent Change":"-0.81 %",
+        "Volume":"2,275.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-05-02",
+        "Open":1225.0,
+        "High":1326.5,
+        "Low":1225.0,
+        "Close":1240.0,
+        "Percent Change":"1.22 %",
+        "Volume":"8,399.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-30",
+        "Open":1200.0,
+        "High":1246.0,
+        "Low":1172.2,
+        "Close":1225.0,
+        "Percent Change":"0.91 %",
+        "Volume":"4,074.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-29",
+        "Open":1220.0,
+        "High":1234.0,
+        "Low":1196.1,
+        "Close":1214.0,
+        "Percent Change":"-1.54 %",
+        "Volume":"3,222.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-28",
+        "Open":1200.0,
+        "High":1252.1,
+        "Low":1180.0,
+        "Close":1233.0,
+        "Percent Change":"1.90 %",
+        "Volume":"2,195.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-25",
+        "Open":1215.0,
+        "High":1230.0,
+        "Low":1194.0,
+        "Close":1210.0,
+        "Percent Change":"-2.02 %",
+        "Volume":"921.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-24",
+        "Open":1220.0,
+        "High":1244.3,
+        "Low":1200.5,
+        "Close":1235.0,
+        "Percent Change":"-0.40 %",
+        "Volume":"2,081.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-22",
+        "Open":1270.0,
+        "High":1295.0,
+        "Low":1221.0,
+        "Close":1240.0,
+        "Percent Change":"-4.25 %",
+        "Volume":"3,118.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-21",
+        "Open":1215.2,
+        "High":1325.0,
+        "Low":1191.0,
+        "Close":1295.0,
+        "Percent Change":"4.44 %",
+        "Volume":"3,611.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-18",
+        "Open":1274.0,
+        "High":1274.0,
+        "Low":1205.0,
+        "Close":1240.0,
+        "Percent Change":"-4.62 %",
+        "Volume":"5,144.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-16",
+        "Open":1294.6,
+        "High":1344.0,
+        "Low":1243.5,
+        "Close":1300.0,
+        "Percent Change":"-1.59 %",
+        "Volume":"4,203.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-15",
+        "Open":1288.0,
+        "High":1380.0,
+        "Low":1278.9,
+        "Close":1321.0,
+        "Percent Change":"4.61 %",
+        "Volume":"13,097.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-14",
+        "Open":1148.0,
+        "High":1262.8,
+        "Low":1140.0,
+        "Close":1262.8,
+        "Percent Change":"10.00 %",
+        "Volume":"9,087.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-10",
+        "Open":1180.0,
+        "High":1180.0,
+        "Low":1124.0,
+        "Close":1148.0,
+        "Percent Change":"-2.38 %",
+        "Volume":"4,787.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-09",
+        "Open":1122.0,
+        "High":1176.0,
+        "Low":1106.0,
+        "Close":1176.0,
+        "Percent Change":"4.34 %",
+        "Volume":"9,334.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-07",
+        "Open":1120.0,
+        "High":1168.0,
+        "Low":1120.0,
+        "Close":1127.1,
+        "Percent Change":"2.37 %",
+        "Volume":"10,163.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-04",
+        "Open":1070.0,
+        "High":1142.0,
+        "Low":1013.0,
+        "Close":1101.0,
+        "Percent Change":"4.86 %",
+        "Volume":"10,660.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-03",
+        "Open":994.0,
+        "High":1070.0,
+        "Low":971.2,
+        "Close":1050.0,
+        "Percent Change":"7.69 %",
+        "Volume":"8,647.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-02",
+        "Open":984.3,
+        "High":1003.0,
+        "Low":931.8,
+        "Close":975.0,
+        "Percent Change":"1.04 %",
+        "Volume":"1,956.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-04-01",
+        "Open":926.2,
+        "High":982.0,
+        "Low":926.2,
+        "Close":965.0,
+        "Percent Change":"2.43 %",
+        "Volume":"1,383.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-31",
+        "Open":954.6,
+        "High":973.0,
+        "Low":941.4,
+        "Close":942.1,
+        "Percent Change":"-3.28 %",
+        "Volume":"1,955.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-28",
+        "Open":952.6,
+        "High":974.0,
+        "Low":950.0,
+        "Close":974.0,
+        "Percent Change":"0.41 %",
+        "Volume":"1,501.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-27",
+        "Open":990.1,
+        "High":1009.9,
+        "Low":936.0,
+        "Close":970.0,
+        "Percent Change":"-3.96 %",
+        "Volume":"2,465.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-26",
+        "Open":1030.0,
+        "High":1054.9,
+        "Low":982.0,
+        "Close":1010.0,
+        "Percent Change":"-1.94 %",
+        "Volume":"3,812.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-25",
+        "Open":1057.7,
+        "High":1057.7,
+        "Low":1005.0,
+        "Close":1030.0,
+        "Percent Change":"-4.56 %",
+        "Volume":"2,396.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-21",
+        "Open":1048.6,
+        "High":1084.0,
+        "Low":1027.7,
+        "Close":1079.2,
+        "Percent Change":"0.86 %",
+        "Volume":"3,384.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-20",
+        "Open":1049.0,
+        "High":1123.0,
+        "Low":1033.0,
+        "Close":1070.0,
+        "Percent Change":"3.38 %",
+        "Volume":"9,565.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-19",
+        "Open":994.0,
+        "High":1035.0,
+        "Low":994.0,
+        "Close":1035.0,
+        "Percent Change":"4.12 %",
+        "Volume":"4,342.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-18",
+        "Open":982.2,
+        "High":1000.0,
+        "Low":966.0,
+        "Close":994.0,
+        "Percent Change":"-0.40 %",
+        "Volume":"1,193.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-17",
+        "Open":972.0,
+        "High":1009.0,
+        "Low":972.0,
+        "Close":998.0,
+        "Percent Change":"0.81 %",
+        "Volume":"5,388.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-14",
+        "Open":983.0,
+        "High":990.0,
+        "Low":950.1,
+        "Close":990.0,
+        "Percent Change":"0.71 %",
+        "Volume":"2,541.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-13",
+        "Open":950.0,
+        "High":1008.0,
+        "Low":942.0,
+        "Close":983.0,
+        "Percent Change":"4.35 %",
+        "Volume":"4,232.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-12",
+        "Open":910.0,
+        "High":958.9,
+        "Low":898.0,
+        "Close":942.0,
+        "Percent Change":"4.67 %",
+        "Volume":"4,639.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-10",
+        "Open":876.1,
+        "High":919.0,
+        "Low":860.1,
+        "Close":900.0,
+        "Percent Change":"4.77 %",
+        "Volume":"2,159.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-07",
+        "Open":845.0,
+        "High":870.0,
+        "Low":832.2,
+        "Close":859.0,
+        "Percent Change":"2.63 %",
+        "Volume":"194.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-06",
+        "Open":854.0,
+        "High":860.0,
+        "Low":837.0,
+        "Close":837.0,
+        "Percent Change":"-1.99 %",
+        "Volume":"439.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-05",
+        "Open":906.0,
+        "High":915.0,
+        "Low":839.0,
+        "Close":854.0,
+        "Percent Change":"-3.86 %",
+        "Volume":"535.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-04",
+        "Open":888.3,
+        "High":888.3,
+        "Low":888.3,
+        "Close":888.3,
+        "Percent Change":"2.00 %",
+        "Volume":"10.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-03-03",
+        "Open":889.0,
+        "High":889.0,
+        "Low":837.1,
+        "Close":870.9,
+        "Percent Change":"-2.15 %",
+        "Volume":"260.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-29",
+        "Open":882.3,
+        "High":897.0,
+        "Low":825.0,
+        "Close":890.0,
+        "Percent Change":"2.89 %",
+        "Volume":"1,606.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-28",
+        "Open":850.0,
+        "High":879.3,
+        "Low":777.0,
+        "Close":865.0,
+        "Percent Change":"0.23 %",
+        "Volume":"948.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-27",
+        "Open":815.1,
+        "High":863.0,
+        "Low":815.0,
+        "Close":863.0,
+        "Percent Change":"5.48 %",
+        "Volume":"220.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-26",
+        "Open":820.0,
+        "High":834.0,
+        "Low":818.0,
+        "Close":818.2,
+        "Percent Change":"-0.82 %",
+        "Volume":"648.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-25",
+        "Open":877.0,
+        "High":889.0,
+        "Low":815.0,
+        "Close":825.0,
+        "Percent Change":"-4.07 %",
+        "Volume":"1,370.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-22",
+        "Open":861.0,
+        "High":872.0,
+        "Low":858.0,
+        "Close":860.0,
+        "Percent Change":"-1.71 %",
+        "Volume":"550.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-21",
+        "Open":887.0,
+        "High":887.0,
+        "Low":870.0,
+        "Close":875.0,
+        "Percent Change":"0.57 %",
+        "Volume":"601.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-20",
+        "Open":889.0,
+        "High":889.0,
+        "Low":870.0,
+        "Close":870.0,
+        "Percent Change":"-3.33 %",
+        "Volume":"917.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-18",
+        "Open":933.0,
+        "High":933.0,
+        "Low":895.1,
+        "Close":900.0,
+        "Percent Change":"-5.46 %",
+        "Volume":"1,240.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-15",
+        "Open":899.0,
+        "High":954.7,
+        "Low":886.0,
+        "Close":952.0,
+        "Percent Change":"4.04 %",
+        "Volume":"989.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-14",
+        "Open":911.0,
+        "High":920.0,
+        "Low":900.5,
+        "Close":915.0,
+        "Percent Change":"-1.29 %",
+        "Volume":"1,337.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-13",
+        "Open":955.5,
+        "High":955.5,
+        "Low":917.7,
+        "Close":927.0,
+        "Percent Change":"-4.92 %",
+        "Volume":"2,926.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-12",
+        "Open":932.0,
+        "High":1015.0,
+        "Low":921.0,
+        "Close":975.0,
+        "Percent Change":"2.63 %",
+        "Volume":"460.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-11",
+        "Open":955.1,
+        "High":975.0,
+        "Low":948.0,
+        "Close":950.0,
+        "Percent Change":"-2.16 %",
+        "Volume":"1,052.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-08",
+        "Open":935.0,
+        "High":971.0,
+        "Low":935.0,
+        "Close":971.0,
+        "Percent Change":"2.00 %",
+        "Volume":"530.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-07",
+        "Open":930.0,
+        "High":967.4,
+        "Low":930.0,
+        "Close":952.0,
+        "Percent Change":"0.74 %",
+        "Volume":"655.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-06",
+        "Open":920.0,
+        "High":955.0,
+        "Low":911.1,
+        "Close":945.0,
+        "Percent Change":"2.15 %",
+        "Volume":"461.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-05",
+        "Open":931.0,
+        "High":949.6,
+        "Low":921.0,
+        "Close":925.1,
+        "Percent Change":"-0.63 %",
+        "Volume":"661.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-04",
+        "Open":948.0,
+        "High":949.0,
+        "Low":906.5,
+        "Close":931.0,
+        "Percent Change":"0.11 %",
+        "Volume":"940.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-02-01",
+        "Open":938.9,
+        "High":941.0,
+        "Low":926.0,
+        "Close":930.0,
+        "Percent Change":"-2.92 %",
+        "Volume":"773.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-31",
+        "Open":943.9,
+        "High":962.0,
+        "Low":932.0,
+        "Close":958.0,
+        "Percent Change":"-0.52 %",
+        "Volume":"1,800.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-30",
+        "Open":950.0,
+        "High":975.0,
+        "Low":950.0,
+        "Close":963.0,
+        "Percent Change":"0.31 %",
+        "Volume":"1,591.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-29",
+        "Open":940.0,
+        "High":960.0,
+        "Low":931.0,
+        "Close":960.0,
+        "Percent Change":"2.13 %",
+        "Volume":"1,115.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-28",
+        "Open":944.0,
+        "High":954.7,
+        "Low":930.2,
+        "Close":940.0,
+        "Percent Change":"-1.26 %",
+        "Volume":"547.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-25",
+        "Open":990.0,
+        "High":990.0,
+        "Low":951.0,
+        "Close":952.0,
+        "Percent Change":"-3.84 %",
+        "Volume":"485.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-24",
+        "Open":925.1,
+        "High":1008.0,
+        "Low":925.1,
+        "Close":990.0,
+        "Percent Change":"5.32 %",
+        "Volume":"545.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-23",
+        "Open":946.0,
+        "High":965.9,
+        "Low":932.1,
+        "Close":940.0,
+        "Percent Change":"-1.57 %",
+        "Volume":"500.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-22",
+        "Open":953.0,
+        "High":972.0,
+        "Low":953.0,
+        "Close":955.0,
+        "Percent Change":"-1.67 %",
+        "Volume":"775.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-21",
+        "Open":999.6,
+        "High":1020.0,
+        "Low":971.0,
+        "Close":971.2,
+        "Percent Change":"-4.78 %",
+        "Volume":"1,581.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-18",
+        "Open":1030.0,
+        "High":1050.0,
+        "Low":995.0,
+        "Close":1020.0,
+        "Percent Change":"-2.76 %",
+        "Volume":"1,952.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-17",
+        "Open":1048.0,
+        "High":1086.2,
+        "Low":1010.0,
+        "Close":1049.0,
+        "Percent Change":"1.36 %",
+        "Volume":"3,369.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-16",
+        "Open":983.2,
+        "High":1045.0,
+        "Low":983.2,
+        "Close":1034.9,
+        "Percent Change":"7.35 %",
+        "Volume":"2,957.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-14",
+        "Open":935.0,
+        "High":974.0,
+        "Low":935.0,
+        "Close":964.0,
+        "Percent Change":"3.20 %",
+        "Volume":"440.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-11",
+        "Open":958.0,
+        "High":958.0,
+        "Low":931.0,
+        "Close":934.1,
+        "Percent Change":"-2.70 %",
+        "Volume":"335.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-10",
+        "Open":916.0,
+        "High":1001.0,
+        "Low":916.0,
+        "Close":960.0,
+        "Percent Change":"5.49 %",
+        "Volume":"2,565.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-09",
+        "Open":890.0,
+        "High":926.0,
+        "Low":890.0,
+        "Close":910.0,
+        "Percent Change":"0.22 %",
+        "Volume":"535.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-08",
+        "Open":884.0,
+        "High":908.0,
+        "Low":875.0,
+        "Close":908.0,
+        "Percent Change":"3.16 %",
+        "Volume":"1,019.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-07",
+        "Open":900.0,
+        "High":904.0,
+        "Low":880.2,
+        "Close":880.2,
+        "Percent Change":"-0.58 %",
+        "Volume":"571.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-04",
+        "Open":870.0,
+        "High":915.0,
+        "Low":862.0,
+        "Close":885.3,
+        "Percent Change":"0.92 %",
+        "Volume":"500.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-03",
+        "Open":870.0,
+        "High":903.0,
+        "Low":860.0,
+        "Close":877.2,
+        "Percent Change":"0.83 %",
+        "Volume":"573.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-02",
+        "Open":866.0,
+        "High":883.3,
+        "Low":866.0,
+        "Close":870.0,
+        "Percent Change":"-1.14 %",
+        "Volume":"728.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2024-01-01",
+        "Open":920.0,
+        "High":920.0,
+        "Low":875.0,
+        "Close":880.0,
+        "Percent Change":"-2.99 %",
+        "Volume":"844.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-28",
+        "Open":916.3,
+        "High":925.0,
+        "Low":901.0,
+        "Close":907.1,
+        "Percent Change":"-2.98 %",
+        "Volume":"771.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-27",
+        "Open":937.0,
+        "High":950.0,
+        "Low":920.0,
+        "Close":935.0,
+        "Percent Change":"-1.68 %",
+        "Volume":"771.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-24",
+        "Open":970.0,
+        "High":1005.7,
+        "Low":951.0,
+        "Close":951.0,
+        "Percent Change":"-3.55 %",
+        "Volume":"1,814.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-21",
+        "Open":1031.0,
+        "High":1031.0,
+        "Low":976.0,
+        "Close":986.0,
+        "Percent Change":"-4.36 %",
+        "Volume":"1,440.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-20",
+        "Open":1020.0,
+        "High":1045.0,
+        "Low":1005.0,
+        "Close":1031.0,
+        "Percent Change":"3.00 %",
+        "Volume":"1,375.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-19",
+        "Open":975.0,
+        "High":1001.0,
+        "Low":955.0,
+        "Close":1001.0,
+        "Percent Change":"3.84 %",
+        "Volume":"1,990.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-18",
+        "Open":904.0,
+        "High":969.0,
+        "Low":904.0,
+        "Close":964.0,
+        "Percent Change":"8.68 %",
+        "Volume":"1,511.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-17",
+        "Open":874.2,
+        "High":887.4,
+        "Low":860.0,
+        "Close":887.0,
+        "Percent Change":"-0.56 %",
+        "Volume":"1,045.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-14",
+        "Open":887.0,
+        "High":921.0,
+        "Low":887.0,
+        "Close":892.0,
+        "Percent Change":"-1.44 %",
+        "Volume":"1,090.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-13",
+        "Open":905.0,
+        "High":908.7,
+        "Low":864.0,
+        "Close":905.0,
+        "Percent Change":"1.69 %",
+        "Volume":"798.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-12",
+        "Open":870.0,
+        "High":911.8,
+        "Low":853.0,
+        "Close":890.0,
+        "Percent Change":"2.89 %",
+        "Volume":"495.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-11",
+        "Open":856.0,
+        "High":865.0,
+        "Low":840.0,
+        "Close":865.0,
+        "Percent Change":"2.98 %",
+        "Volume":"864.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-10",
+        "Open":827.0,
+        "High":840.0,
+        "Low":827.0,
+        "Close":840.0,
+        "Percent Change":"3.58 %",
+        "Volume":"40.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-07",
+        "Open":800.0,
+        "High":816.0,
+        "Low":791.0,
+        "Close":811.0,
+        "Percent Change":"1.38 %",
+        "Volume":"150.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-06",
+        "Open":786.0,
+        "High":800.0,
+        "Low":786.0,
+        "Close":800.0,
+        "Percent Change":"0.00 %",
+        "Volume":"130.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-05",
+        "Open":800.0,
+        "High":800.0,
+        "Low":786.0,
+        "Close":800.0,
+        "Percent Change":"-0.62 %",
+        "Volume":"358.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-04",
+        "Open":780.0,
+        "High":806.0,
+        "Low":778.0,
+        "Close":805.0,
+        "Percent Change":"1.77 %",
+        "Volume":"374.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-12-03",
+        "Open":786.0,
+        "High":803.7,
+        "Low":785.1,
+        "Close":791.0,
+        "Percent Change":"-1.13 %",
+        "Volume":"240.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-30",
+        "Open":793.8,
+        "High":809.6,
+        "Low":793.8,
+        "Close":800.0,
+        "Percent Change":"-1.23 %",
+        "Volume":"90.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-29",
+        "Open":810.1,
+        "High":820.0,
+        "Low":800.0,
+        "Close":810.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"440.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-28",
+        "Open":791.0,
+        "High":816.0,
+        "Low":790.5,
+        "Close":810.1,
+        "Percent Change":"1.26 %",
+        "Volume":"525.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-27",
+        "Open":792.6,
+        "High":813.0,
+        "Low":792.6,
+        "Close":800.0,
+        "Percent Change":"-0.63 %",
+        "Volume":"544.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-26",
+        "Open":795.0,
+        "High":819.0,
+        "Low":795.0,
+        "Close":805.1,
+        "Percent Change":"0.06 %",
+        "Volume":"656.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-23",
+        "Open":800.3,
+        "High":837.4,
+        "Low":800.1,
+        "Close":804.6,
+        "Percent Change":"-0.05 %",
+        "Volume":"170.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-22",
+        "Open":800.0,
+        "High":815.0,
+        "Low":800.0,
+        "Close":805.0,
+        "Percent Change":"0.63 %",
+        "Volume":"360.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-21",
+        "Open":815.0,
+        "High":825.0,
+        "Low":800.0,
+        "Close":800.0,
+        "Percent Change":"-1.96 %",
+        "Volume":"210.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-20",
+        "Open":825.2,
+        "High":827.0,
+        "Low":816.0,
+        "Close":816.0,
+        "Percent Change":"-3.09 %",
+        "Volume":"315.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-09",
+        "Open":850.0,
+        "High":865.0,
+        "Low":840.0,
+        "Close":842.0,
+        "Percent Change":"-0.94 %",
+        "Volume":"100.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-08",
+        "Open":857.5,
+        "High":862.9,
+        "Low":841.0,
+        "Close":850.0,
+        "Percent Change":"-0.86 %",
+        "Volume":"910.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-07",
+        "Open":840.0,
+        "High":874.8,
+        "Low":840.0,
+        "Close":857.4,
+        "Percent Change":"1.95 %",
+        "Volume":"165.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-06",
+        "Open":870.0,
+        "High":872.0,
+        "Low":841.0,
+        "Close":841.0,
+        "Percent Change":"-1.49 %",
+        "Volume":"300.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-05",
+        "Open":854.0,
+        "High":854.0,
+        "Low":837.0,
+        "Close":853.7,
+        "Percent Change":"-1.99 %",
+        "Volume":"180.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-02",
+        "Open":867.0,
+        "High":884.4,
+        "Low":867.0,
+        "Close":871.0,
+        "Percent Change":"-1.05 %",
+        "Volume":"143.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-11-01",
+        "Open":873.1,
+        "High":890.0,
+        "Low":873.1,
+        "Close":880.2,
+        "Percent Change":"-1.10 %",
+        "Volume":"685.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-31",
+        "Open":890.1,
+        "High":898.8,
+        "Low":890.0,
+        "Close":890.0,
+        "Percent Change":"-1.11 %",
+        "Volume":"310.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-30",
+        "Open":888.9,
+        "High":906.0,
+        "Low":882.0,
+        "Close":900.0,
+        "Percent Change":"-0.77 %",
+        "Volume":"190.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-29",
+        "Open":878.0,
+        "High":907.0,
+        "Low":878.0,
+        "Close":907.0,
+        "Percent Change":"1.27 %",
+        "Volume":"210.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-19",
+        "Open":909.0,
+        "High":910.0,
+        "Low":895.6,
+        "Close":895.6,
+        "Percent Change":"-0.49 %",
+        "Volume":"60.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-18",
+        "Open":890.0,
+        "High":900.0,
+        "Low":872.3,
+        "Close":900.0,
+        "Percent Change":"1.24 %",
+        "Volume":"180.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-17",
+        "Open":872.0,
+        "High":890.0,
+        "Low":872.0,
+        "Close":889.0,
+        "Percent Change":"1.95 %",
+        "Volume":"433.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-16",
+        "Open":880.0,
+        "High":880.0,
+        "Low":846.0,
+        "Close":872.0,
+        "Percent Change":"-2.79 %",
+        "Volume":"494.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-12",
+        "Open":893.0,
+        "High":902.0,
+        "Low":893.0,
+        "Close":897.0,
+        "Percent Change":"-1.54 %",
+        "Volume":"210.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-11",
+        "Open":907.0,
+        "High":920.0,
+        "Low":892.0,
+        "Close":911.0,
+        "Percent Change":"0.89 %",
+        "Volume":"290.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-10",
+        "Open":891.0,
+        "High":907.0,
+        "Low":891.0,
+        "Close":903.0,
+        "Percent Change":"0.33 %",
+        "Volume":"261.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-09",
+        "Open":906.0,
+        "High":909.9,
+        "Low":897.7,
+        "Close":900.0,
+        "Percent Change":"-1.75 %",
+        "Volume":"380.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-08",
+        "Open":930.0,
+        "High":945.0,
+        "Low":910.0,
+        "Close":916.0,
+        "Percent Change":"-3.02 %",
+        "Volume":"290.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-05",
+        "Open":955.5,
+        "High":955.5,
+        "Low":937.6,
+        "Close":944.5,
+        "Percent Change":"-3.13 %",
+        "Volume":"300.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-04",
+        "Open":925.0,
+        "High":979.0,
+        "Low":925.0,
+        "Close":975.0,
+        "Percent Change":"5.41 %",
+        "Volume":"835.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-03",
+        "Open":908.0,
+        "High":930.0,
+        "Low":908.0,
+        "Close":925.0,
+        "Percent Change":"-0.11 %",
+        "Volume":"190.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-02",
+        "Open":922.2,
+        "High":940.0,
+        "Low":922.2,
+        "Close":926.0,
+        "Percent Change":"-1.53 %",
+        "Volume":"296.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-10-01",
+        "Open":970.0,
+        "High":970.0,
+        "Low":920.8,
+        "Close":940.4,
+        "Percent Change":"-3.05 %",
+        "Volume":"918.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-27",
+        "Open":935.0,
+        "High":975.0,
+        "Low":935.0,
+        "Close":970.0,
+        "Percent Change":"2.11 %",
+        "Volume":"466.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-26",
+        "Open":932.1,
+        "High":960.0,
+        "Low":932.1,
+        "Close":950.0,
+        "Percent Change":"0.58 %",
+        "Volume":"313.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-25",
+        "Open":937.5,
+        "High":967.5,
+        "Low":937.5,
+        "Close":944.5,
+        "Percent Change":"-0.47 %",
+        "Volume":"710.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-24",
+        "Open":938.0,
+        "High":990.0,
+        "Low":920.4,
+        "Close":949.0,
+        "Percent Change":"3.15 %",
+        "Volume":"1,316.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-21",
+        "Open":903.1,
+        "High":939.5,
+        "Low":903.1,
+        "Close":920.0,
+        "Percent Change":"1.87 %",
+        "Volume":"1,287.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-19",
+        "Open":900.7,
+        "High":906.0,
+        "Low":890.6,
+        "Close":903.1,
+        "Percent Change":"-1.73 %",
+        "Volume":"140.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-18",
+        "Open":886.2,
+        "High":920.0,
+        "Low":886.2,
+        "Close":919.0,
+        "Percent Change":"1.88 %",
+        "Volume":"125.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-17",
+        "Open":910.0,
+        "High":920.0,
+        "Low":901.0,
+        "Close":902.0,
+        "Percent Change":"-1.85 %",
+        "Volume":"504.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-13",
+        "Open":872.9,
+        "High":919.0,
+        "Low":872.9,
+        "Close":919.0,
+        "Percent Change":"3.19 %",
+        "Volume":"520.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-12",
+        "Open":900.0,
+        "High":900.0,
+        "Low":890.0,
+        "Close":890.6,
+        "Percent Change":"-2.24 %",
+        "Volume":"400.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-11",
+        "Open":882.0,
+        "High":920.0,
+        "Low":882.0,
+        "Close":911.0,
+        "Percent Change":"1.67 %",
+        "Volume":"260.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-10",
+        "Open":888.2,
+        "High":905.0,
+        "Low":888.2,
+        "Close":896.0,
+        "Percent Change":"-0.99 %",
+        "Volume":"717.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-07",
+        "Open":925.0,
+        "High":925.0,
+        "Low":905.0,
+        "Close":905.0,
+        "Percent Change":"-1.85 %",
+        "Volume":"290.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-05",
+        "Open":925.0,
+        "High":930.0,
+        "Low":921.0,
+        "Close":922.1,
+        "Percent Change":"-1.49 %",
+        "Volume":"280.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-04",
+        "Open":950.0,
+        "High":970.0,
+        "Low":936.0,
+        "Close":936.0,
+        "Percent Change":"-1.78 %",
+        "Volume":"370.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-09-03",
+        "Open":950.1,
+        "High":960.0,
+        "Low":950.1,
+        "Close":953.0,
+        "Percent Change":"-1.45 %",
+        "Volume":"240.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-30",
+        "Open":965.5,
+        "High":985.0,
+        "Low":965.5,
+        "Close":967.0,
+        "Percent Change":"-1.83 %",
+        "Volume":"540.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-29",
+        "Open":997.9,
+        "High":997.9,
+        "Low":978.0,
+        "Close":985.0,
+        "Percent Change":"0.61 %",
+        "Volume":"460.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-28",
+        "Open":965.1,
+        "High":998.0,
+        "Low":965.1,
+        "Close":979.0,
+        "Percent Change":"-0.15 %",
+        "Volume":"360.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-27",
+        "Open":1010.0,
+        "High":1010.0,
+        "Low":977.0,
+        "Close":980.5,
+        "Percent Change":"-1.06 %",
+        "Volume":"380.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-24",
+        "Open":1000.0,
+        "High":1020.0,
+        "Low":988.1,
+        "Close":991.0,
+        "Percent Change":"-0.90 %",
+        "Volume":"782.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-23",
+        "Open":990.0,
+        "High":1020.0,
+        "Low":985.0,
+        "Close":1000.0,
+        "Percent Change":"0.00 %",
+        "Volume":"520.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-22",
+        "Open":1010.0,
+        "High":1010.0,
+        "Low":990.2,
+        "Close":1000.0,
+        "Percent Change":"-0.99 %",
+        "Volume":"800.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-21",
+        "Open":999.0,
+        "High":1018.0,
+        "Low":980.0,
+        "Close":1010.0,
+        "Percent Change":"1.10 %",
+        "Volume":"530.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-20",
+        "Open":994.7,
+        "High":1024.0,
+        "Low":985.1,
+        "Close":999.0,
+        "Percent Change":"-1.58 %",
+        "Volume":"1,430.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-17",
+        "Open":994.0,
+        "High":1032.2,
+        "Low":994.0,
+        "Close":1015.0,
+        "Percent Change":"0.30 %",
+        "Volume":"250.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-16",
+        "Open":1040.0,
+        "High":1040.0,
+        "Low":996.0,
+        "Close":1012.0,
+        "Percent Change":"-2.69 %",
+        "Volume":"844.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-15",
+        "Open":1070.0,
+        "High":1075.0,
+        "Low":1030.0,
+        "Close":1040.0,
+        "Percent Change":"-2.80 %",
+        "Volume":"1,225.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-14",
+        "Open":1055.1,
+        "High":1085.0,
+        "Low":1055.1,
+        "Close":1070.0,
+        "Percent Change":"-0.47 %",
+        "Volume":"538.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-13",
+        "Open":1070.0,
+        "High":1106.0,
+        "Low":1070.0,
+        "Close":1075.0,
+        "Percent Change":"-0.83 %",
+        "Volume":"753.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-10",
+        "Open":1099.0,
+        "High":1141.0,
+        "Low":1082.9,
+        "Close":1084.0,
+        "Percent Change":"-3.30 %",
+        "Volume":"1,661.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-09",
+        "Open":1085.0,
+        "High":1144.0,
+        "Low":1074.0,
+        "Close":1121.0,
+        "Percent Change":"1.82 %",
+        "Volume":"553.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-08",
+        "Open":1105.1,
+        "High":1116.0,
+        "Low":1101.0,
+        "Close":1101.0,
+        "Percent Change":"-1.52 %",
+        "Volume":"763.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-07",
+        "Open":1106.0,
+        "High":1128.0,
+        "Low":1106.0,
+        "Close":1118.0,
+        "Percent Change":"-0.80 %",
+        "Volume":"420.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-06",
+        "Open":1184.9,
+        "High":1185.0,
+        "Low":1110.0,
+        "Close":1127.0,
+        "Percent Change":"-4.13 %",
+        "Volume":"977.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-03",
+        "Open":1170.0,
+        "High":1175.6,
+        "Low":1120.0,
+        "Close":1175.6,
+        "Percent Change":"2.00 %",
+        "Volume":"1,069.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-02",
+        "Open":1100.0,
+        "High":1152.6,
+        "Low":1100.0,
+        "Close":1152.6,
+        "Percent Change":"3.37 %",
+        "Volume":"896.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-08-01",
+        "Open":1125.0,
+        "High":1150.0,
+        "Low":1110.0,
+        "Close":1115.0,
+        "Percent Change":"-0.89 %",
+        "Volume":"1,749.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-31",
+        "Open":1126.0,
+        "High":1151.0,
+        "Low":1125.0,
+        "Close":1125.0,
+        "Percent Change":"0.00 %",
+        "Volume":"2,152.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-30",
+        "Open":1125.0,
+        "High":1129.0,
+        "Low":1122.1,
+        "Close":1125.0,
+        "Percent Change":"-0.89 %",
+        "Volume":"670.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-27",
+        "Open":1163.0,
+        "High":1170.0,
+        "Low":1135.0,
+        "Close":1135.1,
+        "Percent Change":"-0.52 %",
+        "Volume":"1,127.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-26",
+        "Open":1228.0,
+        "High":1228.0,
+        "Low":1136.9,
+        "Close":1141.0,
+        "Percent Change":"-5.31 %",
+        "Volume":"3,377.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-25",
+        "Open":1240.0,
+        "High":1241.0,
+        "Low":1183.0,
+        "Close":1205.0,
+        "Percent Change":"-0.99 %",
+        "Volume":"540.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-24",
+        "Open":1201.0,
+        "High":1225.0,
+        "Low":1195.0,
+        "Close":1217.0,
+        "Percent Change":"-0.65 %",
+        "Volume":"3,018.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-23",
+        "Open":1230.0,
+        "High":1279.0,
+        "Low":1196.0,
+        "Close":1225.0,
+        "Percent Change":"0.91 %",
+        "Volume":"1,240.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-20",
+        "Open":1220.0,
+        "High":1220.0,
+        "Low":1197.0,
+        "Close":1214.0,
+        "Percent Change":"-0.49 %",
+        "Volume":"1,433.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-19",
+        "Open":1269.0,
+        "High":1270.0,
+        "Low":1198.0,
+        "Close":1220.0,
+        "Percent Change":"-3.86 %",
+        "Volume":"2,084.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-18",
+        "Open":1295.0,
+        "High":1320.0,
+        "Low":1233.3,
+        "Close":1269.0,
+        "Percent Change":"-0.83 %",
+        "Volume":"5,260.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-17",
+        "Open":1166.0,
+        "High":1305.7,
+        "Low":1163.3,
+        "Close":1279.6,
+        "Percent Change":"7.80 %",
+        "Volume":"2,562.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-16",
+        "Open":1130.0,
+        "High":1230.0,
+        "Low":1122.0,
+        "Close":1187.0,
+        "Percent Change":"5.03 %",
+        "Volume":"2,299.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-13",
+        "Open":1142.4,
+        "High":1165.2,
+        "Low":1130.1,
+        "Close":1130.1,
+        "Percent Change":"0.90 %",
+        "Volume":"2,194.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-12",
+        "Open":1108.0,
+        "High":1152.0,
+        "Low":1108.0,
+        "Close":1120.0,
+        "Percent Change":"-0.88 %",
+        "Volume":"1,696.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-11",
+        "Open":1130.0,
+        "High":1152.0,
+        "Low":1125.0,
+        "Close":1130.0,
+        "Percent Change":"-1.31 %",
+        "Volume":"1,330.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-10",
+        "Open":1114.5,
+        "High":1158.0,
+        "Low":1114.5,
+        "Close":1145.0,
+        "Percent Change":"0.88 %",
+        "Volume":"953.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-09",
+        "Open":1110.0,
+        "High":1160.0,
+        "Low":1102.0,
+        "Close":1135.0,
+        "Percent Change":"1.79 %",
+        "Volume":"246.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-06",
+        "Open":1099.0,
+        "High":1130.0,
+        "Low":1099.0,
+        "Close":1115.0,
+        "Percent Change":"-0.18 %",
+        "Volume":"1,150.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-05",
+        "Open":1136.1,
+        "High":1137.0,
+        "Low":1115.5,
+        "Close":1117.0,
+        "Percent Change":"-2.02 %",
+        "Volume":"668.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-04",
+        "Open":1140.0,
+        "High":1142.0,
+        "Low":1120.0,
+        "Close":1140.0,
+        "Percent Change":"1.69 %",
+        "Volume":"633.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-03",
+        "Open":1112.5,
+        "High":1142.0,
+        "Low":1112.5,
+        "Close":1121.0,
+        "Percent Change":"-0.71 %",
+        "Volume":"728.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-07-02",
+        "Open":1221.0,
+        "High":1221.0,
+        "Low":1128.8,
+        "Close":1129.0,
+        "Percent Change":"-9.32 %",
+        "Volume":"5,138.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-28",
+        "Open":1286.0,
+        "High":1286.0,
+        "Low":1220.0,
+        "Close":1245.0,
+        "Percent Change":"-3.11 %",
+        "Volume":"1,959.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-27",
+        "Open":1192.3,
+        "High":1285.9,
+        "Low":1175.0,
+        "Close":1285.0,
+        "Percent Change":"9.92 %",
+        "Volume":"6,077.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-26",
+        "Open":1094.0,
+        "High":1169.0,
+        "Low":1055.0,
+        "Close":1169.0,
+        "Percent Change":"6.66 %",
+        "Volume":"2,140.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-25",
+        "Open":1113.0,
+        "High":1119.8,
+        "Low":1092.0,
+        "Close":1096.0,
+        "Percent Change":"-1.26 %",
+        "Volume":"1,753.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-22",
+        "Open":1122.0,
+        "High":1164.7,
+        "Low":1102.0,
+        "Close":1110.0,
+        "Percent Change":"-1.07 %",
+        "Volume":"2,600.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-21",
+        "Open":1118.3,
+        "High":1127.0,
+        "Low":1100.1,
+        "Close":1122.0,
+        "Percent Change":"-1.67 %",
+        "Volume":"1,100.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-20",
+        "Open":1132.2,
+        "High":1156.0,
+        "Low":1132.0,
+        "Close":1141.0,
+        "Percent Change":"-1.21 %",
+        "Volume":"1,043.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-19",
+        "Open":1160.0,
+        "High":1180.0,
+        "Low":1124.0,
+        "Close":1155.0,
+        "Percent Change":"-0.43 %",
+        "Volume":"850.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-18",
+        "Open":1115.4,
+        "High":1177.0,
+        "Low":1115.4,
+        "Close":1160.0,
+        "Percent Change":"1.93 %",
+        "Volume":"1,351.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-15",
+        "Open":1160.0,
+        "High":1175.0,
+        "Low":1137.1,
+        "Close":1138.0,
+        "Percent Change":"-2.65 %",
+        "Volume":"1,042.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-14",
+        "Open":1160.0,
+        "High":1200.0,
+        "Low":1130.0,
+        "Close":1169.0,
+        "Percent Change":"2.51 %",
+        "Volume":"2,288.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-13",
+        "Open":1116.0,
+        "High":1160.7,
+        "Low":1093.7,
+        "Close":1140.4,
+        "Percent Change":"2.19 %",
+        "Volume":"2,424.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-12",
+        "Open":1134.0,
+        "High":1134.0,
+        "Low":1097.0,
+        "Close":1116.0,
+        "Percent Change":"-1.67 %",
+        "Volume":"305.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-11",
+        "Open":1107.0,
+        "High":1139.0,
+        "Low":1085.0,
+        "Close":1135.0,
+        "Percent Change":"2.52 %",
+        "Volume":"1,205.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-08",
+        "Open":1110.0,
+        "High":1130.0,
+        "Low":1068.0,
+        "Close":1107.1,
+        "Percent Change":"-2.23 %",
+        "Volume":"2,295.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-07",
+        "Open":1140.0,
+        "High":1162.8,
+        "Low":1132.3,
+        "Close":1132.3,
+        "Percent Change":"-0.68 %",
+        "Volume":"822.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-06",
+        "Open":1115.0,
+        "High":1140.0,
+        "Low":1107.0,
+        "Close":1140.0,
+        "Percent Change":"1.33 %",
+        "Volume":"440.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-05",
+        "Open":1130.0,
+        "High":1130.0,
+        "Low":1098.0,
+        "Close":1125.0,
+        "Percent Change":"-0.88 %",
+        "Volume":"1,158.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-04",
+        "Open":1142.4,
+        "High":1145.0,
+        "Low":1121.1,
+        "Close":1135.0,
+        "Percent Change":"1.34 %",
+        "Volume":"410.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-06-01",
+        "Open":1110.0,
+        "High":1156.8,
+        "Low":1078.0,
+        "Close":1120.0,
+        "Percent Change":"0.00 %",
+        "Volume":"586.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-31",
+        "Open":1140.0,
+        "High":1142.4,
+        "Low":1103.1,
+        "Close":1120.0,
+        "Percent Change":"-0.27 %",
+        "Volume":"402.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-30",
+        "Open":1155.0,
+        "High":1160.0,
+        "Low":1123.0,
+        "Close":1123.0,
+        "Percent Change":"-4.59 %",
+        "Volume":"675.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-28",
+        "Open":1225.0,
+        "High":1274.0,
+        "Low":1162.1,
+        "Close":1177.0,
+        "Percent Change":"-3.92 %",
+        "Volume":"828.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-24",
+        "Open":1228.0,
+        "High":1228.0,
+        "Low":1207.0,
+        "Close":1225.0,
+        "Percent Change":"1.74 %",
+        "Volume":"675.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-23",
+        "Open":1111.0,
+        "High":1244.0,
+        "Low":1111.0,
+        "Close":1204.0,
+        "Percent Change":"6.45 %",
+        "Volume":"878.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-22",
+        "Open":1150.0,
+        "High":1155.0,
+        "Low":1127.1,
+        "Close":1131.0,
+        "Percent Change":"-1.61 %",
+        "Volume":"693.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-21",
+        "Open":1100.0,
+        "High":1181.0,
+        "Low":1100.0,
+        "Close":1149.5,
+        "Percent Change":"4.50 %",
+        "Volume":"673.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-18",
+        "Open":1108.0,
+        "High":1120.0,
+        "Low":1095.5,
+        "Close":1100.0,
+        "Percent Change":"1.26 %",
+        "Volume":"280.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-17",
+        "Open":1095.0,
+        "High":1116.9,
+        "Low":1079.0,
+        "Close":1086.3,
+        "Percent Change":"-0.79 %",
+        "Volume":"221.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-16",
+        "Open":1076.0,
+        "High":1111.0,
+        "Low":1076.0,
+        "Close":1095.0,
+        "Percent Change":"0.00 %",
+        "Volume":"365.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-15",
+        "Open":1066.5,
+        "High":1100.0,
+        "Low":1066.5,
+        "Close":1095.0,
+        "Percent Change":"0.01 %",
+        "Volume":"171.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-14",
+        "Open":1103.0,
+        "High":1106.6,
+        "Low":1083.2,
+        "Close":1083.2,
+        "Percent Change":"-1.86 %",
+        "Volume":"200.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-11",
+        "Open":1078.0,
+        "High":1103.8,
+        "Low":1077.0,
+        "Close":1103.7,
+        "Percent Change":"0.79 %",
+        "Volume":"340.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-10",
+        "Open":1131.0,
+        "High":1132.0,
+        "Low":1095.0,
+        "Close":1095.0,
+        "Percent Change":"-1.35 %",
+        "Volume":"180.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-09",
+        "Open":1100.0,
+        "High":1122.0,
+        "Low":1099.0,
+        "Close":1110.0,
+        "Percent Change":"0.22 %",
+        "Volume":"355.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-08",
+        "Open":1130.1,
+        "High":1145.0,
+        "Low":1107.6,
+        "Close":1107.6,
+        "Percent Change":"-3.35 %",
+        "Volume":"407.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-07",
+        "Open":1143.0,
+        "High":1188.0,
+        "Low":1143.0,
+        "Close":1146.0,
+        "Percent Change":"-1.63 %",
+        "Volume":"280.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-04",
+        "Open":1170.0,
+        "High":1174.0,
+        "Low":1162.0,
+        "Close":1165.0,
+        "Percent Change":"-1.27 %",
+        "Volume":"230.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-03",
+        "Open":1150.0,
+        "High":1180.0,
+        "Low":1150.0,
+        "Close":1180.0,
+        "Percent Change":"0.85 %",
+        "Volume":"242.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-05-02",
+        "Open":1200.0,
+        "High":1200.0,
+        "Low":1168.0,
+        "Close":1170.0,
+        "Percent Change":"-2.50 %",
+        "Volume":"465.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-30",
+        "Open":1191.0,
+        "High":1309.2,
+        "Low":1180.2,
+        "Close":1200.0,
+        "Percent Change":"0.82 %",
+        "Volume":"624.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-27",
+        "Open":1183.0,
+        "High":1209.0,
+        "Low":1183.0,
+        "Close":1190.2,
+        "Percent Change":"-1.39 %",
+        "Volume":"733.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-26",
+        "Open":1211.0,
+        "High":1211.0,
+        "Low":1207.0,
+        "Close":1207.0,
+        "Percent Change":"-1.87 %",
+        "Volume":"230.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-25",
+        "Open":1200.0,
+        "High":1230.0,
+        "Low":1192.0,
+        "Close":1230.0,
+        "Percent Change":"3.27 %",
+        "Volume":"973.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-24",
+        "Open":1171.0,
+        "High":1195.0,
+        "Low":1168.0,
+        "Close":1191.0,
+        "Percent Change":"1.36 %",
+        "Volume":"830.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-23",
+        "Open":1200.0,
+        "High":1207.0,
+        "Low":1174.0,
+        "Close":1175.0,
+        "Percent Change":"-3.21 %",
+        "Volume":"580.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-20",
+        "Open":1195.0,
+        "High":1218.9,
+        "Low":1195.0,
+        "Close":1214.0,
+        "Percent Change":"-0.08 %",
+        "Volume":"214.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-19",
+        "Open":1218.0,
+        "High":1250.0,
+        "Low":1195.0,
+        "Close":1215.0,
+        "Percent Change":"-1.14 %",
+        "Volume":"410.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-18",
+        "Open":1235.0,
+        "High":1235.0,
+        "Low":1202.0,
+        "Close":1229.0,
+        "Percent Change":"-0.41 %",
+        "Volume":"485.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-17",
+        "Open":1257.0,
+        "High":1257.0,
+        "Low":1211.3,
+        "Close":1234.0,
+        "Percent Change":"0.08 %",
+        "Volume":"390.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-16",
+        "Open":1250.0,
+        "High":1271.0,
+        "Low":1232.0,
+        "Close":1233.0,
+        "Percent Change":"-3.29 %",
+        "Volume":"435.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-13",
+        "Open":1335.0,
+        "High":1335.0,
+        "Low":1241.1,
+        "Close":1275.0,
+        "Percent Change":"-4.49 %",
+        "Volume":"800.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-12",
+        "Open":1265.0,
+        "High":1342.0,
+        "Low":1260.0,
+        "Close":1335.0,
+        "Percent Change":"3.49 %",
+        "Volume":"1,656.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-11",
+        "Open":1220.0,
+        "High":1290.0,
+        "Low":1182.0,
+        "Close":1290.0,
+        "Percent Change":"7.68 %",
+        "Volume":"865.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-10",
+        "Open":1175.0,
+        "High":1198.0,
+        "Low":1159.0,
+        "Close":1198.0,
+        "Percent Change":"0.63 %",
+        "Volume":"390.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-09",
+        "Open":1182.0,
+        "High":1200.0,
+        "Low":1176.1,
+        "Close":1190.5,
+        "Percent Change":"-1.29 %",
+        "Volume":"210.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-06",
+        "Open":1226.0,
+        "High":1227.0,
+        "Low":1185.0,
+        "Close":1206.0,
+        "Percent Change":"-1.55 %",
+        "Volume":"472.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-05",
+        "Open":1196.0,
+        "High":1239.0,
+        "Low":1195.0,
+        "Close":1225.0,
+        "Percent Change":"0.41 %",
+        "Volume":"425.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-04",
+        "Open":1232.0,
+        "High":1249.0,
+        "Low":1186.1,
+        "Close":1220.0,
+        "Percent Change":"-0.97 %",
+        "Volume":"221.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-03",
+        "Open":1210.0,
+        "High":1232.0,
+        "Low":1186.0,
+        "Close":1232.0,
+        "Percent Change":"0.33 %",
+        "Volume":"470.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-04-02",
+        "Open":1230.0,
+        "High":1275.0,
+        "Low":1207.0,
+        "Close":1228.0,
+        "Percent Change":"-0.16 %",
+        "Volume":"780.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-30",
+        "Open":1265.0,
+        "High":1265.0,
+        "Low":1221.1,
+        "Close":1230.0,
+        "Percent Change":"-3.15 %",
+        "Volume":"1,091.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-29",
+        "Open":1290.0,
+        "High":1290.0,
+        "Low":1241.0,
+        "Close":1270.0,
+        "Percent Change":"-3.30 %",
+        "Volume":"757.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-28",
+        "Open":1180.0,
+        "High":1313.3,
+        "Low":1126.2,
+        "Close":1313.3,
+        "Percent Change":"9.99 %",
+        "Volume":"1,856.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-27",
+        "Open":1167.0,
+        "High":1194.0,
+        "Low":1102.0,
+        "Close":1194.0,
+        "Percent Change":"0.34 %",
+        "Volume":"2,014.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-26",
+        "Open":1256.4,
+        "High":1256.4,
+        "Low":1190.0,
+        "Close":1190.0,
+        "Percent Change":"-7.18 %",
+        "Volume":"2,878.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-23",
+        "Open":1348.5,
+        "High":1375.0,
+        "Low":1250.0,
+        "Close":1282.0,
+        "Percent Change":"-6.83 %",
+        "Volume":"2,006.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-22",
+        "Open":1380.0,
+        "High":1405.0,
+        "Low":1315.1,
+        "Close":1376.0,
+        "Percent Change":"-0.29 %",
+        "Volume":"1,797.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-20",
+        "Open":1390.0,
+        "High":1409.0,
+        "Low":1375.5,
+        "Close":1380.0,
+        "Percent Change":"-0.72 %",
+        "Volume":"548.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-19",
+        "Open":1470.0,
+        "High":1470.0,
+        "Low":1350.0,
+        "Close":1390.0,
+        "Percent Change":"-7.33 %",
+        "Volume":"8,230.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-16",
+        "Open":1475.0,
+        "High":1500.0,
+        "Low":1420.0,
+        "Close":1500.0,
+        "Percent Change":"1.97 %",
+        "Volume":"1,154.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-15",
+        "Open":1470.2,
+        "High":1477.0,
+        "Low":1470.0,
+        "Close":1471.0,
+        "Percent Change":"-1.61 %",
+        "Volume":"483.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-14",
+        "Open":1490.0,
+        "High":1515.0,
+        "Low":1490.0,
+        "Close":1495.0,
+        "Percent Change":"-1.58 %",
+        "Volume":"490.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-13",
+        "Open":1505.0,
+        "High":1524.0,
+        "Low":1465.0,
+        "Close":1519.0,
+        "Percent Change":"-0.39 %",
+        "Volume":"663.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-12",
+        "Open":1530.0,
+        "High":1540.0,
+        "Low":1485.0,
+        "Close":1525.0,
+        "Percent Change":"0.66 %",
+        "Volume":"1,130.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-09",
+        "Open":1474.9,
+        "High":1533.0,
+        "Low":1474.9,
+        "Close":1515.0,
+        "Percent Change":"2.72 %",
+        "Volume":"900.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-07",
+        "Open":1510.0,
+        "High":1538.0,
+        "Low":1452.4,
+        "Close":1474.9,
+        "Percent Change":"-2.32 %",
+        "Volume":"1,315.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-05",
+        "Open":1537.7,
+        "High":1610.0,
+        "Low":1508.0,
+        "Close":1510.0,
+        "Percent Change":"-3.76 %",
+        "Volume":"1,097.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-02",
+        "Open":1600.0,
+        "High":1600.0,
+        "Low":1560.1,
+        "Close":1569.0,
+        "Percent Change":"-2.43 %",
+        "Volume":"1,924.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-03-01",
+        "Open":1653.0,
+        "High":1705.5,
+        "Low":1601.0,
+        "Close":1608.1,
+        "Percent Change":"-3.99 %",
+        "Volume":"2,862.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-28",
+        "Open":1651.0,
+        "High":1708.0,
+        "Low":1650.0,
+        "Close":1675.0,
+        "Percent Change":"-0.24 %",
+        "Volume":"1,442.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-27",
+        "Open":1735.0,
+        "High":1735.0,
+        "Low":1620.1,
+        "Close":1679.0,
+        "Percent Change":"-1.29 %",
+        "Volume":"1,544.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-26",
+        "Open":1693.5,
+        "High":1769.0,
+        "Low":1555.2,
+        "Close":1701.0,
+        "Percent Change":"-1.56 %",
+        "Volume":"4,663.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-23",
+        "Open":1882.0,
+        "High":1882.0,
+        "Low":1728.0,
+        "Close":1728.0,
+        "Percent Change":"-10.00 %",
+        "Volume":"6,906.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-22",
+        "Open":2020.0,
+        "High":2020.0,
+        "Low":1917.0,
+        "Close":1920.0,
+        "Percent Change":"-5.88 %",
+        "Volume":"3,258.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-20",
+        "Open":2051.0,
+        "High":2072.0,
+        "Low":2015.5,
+        "Close":2040.0,
+        "Percent Change":"-2.39 %",
+        "Volume":"1,336.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-16",
+        "Open":2100.1,
+        "High":2110.0,
+        "Low":2055.0,
+        "Close":2090.0,
+        "Percent Change":"-1.88 %",
+        "Volume":"2,479.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-15",
+        "Open":2172.0,
+        "High":2190.0,
+        "Low":2130.0,
+        "Close":2130.0,
+        "Percent Change":"-1.93 %",
+        "Volume":"2,028.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-14",
+        "Open":2165.0,
+        "High":2190.0,
+        "Low":2157.3,
+        "Close":2172.0,
+        "Percent Change":"-1.27 %",
+        "Volume":"1,595.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-12",
+        "Open":2221.0,
+        "High":2244.0,
+        "Low":2141.0,
+        "Close":2200.0,
+        "Percent Change":"-2.87 %",
+        "Volume":"2,640.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-09",
+        "Open":2270.0,
+        "High":2280.0,
+        "Low":2235.1,
+        "Close":2265.0,
+        "Percent Change":"-0.18 %",
+        "Volume":"1,285.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-08",
+        "Open":2318.9,
+        "High":2330.0,
+        "Low":2254.0,
+        "Close":2269.0,
+        "Percent Change":"-1.34 %",
+        "Volume":"1,804.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-07",
+        "Open":2225.2,
+        "High":2310.0,
+        "Low":2225.2,
+        "Close":2299.9,
+        "Percent Change":"2.67 %",
+        "Volume":"1,858.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-06",
+        "Open":2201.1,
+        "High":2240.0,
+        "Low":2200.5,
+        "Close":2240.0,
+        "Percent Change":"0.86 %",
+        "Volume":"1,711.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-05",
+        "Open":2222.0,
+        "High":2266.0,
+        "Low":2220.0,
+        "Close":2221.0,
+        "Percent Change":"-0.05 %",
+        "Volume":"2,850.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-02",
+        "Open":2267.0,
+        "High":2289.9,
+        "Low":2220.0,
+        "Close":2222.0,
+        "Percent Change":"-1.99 %",
+        "Volume":"3,473.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-02-01",
+        "Open":2260.1,
+        "High":2300.0,
+        "Low":2260.0,
+        "Close":2267.0,
+        "Percent Change":"-1.43 %",
+        "Volume":"1,475.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-31",
+        "Open":2264.0,
+        "High":2309.0,
+        "Low":2263.0,
+        "Close":2300.0,
+        "Percent Change":"-0.43 %",
+        "Volume":"2,520.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-30",
+        "Open":2400.0,
+        "High":2400.0,
+        "Low":2278.1,
+        "Close":2310.0,
+        "Percent Change":"-2.08 %",
+        "Volume":"5,100.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-29",
+        "Open":2355.0,
+        "High":2404.0,
+        "Low":2353.5,
+        "Close":2359.0,
+        "Percent Change":"-0.25 %",
+        "Volume":"3,435.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-26",
+        "Open":2400.0,
+        "High":2414.0,
+        "Low":2365.0,
+        "Close":2365.0,
+        "Percent Change":"-1.66 %",
+        "Volume":"2,446.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-25",
+        "Open":2321.2,
+        "High":2420.0,
+        "Low":2321.2,
+        "Close":2405.0,
+        "Percent Change":"2.78 %",
+        "Volume":"5,299.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-24",
+        "Open":2281.0,
+        "High":2350.0,
+        "Low":2281.0,
+        "Close":2340.0,
+        "Percent Change":"0.86 %",
+        "Volume":"2,975.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-23",
+        "Open":2270.0,
+        "High":2366.0,
+        "Low":2250.0,
+        "Close":2320.1,
+        "Percent Change":"2.21 %",
+        "Volume":"7,755.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-19",
+        "Open":2255.0,
+        "High":2299.0,
+        "Low":2255.0,
+        "Close":2270.0,
+        "Percent Change":"-1.22 %",
+        "Volume":"4,575.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-18",
+        "Open":2265.0,
+        "High":2345.0,
+        "Low":2252.0,
+        "Close":2298.0,
+        "Percent Change":"1.46 %",
+        "Volume":"5,249.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-17",
+        "Open":2329.9,
+        "High":2329.9,
+        "Low":2257.0,
+        "Close":2265.0,
+        "Percent Change":"-1.05 %",
+        "Volume":"6,847.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-12",
+        "Open":2280.0,
+        "High":2302.0,
+        "Low":2231.0,
+        "Close":2289.0,
+        "Percent Change":"2.01 %",
+        "Volume":"7,738.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-10",
+        "Open":2281.0,
+        "High":2356.0,
+        "Low":2210.0,
+        "Close":2244.0,
+        "Percent Change":"-2.94 %",
+        "Volume":"7,907.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-09",
+        "Open":2292.2,
+        "High":2355.0,
+        "Low":2292.2,
+        "Close":2312.0,
+        "Percent Change":"-1.05 %",
+        "Volume":"11,957.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-08",
+        "Open":2485.2,
+        "High":2485.2,
+        "Low":2332.0,
+        "Close":2336.5,
+        "Percent Change":"-4.10 %",
+        "Volume":"11,098.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-05",
+        "Open":2215.0,
+        "High":2436.5,
+        "Low":2215.0,
+        "Close":2436.5,
+        "Percent Change":"10.00 %",
+        "Volume":"5,240.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-04",
+        "Open":2203.0,
+        "High":2215.0,
+        "Low":2150.0,
+        "Close":2215.0,
+        "Percent Change":"0.54 %",
+        "Volume":"12,332.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-03",
+        "Open":2178.4,
+        "High":2349.2,
+        "Low":2075.0,
+        "Close":2203.0,
+        "Percent Change":"3.15 %",
+        "Volume":"19,859.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-02",
+        "Open":1980.4,
+        "High":2135.7,
+        "Low":1980.4,
+        "Close":2135.7,
+        "Percent Change":"10.00 %",
+        "Volume":"3,500.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2023-01-01",
+        "Open":1800.0,
+        "High":1941.6,
+        "Low":1800.0,
+        "Close":1941.6,
+        "Percent Change":"10.00 %",
+        "Volume":"350.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2022-12-29",
+        "Open":1604.6,
+        "High":1765.1,
+        "Low":1604.6,
+        "Close":1765.1,
+        "Percent Change":"10.00 %",
+        "Volume":"250.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2022-12-28",
+        "Open":1488.0,
+        "High":1604.7,
+        "Low":1488.0,
+        "Close":1604.7,
+        "Percent Change":"9.99 %",
+        "Volume":"170.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2022-12-27",
+        "Open":1352.8,
+        "High":1458.9,
+        "Low":1352.8,
+        "Close":1458.9,
+        "Percent Change":"10.00 %",
+        "Volume":"150.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2022-12-26",
+        "Open":1205.8,
+        "High":1326.3,
+        "Low":1205.8,
+        "Close":1326.3,
+        "Percent Change":"9.99 %",
+        "Volume":"130.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2022-12-22",
+        "Open":1075.0,
+        "High":1205.8,
+        "Low":1075.0,
+        "Close":1205.8,
+        "Percent Change":"10.00 %",
+        "Volume":"220.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2022-12-21",
+        "Open":978.3,
+        "High":1096.2,
+        "Low":978.3,
+        "Close":1096.2,
+        "Percent Change":"9.99 %",
+        "Volume":"130.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2022-12-20",
+        "Open":906.0,
+        "High":996.6,
+        "Low":906.0,
+        "Close":996.6,
+        "Percent Change":"0.00 %",
+        "Volume":"170.00"
+    },
+    {
+        "Symbol":"SHLB",
+        "Date":"2022-01-02",
+        "Open":1980.4,
+        "High":2135.7,
+        "Low":1980.4,
+        "Close":2135.7,
+        "Percent Change":"10.00 %",
+        "Volume":"3,500.00"
+    }
+]

@@ -1,0 +1,3622 @@
+[
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-08-11",
+        "Open": 712.0,
+        "High": 733.0,
+        "Low": 702.0,
+        "Close": 733.0,
+        "Percent Change": 4.86,
+        "Volume": 205849.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-08-08",
+        "Open": 706.0,
+        "High": 713.0,
+        "Low": 690.1,
+        "Close": 699.0,
+        "Percent Change": -0.3,
+        "Volume": 152318.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-08-07",
+        "Open": 680.3,
+        "High": 708.0,
+        "Low": 676.3,
+        "Close": 701.1,
+        "Percent Change": 3.06,
+        "Volume": 152156.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-08-06",
+        "Open": 724.0,
+        "High": 738.0,
+        "Low": 680.0,
+        "Close": 680.3,
+        "Percent Change": -5.98,
+        "Volume": 226558.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-08-05",
+        "Open": 732.3,
+        "High": 735.4,
+        "Low": 720.0,
+        "Close": 723.6,
+        "Percent Change": 0.78,
+        "Volume": 186335.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-08-01",
+        "Open": 692.2,
+        "High": 738.0,
+        "Low": 692.2,
+        "Close": 718.0,
+        "Percent Change": 3.73,
+        "Volume": 379949.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-31",
+        "Open": 700.0,
+        "High": 717.0,
+        "Low": 690.1,
+        "Close": 692.2,
+        "Percent Change": -0.4,
+        "Volume": 253652.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-30",
+        "Open": 690.0,
+        "High": 703.8,
+        "Low": 671.3,
+        "Close": 695.0,
+        "Percent Change": 1.02,
+        "Volume": 186687.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-29",
+        "Open": 735.0,
+        "High": 735.0,
+        "Low": 686.0,
+        "Close": 688.0,
+        "Percent Change": -5.1,
+        "Volume": 308181.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-28",
+        "Open": 749.0,
+        "High": 749.0,
+        "Low": 715.0,
+        "Close": 725.0,
+        "Percent Change": -1.36,
+        "Volume": 293284.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-25",
+        "Open": 703.8,
+        "High": 757.8,
+        "Low": 684.0,
+        "Close": 735.0,
+        "Percent Change": 6.52,
+        "Volume": 468495.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-24",
+        "Open": 650.0,
+        "High": 710.0,
+        "Low": 635.0,
+        "Close": 690.0,
+        "Percent Change": 6.14,
+        "Volume": 346277.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-23",
+        "Open": 620.0,
+        "High": 655.0,
+        "Low": 613.0,
+        "Close": 650.1,
+        "Percent Change": 4.84,
+        "Volume": 147976.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-22",
+        "Open": 625.0,
+        "High": 636.8,
+        "Low": 608.1,
+        "Close": 620.1,
+        "Percent Change": -1.08,
+        "Volume": 106708.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-21",
+        "Open": 630.0,
+        "High": 635.0,
+        "Low": 603.0,
+        "Close": 626.9,
+        "Percent Change": 1.11,
+        "Volume": 126479.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-18",
+        "Open": 620.0,
+        "High": 635.0,
+        "Low": 608.0,
+        "Close": 620.0,
+        "Percent Change": 1.64,
+        "Volume": 161964.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-17",
+        "Open": 589.0,
+        "High": 613.0,
+        "Low": 587.3,
+        "Close": 610.0,
+        "Percent Change": 3.74,
+        "Volume": 129052.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-16",
+        "Open": 577.5,
+        "High": 591.0,
+        "Low": 575.0,
+        "Close": 588.0,
+        "Percent Change": 1.91,
+        "Volume": 88011.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-15",
+        "Open": 597.9,
+        "High": 597.9,
+        "Low": 576.2,
+        "Close": 577.0,
+        "Percent Change": -1.57,
+        "Volume": 143110.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-14",
+        "Open": 590.0,
+        "High": 601.0,
+        "Low": 575.0,
+        "Close": 586.2,
+        "Percent Change": 1.24,
+        "Volume": 135104.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-11",
+        "Open": 562.1,
+        "High": 579.0,
+        "Low": 562.0,
+        "Close": 579.0,
+        "Percent Change": 2.97,
+        "Volume": 222792.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-10",
+        "Open": 560.0,
+        "High": 568.0,
+        "Low": 559.3,
+        "Close": 562.3,
+        "Percent Change": 0.61,
+        "Volume": 94703.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-09",
+        "Open": 555.1,
+        "High": 560.0,
+        "Low": 553.0,
+        "Close": 558.9,
+        "Percent Change": 0.02,
+        "Volume": 61651.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-08",
+        "Open": 565.0,
+        "High": 568.0,
+        "Low": 555.0,
+        "Close": 558.8,
+        "Percent Change": -1.1,
+        "Volume": 63936.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-07",
+        "Open": 570.0,
+        "High": 575.9,
+        "Low": 565.0,
+        "Close": 565.0,
+        "Percent Change": 0.53,
+        "Volume": 202047.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-04",
+        "Open": 552.0,
+        "High": 566.0,
+        "Low": 548.0,
+        "Close": 562.0,
+        "Percent Change": 2.37,
+        "Volume": 108469.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-03",
+        "Open": 551.0,
+        "High": 554.0,
+        "Low": 540.5,
+        "Close": 549.0,
+        "Percent Change": -0.9,
+        "Volume": 67102.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-02",
+        "Open": 537.5,
+        "High": 558.0,
+        "Low": 530.0,
+        "Close": 554.0,
+        "Percent Change": 5.12,
+        "Volume": 173427.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-07-01",
+        "Open": 516.0,
+        "High": 528.0,
+        "Low": 516.0,
+        "Close": 527.0,
+        "Percent Change": 1.68,
+        "Volume": 42625.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-30",
+        "Open": 517.1,
+        "High": 526.0,
+        "Low": 517.1,
+        "Close": 518.3,
+        "Percent Change": -0.52,
+        "Volume": 34941.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-27",
+        "Open": 523.1,
+        "High": 533.5,
+        "Low": 521.0,
+        "Close": 521.0,
+        "Percent Change": -1.33,
+        "Volume": 37445.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-26",
+        "Open": 540.0,
+        "High": 540.0,
+        "Low": 524.4,
+        "Close": 528.0,
+        "Percent Change": -0.38,
+        "Volume": 31087.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-25",
+        "Open": 528.1,
+        "High": 536.8,
+        "Low": 528.1,
+        "Close": 530.0,
+        "Percent Change": 0.19,
+        "Volume": 41436.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-24",
+        "Open": 526.1,
+        "High": 533.2,
+        "Low": 526.1,
+        "Close": 529.0,
+        "Percent Change": 0.57,
+        "Volume": 51942.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-23",
+        "Open": 528.3,
+        "High": 534.8,
+        "Low": 526.0,
+        "Close": 526.0,
+        "Percent Change": -0.75,
+        "Volume": 46939.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-20",
+        "Open": 532.5,
+        "High": 535.0,
+        "Low": 528.0,
+        "Close": 530.0,
+        "Percent Change": -0.64,
+        "Volume": 53507.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-19",
+        "Open": 538.0,
+        "High": 538.0,
+        "Low": 531.0,
+        "Close": 533.4,
+        "Percent Change": -0.09,
+        "Volume": 29130.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-18",
+        "Open": 549.0,
+        "High": 549.0,
+        "Low": 532.6,
+        "Close": 533.9,
+        "Percent Change": -1.13,
+        "Volume": 21750.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-16",
+        "Open": 556.0,
+        "High": 557.0,
+        "Low": 539.0,
+        "Close": 540.0,
+        "Percent Change": -1.82,
+        "Volume": 42841.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-13",
+        "Open": 560.0,
+        "High": 567.0,
+        "Low": 550.0,
+        "Close": 550.0,
+        "Percent Change": -1.79,
+        "Volume": 38762.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-12",
+        "Open": 552.0,
+        "High": 577.9,
+        "Low": 543.0,
+        "Close": 560.0,
+        "Percent Change": 3.13,
+        "Volume": 224670.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-11",
+        "Open": 532.0,
+        "High": 549.0,
+        "Low": 527.0,
+        "Close": 543.0,
+        "Percent Change": 2.65,
+        "Volume": 48380.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-10",
+        "Open": 523.0,
+        "High": 534.0,
+        "Low": 522.0,
+        "Close": 529.0,
+        "Percent Change": 0.95,
+        "Volume": 28821.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-09",
+        "Open": 526.1,
+        "High": 530.0,
+        "Low": 524.0,
+        "Close": 524.0,
+        "Percent Change": -0.95,
+        "Volume": 26715.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-06",
+        "Open": 535.0,
+        "High": 535.0,
+        "Low": 526.0,
+        "Close": 529.0,
+        "Percent Change": -0.51,
+        "Volume": 18922.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-05",
+        "Open": 531.0,
+        "High": 534.0,
+        "Low": 530.0,
+        "Close": 531.7,
+        "Percent Change": -0.06,
+        "Volume": 32374.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-04",
+        "Open": 530.1,
+        "High": 541.0,
+        "Low": 529.1,
+        "Close": 532.0,
+        "Percent Change": 0.36,
+        "Volume": 36133.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-03",
+        "Open": 531.5,
+        "High": 535.0,
+        "Low": 530.0,
+        "Close": 530.1,
+        "Percent Change": -0.17,
+        "Volume": 22784.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-06-02",
+        "Open": 532.0,
+        "High": 535.0,
+        "Low": 529.3,
+        "Close": 531.0,
+        "Percent Change": -0.19,
+        "Volume": 26484.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-30",
+        "Open": 531.2,
+        "High": 543.0,
+        "Low": 528.4,
+        "Close": 532.0,
+        "Percent Change": -0.58,
+        "Volume": 22901.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-29",
+        "Open": 560.0,
+        "High": 560.0,
+        "Low": 535.1,
+        "Close": 535.1,
+        "Percent Change": -2.71,
+        "Volume": 36334.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-27",
+        "Open": 546.0,
+        "High": 554.0,
+        "Low": 545.4,
+        "Close": 550.0,
+        "Percent Change": -0.34,
+        "Volume": 28745.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-26",
+        "Open": 548.1,
+        "High": 556.9,
+        "Low": 545.0,
+        "Close": 551.9,
+        "Percent Change": 0.29,
+        "Volume": 39375.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-22",
+        "Open": 553.0,
+        "High": 560.0,
+        "Low": 548.1,
+        "Close": 550.3,
+        "Percent Change": -0.67,
+        "Volume": 49050.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-21",
+        "Open": 555.0,
+        "High": 559.0,
+        "Low": 548.6,
+        "Close": 554.0,
+        "Percent Change": 0.0,
+        "Volume": 44805.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-20",
+        "Open": 565.0,
+        "High": 568.5,
+        "Low": 552.2,
+        "Close": 554.0,
+        "Percent Change": -1.69,
+        "Volume": 72437.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-19",
+        "Open": 539.5,
+        "High": 573.0,
+        "Low": 535.2,
+        "Close": 563.5,
+        "Percent Change": 6.52,
+        "Volume": 145235.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-16",
+        "Open": 535.0,
+        "High": 541.0,
+        "Low": 528.3,
+        "Close": 529.0,
+        "Percent Change": -1.1,
+        "Volume": 29015.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-15",
+        "Open": 551.5,
+        "High": 551.5,
+        "Low": 529.5,
+        "Close": 534.9,
+        "Percent Change": -1.13,
+        "Volume": 37989.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-14",
+        "Open": 533.3,
+        "High": 546.7,
+        "Low": 533.3,
+        "Close": 541.0,
+        "Percent Change": 1.22,
+        "Volume": 32847.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-13",
+        "Open": 550.0,
+        "High": 550.0,
+        "Low": 533.0,
+        "Close": 534.5,
+        "Percent Change": -1.2,
+        "Volume": 25902.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-12",
+        "Open": 529.0,
+        "High": 550.0,
+        "Low": 529.0,
+        "Close": 541.0,
+        "Percent Change": 2.27,
+        "Volume": 77241.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-09",
+        "Open": 520.0,
+        "High": 530.0,
+        "Low": 520.0,
+        "Close": 529.0,
+        "Percent Change": 1.15,
+        "Volume": 18252.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-08",
+        "Open": 516.6,
+        "High": 535.0,
+        "Low": 516.3,
+        "Close": 523.0,
+        "Percent Change": 0.04,
+        "Volume": 15790.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-07",
+        "Open": 526.0,
+        "High": 528.9,
+        "Low": 517.0,
+        "Close": 522.8,
+        "Percent Change": -0.42,
+        "Volume": 14788.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-06",
+        "Open": 525.0,
+        "High": 535.0,
+        "Low": 520.4,
+        "Close": 525.0,
+        "Percent Change": 0.0,
+        "Volume": 17389.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-05",
+        "Open": 540.0,
+        "High": 540.0,
+        "Low": 525.0,
+        "Close": 525.0,
+        "Percent Change": -1.32,
+        "Volume": 43443.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-05-02",
+        "Open": 540.0,
+        "High": 543.0,
+        "Low": 530.0,
+        "Close": 532.0,
+        "Percent Change": -0.49,
+        "Volume": 25280.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-30",
+        "Open": 520.0,
+        "High": 540.0,
+        "Low": 516.1,
+        "Close": 534.6,
+        "Percent Change": 2.81,
+        "Volume": 36742.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-29",
+        "Open": 529.8,
+        "High": 529.8,
+        "Low": 515.5,
+        "Close": 520.0,
+        "Percent Change": 0.0,
+        "Volume": 15953.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-28",
+        "Open": 514.5,
+        "High": 527.4,
+        "Low": 514.1,
+        "Close": 520.0,
+        "Percent Change": 0.97,
+        "Volume": 16053.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-25",
+        "Open": 508.1,
+        "High": 522.0,
+        "Low": 508.1,
+        "Close": 515.0,
+        "Percent Change": 0.35,
+        "Volume": 18043.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-24",
+        "Open": 510.3,
+        "High": 520.5,
+        "Low": 510.3,
+        "Close": 513.2,
+        "Percent Change": 0.04,
+        "Volume": 13773.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-22",
+        "Open": 518.2,
+        "High": 523.0,
+        "Low": 513.0,
+        "Close": 513.0,
+        "Percent Change": -1.35,
+        "Volume": 11732.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-21",
+        "Open": 510.0,
+        "High": 530.0,
+        "Low": 510.0,
+        "Close": 520.0,
+        "Percent Change": 1.17,
+        "Volume": 17437.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-18",
+        "Open": 517.0,
+        "High": 520.0,
+        "Low": 511.1,
+        "Close": 514.0,
+        "Percent Change": -0.41,
+        "Volume": 12341.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-16",
+        "Open": 520.0,
+        "High": 524.9,
+        "Low": 516.1,
+        "Close": 516.1,
+        "Percent Change": -1.7,
+        "Volume": 26293.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-15",
+        "Open": 525.5,
+        "High": 534.9,
+        "Low": 521.1,
+        "Close": 525.0,
+        "Percent Change": -0.92,
+        "Volume": 18135.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-14",
+        "Open": 541.0,
+        "High": 541.0,
+        "Low": 522.0,
+        "Close": 529.9,
+        "Percent Change": -1.82,
+        "Volume": 29672.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-10",
+        "Open": 540.0,
+        "High": 546.4,
+        "Low": 532.0,
+        "Close": 539.7,
+        "Percent Change": -0.06,
+        "Volume": 48165.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-09",
+        "Open": 539.0,
+        "High": 547.4,
+        "Low": 535.1,
+        "Close": 540.0,
+        "Percent Change": 1.5,
+        "Volume": 39676.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-07",
+        "Open": 525.0,
+        "High": 537.0,
+        "Low": 521.0,
+        "Close": 532.0,
+        "Percent Change": 2.27,
+        "Volume": 24969.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-04",
+        "Open": 526.0,
+        "High": 528.9,
+        "Low": 520.2,
+        "Close": 520.2,
+        "Percent Change": -1.1,
+        "Volume": 23500.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-03",
+        "Open": 533.0,
+        "High": 542.9,
+        "Low": 525.4,
+        "Close": 526.0,
+        "Percent Change": -1.31,
+        "Volume": 14994.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-02",
+        "Open": 535.0,
+        "High": 537.9,
+        "Low": 531.6,
+        "Close": 533.0,
+        "Percent Change": -0.19,
+        "Volume": 13425.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-04-01",
+        "Open": 533.3,
+        "High": 537.2,
+        "Low": 523.0,
+        "Close": 534.0,
+        "Percent Change": 2.12,
+        "Volume": 43760.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-31",
+        "Open": 517.0,
+        "High": 545.0,
+        "Low": 511.0,
+        "Close": 522.9,
+        "Percent Change": 0.56,
+        "Volume": 83540.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-28",
+        "Open": 528.0,
+        "High": 528.0,
+        "Low": 520.0,
+        "Close": 520.0,
+        "Percent Change": -0.48,
+        "Volume": 17227.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-27",
+        "Open": 522.0,
+        "High": 533.0,
+        "Low": 519.0,
+        "Close": 522.5,
+        "Percent Change": -0.67,
+        "Volume": 20560.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-26",
+        "Open": 525.0,
+        "High": 535.0,
+        "Low": 525.0,
+        "Close": 526.0,
+        "Percent Change": 0.0,
+        "Volume": 12878.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-25",
+        "Open": 539.7,
+        "High": 539.7,
+        "Low": 522.0,
+        "Close": 526.0,
+        "Percent Change": -0.75,
+        "Volume": 31592.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-21",
+        "Open": 541.1,
+        "High": 544.0,
+        "Low": 530.0,
+        "Close": 530.0,
+        "Percent Change": -1.67,
+        "Volume": 26947.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-20",
+        "Open": 545.6,
+        "High": 554.7,
+        "Low": 539.0,
+        "Close": 539.0,
+        "Percent Change": -1.21,
+        "Volume": 32323.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-19",
+        "Open": 546.0,
+        "High": 559.0,
+        "Low": 545.6,
+        "Close": 545.6,
+        "Percent Change": -0.8,
+        "Volume": 61217.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-18",
+        "Open": 545.0,
+        "High": 550.0,
+        "Low": 538.4,
+        "Close": 550.0,
+        "Percent Change": 0.92,
+        "Volume": 39809.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-17",
+        "Open": 546.0,
+        "High": 552.7,
+        "Low": 542.0,
+        "Close": 545.0,
+        "Percent Change": 1.68,
+        "Volume": 101600.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-14",
+        "Open": 551.0,
+        "High": 557.0,
+        "Low": 533.1,
+        "Close": 536.0,
+        "Percent Change": -2.72,
+        "Volume": 71009.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-13",
+        "Open": 568.1,
+        "High": 568.1,
+        "Low": 549.1,
+        "Close": 551.0,
+        "Percent Change": -1.08,
+        "Volume": 53174.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-12",
+        "Open": 547.2,
+        "High": 557.9,
+        "Low": 537.5,
+        "Close": 557.0,
+        "Percent Change": 3.72,
+        "Volume": 61348.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-10",
+        "Open": 527.0,
+        "High": 542.0,
+        "Low": 521.1,
+        "Close": 537.0,
+        "Percent Change": 2.68,
+        "Volume": 55925.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-07",
+        "Open": 510.0,
+        "High": 529.0,
+        "Low": 510.0,
+        "Close": 523.0,
+        "Percent Change": 3.36,
+        "Volume": 47874.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-06",
+        "Open": 504.1,
+        "High": 516.3,
+        "Low": 496.1,
+        "Close": 506.0,
+        "Percent Change": -0.04,
+        "Volume": 20449.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-05",
+        "Open": 537.5,
+        "High": 537.5,
+        "Low": 502.0,
+        "Close": 506.2,
+        "Percent Change": -3.95,
+        "Volume": 35013.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-04",
+        "Open": 497.0,
+        "High": 527.0,
+        "Low": 497.0,
+        "Close": 527.0,
+        "Percent Change": 7.97,
+        "Volume": 9070.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-03-03",
+        "Open": 489.0,
+        "High": 499.9,
+        "Low": 488.0,
+        "Close": 488.1,
+        "Percent Change": -0.99,
+        "Volume": 19541.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-29",
+        "Open": 504.0,
+        "High": 506.0,
+        "Low": 490.0,
+        "Close": 493.0,
+        "Percent Change": -2.76,
+        "Volume": 22619.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-28",
+        "Open": 517.0,
+        "High": 517.0,
+        "Low": 501.0,
+        "Close": 507.0,
+        "Percent Change": -1.15,
+        "Volume": 14600.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-27",
+        "Open": 507.0,
+        "High": 514.0,
+        "Low": 500.3,
+        "Close": 512.9,
+        "Percent Change": 0.2,
+        "Volume": 24181.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-26",
+        "Open": 496.0,
+        "High": 511.9,
+        "Low": 496.0,
+        "Close": 511.9,
+        "Percent Change": 3.14,
+        "Volume": 20066.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-25",
+        "Open": 506.0,
+        "High": 509.9,
+        "Low": 495.9,
+        "Close": 496.3,
+        "Percent Change": -2.09,
+        "Volume": 27308.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-22",
+        "Open": 511.0,
+        "High": 516.9,
+        "Low": 505.0,
+        "Close": 506.9,
+        "Percent Change": -1.0,
+        "Volume": 25708.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-21",
+        "Open": 520.0,
+        "High": 528.0,
+        "Low": 508.8,
+        "Close": 512.0,
+        "Percent Change": -1.8,
+        "Volume": 28290.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-20",
+        "Open": 519.0,
+        "High": 528.0,
+        "Low": 517.5,
+        "Close": 521.4,
+        "Percent Change": 0.46,
+        "Volume": 19636.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-18",
+        "Open": 528.0,
+        "High": 528.1,
+        "Low": 519.0,
+        "Close": 519.0,
+        "Percent Change": -2.08,
+        "Volume": 15976.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-15",
+        "Open": 531.5,
+        "High": 540.0,
+        "Low": 530.0,
+        "Close": 530.0,
+        "Percent Change": -1.3,
+        "Volume": 32163.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-14",
+        "Open": 528.0,
+        "High": 538.0,
+        "Low": 528.0,
+        "Close": 537.0,
+        "Percent Change": 1.82,
+        "Volume": 33859.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-13",
+        "Open": 529.0,
+        "High": 535.0,
+        "Low": 522.0,
+        "Close": 527.4,
+        "Percent Change": -1.79,
+        "Volume": 33745.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-12",
+        "Open": 530.0,
+        "High": 545.0,
+        "Low": 529.2,
+        "Close": 537.0,
+        "Percent Change": 1.51,
+        "Volume": 43536.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-11",
+        "Open": 533.0,
+        "High": 540.0,
+        "Low": 522.0,
+        "Close": 529.0,
+        "Percent Change": -0.94,
+        "Volume": 39615.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-08",
+        "Open": 526.0,
+        "High": 537.0,
+        "Low": 526.0,
+        "Close": 534.0,
+        "Percent Change": 0.95,
+        "Volume": 26062.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-07",
+        "Open": 534.0,
+        "High": 534.0,
+        "Low": 523.0,
+        "Close": 529.0,
+        "Percent Change": 1.01,
+        "Volume": 19656.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-06",
+        "Open": 516.1,
+        "High": 527.0,
+        "Low": 516.1,
+        "Close": 523.7,
+        "Percent Change": 0.52,
+        "Volume": 17639.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-05",
+        "Open": 527.0,
+        "High": 544.0,
+        "Low": 518.0,
+        "Close": 521.0,
+        "Percent Change": -0.57,
+        "Volume": 26024.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-04",
+        "Open": 517.0,
+        "High": 525.1,
+        "Low": 516.0,
+        "Close": 524.0,
+        "Percent Change": 1.35,
+        "Volume": 37238.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-02-01",
+        "Open": 525.0,
+        "High": 530.0,
+        "Low": 515.6,
+        "Close": 517.0,
+        "Percent Change": -2.45,
+        "Volume": 38121.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-31",
+        "Open": 534.0,
+        "High": 538.0,
+        "Low": 523.5,
+        "Close": 530.0,
+        "Percent Change": -0.75,
+        "Volume": 55161.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-30",
+        "Open": 532.0,
+        "High": 543.0,
+        "Low": 532.0,
+        "Close": 534.0,
+        "Percent Change": 0.56,
+        "Volume": 36307.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-29",
+        "Open": 531.0,
+        "High": 538.0,
+        "Low": 529.0,
+        "Close": 531.0,
+        "Percent Change": -0.52,
+        "Volume": 44532.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-28",
+        "Open": 534.5,
+        "High": 538.9,
+        "Low": 530.0,
+        "Close": 533.8,
+        "Percent Change": -0.13,
+        "Volume": 29918.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-25",
+        "Open": 543.0,
+        "High": 545.0,
+        "Low": 532.7,
+        "Close": 534.5,
+        "Percent Change": -3.14,
+        "Volume": 73579.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-24",
+        "Open": 550.0,
+        "High": 563.0,
+        "Low": 540.0,
+        "Close": 551.8,
+        "Percent Change": 0.35,
+        "Volume": 55266.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-23",
+        "Open": 555.0,
+        "High": 556.0,
+        "Low": 545.0,
+        "Close": 549.9,
+        "Percent Change": 0.9,
+        "Volume": 43008.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-22",
+        "Open": 553.3,
+        "High": 566.0,
+        "Low": 544.0,
+        "Close": 545.0,
+        "Percent Change": -3.45,
+        "Volume": 136297.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-21",
+        "Open": 560.0,
+        "High": 572.0,
+        "Low": 555.0,
+        "Close": 564.5,
+        "Percent Change": -0.62,
+        "Volume": 63231.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-18",
+        "Open": 570.0,
+        "High": 577.0,
+        "Low": 564.0,
+        "Close": 568.0,
+        "Percent Change": -1.1,
+        "Volume": 102762.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-17",
+        "Open": 584.0,
+        "High": 597.7,
+        "Low": 565.5,
+        "Close": 574.3,
+        "Percent Change": -1.66,
+        "Volume": 157159.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-16",
+        "Open": 583.0,
+        "High": 601.0,
+        "Low": 560.0,
+        "Close": 584.0,
+        "Percent Change": 1.76,
+        "Volume": 118565.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-14",
+        "Open": 558.6,
+        "High": 576.0,
+        "Low": 558.6,
+        "Close": 573.9,
+        "Percent Change": 0.7,
+        "Volume": 88369.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-11",
+        "Open": 576.0,
+        "High": 576.0,
+        "Low": 564.0,
+        "Close": 569.9,
+        "Percent Change": -0.71,
+        "Volume": 48770.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-10",
+        "Open": 563.9,
+        "High": 579.7,
+        "Low": 560.0,
+        "Close": 574.0,
+        "Percent Change": 1.79,
+        "Volume": 122118.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-09",
+        "Open": 573.0,
+        "High": 576.0,
+        "Low": 551.5,
+        "Close": 563.9,
+        "Percent Change": 0.34,
+        "Volume": 99109.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-08",
+        "Open": 545.7,
+        "High": 564.0,
+        "Low": 539.0,
+        "Close": 562.0,
+        "Percent Change": 5.05,
+        "Volume": 65078.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-07",
+        "Open": 541.0,
+        "High": 558.0,
+        "Low": 531.0,
+        "Close": 535.0,
+        "Percent Change": -3.08,
+        "Volume": 66468.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-04",
+        "Open": 555.0,
+        "High": 588.0,
+        "Low": 549.1,
+        "Close": 552.0,
+        "Percent Change": -2.47,
+        "Volume": 105957.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-03",
+        "Open": 544.1,
+        "High": 567.0,
+        "Low": 544.1,
+        "Close": 566.0,
+        "Percent Change": 1.95,
+        "Volume": 53586.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-02",
+        "Open": 585.0,
+        "High": 585.0,
+        "Low": 555.2,
+        "Close": 555.2,
+        "Percent Change": -3.61,
+        "Volume": 113608.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2024-01-01",
+        "Open": 579.0,
+        "High": 590.0,
+        "Low": 560.0,
+        "Close": 576.0,
+        "Percent Change": 1.46,
+        "Volume": 186432.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-28",
+        "Open": 544.3,
+        "High": 572.0,
+        "Low": 544.3,
+        "Close": 567.7,
+        "Percent Change": 2.29,
+        "Volume": 109291.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-27",
+        "Open": 562.5,
+        "High": 573.7,
+        "Low": 548.1,
+        "Close": 555.0,
+        "Percent Change": 0.63,
+        "Volume": 107684.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-24",
+        "Open": 537.2,
+        "High": 574.0,
+        "Low": 537.2,
+        "Close": 551.5,
+        "Percent Change": 0.64,
+        "Volume": 137334.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-21",
+        "Open": 565.0,
+        "High": 565.0,
+        "Low": 546.0,
+        "Close": 548.0,
+        "Percent Change": -2.49,
+        "Volume": 92513.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-20",
+        "Open": 582.2,
+        "High": 585.1,
+        "Low": 560.0,
+        "Close": 562.0,
+        "Percent Change": -2.06,
+        "Volume": 129553.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-19",
+        "Open": 554.8,
+        "High": 578.3,
+        "Low": 536.1,
+        "Close": 573.8,
+        "Percent Change": 5.48,
+        "Volume": 118890.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-18",
+        "Open": 530.3,
+        "High": 555.0,
+        "Low": 530.3,
+        "Close": 544.0,
+        "Percent Change": 2.58,
+        "Volume": 119671.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-17",
+        "Open": 524.3,
+        "High": 543.1,
+        "Low": 515.0,
+        "Close": 530.3,
+        "Percent Change": -0.88,
+        "Volume": 146449.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-14",
+        "Open": 525.0,
+        "High": 540.0,
+        "Low": 525.0,
+        "Close": 535.0,
+        "Percent Change": 0.19,
+        "Volume": 87945.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-13",
+        "Open": 561.0,
+        "High": 564.0,
+        "Low": 532.0,
+        "Close": 534.0,
+        "Percent Change": -4.47,
+        "Volume": 103412.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-12",
+        "Open": 535.0,
+        "High": 559.0,
+        "Low": 525.0,
+        "Close": 559.0,
+        "Percent Change": 4.49,
+        "Volume": 127086.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-11",
+        "Open": 522.0,
+        "High": 536.0,
+        "Low": 492.0,
+        "Close": 535.0,
+        "Percent Change": 4.49,
+        "Volume": 236001.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-10",
+        "Open": 494.7,
+        "High": 519.0,
+        "Low": 494.7,
+        "Close": 512.0,
+        "Percent Change": 5.57,
+        "Volume": 20228.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-07",
+        "Open": 469.0,
+        "High": 493.6,
+        "Low": 465.1,
+        "Close": 485.0,
+        "Percent Change": 3.63,
+        "Volume": 144639.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-06",
+        "Open": 468.0,
+        "High": 470.0,
+        "Low": 459.6,
+        "Close": 468.0,
+        "Percent Change": 1.74,
+        "Volume": 35342.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-05",
+        "Open": 467.0,
+        "High": 477.3,
+        "Low": 458.5,
+        "Close": 460.0,
+        "Percent Change": -1.08,
+        "Volume": 49600.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-04",
+        "Open": 449.0,
+        "High": 472.0,
+        "Low": 449.0,
+        "Close": 465.0,
+        "Percent Change": 2.83,
+        "Volume": 112357.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-12-03",
+        "Open": 446.0,
+        "High": 457.0,
+        "Low": 446.0,
+        "Close": 452.2,
+        "Percent Change": -0.37,
+        "Volume": 39037.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-30",
+        "Open": 446.3,
+        "High": 464.0,
+        "Low": 446.3,
+        "Close": 453.9,
+        "Percent Change": -0.24,
+        "Volume": 44569.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-29",
+        "Open": 467.0,
+        "High": 475.0,
+        "Low": 455.0,
+        "Close": 455.0,
+        "Percent Change": -2.57,
+        "Volume": 55140.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-28",
+        "Open": 469.9,
+        "High": 474.0,
+        "Low": 458.0,
+        "Close": 467.0,
+        "Percent Change": 0.43,
+        "Volume": 46431.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-27",
+        "Open": 479.0,
+        "High": 480.0,
+        "Low": 460.0,
+        "Close": 465.0,
+        "Percent Change": -1.48,
+        "Volume": 107410.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-26",
+        "Open": 455.0,
+        "High": 483.0,
+        "Low": 450.1,
+        "Close": 472.0,
+        "Percent Change": 3.74,
+        "Volume": 120025.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-23",
+        "Open": 430.0,
+        "High": 461.0,
+        "Low": 426.1,
+        "Close": 455.0,
+        "Percent Change": 6.31,
+        "Volume": 122040.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-22",
+        "Open": 418.0,
+        "High": 435.0,
+        "Low": 418.0,
+        "Close": 428.0,
+        "Percent Change": 1.42,
+        "Volume": 77532.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-21",
+        "Open": 429.0,
+        "High": 429.0,
+        "Low": 420.0,
+        "Close": 422.0,
+        "Percent Change": -1.63,
+        "Volume": 26791.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-20",
+        "Open": 427.0,
+        "High": 440.6,
+        "Low": 425.1,
+        "Close": 429.0,
+        "Percent Change": 0.7,
+        "Volume": 56156.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-09",
+        "Open": 430.0,
+        "High": 431.5,
+        "Low": 424.0,
+        "Close": 426.0,
+        "Percent Change": -0.93,
+        "Volume": 45359.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-08",
+        "Open": 432.0,
+        "High": 433.0,
+        "Low": 427.0,
+        "Close": 430.0,
+        "Percent Change": 0.7,
+        "Volume": 61471.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-07",
+        "Open": 430.5,
+        "High": 435.0,
+        "Low": 425.0,
+        "Close": 427.0,
+        "Percent Change": -1.39,
+        "Volume": 126028.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-06",
+        "Open": 430.4,
+        "High": 436.0,
+        "Low": 424.0,
+        "Close": 433.0,
+        "Percent Change": 2.61,
+        "Volume": 29872.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-05",
+        "Open": 422.0,
+        "High": 427.0,
+        "Low": 417.0,
+        "Close": 422.0,
+        "Percent Change": -1.06,
+        "Volume": 34502.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-02",
+        "Open": 430.0,
+        "High": 434.0,
+        "Low": 426.0,
+        "Close": 426.5,
+        "Percent Change": -1.2,
+        "Volume": 55840.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-11-01",
+        "Open": 435.0,
+        "High": 436.0,
+        "Low": 426.0,
+        "Close": 431.7,
+        "Percent Change": -0.42,
+        "Volume": 18873.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-31",
+        "Open": 431.2,
+        "High": 436.0,
+        "Low": 430.1,
+        "Close": 433.5,
+        "Percent Change": -0.57,
+        "Volume": 17742.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-30",
+        "Open": 433.0,
+        "High": 439.0,
+        "Low": 432.0,
+        "Close": 436.0,
+        "Percent Change": -0.68,
+        "Volume": 28897.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-29",
+        "Open": 453.0,
+        "High": 453.0,
+        "Low": 434.1,
+        "Close": 439.0,
+        "Percent Change": -2.66,
+        "Volume": 37312.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-19",
+        "Open": 437.4,
+        "High": 456.8,
+        "Low": 430.0,
+        "Close": 451.0,
+        "Percent Change": 3.92,
+        "Volume": 57026.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-18",
+        "Open": 433.5,
+        "High": 437.9,
+        "Low": 425.7,
+        "Close": 434.0,
+        "Percent Change": 1.64,
+        "Volume": 102535.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-17",
+        "Open": 441.1,
+        "High": 455.0,
+        "Low": 424.0,
+        "Close": 427.0,
+        "Percent Change": -2.95,
+        "Volume": 100495.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-16",
+        "Open": 460.0,
+        "High": 460.0,
+        "Low": 440.0,
+        "Close": 440.0,
+        "Percent Change": -5.17,
+        "Volume": 42990.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-12",
+        "Open": 484.9,
+        "High": 484.9,
+        "Low": 461.7,
+        "Close": 464.0,
+        "Percent Change": -2.93,
+        "Volume": 39559.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-11",
+        "Open": 490.0,
+        "High": 490.0,
+        "Low": 452.0,
+        "Close": 478.0,
+        "Percent Change": -4.21,
+        "Volume": 42551.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-10",
+        "Open": 510.0,
+        "High": 523.6,
+        "Low": 462.1,
+        "Close": 499.0,
+        "Percent Change": -2.8,
+        "Volume": 433547.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-09",
+        "Open": 540.0,
+        "High": 540.0,
+        "Low": 512.5,
+        "Close": 513.4,
+        "Percent Change": -4.89,
+        "Volume": 41248.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-08",
+        "Open": 555.0,
+        "High": 555.0,
+        "Low": 534.1,
+        "Close": 539.8,
+        "Percent Change": -1.85,
+        "Volume": 7448.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-05",
+        "Open": 544.0,
+        "High": 564.0,
+        "Low": 544.0,
+        "Close": 550.0,
+        "Percent Change": -0.9,
+        "Volume": 6045.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-04",
+        "Open": 544.3,
+        "High": 557.0,
+        "Low": 544.3,
+        "Close": 555.0,
+        "Percent Change": 1.57,
+        "Volume": 19650.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-03",
+        "Open": 546.0,
+        "High": 555.0,
+        "Low": 545.3,
+        "Close": 546.4,
+        "Percent Change": -1.39,
+        "Volume": 6065.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-02",
+        "Open": 574.2,
+        "High": 574.2,
+        "Low": 540.0,
+        "Close": 554.1,
+        "Percent Change": -1.58,
+        "Volume": 28863.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-10-01",
+        "Open": 560.0,
+        "High": 568.2,
+        "Low": 557.1,
+        "Close": 563.0,
+        "Percent Change": -1.05,
+        "Volume": 6319.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-27",
+        "Open": 570.1,
+        "High": 575.0,
+        "Low": 568.6,
+        "Close": 569.0,
+        "Percent Change": -1.9,
+        "Volume": 4223.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-26",
+        "Open": 576.2,
+        "High": 585.0,
+        "Low": 575.0,
+        "Close": 580.0,
+        "Percent Change": 0.69,
+        "Volume": 5462.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-25",
+        "Open": 570.0,
+        "High": 586.0,
+        "Low": 570.0,
+        "Close": 576.0,
+        "Percent Change": 0.17,
+        "Volume": 8417.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-24",
+        "Open": 583.8,
+        "High": 596.0,
+        "Low": 575.0,
+        "Close": 575.0,
+        "Percent Change": -3.36,
+        "Volume": 11295.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-21",
+        "Open": 593.0,
+        "High": 603.0,
+        "Low": 588.0,
+        "Close": 595.0,
+        "Percent Change": 0.68,
+        "Volume": 16233.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-19",
+        "Open": 572.0,
+        "High": 591.0,
+        "Low": 570.0,
+        "Close": 591.0,
+        "Percent Change": 1.55,
+        "Volume": 6028.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-18",
+        "Open": 562.6,
+        "High": 582.0,
+        "Low": 562.6,
+        "Close": 582.0,
+        "Percent Change": 1.57,
+        "Volume": 2775.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-17",
+        "Open": 580.1,
+        "High": 586.0,
+        "Low": 570.0,
+        "Close": 573.0,
+        "Percent Change": -2.96,
+        "Volume": 9339.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-13",
+        "Open": 585.0,
+        "High": 594.7,
+        "Low": 576.2,
+        "Close": 590.5,
+        "Percent Change": 1.81,
+        "Volume": 9845.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-12",
+        "Open": 595.0,
+        "High": 595.0,
+        "Low": 569.0,
+        "Close": 580.0,
+        "Percent Change": -0.68,
+        "Volume": 9270.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-11",
+        "Open": 553.5,
+        "High": 585.0,
+        "Low": 553.5,
+        "Close": 584.0,
+        "Percent Change": 3.64,
+        "Volume": 7794.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-10",
+        "Open": 567.0,
+        "High": 580.0,
+        "Low": 560.0,
+        "Close": 563.5,
+        "Percent Change": -0.27,
+        "Volume": 7167.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-07",
+        "Open": 571.0,
+        "High": 583.4,
+        "Low": 552.1,
+        "Close": 565.0,
+        "Percent Change": -1.22,
+        "Volume": 6130.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-05",
+        "Open": 567.0,
+        "High": 578.0,
+        "Low": 566.5,
+        "Close": 572.0,
+        "Percent Change": -1.04,
+        "Volume": 3143.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-04",
+        "Open": 565.0,
+        "High": 587.7,
+        "Low": 560.1,
+        "Close": 578.0,
+        "Percent Change": 1.4,
+        "Volume": 8050.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-09-03",
+        "Open": 569.0,
+        "High": 577.0,
+        "Low": 566.0,
+        "Close": 570.0,
+        "Percent Change": -1.72,
+        "Volume": 5388.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-30",
+        "Open": 572.1,
+        "High": 584.9,
+        "Low": 572.1,
+        "Close": 580.0,
+        "Percent Change": 0.0,
+        "Volume": 4765.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-29",
+        "Open": 589.0,
+        "High": 599.0,
+        "Low": 578.2,
+        "Close": 580.0,
+        "Percent Change": 0.24,
+        "Volume": 5279.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-28",
+        "Open": 567.9,
+        "High": 592.6,
+        "Low": 567.9,
+        "Close": 578.6,
+        "Percent Change": 0.28,
+        "Volume": 7278.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-27",
+        "Open": 574.0,
+        "High": 596.0,
+        "Low": 574.0,
+        "Close": 577.0,
+        "Percent Change": -1.37,
+        "Volume": 7564.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-24",
+        "Open": 599.0,
+        "High": 615.0,
+        "Low": 583.3,
+        "Close": 585.0,
+        "Percent Change": -4.1,
+        "Volume": 18997.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-23",
+        "Open": 592.0,
+        "High": 610.0,
+        "Low": 590.0,
+        "Close": 610.0,
+        "Percent Change": 4.01,
+        "Volume": 22761.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-22",
+        "Open": 570.0,
+        "High": 586.5,
+        "Low": 565.0,
+        "Close": 586.5,
+        "Percent Change": 2.89,
+        "Volume": 4775.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-21",
+        "Open": 572.9,
+        "High": 605.8,
+        "Low": 567.1,
+        "Close": 570.0,
+        "Percent Change": -0.52,
+        "Volume": 7805.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-20",
+        "Open": 577.5,
+        "High": 612.7,
+        "Low": 573.0,
+        "Close": 573.0,
+        "Percent Change": -2.72,
+        "Volume": 7811.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-17",
+        "Open": 581.0,
+        "High": 595.0,
+        "Low": 580.1,
+        "Close": 589.0,
+        "Percent Change": 2.26,
+        "Volume": 12080.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-16",
+        "Open": 580.0,
+        "High": 591.0,
+        "Low": 573.5,
+        "Close": 576.0,
+        "Percent Change": -1.37,
+        "Volume": 5808.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-15",
+        "Open": 597.8,
+        "High": 605.0,
+        "Low": 582.3,
+        "Close": 584.0,
+        "Percent Change": -4.26,
+        "Volume": 12507.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-14",
+        "Open": 611.0,
+        "High": 633.0,
+        "Low": 599.0,
+        "Close": 610.0,
+        "Percent Change": -0.16,
+        "Volume": 17636.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-13",
+        "Open": 602.0,
+        "High": 636.6,
+        "Low": 590.0,
+        "Close": 611.0,
+        "Percent Change": 1.5,
+        "Volume": 17545.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-10",
+        "Open": 598.0,
+        "High": 611.8,
+        "Low": 583.0,
+        "Close": 602.0,
+        "Percent Change": 1.01,
+        "Volume": 11312.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-09",
+        "Open": 561.8,
+        "High": 620.0,
+        "Low": 561.6,
+        "Close": 596.0,
+        "Percent Change": 4.01,
+        "Volume": 19011.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-08",
+        "Open": 572.0,
+        "High": 591.6,
+        "Low": 563.7,
+        "Close": 573.0,
+        "Percent Change": -1.21,
+        "Volume": 13780.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-07",
+        "Open": 579.1,
+        "High": 594.9,
+        "Low": 578.2,
+        "Close": 580.0,
+        "Percent Change": -1.69,
+        "Volume": 10783.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-06",
+        "Open": 601.0,
+        "High": 608.0,
+        "Low": 580.0,
+        "Close": 590.0,
+        "Percent Change": -1.83,
+        "Volume": 19169.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-03",
+        "Open": 605.0,
+        "High": 615.0,
+        "Low": 600.0,
+        "Close": 601.0,
+        "Percent Change": -1.31,
+        "Volume": 10894.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-02",
+        "Open": 595.0,
+        "High": 618.0,
+        "Low": 590.0,
+        "Close": 609.0,
+        "Percent Change": 0.5,
+        "Volume": 13870.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-08-01",
+        "Open": 614.0,
+        "High": 626.2,
+        "Low": 600.0,
+        "Close": 606.0,
+        "Percent Change": -3.04,
+        "Volume": 12026.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-31",
+        "Open": 618.1,
+        "High": 637.0,
+        "Low": 614.0,
+        "Close": 625.0,
+        "Percent Change": -0.79,
+        "Volume": 15110.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-30",
+        "Open": 631.0,
+        "High": 640.0,
+        "Low": 613.1,
+        "Close": 630.0,
+        "Percent Change": -1.52,
+        "Volume": 19352.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-27",
+        "Open": 635.0,
+        "High": 648.0,
+        "Low": 633.0,
+        "Close": 639.7,
+        "Percent Change": -0.98,
+        "Volume": 26418.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-26",
+        "Open": 639.0,
+        "High": 652.0,
+        "Low": 634.3,
+        "Close": 646.0,
+        "Percent Change": 1.08,
+        "Volume": 24503.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-25",
+        "Open": 641.3,
+        "High": 659.0,
+        "Low": 639.0,
+        "Close": 639.1,
+        "Percent Change": -1.98,
+        "Volume": 17203.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-24",
+        "Open": 649.5,
+        "High": 668.0,
+        "Low": 644.2,
+        "Close": 652.0,
+        "Percent Change": 0.28,
+        "Volume": 39398.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-23",
+        "Open": 633.0,
+        "High": 673.0,
+        "Low": 633.0,
+        "Close": 650.2,
+        "Percent Change": 0.81,
+        "Volume": 31937.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-20",
+        "Open": 654.0,
+        "High": 664.0,
+        "Low": 645.0,
+        "Close": 645.0,
+        "Percent Change": -3.3,
+        "Volume": 13725.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-19",
+        "Open": 660.0,
+        "High": 672.9,
+        "Low": 655.0,
+        "Close": 667.0,
+        "Percent Change": -0.45,
+        "Volume": 14126.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-18",
+        "Open": 655.0,
+        "High": 680.0,
+        "Low": 655.0,
+        "Close": 670.0,
+        "Percent Change": 0.9,
+        "Volume": 43224.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-17",
+        "Open": 650.0,
+        "High": 664.0,
+        "Low": 641.0,
+        "Close": 664.0,
+        "Percent Change": 2.17,
+        "Volume": 12171.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-16",
+        "Open": 650.0,
+        "High": 654.0,
+        "Low": 637.0,
+        "Close": 649.9,
+        "Percent Change": 0.14,
+        "Volume": 19604.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-13",
+        "Open": 670.0,
+        "High": 674.0,
+        "Low": 641.9,
+        "Close": 649.0,
+        "Percent Change": -2.11,
+        "Volume": 21509.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-12",
+        "Open": 640.0,
+        "High": 663.0,
+        "Low": 640.0,
+        "Close": 663.0,
+        "Percent Change": 2.0,
+        "Volume": 23603.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-11",
+        "Open": 646.9,
+        "High": 663.0,
+        "Low": 641.8,
+        "Close": 650.0,
+        "Percent Change": -1.52,
+        "Volume": 14308.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-10",
+        "Open": 651.0,
+        "High": 670.0,
+        "Low": 648.0,
+        "Close": 660.0,
+        "Percent Change": 0.0,
+        "Volume": 23950.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-09",
+        "Open": 648.0,
+        "High": 660.0,
+        "Low": 640.0,
+        "Close": 660.0,
+        "Percent Change": 3.77,
+        "Volume": 31430.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-06",
+        "Open": 628.0,
+        "High": 663.0,
+        "Low": 624.0,
+        "Close": 636.0,
+        "Percent Change": -0.63,
+        "Volume": 21201.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-05",
+        "Open": 659.0,
+        "High": 660.5,
+        "Low": 629.0,
+        "Close": 640.0,
+        "Percent Change": -2.88,
+        "Volume": 32392.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-04",
+        "Open": 662.0,
+        "High": 665.0,
+        "Low": 642.9,
+        "Close": 659.0,
+        "Percent Change": 1.49,
+        "Volume": 23510.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-03",
+        "Open": 650.0,
+        "High": 668.0,
+        "Low": 635.0,
+        "Close": 649.3,
+        "Percent Change": -0.41,
+        "Volume": 39720.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-07-02",
+        "Open": 690.0,
+        "High": 696.0,
+        "Low": 651.3,
+        "Close": 652.0,
+        "Percent Change": -4.82,
+        "Volume": 54238.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-28",
+        "Open": 710.9,
+        "High": 710.9,
+        "Low": 663.1,
+        "Close": 685.0,
+        "Percent Change": -1.72,
+        "Volume": 72790.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-27",
+        "Open": 658.0,
+        "High": 710.0,
+        "Low": 632.1,
+        "Close": 697.0,
+        "Percent Change": 5.93,
+        "Volume": 75388.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-26",
+        "Open": 650.0,
+        "High": 665.0,
+        "Low": 625.0,
+        "Close": 658.0,
+        "Percent Change": 2.02,
+        "Volume": 78924.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-25",
+        "Open": 600.0,
+        "High": 645.0,
+        "Low": 582.0,
+        "Close": 645.0,
+        "Percent Change": 8.77,
+        "Volume": 140461.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-22",
+        "Open": 565.0,
+        "High": 599.0,
+        "Low": 553.0,
+        "Close": 593.0,
+        "Percent Change": 5.87,
+        "Volume": 53872.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-21",
+        "Open": 561.5,
+        "High": 575.0,
+        "Low": 552.2,
+        "Close": 560.1,
+        "Percent Change": -0.5,
+        "Volume": 43007.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-20",
+        "Open": 579.0,
+        "High": 585.0,
+        "Low": 562.6,
+        "Close": 562.9,
+        "Percent Change": -2.27,
+        "Volume": 49760.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-19",
+        "Open": 609.9,
+        "High": 611.0,
+        "Low": 573.1,
+        "Close": 576.0,
+        "Percent Change": -3.86,
+        "Volume": 59238.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-18",
+        "Open": 599.7,
+        "High": 605.0,
+        "Low": 570.0,
+        "Close": 599.1,
+        "Percent Change": 1.89,
+        "Volume": 115274.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-15",
+        "Open": 566.0,
+        "High": 588.0,
+        "Low": 554.5,
+        "Close": 588.0,
+        "Percent Change": 1.91,
+        "Volume": 53401.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-14",
+        "Open": 550.0,
+        "High": 577.0,
+        "Low": 545.0,
+        "Close": 577.0,
+        "Percent Change": 3.96,
+        "Volume": 66774.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-13",
+        "Open": 560.0,
+        "High": 579.0,
+        "Low": 541.0,
+        "Close": 555.0,
+        "Percent Change": -0.36,
+        "Volume": 62563.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-12",
+        "Open": 534.0,
+        "High": 558.1,
+        "Low": 530.2,
+        "Close": 557.0,
+        "Percent Change": 2.96,
+        "Volume": 59871.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-11",
+        "Open": 533.0,
+        "High": 550.8,
+        "Low": 515.1,
+        "Close": 541.0,
+        "Percent Change": 3.24,
+        "Volume": 67204.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-08",
+        "Open": 478.3,
+        "High": 525.0,
+        "Low": 478.3,
+        "Close": 524.0,
+        "Percent Change": 7.38,
+        "Volume": 84550.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-07",
+        "Open": 490.0,
+        "High": 500.0,
+        "Low": 482.0,
+        "Close": 488.0,
+        "Percent Change": 1.22,
+        "Volume": 19107.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-06",
+        "Open": 460.0,
+        "High": 488.5,
+        "Low": 457.5,
+        "Close": 482.1,
+        "Percent Change": 3.92,
+        "Volume": 25540.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-05",
+        "Open": 474.0,
+        "High": 474.0,
+        "Low": 460.1,
+        "Close": 463.9,
+        "Percent Change": -1.3,
+        "Volume": 12002.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-04",
+        "Open": 450.0,
+        "High": 474.0,
+        "Low": 450.0,
+        "Close": 470.0,
+        "Percent Change": 4.44,
+        "Volume": 20502.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-06-01",
+        "Open": 446.0,
+        "High": 454.9,
+        "Low": 431.1,
+        "Close": 450.0,
+        "Percent Change": 2.74,
+        "Volume": 10850.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-31",
+        "Open": 443.0,
+        "High": 450.0,
+        "Low": 435.0,
+        "Close": 438.0,
+        "Percent Change": -3.1,
+        "Volume": 13193.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-30",
+        "Open": 467.9,
+        "High": 468.0,
+        "Low": 448.0,
+        "Close": 452.0,
+        "Percent Change": -3.83,
+        "Volume": 22519.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-28",
+        "Open": 480.0,
+        "High": 489.0,
+        "Low": 469.0,
+        "Close": 470.0,
+        "Percent Change": -2.89,
+        "Volume": 34110.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-24",
+        "Open": 489.0,
+        "High": 489.0,
+        "Low": 462.0,
+        "Close": 484.0,
+        "Percent Change": 0.9,
+        "Volume": 40422.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-23",
+        "Open": 454.0,
+        "High": 479.7,
+        "Low": 454.0,
+        "Close": 479.7,
+        "Percent Change": 6.13,
+        "Volume": 37402.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-22",
+        "Open": 435.0,
+        "High": 456.0,
+        "Low": 430.5,
+        "Close": 452.0,
+        "Percent Change": 3.17,
+        "Volume": 25837.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-21",
+        "Open": 444.9,
+        "High": 463.8,
+        "Low": 430.1,
+        "Close": 438.1,
+        "Percent Change": -1.33,
+        "Volume": 24172.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-18",
+        "Open": 440.0,
+        "High": 450.0,
+        "Low": 421.4,
+        "Close": 444.0,
+        "Percent Change": 1.14,
+        "Volume": 42238.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-17",
+        "Open": 445.0,
+        "High": 445.5,
+        "Low": 432.6,
+        "Close": 439.0,
+        "Percent Change": -1.53,
+        "Volume": 4640.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-16",
+        "Open": 426.2,
+        "High": 445.8,
+        "Low": 426.2,
+        "Close": 445.8,
+        "Percent Change": 3.53,
+        "Volume": 5139.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-15",
+        "Open": 420.5,
+        "High": 437.5,
+        "Low": 412.2,
+        "Close": 430.6,
+        "Percent Change": 0.0,
+        "Volume": 1920.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-14",
+        "Open": 435.0,
+        "High": 435.0,
+        "Low": 417.0,
+        "Close": 429.0,
+        "Percent Change": -1.2,
+        "Volume": 4959.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-11",
+        "Open": 434.0,
+        "High": 443.5,
+        "Low": 434.0,
+        "Close": 434.2,
+        "Percent Change": -1.09,
+        "Volume": 2894.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-10",
+        "Open": 441.7,
+        "High": 450.5,
+        "Low": 431.0,
+        "Close": 439.0,
+        "Percent Change": 1.36,
+        "Volume": 1695.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-09",
+        "Open": 435.0,
+        "High": 445.0,
+        "Low": 433.0,
+        "Close": 433.1,
+        "Percent Change": -1.57,
+        "Volume": 4430.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-08",
+        "Open": 440.0,
+        "High": 444.0,
+        "Low": 434.0,
+        "Close": 440.0,
+        "Percent Change": -1.35,
+        "Volume": 2296.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-07",
+        "Open": 443.1,
+        "High": 450.0,
+        "Low": 443.0,
+        "Close": 446.0,
+        "Percent Change": -0.89,
+        "Volume": 2963.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-04",
+        "Open": 444.0,
+        "High": 453.9,
+        "Low": 441.0,
+        "Close": 450.0,
+        "Percent Change": 0.67,
+        "Volume": 5111.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-03",
+        "Open": 440.0,
+        "High": 461.0,
+        "Low": 440.0,
+        "Close": 447.0,
+        "Percent Change": 0.22,
+        "Volume": 2353.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-05-02",
+        "Open": 440.0,
+        "High": 447.9,
+        "Low": 440.0,
+        "Close": 446.0,
+        "Percent Change": -0.65,
+        "Volume": 1857.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-30",
+        "Open": 447.0,
+        "High": 455.0,
+        "Low": 447.0,
+        "Close": 448.9,
+        "Percent Change": -1.56,
+        "Volume": 3409.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-27",
+        "Open": 452.2,
+        "High": 460.0,
+        "Low": 452.1,
+        "Close": 456.0,
+        "Percent Change": -1.08,
+        "Volume": 5077.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-26",
+        "Open": 456.0,
+        "High": 470.0,
+        "Low": 455.1,
+        "Close": 461.0,
+        "Percent Change": -0.65,
+        "Volume": 10987.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-25",
+        "Open": 459.7,
+        "High": 469.0,
+        "Low": 455.0,
+        "Close": 464.0,
+        "Percent Change": -1.07,
+        "Volume": 1635.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-24",
+        "Open": 461.0,
+        "High": 472.0,
+        "Low": 460.1,
+        "Close": 469.0,
+        "Percent Change": -0.19,
+        "Volume": 9323.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-23",
+        "Open": 468.0,
+        "High": 474.0,
+        "Low": 460.1,
+        "Close": 469.9,
+        "Percent Change": -0.86,
+        "Volume": 6223.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-20",
+        "Open": 470.1,
+        "High": 485.0,
+        "Low": 466.7,
+        "Close": 474.0,
+        "Percent Change": -1.04,
+        "Volume": 11590.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-19",
+        "Open": 470.0,
+        "High": 479.9,
+        "Low": 469.1,
+        "Close": 479.0,
+        "Percent Change": 1.91,
+        "Volume": 9136.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-18",
+        "Open": 452.0,
+        "High": 475.0,
+        "Low": 452.0,
+        "Close": 470.0,
+        "Percent Change": 1.95,
+        "Volume": 16146.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-17",
+        "Open": 460.0,
+        "High": 465.0,
+        "Low": 455.6,
+        "Close": 461.0,
+        "Percent Change": -0.82,
+        "Volume": 21645.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-16",
+        "Open": 445.0,
+        "High": 466.0,
+        "Low": 445.0,
+        "Close": 464.8,
+        "Percent Change": 3.29,
+        "Volume": 20566.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-13",
+        "Open": 450.0,
+        "High": 457.9,
+        "Low": 438.0,
+        "Close": 450.0,
+        "Percent Change": 0.83,
+        "Volume": 14038.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-12",
+        "Open": 437.0,
+        "High": 451.8,
+        "Low": 433.0,
+        "Close": 446.3,
+        "Percent Change": 4.03,
+        "Volume": 21065.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-11",
+        "Open": 425.0,
+        "High": 430.4,
+        "Low": 420.0,
+        "Close": 429.0,
+        "Percent Change": 0.94,
+        "Volume": 3420.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-10",
+        "Open": 420.0,
+        "High": 426.0,
+        "Low": 413.0,
+        "Close": 425.0,
+        "Percent Change": 0.24,
+        "Volume": 2768.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-09",
+        "Open": 431.3,
+        "High": 433.0,
+        "Low": 418.1,
+        "Close": 424.0,
+        "Percent Change": -3.64,
+        "Volume": 12627.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-06",
+        "Open": 435.0,
+        "High": 443.0,
+        "Low": 435.0,
+        "Close": 440.0,
+        "Percent Change": -0.45,
+        "Volume": 4434.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-05",
+        "Open": 430.0,
+        "High": 448.0,
+        "Low": 427.0,
+        "Close": 442.0,
+        "Percent Change": 2.22,
+        "Volume": 8846.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-04",
+        "Open": 438.1,
+        "High": 445.0,
+        "Low": 432.4,
+        "Close": 432.4,
+        "Percent Change": -3.27,
+        "Volume": 19955.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-03",
+        "Open": 441.2,
+        "High": 458.0,
+        "Low": 437.4,
+        "Close": 447.0,
+        "Percent Change": -0.67,
+        "Volume": 3520.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-04-02",
+        "Open": 458.0,
+        "High": 460.0,
+        "Low": 442.0,
+        "Close": 450.0,
+        "Percent Change": -1.75,
+        "Volume": 24382.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-30",
+        "Open": 456.0,
+        "High": 463.0,
+        "Low": 454.0,
+        "Close": 458.0,
+        "Percent Change": 0.44,
+        "Volume": 11056.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-29",
+        "Open": 443.0,
+        "High": 460.0,
+        "Low": 443.0,
+        "Close": 456.0,
+        "Percent Change": 1.11,
+        "Volume": 4094.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-28",
+        "Open": 442.0,
+        "High": 455.0,
+        "Low": 442.0,
+        "Close": 451.0,
+        "Percent Change": 0.45,
+        "Volume": 4466.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-27",
+        "Open": 431.5,
+        "High": 449.9,
+        "Low": 431.5,
+        "Close": 449.0,
+        "Percent Change": 2.28,
+        "Volume": 3229.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-26",
+        "Open": 443.1,
+        "High": 446.0,
+        "Low": 438.5,
+        "Close": 439.0,
+        "Percent Change": -2.66,
+        "Volume": 5835.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-23",
+        "Open": 450.1,
+        "High": 459.0,
+        "Low": 449.0,
+        "Close": 451.0,
+        "Percent Change": -1.1,
+        "Volume": 6485.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-22",
+        "Open": 456.0,
+        "High": 466.3,
+        "Low": 455.0,
+        "Close": 456.0,
+        "Percent Change": -1.51,
+        "Volume": 5825.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-20",
+        "Open": 450.2,
+        "High": 463.0,
+        "Low": 450.2,
+        "Close": 463.0,
+        "Percent Change": 1.98,
+        "Volume": 3560.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-19",
+        "Open": 451.0,
+        "High": 457.5,
+        "Low": 451.0,
+        "Close": 454.0,
+        "Percent Change": -0.87,
+        "Volume": 2447.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-16",
+        "Open": 450.0,
+        "High": 462.0,
+        "Low": 450.0,
+        "Close": 458.0,
+        "Percent Change": 0.17,
+        "Volume": 4615.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-15",
+        "Open": 448.0,
+        "High": 462.0,
+        "Low": 448.0,
+        "Close": 457.2,
+        "Percent Change": 0.48,
+        "Volume": 5079.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-14",
+        "Open": 450.0,
+        "High": 467.0,
+        "Low": 450.0,
+        "Close": 455.0,
+        "Percent Change": 0.0,
+        "Volume": 2543.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-13",
+        "Open": 448.7,
+        "High": 456.0,
+        "Low": 448.7,
+        "Close": 455.0,
+        "Percent Change": -0.22,
+        "Volume": 3730.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-12",
+        "Open": 471.0,
+        "High": 475.0,
+        "Low": 455.1,
+        "Close": 456.0,
+        "Percent Change": -2.56,
+        "Volume": 6134.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-09",
+        "Open": 468.1,
+        "High": 468.1,
+        "Low": 452.1,
+        "Close": 468.0,
+        "Percent Change": 1.96,
+        "Volume": 7278.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-07",
+        "Open": 450.0,
+        "High": 461.0,
+        "Low": 442.0,
+        "Close": 459.0,
+        "Percent Change": 0.0,
+        "Volume": 4195.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-05",
+        "Open": 445.3,
+        "High": 459.1,
+        "Low": 445.3,
+        "Close": 459.0,
+        "Percent Change": 1.12,
+        "Volume": 5120.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-02",
+        "Open": 446.1,
+        "High": 454.0,
+        "Low": 446.1,
+        "Close": 453.9,
+        "Percent Change": -0.02,
+        "Volume": 4848.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-03-01",
+        "Open": 458.0,
+        "High": 467.0,
+        "Low": 454.0,
+        "Close": 454.0,
+        "Percent Change": -1.94,
+        "Volume": 5801.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-28",
+        "Open": 460.1,
+        "High": 472.0,
+        "Low": 460.0,
+        "Close": 463.0,
+        "Percent Change": -0.64,
+        "Volume": 2253.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-27",
+        "Open": 462.0,
+        "High": 478.9,
+        "Low": 456.0,
+        "Close": 466.0,
+        "Percent Change": -1.06,
+        "Volume": 9070.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-26",
+        "Open": 455.7,
+        "High": 471.0,
+        "Low": 438.0,
+        "Close": 471.0,
+        "Percent Change": 1.29,
+        "Volume": 6881.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-23",
+        "Open": 468.0,
+        "High": 470.0,
+        "Low": 451.0,
+        "Close": 465.0,
+        "Percent Change": -2.08,
+        "Volume": 10270.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-22",
+        "Open": 446.5,
+        "High": 479.0,
+        "Low": 446.5,
+        "Close": 474.9,
+        "Percent Change": 4.37,
+        "Volume": 7523.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-20",
+        "Open": 455.0,
+        "High": 471.8,
+        "Low": 446.1,
+        "Close": 455.0,
+        "Percent Change": -1.73,
+        "Volume": 19162.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-16",
+        "Open": 465.0,
+        "High": 470.0,
+        "Low": 461.1,
+        "Close": 463.0,
+        "Percent Change": -2.11,
+        "Volume": 9279.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-15",
+        "Open": 470.7,
+        "High": 484.0,
+        "Low": 470.7,
+        "Close": 473.0,
+        "Percent Change": -1.29,
+        "Volume": 6796.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-14",
+        "Open": 481.0,
+        "High": 485.0,
+        "Low": 471.4,
+        "Close": 479.2,
+        "Percent Change": -1.2,
+        "Volume": 9992.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-12",
+        "Open": 500.0,
+        "High": 500.0,
+        "Low": 475.9,
+        "Close": 485.0,
+        "Percent Change": -2.22,
+        "Volume": 14627.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-09",
+        "Open": 495.0,
+        "High": 500.0,
+        "Low": 490.0,
+        "Close": 496.0,
+        "Percent Change": -1.57,
+        "Volume": 5463.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-08",
+        "Open": 505.0,
+        "High": 515.1,
+        "Low": 496.1,
+        "Close": 503.9,
+        "Percent Change": 0.8,
+        "Volume": 36464.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-07",
+        "Open": 494.0,
+        "High": 513.8,
+        "Low": 488.0,
+        "Close": 499.9,
+        "Percent Change": 3.09,
+        "Volume": 20657.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-06",
+        "Open": 478.0,
+        "High": 492.0,
+        "Low": 475.4,
+        "Close": 484.9,
+        "Percent Change": -0.02,
+        "Volume": 12433.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-05",
+        "Open": 487.0,
+        "High": 495.0,
+        "Low": 479.0,
+        "Close": 485.0,
+        "Percent Change": -0.61,
+        "Volume": 11668.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-02",
+        "Open": 500.0,
+        "High": 502.8,
+        "Low": 484.0,
+        "Close": 488.0,
+        "Percent Change": -1.01,
+        "Volume": 32515.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-02-01",
+        "Open": 475.0,
+        "High": 493.6,
+        "Low": 467.5,
+        "Close": 493.0,
+        "Percent Change": 4.92,
+        "Volume": 28218.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-01-31",
+        "Open": 467.5,
+        "High": 492.5,
+        "Low": 459.0,
+        "Close": 469.9,
+        "Percent Change": -1.49,
+        "Volume": 16773.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-01-30",
+        "Open": 507.9,
+        "High": 507.9,
+        "Low": 473.0,
+        "Close": 477.0,
+        "Percent Change": -4.22,
+        "Volume": 14178.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-01-29",
+        "Open": 485.1,
+        "High": 514.0,
+        "Low": 476.0,
+        "Close": 498.0,
+        "Percent Change": 0.61,
+        "Volume": 23218.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-01-26",
+        "Open": 498.7,
+        "High": 537.9,
+        "Low": 492.0,
+        "Close": 495.0,
+        "Percent Change": 1.23,
+        "Volume": 63167.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-01-25",
+        "Open": 436.1,
+        "High": 489.0,
+        "Low": 436.1,
+        "Close": 489.0,
+        "Percent Change": 9.99,
+        "Volume": 44755.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-01-24",
+        "Open": 412.2,
+        "High": 444.6,
+        "Low": 412.2,
+        "Close": 444.6,
+        "Percent Change": 10.0,
+        "Volume": 1740.0
+    },
+    {
+        "Symbol": "SGIC",
+        "Date": "2023-01-23",
+        "Open": 374.8,
+        "High": 404.2,
+        "Low": 374.8,
+        "Close": 404.2,
+        "Percent Change": 9.99,
+        "Volume": 1330.0
+    }
+]

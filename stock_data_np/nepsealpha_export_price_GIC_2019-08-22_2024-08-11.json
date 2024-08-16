@@ -1,0 +1,4212 @@
+[
+    {
+        "Symbol":"GIC",
+        "Date":"2022-07-13",
+        "Open":367.0,
+        "High":373.5,
+        "Low":365.0,
+        "Close":370.0,
+        "Percent Change":"0.84 %",
+        "Volume":"3,360.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-07-12",
+        "Open":356.0,
+        "High":368.0,
+        "Low":355.0,
+        "Close":366.9,
+        "Percent Change":"2.77 %",
+        "Volume":"5,095.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-07-11",
+        "Open":381.5,
+        "High":381.5,
+        "Low":350.1,
+        "Close":357.0,
+        "Percent Change":"-8.23 %",
+        "Volume":"12,560.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-07-08",
+        "Open":391.1,
+        "High":391.1,
+        "Low":382.0,
+        "Close":389.0,
+        "Percent Change":"-2.51 %",
+        "Volume":"562.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-07-07",
+        "Open":404.1,
+        "High":408.0,
+        "Low":392.0,
+        "Close":399.0,
+        "Percent Change":"-1.48 %",
+        "Volume":"2,269.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-07-06",
+        "Open":392.0,
+        "High":405.0,
+        "Low":383.3,
+        "Close":405.0,
+        "Percent Change":"2.79 %",
+        "Volume":"1,110.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-07-05",
+        "Open":401.8,
+        "High":409.0,
+        "Low":393.0,
+        "Close":394.0,
+        "Percent Change":"-3.90 %",
+        "Volume":"2,725.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-07-04",
+        "Open":403.0,
+        "High":433.0,
+        "Low":403.0,
+        "Close":410.0,
+        "Percent Change":"0.24 %",
+        "Volume":"5,633.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-07-03",
+        "Open":395.0,
+        "High":412.0,
+        "Low":387.1,
+        "Close":409.0,
+        "Percent Change":"3.54 %",
+        "Volume":"2,300.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-07-01",
+        "Open":401.0,
+        "High":406.0,
+        "Low":393.0,
+        "Close":395.0,
+        "Percent Change":"-3.42 %",
+        "Volume":"1,689.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-30",
+        "Open":395.0,
+        "High":410.0,
+        "Low":395.0,
+        "Close":409.0,
+        "Percent Change":"3.57 %",
+        "Volume":"3,189.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-29",
+        "Open":388.6,
+        "High":395.0,
+        "Low":375.5,
+        "Close":394.9,
+        "Percent Change":"3.65 %",
+        "Volume":"3,516.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-28",
+        "Open":392.0,
+        "High":392.0,
+        "Low":378.0,
+        "Close":381.0,
+        "Percent Change":"-4.75 %",
+        "Volume":"2,070.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-27",
+        "Open":385.5,
+        "High":400.0,
+        "Low":370.5,
+        "Close":400.0,
+        "Percent Change":"2.43 %",
+        "Volume":"4,067.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-26",
+        "Open":362.1,
+        "High":390.5,
+        "Low":350.0,
+        "Close":390.5,
+        "Percent Change":"10.00 %",
+        "Volume":"5,218.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-24",
+        "Open":353.0,
+        "High":360.0,
+        "Low":340.0,
+        "Close":355.0,
+        "Percent Change":"0.57 %",
+        "Volume":"2,245.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-23",
+        "Open":370.0,
+        "High":370.0,
+        "Low":352.0,
+        "Close":353.0,
+        "Percent Change":"-6.37 %",
+        "Volume":"3,788.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-22",
+        "Open":383.2,
+        "High":385.0,
+        "Low":377.0,
+        "Close":377.0,
+        "Percent Change":"-3.58 %",
+        "Volume":"822.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-21",
+        "Open":370.0,
+        "High":395.3,
+        "Low":370.0,
+        "Close":391.0,
+        "Percent Change":"4.18 %",
+        "Volume":"2,720.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-20",
+        "Open":382.0,
+        "High":382.0,
+        "Low":375.0,
+        "Close":375.3,
+        "Percent Change":"-3.02 %",
+        "Volume":"1,416.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-19",
+        "Open":400.0,
+        "High":400.0,
+        "Low":387.0,
+        "Close":387.0,
+        "Percent Change":"-3.73 %",
+        "Volume":"1,507.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-17",
+        "Open":408.0,
+        "High":415.0,
+        "Low":400.0,
+        "Close":402.0,
+        "Percent Change":"-1.47 %",
+        "Volume":"651.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-16",
+        "Open":387.2,
+        "High":408.0,
+        "Low":387.2,
+        "Close":408.0,
+        "Percent Change":"3.29 %",
+        "Volume":"765.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-15",
+        "Open":392.0,
+        "High":403.9,
+        "Low":390.0,
+        "Close":395.0,
+        "Percent Change":"-1.25 %",
+        "Volume":"1,590.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-14",
+        "Open":401.0,
+        "High":409.0,
+        "Low":395.0,
+        "Close":400.0,
+        "Percent Change":"-2.20 %",
+        "Volume":"1,269.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-13",
+        "Open":404.0,
+        "High":410.0,
+        "Low":399.0,
+        "Close":409.0,
+        "Percent Change":"-0.73 %",
+        "Volume":"830.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-10",
+        "Open":409.0,
+        "High":414.0,
+        "Low":401.0,
+        "Close":412.0,
+        "Percent Change":"-0.99 %",
+        "Volume":"993.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-09",
+        "Open":420.1,
+        "High":435.2,
+        "Low":416.1,
+        "Close":416.1,
+        "Percent Change":"-2.48 %",
+        "Volume":"2,544.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-08",
+        "Open":397.0,
+        "High":426.7,
+        "Low":397.0,
+        "Close":426.7,
+        "Percent Change":"5.36 %",
+        "Volume":"3,208.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-07",
+        "Open":409.0,
+        "High":425.3,
+        "Low":400.0,
+        "Close":405.0,
+        "Percent Change":"-2.88 %",
+        "Volume":"2,232.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-06",
+        "Open":420.1,
+        "High":425.0,
+        "Low":413.0,
+        "Close":417.0,
+        "Percent Change":"-1.65 %",
+        "Volume":"1,970.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-03",
+        "Open":423.7,
+        "High":434.6,
+        "Low":421.1,
+        "Close":424.0,
+        "Percent Change":"-1.90 %",
+        "Volume":"1,720.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-02",
+        "Open":436.1,
+        "High":444.4,
+        "Low":432.2,
+        "Close":432.2,
+        "Percent Change":"-2.66 %",
+        "Volume":"2,535.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-06-01",
+        "Open":460.0,
+        "High":460.0,
+        "Low":444.0,
+        "Close":444.0,
+        "Percent Change":"-2.20 %",
+        "Volume":"3,666.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-31",
+        "Open":460.0,
+        "High":470.0,
+        "Low":451.0,
+        "Close":454.0,
+        "Percent Change":"-2.58 %",
+        "Volume":"3,309.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-30",
+        "Open":485.0,
+        "High":485.0,
+        "Low":466.0,
+        "Close":466.0,
+        "Percent Change":"-2.92 %",
+        "Volume":"2,401.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-27",
+        "Open":480.0,
+        "High":490.0,
+        "Low":478.5,
+        "Close":480.0,
+        "Percent Change":"-0.62 %",
+        "Volume":"2,112.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-26",
+        "Open":478.0,
+        "High":487.0,
+        "Low":478.0,
+        "Close":483.0,
+        "Percent Change":"1.02 %",
+        "Volume":"2,192.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-25",
+        "Open":480.0,
+        "High":484.9,
+        "Low":476.0,
+        "Close":478.1,
+        "Percent Change":"0.65 %",
+        "Volume":"5,673.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-24",
+        "Open":490.0,
+        "High":492.0,
+        "Low":470.0,
+        "Close":475.0,
+        "Percent Change":"-2.66 %",
+        "Volume":"16,507.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-23",
+        "Open":512.0,
+        "High":525.0,
+        "Low":480.2,
+        "Close":488.0,
+        "Percent Change":"-2.79 %",
+        "Volume":"18,756.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-20",
+        "Open":509.0,
+        "High":515.0,
+        "Low":493.0,
+        "Close":502.0,
+        "Percent Change":"-3.28 %",
+        "Volume":"10,216.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-19",
+        "Open":485.0,
+        "High":519.0,
+        "Low":485.0,
+        "Close":519.0,
+        "Percent Change":"7.45 %",
+        "Volume":"23,114.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-18",
+        "Open":466.0,
+        "High":495.0,
+        "Low":460.1,
+        "Close":483.0,
+        "Percent Change":"0.02 %",
+        "Volume":"5,923.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-17",
+        "Open":492.0,
+        "High":492.0,
+        "Low":472.0,
+        "Close":475.0,
+        "Percent Change":"-5.00 %",
+        "Volume":"3,952.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-12",
+        "Open":510.0,
+        "High":520.0,
+        "Low":500.0,
+        "Close":500.0,
+        "Percent Change":"-2.91 %",
+        "Volume":"4,173.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-11",
+        "Open":500.0,
+        "High":518.0,
+        "Low":498.0,
+        "Close":515.0,
+        "Percent Change":"3.00 %",
+        "Volume":"3,021.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-10",
+        "Open":490.0,
+        "High":503.0,
+        "Low":488.4,
+        "Close":500.0,
+        "Percent Change":"2.04 %",
+        "Volume":"2,779.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-09",
+        "Open":480.0,
+        "High":505.0,
+        "Low":480.0,
+        "Close":490.0,
+        "Percent Change":"0.20 %",
+        "Volume":"1,494.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-08",
+        "Open":486.0,
+        "High":489.1,
+        "Low":477.3,
+        "Close":489.0,
+        "Percent Change":"-1.21 %",
+        "Volume":"2,424.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-05",
+        "Open":497.9,
+        "High":504.0,
+        "Low":491.2,
+        "Close":495.0,
+        "Percent Change":"-2.56 %",
+        "Volume":"1,942.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-04",
+        "Open":510.0,
+        "High":522.0,
+        "Low":505.1,
+        "Close":508.0,
+        "Percent Change":"-1.93 %",
+        "Volume":"2,570.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-05-02",
+        "Open":528.7,
+        "High":528.8,
+        "Low":517.0,
+        "Close":518.0,
+        "Percent Change":"-3.95 %",
+        "Volume":"3,430.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-28",
+        "Open":536.1,
+        "High":546.0,
+        "Low":536.1,
+        "Close":539.3,
+        "Percent Change":"-1.23 %",
+        "Volume":"2,211.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-27",
+        "Open":558.0,
+        "High":558.1,
+        "Low":542.0,
+        "Close":546.0,
+        "Percent Change":"-0.22 %",
+        "Volume":"2,290.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-26",
+        "Open":548.0,
+        "High":557.0,
+        "Low":540.1,
+        "Close":547.2,
+        "Percent Change":"-2.11 %",
+        "Volume":"1,790.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-25",
+        "Open":564.0,
+        "High":571.2,
+        "Low":546.1,
+        "Close":559.0,
+        "Percent Change":"-0.89 %",
+        "Volume":"2,309.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-24",
+        "Open":516.0,
+        "High":564.0,
+        "Low":516.0,
+        "Close":564.0,
+        "Percent Change":"9.28 %",
+        "Volume":"3,948.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-21",
+        "Open":524.0,
+        "High":524.0,
+        "Low":512.0,
+        "Close":516.1,
+        "Percent Change":"-3.33 %",
+        "Volume":"2,254.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-20",
+        "Open":535.0,
+        "High":540.0,
+        "Low":521.5,
+        "Close":533.9,
+        "Percent Change":"-1.68 %",
+        "Volume":"2,401.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-19",
+        "Open":538.0,
+        "High":559.6,
+        "Low":528.0,
+        "Close":543.0,
+        "Percent Change":"0.93 %",
+        "Volume":"3,112.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-18",
+        "Open":550.0,
+        "High":550.0,
+        "Low":533.0,
+        "Close":538.0,
+        "Percent Change":"-3.41 %",
+        "Volume":"4,015.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-17",
+        "Open":562.0,
+        "High":564.0,
+        "Low":545.0,
+        "Close":557.0,
+        "Percent Change":"-1.42 %",
+        "Volume":"3,590.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-13",
+        "Open":557.0,
+        "High":575.0,
+        "Low":557.0,
+        "Close":565.0,
+        "Percent Change":"-0.35 %",
+        "Volume":"2,801.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-12",
+        "Open":563.0,
+        "High":567.0,
+        "Low":555.0,
+        "Close":567.0,
+        "Percent Change":"-1.25 %",
+        "Volume":"2,040.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-11",
+        "Open":580.0,
+        "High":600.0,
+        "Low":574.2,
+        "Close":574.2,
+        "Percent Change":"-2.51 %",
+        "Volume":"4,480.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-07",
+        "Open":572.0,
+        "High":590.0,
+        "Low":572.0,
+        "Close":589.0,
+        "Percent Change":"2.97 %",
+        "Volume":"2,931.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-06",
+        "Open":580.2,
+        "High":590.0,
+        "Low":568.6,
+        "Close":572.0,
+        "Percent Change":"-1.41 %",
+        "Volume":"5,404.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-05",
+        "Open":610.0,
+        "High":610.0,
+        "Low":579.0,
+        "Close":580.2,
+        "Percent Change":"-5.69 %",
+        "Volume":"9,624.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-04",
+        "Open":630.0,
+        "High":639.4,
+        "Low":615.1,
+        "Close":615.2,
+        "Percent Change":"-1.88 %",
+        "Volume":"3,011.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-04-03",
+        "Open":622.9,
+        "High":631.0,
+        "Low":621.0,
+        "Close":627.0,
+        "Percent Change":"-0.48 %",
+        "Volume":"2,646.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-31",
+        "Open":634.3,
+        "High":657.0,
+        "Low":630.0,
+        "Close":630.0,
+        "Percent Change":"-2.63 %",
+        "Volume":"3,565.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-30",
+        "Open":625.2,
+        "High":652.8,
+        "Low":622.2,
+        "Close":647.0,
+        "Percent Change":"2.70 %",
+        "Volume":"6,225.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-29",
+        "Open":630.0,
+        "High":643.0,
+        "Low":626.3,
+        "Close":630.0,
+        "Percent Change":"-1.39 %",
+        "Volume":"6,747.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-28",
+        "Open":650.0,
+        "High":650.0,
+        "Low":632.2,
+        "Close":638.9,
+        "Percent Change":"-2.90 %",
+        "Volume":"10,460.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-27",
+        "Open":612.1,
+        "High":660.1,
+        "Low":612.1,
+        "Close":658.0,
+        "Percent Change":"9.65 %",
+        "Volume":"47,923.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-24",
+        "Open":580.1,
+        "High":613.0,
+        "Low":580.1,
+        "Close":600.1,
+        "Percent Change":"1.54 %",
+        "Volume":"7,005.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-23",
+        "Open":587.0,
+        "High":595.0,
+        "Low":587.0,
+        "Close":591.0,
+        "Percent Change":"-1.25 %",
+        "Volume":"1,303.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-22",
+        "Open":599.2,
+        "High":601.0,
+        "Low":595.1,
+        "Close":598.5,
+        "Percent Change":"-0.07 %",
+        "Volume":"2,605.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-21",
+        "Open":588.0,
+        "High":599.0,
+        "Low":580.0,
+        "Close":598.9,
+        "Percent Change":"-0.18 %",
+        "Volume":"2,105.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-20",
+        "Open":587.1,
+        "High":610.0,
+        "Low":580.0,
+        "Close":600.0,
+        "Percent Change":"0.17 %",
+        "Volume":"2,815.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-16",
+        "Open":607.9,
+        "High":607.9,
+        "Low":585.1,
+        "Close":599.0,
+        "Percent Change":"0.50 %",
+        "Volume":"3,073.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-15",
+        "Open":591.1,
+        "High":601.0,
+        "Low":591.0,
+        "Close":596.0,
+        "Percent Change":"-1.16 %",
+        "Volume":"4,604.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-14",
+        "Open":595.0,
+        "High":605.0,
+        "Low":583.0,
+        "Close":603.0,
+        "Percent Change":"-0.66 %",
+        "Volume":"916.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-13",
+        "Open":573.0,
+        "High":607.0,
+        "Low":551.0,
+        "Close":607.0,
+        "Percent Change":"8.05 %",
+        "Volume":"8,150.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-10",
+        "Open":530.0,
+        "High":561.8,
+        "Low":529.0,
+        "Close":561.8,
+        "Percent Change":"4.23 %",
+        "Volume":"2,631.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-09",
+        "Open":540.3,
+        "High":542.3,
+        "Low":530.0,
+        "Close":539.0,
+        "Percent Change":"-2.00 %",
+        "Volume":"2,338.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-07",
+        "Open":550.1,
+        "High":559.2,
+        "Low":540.0,
+        "Close":550.0,
+        "Percent Change":"0.00 %",
+        "Volume":"1,755.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-06",
+        "Open":549.0,
+        "High":555.0,
+        "Low":540.0,
+        "Close":550.0,
+        "Percent Change":"0.02 %",
+        "Volume":"2,195.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-03-02",
+        "Open":555.0,
+        "High":555.0,
+        "Low":545.0,
+        "Close":549.9,
+        "Percent Change":"-2.50 %",
+        "Volume":"2,038.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-28",
+        "Open":596.7,
+        "High":608.0,
+        "Low":557.1,
+        "Close":564.0,
+        "Percent Change":"-3.59 %",
+        "Volume":"6,724.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-27",
+        "Open":579.0,
+        "High":585.0,
+        "Low":570.0,
+        "Close":585.0,
+        "Percent Change":"0.86 %",
+        "Volume":"2,216.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-24",
+        "Open":585.0,
+        "High":593.0,
+        "Low":576.0,
+        "Close":580.0,
+        "Percent Change":"-2.44 %",
+        "Volume":"5,545.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-23",
+        "Open":597.0,
+        "High":629.3,
+        "Low":591.0,
+        "Close":594.5,
+        "Percent Change":"-0.42 %",
+        "Volume":"2,195.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-22",
+        "Open":605.0,
+        "High":617.1,
+        "Low":593.1,
+        "Close":597.0,
+        "Percent Change":"-1.32 %",
+        "Volume":"2,941.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-21",
+        "Open":587.0,
+        "High":610.0,
+        "Low":587.0,
+        "Close":605.0,
+        "Percent Change":"1.02 %",
+        "Volume":"1,865.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-20",
+        "Open":605.0,
+        "High":605.0,
+        "Low":586.1,
+        "Close":598.9,
+        "Percent Change":"-1.33 %",
+        "Volume":"4,871.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-17",
+        "Open":600.1,
+        "High":610.0,
+        "Low":600.1,
+        "Close":607.0,
+        "Percent Change":"0.17 %",
+        "Volume":"4,041.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-16",
+        "Open":615.0,
+        "High":628.3,
+        "Low":604.0,
+        "Close":606.0,
+        "Percent Change":"-1.46 %",
+        "Volume":"3,917.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-15",
+        "Open":603.0,
+        "High":622.2,
+        "Low":603.0,
+        "Close":615.0,
+        "Percent Change":"0.82 %",
+        "Volume":"3,272.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-14",
+        "Open":610.1,
+        "High":634.0,
+        "Low":610.0,
+        "Close":610.0,
+        "Percent Change":"-0.81 %",
+        "Volume":"3,445.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-13",
+        "Open":637.0,
+        "High":637.0,
+        "Low":608.0,
+        "Close":615.0,
+        "Percent Change":"-5.38 %",
+        "Volume":"7,411.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-10",
+        "Open":657.0,
+        "High":657.0,
+        "Low":635.0,
+        "Close":650.0,
+        "Percent Change":"0.78 %",
+        "Volume":"5,345.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-09",
+        "Open":640.0,
+        "High":654.0,
+        "Low":640.0,
+        "Close":645.0,
+        "Percent Change":"-0.83 %",
+        "Volume":"2,697.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-08",
+        "Open":670.0,
+        "High":680.0,
+        "Low":650.2,
+        "Close":650.4,
+        "Percent Change":"0.00 %",
+        "Volume":"9,809.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-07",
+        "Open":638.0,
+        "High":690.0,
+        "Low":638.0,
+        "Close":659.0,
+        "Percent Change":"1.23 %",
+        "Volume":"7,601.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-06",
+        "Open":653.1,
+        "High":660.0,
+        "Low":650.0,
+        "Close":651.0,
+        "Percent Change":"-2.15 %",
+        "Volume":"4,511.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-03",
+        "Open":664.0,
+        "High":678.7,
+        "Low":664.0,
+        "Close":665.3,
+        "Percent Change":"-1.26 %",
+        "Volume":"9,504.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-02-01",
+        "Open":662.0,
+        "High":674.0,
+        "Low":655.1,
+        "Close":673.8,
+        "Percent Change":"1.74 %",
+        "Volume":"6,874.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-31",
+        "Open":679.0,
+        "High":679.0,
+        "Low":655.0,
+        "Close":662.3,
+        "Percent Change":"-1.88 %",
+        "Volume":"5,580.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-30",
+        "Open":667.0,
+        "High":699.0,
+        "Low":665.0,
+        "Close":675.0,
+        "Percent Change":"3.21 %",
+        "Volume":"12,138.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-27",
+        "Open":650.0,
+        "High":663.0,
+        "Low":639.4,
+        "Close":654.0,
+        "Percent Change":"0.31 %",
+        "Volume":"7,434.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-26",
+        "Open":641.3,
+        "High":667.1,
+        "Low":641.3,
+        "Close":652.0,
+        "Percent Change":"0.00 %",
+        "Volume":"7,224.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-25",
+        "Open":640.0,
+        "High":678.0,
+        "Low":627.0,
+        "Close":652.0,
+        "Percent Change":"0.00 %",
+        "Volume":"20,896.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-24",
+        "Open":667.0,
+        "High":680.0,
+        "Low":642.2,
+        "Close":652.0,
+        "Percent Change":"-4.12 %",
+        "Volume":"29,453.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-23",
+        "Open":666.0,
+        "High":692.0,
+        "Low":666.0,
+        "Close":680.0,
+        "Percent Change":"2.10 %",
+        "Volume":"27,311.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-20",
+        "Open":669.0,
+        "High":670.0,
+        "Low":647.0,
+        "Close":666.0,
+        "Percent Change":"1.23 %",
+        "Volume":"15,724.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-19",
+        "Open":675.0,
+        "High":677.0,
+        "Low":652.3,
+        "Close":657.9,
+        "Percent Change":"-1.07 %",
+        "Volume":"11,109.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-18",
+        "Open":672.0,
+        "High":689.0,
+        "Low":658.8,
+        "Close":665.0,
+        "Percent Change":"-2.92 %",
+        "Volume":"16,973.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-17",
+        "Open":693.0,
+        "High":700.0,
+        "Low":667.0,
+        "Close":685.0,
+        "Percent Change":"0.74 %",
+        "Volume":"7,500.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-16",
+        "Open":673.0,
+        "High":710.0,
+        "Low":673.0,
+        "Close":680.0,
+        "Percent Change":"1.04 %",
+        "Volume":"30,192.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-13",
+        "Open":647.0,
+        "High":680.0,
+        "Low":640.0,
+        "Close":673.0,
+        "Percent Change":"1.97 %",
+        "Volume":"13,405.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-12",
+        "Open":661.1,
+        "High":674.0,
+        "Low":646.8,
+        "Close":660.0,
+        "Percent Change":"-1.79 %",
+        "Volume":"14,926.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-11",
+        "Open":652.0,
+        "High":675.0,
+        "Low":651.5,
+        "Close":672.0,
+        "Percent Change":"3.38 %",
+        "Volume":"24,921.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-10",
+        "Open":654.0,
+        "High":658.9,
+        "Low":640.0,
+        "Close":650.0,
+        "Percent Change":"0.00 %",
+        "Volume":"11,317.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-09",
+        "Open":609.0,
+        "High":659.0,
+        "Low":599.0,
+        "Close":650.0,
+        "Percent Change":"7.62 %",
+        "Volume":"20,076.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-06",
+        "Open":596.9,
+        "High":612.0,
+        "Low":587.0,
+        "Close":604.0,
+        "Percent Change":"-0.82 %",
+        "Volume":"2,260.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-05",
+        "Open":611.1,
+        "High":620.0,
+        "Low":597.0,
+        "Close":609.0,
+        "Percent Change":"-1.93 %",
+        "Volume":"5,469.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-04",
+        "Open":582.0,
+        "High":640.0,
+        "Low":582.0,
+        "Close":621.0,
+        "Percent Change":"4.90 %",
+        "Volume":"13,080.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-03",
+        "Open":597.0,
+        "High":602.0,
+        "Low":587.0,
+        "Close":592.0,
+        "Percent Change":"-0.82 %",
+        "Volume":"4,935.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2022-01-02",
+        "Open":573.0,
+        "High":597.0,
+        "Low":573.0,
+        "Close":596.9,
+        "Percent Change":"3.11 %",
+        "Volume":"6,174.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-29",
+        "Open":560.0,
+        "High":580.5,
+        "Low":550.0,
+        "Close":578.9,
+        "Percent Change":"1.56 %",
+        "Volume":"5,022.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-28",
+        "Open":575.0,
+        "High":575.0,
+        "Low":552.6,
+        "Close":570.0,
+        "Percent Change":"-0.18 %",
+        "Volume":"5,438.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-27",
+        "Open":612.2,
+        "High":636.0,
+        "Low":570.0,
+        "Close":571.0,
+        "Percent Change":"-4.87 %",
+        "Volume":"19,089.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-26",
+        "Open":556.0,
+        "High":600.2,
+        "Low":552.0,
+        "Close":600.2,
+        "Percent Change":"9.99 %",
+        "Volume":"14,265.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-23",
+        "Open":527.0,
+        "High":545.7,
+        "Low":518.8,
+        "Close":545.7,
+        "Percent Change":"3.94 %",
+        "Volume":"6,597.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-22",
+        "Open":523.0,
+        "High":538.0,
+        "Low":516.0,
+        "Close":525.0,
+        "Percent Change":"2.34 %",
+        "Volume":"3,917.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-21",
+        "Open":489.2,
+        "High":513.0,
+        "Low":489.2,
+        "Close":513.0,
+        "Percent Change":"2.81 %",
+        "Volume":"1,810.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-20",
+        "Open":495.0,
+        "High":514.0,
+        "Low":486.0,
+        "Close":499.0,
+        "Percent Change":"-0.20 %",
+        "Volume":"2,000.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-16",
+        "Open":506.7,
+        "High":510.0,
+        "Low":496.6,
+        "Close":500.0,
+        "Percent Change":"-3.29 %",
+        "Volume":"2,310.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-15",
+        "Open":523.2,
+        "High":535.0,
+        "Low":495.1,
+        "Close":517.0,
+        "Percent Change":"0.78 %",
+        "Volume":"10,751.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-14",
+        "Open":504.9,
+        "High":524.9,
+        "Low":503.0,
+        "Close":513.0,
+        "Percent Change":"3.64 %",
+        "Volume":"1,467.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-13",
+        "Open":539.0,
+        "High":539.0,
+        "Low":485.1,
+        "Close":495.0,
+        "Percent Change":"-8.16 %",
+        "Volume":"19,444.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-12",
+        "Open":550.0,
+        "High":555.0,
+        "Low":530.0,
+        "Close":539.0,
+        "Percent Change":"-3.41 %",
+        "Volume":"5,266.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-09",
+        "Open":550.9,
+        "High":559.0,
+        "Low":550.8,
+        "Close":558.0,
+        "Percent Change":"-0.71 %",
+        "Volume":"2,512.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-08",
+        "Open":557.0,
+        "High":570.0,
+        "Low":555.0,
+        "Close":562.0,
+        "Percent Change":"-0.88 %",
+        "Volume":"4,414.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-07",
+        "Open":575.0,
+        "High":591.0,
+        "Low":565.0,
+        "Close":567.0,
+        "Percent Change":"-3.24 %",
+        "Volume":"2,796.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-06",
+        "Open":567.0,
+        "High":586.0,
+        "Low":557.0,
+        "Close":586.0,
+        "Percent Change":"2.09 %",
+        "Volume":"6,087.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-05",
+        "Open":581.0,
+        "High":581.0,
+        "Low":565.0,
+        "Close":574.0,
+        "Percent Change":"-3.04 %",
+        "Volume":"4,848.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-02",
+        "Open":598.0,
+        "High":600.0,
+        "Low":579.5,
+        "Close":592.0,
+        "Percent Change":"-1.33 %",
+        "Volume":"7,615.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-12-01",
+        "Open":590.0,
+        "High":605.0,
+        "Low":590.0,
+        "Close":600.0,
+        "Percent Change":"0.17 %",
+        "Volume":"4,410.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-30",
+        "Open":600.1,
+        "High":612.0,
+        "Low":590.1,
+        "Close":599.0,
+        "Percent Change":"-0.17 %",
+        "Volume":"4,664.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-29",
+        "Open":592.0,
+        "High":618.0,
+        "Low":590.5,
+        "Close":600.0,
+        "Percent Change":"0.00 %",
+        "Volume":"3,404.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-28",
+        "Open":607.0,
+        "High":634.0,
+        "Low":588.0,
+        "Close":600.0,
+        "Percent Change":"-3.07 %",
+        "Volume":"10,749.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-25",
+        "Open":610.0,
+        "High":619.0,
+        "Low":610.0,
+        "Close":619.0,
+        "Percent Change":"-0.16 %",
+        "Volume":"4,669.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-24",
+        "Open":607.7,
+        "High":620.0,
+        "Low":600.1,
+        "Close":620.0,
+        "Percent Change":"0.02 %",
+        "Volume":"5,017.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-23",
+        "Open":620.0,
+        "High":630.0,
+        "Low":617.0,
+        "Close":619.9,
+        "Percent Change":"-1.76 %",
+        "Volume":"4,075.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-22",
+        "Open":612.1,
+        "High":639.0,
+        "Low":612.0,
+        "Close":631.0,
+        "Percent Change":"1.28 %",
+        "Volume":"6,206.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-21",
+        "Open":625.0,
+        "High":631.0,
+        "Low":612.1,
+        "Close":623.0,
+        "Percent Change":"-0.32 %",
+        "Volume":"3,226.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-18",
+        "Open":620.0,
+        "High":632.0,
+        "Low":609.0,
+        "Close":625.0,
+        "Percent Change":"-1.11 %",
+        "Volume":"11,320.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-17",
+        "Open":627.1,
+        "High":641.0,
+        "Low":625.0,
+        "Close":632.0,
+        "Percent Change":"0.78 %",
+        "Volume":"8,190.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-16",
+        "Open":607.0,
+        "High":638.0,
+        "Low":607.0,
+        "Close":627.1,
+        "Percent Change":"1.65 %",
+        "Volume":"5,601.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-15",
+        "Open":596.0,
+        "High":619.0,
+        "Low":596.0,
+        "Close":616.9,
+        "Percent Change":"1.46 %",
+        "Volume":"3,819.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-14",
+        "Open":595.0,
+        "High":610.0,
+        "Low":585.0,
+        "Close":608.0,
+        "Percent Change":"1.32 %",
+        "Volume":"6,400.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-11",
+        "Open":616.0,
+        "High":626.0,
+        "Low":600.0,
+        "Close":600.1,
+        "Percent Change":"-4.44 %",
+        "Volume":"4,643.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-09",
+        "Open":642.0,
+        "High":642.0,
+        "Low":617.0,
+        "Close":628.0,
+        "Percent Change":"-4.12 %",
+        "Volume":"8,535.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-08",
+        "Open":678.0,
+        "High":678.3,
+        "Low":655.0,
+        "Close":655.0,
+        "Percent Change":"-1.50 %",
+        "Volume":"5,835.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-03",
+        "Open":647.8,
+        "High":678.0,
+        "Low":647.8,
+        "Close":665.0,
+        "Percent Change":"0.61 %",
+        "Volume":"6,252.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-02",
+        "Open":630.0,
+        "High":661.0,
+        "Low":630.0,
+        "Close":661.0,
+        "Percent Change":"2.96 %",
+        "Volume":"8,841.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-11-01",
+        "Open":635.0,
+        "High":660.0,
+        "Low":626.0,
+        "Close":642.0,
+        "Percent Change":"1.10 %",
+        "Volume":"9,415.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-31",
+        "Open":617.0,
+        "High":640.0,
+        "Low":596.1,
+        "Close":635.0,
+        "Percent Change":"4.61 %",
+        "Volume":"6,438.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-28",
+        "Open":588.0,
+        "High":620.0,
+        "Low":587.1,
+        "Close":607.0,
+        "Percent Change":"1.34 %",
+        "Volume":"9,186.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-27",
+        "Open":565.0,
+        "High":605.0,
+        "Low":555.0,
+        "Close":599.0,
+        "Percent Change":"4.17 %",
+        "Volume":"7,516.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-26",
+        "Open":550.0,
+        "High":580.0,
+        "Low":550.0,
+        "Close":575.0,
+        "Percent Change":"4.55 %",
+        "Volume":"6,793.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-25",
+        "Open":525.9,
+        "High":558.0,
+        "Low":525.9,
+        "Close":550.0,
+        "Percent Change":"2.52 %",
+        "Volume":"5,551.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-24",
+        "Open":526.3,
+        "High":545.0,
+        "Low":517.0,
+        "Close":536.5,
+        "Percent Change":"-0.09 %",
+        "Volume":"3,752.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-21",
+        "Open":545.0,
+        "High":549.0,
+        "Low":520.0,
+        "Close":537.0,
+        "Percent Change":"-1.45 %",
+        "Volume":"1,390.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-20",
+        "Open":530.0,
+        "High":552.0,
+        "Low":511.0,
+        "Close":544.9,
+        "Percent Change":"4.79 %",
+        "Volume":"2,332.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-19",
+        "Open":536.0,
+        "High":539.0,
+        "Low":499.0,
+        "Close":520.0,
+        "Percent Change":"-4.59 %",
+        "Volume":"8,232.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-18",
+        "Open":560.0,
+        "High":560.0,
+        "Low":535.2,
+        "Close":545.0,
+        "Percent Change":"-3.54 %",
+        "Volume":"5,531.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-17",
+        "Open":560.0,
+        "High":565.0,
+        "Low":550.0,
+        "Close":565.0,
+        "Percent Change":"0.89 %",
+        "Volume":"895.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-11",
+        "Open":566.5,
+        "High":567.0,
+        "Low":556.0,
+        "Close":560.0,
+        "Percent Change":"-2.61 %",
+        "Volume":"3,611.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-10",
+        "Open":572.0,
+        "High":589.0,
+        "Low":562.0,
+        "Close":575.0,
+        "Percent Change":"0.68 %",
+        "Volume":"5,652.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-06",
+        "Open":550.0,
+        "High":571.1,
+        "Low":550.0,
+        "Close":571.1,
+        "Percent Change":"4.22 %",
+        "Volume":"5,106.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-05",
+        "Open":534.1,
+        "High":551.0,
+        "Low":534.1,
+        "Close":548.0,
+        "Percent Change":"0.55 %",
+        "Volume":"2,059.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-04",
+        "Open":536.0,
+        "High":547.0,
+        "Low":527.1,
+        "Close":545.0,
+        "Percent Change":"0.55 %",
+        "Volume":"4,035.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-10-03",
+        "Open":560.0,
+        "High":571.0,
+        "Low":536.0,
+        "Close":542.0,
+        "Percent Change":"-3.21 %",
+        "Volume":"7,417.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-30",
+        "Open":570.0,
+        "High":580.0,
+        "Low":542.0,
+        "Close":560.0,
+        "Percent Change":"0.00 %",
+        "Volume":"5,427.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-29",
+        "Open":540.0,
+        "High":565.0,
+        "Low":540.0,
+        "Close":560.0,
+        "Percent Change":"2.75 %",
+        "Volume":"5,031.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-28",
+        "Open":570.0,
+        "High":571.0,
+        "Low":540.0,
+        "Close":545.0,
+        "Percent Change":"-6.20 %",
+        "Volume":"13,999.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-27",
+        "Open":608.0,
+        "High":608.0,
+        "Low":573.0,
+        "Close":581.0,
+        "Percent Change":"-4.44 %",
+        "Volume":"9,170.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-26",
+        "Open":621.0,
+        "High":622.1,
+        "Low":604.0,
+        "Close":608.0,
+        "Percent Change":"-3.95 %",
+        "Volume":"5,592.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-23",
+        "Open":652.0,
+        "High":652.0,
+        "Low":625.0,
+        "Close":633.0,
+        "Percent Change":"-1.09 %",
+        "Volume":"5,472.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-22",
+        "Open":628.3,
+        "High":640.0,
+        "Low":624.4,
+        "Close":640.0,
+        "Percent Change":"3.90 %",
+        "Volume":"3,626.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-21",
+        "Open":602.9,
+        "High":649.0,
+        "Low":571.1,
+        "Close":616.0,
+        "Percent Change":"0.16 %",
+        "Volume":"8,636.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-20",
+        "Open":665.0,
+        "High":665.0,
+        "Low":595.0,
+        "Close":615.0,
+        "Percent Change":"-5.67 %",
+        "Volume":"14,964.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-16",
+        "Open":677.0,
+        "High":677.2,
+        "Low":649.1,
+        "Close":652.0,
+        "Percent Change":"-5.23 %",
+        "Volume":"17,962.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-15",
+        "Open":700.0,
+        "High":700.0,
+        "Low":688.0,
+        "Close":688.0,
+        "Percent Change":"-1.99 %",
+        "Volume":"5,986.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-14",
+        "Open":705.0,
+        "High":714.0,
+        "Low":696.0,
+        "Close":702.0,
+        "Percent Change":"-1.82 %",
+        "Volume":"5,354.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-13",
+        "Open":700.0,
+        "High":721.0,
+        "Low":695.0,
+        "Close":715.0,
+        "Percent Change":"2.14 %",
+        "Volume":"13,632.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-12",
+        "Open":672.0,
+        "High":700.0,
+        "Low":672.0,
+        "Close":700.0,
+        "Percent Change":"2.34 %",
+        "Volume":"8,409.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-09",
+        "Open":675.0,
+        "High":695.0,
+        "Low":675.0,
+        "Close":684.0,
+        "Percent Change":"1.33 %",
+        "Volume":"6,436.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-08",
+        "Open":685.1,
+        "High":700.0,
+        "Low":672.0,
+        "Close":675.0,
+        "Percent Change":"-3.43 %",
+        "Volume":"9,091.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-07",
+        "Open":719.0,
+        "High":719.0,
+        "Low":688.0,
+        "Close":699.0,
+        "Percent Change":"-1.27 %",
+        "Volume":"9,388.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-06",
+        "Open":671.0,
+        "High":716.0,
+        "Low":665.0,
+        "Close":708.0,
+        "Percent Change":"5.04 %",
+        "Volume":"12,235.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-05",
+        "Open":700.0,
+        "High":700.0,
+        "Low":647.0,
+        "Close":674.0,
+        "Percent Change":"-4.13 %",
+        "Volume":"17,710.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-02",
+        "Open":730.0,
+        "High":730.0,
+        "Low":701.0,
+        "Close":703.0,
+        "Percent Change":"-1.82 %",
+        "Volume":"14,144.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-09-01",
+        "Open":717.0,
+        "High":735.0,
+        "Low":716.0,
+        "Close":716.0,
+        "Percent Change":"-0.14 %",
+        "Volume":"7,498.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-31",
+        "Open":720.0,
+        "High":722.0,
+        "Low":715.0,
+        "Close":717.0,
+        "Percent Change":"-1.01 %",
+        "Volume":"11,349.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-29",
+        "Open":730.2,
+        "High":740.1,
+        "Low":724.3,
+        "Close":724.3,
+        "Percent Change":"-2.12 %",
+        "Volume":"14,487.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-26",
+        "Open":744.0,
+        "High":751.0,
+        "Low":735.0,
+        "Close":740.0,
+        "Percent Change":"-0.54 %",
+        "Volume":"17,104.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-25",
+        "Open":788.9,
+        "High":799.0,
+        "Low":740.2,
+        "Close":744.0,
+        "Percent Change":"-5.69 %",
+        "Volume":"37,550.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-24",
+        "Open":770.0,
+        "High":809.0,
+        "Low":770.0,
+        "Close":788.9,
+        "Percent Change":"4.49 %",
+        "Volume":"104,396.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-19",
+        "Open":714.0,
+        "High":775.0,
+        "Low":714.0,
+        "Close":755.0,
+        "Percent Change":"5.74 %",
+        "Volume":"63,317.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-18",
+        "Open":702.0,
+        "High":715.0,
+        "Low":690.0,
+        "Close":714.0,
+        "Percent Change":"1.28 %",
+        "Volume":"18,199.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-17",
+        "Open":712.0,
+        "High":716.0,
+        "Low":704.0,
+        "Close":705.0,
+        "Percent Change":"-1.26 %",
+        "Volume":"19,221.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-16",
+        "Open":713.0,
+        "High":724.0,
+        "Low":713.0,
+        "Close":714.0,
+        "Percent Change":"-1.38 %",
+        "Volume":"11,429.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-15",
+        "Open":730.0,
+        "High":735.0,
+        "Low":718.0,
+        "Close":724.0,
+        "Percent Change":"-1.36 %",
+        "Volume":"12,943.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-12",
+        "Open":733.0,
+        "High":745.0,
+        "Low":726.0,
+        "Close":734.0,
+        "Percent Change":"0.14 %",
+        "Volume":"18,080.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-11",
+        "Open":740.0,
+        "High":747.0,
+        "Low":731.0,
+        "Close":733.0,
+        "Percent Change":"-0.15 %",
+        "Volume":"12,654.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-10",
+        "Open":727.0,
+        "High":740.0,
+        "Low":722.0,
+        "Close":734.1,
+        "Percent Change":"0.98 %",
+        "Volume":"17,233.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-09",
+        "Open":716.0,
+        "High":738.0,
+        "Low":715.5,
+        "Close":727.0,
+        "Percent Change":"0.41 %",
+        "Volume":"11,803.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-08",
+        "Open":730.0,
+        "High":732.0,
+        "Low":715.6,
+        "Close":724.0,
+        "Percent Change":"-1.76 %",
+        "Volume":"13,584.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-05",
+        "Open":742.0,
+        "High":750.0,
+        "Low":736.0,
+        "Close":737.0,
+        "Percent Change":"-0.14 %",
+        "Volume":"22,089.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-04",
+        "Open":728.0,
+        "High":744.0,
+        "Low":725.0,
+        "Close":738.0,
+        "Percent Change":"1.37 %",
+        "Volume":"20,733.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-03",
+        "Open":719.8,
+        "High":734.4,
+        "Low":719.8,
+        "Close":728.0,
+        "Percent Change":"0.75 %",
+        "Volume":"10,632.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-02",
+        "Open":732.0,
+        "High":735.0,
+        "Low":722.0,
+        "Close":722.6,
+        "Percent Change":"-1.03 %",
+        "Volume":"9,134.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-08-01",
+        "Open":740.0,
+        "High":740.0,
+        "Low":725.0,
+        "Close":730.1,
+        "Percent Change":"-0.80 %",
+        "Volume":"10,005.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-29",
+        "Open":745.0,
+        "High":770.0,
+        "Low":734.0,
+        "Close":736.0,
+        "Percent Change":"0.00 %",
+        "Volume":"28,627.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-28",
+        "Open":709.0,
+        "High":739.0,
+        "Low":709.0,
+        "Close":736.0,
+        "Percent Change":"3.37 %",
+        "Volume":"17,661.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-27",
+        "Open":700.0,
+        "High":715.0,
+        "Low":700.0,
+        "Close":712.0,
+        "Percent Change":"0.41 %",
+        "Volume":"8,943.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-26",
+        "Open":703.0,
+        "High":711.8,
+        "Low":703.0,
+        "Close":709.1,
+        "Percent Change":"0.72 %",
+        "Volume":"9,335.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-25",
+        "Open":700.0,
+        "High":709.0,
+        "Low":700.0,
+        "Close":704.0,
+        "Percent Change":"-0.85 %",
+        "Volume":"13,480.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-22",
+        "Open":705.0,
+        "High":715.0,
+        "Low":699.8,
+        "Close":710.0,
+        "Percent Change":"-0.56 %",
+        "Volume":"6,644.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-20",
+        "Open":724.0,
+        "High":724.0,
+        "Low":712.0,
+        "Close":714.0,
+        "Percent Change":"-1.38 %",
+        "Volume":"4,143.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-19",
+        "Open":725.0,
+        "High":725.0,
+        "Low":703.0,
+        "Close":724.0,
+        "Percent Change":"1.69 %",
+        "Volume":"7,997.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-18",
+        "Open":700.0,
+        "High":712.0,
+        "Low":693.0,
+        "Close":712.0,
+        "Percent Change":"2.74 %",
+        "Volume":"10,463.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-15",
+        "Open":690.0,
+        "High":696.0,
+        "Low":690.0,
+        "Close":693.0,
+        "Percent Change":"0.00 %",
+        "Volume":"4,723.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-14",
+        "Open":690.0,
+        "High":699.0,
+        "Low":690.0,
+        "Close":693.0,
+        "Percent Change":"-1.00 %",
+        "Volume":"5,661.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-13",
+        "Open":705.0,
+        "High":705.0,
+        "Low":698.0,
+        "Close":700.0,
+        "Percent Change":"0.14 %",
+        "Volume":"3,755.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-12",
+        "Open":703.0,
+        "High":718.0,
+        "Low":698.0,
+        "Close":699.0,
+        "Percent Change":"-0.43 %",
+        "Volume":"7,735.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-11",
+        "Open":690.0,
+        "High":702.0,
+        "Low":689.0,
+        "Close":702.0,
+        "Percent Change":"2.93 %",
+        "Volume":"7,209.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-08",
+        "Open":677.0,
+        "High":695.0,
+        "Low":673.0,
+        "Close":682.0,
+        "Percent Change":"-0.44 %",
+        "Volume":"6,830.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-07",
+        "Open":675.0,
+        "High":686.0,
+        "Low":675.0,
+        "Close":685.0,
+        "Percent Change":"0.44 %",
+        "Volume":"3,832.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-06",
+        "Open":687.0,
+        "High":688.0,
+        "Low":680.0,
+        "Close":682.0,
+        "Percent Change":"-0.73 %",
+        "Volume":"5,238.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-05",
+        "Open":686.0,
+        "High":694.0,
+        "Low":686.0,
+        "Close":687.0,
+        "Percent Change":"-1.58 %",
+        "Volume":"4,300.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-04",
+        "Open":700.0,
+        "High":700.0,
+        "Low":690.0,
+        "Close":698.0,
+        "Percent Change":"0.29 %",
+        "Volume":"7,685.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-07-01",
+        "Open":680.0,
+        "High":702.0,
+        "Low":680.0,
+        "Close":696.0,
+        "Percent Change":"1.46 %",
+        "Volume":"5,638.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-30",
+        "Open":690.0,
+        "High":690.0,
+        "Low":671.0,
+        "Close":686.0,
+        "Percent Change":"-1.15 %",
+        "Volume":"9,170.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-29",
+        "Open":707.0,
+        "High":712.0,
+        "Low":693.0,
+        "Close":694.0,
+        "Percent Change":"-1.84 %",
+        "Volume":"8,893.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-28",
+        "Open":705.0,
+        "High":712.0,
+        "Low":700.0,
+        "Close":707.0,
+        "Percent Change":"0.57 %",
+        "Volume":"6,633.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-27",
+        "Open":691.0,
+        "High":716.0,
+        "Low":691.0,
+        "Close":703.0,
+        "Percent Change":"0.14 %",
+        "Volume":"13,442.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-24",
+        "Open":700.0,
+        "High":709.0,
+        "Low":700.0,
+        "Close":702.0,
+        "Percent Change":"-1.40 %",
+        "Volume":"10,440.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-23",
+        "Open":715.0,
+        "High":729.0,
+        "Low":707.0,
+        "Close":712.0,
+        "Percent Change":"-2.06 %",
+        "Volume":"8,296.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-22",
+        "Open":705.0,
+        "High":729.0,
+        "Low":701.0,
+        "Close":727.0,
+        "Percent Change":"3.56 %",
+        "Volume":"8,827.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-21",
+        "Open":727.0,
+        "High":736.0,
+        "Low":695.0,
+        "Close":702.0,
+        "Percent Change":"-3.44 %",
+        "Volume":"24,407.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-20",
+        "Open":756.0,
+        "High":756.0,
+        "Low":724.0,
+        "Close":727.0,
+        "Percent Change":"-3.20 %",
+        "Volume":"18,702.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-17",
+        "Open":747.0,
+        "High":764.0,
+        "Low":743.0,
+        "Close":751.0,
+        "Percent Change":"0.54 %",
+        "Volume":"14,051.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-16",
+        "Open":753.0,
+        "High":765.0,
+        "Low":739.0,
+        "Close":747.0,
+        "Percent Change":"-2.73 %",
+        "Volume":"18,352.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-15",
+        "Open":800.0,
+        "High":800.0,
+        "Low":765.0,
+        "Close":768.0,
+        "Percent Change":"-1.41 %",
+        "Volume":"29,580.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-14",
+        "Open":765.0,
+        "High":780.0,
+        "Low":750.0,
+        "Close":779.0,
+        "Percent Change":"1.83 %",
+        "Volume":"28,068.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-13",
+        "Open":800.0,
+        "High":800.0,
+        "Low":762.0,
+        "Close":765.0,
+        "Percent Change":"-1.54 %",
+        "Volume":"27,191.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-10",
+        "Open":780.0,
+        "High":802.0,
+        "Low":773.0,
+        "Close":777.0,
+        "Percent Change":"-1.52 %",
+        "Volume":"35,672.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-09",
+        "Open":815.0,
+        "High":820.0,
+        "Low":770.0,
+        "Close":789.0,
+        "Percent Change":"0.00 %",
+        "Volume":"65,139.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-08",
+        "Open":734.0,
+        "High":804.0,
+        "Low":731.0,
+        "Close":786.0,
+        "Percent Change":"7.08 %",
+        "Volume":"54,980.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-07",
+        "Open":740.0,
+        "High":750.0,
+        "Low":730.0,
+        "Close":734.0,
+        "Percent Change":"-0.41 %",
+        "Volume":"17,718.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-06",
+        "Open":731.0,
+        "High":739.0,
+        "Low":731.0,
+        "Close":737.0,
+        "Percent Change":"-0.41 %",
+        "Volume":"20,825.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-03",
+        "Open":750.0,
+        "High":760.0,
+        "Low":737.0,
+        "Close":740.0,
+        "Percent Change":"-0.80 %",
+        "Volume":"19,150.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-02",
+        "Open":741.0,
+        "High":750.0,
+        "Low":733.0,
+        "Close":746.0,
+        "Percent Change":"0.67 %",
+        "Volume":"14,119.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-06-01",
+        "Open":750.0,
+        "High":759.0,
+        "Low":735.0,
+        "Close":741.0,
+        "Percent Change":"-1.72 %",
+        "Volume":"20,275.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-31",
+        "Open":780.0,
+        "High":792.0,
+        "Low":751.0,
+        "Close":754.0,
+        "Percent Change":"-1.18 %",
+        "Volume":"61,264.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-30",
+        "Open":750.0,
+        "High":779.0,
+        "Low":750.0,
+        "Close":763.0,
+        "Percent Change":"2.83 %",
+        "Volume":"77,080.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-27",
+        "Open":726.0,
+        "High":749.0,
+        "Low":724.0,
+        "Close":742.0,
+        "Percent Change":"0.54 %",
+        "Volume":"34,579.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-25",
+        "Open":724.0,
+        "High":744.0,
+        "Low":710.0,
+        "Close":738.0,
+        "Percent Change":"3.51 %",
+        "Volume":"46,033.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-24",
+        "Open":721.0,
+        "High":721.0,
+        "Low":710.0,
+        "Close":713.0,
+        "Percent Change":"-0.28 %",
+        "Volume":"17,748.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-23",
+        "Open":706.0,
+        "High":725.0,
+        "Low":699.0,
+        "Close":715.0,
+        "Percent Change":"0.14 %",
+        "Volume":"11,900.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-20",
+        "Open":725.0,
+        "High":725.0,
+        "Low":713.0,
+        "Close":714.0,
+        "Percent Change":"-0.83 %",
+        "Volume":"10,444.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-19",
+        "Open":738.0,
+        "High":740.0,
+        "Low":718.0,
+        "Close":720.0,
+        "Percent Change":"-0.96 %",
+        "Volume":"12,523.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-18",
+        "Open":710.0,
+        "High":730.0,
+        "Low":710.0,
+        "Close":727.0,
+        "Percent Change":"0.69 %",
+        "Volume":"13,402.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-17",
+        "Open":735.0,
+        "High":750.0,
+        "Low":721.0,
+        "Close":722.0,
+        "Percent Change":"-0.55 %",
+        "Volume":"18,914.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-16",
+        "Open":710.0,
+        "High":732.0,
+        "Low":710.0,
+        "Close":726.0,
+        "Percent Change":"2.40 %",
+        "Volume":"23,689.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-13",
+        "Open":710.0,
+        "High":710.0,
+        "Low":697.0,
+        "Close":709.0,
+        "Percent Change":"-0.14 %",
+        "Volume":"9,822.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-12",
+        "Open":708.0,
+        "High":715.0,
+        "Low":705.0,
+        "Close":710.0,
+        "Percent Change":"0.28 %",
+        "Volume":"7,215.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-11",
+        "Open":700.0,
+        "High":710.0,
+        "Low":700.0,
+        "Close":708.0,
+        "Percent Change":"0.28 %",
+        "Volume":"6,964.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-10",
+        "Open":680.0,
+        "High":707.0,
+        "Low":680.0,
+        "Close":706.0,
+        "Percent Change":"2.32 %",
+        "Volume":"7,494.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-09",
+        "Open":735.0,
+        "High":735.0,
+        "Low":689.0,
+        "Close":690.0,
+        "Percent Change":"-1.43 %",
+        "Volume":"8,004.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-06",
+        "Open":700.0,
+        "High":720.0,
+        "Low":693.0,
+        "Close":700.0,
+        "Percent Change":"-1.69 %",
+        "Volume":"12,027.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-05",
+        "Open":702.0,
+        "High":715.0,
+        "Low":702.0,
+        "Close":712.0,
+        "Percent Change":"0.14 %",
+        "Volume":"7,629.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-04",
+        "Open":705.0,
+        "High":715.0,
+        "Low":705.0,
+        "Close":711.0,
+        "Percent Change":"-0.56 %",
+        "Volume":"12,030.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-03",
+        "Open":720.0,
+        "High":734.0,
+        "Low":710.0,
+        "Close":715.0,
+        "Percent Change":"-0.42 %",
+        "Volume":"19,428.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-05-02",
+        "Open":681.0,
+        "High":718.0,
+        "Low":681.0,
+        "Close":718.0,
+        "Percent Change":"3.46 %",
+        "Volume":"19,957.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-29",
+        "Open":672.0,
+        "High":705.0,
+        "Low":672.0,
+        "Close":694.0,
+        "Percent Change":"1.76 %",
+        "Volume":"8,860.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-28",
+        "Open":693.0,
+        "High":705.0,
+        "Low":682.0,
+        "Close":682.0,
+        "Percent Change":"-1.59 %",
+        "Volume":"7,378.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-27",
+        "Open":651.0,
+        "High":699.0,
+        "Low":651.0,
+        "Close":693.0,
+        "Percent Change":"4.68 %",
+        "Volume":"11,148.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-26",
+        "Open":686.0,
+        "High":702.0,
+        "Low":662.0,
+        "Close":662.0,
+        "Percent Change":"-5.43 %",
+        "Volume":"21,869.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-25",
+        "Open":700.0,
+        "High":708.0,
+        "Low":682.0,
+        "Close":700.0,
+        "Percent Change":"-1.82 %",
+        "Volume":"26,562.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-22",
+        "Open":706.0,
+        "High":715.0,
+        "Low":702.0,
+        "Close":713.0,
+        "Percent Change":"0.28 %",
+        "Volume":"13,076.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-21",
+        "Open":710.0,
+        "High":724.0,
+        "Low":709.0,
+        "Close":711.0,
+        "Percent Change":"-1.25 %",
+        "Volume":"13,480.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-20",
+        "Open":711.0,
+        "High":729.0,
+        "Low":700.0,
+        "Close":720.0,
+        "Percent Change":"1.27 %",
+        "Volume":"11,732.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-19",
+        "Open":719.0,
+        "High":724.0,
+        "Low":710.0,
+        "Close":711.0,
+        "Percent Change":"-2.07 %",
+        "Volume":"20,845.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-18",
+        "Open":730.0,
+        "High":735.0,
+        "Low":720.0,
+        "Close":726.0,
+        "Percent Change":"-0.95 %",
+        "Volume":"11,802.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-15",
+        "Open":745.0,
+        "High":749.0,
+        "Low":731.0,
+        "Close":733.0,
+        "Percent Change":"-1.08 %",
+        "Volume":"12,116.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-13",
+        "Open":789.0,
+        "High":789.0,
+        "Low":740.0,
+        "Close":741.0,
+        "Percent Change":"-1.46 %",
+        "Volume":"17,777.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-12",
+        "Open":732.0,
+        "High":780.0,
+        "Low":720.0,
+        "Close":752.0,
+        "Percent Change":"2.59 %",
+        "Volume":"37,093.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-08",
+        "Open":710.0,
+        "High":735.0,
+        "Low":710.0,
+        "Close":733.0,
+        "Percent Change":"1.81 %",
+        "Volume":"19,068.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-07",
+        "Open":777.0,
+        "High":777.0,
+        "Low":713.0,
+        "Close":720.0,
+        "Percent Change":"-2.70 %",
+        "Volume":"46,415.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-06",
+        "Open":800.0,
+        "High":800.0,
+        "Low":711.0,
+        "Close":740.0,
+        "Percent Change":"-5.13 %",
+        "Volume":"44,018.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-05",
+        "Open":832.0,
+        "High":860.0,
+        "Low":761.0,
+        "Close":780.0,
+        "Percent Change":"-1.64 %",
+        "Volume":"73,065.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-04",
+        "Open":730.0,
+        "High":793.0,
+        "Low":730.0,
+        "Close":793.0,
+        "Percent Change":"9.99 %",
+        "Volume":"89,623.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-04-01",
+        "Open":750.0,
+        "High":755.0,
+        "Low":718.0,
+        "Close":721.0,
+        "Percent Change":"-2.30 %",
+        "Volume":"42,502.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-31",
+        "Open":731.0,
+        "High":750.0,
+        "Low":695.0,
+        "Close":738.0,
+        "Percent Change":"5.88 %",
+        "Volume":"61,585.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-30",
+        "Open":665.0,
+        "High":697.0,
+        "Low":642.0,
+        "Close":697.0,
+        "Percent Change":"9.94 %",
+        "Volume":"52,972.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-29",
+        "Open":626.0,
+        "High":638.0,
+        "Low":624.0,
+        "Close":634.0,
+        "Percent Change":"0.48 %",
+        "Volume":"8,633.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-25",
+        "Open":632.0,
+        "High":636.0,
+        "Low":630.0,
+        "Close":631.0,
+        "Percent Change":"-0.63 %",
+        "Volume":"8,516.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-24",
+        "Open":615.0,
+        "High":639.0,
+        "Low":615.0,
+        "Close":635.0,
+        "Percent Change":"1.28 %",
+        "Volume":"9,619.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-23",
+        "Open":630.0,
+        "High":630.0,
+        "Low":618.0,
+        "Close":627.0,
+        "Percent Change":"-0.48 %",
+        "Volume":"14,561.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-22",
+        "Open":655.0,
+        "High":655.0,
+        "Low":629.0,
+        "Close":630.0,
+        "Percent Change":"-2.63 %",
+        "Volume":"9,075.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-21",
+        "Open":630.0,
+        "High":647.0,
+        "Low":619.0,
+        "Close":647.0,
+        "Percent Change":"4.52 %",
+        "Volume":"9,262.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-18",
+        "Open":600.0,
+        "High":620.0,
+        "Low":600.0,
+        "Close":619.0,
+        "Percent Change":"2.31 %",
+        "Volume":"7,745.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-17",
+        "Open":595.0,
+        "High":610.0,
+        "Low":595.0,
+        "Close":605.0,
+        "Percent Change":"1.34 %",
+        "Volume":"5,442.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-16",
+        "Open":595.0,
+        "High":610.0,
+        "Low":595.0,
+        "Close":597.0,
+        "Percent Change":"-0.83 %",
+        "Volume":"8,680.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-15",
+        "Open":600.0,
+        "High":611.0,
+        "Low":600.0,
+        "Close":602.0,
+        "Percent Change":"-1.47 %",
+        "Volume":"5,904.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-14",
+        "Open":645.0,
+        "High":645.0,
+        "Low":602.0,
+        "Close":611.0,
+        "Percent Change":"-1.29 %",
+        "Volume":"10,752.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-10",
+        "Open":620.0,
+        "High":622.0,
+        "Low":611.0,
+        "Close":619.0,
+        "Percent Change":"-0.64 %",
+        "Volume":"5,870.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-09",
+        "Open":632.0,
+        "High":632.0,
+        "Low":610.0,
+        "Close":623.0,
+        "Percent Change":"-1.42 %",
+        "Volume":"5,770.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-08",
+        "Open":635.0,
+        "High":645.0,
+        "Low":624.0,
+        "Close":632.0,
+        "Percent Change":"-0.47 %",
+        "Volume":"5,997.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-04",
+        "Open":600.0,
+        "High":637.0,
+        "Low":600.0,
+        "Close":635.0,
+        "Percent Change":"3.76 %",
+        "Volume":"7,096.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-03",
+        "Open":613.0,
+        "High":622.0,
+        "Low":603.0,
+        "Close":612.0,
+        "Percent Change":"-2.08 %",
+        "Volume":"11,904.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-02",
+        "Open":643.0,
+        "High":652.0,
+        "Low":620.0,
+        "Close":625.0,
+        "Percent Change":"-2.80 %",
+        "Volume":"16,239.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-03-01",
+        "Open":623.0,
+        "High":652.0,
+        "Low":620.0,
+        "Close":643.0,
+        "Percent Change":"0.00 %",
+        "Volume":"10,500.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-28",
+        "Open":658.0,
+        "High":658.0,
+        "Low":625.0,
+        "Close":634.0,
+        "Percent Change":"-3.65 %",
+        "Volume":"20,241.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-25",
+        "Open":665.0,
+        "High":683.0,
+        "Low":651.0,
+        "Close":658.0,
+        "Percent Change":"0.00 %",
+        "Volume":"9,630.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-24",
+        "Open":660.0,
+        "High":678.0,
+        "Low":660.0,
+        "Close":670.0,
+        "Percent Change":"2.13 %",
+        "Volume":"14,571.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-23",
+        "Open":663.0,
+        "High":663.0,
+        "Low":640.0,
+        "Close":656.0,
+        "Percent Change":"-1.06 %",
+        "Volume":"18,984.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-22",
+        "Open":653.0,
+        "High":673.0,
+        "Low":653.0,
+        "Close":663.0,
+        "Percent Change":"-1.92 %",
+        "Volume":"12,551.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-21",
+        "Open":690.0,
+        "High":699.0,
+        "Low":670.0,
+        "Close":676.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"17,849.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-18",
+        "Open":690.0,
+        "High":710.0,
+        "Low":684.0,
+        "Close":688.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"17,696.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-17",
+        "Open":696.0,
+        "High":709.0,
+        "Low":690.0,
+        "Close":700.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"14,726.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-16",
+        "Open":723.0,
+        "High":737.0,
+        "Low":705.0,
+        "Close":710.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"16,729.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-15",
+        "Open":713.0,
+        "High":720.0,
+        "Low":709.0,
+        "Close":715.0,
+        "Percent Change":"0.02 %",
+        "Volume":"16,612.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-14",
+        "Open":707.0,
+        "High":721.0,
+        "Low":695.0,
+        "Close":700.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"17,055.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-11",
+        "Open":730.0,
+        "High":740.0,
+        "Low":702.0,
+        "Close":708.0,
+        "Percent Change":"-0.00 %",
+        "Volume":"15,399.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-10",
+        "Open":715.0,
+        "High":715.0,
+        "Low":703.0,
+        "Close":711.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"22,117.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-09",
+        "Open":740.0,
+        "High":740.0,
+        "Low":711.0,
+        "Close":715.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"14,930.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-08",
+        "Open":740.0,
+        "High":750.0,
+        "Low":725.0,
+        "Close":730.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"30,872.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-07",
+        "Open":730.0,
+        "High":739.0,
+        "Low":718.0,
+        "Close":736.0,
+        "Percent Change":"0.01 %",
+        "Volume":"44,063.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-04",
+        "Open":730.0,
+        "High":744.0,
+        "Low":710.0,
+        "Close":726.0,
+        "Percent Change":"0.00 %",
+        "Volume":"37,611.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-03",
+        "Open":725.0,
+        "High":760.0,
+        "Low":719.0,
+        "Close":726.0,
+        "Percent Change":"0.05 %",
+        "Volume":"85,543.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-02",
+        "Open":640.0,
+        "High":691.0,
+        "Low":629.0,
+        "Close":691.0,
+        "Percent Change":"0.10 %",
+        "Volume":"72,737.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-02-01",
+        "Open":627.0,
+        "High":639.0,
+        "Low":625.0,
+        "Close":629.0,
+        "Percent Change":"0.00 %",
+        "Volume":"18,287.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-31",
+        "Open":636.0,
+        "High":650.0,
+        "Low":605.0,
+        "Close":626.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"14,031.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-28",
+        "Open":632.0,
+        "High":647.0,
+        "Low":625.0,
+        "Close":636.0,
+        "Percent Change":"0.01 %",
+        "Volume":"33,965.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-27",
+        "Open":625.0,
+        "High":632.0,
+        "Low":620.0,
+        "Close":632.0,
+        "Percent Change":"0.01 %",
+        "Volume":"24,050.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-26",
+        "Open":637.0,
+        "High":644.0,
+        "Low":625.0,
+        "Close":627.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"24,227.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-25",
+        "Open":639.0,
+        "High":651.0,
+        "Low":635.0,
+        "Close":636.0,
+        "Percent Change":"-0.00 %",
+        "Volume":"35,956.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-24",
+        "Open":620.0,
+        "High":642.0,
+        "Low":617.0,
+        "Close":637.0,
+        "Percent Change":"0.03 %",
+        "Volume":"41,211.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-21",
+        "Open":614.0,
+        "High":635.0,
+        "Low":602.0,
+        "Close":616.0,
+        "Percent Change":"0.00 %",
+        "Volume":"32,345.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-20",
+        "Open":620.0,
+        "High":621.0,
+        "Low":612.0,
+        "Close":614.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"17,316.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-19",
+        "Open":625.0,
+        "High":630.0,
+        "Low":613.0,
+        "Close":620.0,
+        "Percent Change":"-0.00 %",
+        "Volume":"25,951.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-18",
+        "Open":597.0,
+        "High":630.0,
+        "Low":585.0,
+        "Close":623.0,
+        "Percent Change":"0.06 %",
+        "Volume":"61,336.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-17",
+        "Open":594.0,
+        "High":600.0,
+        "Low":586.0,
+        "Close":590.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"12,586.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-13",
+        "Open":579.0,
+        "High":600.0,
+        "Low":579.0,
+        "Close":597.0,
+        "Percent Change":"0.01 %",
+        "Volume":"24,281.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-12",
+        "Open":570.0,
+        "High":592.0,
+        "Low":568.0,
+        "Close":590.0,
+        "Percent Change":"0.02 %",
+        "Volume":"25,854.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-11",
+        "Open":583.0,
+        "High":583.0,
+        "Low":572.0,
+        "Close":577.0,
+        "Percent Change":"-0.00 %",
+        "Volume":"8,063.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-10",
+        "Open":580.0,
+        "High":584.0,
+        "Low":570.0,
+        "Close":578.0,
+        "Percent Change":"0.01 %",
+        "Volume":"18,768.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-07",
+        "Open":563.0,
+        "High":573.0,
+        "Low":550.0,
+        "Close":570.0,
+        "Percent Change":"0.03 %",
+        "Volume":"23,524.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-06",
+        "Open":545.0,
+        "High":555.0,
+        "Low":542.0,
+        "Close":552.0,
+        "Percent Change":"0.01 %",
+        "Volume":"8,260.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-05",
+        "Open":545.0,
+        "High":551.0,
+        "Low":545.0,
+        "Close":545.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"7,180.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-04",
+        "Open":545.0,
+        "High":563.0,
+        "Low":545.0,
+        "Close":554.0,
+        "Percent Change":"0.02 %",
+        "Volume":"8,715.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2021-01-03",
+        "Open":532.0,
+        "High":545.0,
+        "Low":532.0,
+        "Close":545.0,
+        "Percent Change":"0.02 %",
+        "Volume":"9,457.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-31",
+        "Open":532.0,
+        "High":540.0,
+        "Low":530.0,
+        "Close":532.0,
+        "Percent Change":"-0.00 %",
+        "Volume":"12,215.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-30",
+        "Open":535.0,
+        "High":540.0,
+        "Low":533.0,
+        "Close":534.0,
+        "Percent Change":"-0.00 %",
+        "Volume":"8,895.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-29",
+        "Open":537.0,
+        "High":540.0,
+        "Low":535.0,
+        "Close":535.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"9,510.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-28",
+        "Open":545.0,
+        "High":549.0,
+        "Low":540.0,
+        "Close":542.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"7,186.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-27",
+        "Open":555.0,
+        "High":555.0,
+        "Low":546.0,
+        "Close":546.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"7,030.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-24",
+        "Open":550.0,
+        "High":554.0,
+        "Low":549.0,
+        "Close":552.0,
+        "Percent Change":"-0.00 %",
+        "Volume":"7,385.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-23",
+        "Open":550.0,
+        "High":569.0,
+        "Low":550.0,
+        "Close":554.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"7,225.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-22",
+        "Open":555.0,
+        "High":571.0,
+        "Low":552.0,
+        "Close":558.0,
+        "Percent Change":"0.01 %",
+        "Volume":"12,852.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-21",
+        "Open":540.0,
+        "High":571.0,
+        "Low":510.0,
+        "Close":553.0,
+        "Percent Change":"0.01 %",
+        "Volume":"12,035.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-20",
+        "Open":570.0,
+        "High":575.0,
+        "Low":550.0,
+        "Close":550.0,
+        "Percent Change":"-0.04 %",
+        "Volume":"16,721.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-17",
+        "Open":571.0,
+        "High":576.0,
+        "Low":554.0,
+        "Close":571.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"13,272.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-16",
+        "Open":576.0,
+        "High":581.0,
+        "Low":572.0,
+        "Close":577.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"6,455.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-15",
+        "Open":557.0,
+        "High":600.0,
+        "Low":557.0,
+        "Close":581.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"9,325.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-14",
+        "Open":572.0,
+        "High":586.0,
+        "Low":570.0,
+        "Close":586.0,
+        "Percent Change":"0.02 %",
+        "Volume":"12,621.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-13",
+        "Open":562.0,
+        "High":574.0,
+        "Low":562.0,
+        "Close":572.0,
+        "Percent Change":"0.00 %",
+        "Volume":"8,180.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-10",
+        "Open":559.0,
+        "High":575.0,
+        "Low":559.0,
+        "Close":572.0,
+        "Percent Change":"0.00 %",
+        "Volume":"7,915.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-09",
+        "Open":590.0,
+        "High":590.0,
+        "Low":568.0,
+        "Close":570.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"13,857.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-08",
+        "Open":599.0,
+        "High":600.0,
+        "Low":581.0,
+        "Close":584.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"9,945.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-07",
+        "Open":570.0,
+        "High":601.0,
+        "Low":568.0,
+        "Close":588.0,
+        "Percent Change":"0.01 %",
+        "Volume":"25,850.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-06",
+        "Open":600.0,
+        "High":600.0,
+        "Low":580.0,
+        "Close":580.0,
+        "Percent Change":"-0.03 %",
+        "Volume":"13,322.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-03",
+        "Open":608.0,
+        "High":622.0,
+        "Low":595.0,
+        "Close":601.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"19,431.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-02",
+        "Open":588.0,
+        "High":610.0,
+        "Low":588.0,
+        "Close":608.0,
+        "Percent Change":"0.02 %",
+        "Volume":"31,262.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-12-01",
+        "Open":600.0,
+        "High":604.0,
+        "Low":590.0,
+        "Close":598.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"29,489.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-30",
+        "Open":608.0,
+        "High":619.0,
+        "Low":594.0,
+        "Close":606.0,
+        "Percent Change":"0.00 %",
+        "Volume":"37,901.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-29",
+        "Open":612.0,
+        "High":635.0,
+        "Low":593.0,
+        "Close":604.0,
+        "Percent Change":"0.04 %",
+        "Volume":"70,299.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-26",
+        "Open":600.0,
+        "High":605.0,
+        "Low":580.0,
+        "Close":583.0,
+        "Percent Change":"-0.03 %",
+        "Volume":"33,154.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-25",
+        "Open":580.0,
+        "High":621.0,
+        "Low":579.0,
+        "Close":598.0,
+        "Percent Change":"0.03 %",
+        "Volume":"30,957.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-24",
+        "Open":543.0,
+        "High":581.0,
+        "Low":535.0,
+        "Close":580.0,
+        "Percent Change":"0.07 %",
+        "Volume":"50,967.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-23",
+        "Open":535.0,
+        "High":550.0,
+        "Low":535.0,
+        "Close":544.0,
+        "Percent Change":"0.00 %",
+        "Volume":"22,570.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-22",
+        "Open":560.0,
+        "High":571.0,
+        "Low":540.0,
+        "Close":543.0,
+        "Percent Change":"-0.03 %",
+        "Volume":"28,714.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-19",
+        "Open":530.0,
+        "High":568.0,
+        "Low":530.0,
+        "Close":560.0,
+        "Percent Change":"0.00 %",
+        "Volume":"43,613.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-18",
+        "Open":531.0,
+        "High":534.0,
+        "Low":523.0,
+        "Close":531.0,
+        "Percent Change":"0.00 %",
+        "Volume":"13,542.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-12",
+        "Open":530.0,
+        "High":536.0,
+        "Low":530.0,
+        "Close":534.0,
+        "Percent Change":"- %",
+        "Volume":"13,973.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-11",
+        "Open":545.0,
+        "High":545.0,
+        "Low":533.0,
+        "Close":538.0,
+        "Percent Change":"-0.37 %",
+        "Volume":"11,323.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-10",
+        "Open":540.0,
+        "High":541.0,
+        "Low":529.0,
+        "Close":540.0,
+        "Percent Change":"1.69 %",
+        "Volume":"21,930.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-09",
+        "Open":530.0,
+        "High":535.0,
+        "Low":525.0,
+        "Close":531.0,
+        "Percent Change":"0.19 %",
+        "Volume":"15,005.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-08",
+        "Open":530.0,
+        "High":559.0,
+        "Low":526.0,
+        "Close":530.0,
+        "Percent Change":"0.00 %",
+        "Volume":"17,793.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-05",
+        "Open":525.0,
+        "High":542.0,
+        "Low":525.0,
+        "Close":530.0,
+        "Percent Change":"-1.12 %",
+        "Volume":"12,350.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-04",
+        "Open":540.0,
+        "High":548.0,
+        "Low":535.0,
+        "Close":536.0,
+        "Percent Change":"-0.74 %",
+        "Volume":"17,530.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-03",
+        "Open":525.0,
+        "High":549.0,
+        "Low":518.0,
+        "Close":540.0,
+        "Percent Change":"2.86 %",
+        "Volume":"36,209.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-02",
+        "Open":534.0,
+        "High":539.0,
+        "Low":524.0,
+        "Close":525.0,
+        "Percent Change":"-3.14 %",
+        "Volume":"54,819.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-11-01",
+        "Open":560.0,
+        "High":560.0,
+        "Low":531.0,
+        "Close":542.0,
+        "Percent Change":"-3.73 %",
+        "Volume":"60,151.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-10-29",
+        "Open":578.0,
+        "High":578.0,
+        "Low":560.0,
+        "Close":563.0,
+        "Percent Change":"-2.60 %",
+        "Volume":"46,660.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-10-28",
+        "Open":618.0,
+        "High":647.0,
+        "Low":570.0,
+        "Close":578.0,
+        "Percent Change":"-1.87 %",
+        "Volume":"102,532.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-10-22",
+        "Open":562.0,
+        "High":589.0,
+        "Low":562.0,
+        "Close":589.0,
+        "Percent Change":"9.89 %",
+        "Volume":"81,626.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-10-21",
+        "Open":512.0,
+        "High":536.0,
+        "Low":512.0,
+        "Close":536.0,
+        "Percent Change":"9.84 %",
+        "Volume":"45,741.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-10-20",
+        "Open":452.0,
+        "High":488.0,
+        "Low":452.0,
+        "Close":488.0,
+        "Percent Change":"9.91 %",
+        "Volume":"200.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-10-19",
+        "Open":412.0,
+        "High":444.0,
+        "Low":412.0,
+        "Close":444.0,
+        "Percent Change":"9.90 %",
+        "Volume":"180.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-10-18",
+        "Open":375.0,
+        "High":404.0,
+        "Low":368.0,
+        "Close":404.0,
+        "Percent Change":"9.78 %",
+        "Volume":"222.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-10-15",
+        "Open":341.0,
+        "High":368.0,
+        "Low":341.0,
+        "Close":368.0,
+        "Percent Change":"9.85 %",
+        "Volume":"132.00"
+    },
+    {
+        "Symbol":"GIC",
+        "Date":"2020-10-14",
+        "Open":305.0,
+        "High":335.0,
+        "Low":305.0,
+        "Close":335.0,
+        "Percent Change":"9.84 %",
+        "Volume":"150.00"
+    }
+]

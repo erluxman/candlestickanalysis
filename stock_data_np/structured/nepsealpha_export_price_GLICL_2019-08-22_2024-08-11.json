@@ -1,0 +1,6532 @@
+[
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-05-08",
+        "Open": 351.1,
+        "High": 353.9,
+        "Low": 340.1,
+        "Close": 344.0,
+        "Percent Change": -1.99,
+        "Volume": 26209.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-05-07",
+        "Open": 355.0,
+        "High": 357.7,
+        "Low": 350.0,
+        "Close": 351.0,
+        "Percent Change": -2.5,
+        "Volume": 6193.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-05-04",
+        "Open": 356.0,
+        "High": 363.0,
+        "Low": 356.0,
+        "Close": 360.0,
+        "Percent Change": 0.28,
+        "Volume": 10023.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-05-03",
+        "Open": 357.0,
+        "High": 359.0,
+        "Low": 356.6,
+        "Close": 359.0,
+        "Percent Change": -0.69,
+        "Volume": 2293.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-05-02",
+        "Open": 360.0,
+        "High": 361.5,
+        "Low": 357.0,
+        "Close": 361.5,
+        "Percent Change": 0.42,
+        "Volume": 3993.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-30",
+        "Open": 359.7,
+        "High": 360.9,
+        "Low": 357.7,
+        "Close": 360.0,
+        "Percent Change": -1.91,
+        "Volume": 5091.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-27",
+        "Open": 368.0,
+        "High": 368.0,
+        "Low": 361.0,
+        "Close": 367.0,
+        "Percent Change": 0.55,
+        "Volume": 3600.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-26",
+        "Open": 368.0,
+        "High": 369.0,
+        "Low": 363.0,
+        "Close": 365.0,
+        "Percent Change": -0.54,
+        "Volume": 6355.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-25",
+        "Open": 364.0,
+        "High": 370.0,
+        "Low": 361.5,
+        "Close": 367.0,
+        "Percent Change": 1.86,
+        "Volume": 11295.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-24",
+        "Open": 357.0,
+        "High": 364.8,
+        "Low": 356.0,
+        "Close": 360.3,
+        "Percent Change": 0.61,
+        "Volume": 4312.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-23",
+        "Open": 363.2,
+        "High": 367.0,
+        "Low": 358.0,
+        "Close": 358.1,
+        "Percent Change": -2.53,
+        "Volume": 11395.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-20",
+        "Open": 368.5,
+        "High": 373.9,
+        "Low": 367.2,
+        "Close": 367.4,
+        "Percent Change": -2.03,
+        "Volume": 4610.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-19",
+        "Open": 375.8,
+        "High": 381.0,
+        "Low": 369.0,
+        "Close": 375.0,
+        "Percent Change": 1.76,
+        "Volume": 8848.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-18",
+        "Open": 368.0,
+        "High": 372.9,
+        "Low": 367.1,
+        "Close": 368.5,
+        "Percent Change": -0.41,
+        "Volume": 7943.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-17",
+        "Open": 376.2,
+        "High": 376.2,
+        "Low": 370.0,
+        "Close": 370.0,
+        "Percent Change": -2.63,
+        "Volume": 7141.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-16",
+        "Open": 387.0,
+        "High": 387.0,
+        "Low": 375.0,
+        "Close": 380.0,
+        "Percent Change": 0.0,
+        "Volume": 18952.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-13",
+        "Open": 380.0,
+        "High": 390.0,
+        "Low": 375.0,
+        "Close": 380.0,
+        "Percent Change": -1.5,
+        "Volume": 18674.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-12",
+        "Open": 373.0,
+        "High": 385.8,
+        "Low": 371.0,
+        "Close": 385.8,
+        "Percent Change": 5.12,
+        "Volume": 21984.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-11",
+        "Open": 367.0,
+        "High": 373.0,
+        "Low": 360.1,
+        "Close": 367.0,
+        "Percent Change": 1.94,
+        "Volume": 4831.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-10",
+        "Open": 353.1,
+        "High": 365.0,
+        "Low": 353.1,
+        "Close": 360.0,
+        "Percent Change": 0.03,
+        "Volume": 11650.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-09",
+        "Open": 365.0,
+        "High": 371.2,
+        "Low": 356.8,
+        "Close": 359.9,
+        "Percent Change": -2.73,
+        "Volume": 27773.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-06",
+        "Open": 376.8,
+        "High": 376.8,
+        "Low": 369.0,
+        "Close": 370.0,
+        "Percent Change": 0.14,
+        "Volume": 27714.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-05",
+        "Open": 424.3,
+        "High": 424.3,
+        "Low": 416.2,
+        "Close": 418.5,
+        "Percent Change": 0.6,
+        "Volume": 52836.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-04",
+        "Open": 411.5,
+        "High": 418.9,
+        "Low": 411.0,
+        "Close": 416.0,
+        "Percent Change": -0.48,
+        "Volume": 6755.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-03",
+        "Open": 413.0,
+        "High": 419.5,
+        "Low": 406.0,
+        "Close": 418.0,
+        "Percent Change": 0.48,
+        "Volume": 19006.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-04-02",
+        "Open": 424.7,
+        "High": 432.0,
+        "Low": 416.0,
+        "Close": 416.0,
+        "Percent Change": -2.05,
+        "Volume": 30824.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-30",
+        "Open": 429.9,
+        "High": 430.0,
+        "Low": 423.5,
+        "Close": 424.7,
+        "Percent Change": -0.52,
+        "Volume": 17003.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-29",
+        "Open": 423.0,
+        "High": 428.0,
+        "Low": 419.1,
+        "Close": 426.9,
+        "Percent Change": 0.45,
+        "Volume": 19235.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-28",
+        "Open": 426.9,
+        "High": 431.5,
+        "Low": 420.5,
+        "Close": 425.0,
+        "Percent Change": 1.43,
+        "Volume": 26550.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-27",
+        "Open": 415.0,
+        "High": 419.9,
+        "Low": 410.0,
+        "Close": 419.0,
+        "Percent Change": 1.23,
+        "Volume": 11078.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-26",
+        "Open": 404.9,
+        "High": 436.7,
+        "Low": 404.9,
+        "Close": 413.9,
+        "Percent Change": 4.26,
+        "Volume": 54994.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-23",
+        "Open": 395.0,
+        "High": 399.5,
+        "Low": 390.0,
+        "Close": 397.0,
+        "Percent Change": -1.0,
+        "Volume": 10446.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-22",
+        "Open": 416.0,
+        "High": 417.0,
+        "Low": 400.0,
+        "Close": 401.0,
+        "Percent Change": -2.55,
+        "Volume": 14873.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-20",
+        "Open": 404.0,
+        "High": 411.5,
+        "Low": 398.4,
+        "Close": 411.5,
+        "Percent Change": 1.88,
+        "Volume": 21014.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-19",
+        "Open": 395.0,
+        "High": 403.9,
+        "Low": 395.0,
+        "Close": 403.9,
+        "Percent Change": 0.22,
+        "Volume": 9548.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-16",
+        "Open": 394.1,
+        "High": 406.0,
+        "Low": 394.1,
+        "Close": 403.0,
+        "Percent Change": 0.25,
+        "Volume": 10324.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-15",
+        "Open": 400.0,
+        "High": 403.0,
+        "Low": 397.0,
+        "Close": 402.0,
+        "Percent Change": 0.5,
+        "Volume": 7739.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-14",
+        "Open": 400.0,
+        "High": 406.0,
+        "Low": 398.0,
+        "Close": 400.0,
+        "Percent Change": 1.14,
+        "Volume": 9325.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-13",
+        "Open": 408.0,
+        "High": 408.0,
+        "Low": 395.1,
+        "Close": 395.5,
+        "Percent Change": -4.0,
+        "Volume": 11302.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-12",
+        "Open": 420.0,
+        "High": 422.0,
+        "Low": 396.3,
+        "Close": 412.0,
+        "Percent Change": -1.2,
+        "Volume": 35953.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-09",
+        "Open": 412.9,
+        "High": 417.0,
+        "Low": 405.0,
+        "Close": 417.0,
+        "Percent Change": 2.99,
+        "Volume": 17534.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-07",
+        "Open": 405.0,
+        "High": 413.0,
+        "Low": 400.0,
+        "Close": 404.9,
+        "Percent Change": 0.22,
+        "Volume": 6978.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-05",
+        "Open": 414.0,
+        "High": 414.0,
+        "Low": 399.0,
+        "Close": 404.0,
+        "Percent Change": -0.66,
+        "Volume": 14564.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-02",
+        "Open": 412.9,
+        "High": 419.9,
+        "Low": 406.7,
+        "Close": 406.7,
+        "Percent Change": -2.96,
+        "Volume": 16166.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-03-01",
+        "Open": 425.0,
+        "High": 435.9,
+        "Low": 419.1,
+        "Close": 419.1,
+        "Percent Change": -2.49,
+        "Volume": 7957.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-28",
+        "Open": 434.0,
+        "High": 444.0,
+        "Low": 424.0,
+        "Close": 429.8,
+        "Percent Change": -0.05,
+        "Volume": 6510.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-27",
+        "Open": 448.0,
+        "High": 448.5,
+        "Low": 417.2,
+        "Close": 430.0,
+        "Percent Change": -2.27,
+        "Volume": 13354.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-26",
+        "Open": 425.4,
+        "High": 440.0,
+        "Low": 417.0,
+        "Close": 440.0,
+        "Percent Change": 1.38,
+        "Volume": 19428.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-23",
+        "Open": 435.0,
+        "High": 436.0,
+        "Low": 428.1,
+        "Close": 434.0,
+        "Percent Change": -2.21,
+        "Volume": 14863.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-22",
+        "Open": 440.0,
+        "High": 444.9,
+        "Low": 433.1,
+        "Close": 443.8,
+        "Percent Change": 2.61,
+        "Volume": 19766.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-20",
+        "Open": 431.9,
+        "High": 438.0,
+        "Low": 430.2,
+        "Close": 432.5,
+        "Percent Change": -1.66,
+        "Volume": 20211.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-16",
+        "Open": 442.9,
+        "High": 444.7,
+        "Low": 436.3,
+        "Close": 439.8,
+        "Percent Change": -1.17,
+        "Volume": 16229.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-15",
+        "Open": 457.0,
+        "High": 457.0,
+        "Low": 440.0,
+        "Close": 445.0,
+        "Percent Change": -1.11,
+        "Volume": 15536.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-14",
+        "Open": 447.0,
+        "High": 455.0,
+        "Low": 445.0,
+        "Close": 450.0,
+        "Percent Change": 0.67,
+        "Volume": 14748.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-12",
+        "Open": 460.6,
+        "High": 460.6,
+        "Low": 445.0,
+        "Close": 447.0,
+        "Percent Change": -4.89,
+        "Volume": 30854.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-09",
+        "Open": 460.0,
+        "High": 474.3,
+        "Low": 452.1,
+        "Close": 470.0,
+        "Percent Change": 3.07,
+        "Volume": 40763.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-08",
+        "Open": 469.2,
+        "High": 478.5,
+        "Low": 455.0,
+        "Close": 456.0,
+        "Percent Change": -0.87,
+        "Volume": 55262.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-07",
+        "Open": 438.0,
+        "High": 460.0,
+        "Low": 434.0,
+        "Close": 460.0,
+        "Percent Change": 6.6,
+        "Volume": 28873.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-06",
+        "Open": 435.0,
+        "High": 440.0,
+        "Low": 431.1,
+        "Close": 431.5,
+        "Percent Change": -1.48,
+        "Volume": 23481.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-05",
+        "Open": 445.0,
+        "High": 452.0,
+        "Low": 436.1,
+        "Close": 438.0,
+        "Percent Change": -1.13,
+        "Volume": 29046.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-02",
+        "Open": 448.0,
+        "High": 462.2,
+        "Low": 440.1,
+        "Close": 443.0,
+        "Percent Change": -3.0,
+        "Volume": 23614.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-02-01",
+        "Open": 479.0,
+        "High": 479.0,
+        "Low": 440.6,
+        "Close": 456.7,
+        "Percent Change": -2.83,
+        "Volume": 75759.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2023-01-31",
+        "Open": 451.4,
+        "High": 489.0,
+        "Low": 451.4,
+        "Close": 470.0,
+        "Percent Change": 4.12,
+        "Volume": 162173.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-05-12",
+        "Open": 520.0,
+        "High": 520.0,
+        "Low": 481.0,
+        "Close": 485.0,
+        "Percent Change": -5.83,
+        "Volume": 127065.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-05-11",
+        "Open": 504.0,
+        "High": 517.1,
+        "Low": 504.0,
+        "Close": 515.0,
+        "Percent Change": 4.04,
+        "Volume": 19880.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-05-10",
+        "Open": 496.7,
+        "High": 503.0,
+        "Low": 485.0,
+        "Close": 495.0,
+        "Percent Change": 1.64,
+        "Volume": 8380.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-05-09",
+        "Open": 500.0,
+        "High": 502.0,
+        "Low": 487.0,
+        "Close": 487.0,
+        "Percent Change": -1.62,
+        "Volume": 21386.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-05-08",
+        "Open": 490.0,
+        "High": 497.0,
+        "Low": 479.4,
+        "Close": 495.0,
+        "Percent Change": 0.0,
+        "Volume": 13985.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-05-05",
+        "Open": 504.0,
+        "High": 522.9,
+        "Low": 495.0,
+        "Close": 495.0,
+        "Percent Change": -3.7,
+        "Volume": 16649.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-05-04",
+        "Open": 531.0,
+        "High": 531.0,
+        "Low": 514.0,
+        "Close": 514.0,
+        "Percent Change": -1.38,
+        "Volume": 7311.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-05-02",
+        "Open": 551.0,
+        "High": 551.0,
+        "Low": 520.0,
+        "Close": 521.2,
+        "Percent Change": -3.66,
+        "Volume": 11269.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-28",
+        "Open": 563.9,
+        "High": 563.9,
+        "Low": 534.2,
+        "Close": 541.0,
+        "Percent Change": -2.52,
+        "Volume": 11777.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-27",
+        "Open": 548.0,
+        "High": 565.0,
+        "Low": 547.0,
+        "Close": 555.0,
+        "Percent Change": -0.54,
+        "Volume": 6140.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-26",
+        "Open": 552.1,
+        "High": 585.0,
+        "Low": 549.0,
+        "Close": 558.0,
+        "Percent Change": -0.71,
+        "Volume": 6905.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-25",
+        "Open": 580.0,
+        "High": 584.0,
+        "Low": 562.0,
+        "Close": 562.0,
+        "Percent Change": -2.24,
+        "Volume": 17188.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-24",
+        "Open": 552.0,
+        "High": 580.0,
+        "Low": 552.0,
+        "Close": 574.9,
+        "Percent Change": 5.29,
+        "Volume": 20629.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-21",
+        "Open": 550.0,
+        "High": 550.0,
+        "Low": 528.1,
+        "Close": 546.0,
+        "Percent Change": 0.74,
+        "Volume": 16209.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-20",
+        "Open": 567.0,
+        "High": 567.1,
+        "Low": 540.0,
+        "Close": 542.0,
+        "Percent Change": -2.52,
+        "Volume": 9833.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-19",
+        "Open": 549.9,
+        "High": 569.9,
+        "Low": 540.0,
+        "Close": 556.0,
+        "Percent Change": 1.09,
+        "Volume": 23817.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-18",
+        "Open": 578.0,
+        "High": 578.0,
+        "Low": 544.0,
+        "Close": 550.0,
+        "Percent Change": -3.17,
+        "Volume": 16434.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-17",
+        "Open": 590.0,
+        "High": 590.0,
+        "Low": 568.0,
+        "Close": 568.0,
+        "Percent Change": -2.07,
+        "Volume": 16184.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-13",
+        "Open": 589.9,
+        "High": 589.9,
+        "Low": 568.0,
+        "Close": 580.0,
+        "Percent Change": 0.17,
+        "Volume": 17002.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-12",
+        "Open": 605.0,
+        "High": 605.0,
+        "Low": 575.0,
+        "Close": 579.0,
+        "Percent Change": -2.53,
+        "Volume": 9339.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-11",
+        "Open": 617.1,
+        "High": 627.9,
+        "Low": 585.0,
+        "Close": 594.0,
+        "Percent Change": -1.82,
+        "Volume": 20192.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-07",
+        "Open": 608.0,
+        "High": 619.0,
+        "Low": 595.0,
+        "Close": 605.0,
+        "Percent Change": 1.34,
+        "Volume": 18666.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-06",
+        "Open": 610.0,
+        "High": 614.0,
+        "Low": 595.1,
+        "Close": 597.0,
+        "Percent Change": -1.49,
+        "Volume": 30775.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-05",
+        "Open": 609.0,
+        "High": 618.0,
+        "Low": 590.0,
+        "Close": 606.0,
+        "Percent Change": -2.1,
+        "Volume": 51665.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-04",
+        "Open": 646.0,
+        "High": 646.0,
+        "Low": 615.1,
+        "Close": 619.0,
+        "Percent Change": -2.37,
+        "Volume": 25923.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-04-03",
+        "Open": 652.8,
+        "High": 652.8,
+        "Low": 630.0,
+        "Close": 634.0,
+        "Percent Change": -0.94,
+        "Volume": 31534.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-31",
+        "Open": 660.0,
+        "High": 662.0,
+        "Low": 640.0,
+        "Close": 640.0,
+        "Percent Change": -1.54,
+        "Volume": 42656.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-30",
+        "Open": 654.0,
+        "High": 654.0,
+        "Low": 616.8,
+        "Close": 650.0,
+        "Percent Change": 1.25,
+        "Volume": 51736.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-29",
+        "Open": 649.9,
+        "High": 652.0,
+        "Low": 632.0,
+        "Close": 642.0,
+        "Percent Change": -0.16,
+        "Volume": 22136.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-28",
+        "Open": 670.0,
+        "High": 670.0,
+        "Low": 640.0,
+        "Close": 643.0,
+        "Percent Change": -3.74,
+        "Volume": 74326.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-27",
+        "Open": 681.0,
+        "High": 721.0,
+        "Low": 660.0,
+        "Close": 668.0,
+        "Percent Change": -0.3,
+        "Volume": 254236.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-24",
+        "Open": 650.0,
+        "High": 673.2,
+        "Low": 628.0,
+        "Close": 670.0,
+        "Percent Change": 4.69,
+        "Volume": 126900.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-23",
+        "Open": 620.0,
+        "High": 644.0,
+        "Low": 620.0,
+        "Close": 640.0,
+        "Percent Change": 2.07,
+        "Volume": 57596.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-22",
+        "Open": 635.0,
+        "High": 635.0,
+        "Low": 623.0,
+        "Close": 627.0,
+        "Percent Change": 0.5,
+        "Volume": 20233.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-21",
+        "Open": 626.0,
+        "High": 626.0,
+        "Low": 610.1,
+        "Close": 623.9,
+        "Percent Change": 1.12,
+        "Volume": 24989.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-20",
+        "Open": 643.6,
+        "High": 643.6,
+        "Low": 615.6,
+        "Close": 617.0,
+        "Percent Change": -2.22,
+        "Volume": 28262.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-16",
+        "Open": 635.0,
+        "High": 640.0,
+        "Low": 629.2,
+        "Close": 631.0,
+        "Percent Change": -0.32,
+        "Volume": 35161.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-15",
+        "Open": 627.0,
+        "High": 637.0,
+        "Low": 617.5,
+        "Close": 633.0,
+        "Percent Change": 0.96,
+        "Volume": 51228.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-14",
+        "Open": 624.2,
+        "High": 636.0,
+        "Low": 603.0,
+        "Close": 627.0,
+        "Percent Change": 2.45,
+        "Volume": 27695.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-13",
+        "Open": 581.0,
+        "High": 616.0,
+        "Low": 572.0,
+        "Close": 612.0,
+        "Percent Change": 7.37,
+        "Volume": 52497.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-10",
+        "Open": 545.0,
+        "High": 578.3,
+        "Low": 538.0,
+        "Close": 570.0,
+        "Percent Change": 5.95,
+        "Volume": 25569.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-09",
+        "Open": 538.0,
+        "High": 558.9,
+        "Low": 520.0,
+        "Close": 538.0,
+        "Percent Change": -1.82,
+        "Volume": 21239.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-07",
+        "Open": 557.0,
+        "High": 566.8,
+        "Low": 545.0,
+        "Close": 548.0,
+        "Percent Change": -1.77,
+        "Volume": 9984.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-06",
+        "Open": 564.0,
+        "High": 564.0,
+        "Low": 549.0,
+        "Close": 557.9,
+        "Percent Change": 0.89,
+        "Volume": 9440.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-03-02",
+        "Open": 589.0,
+        "High": 589.0,
+        "Low": 552.0,
+        "Close": 553.0,
+        "Percent Change": -4.49,
+        "Volume": 23737.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-28",
+        "Open": 611.8,
+        "High": 624.0,
+        "Low": 575.0,
+        "Close": 579.0,
+        "Percent Change": -3.48,
+        "Volume": 25148.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-27",
+        "Open": 606.9,
+        "High": 619.0,
+        "Low": 592.0,
+        "Close": 599.9,
+        "Percent Change": 0.82,
+        "Volume": 8985.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-24",
+        "Open": 610.0,
+        "High": 617.0,
+        "Low": 592.9,
+        "Close": 595.0,
+        "Percent Change": -3.41,
+        "Volume": 32206.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-23",
+        "Open": 634.0,
+        "High": 634.0,
+        "Low": 615.0,
+        "Close": 616.0,
+        "Percent Change": -1.75,
+        "Volume": 24564.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-22",
+        "Open": 636.6,
+        "High": 638.0,
+        "Low": 624.0,
+        "Close": 627.0,
+        "Percent Change": 0.3,
+        "Volume": 18924.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-21",
+        "Open": 638.5,
+        "High": 650.0,
+        "Low": 622.3,
+        "Close": 625.1,
+        "Percent Change": -0.14,
+        "Volume": 77447.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-20",
+        "Open": 631.2,
+        "High": 645.0,
+        "Low": 616.5,
+        "Close": 626.0,
+        "Percent Change": -2.8,
+        "Volume": 34742.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-17",
+        "Open": 654.0,
+        "High": 654.0,
+        "Low": 642.0,
+        "Close": 644.0,
+        "Percent Change": 0.23,
+        "Volume": 14958.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-16",
+        "Open": 634.1,
+        "High": 662.0,
+        "Low": 634.1,
+        "Close": 642.5,
+        "Percent Change": -0.39,
+        "Volume": 14030.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-15",
+        "Open": 644.0,
+        "High": 656.0,
+        "Low": 632.1,
+        "Close": 645.0,
+        "Percent Change": 2.14,
+        "Volume": 32844.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-14",
+        "Open": 650.7,
+        "High": 655.0,
+        "Low": 630.0,
+        "Close": 631.5,
+        "Percent Change": -1.02,
+        "Volume": 33259.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-13",
+        "Open": 657.0,
+        "High": 657.0,
+        "Low": 637.1,
+        "Close": 638.0,
+        "Percent Change": -4.78,
+        "Volume": 29925.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-10",
+        "Open": 688.5,
+        "High": 688.5,
+        "Low": 667.0,
+        "Close": 670.0,
+        "Percent Change": -0.74,
+        "Volume": 20849.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-09",
+        "Open": 697.0,
+        "High": 697.0,
+        "Low": 670.0,
+        "Close": 675.0,
+        "Percent Change": -1.32,
+        "Volume": 19632.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-08",
+        "Open": 708.0,
+        "High": 714.9,
+        "Low": 674.3,
+        "Close": 684.0,
+        "Percent Change": 0.0,
+        "Volume": 33558.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-07",
+        "Open": 677.0,
+        "High": 700.0,
+        "Low": 677.0,
+        "Close": 695.0,
+        "Percent Change": 2.67,
+        "Volume": 52289.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-06",
+        "Open": 707.5,
+        "High": 707.5,
+        "Low": 676.6,
+        "Close": 676.9,
+        "Percent Change": -2.6,
+        "Volume": 34761.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-03",
+        "Open": 709.9,
+        "High": 728.0,
+        "Low": 693.0,
+        "Close": 695.0,
+        "Percent Change": -0.71,
+        "Volume": 53308.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-02-01",
+        "Open": 708.0,
+        "High": 720.0,
+        "Low": 692.9,
+        "Close": 700.0,
+        "Percent Change": 0.57,
+        "Volume": 51790.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-31",
+        "Open": 714.0,
+        "High": 714.0,
+        "Low": 690.0,
+        "Close": 696.0,
+        "Percent Change": -0.94,
+        "Volume": 66449.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-30",
+        "Open": 689.0,
+        "High": 716.0,
+        "Low": 689.0,
+        "Close": 702.6,
+        "Percent Change": 4.01,
+        "Volume": 77214.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-27",
+        "Open": 675.0,
+        "High": 698.0,
+        "Low": 674.0,
+        "Close": 675.5,
+        "Percent Change": -0.22,
+        "Volume": 31452.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-26",
+        "Open": 696.0,
+        "High": 696.0,
+        "Low": 670.0,
+        "Close": 677.0,
+        "Percent Change": -1.17,
+        "Volume": 49863.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-25",
+        "Open": 692.0,
+        "High": 705.0,
+        "Low": 672.0,
+        "Close": 685.0,
+        "Percent Change": 0.59,
+        "Volume": 130172.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-24",
+        "Open": 708.0,
+        "High": 710.0,
+        "Low": 675.0,
+        "Close": 681.0,
+        "Percent Change": -3.81,
+        "Volume": 160428.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-23",
+        "Open": 705.8,
+        "High": 721.0,
+        "Low": 698.0,
+        "Close": 708.0,
+        "Percent Change": 2.31,
+        "Volume": 176277.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-20",
+        "Open": 629.2,
+        "High": 698.7,
+        "Low": 629.2,
+        "Close": 692.0,
+        "Percent Change": 7.79,
+        "Volume": 223337.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-19",
+        "Open": 624.0,
+        "High": 658.0,
+        "Low": 624.0,
+        "Close": 642.0,
+        "Percent Change": 0.94,
+        "Volume": 65436.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-18",
+        "Open": 649.0,
+        "High": 659.0,
+        "Low": 632.7,
+        "Close": 636.0,
+        "Percent Change": -2.45,
+        "Volume": 62362.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-17",
+        "Open": 664.0,
+        "High": 664.0,
+        "Low": 641.0,
+        "Close": 652.0,
+        "Percent Change": 0.0,
+        "Volume": 38928.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-16",
+        "Open": 642.0,
+        "High": 669.9,
+        "Low": 642.0,
+        "Close": 652.0,
+        "Percent Change": 1.56,
+        "Volume": 80727.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-13",
+        "Open": 636.0,
+        "High": 653.0,
+        "Low": 613.0,
+        "Close": 642.0,
+        "Percent Change": 2.88,
+        "Volume": 55622.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-12",
+        "Open": 655.0,
+        "High": 655.0,
+        "Low": 622.3,
+        "Close": 624.0,
+        "Percent Change": -3.26,
+        "Volume": 69248.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-11",
+        "Open": 626.0,
+        "High": 659.0,
+        "Low": 612.1,
+        "Close": 645.0,
+        "Percent Change": 4.71,
+        "Volume": 115789.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-10",
+        "Open": 600.0,
+        "High": 617.0,
+        "Low": 590.0,
+        "Close": 616.0,
+        "Percent Change": 3.18,
+        "Volume": 69289.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-09",
+        "Open": 567.0,
+        "High": 603.0,
+        "Low": 567.0,
+        "Close": 597.0,
+        "Percent Change": 4.01,
+        "Volume": 32134.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-06",
+        "Open": 579.0,
+        "High": 580.0,
+        "Low": 567.0,
+        "Close": 574.0,
+        "Percent Change": 0.53,
+        "Volume": 14640.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-05",
+        "Open": 581.0,
+        "High": 592.0,
+        "Low": 571.0,
+        "Close": 571.0,
+        "Percent Change": -2.48,
+        "Volume": 31922.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-04",
+        "Open": 574.0,
+        "High": 590.0,
+        "Low": 573.0,
+        "Close": 585.5,
+        "Percent Change": 0.27,
+        "Volume": 18978.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-03",
+        "Open": 594.0,
+        "High": 598.7,
+        "Low": 578.0,
+        "Close": 583.9,
+        "Percent Change": 0.15,
+        "Volume": 38055.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2022-01-02",
+        "Open": 574.0,
+        "High": 589.0,
+        "Low": 570.0,
+        "Close": 583.0,
+        "Percent Change": 3.55,
+        "Volume": 28538.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-29",
+        "Open": 573.0,
+        "High": 575.0,
+        "Low": 547.2,
+        "Close": 563.0,
+        "Percent Change": -0.16,
+        "Volume": 23488.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-28",
+        "Open": 540.0,
+        "High": 566.5,
+        "Low": 530.0,
+        "Close": 563.9,
+        "Percent Change": 2.53,
+        "Volume": 21988.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-27",
+        "Open": 586.0,
+        "High": 597.6,
+        "Low": 545.0,
+        "Close": 550.0,
+        "Percent Change": -4.4,
+        "Volume": 86918.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-26",
+        "Open": 533.0,
+        "High": 575.3,
+        "Low": 530.0,
+        "Close": 575.3,
+        "Percent Change": 10.0,
+        "Volume": 80873.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-23",
+        "Open": 498.0,
+        "High": 533.0,
+        "Low": 490.0,
+        "Close": 523.0,
+        "Percent Change": 2.95,
+        "Volume": 18915.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-22",
+        "Open": 493.0,
+        "High": 510.0,
+        "Low": 492.0,
+        "Close": 508.0,
+        "Percent Change": 3.46,
+        "Volume": 25798.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-21",
+        "Open": 482.9,
+        "High": 491.0,
+        "Low": 480.0,
+        "Close": 491.0,
+        "Percent Change": 3.59,
+        "Volume": 7759.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-20",
+        "Open": 466.0,
+        "High": 474.0,
+        "Low": 460.6,
+        "Close": 474.0,
+        "Percent Change": 0.21,
+        "Volume": 14313.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-16",
+        "Open": 472.9,
+        "High": 485.0,
+        "Low": 470.2,
+        "Close": 473.0,
+        "Percent Change": -1.97,
+        "Volume": 7731.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-15",
+        "Open": 496.0,
+        "High": 520.2,
+        "Low": 466.0,
+        "Close": 482.5,
+        "Percent Change": -0.92,
+        "Volume": 17089.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-14",
+        "Open": 469.0,
+        "High": 487.8,
+        "Low": 469.0,
+        "Close": 487.0,
+        "Percent Change": 5.85,
+        "Volume": 3852.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-13",
+        "Open": 480.0,
+        "High": 482.1,
+        "Low": 460.0,
+        "Close": 460.1,
+        "Percent Change": -4.94,
+        "Volume": 10214.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-12",
+        "Open": 495.0,
+        "High": 499.0,
+        "Low": 479.0,
+        "Close": 484.0,
+        "Percent Change": -3.01,
+        "Volume": 23395.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-09",
+        "Open": 497.0,
+        "High": 500.0,
+        "Low": 490.0,
+        "Close": 499.0,
+        "Percent Change": -0.2,
+        "Volume": 11926.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-08",
+        "Open": 505.0,
+        "High": 518.0,
+        "Low": 500.0,
+        "Close": 500.0,
+        "Percent Change": -1.57,
+        "Volume": 10831.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-07",
+        "Open": 531.0,
+        "High": 531.4,
+        "Low": 508.0,
+        "Close": 508.0,
+        "Percent Change": -2.5,
+        "Volume": 16728.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-06",
+        "Open": 502.0,
+        "High": 521.0,
+        "Low": 495.0,
+        "Close": 521.0,
+        "Percent Change": 2.36,
+        "Volume": 16776.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-05",
+        "Open": 522.4,
+        "High": 535.0,
+        "Low": 503.8,
+        "Close": 509.0,
+        "Percent Change": -4.5,
+        "Volume": 18013.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-02",
+        "Open": 545.0,
+        "High": 545.0,
+        "Low": 525.0,
+        "Close": 533.0,
+        "Percent Change": -2.2,
+        "Volume": 15108.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-12-01",
+        "Open": 533.0,
+        "High": 545.0,
+        "Low": 533.0,
+        "Close": 545.0,
+        "Percent Change": 0.93,
+        "Volume": 5919.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-30",
+        "Open": 550.0,
+        "High": 554.0,
+        "Low": 535.0,
+        "Close": 540.0,
+        "Percent Change": -2.53,
+        "Volume": 30666.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-29",
+        "Open": 563.9,
+        "High": 570.0,
+        "Low": 546.0,
+        "Close": 554.0,
+        "Percent Change": -1.07,
+        "Volume": 14090.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-28",
+        "Open": 562.0,
+        "High": 570.0,
+        "Low": 555.0,
+        "Close": 560.0,
+        "Percent Change": -2.12,
+        "Volume": 11253.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-25",
+        "Open": 570.0,
+        "High": 586.0,
+        "Low": 566.0,
+        "Close": 572.1,
+        "Percent Change": -0.5,
+        "Volume": 2848.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-24",
+        "Open": 561.0,
+        "High": 583.0,
+        "Low": 560.6,
+        "Close": 575.0,
+        "Percent Change": 0.52,
+        "Volume": 6808.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-23",
+        "Open": 575.1,
+        "High": 586.0,
+        "Low": 572.0,
+        "Close": 572.0,
+        "Percent Change": -1.72,
+        "Volume": 9328.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-22",
+        "Open": 590.0,
+        "High": 597.8,
+        "Low": 580.0,
+        "Close": 582.0,
+        "Percent Change": 0.34,
+        "Volume": 8892.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-21",
+        "Open": 582.0,
+        "High": 601.0,
+        "Low": 579.0,
+        "Close": 580.0,
+        "Percent Change": -2.19,
+        "Volume": 11192.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-18",
+        "Open": 616.0,
+        "High": 616.0,
+        "Low": 593.0,
+        "Close": 593.0,
+        "Percent Change": -1.82,
+        "Volume": 10517.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-17",
+        "Open": 642.0,
+        "High": 655.0,
+        "Low": 604.0,
+        "Close": 604.0,
+        "Percent Change": -4.13,
+        "Volume": 22696.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-16",
+        "Open": 581.1,
+        "High": 639.0,
+        "Low": 581.0,
+        "Close": 630.0,
+        "Percent Change": 8.43,
+        "Volume": 40205.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-15",
+        "Open": 595.0,
+        "High": 595.0,
+        "Low": 574.0,
+        "Close": 581.0,
+        "Percent Change": -0.68,
+        "Volume": 11451.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-14",
+        "Open": 589.9,
+        "High": 590.0,
+        "Low": 566.5,
+        "Close": 585.0,
+        "Percent Change": 0.34,
+        "Volume": 12247.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-11",
+        "Open": 594.0,
+        "High": 629.0,
+        "Low": 573.0,
+        "Close": 583.0,
+        "Percent Change": -1.85,
+        "Volume": 13048.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-09",
+        "Open": 619.0,
+        "High": 619.0,
+        "Low": 578.0,
+        "Close": 594.0,
+        "Percent Change": -3.89,
+        "Volume": 20203.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-08",
+        "Open": 676.0,
+        "High": 676.0,
+        "Low": 650.0,
+        "Close": 652.0,
+        "Percent Change": -1.66,
+        "Volume": 25396.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-03",
+        "Open": 683.4,
+        "High": 695.0,
+        "Low": 659.0,
+        "Close": 663.0,
+        "Percent Change": -1.04,
+        "Volume": 45962.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-02",
+        "Open": 622.0,
+        "High": 695.9,
+        "Low": 620.0,
+        "Close": 670.0,
+        "Percent Change": 5.68,
+        "Volume": 41558.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-11-01",
+        "Open": 640.0,
+        "High": 645.0,
+        "Low": 618.0,
+        "Close": 634.0,
+        "Percent Change": -0.16,
+        "Volume": 54829.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-31",
+        "Open": 605.0,
+        "High": 642.0,
+        "Low": 602.1,
+        "Close": 635.0,
+        "Percent Change": 4.44,
+        "Volume": 34272.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-28",
+        "Open": 620.0,
+        "High": 630.0,
+        "Low": 601.0,
+        "Close": 608.0,
+        "Percent Change": -2.69,
+        "Volume": 24586.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-27",
+        "Open": 599.0,
+        "High": 635.0,
+        "Low": 586.0,
+        "Close": 624.8,
+        "Percent Change": 6.08,
+        "Volume": 63739.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-26",
+        "Open": 583.0,
+        "High": 598.0,
+        "Low": 564.0,
+        "Close": 589.0,
+        "Percent Change": 2.81,
+        "Volume": 28724.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-25",
+        "Open": 559.9,
+        "High": 581.9,
+        "Low": 558.6,
+        "Close": 572.9,
+        "Percent Change": 4.35,
+        "Volume": 22754.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-24",
+        "Open": 535.0,
+        "High": 558.0,
+        "Low": 535.0,
+        "Close": 549.0,
+        "Percent Change": 0.73,
+        "Volume": 6023.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-21",
+        "Open": 548.0,
+        "High": 561.0,
+        "Low": 540.0,
+        "Close": 545.0,
+        "Percent Change": -1.09,
+        "Volume": 11284.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-20",
+        "Open": 555.0,
+        "High": 559.0,
+        "Low": 546.0,
+        "Close": 551.0,
+        "Percent Change": 1.1,
+        "Volume": 12280.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-19",
+        "Open": 560.0,
+        "High": 561.3,
+        "Low": 535.0,
+        "Close": 545.0,
+        "Percent Change": -3.37,
+        "Volume": 18365.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-18",
+        "Open": 590.0,
+        "High": 590.0,
+        "Low": 563.5,
+        "Close": 564.0,
+        "Percent Change": -3.92,
+        "Volume": 12912.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-17",
+        "Open": 577.0,
+        "High": 588.4,
+        "Low": 577.0,
+        "Close": 587.0,
+        "Percent Change": 1.73,
+        "Volume": 2830.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-11",
+        "Open": 575.0,
+        "High": 580.0,
+        "Low": 571.0,
+        "Close": 577.0,
+        "Percent Change": -1.54,
+        "Volume": 11748.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-10",
+        "Open": 598.0,
+        "High": 608.7,
+        "Low": 586.0,
+        "Close": 586.0,
+        "Percent Change": -1.84,
+        "Volume": 12438.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-06",
+        "Open": 571.0,
+        "High": 608.0,
+        "Low": 571.0,
+        "Close": 597.0,
+        "Percent Change": 2.93,
+        "Volume": 24549.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-05",
+        "Open": 583.0,
+        "High": 595.1,
+        "Low": 575.0,
+        "Close": 580.0,
+        "Percent Change": 1.38,
+        "Volume": 11734.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-04",
+        "Open": 558.1,
+        "High": 582.4,
+        "Low": 551.0,
+        "Close": 572.1,
+        "Percent Change": 0.7,
+        "Volume": 29263.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-10-03",
+        "Open": 568.0,
+        "High": 580.0,
+        "Low": 568.0,
+        "Close": 568.1,
+        "Percent Change": -1.37,
+        "Volume": 11732.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-30",
+        "Open": 595.0,
+        "High": 595.0,
+        "Low": 574.0,
+        "Close": 576.0,
+        "Percent Change": -2.04,
+        "Volume": 14628.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-29",
+        "Open": 581.0,
+        "High": 591.9,
+        "Low": 560.0,
+        "Close": 588.0,
+        "Percent Change": 3.16,
+        "Volume": 21743.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-28",
+        "Open": 587.0,
+        "High": 610.0,
+        "Low": 567.1,
+        "Close": 570.0,
+        "Percent Change": -2.91,
+        "Volume": 26245.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-27",
+        "Open": 620.0,
+        "High": 632.4,
+        "Low": 585.1,
+        "Close": 587.1,
+        "Percent Change": -3.44,
+        "Volume": 24007.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-26",
+        "Open": 632.0,
+        "High": 632.0,
+        "Low": 600.0,
+        "Close": 608.0,
+        "Percent Change": -2.25,
+        "Volume": 28823.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-23",
+        "Open": 648.0,
+        "High": 648.0,
+        "Low": 619.4,
+        "Close": 622.0,
+        "Percent Change": -2.81,
+        "Volume": 22861.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-22",
+        "Open": 636.0,
+        "High": 647.0,
+        "Low": 630.0,
+        "Close": 640.0,
+        "Percent Change": 2.56,
+        "Volume": 54635.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-21",
+        "Open": 616.0,
+        "High": 649.0,
+        "Low": 601.1,
+        "Close": 624.0,
+        "Percent Change": -0.64,
+        "Volume": 35978.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-20",
+        "Open": 644.0,
+        "High": 644.0,
+        "Low": 620.1,
+        "Close": 628.0,
+        "Percent Change": -2.47,
+        "Volume": 49590.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-16",
+        "Open": 650.1,
+        "High": 659.0,
+        "Low": 632.0,
+        "Close": 643.9,
+        "Percent Change": -2.73,
+        "Volume": 45242.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-15",
+        "Open": 667.0,
+        "High": 686.0,
+        "Low": 661.6,
+        "Close": 662.0,
+        "Percent Change": -2.5,
+        "Volume": 25183.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-14",
+        "Open": 689.9,
+        "High": 690.0,
+        "Low": 675.0,
+        "Close": 679.0,
+        "Percent Change": -0.59,
+        "Volume": 21038.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-13",
+        "Open": 684.0,
+        "High": 695.0,
+        "Low": 672.7,
+        "Close": 683.0,
+        "Percent Change": -0.5,
+        "Volume": 52805.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-12",
+        "Open": 662.0,
+        "High": 691.0,
+        "Low": 661.5,
+        "Close": 686.4,
+        "Percent Change": 1.69,
+        "Volume": 35693.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-09",
+        "Open": 687.4,
+        "High": 701.0,
+        "Low": 660.1,
+        "Close": 675.0,
+        "Percent Change": 0.15,
+        "Volume": 18468.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-08",
+        "Open": 696.0,
+        "High": 696.0,
+        "Low": 671.6,
+        "Close": 674.0,
+        "Percent Change": -3.16,
+        "Volume": 17903.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-07",
+        "Open": 723.9,
+        "High": 723.9,
+        "Low": 682.0,
+        "Close": 696.0,
+        "Percent Change": -2.23,
+        "Volume": 37090.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-06",
+        "Open": 688.0,
+        "High": 715.0,
+        "Low": 665.0,
+        "Close": 711.9,
+        "Percent Change": 5.47,
+        "Volume": 73870.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-05",
+        "Open": 695.0,
+        "High": 698.0,
+        "Low": 657.0,
+        "Close": 675.0,
+        "Percent Change": -4.32,
+        "Volume": 55920.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-02",
+        "Open": 720.0,
+        "High": 733.9,
+        "Low": 705.0,
+        "Close": 705.5,
+        "Percent Change": -2.01,
+        "Volume": 57211.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-09-01",
+        "Open": 740.0,
+        "High": 749.0,
+        "Low": 713.1,
+        "Close": 720.0,
+        "Percent Change": -2.04,
+        "Volume": 66796.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-31",
+        "Open": 752.0,
+        "High": 755.1,
+        "Low": 730.0,
+        "Close": 735.0,
+        "Percent Change": -3.92,
+        "Volume": 33110.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-29",
+        "Open": 793.9,
+        "High": 793.9,
+        "Low": 755.0,
+        "Close": 765.0,
+        "Percent Change": -2.55,
+        "Volume": 25549.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-26",
+        "Open": 764.0,
+        "High": 785.0,
+        "Low": 760.1,
+        "Close": 785.0,
+        "Percent Change": 2.08,
+        "Volume": 43395.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-25",
+        "Open": 780.0,
+        "High": 787.0,
+        "Low": 765.0,
+        "Close": 769.0,
+        "Percent Change": -2.41,
+        "Volume": 28864.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-24",
+        "Open": 820.0,
+        "High": 820.0,
+        "Low": 775.0,
+        "Close": 788.0,
+        "Percent Change": -1.99,
+        "Volume": 67685.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-19",
+        "Open": 790.0,
+        "High": 840.0,
+        "Low": 784.0,
+        "Close": 804.0,
+        "Percent Change": 3.61,
+        "Volume": 115213.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-18",
+        "Open": 755.0,
+        "High": 785.4,
+        "Low": 755.0,
+        "Close": 776.0,
+        "Percent Change": 1.04,
+        "Volume": 41904.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-17",
+        "Open": 779.0,
+        "High": 793.0,
+        "Low": 767.3,
+        "Close": 768.0,
+        "Percent Change": -1.29,
+        "Volume": 45348.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-16",
+        "Open": 790.0,
+        "High": 790.0,
+        "Low": 762.0,
+        "Close": 778.0,
+        "Percent Change": 0.12,
+        "Volume": 33817.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-15",
+        "Open": 774.8,
+        "High": 794.0,
+        "Low": 774.8,
+        "Close": 777.1,
+        "Percent Change": -1.71,
+        "Volume": 39048.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-12",
+        "Open": 796.0,
+        "High": 805.0,
+        "Low": 789.0,
+        "Close": 790.6,
+        "Percent Change": -0.68,
+        "Volume": 52040.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-11",
+        "Open": 805.9,
+        "High": 812.0,
+        "Low": 792.0,
+        "Close": 796.0,
+        "Percent Change": -1.23,
+        "Volume": 38713.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-10",
+        "Open": 800.0,
+        "High": 811.0,
+        "Low": 790.0,
+        "Close": 805.9,
+        "Percent Change": 0.74,
+        "Volume": 59901.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-09",
+        "Open": 810.0,
+        "High": 813.0,
+        "Low": 795.0,
+        "Close": 800.0,
+        "Percent Change": -0.81,
+        "Volume": 66989.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-08",
+        "Open": 820.0,
+        "High": 820.0,
+        "Low": 802.1,
+        "Close": 806.5,
+        "Percent Change": -0.8,
+        "Volume": 52483.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-05",
+        "Open": 813.0,
+        "High": 828.0,
+        "Low": 810.0,
+        "Close": 813.0,
+        "Percent Change": 0.49,
+        "Volume": 106960.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-04",
+        "Open": 815.0,
+        "High": 818.0,
+        "Low": 801.0,
+        "Close": 809.0,
+        "Percent Change": -0.37,
+        "Volume": 83086.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-03",
+        "Open": 781.0,
+        "High": 825.0,
+        "Low": 778.0,
+        "Close": 812.0,
+        "Percent Change": 3.7,
+        "Volume": 141545.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-02",
+        "Open": 786.0,
+        "High": 795.0,
+        "Low": 778.0,
+        "Close": 783.0,
+        "Percent Change": -0.28,
+        "Volume": 46579.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-08-01",
+        "Open": 800.0,
+        "High": 800.0,
+        "Low": 784.2,
+        "Close": 785.2,
+        "Percent Change": -2.82,
+        "Volume": 89675.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-29",
+        "Open": 820.0,
+        "High": 828.0,
+        "Low": 796.0,
+        "Close": 808.0,
+        "Percent Change": -1.34,
+        "Volume": 110141.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-28",
+        "Open": 785.0,
+        "High": 826.2,
+        "Low": 776.0,
+        "Close": 819.0,
+        "Percent Change": 5.0,
+        "Volume": 163098.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-27",
+        "Open": 778.0,
+        "High": 790.0,
+        "Low": 771.0,
+        "Close": 780.0,
+        "Percent Change": 0.26,
+        "Volume": 29290.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-26",
+        "Open": 800.7,
+        "High": 800.7,
+        "Low": 776.0,
+        "Close": 778.0,
+        "Percent Change": -0.89,
+        "Volume": 13985.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-25",
+        "Open": 775.0,
+        "High": 785.0,
+        "Low": 765.0,
+        "Close": 785.0,
+        "Percent Change": 0.77,
+        "Volume": 21724.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-22",
+        "Open": 786.0,
+        "High": 791.0,
+        "Low": 778.0,
+        "Close": 779.0,
+        "Percent Change": -0.64,
+        "Volume": 12276.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-20",
+        "Open": 783.0,
+        "High": 796.0,
+        "Low": 781.0,
+        "Close": 784.0,
+        "Percent Change": -1.63,
+        "Volume": 9507.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-19",
+        "Open": 799.0,
+        "High": 814.0,
+        "Low": 793.0,
+        "Close": 797.0,
+        "Percent Change": 1.72,
+        "Volume": 18873.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-18",
+        "Open": 774.0,
+        "High": 795.0,
+        "Low": 771.0,
+        "Close": 783.5,
+        "Percent Change": 3.23,
+        "Volume": 16096.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-15",
+        "Open": 760.0,
+        "High": 770.0,
+        "Low": 756.0,
+        "Close": 759.0,
+        "Percent Change": -0.39,
+        "Volume": 20890.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-14",
+        "Open": 762.0,
+        "High": 775.0,
+        "Low": 757.0,
+        "Close": 762.0,
+        "Percent Change": -1.04,
+        "Volume": 8210.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-13",
+        "Open": 780.0,
+        "High": 785.0,
+        "Low": 762.0,
+        "Close": 770.0,
+        "Percent Change": 0.26,
+        "Volume": 7648.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-12",
+        "Open": 802.0,
+        "High": 802.0,
+        "Low": 762.0,
+        "Close": 768.0,
+        "Percent Change": -2.54,
+        "Volume": 11211.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-11",
+        "Open": 770.0,
+        "High": 789.0,
+        "Low": 770.0,
+        "Close": 788.0,
+        "Percent Change": 3.68,
+        "Volume": 7292.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-08",
+        "Open": 746.0,
+        "High": 765.0,
+        "Low": 746.0,
+        "Close": 760.0,
+        "Percent Change": 0.13,
+        "Volume": 12471.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-07",
+        "Open": 763.0,
+        "High": 770.0,
+        "Low": 755.0,
+        "Close": 759.0,
+        "Percent Change": -0.78,
+        "Volume": 15674.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-06",
+        "Open": 762.0,
+        "High": 777.0,
+        "Low": 757.0,
+        "Close": 765.0,
+        "Percent Change": 0.39,
+        "Volume": 12548.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-05",
+        "Open": 763.0,
+        "High": 769.0,
+        "Low": 760.0,
+        "Close": 762.0,
+        "Percent Change": -1.55,
+        "Volume": 10264.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-04",
+        "Open": 775.0,
+        "High": 779.0,
+        "Low": 765.0,
+        "Close": 774.0,
+        "Percent Change": 0.65,
+        "Volume": 19499.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-07-01",
+        "Open": 777.0,
+        "High": 778.0,
+        "Low": 768.0,
+        "Close": 769.0,
+        "Percent Change": 0.92,
+        "Volume": 14222.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-30",
+        "Open": 768.0,
+        "High": 768.0,
+        "Low": 746.0,
+        "Close": 762.0,
+        "Percent Change": 0.53,
+        "Volume": 21630.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-29",
+        "Open": 780.0,
+        "High": 784.0,
+        "Low": 758.0,
+        "Close": 758.0,
+        "Percent Change": -1.56,
+        "Volume": 15741.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-28",
+        "Open": 767.0,
+        "High": 784.0,
+        "Low": 767.0,
+        "Close": 770.0,
+        "Percent Change": 0.13,
+        "Volume": 13324.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-27",
+        "Open": 773.0,
+        "High": 779.0,
+        "Low": 768.0,
+        "Close": 769.0,
+        "Percent Change": -0.52,
+        "Volume": 18124.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-24",
+        "Open": 790.0,
+        "High": 790.0,
+        "Low": 773.0,
+        "Close": 773.0,
+        "Percent Change": -1.65,
+        "Volume": 19170.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-23",
+        "Open": 820.0,
+        "High": 820.0,
+        "Low": 785.0,
+        "Close": 786.0,
+        "Percent Change": -3.56,
+        "Volume": 33244.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-22",
+        "Open": 777.0,
+        "High": 815.0,
+        "Low": 777.0,
+        "Close": 815.0,
+        "Percent Change": 4.89,
+        "Volume": 38792.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-21",
+        "Open": 800.0,
+        "High": 813.0,
+        "Low": 775.0,
+        "Close": 777.0,
+        "Percent Change": -3.36,
+        "Volume": 57554.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-20",
+        "Open": 820.0,
+        "High": 825.0,
+        "Low": 796.0,
+        "Close": 804.0,
+        "Percent Change": -1.95,
+        "Volume": 31998.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-17",
+        "Open": 815.0,
+        "High": 837.0,
+        "Low": 810.0,
+        "Close": 820.0,
+        "Percent Change": 1.11,
+        "Volume": 47246.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-16",
+        "Open": 840.0,
+        "High": 840.0,
+        "Low": 800.0,
+        "Close": 811.0,
+        "Percent Change": -3.8,
+        "Volume": 81330.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-15",
+        "Open": 860.0,
+        "High": 870.0,
+        "Low": 840.0,
+        "Close": 843.0,
+        "Percent Change": -1.4,
+        "Volume": 58480.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-14",
+        "Open": 858.0,
+        "High": 875.0,
+        "Low": 845.0,
+        "Close": 855.0,
+        "Percent Change": 1.54,
+        "Volume": 64896.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-13",
+        "Open": 862.0,
+        "High": 862.0,
+        "Low": 838.0,
+        "Close": 842.0,
+        "Percent Change": -0.47,
+        "Volume": 50771.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-10",
+        "Open": 879.0,
+        "High": 890.0,
+        "Low": 846.0,
+        "Close": 846.0,
+        "Percent Change": -2.08,
+        "Volume": 66527.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-09",
+        "Open": 880.0,
+        "High": 901.0,
+        "Low": 855.0,
+        "Close": 864.0,
+        "Percent Change": 0.0,
+        "Volume": 113832.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-08",
+        "Open": 835.0,
+        "High": 868.0,
+        "Low": 835.0,
+        "Close": 864.0,
+        "Percent Change": 3.85,
+        "Volume": 100547.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-07",
+        "Open": 835.0,
+        "High": 845.0,
+        "Low": 830.0,
+        "Close": 832.0,
+        "Percent Change": -0.48,
+        "Volume": 40756.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-06",
+        "Open": 849.0,
+        "High": 849.0,
+        "Low": 832.0,
+        "Close": 836.0,
+        "Percent Change": -1.07,
+        "Volume": 44898.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-03",
+        "Open": 869.0,
+        "High": 873.0,
+        "Low": 840.0,
+        "Close": 845.0,
+        "Percent Change": -0.94,
+        "Volume": 101647.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-02",
+        "Open": 871.0,
+        "High": 871.0,
+        "Low": 816.0,
+        "Close": 853.0,
+        "Percent Change": 2.77,
+        "Volume": 112756.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-06-01",
+        "Open": 830.0,
+        "High": 855.0,
+        "Low": 820.0,
+        "Close": 830.0,
+        "Percent Change": -1.54,
+        "Volume": 59703.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-31",
+        "Open": 868.0,
+        "High": 880.0,
+        "Low": 835.0,
+        "Close": 843.0,
+        "Percent Change": -1.98,
+        "Volume": 105243.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-30",
+        "Open": 861.0,
+        "High": 882.0,
+        "Low": 849.0,
+        "Close": 860.0,
+        "Percent Change": 0.12,
+        "Volume": 157202.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-27",
+        "Open": 830.0,
+        "High": 879.0,
+        "Low": 830.0,
+        "Close": 859.0,
+        "Percent Change": -1.6,
+        "Volume": 125263.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-25",
+        "Open": 770.0,
+        "High": 891.0,
+        "Low": 770.0,
+        "Close": 873.0,
+        "Percent Change": 7.78,
+        "Volume": 306098.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-24",
+        "Open": 829.0,
+        "High": 829.0,
+        "Low": 804.0,
+        "Close": 810.0,
+        "Percent Change": -0.49,
+        "Volume": 67217.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-23",
+        "Open": 788.0,
+        "High": 828.0,
+        "Low": 773.0,
+        "Close": 814.0,
+        "Percent Change": 1.5,
+        "Volume": 87421.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-20",
+        "Open": 805.0,
+        "High": 815.0,
+        "Low": 800.0,
+        "Close": 802.0,
+        "Percent Change": -0.99,
+        "Volume": 36623.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-19",
+        "Open": 840.0,
+        "High": 840.0,
+        "Low": 802.0,
+        "Close": 810.0,
+        "Percent Change": -1.7,
+        "Volume": 96296.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-18",
+        "Open": 805.0,
+        "High": 829.0,
+        "Low": 788.0,
+        "Close": 824.0,
+        "Percent Change": 2.74,
+        "Volume": 132162.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-17",
+        "Open": 820.0,
+        "High": 828.0,
+        "Low": 795.0,
+        "Close": 802.0,
+        "Percent Change": -1.47,
+        "Volume": 83148.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-16",
+        "Open": 800.0,
+        "High": 815.0,
+        "Low": 792.0,
+        "Close": 814.0,
+        "Percent Change": 3.17,
+        "Volume": 129894.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-13",
+        "Open": 800.0,
+        "High": 800.0,
+        "Low": 768.0,
+        "Close": 789.0,
+        "Percent Change": 2.87,
+        "Volume": 81027.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-12",
+        "Open": 765.0,
+        "High": 767.0,
+        "Low": 756.0,
+        "Close": 767.0,
+        "Percent Change": 1.05,
+        "Volume": 39502.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-11",
+        "Open": 762.0,
+        "High": 765.0,
+        "Low": 755.0,
+        "Close": 759.0,
+        "Percent Change": 0.53,
+        "Volume": 10541.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-10",
+        "Open": 730.0,
+        "High": 758.0,
+        "Low": 730.0,
+        "Close": 755.0,
+        "Percent Change": 1.48,
+        "Volume": 8780.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-09",
+        "Open": 746.0,
+        "High": 760.0,
+        "Low": 743.0,
+        "Close": 744.0,
+        "Percent Change": -1.72,
+        "Volume": 21505.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-06",
+        "Open": 764.0,
+        "High": 770.0,
+        "Low": 757.0,
+        "Close": 757.0,
+        "Percent Change": -1.69,
+        "Volume": 21896.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-05",
+        "Open": 771.0,
+        "High": 785.0,
+        "Low": 758.0,
+        "Close": 770.0,
+        "Percent Change": 0.0,
+        "Volume": 19191.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-04",
+        "Open": 774.0,
+        "High": 782.0,
+        "Low": 766.0,
+        "Close": 770.0,
+        "Percent Change": -0.52,
+        "Volume": 19293.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-03",
+        "Open": 785.0,
+        "High": 803.0,
+        "Low": 760.0,
+        "Close": 774.0,
+        "Percent Change": 0.0,
+        "Volume": 33104.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-05-02",
+        "Open": 750.0,
+        "High": 782.0,
+        "Low": 735.0,
+        "Close": 774.0,
+        "Percent Change": 5.16,
+        "Volume": 56679.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-29",
+        "Open": 730.0,
+        "High": 742.0,
+        "Low": 726.0,
+        "Close": 736.0,
+        "Percent Change": 0.82,
+        "Volume": 10894.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-28",
+        "Open": 730.0,
+        "High": 743.0,
+        "Low": 716.0,
+        "Close": 730.0,
+        "Percent Change": 0.0,
+        "Volume": 10598.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-27",
+        "Open": 707.0,
+        "High": 748.0,
+        "Low": 707.0,
+        "Close": 730.0,
+        "Percent Change": 3.25,
+        "Volume": 23435.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-26",
+        "Open": 718.0,
+        "High": 749.0,
+        "Low": 704.0,
+        "Close": 707.0,
+        "Percent Change": -3.42,
+        "Volume": 48636.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-25",
+        "Open": 732.0,
+        "High": 740.0,
+        "Low": 725.0,
+        "Close": 732.0,
+        "Percent Change": -1.35,
+        "Volume": 36856.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-22",
+        "Open": 760.0,
+        "High": 760.0,
+        "Low": 739.0,
+        "Close": 742.0,
+        "Percent Change": -1.07,
+        "Volume": 39055.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-21",
+        "Open": 766.0,
+        "High": 781.0,
+        "Low": 736.0,
+        "Close": 750.0,
+        "Percent Change": -1.96,
+        "Volume": 70974.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-20",
+        "Open": 764.0,
+        "High": 771.0,
+        "Low": 735.0,
+        "Close": 765.0,
+        "Percent Change": 1.19,
+        "Volume": 25508.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-19",
+        "Open": 764.0,
+        "High": 770.0,
+        "Low": 755.0,
+        "Close": 756.0,
+        "Percent Change": -1.56,
+        "Volume": 20304.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-18",
+        "Open": 822.0,
+        "High": 822.0,
+        "Low": 765.0,
+        "Close": 768.0,
+        "Percent Change": -2.17,
+        "Volume": 16641.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-15",
+        "Open": 770.0,
+        "High": 786.0,
+        "Low": 765.0,
+        "Close": 785.0,
+        "Percent Change": 1.95,
+        "Volume": 36287.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-13",
+        "Open": 775.0,
+        "High": 775.0,
+        "Low": 765.0,
+        "Close": 770.0,
+        "Percent Change": -0.39,
+        "Volume": 21020.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-12",
+        "Open": 763.0,
+        "High": 775.0,
+        "Low": 763.0,
+        "Close": 773.0,
+        "Percent Change": 0.39,
+        "Volume": 25973.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-08",
+        "Open": 775.0,
+        "High": 775.0,
+        "Low": 758.0,
+        "Close": 769.0,
+        "Percent Change": 1.05,
+        "Volume": 18111.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-07",
+        "Open": 770.0,
+        "High": 780.0,
+        "Low": 758.0,
+        "Close": 761.0,
+        "Percent Change": -1.55,
+        "Volume": 31732.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-06",
+        "Open": 769.0,
+        "High": 787.0,
+        "Low": 762.0,
+        "Close": 773.0,
+        "Percent Change": -1.4,
+        "Volume": 34821.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-05",
+        "Open": 799.0,
+        "High": 802.0,
+        "Low": 775.0,
+        "Close": 784.0,
+        "Percent Change": -0.38,
+        "Volume": 42279.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-04",
+        "Open": 809.0,
+        "High": 809.0,
+        "Low": 764.0,
+        "Close": 787.0,
+        "Percent Change": 2.08,
+        "Volume": 42176.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-04-01",
+        "Open": 771.0,
+        "High": 785.0,
+        "Low": 757.0,
+        "Close": 771.0,
+        "Percent Change": 1.98,
+        "Volume": 63573.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-31",
+        "Open": 732.0,
+        "High": 761.0,
+        "Low": 732.0,
+        "Close": 756.0,
+        "Percent Change": 3.56,
+        "Volume": 56503.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-30",
+        "Open": 734.0,
+        "High": 740.0,
+        "Low": 719.0,
+        "Close": 730.0,
+        "Percent Change": 1.39,
+        "Volume": 34415.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-29",
+        "Open": 730.0,
+        "High": 730.0,
+        "Low": 716.0,
+        "Close": 720.0,
+        "Percent Change": -0.14,
+        "Volume": 15160.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-25",
+        "Open": 732.0,
+        "High": 738.0,
+        "Low": 719.0,
+        "Close": 721.0,
+        "Percent Change": -1.23,
+        "Volume": 17672.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-24",
+        "Open": 725.0,
+        "High": 731.0,
+        "Low": 722.0,
+        "Close": 730.0,
+        "Percent Change": 0.83,
+        "Volume": 16161.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-23",
+        "Open": 720.0,
+        "High": 733.0,
+        "Low": 719.0,
+        "Close": 724.0,
+        "Percent Change": -0.96,
+        "Volume": 17342.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-22",
+        "Open": 767.0,
+        "High": 767.0,
+        "Low": 725.0,
+        "Close": 731.0,
+        "Percent Change": -2.92,
+        "Volume": 34047.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-21",
+        "Open": 728.0,
+        "High": 755.0,
+        "Low": 711.0,
+        "Close": 753.0,
+        "Percent Change": 3.86,
+        "Volume": 30847.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-18",
+        "Open": 707.0,
+        "High": 726.0,
+        "Low": 700.0,
+        "Close": 725.0,
+        "Percent Change": 4.32,
+        "Volume": 24831.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-17",
+        "Open": 690.0,
+        "High": 695.0,
+        "Low": 676.0,
+        "Close": 695.0,
+        "Percent Change": 2.21,
+        "Volume": 22042.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-16",
+        "Open": 679.0,
+        "High": 680.0,
+        "Low": 666.0,
+        "Close": 680.0,
+        "Percent Change": 2.1,
+        "Volume": 17811.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-15",
+        "Open": 670.0,
+        "High": 688.0,
+        "Low": 663.0,
+        "Close": 666.0,
+        "Percent Change": -2.49,
+        "Volume": 29536.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-14",
+        "Open": 708.0,
+        "High": 708.0,
+        "Low": 679.0,
+        "Close": 683.0,
+        "Percent Change": -3.53,
+        "Volume": 33869.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-10",
+        "Open": 702.0,
+        "High": 712.0,
+        "Low": 702.0,
+        "Close": 708.0,
+        "Percent Change": -0.28,
+        "Volume": 14373.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-09",
+        "Open": 705.0,
+        "High": 726.0,
+        "Low": 704.0,
+        "Close": 710.0,
+        "Percent Change": -0.28,
+        "Volume": 15669.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-08",
+        "Open": 735.0,
+        "High": 747.0,
+        "Low": 712.0,
+        "Close": 712.0,
+        "Percent Change": -3.39,
+        "Volume": 12918.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-04",
+        "Open": 720.0,
+        "High": 737.0,
+        "Low": 710.0,
+        "Close": 737.0,
+        "Percent Change": 3.8,
+        "Volume": 32200.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-03",
+        "Open": 716.0,
+        "High": 740.0,
+        "Low": 698.0,
+        "Close": 710.0,
+        "Percent Change": -2.47,
+        "Volume": 48499.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-02",
+        "Open": 755.0,
+        "High": 760.0,
+        "Low": 718.0,
+        "Close": 728.0,
+        "Percent Change": -4.21,
+        "Volume": 36163.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-03-01",
+        "Open": 740.0,
+        "High": 765.0,
+        "Low": 718.0,
+        "Close": 760.0,
+        "Percent Change": 0.0,
+        "Volume": 49538.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-28",
+        "Open": 775.0,
+        "High": 775.0,
+        "Low": 733.0,
+        "Close": 740.0,
+        "Percent Change": -4.39,
+        "Volume": 58564.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-25",
+        "Open": 791.0,
+        "High": 791.0,
+        "Low": 765.0,
+        "Close": 774.0,
+        "Percent Change": 0.0,
+        "Volume": 28097.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-24",
+        "Open": 767.0,
+        "High": 808.0,
+        "Low": 767.0,
+        "Close": 791.0,
+        "Percent Change": 3.13,
+        "Volume": 44480.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-23",
+        "Open": 771.0,
+        "High": 779.0,
+        "Low": 750.0,
+        "Close": 767.0,
+        "Percent Change": -1.29,
+        "Volume": 52517.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-22",
+        "Open": 797.0,
+        "High": 797.0,
+        "Low": 773.0,
+        "Close": 777.0,
+        "Percent Change": -2.51,
+        "Volume": 44403.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-21",
+        "Open": 825.0,
+        "High": 828.0,
+        "Low": 796.0,
+        "Close": 797.0,
+        "Percent Change": -0.02,
+        "Volume": 42566.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-18",
+        "Open": 808.0,
+        "High": 817.0,
+        "Low": 800.0,
+        "Close": 816.0,
+        "Percent Change": 0.01,
+        "Volume": 37369.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-17",
+        "Open": 820.0,
+        "High": 822.0,
+        "Low": 802.0,
+        "Close": 808.0,
+        "Percent Change": -0.02,
+        "Volume": 42831.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-16",
+        "Open": 850.0,
+        "High": 850.0,
+        "Low": 815.0,
+        "Close": 823.0,
+        "Percent Change": -0.02,
+        "Volume": 61722.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-15",
+        "Open": 810.0,
+        "High": 842.0,
+        "Low": 810.0,
+        "Close": 842.0,
+        "Percent Change": 0.05,
+        "Volume": 71114.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-14",
+        "Open": 824.0,
+        "High": 835.0,
+        "Low": 799.0,
+        "Close": 802.0,
+        "Percent Change": -0.03,
+        "Volume": 44614.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-11",
+        "Open": 840.0,
+        "High": 844.0,
+        "Low": 816.0,
+        "Close": 825.0,
+        "Percent Change": -0.02,
+        "Volume": 107786.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-08",
+        "Open": 874.0,
+        "High": 890.0,
+        "Low": 836.0,
+        "Close": 838.0,
+        "Percent Change": -0.02,
+        "Volume": 81833.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-07",
+        "Open": 840.0,
+        "High": 858.0,
+        "Low": 816.0,
+        "Close": 858.0,
+        "Percent Change": 0.04,
+        "Volume": 111954.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-04",
+        "Open": 840.0,
+        "High": 857.0,
+        "Low": 808.0,
+        "Close": 825.0,
+        "Percent Change": 0.0,
+        "Volume": 52368.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-03",
+        "Open": 856.0,
+        "High": 890.0,
+        "Low": 816.0,
+        "Close": 825.0,
+        "Percent Change": -0.02,
+        "Volume": 99935.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-02",
+        "Open": 814.0,
+        "High": 877.0,
+        "Low": 814.0,
+        "Close": 841.0,
+        "Percent Change": 0.05,
+        "Volume": 120396.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-02-01",
+        "Open": 793.0,
+        "High": 811.0,
+        "Low": 792.0,
+        "Close": 799.0,
+        "Percent Change": 0.01,
+        "Volume": 56176.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-31",
+        "Open": 810.0,
+        "High": 815.0,
+        "Low": 786.0,
+        "Close": 791.0,
+        "Percent Change": -0.02,
+        "Volume": 83240.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-28",
+        "Open": 783.0,
+        "High": 848.0,
+        "Low": 783.0,
+        "Close": 810.0,
+        "Percent Change": 0.04,
+        "Volume": 150912.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-27",
+        "Open": 783.0,
+        "High": 800.0,
+        "Low": 763.0,
+        "Close": 782.0,
+        "Percent Change": 0.01,
+        "Volume": 70061.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-26",
+        "Open": 814.0,
+        "High": 814.0,
+        "Low": 775.0,
+        "Close": 778.0,
+        "Percent Change": -0.03,
+        "Volume": 91580.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-25",
+        "Open": 792.0,
+        "High": 825.0,
+        "Low": 780.0,
+        "Close": 799.0,
+        "Percent Change": 0.01,
+        "Volume": 187358.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-24",
+        "Open": 734.0,
+        "High": 792.0,
+        "Low": 732.0,
+        "Close": 792.0,
+        "Percent Change": 0.1,
+        "Volume": 177665.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-21",
+        "Open": 680.0,
+        "High": 723.0,
+        "Low": 675.0,
+        "Close": 720.0,
+        "Percent Change": 0.06,
+        "Volume": 143085.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-20",
+        "Open": 675.0,
+        "High": 680.0,
+        "Low": 664.0,
+        "Close": 679.0,
+        "Percent Change": 0.0,
+        "Volume": 54789.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-19",
+        "Open": 692.0,
+        "High": 700.0,
+        "Low": 663.0,
+        "Close": 677.0,
+        "Percent Change": -0.01,
+        "Volume": 50588.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-18",
+        "Open": 700.0,
+        "High": 700.0,
+        "Low": 660.0,
+        "Close": 685.0,
+        "Percent Change": 0.03,
+        "Volume": 136673.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-17",
+        "Open": 680.0,
+        "High": 680.0,
+        "Low": 655.0,
+        "Close": 667.0,
+        "Percent Change": 0.0,
+        "Volume": 54698.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-13",
+        "Open": 655.0,
+        "High": 669.0,
+        "Low": 655.0,
+        "Close": 664.0,
+        "Percent Change": 0.03,
+        "Volume": 93498.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-12",
+        "Open": 623.0,
+        "High": 648.0,
+        "Low": 623.0,
+        "Close": 647.0,
+        "Percent Change": 0.03,
+        "Volume": 74285.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-11",
+        "Open": 635.0,
+        "High": 637.0,
+        "Low": 624.0,
+        "Close": 629.0,
+        "Percent Change": -0.01,
+        "Volume": 35320.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-10",
+        "Open": 633.0,
+        "High": 640.0,
+        "Low": 630.0,
+        "Close": 633.0,
+        "Percent Change": 0.0,
+        "Volume": 34329.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-07",
+        "Open": 625.0,
+        "High": 639.0,
+        "Low": 622.0,
+        "Close": 630.0,
+        "Percent Change": 0.01,
+        "Volume": 64386.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-06",
+        "Open": 625.0,
+        "High": 628.0,
+        "Low": 616.0,
+        "Close": 622.0,
+        "Percent Change": 0.01,
+        "Volume": 13821.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-05",
+        "Open": 625.0,
+        "High": 627.0,
+        "Low": 615.0,
+        "Close": 616.0,
+        "Percent Change": -0.02,
+        "Volume": 11138.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-04",
+        "Open": 637.0,
+        "High": 637.0,
+        "Low": 620.0,
+        "Close": 626.0,
+        "Percent Change": 0.0,
+        "Volume": 40605.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2021-01-03",
+        "Open": 613.0,
+        "High": 632.0,
+        "Low": 613.0,
+        "Close": 625.0,
+        "Percent Change": 0.02,
+        "Volume": 27111.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-31",
+        "Open": 615.0,
+        "High": 623.0,
+        "Low": 608.0,
+        "Close": 613.0,
+        "Percent Change": -0.0,
+        "Volume": 51952.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-30",
+        "Open": 612.0,
+        "High": 624.0,
+        "Low": 612.0,
+        "Close": 616.0,
+        "Percent Change": -0.0,
+        "Volume": 20985.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-29",
+        "Open": 615.0,
+        "High": 624.0,
+        "Low": 614.0,
+        "Close": 617.0,
+        "Percent Change": -0.0,
+        "Volume": 13470.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-28",
+        "Open": 601.0,
+        "High": 632.0,
+        "Low": 600.0,
+        "Close": 619.0,
+        "Percent Change": 0.01,
+        "Volume": 14878.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-27",
+        "Open": 614.0,
+        "High": 635.0,
+        "Low": 611.0,
+        "Close": 612.0,
+        "Percent Change": -0.02,
+        "Volume": 23476.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-24",
+        "Open": 638.0,
+        "High": 638.0,
+        "Low": 626.0,
+        "Close": 626.0,
+        "Percent Change": -0.02,
+        "Volume": 8854.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-23",
+        "Open": 676.0,
+        "High": 676.0,
+        "Low": 639.0,
+        "Close": 640.0,
+        "Percent Change": -0.01,
+        "Volume": 71698.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-22",
+        "Open": 631.0,
+        "High": 645.0,
+        "Low": 615.0,
+        "Close": 644.0,
+        "Percent Change": 0.04,
+        "Volume": 58761.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-21",
+        "Open": 593.0,
+        "High": 625.0,
+        "Low": 582.0,
+        "Close": 619.0,
+        "Percent Change": 0.02,
+        "Volume": 67893.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-20",
+        "Open": 645.0,
+        "High": 649.0,
+        "Low": 603.0,
+        "Close": 606.0,
+        "Percent Change": -0.06,
+        "Volume": 71509.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-17",
+        "Open": 650.0,
+        "High": 666.0,
+        "Low": 641.0,
+        "Close": 643.0,
+        "Percent Change": -0.02,
+        "Volume": 45325.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-16",
+        "Open": 658.0,
+        "High": 662.0,
+        "Low": 652.0,
+        "Close": 654.0,
+        "Percent Change": -0.01,
+        "Volume": 54807.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-15",
+        "Open": 668.0,
+        "High": 677.0,
+        "Low": 650.0,
+        "Close": 660.0,
+        "Percent Change": 0.01,
+        "Volume": 114100.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-14",
+        "Open": 639.0,
+        "High": 662.0,
+        "Low": 628.0,
+        "Close": 655.0,
+        "Percent Change": 0.04,
+        "Volume": 138922.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-13",
+        "Open": 630.0,
+        "High": 630.0,
+        "Low": 618.0,
+        "Close": 627.0,
+        "Percent Change": 0.01,
+        "Volume": 30728.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-10",
+        "Open": 615.0,
+        "High": 627.0,
+        "Low": 606.0,
+        "Close": 618.0,
+        "Percent Change": 0.0,
+        "Volume": 36753.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-09",
+        "Open": 621.0,
+        "High": 630.0,
+        "Low": 610.0,
+        "Close": 615.0,
+        "Percent Change": -0.01,
+        "Volume": 64167.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-08",
+        "Open": 621.0,
+        "High": 644.0,
+        "Low": 620.0,
+        "Close": 621.0,
+        "Percent Change": -0.01,
+        "Volume": 118360.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-07",
+        "Open": 610.0,
+        "High": 630.0,
+        "Low": 591.0,
+        "Close": 625.0,
+        "Percent Change": 0.04,
+        "Volume": 70669.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-06",
+        "Open": 630.0,
+        "High": 630.0,
+        "Low": 598.0,
+        "Close": 600.0,
+        "Percent Change": -0.06,
+        "Volume": 69837.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-03",
+        "Open": 668.0,
+        "High": 681.0,
+        "Low": 634.0,
+        "Close": 635.0,
+        "Percent Change": -0.03,
+        "Volume": 100794.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-02",
+        "Open": 612.0,
+        "High": 655.0,
+        "Low": 610.0,
+        "Close": 655.0,
+        "Percent Change": 0.07,
+        "Volume": 187818.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-12-01",
+        "Open": 625.0,
+        "High": 633.0,
+        "Low": 609.0,
+        "Close": 615.0,
+        "Percent Change": -0.01,
+        "Volume": 49770.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-30",
+        "Open": 610.0,
+        "High": 636.0,
+        "Low": 600.0,
+        "Close": 624.0,
+        "Percent Change": 0.04,
+        "Volume": 115401.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-29",
+        "Open": 606.0,
+        "High": 606.0,
+        "Low": 591.0,
+        "Close": 599.0,
+        "Percent Change": 0.01,
+        "Volume": 47536.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-26",
+        "Open": 620.0,
+        "High": 620.0,
+        "Low": 595.0,
+        "Close": 595.0,
+        "Percent Change": -0.03,
+        "Volume": 52282.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-25",
+        "Open": 620.0,
+        "High": 620.0,
+        "Low": 609.0,
+        "Close": 614.0,
+        "Percent Change": 0.01,
+        "Volume": 26398.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-24",
+        "Open": 595.0,
+        "High": 614.0,
+        "Low": 595.0,
+        "Close": 610.0,
+        "Percent Change": 0.01,
+        "Volume": 40551.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-23",
+        "Open": 612.0,
+        "High": 617.0,
+        "Low": 600.0,
+        "Close": 602.0,
+        "Percent Change": -0.02,
+        "Volume": 36733.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-22",
+        "Open": 644.0,
+        "High": 644.0,
+        "Low": 604.0,
+        "Close": 612.0,
+        "Percent Change": -0.03,
+        "Volume": 67264.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-19",
+        "Open": 622.0,
+        "High": 635.0,
+        "Low": 619.0,
+        "Close": 632.0,
+        "Percent Change": 0.0,
+        "Volume": 71423.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-18",
+        "Open": 595.0,
+        "High": 619.0,
+        "Low": 591.0,
+        "Close": 615.0,
+        "Percent Change": 0.0,
+        "Volume": 51793.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-12",
+        "Open": 610.0,
+        "High": 610.0,
+        "Low": 596.0,
+        "Close": 597.0,
+        "Percent Change": -0.0,
+        "Volume": 27846.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-11",
+        "Open": 608.0,
+        "High": 615.0,
+        "Low": 602.0,
+        "Close": 604.0,
+        "Percent Change": -0.66,
+        "Volume": 45915.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-10",
+        "Open": 584.0,
+        "High": 608.0,
+        "Low": 584.0,
+        "Close": 608.0,
+        "Percent Change": 4.11,
+        "Volume": 72586.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-09",
+        "Open": 588.0,
+        "High": 595.0,
+        "Low": 572.0,
+        "Close": 584.0,
+        "Percent Change": 0.17,
+        "Volume": 40056.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-08",
+        "Open": 585.0,
+        "High": 590.0,
+        "Low": 575.0,
+        "Close": 583.0,
+        "Percent Change": -0.85,
+        "Volume": 35085.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-05",
+        "Open": 600.0,
+        "High": 600.0,
+        "Low": 578.0,
+        "Close": 588.0,
+        "Percent Change": 1.96,
+        "Volume": 41779.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-04",
+        "Open": 608.0,
+        "High": 611.0,
+        "Low": 605.0,
+        "Close": 607.0,
+        "Percent Change": 0.17,
+        "Volume": 80756.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-03",
+        "Open": 605.0,
+        "High": 610.0,
+        "Low": 600.0,
+        "Close": 606.0,
+        "Percent Change": -1.78,
+        "Volume": 77530.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-02",
+        "Open": 620.0,
+        "High": 622.0,
+        "Low": 616.0,
+        "Close": 617.0,
+        "Percent Change": -0.48,
+        "Volume": 7351.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-11-01",
+        "Open": 622.0,
+        "High": 625.0,
+        "Low": 615.0,
+        "Close": 620.0,
+        "Percent Change": 0.0,
+        "Volume": 7609.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-29",
+        "Open": 625.0,
+        "High": 625.0,
+        "Low": 615.0,
+        "Close": 620.0,
+        "Percent Change": 0.49,
+        "Volume": 6558.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-28",
+        "Open": 610.0,
+        "High": 619.0,
+        "Low": 607.0,
+        "Close": 617.0,
+        "Percent Change": 0.49,
+        "Volume": 10530.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-22",
+        "Open": 620.0,
+        "High": 629.0,
+        "Low": 614.0,
+        "Close": 614.0,
+        "Percent Change": -2.23,
+        "Volume": 14822.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-21",
+        "Open": 625.0,
+        "High": 633.0,
+        "Low": 621.0,
+        "Close": 628.0,
+        "Percent Change": 0.48,
+        "Volume": 7977.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-20",
+        "Open": 625.0,
+        "High": 632.0,
+        "Low": 613.0,
+        "Close": 625.0,
+        "Percent Change": 2.46,
+        "Volume": 22091.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-19",
+        "Open": 602.0,
+        "High": 610.0,
+        "Low": 599.0,
+        "Close": 610.0,
+        "Percent Change": 1.5,
+        "Volume": 12523.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-18",
+        "Open": 600.0,
+        "High": 603.0,
+        "Low": 598.0,
+        "Close": 601.0,
+        "Percent Change": -0.99,
+        "Volume": 8778.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-15",
+        "Open": 610.0,
+        "High": 621.0,
+        "Low": 603.0,
+        "Close": 607.0,
+        "Percent Change": -0.16,
+        "Volume": 8757.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-14",
+        "Open": 607.0,
+        "High": 612.0,
+        "Low": 600.0,
+        "Close": 608.0,
+        "Percent Change": -0.33,
+        "Volume": 12587.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-13",
+        "Open": 625.0,
+        "High": 625.0,
+        "Low": 608.0,
+        "Close": 610.0,
+        "Percent Change": -0.65,
+        "Volume": 12154.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-12",
+        "Open": 606.0,
+        "High": 618.0,
+        "Low": 606.0,
+        "Close": 614.0,
+        "Percent Change": -0.16,
+        "Volume": 8740.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-11",
+        "Open": 622.0,
+        "High": 630.0,
+        "Low": 615.0,
+        "Close": 615.0,
+        "Percent Change": -1.13,
+        "Volume": 5165.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-08",
+        "Open": 615.0,
+        "High": 625.0,
+        "Low": 615.0,
+        "Close": 622.0,
+        "Percent Change": -0.16,
+        "Volume": 9610.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-07",
+        "Open": 618.0,
+        "High": 629.0,
+        "Low": 615.0,
+        "Close": 623.0,
+        "Percent Change": 0.48,
+        "Volume": 9230.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-06",
+        "Open": 625.0,
+        "High": 625.0,
+        "Low": 619.0,
+        "Close": 620.0,
+        "Percent Change": -1.12,
+        "Volume": 5735.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-05",
+        "Open": 640.0,
+        "High": 640.0,
+        "Low": 626.0,
+        "Close": 627.0,
+        "Percent Change": -2.03,
+        "Volume": 12644.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-04",
+        "Open": 647.0,
+        "High": 647.0,
+        "Low": 636.0,
+        "Close": 640.0,
+        "Percent Change": 0.63,
+        "Volume": 23689.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-10-01",
+        "Open": 614.0,
+        "High": 636.0,
+        "Low": 613.0,
+        "Close": 636.0,
+        "Percent Change": 4.09,
+        "Volume": 28461.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-30",
+        "Open": 612.0,
+        "High": 614.0,
+        "Low": 608.0,
+        "Close": 611.0,
+        "Percent Change": -0.33,
+        "Volume": 17017.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-29",
+        "Open": 645.0,
+        "High": 645.0,
+        "Low": 610.0,
+        "Close": 613.0,
+        "Percent Change": -0.49,
+        "Volume": 10460.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-28",
+        "Open": 616.0,
+        "High": 618.0,
+        "Low": 613.0,
+        "Close": 616.0,
+        "Percent Change": -0.65,
+        "Volume": 8571.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-27",
+        "Open": 628.0,
+        "High": 635.0,
+        "Low": 620.0,
+        "Close": 620.0,
+        "Percent Change": -1.12,
+        "Volume": 21716.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-24",
+        "Open": 640.0,
+        "High": 640.0,
+        "Low": 624.0,
+        "Close": 627.0,
+        "Percent Change": -1.1,
+        "Volume": 21101.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-23",
+        "Open": 635.0,
+        "High": 635.0,
+        "Low": 625.0,
+        "Close": 634.0,
+        "Percent Change": 0.79,
+        "Volume": 13846.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-22",
+        "Open": 636.0,
+        "High": 638.0,
+        "Low": 624.0,
+        "Close": 629.0,
+        "Percent Change": -1.72,
+        "Volume": 19041.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-21",
+        "Open": 629.0,
+        "High": 645.0,
+        "Low": 628.0,
+        "Close": 640.0,
+        "Percent Change": 0.16,
+        "Volume": 19347.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-20",
+        "Open": 663.0,
+        "High": 663.0,
+        "Low": 635.0,
+        "Close": 639.0,
+        "Percent Change": -2.29,
+        "Volume": 12888.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-17",
+        "Open": 660.0,
+        "High": 670.0,
+        "Low": 650.0,
+        "Close": 654.0,
+        "Percent Change": 0.0,
+        "Volume": 43124.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-16",
+        "Open": 645.0,
+        "High": 655.0,
+        "Low": 636.0,
+        "Close": 654.0,
+        "Percent Change": 1.4,
+        "Volume": 30566.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-15",
+        "Open": 643.0,
+        "High": 654.0,
+        "Low": 632.0,
+        "Close": 645.0,
+        "Percent Change": -1.38,
+        "Volume": 25322.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-14",
+        "Open": 665.0,
+        "High": 679.0,
+        "Low": 645.0,
+        "Close": 654.0,
+        "Percent Change": -0.91,
+        "Volume": 41266.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-13",
+        "Open": 625.0,
+        "High": 668.0,
+        "Low": 620.0,
+        "Close": 660.0,
+        "Percent Change": 6.28,
+        "Volume": 49296.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-10",
+        "Open": 595.0,
+        "High": 625.0,
+        "Low": 594.0,
+        "Close": 621.0,
+        "Percent Change": 4.55,
+        "Volume": 53485.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-09",
+        "Open": 585.0,
+        "High": 599.0,
+        "Low": 579.0,
+        "Close": 594.0,
+        "Percent Change": 2.06,
+        "Volume": 43367.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-08",
+        "Open": 584.0,
+        "High": 585.0,
+        "Low": 567.0,
+        "Close": 582.0,
+        "Percent Change": 1.04,
+        "Volume": 21918.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-07",
+        "Open": 600.0,
+        "High": 600.0,
+        "Low": 560.0,
+        "Close": 576.0,
+        "Percent Change": -1.03,
+        "Volume": 27643.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-06",
+        "Open": 604.0,
+        "High": 604.0,
+        "Low": 575.0,
+        "Close": 582.0,
+        "Percent Change": 1.04,
+        "Volume": 46961.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-03",
+        "Open": 568.0,
+        "High": 589.0,
+        "Low": 559.0,
+        "Close": 576.0,
+        "Percent Change": 1.41,
+        "Volume": 31682.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-09-02",
+        "Open": 586.0,
+        "High": 620.0,
+        "Low": 554.0,
+        "Close": 568.0,
+        "Percent Change": -1.22,
+        "Volume": 67618.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-31",
+        "Open": 547.0,
+        "High": 588.0,
+        "Low": 547.0,
+        "Close": 575.0,
+        "Percent Change": 6.88,
+        "Volume": 64539.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-30",
+        "Open": 537.0,
+        "High": 544.0,
+        "Low": 519.0,
+        "Close": 538.0,
+        "Percent Change": 0.19,
+        "Volume": 17976.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-27",
+        "Open": 550.0,
+        "High": 550.0,
+        "Low": 532.0,
+        "Close": 537.0,
+        "Percent Change": -0.56,
+        "Volume": 28373.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-26",
+        "Open": 524.0,
+        "High": 553.0,
+        "Low": 524.0,
+        "Close": 540.0,
+        "Percent Change": 4.25,
+        "Volume": 51131.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-25",
+        "Open": 510.0,
+        "High": 520.0,
+        "Low": 492.0,
+        "Close": 518.0,
+        "Percent Change": 4.23,
+        "Volume": 40305.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-24",
+        "Open": 490.0,
+        "High": 500.0,
+        "Low": 485.0,
+        "Close": 497.0,
+        "Percent Change": 3.11,
+        "Volume": 23465.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-23",
+        "Open": 465.0,
+        "High": 482.0,
+        "Low": 463.0,
+        "Close": 482.0,
+        "Percent Change": 3.66,
+        "Volume": 17128.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-20",
+        "Open": 473.0,
+        "High": 473.0,
+        "Low": 463.0,
+        "Close": 465.0,
+        "Percent Change": 0.0,
+        "Volume": 2395.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-19",
+        "Open": 465.0,
+        "High": 468.0,
+        "Low": 455.0,
+        "Close": 465.0,
+        "Percent Change": -1.48,
+        "Volume": 6437.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-18",
+        "Open": 484.0,
+        "High": 484.0,
+        "Low": 466.0,
+        "Close": 472.0,
+        "Percent Change": -0.63,
+        "Volume": 8471.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-17",
+        "Open": 479.0,
+        "High": 479.0,
+        "Low": 468.0,
+        "Close": 475.0,
+        "Percent Change": 1.06,
+        "Volume": 9085.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-16",
+        "Open": 471.0,
+        "High": 480.0,
+        "Low": 460.0,
+        "Close": 470.0,
+        "Percent Change": -0.21,
+        "Volume": 9067.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-13",
+        "Open": 474.0,
+        "High": 474.0,
+        "Low": 464.0,
+        "Close": 471.0,
+        "Percent Change": 0.0,
+        "Volume": 7005.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-12",
+        "Open": 468.0,
+        "High": 475.0,
+        "Low": 460.0,
+        "Close": 471.0,
+        "Percent Change": 0.64,
+        "Volume": 11885.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-11",
+        "Open": 474.0,
+        "High": 483.0,
+        "Low": 461.0,
+        "Close": 468.0,
+        "Percent Change": 0.65,
+        "Volume": 17981.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-10",
+        "Open": 446.0,
+        "High": 471.0,
+        "Low": 446.0,
+        "Close": 465.0,
+        "Percent Change": 4.49,
+        "Volume": 13736.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-09",
+        "Open": 444.0,
+        "High": 445.0,
+        "Low": 431.0,
+        "Close": 445.0,
+        "Percent Change": 1.37,
+        "Volume": 5907.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-06",
+        "Open": 431.0,
+        "High": 439.0,
+        "Low": 430.0,
+        "Close": 439.0,
+        "Percent Change": -0.68,
+        "Volume": 7865.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-05",
+        "Open": 445.0,
+        "High": 453.0,
+        "Low": 437.0,
+        "Close": 442.0,
+        "Percent Change": -2.64,
+        "Volume": 8315.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-03",
+        "Open": 447.0,
+        "High": 457.0,
+        "Low": 444.0,
+        "Close": 454.0,
+        "Percent Change": 0.0,
+        "Volume": 4660.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-08-02",
+        "Open": 468.0,
+        "High": 474.0,
+        "Low": 451.0,
+        "Close": 454.0,
+        "Percent Change": -4.02,
+        "Volume": 10690.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-30",
+        "Open": 463.0,
+        "High": 476.0,
+        "Low": 460.0,
+        "Close": 473.0,
+        "Percent Change": 0.21,
+        "Volume": 4442.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-29",
+        "Open": 500.0,
+        "High": 500.0,
+        "Low": 470.0,
+        "Close": 472.0,
+        "Percent Change": -1.67,
+        "Volume": 5142.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-28",
+        "Open": 490.0,
+        "High": 490.0,
+        "Low": 480.0,
+        "Close": 480.0,
+        "Percent Change": -1.44,
+        "Volume": 5245.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-27",
+        "Open": 489.0,
+        "High": 498.0,
+        "Low": 485.0,
+        "Close": 487.0,
+        "Percent Change": 0.21,
+        "Volume": 11701.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-26",
+        "Open": 467.0,
+        "High": 487.0,
+        "Low": 467.0,
+        "Close": 486.0,
+        "Percent Change": 3.4,
+        "Volume": 12198.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-23",
+        "Open": 469.0,
+        "High": 480.0,
+        "Low": 465.0,
+        "Close": 470.0,
+        "Percent Change": 0.0,
+        "Volume": 6670.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-22",
+        "Open": 480.0,
+        "High": 482.0,
+        "Low": 469.0,
+        "Close": 470.0,
+        "Percent Change": -1.88,
+        "Volume": 9097.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-21",
+        "Open": 507.0,
+        "High": 507.0,
+        "Low": 471.0,
+        "Close": 479.0,
+        "Percent Change": -0.83,
+        "Volume": 11349.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-20",
+        "Open": 488.0,
+        "High": 524.0,
+        "Low": 480.0,
+        "Close": 483.0,
+        "Percent Change": 0.84,
+        "Volume": 24882.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-19",
+        "Open": 479.0,
+        "High": 479.0,
+        "Low": 479.0,
+        "Close": 479.0,
+        "Percent Change": 1.91,
+        "Volume": 10.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-16",
+        "Open": 467.0,
+        "High": 481.0,
+        "Low": 466.0,
+        "Close": 470.0,
+        "Percent Change": 1.08,
+        "Volume": 7209.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-15",
+        "Open": 472.0,
+        "High": 479.0,
+        "Low": 465.0,
+        "Close": 465.0,
+        "Percent Change": -1.06,
+        "Volume": 4269.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-14",
+        "Open": 477.0,
+        "High": 479.0,
+        "Low": 470.0,
+        "Close": 470.0,
+        "Percent Change": -2.29,
+        "Volume": 5254.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-13",
+        "Open": 485.0,
+        "High": 494.0,
+        "Low": 477.0,
+        "Close": 481.0,
+        "Percent Change": -0.82,
+        "Volume": 5197.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-12",
+        "Open": 485.0,
+        "High": 493.0,
+        "Low": 481.0,
+        "Close": 485.0,
+        "Percent Change": 1.04,
+        "Volume": 9556.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-09",
+        "Open": 480.0,
+        "High": 484.0,
+        "Low": 465.0,
+        "Close": 480.0,
+        "Percent Change": 1.27,
+        "Volume": 5394.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-08",
+        "Open": 500.0,
+        "High": 500.0,
+        "Low": 470.0,
+        "Close": 474.0,
+        "Percent Change": -3.46,
+        "Volume": 8660.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-07",
+        "Open": 477.0,
+        "High": 491.0,
+        "Low": 463.0,
+        "Close": 491.0,
+        "Percent Change": 4.69,
+        "Volume": 25223.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-06",
+        "Open": 451.0,
+        "High": 469.0,
+        "Low": 440.0,
+        "Close": 469.0,
+        "Percent Change": 4.92,
+        "Volume": 12913.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-05",
+        "Open": 445.0,
+        "High": 486.0,
+        "Low": 430.0,
+        "Close": 447.0,
+        "Percent Change": 0.45,
+        "Volume": 13807.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-02",
+        "Open": 463.0,
+        "High": 490.0,
+        "Low": 445.0,
+        "Close": 445.0,
+        "Percent Change": -1.98,
+        "Volume": 9664.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-07-01",
+        "Open": 421.0,
+        "High": 454.0,
+        "Low": 421.0,
+        "Close": 454.0,
+        "Percent Change": 9.93,
+        "Volume": 1366.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-06-30",
+        "Open": 390.0,
+        "High": 413.0,
+        "Low": 390.0,
+        "Close": 413.0,
+        "Percent Change": 7.55,
+        "Volume": 1826.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-06-29",
+        "Open": 377.0,
+        "High": 377.0,
+        "Low": 346.0,
+        "Close": 361.0,
+        "Percent Change": 0.0,
+        "Volume": 7755.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-05-13",
+        "Open": 384.0,
+        "High": 384.0,
+        "Low": 384.0,
+        "Close": 384.0,
+        "Percent Change": -1.79,
+        "Volume": 10.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-05-12",
+        "Open": 395.0,
+        "High": 395.0,
+        "Low": 391.0,
+        "Close": 391.0,
+        "Percent Change": -2.98,
+        "Volume": 30.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-03-22",
+        "Open": 389.0,
+        "High": 415.0,
+        "Low": 389.0,
+        "Close": 403.0,
+        "Percent Change": 1.77,
+        "Volume": 550.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-03-19",
+        "Open": 397.0,
+        "High": 409.0,
+        "Low": 380.0,
+        "Close": 396.0,
+        "Percent Change": -0.5,
+        "Volume": 26489.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-03-18",
+        "Open": 390.0,
+        "High": 415.0,
+        "Low": 363.0,
+        "Close": 398.0,
+        "Percent Change": 0.25,
+        "Volume": 17636.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-03-17",
+        "Open": 430.0,
+        "High": 430.0,
+        "Low": 385.0,
+        "Close": 397.0,
+        "Percent Change": -5.92,
+        "Volume": 18184.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-03-16",
+        "Open": 415.0,
+        "High": 438.0,
+        "Low": 412.0,
+        "Close": 422.0,
+        "Percent Change": 0.48,
+        "Volume": 16245.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-03-15",
+        "Open": 451.0,
+        "High": 451.0,
+        "Low": 415.0,
+        "Close": 420.0,
+        "Percent Change": -8.7,
+        "Volume": 19356.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-03-12",
+        "Open": 497.0,
+        "High": 498.0,
+        "Low": 451.0,
+        "Close": 460.0,
+        "Percent Change": -4.96,
+        "Volume": 30657.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-03-11",
+        "Open": 458.0,
+        "High": 484.0,
+        "Low": 437.0,
+        "Close": 484.0,
+        "Percent Change": 6.84,
+        "Volume": 21839.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-03-10",
+        "Open": 490.0,
+        "High": 490.0,
+        "Low": 453.0,
+        "Close": 453.0,
+        "Percent Change": -8.3,
+        "Volume": 7401.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-03-05",
+        "Open": 475.0,
+        "High": 507.0,
+        "Low": 458.0,
+        "Close": 494.0,
+        "Percent Change": 5.11,
+        "Volume": 71907.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-03-04",
+        "Open": 912.0,
+        "High": 930.0,
+        "Low": 833.0,
+        "Close": 840.0,
+        "Percent Change": -6.15,
+        "Volume": 115970.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-03-03",
+        "Open": 900.0,
+        "High": 950.0,
+        "Low": 810.0,
+        "Close": 895.0,
+        "Percent Change": -0.56,
+        "Volume": 78635.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-03-02",
+        "Open": 950.0,
+        "High": 960.0,
+        "Low": 900.0,
+        "Close": 900.0,
+        "Percent Change": -6.93,
+        "Volume": 38348.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-03-01",
+        "Open": 1009.0,
+        "High": 1025.0,
+        "Low": 967.0,
+        "Close": 967.0,
+        "Percent Change": -4.16,
+        "Volume": 63597.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-27",
+        "Open": 1077.0,
+        "High": 1077.0,
+        "Low": 980.0,
+        "Close": 1009.0,
+        "Percent Change": -1.66,
+        "Volume": 78358.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-26",
+        "Open": 953.0,
+        "High": 1028.0,
+        "Low": 953.0,
+        "Close": 1026.0,
+        "Percent Change": 9.73,
+        "Volume": 101996.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-25",
+        "Open": 859.0,
+        "High": 935.0,
+        "Low": 844.0,
+        "Close": 935.0,
+        "Percent Change": 10.0,
+        "Volume": 86981.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-24",
+        "Open": 853.0,
+        "High": 870.0,
+        "Low": 840.0,
+        "Close": 850.0,
+        "Percent Change": -0.35,
+        "Volume": 25928.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-23",
+        "Open": 845.0,
+        "High": 857.0,
+        "Low": 831.0,
+        "Close": 853.0,
+        "Percent Change": 2.77,
+        "Volume": 31502.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-20",
+        "Open": 818.0,
+        "High": 835.0,
+        "Low": 818.0,
+        "Close": 830.0,
+        "Percent Change": 1.47,
+        "Volume": 26177.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-19",
+        "Open": 825.0,
+        "High": 825.0,
+        "Low": 801.0,
+        "Close": 818.0,
+        "Percent Change": 0.74,
+        "Volume": 14769.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-18",
+        "Open": 820.0,
+        "High": 824.0,
+        "Low": 800.0,
+        "Close": 812.0,
+        "Percent Change": -1.46,
+        "Volume": 29503.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-17",
+        "Open": 834.0,
+        "High": 854.0,
+        "Low": 820.0,
+        "Close": 824.0,
+        "Percent Change": 0.49,
+        "Volume": 42690.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-16",
+        "Open": 797.0,
+        "High": 822.0,
+        "Low": 791.0,
+        "Close": 820.0,
+        "Percent Change": 3.27,
+        "Volume": 44000.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-13",
+        "Open": 779.0,
+        "High": 806.0,
+        "Low": 771.0,
+        "Close": 794.0,
+        "Percent Change": 3.12,
+        "Volume": 56337.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-12",
+        "Open": 774.0,
+        "High": 776.0,
+        "Low": 767.0,
+        "Close": 770.0,
+        "Percent Change": 0.39,
+        "Volume": 36517.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-11",
+        "Open": 774.0,
+        "High": 780.0,
+        "Low": 765.0,
+        "Close": 767.0,
+        "Percent Change": 0.92,
+        "Volume": 23324.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-10",
+        "Open": 770.0,
+        "High": 776.0,
+        "Low": 755.0,
+        "Close": 760.0,
+        "Percent Change": 0.13,
+        "Volume": 14031.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-09",
+        "Open": 780.0,
+        "High": 780.0,
+        "Low": 754.0,
+        "Close": 759.0,
+        "Percent Change": -1.43,
+        "Volume": 25613.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-06",
+        "Open": 780.0,
+        "High": 794.0,
+        "Low": 761.0,
+        "Close": 770.0,
+        "Percent Change": 0.52,
+        "Volume": 59323.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-05",
+        "Open": 750.0,
+        "High": 795.0,
+        "Low": 750.0,
+        "Close": 766.0,
+        "Percent Change": 4.08,
+        "Volume": 77368.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-04",
+        "Open": 733.0,
+        "High": 749.0,
+        "Low": 725.0,
+        "Close": 736.0,
+        "Percent Change": 0.41,
+        "Volume": 35212.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-03",
+        "Open": 747.0,
+        "High": 748.0,
+        "Low": 720.0,
+        "Close": 733.0,
+        "Percent Change": -0.14,
+        "Volume": 27613.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-02-02",
+        "Open": 750.0,
+        "High": 753.0,
+        "Low": 729.0,
+        "Close": 734.0,
+        "Percent Change": -0.94,
+        "Volume": 55543.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-30",
+        "Open": 698.0,
+        "High": 758.0,
+        "Low": 695.0,
+        "Close": 741.0,
+        "Percent Change": 7.24,
+        "Volume": 77319.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-29",
+        "Open": 698.0,
+        "High": 705.0,
+        "Low": 691.0,
+        "Close": 691.0,
+        "Percent Change": -1.14,
+        "Volume": 37334.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-28",
+        "Open": 696.0,
+        "High": 706.0,
+        "Low": 685.0,
+        "Close": 699.0,
+        "Percent Change": 2.34,
+        "Volume": 61050.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-27",
+        "Open": 640.0,
+        "High": 686.0,
+        "Low": 639.0,
+        "Close": 683.0,
+        "Percent Change": 6.06,
+        "Volume": 38032.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-26",
+        "Open": 673.0,
+        "High": 680.0,
+        "Low": 645.0,
+        "Close": 645.0,
+        "Percent Change": -4.16,
+        "Volume": 36850.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-23",
+        "Open": 704.0,
+        "High": 704.0,
+        "Low": 665.0,
+        "Close": 673.0,
+        "Percent Change": -3.17,
+        "Volume": 36601.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-22",
+        "Open": 695.0,
+        "High": 714.0,
+        "Low": 672.0,
+        "Close": 695.0,
+        "Percent Change": 1.91,
+        "Volume": 39526.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-21",
+        "Open": 633.0,
+        "High": 683.0,
+        "Low": 620.0,
+        "Close": 682.0,
+        "Percent Change": 9.82,
+        "Volume": 59270.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-20",
+        "Open": 622.0,
+        "High": 650.0,
+        "Low": 606.0,
+        "Close": 621.0,
+        "Percent Change": 1.31,
+        "Volume": 36299.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-19",
+        "Open": 569.0,
+        "High": 613.0,
+        "Low": 558.0,
+        "Close": 613.0,
+        "Percent Change": 9.86,
+        "Volume": 35255.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-16",
+        "Open": 545.0,
+        "High": 560.0,
+        "Low": 540.0,
+        "Close": 558.0,
+        "Percent Change": 2.39,
+        "Volume": 16312.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-15",
+        "Open": 540.0,
+        "High": 550.0,
+        "Low": 532.0,
+        "Close": 545.0,
+        "Percent Change": 2.83,
+        "Volume": 10279.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-14",
+        "Open": 542.0,
+        "High": 551.0,
+        "Low": 522.0,
+        "Close": 530.0,
+        "Percent Change": -2.21,
+        "Volume": 16999.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-13",
+        "Open": 538.0,
+        "High": 566.0,
+        "Low": 530.0,
+        "Close": 542.0,
+        "Percent Change": 2.65,
+        "Volume": 34909.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-12",
+        "Open": 493.0,
+        "High": 528.0,
+        "Low": 493.0,
+        "Close": 528.0,
+        "Percent Change": 8.87,
+        "Volume": 30634.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-09",
+        "Open": 492.0,
+        "High": 500.0,
+        "Low": 478.0,
+        "Close": 485.0,
+        "Percent Change": 0.41,
+        "Volume": 13039.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-08",
+        "Open": 485.0,
+        "High": 497.0,
+        "Low": 479.0,
+        "Close": 483.0,
+        "Percent Change": -0.21,
+        "Volume": 16704.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-07",
+        "Open": 462.0,
+        "High": 490.0,
+        "Low": 462.0,
+        "Close": 484.0,
+        "Percent Change": 4.99,
+        "Volume": 21264.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-06",
+        "Open": 461.0,
+        "High": 465.0,
+        "Low": 461.0,
+        "Close": 461.0,
+        "Percent Change": 0.0,
+        "Volume": 8016.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-05",
+        "Open": 464.0,
+        "High": 467.0,
+        "Low": 460.0,
+        "Close": 461.0,
+        "Percent Change": 0.66,
+        "Volume": 7222.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-02",
+        "Open": 455.0,
+        "High": 464.0,
+        "Low": 455.0,
+        "Close": 458.0,
+        "Percent Change": -0.43,
+        "Volume": 7971.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2020-01-01",
+        "Open": 464.0,
+        "High": 470.0,
+        "Low": 460.0,
+        "Close": 460.0,
+        "Percent Change": -1.29,
+        "Volume": 6035.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-31",
+        "Open": 472.0,
+        "High": 474.0,
+        "Low": 462.0,
+        "Close": 466.0,
+        "Percent Change": -0.21,
+        "Volume": 8672.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-30",
+        "Open": 457.0,
+        "High": 471.0,
+        "Low": 448.0,
+        "Close": 467.0,
+        "Percent Change": 3.32,
+        "Volume": 19647.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-29",
+        "Open": 449.0,
+        "High": 452.0,
+        "Low": 441.0,
+        "Close": 452.0,
+        "Percent Change": 0.89,
+        "Volume": 5474.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-26",
+        "Open": 460.0,
+        "High": 460.0,
+        "Low": 448.0,
+        "Close": 448.0,
+        "Percent Change": -0.88,
+        "Volume": 6975.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-25",
+        "Open": 459.0,
+        "High": 467.0,
+        "Low": 447.0,
+        "Close": 452.0,
+        "Percent Change": -0.66,
+        "Volume": 11135.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-24",
+        "Open": 467.0,
+        "High": 474.0,
+        "Low": 447.0,
+        "Close": 455.0,
+        "Percent Change": -0.87,
+        "Volume": 10398.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-23",
+        "Open": 450.0,
+        "High": 465.0,
+        "Low": 448.0,
+        "Close": 459.0,
+        "Percent Change": 3.38,
+        "Volume": 13737.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-22",
+        "Open": 442.0,
+        "High": 450.0,
+        "Low": 437.0,
+        "Close": 444.0,
+        "Percent Change": -1.55,
+        "Volume": 3990.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-19",
+        "Open": 462.0,
+        "High": 462.0,
+        "Low": 442.0,
+        "Close": 451.0,
+        "Percent Change": -0.66,
+        "Volume": 8358.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-18",
+        "Open": 446.0,
+        "High": 458.0,
+        "Low": 445.0,
+        "Close": 454.0,
+        "Percent Change": 1.11,
+        "Volume": 18561.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-17",
+        "Open": 434.0,
+        "High": 459.0,
+        "Low": 427.0,
+        "Close": 449.0,
+        "Percent Change": 4.18,
+        "Volume": 9016.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-16",
+        "Open": 449.0,
+        "High": 454.0,
+        "Low": 428.0,
+        "Close": 431.0,
+        "Percent Change": -2.27,
+        "Volume": 14233.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-15",
+        "Open": 464.0,
+        "High": 464.0,
+        "Low": 442.0,
+        "Close": 444.0,
+        "Percent Change": -4.31,
+        "Volume": 11716.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-12",
+        "Open": 440.0,
+        "High": 471.0,
+        "Low": 428.0,
+        "Close": 464.0,
+        "Percent Change": 6.67,
+        "Volume": 17922.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-11",
+        "Open": 411.0,
+        "High": 436.0,
+        "Low": 410.0,
+        "Close": 435.0,
+        "Percent Change": 5.33,
+        "Volume": 16474.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-10",
+        "Open": 409.0,
+        "High": 413.0,
+        "Low": 395.0,
+        "Close": 413.0,
+        "Percent Change": 2.74,
+        "Volume": 9628.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-09",
+        "Open": 388.0,
+        "High": 415.0,
+        "Low": 379.0,
+        "Close": 402.0,
+        "Percent Change": 4.15,
+        "Volume": 14787.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-08",
+        "Open": 373.0,
+        "High": 386.0,
+        "Low": 361.0,
+        "Close": 386.0,
+        "Percent Change": 1.58,
+        "Volume": 12767.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-05",
+        "Open": 360.0,
+        "High": 385.0,
+        "Low": 360.0,
+        "Close": 380.0,
+        "Percent Change": 5.26,
+        "Volume": 15144.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-04",
+        "Open": 354.0,
+        "High": 368.0,
+        "Low": 354.0,
+        "Close": 361.0,
+        "Percent Change": 0.84,
+        "Volume": 1935.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-03",
+        "Open": 351.0,
+        "High": 360.0,
+        "Low": 350.0,
+        "Close": 358.0,
+        "Percent Change": 1.13,
+        "Volume": 3641.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-02",
+        "Open": 352.0,
+        "High": 355.0,
+        "Low": 351.0,
+        "Close": 354.0,
+        "Percent Change": -1.12,
+        "Volume": 1252.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-12-01",
+        "Open": 353.0,
+        "High": 358.0,
+        "Low": 347.0,
+        "Close": 358.0,
+        "Percent Change": 0.0,
+        "Volume": 2696.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-28",
+        "Open": 359.0,
+        "High": 360.0,
+        "Low": 351.0,
+        "Close": 358.0,
+        "Percent Change": 1.13,
+        "Volume": 2628.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-27",
+        "Open": 350.0,
+        "High": 354.0,
+        "Low": 344.0,
+        "Close": 354.0,
+        "Percent Change": 1.14,
+        "Volume": 595.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-26",
+        "Open": 343.0,
+        "High": 351.0,
+        "Low": 343.0,
+        "Close": 350.0,
+        "Percent Change": 1.16,
+        "Volume": 1194.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-25",
+        "Open": 345.0,
+        "High": 352.0,
+        "Low": 341.0,
+        "Close": 346.0,
+        "Percent Change": 0.0,
+        "Volume": 3056.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-24",
+        "Open": 346.0,
+        "High": 346.0,
+        "Low": 340.0,
+        "Close": 346.0,
+        "Percent Change": -0.57,
+        "Volume": 2000.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-21",
+        "Open": 350.0,
+        "High": 354.0,
+        "Low": 348.0,
+        "Close": 348.0,
+        "Percent Change": -2.52,
+        "Volume": 1822.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-20",
+        "Open": 352.0,
+        "High": 357.0,
+        "Low": 350.0,
+        "Close": 357.0,
+        "Percent Change": 0.56,
+        "Volume": 1004.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-19",
+        "Open": 353.0,
+        "High": 356.0,
+        "Low": 352.0,
+        "Close": 355.0,
+        "Percent Change": 0.0,
+        "Volume": 988.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-18",
+        "Open": 358.0,
+        "High": 360.0,
+        "Low": 355.0,
+        "Close": 355.0,
+        "Percent Change": -0.28,
+        "Volume": 1727.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-17",
+        "Open": 357.0,
+        "High": 357.0,
+        "Low": 355.0,
+        "Close": 356.0,
+        "Percent Change": -1.11,
+        "Volume": 493.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-14",
+        "Open": 358.0,
+        "High": 360.0,
+        "Low": 358.0,
+        "Close": 360.0,
+        "Percent Change": 0.56,
+        "Volume": 1183.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-13",
+        "Open": 357.0,
+        "High": 361.0,
+        "Low": 355.0,
+        "Close": 358.0,
+        "Percent Change": 0.56,
+        "Volume": 1170.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-12",
+        "Open": 368.0,
+        "High": 368.0,
+        "Low": 356.0,
+        "Close": 356.0,
+        "Percent Change": -1.93,
+        "Volume": 811.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-11",
+        "Open": 357.0,
+        "High": 372.0,
+        "Low": 355.0,
+        "Close": 363.0,
+        "Percent Change": 1.4,
+        "Volume": 1181.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-10",
+        "Open": 364.0,
+        "High": 364.0,
+        "Low": 358.0,
+        "Close": 358.0,
+        "Percent Change": 0.0,
+        "Volume": 229.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-07",
+        "Open": 366.0,
+        "High": 366.0,
+        "Low": 358.0,
+        "Close": 358.0,
+        "Percent Change": -1.65,
+        "Volume": 2523.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-06",
+        "Open": 355.0,
+        "High": 367.0,
+        "Low": 355.0,
+        "Close": 364.0,
+        "Percent Change": 4.0,
+        "Volume": 5069.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-05",
+        "Open": 355.0,
+        "High": 355.0,
+        "Low": 350.0,
+        "Close": 350.0,
+        "Percent Change": -1.13,
+        "Volume": 531.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-04",
+        "Open": 346.0,
+        "High": 354.0,
+        "Low": 346.0,
+        "Close": 354.0,
+        "Percent Change": 1.72,
+        "Volume": 1988.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-11-03",
+        "Open": 348.0,
+        "High": 354.0,
+        "Low": 347.0,
+        "Close": 348.0,
+        "Percent Change": 0.0,
+        "Volume": 2374.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-10-31",
+        "Open": 356.0,
+        "High": 356.0,
+        "Low": 348.0,
+        "Close": 348.0,
+        "Percent Change": -3.33,
+        "Volume": 1692.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-10-24",
+        "Open": 360.0,
+        "High": 360.0,
+        "Low": 354.0,
+        "Close": 360.0,
+        "Percent Change": 1.98,
+        "Volume": 1758.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-10-23",
+        "Open": 352.0,
+        "High": 366.0,
+        "Low": 352.0,
+        "Close": 353.0,
+        "Percent Change": -1.67,
+        "Volume": 1072.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-10-22",
+        "Open": 358.0,
+        "High": 359.0,
+        "Low": 352.0,
+        "Close": 359.0,
+        "Percent Change": 0.56,
+        "Volume": 1808.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-10-21",
+        "Open": 355.0,
+        "High": 360.0,
+        "Low": 355.0,
+        "Close": 357.0,
+        "Percent Change": -0.56,
+        "Volume": 547.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-10-20",
+        "Open": 356.0,
+        "High": 359.0,
+        "Low": 355.0,
+        "Close": 359.0,
+        "Percent Change": 0.28,
+        "Volume": 644.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-10-17",
+        "Open": 359.0,
+        "High": 360.0,
+        "Low": 352.0,
+        "Close": 358.0,
+        "Percent Change": -0.28,
+        "Volume": 1472.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-10-16",
+        "Open": 356.0,
+        "High": 359.0,
+        "Low": 348.0,
+        "Close": 359.0,
+        "Percent Change": -1.1,
+        "Volume": 3964.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-10-15",
+        "Open": 360.0,
+        "High": 363.0,
+        "Low": 346.0,
+        "Close": 363.0,
+        "Percent Change": -0.27,
+        "Volume": 3501.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-10-14",
+        "Open": 369.0,
+        "High": 369.0,
+        "Low": 357.0,
+        "Close": 364.0,
+        "Percent Change": -0.55,
+        "Volume": 613.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-10-03",
+        "Open": 361.0,
+        "High": 366.0,
+        "Low": 361.0,
+        "Close": 366.0,
+        "Percent Change": 0.27,
+        "Volume": 275.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-10-02",
+        "Open": 370.0,
+        "High": 370.0,
+        "Low": 365.0,
+        "Close": 365.0,
+        "Percent Change": -1.08,
+        "Volume": 2821.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-10-01",
+        "Open": 353.0,
+        "High": 371.0,
+        "Low": 352.0,
+        "Close": 369.0,
+        "Percent Change": 3.65,
+        "Volume": 1666.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-30",
+        "Open": 344.0,
+        "High": 362.0,
+        "Low": 351.0,
+        "Close": 360.0,
+        "Percent Change": 2.56,
+        "Volume": 614.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-29",
+        "Open": 350.0,
+        "High": 351.0,
+        "Low": 348.0,
+        "Close": 351.0,
+        "Percent Change": -0.85,
+        "Volume": 1752.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-26",
+        "Open": 361.0,
+        "High": 364.0,
+        "Low": 345.0,
+        "Close": 354.0,
+        "Percent Change": -0.84,
+        "Volume": 858.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-24",
+        "Open": 356.0,
+        "High": 360.0,
+        "Low": 354.0,
+        "Close": 360.0,
+        "Percent Change": 0.56,
+        "Volume": 2451.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-23",
+        "Open": 376.0,
+        "High": 376.0,
+        "Low": 358.0,
+        "Close": 358.0,
+        "Percent Change": -2.98,
+        "Volume": 1816.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-22",
+        "Open": 380.0,
+        "High": 380.0,
+        "Low": 367.0,
+        "Close": 369.0,
+        "Percent Change": -2.38,
+        "Volume": 1925.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-19",
+        "Open": 384.0,
+        "High": 392.0,
+        "Low": 378.0,
+        "Close": 378.0,
+        "Percent Change": -1.56,
+        "Volume": 6946.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-18",
+        "Open": 375.0,
+        "High": 384.0,
+        "Low": 365.0,
+        "Close": 384.0,
+        "Percent Change": 4.35,
+        "Volume": 3506.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-17",
+        "Open": 354.0,
+        "High": 371.0,
+        "Low": 350.0,
+        "Close": 368.0,
+        "Percent Change": 5.14,
+        "Volume": 2581.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-16",
+        "Open": 360.0,
+        "High": 360.0,
+        "Low": 339.0,
+        "Close": 350.0,
+        "Percent Change": -3.31,
+        "Volume": 6009.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-15",
+        "Open": 377.0,
+        "High": 377.0,
+        "Low": 360.0,
+        "Close": 362.0,
+        "Percent Change": -4.23,
+        "Volume": 2865.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-12",
+        "Open": 385.0,
+        "High": 387.0,
+        "Low": 378.0,
+        "Close": 378.0,
+        "Percent Change": -1.82,
+        "Volume": 5940.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-11",
+        "Open": 390.0,
+        "High": 390.0,
+        "Low": 380.0,
+        "Close": 385.0,
+        "Percent Change": 0.52,
+        "Volume": 2015.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-10",
+        "Open": 390.0,
+        "High": 394.0,
+        "Low": 380.0,
+        "Close": 383.0,
+        "Percent Change": 0.0,
+        "Volume": 6888.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-09",
+        "Open": 383.0,
+        "High": 385.0,
+        "Low": 380.0,
+        "Close": 383.0,
+        "Percent Change": 0.0,
+        "Volume": 2788.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-08",
+        "Open": 383.0,
+        "High": 392.0,
+        "Low": 380.0,
+        "Close": 383.0,
+        "Percent Change": -1.79,
+        "Volume": 1935.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-05",
+        "Open": 390.0,
+        "High": 402.0,
+        "Low": 390.0,
+        "Close": 390.0,
+        "Percent Change": -1.27,
+        "Volume": 2617.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-04",
+        "Open": 380.0,
+        "High": 397.0,
+        "Low": 373.0,
+        "Close": 395.0,
+        "Percent Change": 3.95,
+        "Volume": 5115.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-03",
+        "Open": 380.0,
+        "High": 399.0,
+        "Low": 374.0,
+        "Close": 380.0,
+        "Percent Change": 0.0,
+        "Volume": 6379.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-02",
+        "Open": 394.0,
+        "High": 395.0,
+        "Low": 380.0,
+        "Close": 380.0,
+        "Percent Change": -5.0,
+        "Volume": 3470.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-09-01",
+        "Open": 414.0,
+        "High": 415.0,
+        "Low": 397.0,
+        "Close": 400.0,
+        "Percent Change": -4.76,
+        "Volume": 3798.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-08-29",
+        "Open": 423.0,
+        "High": 425.0,
+        "Low": 416.0,
+        "Close": 420.0,
+        "Percent Change": -1.87,
+        "Volume": 5134.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-08-28",
+        "Open": 431.0,
+        "High": 438.0,
+        "Low": 428.0,
+        "Close": 428.0,
+        "Percent Change": -1.83,
+        "Volume": 3460.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-08-27",
+        "Open": 442.0,
+        "High": 448.0,
+        "Low": 436.0,
+        "Close": 436.0,
+        "Percent Change": -1.58,
+        "Volume": 2708.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-08-26",
+        "Open": 451.0,
+        "High": 459.0,
+        "Low": 443.0,
+        "Close": 443.0,
+        "Percent Change": -1.56,
+        "Volume": 410.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-08-25",
+        "Open": 455.0,
+        "High": 455.0,
+        "Low": 445.0,
+        "Close": 450.0,
+        "Percent Change": -2.17,
+        "Volume": 201.0
+    },
+    {
+        "Symbol": "GLICL",
+        "Date": "2019-08-22",
+        "Open": 460.0,
+        "High": 460.0,
+        "Low": 460.0,
+        "Close": 460.0,
+        "Percent Change": 1.55,
+        "Volume": 16.0
+    }
+]

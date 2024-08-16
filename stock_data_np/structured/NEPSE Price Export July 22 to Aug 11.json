@@ -1,0 +1,132 @@
+[
+    {
+        "Symbol": "NEPSE",
+        "Date": "2024-08-08",
+        "Open": 2772.84,
+        "High": 2811.15,
+        "Low": 2744.86,
+        "Close": 2766.38,
+        "Percent Change": 0.24,
+        "Volume": "20,070,434,103.38"
+    },
+    {
+        "Symbol": "NEPSE",
+        "Date": "2024-08-07",
+        "Open": 2644.73,
+        "High": 2759.67,
+        "Low": 2630.86,
+        "Close": 2759.67,
+        "Percent Change": 4.08,
+        "Volume": "17,950,918,627.83"
+    },
+    {
+        "Symbol": "NEPSE",
+        "Date": "2024-08-06",
+        "Open": 2802.04,
+        "High": 2815.94,
+        "Low": 2644.85,
+        "Close": 2651.32,
+        "Percent Change": -5.18,
+        "Volume": "23,716,716,874.10"
+    },
+    {
+        "Symbol": "NEPSE",
+        "Date": "2024-08-05",
+        "Open": 2770.39,
+        "High": 2806.69,
+        "Low": 2744.1,
+        "Close": 2796.38,
+        "Percent Change": 1.47,
+        "Volume": "21,864,992,277.64"
+    },
+    {
+        "Symbol": "NEPSE",
+        "Date": "2024-08-01",
+        "Open": 2772.24,
+        "High": 2805.57,
+        "Low": 2742.53,
+        "Close": 2755.62,
+        "Percent Change": -0.19,
+        "Volume": "21,713,431,007.74"
+    },
+    {
+        "Symbol": "NEPSE",
+        "Date": "2024-07-31",
+        "Open": 2708.25,
+        "High": 2791.02,
+        "Low": 2707.57,
+        "Close": 2760.9,
+        "Percent Change": 2.38,
+        "Volume": "21,911,503,161.06"
+    },
+    {
+        "Symbol": "NEPSE",
+        "Date": "2024-07-30",
+        "Open": 2669.41,
+        "High": 2709.89,
+        "Low": 2609.02,
+        "Close": 2696.65,
+        "Percent Change": 1.33,
+        "Volume": "17,266,391,542.97"
+    },
+    {
+        "Symbol": "NEPSE",
+        "Date": "2024-07-29",
+        "Open": 2706.73,
+        "High": 2737.68,
+        "Low": 2655.15,
+        "Close": 2661.09,
+        "Percent Change": -0.76,
+        "Volume": "19,609,177,106.29"
+    },
+    {
+        "Symbol": "NEPSE",
+        "Date": "2024-07-28",
+        "Open": 2606.42,
+        "High": 2708.58,
+        "Low": 2606.4,
+        "Close": 2681.56,
+        "Percent Change": 4.41,
+        "Volume": "15,810,596,235.45"
+    },
+    {
+        "Symbol": "NEPSE",
+        "Date": "2024-07-25",
+        "Open": 2540.14,
+        "High": 2572.88,
+        "Low": 2518.47,
+        "Close": 2568.11,
+        "Percent Change": 1.26,
+        "Volume": "14,137,899,049.28"
+    },
+    {
+        "Symbol": "NEPSE",
+        "Date": "2024-07-24",
+        "Open": 2573.23,
+        "High": 2600.41,
+        "Low": 2513.43,
+        "Close": 2536.11,
+        "Percent Change": -1.06,
+        "Volume": "16,208,577,314.53"
+    },
+    {
+        "Symbol": "NEPSE",
+        "Date": "2024-07-23",
+        "Open": 2493.92,
+        "High": 2563.45,
+        "Low": 2469.56,
+        "Close": 2563.43,
+        "Percent Change": 3.02,
+        "Volume": "14,116,330,995.76"
+    },
+    {
+        "Symbol": "NEPSE",
+        "Date": "2024-07-22",
+        "Open": 2491.17,
+        "High": 2504.53,
+        "Low": 2441.56,
+        "Close": 2488.09,
+        "Percent Change": 0.08,
+        "Volume": "13,915,535,440.98"
+    }
+]
