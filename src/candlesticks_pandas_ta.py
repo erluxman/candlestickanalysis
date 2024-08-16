@@ -11,7 +11,7 @@ df = pd.DataFrame()  # Empty DataFrame
 
 # Load data
 df = pd.read_json(
-    "/Users/laxmanbhattarai/Desktop/thesis/stock_data_np/Nepse Price Export 2019-08-11 to 2024-08-11.json"
+    "/Users/laxmanbhattarai/Desktop/thesis/data/stock_data_np/structured/ADBL.json"
 )
 
 # Ensure the data is correct
