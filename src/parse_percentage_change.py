@@ -59,15 +59,18 @@ def read_and_transform_json_files(input_directory, output_directory):
 
             # Save transformed data
             output_file_path = os.path.join(output_directory, filename)
+            output_file_path = output_file_path.replace("nepsealpha_export_price_", "")
+            output_file_path = output_file_path.replace("_2019-08-22_2024-08-11", "")
+            
             with open(output_file_path, "w") as f:
                 json.dump(transformed_data, f, indent=4)
             print(f"Transformed and saved {filename}")
 
 
 # Define the paths
-desktop_path = os.path.join(os.path.expanduser("~"), "Desktop/thesis")
-input_directory = os.path.join(desktop_path, "stock_data")
-output_directory = os.path.join(desktop_path, "stock_data/structured")
+desktop_path = os.path.join(os.path.expanduser("~"), "Desktop/thesis/data")
+input_directory = os.path.join(desktop_path, "stock_data_np")
+output_directory = os.path.join(desktop_path, "stock_data_np/structured")
 
 # Create the structured folder if it doesn't exist
 os.makedirs(output_directory, exist_ok=True)
