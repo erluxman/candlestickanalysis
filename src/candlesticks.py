@@ -1,21 +1,27 @@
 import yfinance as yf
+import talib
 import pandas as pd
-import pandas_ta as ta
-
-ticker = "AAPL"
-start_date = "2020-01-01"
-end_date = "2024-12-31"
-df = yf.download(ticker, start=start_date, end=end_date)
-
-# Ensure the data is correct
-print("Data Sample:")
-print(df.head())
-
-# Apply the hammer pattern detection
-df.ta.cdl_pattern(name="eveningstar", append=True)
 
 
-# Filter and print only the dates with a hammer pattern
-hammer_dates = df[df["CDL_EVENINGSTAR"] != 0]
-print("\nDates with Hammer Pattern:")
-print(hammer_dates)
+def printCandlePattern(pattern, stock, market):
+    dir = (
+        "/Users/laxmanbhattarai/Desktop/thesis/data/stock_data_np/structured/"
+        if (market == "np")
+        else "/Users/laxmanbhattarai/Desktop/thesis/data/stock_data/structured/"
+    )
+
+    file = dir + stock + ".json"
+    df = pd.read_json(file)
+    open_prices = df["Open"].values
+    high_prices = df["High"].values
+    low_prices = df["Low"].values
+    close_prices = df["Close"].values
+    pattern_function = getattr(talib, pattern)
+    candle = pattern_function(open_prices, high_prices, low_prices, close_prices)
+    df[pattern] = candle
+    patterns = df[df[pattern] != 0]
+    print(f"{pattern} patterns found on the following dates:")
+    print(patterns[["Date", "Open", "High", "Low", "Close", pattern]])
+
+
+printCandlePattern("CDLHAMMER", "AAPL", "en")
