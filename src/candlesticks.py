@@ -56,3 +56,8 @@ for symbol in top200Symbols:
     # loop through all the patterns
     for pattern in patterns:
         printCandlePattern(pattern, symbol, "np")
+top200USA = i.snp_500_symbols
+for symbol in top200USA:
+    # loop through all the patterns
+    for pattern in patterns:
+        printCandlePattern(pattern, symbol, "us")
