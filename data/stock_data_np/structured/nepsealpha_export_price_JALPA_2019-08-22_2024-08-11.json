@@ -1,0 +1,5482 @@
+[
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-07-10",
+        "Open": 1465.0,
+        "High": 1480.0,
+        "Low": 1430.0,
+        "Close": 1442.1,
+        "Percent Change": 0.15,
+        "Volume": 6339.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-07-09",
+        "Open": 1330.0,
+        "High": 1460.0,
+        "Low": 1315.1,
+        "Close": 1440.0,
+        "Percent Change": 8.27,
+        "Volume": 10456.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-07-08",
+        "Open": 1304.0,
+        "High": 1330.0,
+        "Low": 1304.0,
+        "Close": 1330.0,
+        "Percent Change": 1.99,
+        "Volume": 2146.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-07-07",
+        "Open": 1279.0,
+        "High": 1320.0,
+        "Low": 1279.0,
+        "Close": 1304.0,
+        "Percent Change": -0.08,
+        "Volume": 2038.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-07-04",
+        "Open": 1326.0,
+        "High": 1326.0,
+        "Low": 1295.0,
+        "Close": 1305.0,
+        "Percent Change": 0.38,
+        "Volume": 1236.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-07-03",
+        "Open": 1300.0,
+        "High": 1315.0,
+        "Low": 1281.0,
+        "Close": 1300.0,
+        "Percent Change": -0.54,
+        "Volume": 1412.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-07-02",
+        "Open": 1302.5,
+        "High": 1328.5,
+        "Low": 1302.0,
+        "Close": 1307.1,
+        "Percent Change": 2.36,
+        "Volume": 2116.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-07-01",
+        "Open": 1260.0,
+        "High": 1291.0,
+        "Low": 1260.0,
+        "Close": 1277.0,
+        "Percent Change": 0.08,
+        "Volume": 1106.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-30",
+        "Open": 1300.0,
+        "High": 1300.0,
+        "Low": 1276.0,
+        "Close": 1276.0,
+        "Percent Change": -3.26,
+        "Volume": 1438.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-27",
+        "Open": 1320.0,
+        "High": 1340.0,
+        "Low": 1290.0,
+        "Close": 1319.0,
+        "Percent Change": -0.08,
+        "Volume": 1509.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-26",
+        "Open": 1275.0,
+        "High": 1345.9,
+        "Low": 1275.0,
+        "Close": 1320.0,
+        "Percent Change": 1.94,
+        "Volume": 2089.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-25",
+        "Open": 1325.0,
+        "High": 1325.4,
+        "Low": 1274.0,
+        "Close": 1294.9,
+        "Percent Change": -0.39,
+        "Volume": 1777.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-24",
+        "Open": 1310.0,
+        "High": 1365.0,
+        "Low": 1279.0,
+        "Close": 1300.0,
+        "Percent Change": -1.22,
+        "Volume": 5606.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-23",
+        "Open": 1350.0,
+        "High": 1350.1,
+        "Low": 1315.1,
+        "Close": 1316.1,
+        "Percent Change": -3.58,
+        "Volume": 2649.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-20",
+        "Open": 1399.0,
+        "High": 1399.0,
+        "Low": 1352.4,
+        "Close": 1365.0,
+        "Percent Change": -1.09,
+        "Volume": 2688.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-19",
+        "Open": 1350.0,
+        "High": 1382.5,
+        "Low": 1350.0,
+        "Close": 1380.0,
+        "Percent Change": 0.96,
+        "Volume": 2341.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-18",
+        "Open": 1345.0,
+        "High": 1380.0,
+        "Low": 1345.0,
+        "Close": 1366.9,
+        "Percent Change": 1.25,
+        "Volume": 4481.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-16",
+        "Open": 1362.0,
+        "High": 1370.0,
+        "Low": 1340.0,
+        "Close": 1350.0,
+        "Percent Change": -2.81,
+        "Volume": 4315.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-13",
+        "Open": 1423.0,
+        "High": 1423.0,
+        "Low": 1344.0,
+        "Close": 1389.0,
+        "Percent Change": -4.34,
+        "Volume": 15368.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-12",
+        "Open": 1499.4,
+        "High": 1500.0,
+        "Low": 1451.0,
+        "Close": 1452.0,
+        "Percent Change": -1.22,
+        "Volume": 2463.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-11",
+        "Open": 1476.9,
+        "High": 1536.0,
+        "Low": 1420.0,
+        "Close": 1470.0,
+        "Percent Change": 1.52,
+        "Volume": 2672.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-10",
+        "Open": 1489.0,
+        "High": 1489.0,
+        "Low": 1425.0,
+        "Close": 1448.0,
+        "Percent Change": -0.82,
+        "Volume": 4265.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-09",
+        "Open": 1502.0,
+        "High": 1503.0,
+        "Low": 1460.0,
+        "Close": 1460.0,
+        "Percent Change": -3.82,
+        "Volume": 2185.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-06",
+        "Open": 1505.0,
+        "High": 1535.0,
+        "Low": 1490.0,
+        "Close": 1518.0,
+        "Percent Change": 0.86,
+        "Volume": 4951.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-05",
+        "Open": 1460.0,
+        "High": 1507.0,
+        "Low": 1440.0,
+        "Close": 1505.0,
+        "Percent Change": 3.79,
+        "Volume": 4688.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-04",
+        "Open": 1450.0,
+        "High": 1510.0,
+        "Low": 1425.0,
+        "Close": 1450.0,
+        "Percent Change": 0.14,
+        "Volume": 5567.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-03",
+        "Open": 1411.9,
+        "High": 1451.9,
+        "Low": 1395.0,
+        "Close": 1448.0,
+        "Percent Change": 4.55,
+        "Volume": 1870.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-06-02",
+        "Open": 1400.0,
+        "High": 1404.0,
+        "Low": 1370.0,
+        "Close": 1385.0,
+        "Percent Change": -1.07,
+        "Volume": 4075.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-30",
+        "Open": 1422.0,
+        "High": 1430.0,
+        "Low": 1390.0,
+        "Close": 1400.0,
+        "Percent Change": -2.44,
+        "Volume": 3984.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-29",
+        "Open": 1494.0,
+        "High": 1522.0,
+        "Low": 1435.0,
+        "Close": 1435.0,
+        "Percent Change": -2.05,
+        "Volume": 2784.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-27",
+        "Open": 1445.1,
+        "High": 1480.0,
+        "Low": 1430.0,
+        "Close": 1465.0,
+        "Percent Change": 1.38,
+        "Volume": 3812.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-26",
+        "Open": 1486.0,
+        "High": 1486.0,
+        "Low": 1421.0,
+        "Close": 1445.1,
+        "Percent Change": -2.69,
+        "Volume": 5180.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-22",
+        "Open": 1502.0,
+        "High": 1560.6,
+        "Low": 1485.0,
+        "Close": 1485.0,
+        "Percent Change": -2.94,
+        "Volume": 2711.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-21",
+        "Open": 1545.3,
+        "High": 1550.0,
+        "Low": 1490.0,
+        "Close": 1530.0,
+        "Percent Change": 0.99,
+        "Volume": 3440.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-20",
+        "Open": 1585.0,
+        "High": 1670.0,
+        "Low": 1513.0,
+        "Close": 1515.0,
+        "Percent Change": -4.11,
+        "Volume": 6906.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-19",
+        "Open": 1598.0,
+        "High": 1628.0,
+        "Low": 1550.2,
+        "Close": 1580.0,
+        "Percent Change": -0.46,
+        "Volume": 7644.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-16",
+        "Open": 1430.0,
+        "High": 1587.3,
+        "Low": 1403.0,
+        "Close": 1587.3,
+        "Percent Change": 10.0,
+        "Volume": 12988.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-15",
+        "Open": 1420.0,
+        "High": 1496.8,
+        "Low": 1420.0,
+        "Close": 1443.0,
+        "Percent Change": 2.98,
+        "Volume": 7508.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-14",
+        "Open": 1315.0,
+        "High": 1430.0,
+        "Low": 1310.0,
+        "Close": 1401.3,
+        "Percent Change": 6.56,
+        "Volume": 8122.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-13",
+        "Open": 1281.0,
+        "High": 1339.0,
+        "Low": 1281.0,
+        "Close": 1315.0,
+        "Percent Change": 1.15,
+        "Volume": 2796.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-12",
+        "Open": 1305.0,
+        "High": 1323.0,
+        "Low": 1280.0,
+        "Close": 1300.0,
+        "Percent Change": -2.26,
+        "Volume": 2115.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-09",
+        "Open": 1321.0,
+        "High": 1374.0,
+        "Low": 1320.0,
+        "Close": 1330.0,
+        "Percent Change": 0.0,
+        "Volume": 4979.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-08",
+        "Open": 1264.0,
+        "High": 1346.0,
+        "Low": 1264.0,
+        "Close": 1330.0,
+        "Percent Change": 3.26,
+        "Volume": 5698.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-07",
+        "Open": 1259.0,
+        "High": 1297.0,
+        "Low": 1217.0,
+        "Close": 1288.0,
+        "Percent Change": 4.29,
+        "Volume": 999.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-06",
+        "Open": 1272.0,
+        "High": 1272.0,
+        "Low": 1230.0,
+        "Close": 1235.0,
+        "Percent Change": -2.91,
+        "Volume": 1136.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-05",
+        "Open": 1287.0,
+        "High": 1335.0,
+        "Low": 1250.0,
+        "Close": 1272.0,
+        "Percent Change": -1.02,
+        "Volume": 5604.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-05-02",
+        "Open": 1196.0,
+        "High": 1331.8,
+        "Low": 1196.0,
+        "Close": 1285.1,
+        "Percent Change": 5.73,
+        "Volume": 6996.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-30",
+        "Open": 1200.1,
+        "High": 1238.0,
+        "Low": 1190.0,
+        "Close": 1215.5,
+        "Percent Change": 0.45,
+        "Volume": 3261.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-29",
+        "Open": 1263.0,
+        "High": 1263.0,
+        "Low": 1200.1,
+        "Close": 1210.0,
+        "Percent Change": -2.34,
+        "Volume": 732.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-28",
+        "Open": 1215.2,
+        "High": 1239.0,
+        "Low": 1196.0,
+        "Close": 1239.0,
+        "Percent Change": -0.08,
+        "Volume": 980.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-25",
+        "Open": 1215.0,
+        "High": 1258.9,
+        "Low": 1215.0,
+        "Close": 1240.0,
+        "Percent Change": 0.08,
+        "Volume": 588.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-24",
+        "Open": 1205.0,
+        "High": 1269.0,
+        "Low": 1200.0,
+        "Close": 1239.0,
+        "Percent Change": 2.72,
+        "Volume": 1067.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-22",
+        "Open": 1221.0,
+        "High": 1251.5,
+        "Low": 1203.1,
+        "Close": 1206.2,
+        "Percent Change": -0.26,
+        "Volume": 661.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-21",
+        "Open": 1220.0,
+        "High": 1268.0,
+        "Low": 1195.6,
+        "Close": 1209.4,
+        "Percent Change": -2.78,
+        "Volume": 949.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-18",
+        "Open": 1234.0,
+        "High": 1255.0,
+        "Low": 1209.5,
+        "Close": 1244.0,
+        "Percent Change": -1.11,
+        "Volume": 1304.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-16",
+        "Open": 1276.0,
+        "High": 1299.5,
+        "Low": 1257.0,
+        "Close": 1258.0,
+        "Percent Change": -1.33,
+        "Volume": 1314.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-15",
+        "Open": 1255.0,
+        "High": 1305.0,
+        "Low": 1250.0,
+        "Close": 1275.0,
+        "Percent Change": 2.0,
+        "Volume": 2874.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-14",
+        "Open": 1255.0,
+        "High": 1285.0,
+        "Low": 1230.0,
+        "Close": 1250.0,
+        "Percent Change": 1.54,
+        "Volume": 1932.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-10",
+        "Open": 1291.0,
+        "High": 1342.0,
+        "Low": 1230.0,
+        "Close": 1231.0,
+        "Percent Change": -2.76,
+        "Volume": 3132.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-09",
+        "Open": 1270.0,
+        "High": 1330.0,
+        "Low": 1265.0,
+        "Close": 1266.0,
+        "Percent Change": 0.48,
+        "Volume": 3339.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-07",
+        "Open": 1279.0,
+        "High": 1307.0,
+        "Low": 1248.0,
+        "Close": 1260.0,
+        "Percent Change": 0.48,
+        "Volume": 5466.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-04",
+        "Open": 1175.0,
+        "High": 1283.0,
+        "Low": 1160.0,
+        "Close": 1254.0,
+        "Percent Change": 6.72,
+        "Volume": 4810.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-03",
+        "Open": 1174.0,
+        "High": 1210.0,
+        "Low": 1155.0,
+        "Close": 1175.0,
+        "Percent Change": -1.84,
+        "Volume": 1877.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-02",
+        "Open": 1145.0,
+        "High": 1197.4,
+        "Low": 1141.7,
+        "Close": 1197.0,
+        "Percent Change": 2.75,
+        "Volume": 1805.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-04-01",
+        "Open": 1175.5,
+        "High": 1175.5,
+        "Low": 1152.0,
+        "Close": 1165.0,
+        "Percent Change": -0.89,
+        "Volume": 1189.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-31",
+        "Open": 1220.0,
+        "High": 1220.0,
+        "Low": 1172.5,
+        "Close": 1175.5,
+        "Percent Change": -2.04,
+        "Volume": 1266.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-28",
+        "Open": 1191.5,
+        "High": 1230.0,
+        "Low": 1191.5,
+        "Close": 1200.0,
+        "Percent Change": -0.41,
+        "Volume": 1687.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-27",
+        "Open": 1200.0,
+        "High": 1215.0,
+        "Low": 1198.1,
+        "Close": 1205.0,
+        "Percent Change": -0.41,
+        "Volume": 1523.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-26",
+        "Open": 1195.0,
+        "High": 1243.2,
+        "Low": 1195.0,
+        "Close": 1210.0,
+        "Percent Change": 1.51,
+        "Volume": 1156.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-25",
+        "Open": 1220.0,
+        "High": 1230.0,
+        "Low": 1192.0,
+        "Close": 1192.0,
+        "Percent Change": -3.95,
+        "Volume": 2054.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-21",
+        "Open": 1265.0,
+        "High": 1290.0,
+        "Low": 1240.0,
+        "Close": 1241.0,
+        "Percent Change": -1.9,
+        "Volume": 1401.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-20",
+        "Open": 1288.0,
+        "High": 1310.0,
+        "Low": 1260.0,
+        "Close": 1265.0,
+        "Percent Change": 0.17,
+        "Volume": 4911.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-19",
+        "Open": 1242.7,
+        "High": 1271.0,
+        "Low": 1225.0,
+        "Close": 1262.8,
+        "Percent Change": 3.51,
+        "Volume": 1770.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-18",
+        "Open": 1212.0,
+        "High": 1236.0,
+        "Low": 1190.0,
+        "Close": 1220.0,
+        "Percent Change": 0.65,
+        "Volume": 1772.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-17",
+        "Open": 1230.0,
+        "High": 1250.0,
+        "Low": 1200.0,
+        "Close": 1212.1,
+        "Percent Change": -3.03,
+        "Volume": 2651.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-14",
+        "Open": 1320.0,
+        "High": 1320.0,
+        "Low": 1235.0,
+        "Close": 1250.0,
+        "Percent Change": -5.66,
+        "Volume": 6460.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-13",
+        "Open": 1288.4,
+        "High": 1389.0,
+        "Low": 1288.4,
+        "Close": 1325.0,
+        "Percent Change": 4.89,
+        "Volume": 9024.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-12",
+        "Open": 1171.2,
+        "High": 1263.2,
+        "Low": 1171.2,
+        "Close": 1263.2,
+        "Percent Change": 10.0,
+        "Volume": 8129.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-10",
+        "Open": 1064.8,
+        "High": 1148.4,
+        "Low": 1064.8,
+        "Close": 1148.4,
+        "Percent Change": 10.0,
+        "Volume": 4129.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-07",
+        "Open": 1044.0,
+        "High": 1050.0,
+        "Low": 1020.0,
+        "Close": 1044.0,
+        "Percent Change": 1.95,
+        "Volume": 745.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-06",
+        "Open": 1005.1,
+        "High": 1040.0,
+        "Low": 1005.0,
+        "Close": 1024.0,
+        "Percent Change": 0.1,
+        "Volume": 694.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-05",
+        "Open": 1021.0,
+        "High": 1035.0,
+        "Low": 1000.6,
+        "Close": 1023.0,
+        "Percent Change": 2.2,
+        "Volume": 870.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-04",
+        "Open": 1001.0,
+        "High": 1001.0,
+        "Low": 1001.0,
+        "Close": 1001.0,
+        "Percent Change": 0.11,
+        "Volume": 11.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-03-03",
+        "Open": 1000.0,
+        "High": 1020.0,
+        "Low": 980.0,
+        "Close": 999.9,
+        "Percent Change": -1.97,
+        "Volume": 1119.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-29",
+        "Open": 1039.0,
+        "High": 1040.4,
+        "Low": 1001.0,
+        "Close": 1020.0,
+        "Percent Change": 0.0,
+        "Volume": 1473.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-28",
+        "Open": 1041.0,
+        "High": 1041.0,
+        "Low": 1010.0,
+        "Close": 1020.0,
+        "Percent Change": -3.77,
+        "Volume": 2526.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-27",
+        "Open": 1038.2,
+        "High": 1074.0,
+        "Low": 1037.9,
+        "Close": 1060.0,
+        "Percent Change": 0.09,
+        "Volume": 396.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-26",
+        "Open": 1030.1,
+        "High": 1065.0,
+        "Low": 1030.1,
+        "Close": 1059.0,
+        "Percent Change": 0.86,
+        "Volume": 270.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-25",
+        "Open": 1055.1,
+        "High": 1090.0,
+        "Low": 1042.0,
+        "Close": 1050.0,
+        "Percent Change": -1.87,
+        "Volume": 457.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-22",
+        "Open": 1071.0,
+        "High": 1080.0,
+        "Low": 1052.0,
+        "Close": 1070.0,
+        "Percent Change": -1.83,
+        "Volume": 634.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-21",
+        "Open": 1080.0,
+        "High": 1090.0,
+        "Low": 1071.0,
+        "Close": 1089.9,
+        "Percent Change": -0.01,
+        "Volume": 530.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-20",
+        "Open": 1090.0,
+        "High": 1100.0,
+        "Low": 1080.0,
+        "Close": 1090.0,
+        "Percent Change": -0.91,
+        "Volume": 460.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-18",
+        "Open": 1100.0,
+        "High": 1105.0,
+        "Low": 1090.0,
+        "Close": 1100.0,
+        "Percent Change": -0.9,
+        "Volume": 766.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-15",
+        "Open": 1104.1,
+        "High": 1115.0,
+        "Low": 1104.1,
+        "Close": 1110.0,
+        "Percent Change": 0.27,
+        "Volume": 1005.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-14",
+        "Open": 1110.1,
+        "High": 1129.0,
+        "Low": 1088.5,
+        "Close": 1107.0,
+        "Percent Change": -1.95,
+        "Volume": 985.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-13",
+        "Open": 1139.0,
+        "High": 1140.0,
+        "Low": 1116.0,
+        "Close": 1129.0,
+        "Percent Change": -1.73,
+        "Volume": 813.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-12",
+        "Open": 1122.1,
+        "High": 1160.0,
+        "Low": 1122.1,
+        "Close": 1148.9,
+        "Percent Change": 0.34,
+        "Volume": 456.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-11",
+        "Open": 1135.2,
+        "High": 1157.0,
+        "Low": 1135.2,
+        "Close": 1145.0,
+        "Percent Change": 0.72,
+        "Volume": 841.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-08",
+        "Open": 1155.0,
+        "High": 1160.0,
+        "Low": 1132.0,
+        "Close": 1136.8,
+        "Percent Change": -1.58,
+        "Volume": 423.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-07",
+        "Open": 1156.0,
+        "High": 1156.0,
+        "Low": 1133.0,
+        "Close": 1155.0,
+        "Percent Change": 1.85,
+        "Volume": 402.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-06",
+        "Open": 1152.6,
+        "High": 1155.0,
+        "Low": 1130.0,
+        "Close": 1134.0,
+        "Percent Change": 0.35,
+        "Volume": 745.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-05",
+        "Open": 1111.0,
+        "High": 1160.0,
+        "Low": 1111.0,
+        "Close": 1130.0,
+        "Percent Change": 1.71,
+        "Volume": 936.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-04",
+        "Open": 1098.0,
+        "High": 1114.0,
+        "Low": 1098.0,
+        "Close": 1111.0,
+        "Percent Change": -0.8,
+        "Volume": 918.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-02-01",
+        "Open": 1130.0,
+        "High": 1140.0,
+        "Low": 1111.0,
+        "Close": 1120.0,
+        "Percent Change": -2.78,
+        "Volume": 769.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-31",
+        "Open": 1147.0,
+        "High": 1165.0,
+        "Low": 1126.3,
+        "Close": 1152.0,
+        "Percent Change": -1.54,
+        "Volume": 2383.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-30",
+        "Open": 1175.0,
+        "High": 1191.1,
+        "Low": 1170.0,
+        "Close": 1170.0,
+        "Percent Change": 0.17,
+        "Volume": 763.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-29",
+        "Open": 1150.0,
+        "High": 1186.0,
+        "Low": 1150.0,
+        "Close": 1168.0,
+        "Percent Change": 0.95,
+        "Volume": 373.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-28",
+        "Open": 1160.0,
+        "High": 1165.0,
+        "Low": 1138.0,
+        "Close": 1157.0,
+        "Percent Change": -0.7,
+        "Volume": 1166.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-25",
+        "Open": 1160.0,
+        "High": 1199.0,
+        "Low": 1152.5,
+        "Close": 1165.1,
+        "Percent Change": -0.93,
+        "Volume": 505.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-24",
+        "Open": 1165.0,
+        "High": 1212.0,
+        "Low": 1165.0,
+        "Close": 1176.0,
+        "Percent Change": -0.34,
+        "Volume": 1273.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-23",
+        "Open": 1160.0,
+        "High": 1183.0,
+        "Low": 1158.0,
+        "Close": 1180.0,
+        "Percent Change": 0.6,
+        "Volume": 741.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-22",
+        "Open": 1220.0,
+        "High": 1220.0,
+        "Low": 1161.0,
+        "Close": 1173.0,
+        "Percent Change": -4.63,
+        "Volume": 2163.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-21",
+        "Open": 1290.5,
+        "High": 1290.5,
+        "Low": 1230.0,
+        "Close": 1230.0,
+        "Percent Change": -4.67,
+        "Volume": 2239.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-18",
+        "Open": 1281.0,
+        "High": 1320.0,
+        "Low": 1270.0,
+        "Close": 1290.3,
+        "Percent Change": 0.73,
+        "Volume": 3321.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-17",
+        "Open": 1290.0,
+        "High": 1390.0,
+        "Low": 1281.0,
+        "Close": 1281.0,
+        "Percent Change": 0.87,
+        "Volume": 5351.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-16",
+        "Open": 1200.0,
+        "High": 1293.3,
+        "Low": 1198.0,
+        "Close": 1270.0,
+        "Percent Change": 6.72,
+        "Volume": 3252.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-14",
+        "Open": 1170.0,
+        "High": 1194.0,
+        "Low": 1162.0,
+        "Close": 1190.0,
+        "Percent Change": 3.03,
+        "Volume": 3266.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-11",
+        "Open": 1160.1,
+        "High": 1166.0,
+        "Low": 1140.0,
+        "Close": 1155.0,
+        "Percent Change": -0.43,
+        "Volume": 1088.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-10",
+        "Open": 1095.1,
+        "High": 1180.0,
+        "Low": 1095.1,
+        "Close": 1160.0,
+        "Percent Change": 5.93,
+        "Volume": 3727.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-09",
+        "Open": 1072.0,
+        "High": 1114.9,
+        "Low": 1072.0,
+        "Close": 1095.1,
+        "Percent Change": 1.4,
+        "Volume": 1780.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-08",
+        "Open": 1085.0,
+        "High": 1106.7,
+        "Low": 1077.5,
+        "Close": 1080.0,
+        "Percent Change": -1.37,
+        "Volume": 1227.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-07",
+        "Open": 1092.1,
+        "High": 1118.0,
+        "Low": 1090.0,
+        "Close": 1095.0,
+        "Percent Change": -1.56,
+        "Volume": 431.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-04",
+        "Open": 1107.0,
+        "High": 1150.0,
+        "Low": 1100.0,
+        "Close": 1112.3,
+        "Percent Change": 2.42,
+        "Volume": 768.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-03",
+        "Open": 1065.0,
+        "High": 1086.0,
+        "Low": 1064.5,
+        "Close": 1086.0,
+        "Percent Change": 0.0,
+        "Volume": 617.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-02",
+        "Open": 1123.0,
+        "High": 1127.0,
+        "Low": 1065.0,
+        "Close": 1086.0,
+        "Percent Change": -1.36,
+        "Volume": 871.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2024-01-01",
+        "Open": 1130.0,
+        "High": 1130.0,
+        "Low": 1090.0,
+        "Close": 1101.0,
+        "Percent Change": -2.57,
+        "Volume": 1000.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-28",
+        "Open": 1110.0,
+        "High": 1137.3,
+        "Low": 1108.0,
+        "Close": 1130.0,
+        "Percent Change": 0.0,
+        "Volume": 442.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-27",
+        "Open": 1155.0,
+        "High": 1160.0,
+        "Low": 1111.0,
+        "Close": 1130.0,
+        "Percent Change": -3.42,
+        "Volume": 1344.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-24",
+        "Open": 1190.0,
+        "High": 1190.0,
+        "Low": 1151.0,
+        "Close": 1170.0,
+        "Percent Change": -2.9,
+        "Volume": 1975.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-21",
+        "Open": 1262.0,
+        "High": 1262.0,
+        "Low": 1196.0,
+        "Close": 1205.0,
+        "Percent Change": -4.52,
+        "Volume": 2347.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-20",
+        "Open": 1209.7,
+        "High": 1278.8,
+        "Low": 1209.7,
+        "Close": 1262.0,
+        "Percent Change": 6.41,
+        "Volume": 2587.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-19",
+        "Open": 1122.0,
+        "High": 1220.0,
+        "Low": 1122.0,
+        "Close": 1186.0,
+        "Percent Change": 5.96,
+        "Volume": 2647.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-18",
+        "Open": 1030.1,
+        "High": 1126.4,
+        "Low": 1024.0,
+        "Close": 1119.3,
+        "Percent Change": 9.31,
+        "Volume": 3193.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-17",
+        "Open": 989.9,
+        "High": 1034.0,
+        "Low": 989.9,
+        "Close": 1024.0,
+        "Percent Change": 1.39,
+        "Volume": 1116.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-14",
+        "Open": 1000.1,
+        "High": 1049.5,
+        "Low": 1000.0,
+        "Close": 1010.0,
+        "Percent Change": -0.98,
+        "Volume": 1590.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-13",
+        "Open": 1020.0,
+        "High": 1040.0,
+        "Low": 1000.0,
+        "Close": 1020.0,
+        "Percent Change": 0.79,
+        "Volume": 723.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-12",
+        "Open": 1000.0,
+        "High": 1024.0,
+        "Low": 990.0,
+        "Close": 1012.0,
+        "Percent Change": 0.7,
+        "Volume": 546.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-11",
+        "Open": 971.0,
+        "High": 1009.8,
+        "Low": 971.0,
+        "Close": 1005.0,
+        "Percent Change": 5.38,
+        "Volume": 1738.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-10",
+        "Open": 953.7,
+        "High": 953.7,
+        "Low": 953.7,
+        "Close": 953.7,
+        "Percent Change": 2.0,
+        "Volume": 10.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-07",
+        "Open": 950.0,
+        "High": 950.0,
+        "Low": 931.0,
+        "Close": 935.0,
+        "Percent Change": -1.58,
+        "Volume": 439.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-06",
+        "Open": 958.8,
+        "High": 958.8,
+        "Low": 921.2,
+        "Close": 950.0,
+        "Percent Change": 1.06,
+        "Volume": 365.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-05",
+        "Open": 950.0,
+        "High": 952.0,
+        "Low": 935.0,
+        "Close": 940.0,
+        "Percent Change": -2.99,
+        "Volume": 721.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-04",
+        "Open": 970.0,
+        "High": 970.0,
+        "Low": 940.0,
+        "Close": 969.0,
+        "Percent Change": -0.09,
+        "Volume": 480.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-12-03",
+        "Open": 953.0,
+        "High": 975.0,
+        "Low": 953.0,
+        "Close": 969.9,
+        "Percent Change": -0.22,
+        "Volume": 845.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-30",
+        "Open": 970.0,
+        "High": 972.0,
+        "Low": 953.0,
+        "Close": 972.0,
+        "Percent Change": -1.52,
+        "Volume": 686.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-29",
+        "Open": 976.0,
+        "High": 995.5,
+        "Low": 975.0,
+        "Close": 987.0,
+        "Percent Change": -0.8,
+        "Volume": 587.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-28",
+        "Open": 976.1,
+        "High": 1000.0,
+        "Low": 976.1,
+        "Close": 995.0,
+        "Percent Change": 0.3,
+        "Volume": 329.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-27",
+        "Open": 1000.0,
+        "High": 1020.0,
+        "Low": 992.0,
+        "Close": 992.0,
+        "Percent Change": -0.5,
+        "Volume": 235.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-26",
+        "Open": 950.0,
+        "High": 998.0,
+        "Low": 920.0,
+        "Close": 997.0,
+        "Percent Change": 3.0,
+        "Volume": 512.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-23",
+        "Open": 968.4,
+        "High": 986.0,
+        "Low": 950.0,
+        "Close": 968.0,
+        "Percent Change": -2.02,
+        "Volume": 429.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-22",
+        "Open": 990.0,
+        "High": 1000.0,
+        "Low": 980.5,
+        "Close": 988.0,
+        "Percent Change": -1.2,
+        "Volume": 530.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-21",
+        "Open": 1010.0,
+        "High": 1020.0,
+        "Low": 990.0,
+        "Close": 1000.0,
+        "Percent Change": -2.53,
+        "Volume": 540.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-20",
+        "Open": 1024.1,
+        "High": 1035.0,
+        "Low": 1024.0,
+        "Close": 1026.0,
+        "Percent Change": -1.82,
+        "Volume": 285.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-09",
+        "Open": 1064.0,
+        "High": 1064.0,
+        "Low": 1045.0,
+        "Close": 1045.0,
+        "Percent Change": -1.88,
+        "Volume": 529.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-08",
+        "Open": 1050.0,
+        "High": 1065.0,
+        "Low": 1045.0,
+        "Close": 1065.0,
+        "Percent Change": 0.47,
+        "Volume": 133.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-07",
+        "Open": 1072.9,
+        "High": 1073.0,
+        "Low": 1055.0,
+        "Close": 1060.0,
+        "Percent Change": 0.76,
+        "Volume": 643.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-06",
+        "Open": 1035.0,
+        "High": 1055.7,
+        "Low": 1030.0,
+        "Close": 1052.0,
+        "Percent Change": 1.25,
+        "Volume": 403.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-05",
+        "Open": 1040.0,
+        "High": 1053.6,
+        "Low": 1022.0,
+        "Close": 1039.0,
+        "Percent Change": -0.1,
+        "Volume": 1198.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-02",
+        "Open": 1058.0,
+        "High": 1059.0,
+        "Low": 1036.0,
+        "Close": 1040.0,
+        "Percent Change": -3.61,
+        "Volume": 668.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-11-01",
+        "Open": 1062.2,
+        "High": 1079.0,
+        "Low": 1050.0,
+        "Close": 1079.0,
+        "Percent Change": -0.09,
+        "Volume": 359.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-31",
+        "Open": 1058.6,
+        "High": 1080.0,
+        "Low": 1058.6,
+        "Close": 1080.0,
+        "Percent Change": 0.09,
+        "Volume": 148.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-30",
+        "Open": 1077.1,
+        "High": 1099.9,
+        "Low": 1056.0,
+        "Close": 1079.0,
+        "Percent Change": -1.82,
+        "Volume": 190.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-29",
+        "Open": 1114.9,
+        "High": 1114.9,
+        "Low": 1071.2,
+        "Close": 1099.0,
+        "Percent Change": -1.43,
+        "Volume": 336.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-19",
+        "Open": 1085.0,
+        "High": 1125.0,
+        "Low": 1085.0,
+        "Close": 1114.9,
+        "Percent Change": 2.76,
+        "Volume": 199.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-18",
+        "Open": 1065.0,
+        "High": 1085.0,
+        "Low": 1058.0,
+        "Close": 1085.0,
+        "Percent Change": 2.55,
+        "Volume": 446.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-17",
+        "Open": 1030.0,
+        "High": 1058.0,
+        "Low": 1030.0,
+        "Close": 1058.0,
+        "Percent Change": 1.73,
+        "Volume": 165.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-16",
+        "Open": 1033.0,
+        "High": 1049.0,
+        "Low": 1030.0,
+        "Close": 1040.0,
+        "Percent Change": -1.33,
+        "Volume": 921.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-12",
+        "Open": 1045.0,
+        "High": 1065.9,
+        "Low": 1044.1,
+        "Close": 1054.0,
+        "Percent Change": -1.03,
+        "Volume": 1043.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-11",
+        "Open": 1067.0,
+        "High": 1070.0,
+        "Low": 1065.0,
+        "Close": 1065.0,
+        "Percent Change": -1.11,
+        "Volume": 292.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-10",
+        "Open": 1077.0,
+        "High": 1077.0,
+        "Low": 1052.0,
+        "Close": 1077.0,
+        "Percent Change": -1.64,
+        "Volume": 754.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-09",
+        "Open": 1111.8,
+        "High": 1111.8,
+        "Low": 1076.2,
+        "Close": 1095.0,
+        "Percent Change": -1.51,
+        "Volume": 472.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-08",
+        "Open": 1106.0,
+        "High": 1120.0,
+        "Low": 1090.0,
+        "Close": 1111.8,
+        "Percent Change": -0.98,
+        "Volume": 732.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-05",
+        "Open": 1112.3,
+        "High": 1122.9,
+        "Low": 1100.0,
+        "Close": 1122.8,
+        "Percent Change": -1.07,
+        "Volume": 737.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-04",
+        "Open": 1125.2,
+        "High": 1150.0,
+        "Low": 1108.0,
+        "Close": 1135.0,
+        "Percent Change": 0.87,
+        "Volume": 158.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-03",
+        "Open": 1150.0,
+        "High": 1150.0,
+        "Low": 1125.2,
+        "Close": 1125.2,
+        "Percent Change": -1.73,
+        "Volume": 741.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-02",
+        "Open": 1130.0,
+        "High": 1150.0,
+        "Low": 1115.1,
+        "Close": 1145.0,
+        "Percent Change": 1.33,
+        "Volume": 311.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-10-01",
+        "Open": 1120.0,
+        "High": 1154.0,
+        "Low": 1120.0,
+        "Close": 1130.0,
+        "Percent Change": 0.44,
+        "Volume": 1789.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-27",
+        "Open": 1162.0,
+        "High": 1162.0,
+        "Low": 1113.0,
+        "Close": 1125.0,
+        "Percent Change": -1.32,
+        "Volume": 698.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-26",
+        "Open": 1120.0,
+        "High": 1160.0,
+        "Low": 1120.0,
+        "Close": 1140.1,
+        "Percent Change": 0.45,
+        "Volume": 658.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-25",
+        "Open": 1110.0,
+        "High": 1165.0,
+        "Low": 1110.0,
+        "Close": 1135.0,
+        "Percent Change": 1.43,
+        "Volume": 1043.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-24",
+        "Open": 1076.0,
+        "High": 1132.2,
+        "Low": 1076.0,
+        "Close": 1119.0,
+        "Percent Change": 4.09,
+        "Volume": 2288.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-21",
+        "Open": 1055.1,
+        "High": 1095.0,
+        "Low": 1055.1,
+        "Close": 1075.0,
+        "Percent Change": 0.37,
+        "Volume": 1180.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-19",
+        "Open": 1041.0,
+        "High": 1071.0,
+        "Low": 1037.0,
+        "Close": 1071.0,
+        "Percent Change": 1.32,
+        "Volume": 385.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-18",
+        "Open": 1080.0,
+        "High": 1122.0,
+        "Low": 1056.9,
+        "Close": 1057.0,
+        "Percent Change": -0.75,
+        "Volume": 1072.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-17",
+        "Open": 1077.0,
+        "High": 1085.0,
+        "Low": 1050.0,
+        "Close": 1065.0,
+        "Percent Change": -1.02,
+        "Volume": 445.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-13",
+        "Open": 1090.0,
+        "High": 1095.0,
+        "Low": 1070.0,
+        "Close": 1076.0,
+        "Percent Change": 0.09,
+        "Volume": 809.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-12",
+        "Open": 1080.0,
+        "High": 1100.0,
+        "Low": 1072.5,
+        "Close": 1075.0,
+        "Percent Change": 1.42,
+        "Volume": 641.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-11",
+        "Open": 1077.0,
+        "High": 1077.0,
+        "Low": 1040.0,
+        "Close": 1060.0,
+        "Percent Change": -1.49,
+        "Volume": 1947.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-10",
+        "Open": 1100.0,
+        "High": 1109.5,
+        "Low": 1076.0,
+        "Close": 1076.0,
+        "Percent Change": -3.5,
+        "Volume": 1311.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-07",
+        "Open": 1118.0,
+        "High": 1119.0,
+        "Low": 1102.0,
+        "Close": 1115.0,
+        "Percent Change": -2.19,
+        "Volume": 1513.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-05",
+        "Open": 1150.0,
+        "High": 1151.0,
+        "Low": 1131.0,
+        "Close": 1140.0,
+        "Percent Change": -2.15,
+        "Volume": 902.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-04",
+        "Open": 1200.0,
+        "High": 1200.0,
+        "Low": 1157.0,
+        "Close": 1165.0,
+        "Percent Change": -2.27,
+        "Volume": 1193.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-09-03",
+        "Open": 1235.0,
+        "High": 1235.0,
+        "Low": 1190.1,
+        "Close": 1192.1,
+        "Percent Change": -3.24,
+        "Volume": 1131.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-30",
+        "Open": 1265.0,
+        "High": 1265.0,
+        "Low": 1229.0,
+        "Close": 1232.0,
+        "Percent Change": -1.75,
+        "Volume": 1297.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-29",
+        "Open": 1275.0,
+        "High": 1275.0,
+        "Low": 1254.0,
+        "Close": 1254.0,
+        "Percent Change": -0.79,
+        "Volume": 706.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-28",
+        "Open": 1261.0,
+        "High": 1279.0,
+        "Low": 1238.1,
+        "Close": 1264.0,
+        "Percent Change": -1.71,
+        "Volume": 1231.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-27",
+        "Open": 1270.1,
+        "High": 1295.4,
+        "Low": 1270.0,
+        "Close": 1286.0,
+        "Percent Change": -0.62,
+        "Volume": 338.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-24",
+        "Open": 1341.0,
+        "High": 1341.0,
+        "Low": 1294.0,
+        "Close": 1294.0,
+        "Percent Change": -1.6,
+        "Volume": 1215.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-23",
+        "Open": 1310.0,
+        "High": 1330.0,
+        "Low": 1302.0,
+        "Close": 1315.0,
+        "Percent Change": 1.13,
+        "Volume": 460.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-22",
+        "Open": 1300.0,
+        "High": 1315.0,
+        "Low": 1300.0,
+        "Close": 1300.3,
+        "Percent Change": 1.41,
+        "Volume": 614.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-21",
+        "Open": 1290.0,
+        "High": 1295.0,
+        "Low": 1282.0,
+        "Close": 1282.2,
+        "Percent Change": -1.37,
+        "Volume": 406.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-20",
+        "Open": 1290.0,
+        "High": 1310.0,
+        "Low": 1290.0,
+        "Close": 1300.0,
+        "Percent Change": -0.31,
+        "Volume": 641.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-17",
+        "Open": 1304.0,
+        "High": 1317.0,
+        "Low": 1300.0,
+        "Close": 1304.0,
+        "Percent Change": -0.31,
+        "Volume": 788.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-16",
+        "Open": 1292.0,
+        "High": 1317.4,
+        "Low": 1292.0,
+        "Close": 1308.0,
+        "Percent Change": 1.24,
+        "Volume": 1731.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-15",
+        "Open": 1288.7,
+        "High": 1309.9,
+        "Low": 1271.1,
+        "Close": 1292.0,
+        "Percent Change": -1.75,
+        "Volume": 1716.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-14",
+        "Open": 1311.0,
+        "High": 1320.0,
+        "Low": 1285.3,
+        "Close": 1315.0,
+        "Percent Change": -1.57,
+        "Volume": 952.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-13",
+        "Open": 1331.0,
+        "High": 1342.0,
+        "Low": 1331.0,
+        "Close": 1336.0,
+        "Percent Change": -0.82,
+        "Volume": 351.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-10",
+        "Open": 1350.0,
+        "High": 1360.0,
+        "Low": 1342.0,
+        "Close": 1347.0,
+        "Percent Change": 1.28,
+        "Volume": 538.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-09",
+        "Open": 1339.9,
+        "High": 1339.9,
+        "Low": 1289.0,
+        "Close": 1330.0,
+        "Percent Change": 1.13,
+        "Volume": 699.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-08",
+        "Open": 1382.2,
+        "High": 1382.2,
+        "Low": 1301.5,
+        "Close": 1315.1,
+        "Percent Change": -2.95,
+        "Volume": 702.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-07",
+        "Open": 1355.1,
+        "High": 1382.0,
+        "Low": 1355.0,
+        "Close": 1355.1,
+        "Percent Change": -1.8,
+        "Volume": 956.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-06",
+        "Open": 1396.0,
+        "High": 1397.0,
+        "Low": 1379.0,
+        "Close": 1380.0,
+        "Percent Change": -3.01,
+        "Volume": 812.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-03",
+        "Open": 1400.0,
+        "High": 1422.9,
+        "Low": 1390.1,
+        "Close": 1422.9,
+        "Percent Change": 0.91,
+        "Volume": 1144.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-02",
+        "Open": 1405.0,
+        "High": 1420.0,
+        "Low": 1390.0,
+        "Close": 1410.0,
+        "Percent Change": 0.36,
+        "Volume": 757.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-08-01",
+        "Open": 1400.0,
+        "High": 1435.0,
+        "Low": 1400.0,
+        "Close": 1405.0,
+        "Percent Change": -0.35,
+        "Volume": 2021.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-31",
+        "Open": 1407.0,
+        "High": 1424.0,
+        "Low": 1400.0,
+        "Close": 1410.0,
+        "Percent Change": -1.26,
+        "Volume": 2275.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-30",
+        "Open": 1465.0,
+        "High": 1465.0,
+        "Low": 1427.0,
+        "Close": 1428.0,
+        "Percent Change": -2.19,
+        "Volume": 2466.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-27",
+        "Open": 1459.3,
+        "High": 1517.0,
+        "Low": 1425.3,
+        "Close": 1460.0,
+        "Percent Change": -1.95,
+        "Volume": 4183.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-26",
+        "Open": 1560.5,
+        "High": 1560.5,
+        "Low": 1470.0,
+        "Close": 1489.0,
+        "Percent Change": -6.49,
+        "Volume": 9479.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-25",
+        "Open": 1615.0,
+        "High": 1617.0,
+        "Low": 1592.2,
+        "Close": 1592.3,
+        "Percent Change": -2.97,
+        "Volume": 529.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-24",
+        "Open": 1654.9,
+        "High": 1659.0,
+        "Low": 1626.1,
+        "Close": 1641.0,
+        "Percent Change": -0.55,
+        "Volume": 694.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-23",
+        "Open": 1642.0,
+        "High": 1655.0,
+        "Low": 1600.0,
+        "Close": 1650.0,
+        "Percent Change": 1.04,
+        "Volume": 4012.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-20",
+        "Open": 1635.0,
+        "High": 1650.0,
+        "Low": 1621.0,
+        "Close": 1633.0,
+        "Percent Change": -1.8,
+        "Volume": 403.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-19",
+        "Open": 1606.0,
+        "High": 1698.3,
+        "Low": 1606.0,
+        "Close": 1663.0,
+        "Percent Change": 1.6,
+        "Volume": 3260.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-18",
+        "Open": 1620.0,
+        "High": 1650.0,
+        "Low": 1617.0,
+        "Close": 1636.8,
+        "Percent Change": 0.73,
+        "Volume": 958.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-17",
+        "Open": 1585.0,
+        "High": 1625.0,
+        "Low": 1585.0,
+        "Close": 1625.0,
+        "Percent Change": 0.61,
+        "Volume": 1423.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-16",
+        "Open": 1613.0,
+        "High": 1625.0,
+        "Low": 1600.0,
+        "Close": 1615.1,
+        "Percent Change": 0.09,
+        "Volume": 806.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-13",
+        "Open": 1580.0,
+        "High": 1613.6,
+        "Low": 1570.0,
+        "Close": 1613.6,
+        "Percent Change": 2.32,
+        "Volume": 540.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-12",
+        "Open": 1553.0,
+        "High": 1580.0,
+        "Low": 1553.0,
+        "Close": 1577.0,
+        "Percent Change": 2.74,
+        "Volume": 892.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-11",
+        "Open": 1580.0,
+        "High": 1580.0,
+        "Low": 1535.0,
+        "Close": 1535.0,
+        "Percent Change": -3.06,
+        "Volume": 1415.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-10",
+        "Open": 1581.0,
+        "High": 1593.0,
+        "Low": 1551.0,
+        "Close": 1583.4,
+        "Percent Change": 2.15,
+        "Volume": 1010.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-09",
+        "Open": 1549.0,
+        "High": 1581.0,
+        "Low": 1522.0,
+        "Close": 1550.0,
+        "Percent Change": 1.97,
+        "Volume": 504.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-06",
+        "Open": 1570.0,
+        "High": 1570.0,
+        "Low": 1463.2,
+        "Close": 1520.0,
+        "Percent Change": -1.3,
+        "Volume": 1840.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-05",
+        "Open": 1593.0,
+        "High": 1600.0,
+        "Low": 1515.0,
+        "Close": 1540.0,
+        "Percent Change": -3.45,
+        "Volume": 1444.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-04",
+        "Open": 1575.1,
+        "High": 1600.0,
+        "Low": 1570.0,
+        "Close": 1595.0,
+        "Percent Change": 0.06,
+        "Volume": 641.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-03",
+        "Open": 1590.0,
+        "High": 1670.0,
+        "Low": 1581.1,
+        "Close": 1594.0,
+        "Percent Change": -0.99,
+        "Volume": 904.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-07-02",
+        "Open": 1671.5,
+        "High": 1679.0,
+        "Low": 1610.0,
+        "Close": 1610.0,
+        "Percent Change": -5.52,
+        "Volume": 3151.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-28",
+        "Open": 1762.0,
+        "High": 1869.7,
+        "Low": 1698.0,
+        "Close": 1704.0,
+        "Percent Change": -1.38,
+        "Volume": 3561.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-27",
+        "Open": 1570.0,
+        "High": 1727.8,
+        "Low": 1570.0,
+        "Close": 1727.8,
+        "Percent Change": 9.99,
+        "Volume": 3730.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-26",
+        "Open": 1545.0,
+        "High": 1570.8,
+        "Low": 1515.0,
+        "Close": 1570.8,
+        "Percent Change": 3.68,
+        "Volume": 1974.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-25",
+        "Open": 1515.0,
+        "High": 1520.0,
+        "Low": 1502.0,
+        "Close": 1515.0,
+        "Percent Change": 0.66,
+        "Volume": 1237.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-22",
+        "Open": 1520.0,
+        "High": 1520.0,
+        "Low": 1496.0,
+        "Close": 1505.0,
+        "Percent Change": -2.27,
+        "Volume": 772.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-21",
+        "Open": 1515.6,
+        "High": 1545.0,
+        "Low": 1500.0,
+        "Close": 1540.0,
+        "Percent Change": 0.52,
+        "Volume": 1350.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-20",
+        "Open": 1540.0,
+        "High": 1587.0,
+        "Low": 1532.0,
+        "Close": 1532.0,
+        "Percent Change": -0.21,
+        "Volume": 895.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-19",
+        "Open": 1543.6,
+        "High": 1577.0,
+        "Low": 1530.0,
+        "Close": 1535.2,
+        "Percent Change": -2.22,
+        "Volume": 725.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-18",
+        "Open": 1575.0,
+        "High": 1580.0,
+        "Low": 1560.0,
+        "Close": 1570.0,
+        "Percent Change": 0.01,
+        "Volume": 1983.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-15",
+        "Open": 1591.0,
+        "High": 1591.2,
+        "Low": 1553.0,
+        "Close": 1569.9,
+        "Percent Change": 0.63,
+        "Volume": 1010.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-14",
+        "Open": 1500.0,
+        "High": 1591.0,
+        "Low": 1500.0,
+        "Close": 1560.0,
+        "Percent Change": 4.0,
+        "Volume": 1895.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-13",
+        "Open": 1494.0,
+        "High": 1500.0,
+        "Low": 1459.0,
+        "Close": 1500.0,
+        "Percent Change": 2.18,
+        "Volume": 1736.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-12",
+        "Open": 1478.0,
+        "High": 1479.0,
+        "Low": 1441.0,
+        "Close": 1468.0,
+        "Percent Change": 1.24,
+        "Volume": 1258.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-11",
+        "Open": 1425.0,
+        "High": 1460.0,
+        "Low": 1425.0,
+        "Close": 1450.0,
+        "Percent Change": 0.0,
+        "Volume": 837.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-08",
+        "Open": 1430.0,
+        "High": 1465.0,
+        "Low": 1430.0,
+        "Close": 1450.0,
+        "Percent Change": -0.62,
+        "Volume": 385.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-07",
+        "Open": 1450.0,
+        "High": 1479.0,
+        "Low": 1450.0,
+        "Close": 1459.0,
+        "Percent Change": 0.97,
+        "Volume": 1314.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-06",
+        "Open": 1440.0,
+        "High": 1467.5,
+        "Low": 1440.0,
+        "Close": 1445.0,
+        "Percent Change": 0.73,
+        "Volume": 2114.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-05",
+        "Open": 1635.0,
+        "High": 1695.0,
+        "Low": 1630.0,
+        "Close": 1639.0,
+        "Percent Change": 0.43,
+        "Volume": 3226.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-04",
+        "Open": 1570.0,
+        "High": 1632.0,
+        "Low": 1550.0,
+        "Close": 1632.0,
+        "Percent Change": 5.97,
+        "Volume": 2329.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-06-01",
+        "Open": 1530.0,
+        "High": 1580.0,
+        "Low": 1520.0,
+        "Close": 1540.0,
+        "Percent Change": 1.32,
+        "Volume": 1252.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-31",
+        "Open": 1584.0,
+        "High": 1584.0,
+        "Low": 1518.1,
+        "Close": 1520.0,
+        "Percent Change": -4.04,
+        "Volume": 2047.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-30",
+        "Open": 1615.0,
+        "High": 1631.0,
+        "Low": 1575.4,
+        "Close": 1584.0,
+        "Percent Change": -1.0,
+        "Volume": 2047.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-28",
+        "Open": 1600.0,
+        "High": 1640.0,
+        "Low": 1580.0,
+        "Close": 1600.0,
+        "Percent Change": 1.27,
+        "Volume": 2395.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-24",
+        "Open": 1575.0,
+        "High": 1599.0,
+        "Low": 1520.0,
+        "Close": 1579.9,
+        "Percent Change": 1.93,
+        "Volume": 968.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-23",
+        "Open": 1500.0,
+        "High": 1555.5,
+        "Low": 1500.0,
+        "Close": 1550.0,
+        "Percent Change": 1.64,
+        "Volume": 1813.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-22",
+        "Open": 1505.0,
+        "High": 1534.0,
+        "Low": 1504.0,
+        "Close": 1525.0,
+        "Percent Change": -0.33,
+        "Volume": 715.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-21",
+        "Open": 1509.0,
+        "High": 1566.0,
+        "Low": 1480.0,
+        "Close": 1530.0,
+        "Percent Change": 1.39,
+        "Volume": 1283.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-18",
+        "Open": 1513.0,
+        "High": 1513.0,
+        "Low": 1480.0,
+        "Close": 1509.0,
+        "Percent Change": 1.62,
+        "Volume": 1450.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-17",
+        "Open": 1493.0,
+        "High": 1493.0,
+        "Low": 1461.3,
+        "Close": 1485.0,
+        "Percent Change": 0.81,
+        "Volume": 906.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-16",
+        "Open": 1460.0,
+        "High": 1484.0,
+        "Low": 1459.0,
+        "Close": 1473.0,
+        "Percent Change": 0.89,
+        "Volume": 556.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-15",
+        "Open": 1450.1,
+        "High": 1470.0,
+        "Low": 1436.0,
+        "Close": 1460.0,
+        "Percent Change": -0.01,
+        "Volume": 2120.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-14",
+        "Open": 1500.0,
+        "High": 1526.0,
+        "Low": 1475.0,
+        "Close": 1475.0,
+        "Percent Change": -3.28,
+        "Volume": 1640.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-11",
+        "Open": 1565.0,
+        "High": 1594.0,
+        "Low": 1525.0,
+        "Close": 1525.0,
+        "Percent Change": -4.03,
+        "Volume": 2263.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-10",
+        "Open": 1645.5,
+        "High": 1645.5,
+        "Low": 1581.0,
+        "Close": 1589.0,
+        "Percent Change": -5.36,
+        "Volume": 3281.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-09",
+        "Open": 1650.0,
+        "High": 1683.0,
+        "Low": 1650.0,
+        "Close": 1679.0,
+        "Percent Change": 1.76,
+        "Volume": 402.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-08",
+        "Open": 1655.0,
+        "High": 1689.0,
+        "Low": 1650.0,
+        "Close": 1650.0,
+        "Percent Change": -1.79,
+        "Volume": 656.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-07",
+        "Open": 1675.0,
+        "High": 1708.0,
+        "Low": 1667.0,
+        "Close": 1680.0,
+        "Percent Change": -1.47,
+        "Volume": 648.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-04",
+        "Open": 1699.9,
+        "High": 1730.0,
+        "Low": 1671.0,
+        "Close": 1705.0,
+        "Percent Change": 2.27,
+        "Volume": 826.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-03",
+        "Open": 1660.6,
+        "High": 1695.0,
+        "Low": 1660.6,
+        "Close": 1667.1,
+        "Percent Change": -1.53,
+        "Volume": 500.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-05-02",
+        "Open": 1725.0,
+        "High": 1725.0,
+        "Low": 1692.0,
+        "Close": 1693.0,
+        "Percent Change": 0.06,
+        "Volume": 224.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-30",
+        "Open": 1700.0,
+        "High": 1722.0,
+        "Low": 1691.0,
+        "Close": 1692.0,
+        "Percent Change": -1.63,
+        "Volume": 843.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-27",
+        "Open": 1710.0,
+        "High": 1737.0,
+        "Low": 1705.0,
+        "Close": 1720.0,
+        "Percent Change": 1.0,
+        "Volume": 250.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-26",
+        "Open": 1741.0,
+        "High": 1744.8,
+        "Low": 1701.0,
+        "Close": 1703.0,
+        "Percent Change": -1.84,
+        "Volume": 417.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-25",
+        "Open": 1700.0,
+        "High": 1735.0,
+        "Low": 1700.0,
+        "Close": 1735.0,
+        "Percent Change": 2.06,
+        "Volume": 824.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-24",
+        "Open": 1680.0,
+        "High": 1700.0,
+        "Low": 1670.0,
+        "Close": 1700.0,
+        "Percent Change": 1.19,
+        "Volume": 385.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-23",
+        "Open": 1705.0,
+        "High": 1719.0,
+        "Low": 1680.0,
+        "Close": 1680.0,
+        "Percent Change": -2.89,
+        "Volume": 1107.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-20",
+        "Open": 1741.1,
+        "High": 1741.1,
+        "Low": 1700.0,
+        "Close": 1730.0,
+        "Percent Change": -1.14,
+        "Volume": 2355.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-19",
+        "Open": 1789.0,
+        "High": 1789.0,
+        "Low": 1748.0,
+        "Close": 1750.0,
+        "Percent Change": -0.43,
+        "Volume": 1118.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-18",
+        "Open": 1791.0,
+        "High": 1791.0,
+        "Low": 1750.0,
+        "Close": 1757.5,
+        "Percent Change": -3.7,
+        "Volume": 1360.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-17",
+        "Open": 1869.0,
+        "High": 1869.0,
+        "Low": 1803.0,
+        "Close": 1825.0,
+        "Percent Change": -0.71,
+        "Volume": 1090.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-16",
+        "Open": 1841.0,
+        "High": 1859.0,
+        "Low": 1806.0,
+        "Close": 1838.0,
+        "Percent Change": -1.18,
+        "Volume": 797.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-13",
+        "Open": 1887.0,
+        "High": 1900.0,
+        "Low": 1850.0,
+        "Close": 1860.0,
+        "Percent Change": 0.54,
+        "Volume": 1525.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-12",
+        "Open": 1770.0,
+        "High": 1853.0,
+        "Low": 1770.0,
+        "Close": 1850.0,
+        "Percent Change": 4.58,
+        "Volume": 1773.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-11",
+        "Open": 1758.0,
+        "High": 1785.0,
+        "Low": 1750.0,
+        "Close": 1769.0,
+        "Percent Change": 0.28,
+        "Volume": 1066.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-10",
+        "Open": 1766.0,
+        "High": 1790.0,
+        "Low": 1761.0,
+        "Close": 1764.0,
+        "Percent Change": -0.11,
+        "Volume": 251.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-09",
+        "Open": 1809.0,
+        "High": 1809.9,
+        "Low": 1766.0,
+        "Close": 1766.0,
+        "Percent Change": -1.89,
+        "Volume": 835.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-06",
+        "Open": 1790.0,
+        "High": 1806.0,
+        "Low": 1770.0,
+        "Close": 1800.0,
+        "Percent Change": 1.69,
+        "Volume": 1163.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-05",
+        "Open": 1740.0,
+        "High": 1774.0,
+        "Low": 1740.0,
+        "Close": 1770.0,
+        "Percent Change": 0.68,
+        "Volume": 1005.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-04",
+        "Open": 1807.4,
+        "High": 1880.3,
+        "Low": 1751.0,
+        "Close": 1758.0,
+        "Percent Change": -0.79,
+        "Volume": 1784.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-03",
+        "Open": 1821.0,
+        "High": 1857.4,
+        "Low": 1758.2,
+        "Close": 1772.0,
+        "Percent Change": -4.47,
+        "Volume": 2491.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-04-02",
+        "Open": 1870.0,
+        "High": 1934.0,
+        "Low": 1850.0,
+        "Close": 1854.9,
+        "Percent Change": -0.81,
+        "Volume": 1267.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-30",
+        "Open": 1907.0,
+        "High": 1945.0,
+        "Low": 1868.0,
+        "Close": 1870.0,
+        "Percent Change": -3.86,
+        "Volume": 2890.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-29",
+        "Open": 1980.0,
+        "High": 2014.0,
+        "Low": 1942.0,
+        "Close": 1945.0,
+        "Percent Change": -1.67,
+        "Volume": 1112.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-28",
+        "Open": 1922.0,
+        "High": 1987.1,
+        "Low": 1885.0,
+        "Close": 1978.0,
+        "Percent Change": 4.93,
+        "Volume": 1697.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-27",
+        "Open": 2014.5,
+        "High": 2014.5,
+        "Low": 1850.1,
+        "Close": 1885.0,
+        "Percent Change": -8.3,
+        "Volume": 8833.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-26",
+        "Open": 2240.0,
+        "High": 2240.0,
+        "Low": 2055.6,
+        "Close": 2055.6,
+        "Percent Change": -10.0,
+        "Volume": 4515.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-23",
+        "Open": 2305.0,
+        "High": 2385.0,
+        "Low": 2256.2,
+        "Close": 2284.0,
+        "Percent Change": -2.39,
+        "Volume": 2148.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-22",
+        "Open": 2409.0,
+        "High": 2409.0,
+        "Low": 2300.0,
+        "Close": 2340.0,
+        "Percent Change": -0.97,
+        "Volume": 1490.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-20",
+        "Open": 2350.0,
+        "High": 2363.0,
+        "Low": 2331.0,
+        "Close": 2363.0,
+        "Percent Change": 0.6,
+        "Volume": 674.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-19",
+        "Open": 2380.0,
+        "High": 2380.0,
+        "Low": 2329.5,
+        "Close": 2349.0,
+        "Percent Change": 0.6,
+        "Volume": 451.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-16",
+        "Open": 2415.3,
+        "High": 2415.3,
+        "Low": 2326.1,
+        "Close": 2335.0,
+        "Percent Change": -1.39,
+        "Volume": 1113.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-15",
+        "Open": 2375.0,
+        "High": 2390.0,
+        "Low": 2352.0,
+        "Close": 2368.0,
+        "Percent Change": -1.0,
+        "Volume": 1233.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-14",
+        "Open": 2424.0,
+        "High": 2424.0,
+        "Low": 2376.0,
+        "Close": 2392.0,
+        "Percent Change": 0.63,
+        "Volume": 285.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-13",
+        "Open": 2395.0,
+        "High": 2440.0,
+        "Low": 2375.0,
+        "Close": 2377.0,
+        "Percent Change": -2.66,
+        "Volume": 996.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-12",
+        "Open": 2499.9,
+        "High": 2499.9,
+        "Low": 2440.0,
+        "Close": 2442.0,
+        "Percent Change": -0.45,
+        "Volume": 1079.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-09",
+        "Open": 2400.0,
+        "High": 2453.0,
+        "Low": 2376.0,
+        "Close": 2453.0,
+        "Percent Change": 3.28,
+        "Volume": 1493.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-07",
+        "Open": 2399.9,
+        "High": 2444.8,
+        "Low": 2365.1,
+        "Close": 2375.0,
+        "Percent Change": 0.42,
+        "Volume": 1271.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-05",
+        "Open": 2408.0,
+        "High": 2455.0,
+        "Low": 2346.0,
+        "Close": 2365.0,
+        "Percent Change": -3.67,
+        "Volume": 3646.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-02",
+        "Open": 2499.0,
+        "High": 2550.0,
+        "Low": 2450.0,
+        "Close": 2455.0,
+        "Percent Change": -3.73,
+        "Volume": 3050.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-03-01",
+        "Open": 2600.0,
+        "High": 2605.0,
+        "Low": 2550.0,
+        "Close": 2550.0,
+        "Percent Change": -3.04,
+        "Volume": 3146.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-28",
+        "Open": 2744.0,
+        "High": 2744.0,
+        "Low": 2584.0,
+        "Close": 2630.0,
+        "Percent Change": -2.59,
+        "Volume": 2844.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-27",
+        "Open": 2700.0,
+        "High": 2729.0,
+        "Low": 2653.0,
+        "Close": 2700.0,
+        "Percent Change": 0.45,
+        "Volume": 4529.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-26",
+        "Open": 2722.8,
+        "High": 2722.8,
+        "Low": 2500.5,
+        "Close": 2687.9,
+        "Percent Change": -3.25,
+        "Volume": 9605.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-23",
+        "Open": 3025.3,
+        "High": 3025.3,
+        "Low": 2778.3,
+        "Close": 2778.3,
+        "Percent Change": -10.0,
+        "Volume": 5674.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-22",
+        "Open": 3200.0,
+        "High": 3200.0,
+        "Low": 3070.0,
+        "Close": 3087.0,
+        "Percent Change": -3.53,
+        "Volume": 3998.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-20",
+        "Open": 3240.1,
+        "High": 3260.0,
+        "Low": 3190.9,
+        "Close": 3200.0,
+        "Percent Change": -1.84,
+        "Volume": 2767.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-16",
+        "Open": 3340.0,
+        "High": 3340.0,
+        "Low": 3223.0,
+        "Close": 3260.0,
+        "Percent Change": -0.76,
+        "Volume": 840.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-15",
+        "Open": 3251.0,
+        "High": 3305.0,
+        "Low": 3250.1,
+        "Close": 3285.0,
+        "Percent Change": 0.0,
+        "Volume": 1335.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-14",
+        "Open": 3300.0,
+        "High": 3315.0,
+        "Low": 3271.0,
+        "Close": 3285.0,
+        "Percent Change": -0.45,
+        "Volume": 1700.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-12",
+        "Open": 3333.0,
+        "High": 3333.0,
+        "Low": 3290.0,
+        "Close": 3300.0,
+        "Percent Change": -0.9,
+        "Volume": 1156.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-09",
+        "Open": 3330.0,
+        "High": 3330.0,
+        "Low": 3296.0,
+        "Close": 3329.9,
+        "Percent Change": 1.21,
+        "Volume": 1460.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-08",
+        "Open": 3410.0,
+        "High": 3410.0,
+        "Low": 3290.0,
+        "Close": 3290.0,
+        "Percent Change": -1.69,
+        "Volume": 2745.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-07",
+        "Open": 3349.9,
+        "High": 3357.9,
+        "Low": 3295.0,
+        "Close": 3346.5,
+        "Percent Change": 1.54,
+        "Volume": 2816.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-06",
+        "Open": 3289.0,
+        "High": 3340.0,
+        "Low": 3262.0,
+        "Close": 3295.9,
+        "Percent Change": 0.18,
+        "Volume": 1397.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-05",
+        "Open": 3300.0,
+        "High": 3350.0,
+        "Low": 3265.0,
+        "Close": 3289.9,
+        "Percent Change": -0.31,
+        "Volume": 2556.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-02",
+        "Open": 3385.0,
+        "High": 3385.0,
+        "Low": 3290.0,
+        "Close": 3300.0,
+        "Percent Change": -0.96,
+        "Volume": 2248.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-02-01",
+        "Open": 3330.0,
+        "High": 3389.9,
+        "Low": 3320.0,
+        "Close": 3332.0,
+        "Percent Change": -0.24,
+        "Volume": 1631.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-31",
+        "Open": 3325.1,
+        "High": 3404.9,
+        "Low": 3325.1,
+        "Close": 3340.0,
+        "Percent Change": -0.89,
+        "Volume": 2606.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-30",
+        "Open": 3435.0,
+        "High": 3435.0,
+        "Low": 3370.0,
+        "Close": 3370.0,
+        "Percent Change": -1.89,
+        "Volume": 3200.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-29",
+        "Open": 3420.0,
+        "High": 3462.0,
+        "Low": 3393.0,
+        "Close": 3435.0,
+        "Percent Change": 0.82,
+        "Volume": 1642.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-26",
+        "Open": 3405.1,
+        "High": 3489.9,
+        "Low": 3405.1,
+        "Close": 3407.0,
+        "Percent Change": -1.53,
+        "Volume": 1837.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-25",
+        "Open": 3500.0,
+        "High": 3510.0,
+        "Low": 3450.0,
+        "Close": 3460.0,
+        "Percent Change": 0.35,
+        "Volume": 3724.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-24",
+        "Open": 3400.0,
+        "High": 3460.0,
+        "Low": 3390.0,
+        "Close": 3448.0,
+        "Percent Change": 1.41,
+        "Volume": 4876.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-23",
+        "Open": 3445.0,
+        "High": 3460.0,
+        "Low": 3376.1,
+        "Close": 3400.0,
+        "Percent Change": -1.36,
+        "Volume": 3130.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-19",
+        "Open": 3422.0,
+        "High": 3454.9,
+        "Low": 3393.0,
+        "Close": 3447.0,
+        "Percent Change": 0.61,
+        "Volume": 2606.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-18",
+        "Open": 3403.0,
+        "High": 3485.0,
+        "Low": 3403.0,
+        "Close": 3426.0,
+        "Percent Change": 0.2,
+        "Volume": 3059.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-17",
+        "Open": 3360.0,
+        "High": 3436.5,
+        "Low": 3360.0,
+        "Close": 3419.0,
+        "Percent Change": 0.59,
+        "Volume": 2926.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-12",
+        "Open": 3462.8,
+        "High": 3532.0,
+        "Low": 3350.0,
+        "Close": 3399.0,
+        "Percent Change": 0.12,
+        "Volume": 3094.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-10",
+        "Open": 3400.1,
+        "High": 3450.0,
+        "Low": 3370.0,
+        "Close": 3395.0,
+        "Percent Change": -0.73,
+        "Volume": 5613.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-09",
+        "Open": 3405.1,
+        "High": 3470.0,
+        "Low": 3405.1,
+        "Close": 3420.0,
+        "Percent Change": -0.61,
+        "Volume": 3144.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-08",
+        "Open": 3470.0,
+        "High": 3500.0,
+        "Low": 3425.0,
+        "Close": 3441.0,
+        "Percent Change": -0.61,
+        "Volume": 3975.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-05",
+        "Open": 3570.0,
+        "High": 3570.0,
+        "Low": 3462.1,
+        "Close": 3462.1,
+        "Percent Change": -1.08,
+        "Volume": 7098.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-04",
+        "Open": 3390.0,
+        "High": 3500.0,
+        "Low": 3390.0,
+        "Close": 3500.0,
+        "Percent Change": 3.24,
+        "Volume": 3510.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-03",
+        "Open": 3361.0,
+        "High": 3412.0,
+        "Low": 3330.0,
+        "Close": 3390.0,
+        "Percent Change": 0.86,
+        "Volume": 3074.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-02",
+        "Open": 3300.0,
+        "High": 3361.0,
+        "Low": 3290.0,
+        "Close": 3361.0,
+        "Percent Change": 1.08,
+        "Volume": 3090.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2023-01-01",
+        "Open": 3333.0,
+        "High": 3380.0,
+        "Low": 3318.0,
+        "Close": 3325.0,
+        "Percent Change": 0.76,
+        "Volume": 3715.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-29",
+        "Open": 3339.0,
+        "High": 3339.0,
+        "Low": 3280.0,
+        "Close": 3300.0,
+        "Percent Change": 0.61,
+        "Volume": 2849.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-28",
+        "Open": 3304.0,
+        "High": 3329.0,
+        "Low": 3261.0,
+        "Close": 3280.0,
+        "Percent Change": -0.73,
+        "Volume": 2060.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-27",
+        "Open": 3282.0,
+        "High": 3335.0,
+        "Low": 3282.0,
+        "Close": 3304.0,
+        "Percent Change": 0.66,
+        "Volume": 4813.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-26",
+        "Open": 3315.0,
+        "High": 3315.0,
+        "Low": 3250.0,
+        "Close": 3282.2,
+        "Percent Change": 0.84,
+        "Volume": 3585.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-22",
+        "Open": 3225.0,
+        "High": 3285.0,
+        "Low": 3225.0,
+        "Close": 3255.0,
+        "Percent Change": -1.06,
+        "Volume": 2021.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-21",
+        "Open": 3330.0,
+        "High": 3333.0,
+        "Low": 3270.0,
+        "Close": 3290.0,
+        "Percent Change": 0.27,
+        "Volume": 1269.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-20",
+        "Open": 3230.0,
+        "High": 3290.0,
+        "Low": 3230.0,
+        "Close": 3281.1,
+        "Percent Change": 0.45,
+        "Volume": 1262.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-19",
+        "Open": 3212.0,
+        "High": 3270.0,
+        "Low": 3212.0,
+        "Close": 3266.5,
+        "Percent Change": 0.14,
+        "Volume": 1953.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-18",
+        "Open": 3270.0,
+        "High": 3300.0,
+        "Low": 3260.2,
+        "Close": 3262.0,
+        "Percent Change": -0.85,
+        "Volume": 1127.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-15",
+        "Open": 3330.0,
+        "High": 3330.0,
+        "Low": 3290.0,
+        "Close": 3290.0,
+        "Percent Change": -1.35,
+        "Volume": 2170.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-14",
+        "Open": 3355.0,
+        "High": 3355.0,
+        "Low": 3325.0,
+        "Close": 3335.0,
+        "Percent Change": -0.6,
+        "Volume": 938.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-13",
+        "Open": 3326.0,
+        "High": 3395.0,
+        "Low": 3303.0,
+        "Close": 3355.0,
+        "Percent Change": 0.9,
+        "Volume": 1091.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-12",
+        "Open": 3365.5,
+        "High": 3408.5,
+        "Low": 3305.7,
+        "Close": 3325.0,
+        "Percent Change": -1.2,
+        "Volume": 1909.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-11",
+        "Open": 3380.0,
+        "High": 3400.0,
+        "Low": 3352.2,
+        "Close": 3365.5,
+        "Percent Change": -1.3,
+        "Volume": 1674.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-07",
+        "Open": 3380.0,
+        "High": 3449.0,
+        "Low": 3380.0,
+        "Close": 3410.0,
+        "Percent Change": -0.15,
+        "Volume": 1136.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-06",
+        "Open": 3409.0,
+        "High": 3430.0,
+        "Low": 3390.0,
+        "Close": 3415.0,
+        "Percent Change": 0.15,
+        "Volume": 935.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-05",
+        "Open": 3476.1,
+        "High": 3499.0,
+        "Low": 3400.0,
+        "Close": 3410.0,
+        "Percent Change": -1.9,
+        "Volume": 2090.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-04",
+        "Open": 3525.0,
+        "High": 3525.0,
+        "Low": 3476.0,
+        "Close": 3476.1,
+        "Percent Change": -1.19,
+        "Volume": 1773.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-12-01",
+        "Open": 3475.0,
+        "High": 3520.0,
+        "Low": 3455.0,
+        "Close": 3518.0,
+        "Percent Change": 1.35,
+        "Volume": 1805.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-30",
+        "Open": 3445.0,
+        "High": 3510.0,
+        "Low": 3445.0,
+        "Close": 3471.0,
+        "Percent Change": -0.26,
+        "Volume": 1185.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-29",
+        "Open": 3450.0,
+        "High": 3508.0,
+        "Low": 3416.0,
+        "Close": 3480.0,
+        "Percent Change": 0.49,
+        "Volume": 1566.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-28",
+        "Open": 3469.5,
+        "High": 3534.0,
+        "Low": 3450.0,
+        "Close": 3463.0,
+        "Percent Change": -0.2,
+        "Volume": 1598.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-27",
+        "Open": 3450.0,
+        "High": 3490.0,
+        "Low": 3400.0,
+        "Close": 3470.0,
+        "Percent Change": 2.39,
+        "Volume": 3047.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-24",
+        "Open": 3353.0,
+        "High": 3390.0,
+        "Low": 3353.0,
+        "Close": 3389.0,
+        "Percent Change": 0.27,
+        "Volume": 738.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-23",
+        "Open": 3341.0,
+        "High": 3393.8,
+        "Low": 3341.0,
+        "Close": 3380.0,
+        "Percent Change": -0.29,
+        "Volume": 1085.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-22",
+        "Open": 3395.0,
+        "High": 3420.0,
+        "Low": 3369.0,
+        "Close": 3390.0,
+        "Percent Change": -1.31,
+        "Volume": 2540.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-17",
+        "Open": 3340.0,
+        "High": 3451.0,
+        "Low": 3340.0,
+        "Close": 3435.0,
+        "Percent Change": 1.78,
+        "Volume": 3138.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-16",
+        "Open": 3234.0,
+        "High": 3401.0,
+        "Low": 3107.0,
+        "Close": 3375.0,
+        "Percent Change": 2.27,
+        "Volume": 8488.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-15",
+        "Open": 3450.0,
+        "High": 3463.0,
+        "Low": 3300.0,
+        "Close": 3300.0,
+        "Percent Change": -2.94,
+        "Volume": 5963.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-14",
+        "Open": 3450.0,
+        "High": 3468.0,
+        "Low": 3360.0,
+        "Close": 3400.0,
+        "Percent Change": 0.0,
+        "Volume": 4043.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-13",
+        "Open": 3400.0,
+        "High": 3507.7,
+        "Low": 3354.0,
+        "Close": 3400.0,
+        "Percent Change": -1.53,
+        "Volume": 3414.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-10",
+        "Open": 3485.0,
+        "High": 3485.0,
+        "Low": 3430.0,
+        "Close": 3453.0,
+        "Percent Change": -0.92,
+        "Volume": 5666.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-09",
+        "Open": 3550.0,
+        "High": 3570.0,
+        "Low": 3465.0,
+        "Close": 3485.0,
+        "Percent Change": -2.52,
+        "Volume": 9029.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-08",
+        "Open": 3645.0,
+        "High": 3770.0,
+        "Low": 3575.0,
+        "Close": 3575.0,
+        "Percent Change": -1.92,
+        "Volume": 12110.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-07",
+        "Open": 3477.0,
+        "High": 3749.6,
+        "Low": 3477.0,
+        "Close": 3645.0,
+        "Percent Change": 6.93,
+        "Volume": 41083.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-06",
+        "Open": 3100.0,
+        "High": 3408.9,
+        "Low": 3100.0,
+        "Close": 3408.9,
+        "Percent Change": 10.0,
+        "Volume": 16625.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-03",
+        "Open": 3045.0,
+        "High": 3110.0,
+        "Low": 3045.0,
+        "Close": 3099.0,
+        "Percent Change": -0.19,
+        "Volume": 1005.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-02",
+        "Open": 3060.0,
+        "High": 3149.0,
+        "Low": 3021.0,
+        "Close": 3105.0,
+        "Percent Change": 1.97,
+        "Volume": 3045.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-11-01",
+        "Open": 2918.5,
+        "High": 3044.9,
+        "Low": 2918.5,
+        "Close": 3044.9,
+        "Percent Change": 2.25,
+        "Volume": 2823.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-10-31",
+        "Open": 2910.6,
+        "High": 2988.0,
+        "Low": 2910.5,
+        "Close": 2978.0,
+        "Percent Change": 0.95,
+        "Volume": 837.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-10-23",
+        "Open": 2862.0,
+        "High": 2950.0,
+        "Low": 2862.0,
+        "Close": 2950.0,
+        "Percent Change": 1.99,
+        "Volume": 908.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-10-20",
+        "Open": 2866.1,
+        "High": 2928.0,
+        "Low": 2866.1,
+        "Close": 2892.5,
+        "Percent Change": -0.26,
+        "Volume": 815.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-10-19",
+        "Open": 2930.0,
+        "High": 2930.0,
+        "Low": 2863.0,
+        "Close": 2900.1,
+        "Percent Change": -1.26,
+        "Volume": 820.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-10-17",
+        "Open": 2950.0,
+        "High": 2980.0,
+        "Low": 2915.0,
+        "Close": 2937.2,
+        "Percent Change": -0.9,
+        "Volume": 1270.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-10-16",
+        "Open": 2965.0,
+        "High": 3024.0,
+        "Low": 2964.0,
+        "Close": 2964.0,
+        "Percent Change": -1.08,
+        "Volume": 625.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-10-13",
+        "Open": 2990.0,
+        "High": 3015.0,
+        "Low": 2977.0,
+        "Close": 2996.3,
+        "Percent Change": -0.06,
+        "Volume": 1056.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-10-12",
+        "Open": 3000.0,
+        "High": 3029.0,
+        "Low": 2970.0,
+        "Close": 3000.0,
+        "Percent Change": 0.66,
+        "Volume": 1124.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-10-11",
+        "Open": 2962.0,
+        "High": 2999.0,
+        "Low": 2951.0,
+        "Close": 2980.3,
+        "Percent Change": -1.02,
+        "Volume": 972.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-10-10",
+        "Open": 3050.0,
+        "High": 3095.0,
+        "Low": 3003.3,
+        "Close": 3011.0,
+        "Percent Change": -2.84,
+        "Volume": 1347.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-10-09",
+        "Open": 2950.0,
+        "High": 3099.0,
+        "Low": 2950.0,
+        "Close": 3099.0,
+        "Percent Change": 3.99,
+        "Volume": 974.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-29",
+        "Open": 2881.1,
+        "High": 2980.0,
+        "Low": 2881.1,
+        "Close": 2980.0,
+        "Percent Change": 3.43,
+        "Volume": 1478.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-28",
+        "Open": 2850.1,
+        "High": 2900.0,
+        "Low": 2850.1,
+        "Close": 2881.1,
+        "Percent Change": -0.31,
+        "Volume": 614.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-27",
+        "Open": 2920.0,
+        "High": 2935.0,
+        "Low": 2846.1,
+        "Close": 2890.1,
+        "Percent Change": 0.63,
+        "Volume": 2606.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-25",
+        "Open": 2890.0,
+        "High": 2900.0,
+        "Low": 2850.0,
+        "Close": 2872.0,
+        "Percent Change": -2.61,
+        "Volume": 1800.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-22",
+        "Open": 2920.0,
+        "High": 2948.9,
+        "Low": 2875.0,
+        "Close": 2948.9,
+        "Percent Change": 0.99,
+        "Volume": 2473.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-21",
+        "Open": 2949.0,
+        "High": 2990.0,
+        "Low": 2902.1,
+        "Close": 2920.0,
+        "Percent Change": 0.62,
+        "Volume": 2154.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-20",
+        "Open": 2931.0,
+        "High": 2980.0,
+        "Low": 2901.5,
+        "Close": 2902.0,
+        "Percent Change": -2.36,
+        "Volume": 2409.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-18",
+        "Open": 3074.9,
+        "High": 3074.9,
+        "Low": 2958.2,
+        "Close": 2972.1,
+        "Percent Change": -1.46,
+        "Volume": 2587.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-16",
+        "Open": 2981.0,
+        "High": 3069.0,
+        "Low": 2957.0,
+        "Close": 3016.1,
+        "Percent Change": -0.79,
+        "Volume": 2000.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-15",
+        "Open": 3140.0,
+        "High": 3180.0,
+        "Low": 3015.1,
+        "Close": 3040.0,
+        "Percent Change": -2.75,
+        "Volume": 4425.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-14",
+        "Open": 3100.0,
+        "High": 3140.0,
+        "Low": 3045.0,
+        "Close": 3125.9,
+        "Percent Change": 2.83,
+        "Volume": 2173.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-13",
+        "Open": 3019.0,
+        "High": 3083.0,
+        "Low": 2992.4,
+        "Close": 3040.0,
+        "Percent Change": 0.7,
+        "Volume": 5987.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-12",
+        "Open": 3000.0,
+        "High": 3025.0,
+        "Low": 2963.1,
+        "Close": 3019.0,
+        "Percent Change": 0.4,
+        "Volume": 3773.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-11",
+        "Open": 3092.0,
+        "High": 3092.0,
+        "Low": 2997.0,
+        "Close": 3007.0,
+        "Percent Change": -0.83,
+        "Volume": 1395.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-08",
+        "Open": 3100.0,
+        "High": 3107.0,
+        "Low": 2990.0,
+        "Close": 3032.2,
+        "Percent Change": -0.58,
+        "Volume": 2849.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-07",
+        "Open": 3094.0,
+        "High": 3135.0,
+        "Low": 3020.0,
+        "Close": 3050.0,
+        "Percent Change": -1.42,
+        "Volume": 1075.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-06",
+        "Open": 3100.0,
+        "High": 3140.0,
+        "Low": 3060.0,
+        "Close": 3094.0,
+        "Percent Change": -1.78,
+        "Volume": 1925.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-05",
+        "Open": 3200.0,
+        "High": 3200.0,
+        "Low": 3100.0,
+        "Close": 3150.0,
+        "Percent Change": 0.16,
+        "Volume": 1869.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-04",
+        "Open": 2990.0,
+        "High": 3220.0,
+        "Low": 2980.0,
+        "Close": 3145.0,
+        "Percent Change": 4.35,
+        "Volume": 4735.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-02",
+        "Open": 3020.0,
+        "High": 3100.0,
+        "Low": 3014.0,
+        "Close": 3014.0,
+        "Percent Change": -1.08,
+        "Volume": 769.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-09-01",
+        "Open": 3000.1,
+        "High": 3048.0,
+        "Low": 2973.5,
+        "Close": 3046.8,
+        "Percent Change": 0.62,
+        "Volume": 3461.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-31",
+        "Open": 3143.0,
+        "High": 3143.0,
+        "Low": 3026.0,
+        "Close": 3028.0,
+        "Percent Change": -1.75,
+        "Volume": 3424.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-30",
+        "Open": 3200.0,
+        "High": 3200.0,
+        "Low": 3082.0,
+        "Close": 3082.0,
+        "Percent Change": -1.82,
+        "Volume": 4642.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-29",
+        "Open": 3165.0,
+        "High": 3165.0,
+        "Low": 3080.0,
+        "Close": 3139.0,
+        "Percent Change": 1.16,
+        "Volume": 4019.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-28",
+        "Open": 3270.0,
+        "High": 3270.0,
+        "Low": 3098.0,
+        "Close": 3103.0,
+        "Percent Change": -3.45,
+        "Volume": 5900.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-26",
+        "Open": 3200.0,
+        "High": 3240.0,
+        "Low": 3200.0,
+        "Close": 3214.0,
+        "Percent Change": -0.59,
+        "Volume": 2090.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-25",
+        "Open": 3199.0,
+        "High": 3299.5,
+        "Low": 3168.0,
+        "Close": 3233.0,
+        "Percent Change": 1.83,
+        "Volume": 10392.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-24",
+        "Open": 3198.0,
+        "High": 3198.0,
+        "Low": 3153.1,
+        "Close": 3175.0,
+        "Percent Change": 0.16,
+        "Volume": 5752.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-23",
+        "Open": 3164.0,
+        "High": 3220.0,
+        "Low": 3107.1,
+        "Close": 3170.0,
+        "Percent Change": 2.16,
+        "Volume": 3289.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-22",
+        "Open": 3085.1,
+        "High": 3175.0,
+        "Low": 3085.1,
+        "Close": 3103.0,
+        "Percent Change": 0.03,
+        "Volume": 8717.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-21",
+        "Open": 3189.0,
+        "High": 3189.0,
+        "Low": 3090.1,
+        "Close": 3102.0,
+        "Percent Change": -0.86,
+        "Volume": 11510.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-18",
+        "Open": 3119.0,
+        "High": 3150.0,
+        "Low": 3075.0,
+        "Close": 3129.0,
+        "Percent Change": 1.33,
+        "Volume": 3698.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-17",
+        "Open": 3120.0,
+        "High": 3124.0,
+        "Low": 3010.0,
+        "Close": 3088.0,
+        "Percent Change": 0.59,
+        "Volume": 5071.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-16",
+        "Open": 3240.0,
+        "High": 3240.0,
+        "Low": 3050.0,
+        "Close": 3070.0,
+        "Percent Change": -3.46,
+        "Volume": 6847.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-15",
+        "Open": 3180.0,
+        "High": 3200.0,
+        "Low": 3137.0,
+        "Close": 3180.0,
+        "Percent Change": 0.95,
+        "Volume": 6858.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-14",
+        "Open": 3088.0,
+        "High": 3211.0,
+        "Low": 3088.0,
+        "Close": 3150.0,
+        "Percent Change": 2.01,
+        "Volume": 7473.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-11",
+        "Open": 3000.0,
+        "High": 3130.0,
+        "Low": 2976.0,
+        "Close": 3088.0,
+        "Percent Change": 3.59,
+        "Volume": 9168.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-10",
+        "Open": 2950.0,
+        "High": 3029.8,
+        "Low": 2950.0,
+        "Close": 2981.0,
+        "Percent Change": 0.3,
+        "Volume": 5011.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-09",
+        "Open": 3021.0,
+        "High": 3066.0,
+        "Low": 2971.8,
+        "Close": 2972.0,
+        "Percent Change": -3.19,
+        "Volume": 5510.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-08",
+        "Open": 2970.0,
+        "High": 3131.0,
+        "Low": 2961.0,
+        "Close": 3070.0,
+        "Percent Change": 2.85,
+        "Volume": 11306.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-07",
+        "Open": 2919.0,
+        "High": 2985.0,
+        "Low": 2900.0,
+        "Close": 2985.0,
+        "Percent Change": 3.39,
+        "Volume": 8065.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-05",
+        "Open": 2896.0,
+        "High": 2918.0,
+        "Low": 2810.0,
+        "Close": 2887.0,
+        "Percent Change": 1.48,
+        "Volume": 9402.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-04",
+        "Open": 2850.0,
+        "High": 2974.0,
+        "Low": 2745.0,
+        "Close": 2845.0,
+        "Percent Change": 1.61,
+        "Volume": 12640.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-03",
+        "Open": 2810.0,
+        "High": 2843.0,
+        "Low": 2796.0,
+        "Close": 2800.0,
+        "Percent Change": -1.37,
+        "Volume": 5641.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-02",
+        "Open": 2700.0,
+        "High": 2870.0,
+        "Low": 2696.0,
+        "Close": 2839.0,
+        "Percent Change": 3.24,
+        "Volume": 9628.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-08-01",
+        "Open": 2793.0,
+        "High": 2818.9,
+        "Low": 2698.0,
+        "Close": 2750.0,
+        "Percent Change": -3.51,
+        "Volume": 20332.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-31",
+        "Open": 2855.0,
+        "High": 2899.0,
+        "Low": 2800.0,
+        "Close": 2850.0,
+        "Percent Change": -0.18,
+        "Volume": 9133.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-29",
+        "Open": 2905.0,
+        "High": 2964.0,
+        "Low": 2795.0,
+        "Close": 2855.0,
+        "Percent Change": 0.18,
+        "Volume": 6875.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-28",
+        "Open": 2850.0,
+        "High": 3050.0,
+        "Low": 2800.0,
+        "Close": 2850.0,
+        "Percent Change": -1.04,
+        "Volume": 10628.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-27",
+        "Open": 2620.0,
+        "High": 2884.2,
+        "Low": 2578.0,
+        "Close": 2880.0,
+        "Percent Change": 9.84,
+        "Volume": 19109.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-26",
+        "Open": 2641.1,
+        "High": 2728.0,
+        "Low": 2619.0,
+        "Close": 2622.0,
+        "Percent Change": -2.71,
+        "Volume": 8275.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-25",
+        "Open": 2699.9,
+        "High": 2732.0,
+        "Low": 2600.1,
+        "Close": 2695.0,
+        "Percent Change": 1.62,
+        "Volume": 6202.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-24",
+        "Open": 2549.0,
+        "High": 2652.0,
+        "Low": 2483.0,
+        "Close": 2652.0,
+        "Percent Change": 5.66,
+        "Volume": 10158.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-22",
+        "Open": 2525.0,
+        "High": 2539.0,
+        "Low": 2490.0,
+        "Close": 2510.0,
+        "Percent Change": -1.57,
+        "Volume": 4487.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-21",
+        "Open": 2540.0,
+        "High": 2555.0,
+        "Low": 2511.0,
+        "Close": 2550.0,
+        "Percent Change": -0.35,
+        "Volume": 5582.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-20",
+        "Open": 2545.0,
+        "High": 2579.0,
+        "Low": 2502.1,
+        "Close": 2559.0,
+        "Percent Change": 0.55,
+        "Volume": 6026.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-19",
+        "Open": 2485.0,
+        "High": 2599.0,
+        "Low": 2460.0,
+        "Close": 2545.0,
+        "Percent Change": 4.26,
+        "Volume": 9011.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-18",
+        "Open": 2323.0,
+        "High": 2451.9,
+        "Low": 2323.0,
+        "Close": 2441.0,
+        "Percent Change": 3.21,
+        "Volume": 6152.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-17",
+        "Open": 2300.0,
+        "High": 2365.0,
+        "Low": 2290.0,
+        "Close": 2365.0,
+        "Percent Change": 2.03,
+        "Volume": 2872.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-15",
+        "Open": 2260.5,
+        "High": 2324.9,
+        "Low": 2260.5,
+        "Close": 2318.0,
+        "Percent Change": 1.31,
+        "Volume": 454.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-14",
+        "Open": 2300.0,
+        "High": 2346.0,
+        "Low": 2283.0,
+        "Close": 2288.0,
+        "Percent Change": -0.52,
+        "Volume": 4750.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-13",
+        "Open": 2202.0,
+        "High": 2325.0,
+        "Low": 2202.0,
+        "Close": 2300.0,
+        "Percent Change": 2.69,
+        "Volume": 3337.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-12",
+        "Open": 2222.0,
+        "High": 2266.4,
+        "Low": 2200.0,
+        "Close": 2239.7,
+        "Percent Change": 0.53,
+        "Volume": 3290.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-11",
+        "Open": 2254.0,
+        "High": 2265.0,
+        "Low": 2215.0,
+        "Close": 2227.9,
+        "Percent Change": -3.09,
+        "Volume": 3191.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-08",
+        "Open": 2290.4,
+        "High": 2325.0,
+        "Low": 2280.0,
+        "Close": 2299.0,
+        "Percent Change": -1.12,
+        "Volume": 1460.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-07",
+        "Open": 2397.0,
+        "High": 2444.9,
+        "Low": 2323.1,
+        "Close": 2325.0,
+        "Percent Change": -1.06,
+        "Volume": 3245.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-06",
+        "Open": 2285.0,
+        "High": 2370.9,
+        "Low": 2264.0,
+        "Close": 2350.0,
+        "Percent Change": 2.89,
+        "Volume": 4896.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-05",
+        "Open": 2315.0,
+        "High": 2411.0,
+        "Low": 2279.0,
+        "Close": 2284.0,
+        "Percent Change": -1.76,
+        "Volume": 5481.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-04",
+        "Open": 2411.0,
+        "High": 2458.0,
+        "Low": 2310.0,
+        "Close": 2325.0,
+        "Percent Change": -1.65,
+        "Volume": 9008.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-03",
+        "Open": 2200.0,
+        "High": 2366.0,
+        "Low": 2200.0,
+        "Close": 2364.0,
+        "Percent Change": 6.01,
+        "Volume": 5590.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-07-01",
+        "Open": 2210.2,
+        "High": 2252.0,
+        "Low": 2185.0,
+        "Close": 2230.0,
+        "Percent Change": -0.67,
+        "Volume": 2859.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-30",
+        "Open": 2120.0,
+        "High": 2249.0,
+        "Low": 2120.0,
+        "Close": 2245.0,
+        "Percent Change": 4.42,
+        "Volume": 4475.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-29",
+        "Open": 2100.0,
+        "High": 2150.0,
+        "Low": 2100.0,
+        "Close": 2150.0,
+        "Percent Change": 2.87,
+        "Volume": 895.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-28",
+        "Open": 2090.0,
+        "High": 2124.0,
+        "Low": 2080.1,
+        "Close": 2090.0,
+        "Percent Change": -1.35,
+        "Volume": 1377.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-27",
+        "Open": 2180.0,
+        "High": 2208.0,
+        "Low": 2115.0,
+        "Close": 2118.7,
+        "Percent Change": -2.18,
+        "Volume": 2725.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-26",
+        "Open": 2062.0,
+        "High": 2172.6,
+        "Low": 2062.0,
+        "Close": 2166.0,
+        "Percent Change": 6.07,
+        "Volume": 3268.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-24",
+        "Open": 2044.0,
+        "High": 2124.0,
+        "Low": 2011.2,
+        "Close": 2042.0,
+        "Percent Change": -0.44,
+        "Volume": 1261.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-23",
+        "Open": 2121.0,
+        "High": 2121.0,
+        "Low": 2030.0,
+        "Close": 2051.0,
+        "Percent Change": -3.71,
+        "Volume": 3318.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-22",
+        "Open": 2148.0,
+        "High": 2149.9,
+        "Low": 2115.2,
+        "Close": 2130.0,
+        "Percent Change": -0.84,
+        "Volume": 1304.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-21",
+        "Open": 2064.1,
+        "High": 2179.9,
+        "Low": 2064.1,
+        "Close": 2148.0,
+        "Percent Change": 2.34,
+        "Volume": 2952.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-20",
+        "Open": 2110.0,
+        "High": 2113.5,
+        "Low": 2073.1,
+        "Close": 2098.9,
+        "Percent Change": -1.64,
+        "Volume": 4624.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-19",
+        "Open": 2165.0,
+        "High": 2165.0,
+        "Low": 2130.0,
+        "Close": 2134.0,
+        "Percent Change": -1.43,
+        "Volume": 2223.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-17",
+        "Open": 2163.0,
+        "High": 2200.0,
+        "Low": 2155.3,
+        "Close": 2165.0,
+        "Percent Change": 0.09,
+        "Volume": 1087.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-16",
+        "Open": 2160.0,
+        "High": 2200.0,
+        "Low": 2140.0,
+        "Close": 2163.0,
+        "Percent Change": 0.14,
+        "Volume": 1625.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-15",
+        "Open": 2160.0,
+        "High": 2170.0,
+        "Low": 2133.1,
+        "Close": 2160.0,
+        "Percent Change": -0.37,
+        "Volume": 3090.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-14",
+        "Open": 2203.0,
+        "High": 2210.0,
+        "Low": 2155.2,
+        "Close": 2168.0,
+        "Percent Change": -1.59,
+        "Volume": 4354.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-13",
+        "Open": 2210.0,
+        "High": 2241.0,
+        "Low": 2200.0,
+        "Close": 2203.0,
+        "Percent Change": -1.61,
+        "Volume": 3185.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-10",
+        "Open": 2213.0,
+        "High": 2244.5,
+        "Low": 2201.1,
+        "Close": 2239.0,
+        "Percent Change": 0.99,
+        "Volume": 3346.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-09",
+        "Open": 2260.0,
+        "High": 2299.0,
+        "Low": 2207.0,
+        "Close": 2217.0,
+        "Percent Change": -1.95,
+        "Volume": 5436.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-08",
+        "Open": 2218.0,
+        "High": 2324.0,
+        "Low": 2195.2,
+        "Close": 2261.0,
+        "Percent Change": 1.85,
+        "Volume": 6501.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-07",
+        "Open": 2200.1,
+        "High": 2229.0,
+        "Low": 2200.0,
+        "Close": 2220.0,
+        "Percent Change": -0.54,
+        "Volume": 3981.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-06",
+        "Open": 2200.0,
+        "High": 2254.2,
+        "Low": 2200.0,
+        "Close": 2232.0,
+        "Percent Change": 1.22,
+        "Volume": 3323.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-03",
+        "Open": 2180.0,
+        "High": 2214.0,
+        "Low": 2180.0,
+        "Close": 2205.0,
+        "Percent Change": 0.23,
+        "Volume": 3610.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-02",
+        "Open": 2175.0,
+        "High": 2235.0,
+        "Low": 2175.0,
+        "Close": 2199.9,
+        "Percent Change": -0.46,
+        "Volume": 2133.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-06-01",
+        "Open": 2170.1,
+        "High": 2230.0,
+        "Low": 2170.1,
+        "Close": 2210.0,
+        "Percent Change": 0.68,
+        "Volume": 3360.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-31",
+        "Open": 2170.0,
+        "High": 2225.0,
+        "Low": 2170.0,
+        "Close": 2195.0,
+        "Percent Change": -0.59,
+        "Volume": 3610.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-30",
+        "Open": 2237.0,
+        "High": 2281.0,
+        "Low": 2200.0,
+        "Close": 2208.0,
+        "Percent Change": -3.2,
+        "Volume": 6103.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-27",
+        "Open": 2298.0,
+        "High": 2330.0,
+        "Low": 2265.0,
+        "Close": 2281.0,
+        "Percent Change": -0.7,
+        "Volume": 6808.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-26",
+        "Open": 2207.1,
+        "High": 2310.0,
+        "Low": 2207.1,
+        "Close": 2297.1,
+        "Percent Change": 2.37,
+        "Volume": 10095.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-25",
+        "Open": 2155.0,
+        "High": 2244.0,
+        "Low": 2135.3,
+        "Close": 2244.0,
+        "Percent Change": 4.13,
+        "Volume": 9194.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-24",
+        "Open": 2131.1,
+        "High": 2210.0,
+        "Low": 2131.1,
+        "Close": 2155.0,
+        "Percent Change": -0.6,
+        "Volume": 7770.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-23",
+        "Open": 2190.0,
+        "High": 2200.0,
+        "Low": 2161.0,
+        "Close": 2168.1,
+        "Percent Change": -2.17,
+        "Volume": 7487.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-20",
+        "Open": 2220.0,
+        "High": 2250.0,
+        "Low": 2190.0,
+        "Close": 2216.2,
+        "Percent Change": -0.62,
+        "Volume": 5214.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-19",
+        "Open": 2230.0,
+        "High": 2280.0,
+        "Low": 2190.0,
+        "Close": 2230.0,
+        "Percent Change": -1.98,
+        "Volume": 7792.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-18",
+        "Open": 2229.0,
+        "High": 2275.0,
+        "Low": 2151.8,
+        "Close": 2275.0,
+        "Percent Change": 0.0,
+        "Volume": 22574.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-17",
+        "Open": 2497.0,
+        "High": 2693.4,
+        "Low": 2230.0,
+        "Close": 2270.0,
+        "Percent Change": -7.29,
+        "Volume": 41663.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-12",
+        "Open": 2270.5,
+        "High": 2448.6,
+        "Low": 2270.5,
+        "Close": 2448.6,
+        "Percent Change": 10.0,
+        "Volume": 2971.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-11",
+        "Open": 2023.7,
+        "High": 2226.0,
+        "Low": 2023.7,
+        "Close": 2226.0,
+        "Percent Change": 10.0,
+        "Volume": 1253.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-10",
+        "Open": 1876.5,
+        "High": 2023.7,
+        "Low": 1876.5,
+        "Close": 2023.7,
+        "Percent Change": 10.0,
+        "Volume": 2640.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-09",
+        "Open": 1706.0,
+        "High": 1839.8,
+        "Low": 1706.0,
+        "Close": 1839.8,
+        "Percent Change": 10.0,
+        "Volume": 7221.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-08",
+        "Open": 1551.0,
+        "High": 1672.6,
+        "Low": 1551.0,
+        "Close": 1672.6,
+        "Percent Change": 10.0,
+        "Volume": 3434.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-05",
+        "Open": 1382.4,
+        "High": 1520.6,
+        "Low": 1382.4,
+        "Close": 1520.6,
+        "Percent Change": 10.0,
+        "Volume": 4241.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-04",
+        "Open": 1257.0,
+        "High": 1382.4,
+        "Low": 1257.0,
+        "Close": 1382.4,
+        "Percent Change": 9.99,
+        "Volume": 218.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-05-02",
+        "Open": 1165.4,
+        "High": 1256.8,
+        "Low": 1165.4,
+        "Close": 1256.8,
+        "Percent Change": 9.99,
+        "Volume": 130.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-28",
+        "Open": 1038.7,
+        "High": 1142.6,
+        "Low": 1038.7,
+        "Close": 1142.6,
+        "Percent Change": 9.99,
+        "Volume": 200.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-27",
+        "Open": 963.2,
+        "High": 1038.8,
+        "Low": 963.2,
+        "Close": 1038.8,
+        "Percent Change": 10.0,
+        "Volume": 180.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-26",
+        "Open": 875.7,
+        "High": 944.4,
+        "Low": 875.7,
+        "Close": 944.4,
+        "Percent Change": 9.99,
+        "Volume": 155.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-25",
+        "Open": 780.5,
+        "High": 858.6,
+        "Low": 780.5,
+        "Close": 858.6,
+        "Percent Change": 9.99,
+        "Volume": 77.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-24",
+        "Open": 696.2,
+        "High": 780.6,
+        "Low": 696.2,
+        "Close": 780.6,
+        "Percent Change": 9.99,
+        "Volume": 109.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-21",
+        "Open": 640.2,
+        "High": 709.7,
+        "Low": 640.2,
+        "Close": 709.7,
+        "Percent Change": 10.0,
+        "Volume": 90.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-20",
+        "Open": 598.3,
+        "High": 645.2,
+        "Low": 598.3,
+        "Close": 645.2,
+        "Percent Change": 9.99,
+        "Volume": 70.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-19",
+        "Open": 586.6,
+        "High": 586.6,
+        "Low": 586.6,
+        "Close": 586.6,
+        "Percent Change": 2.0,
+        "Volume": 10.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-18",
+        "Open": 552.9,
+        "High": 575.1,
+        "Low": 552.9,
+        "Close": 575.1,
+        "Percent Change": 6.09,
+        "Volume": 30.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-17",
+        "Open": 521.1,
+        "High": 542.1,
+        "Low": 521.1,
+        "Close": 542.1,
+        "Percent Change": 4.03,
+        "Volume": 47.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-13",
+        "Open": 491.1,
+        "High": 521.1,
+        "Low": 491.1,
+        "Close": 521.1,
+        "Percent Change": 6.11,
+        "Volume": 35.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-12",
+        "Open": 491.1,
+        "High": 491.1,
+        "Low": 491.1,
+        "Close": 491.1,
+        "Percent Change": 0.0,
+        "Volume": 30.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-11",
+        "Open": 455.4,
+        "High": 491.1,
+        "Low": 455.4,
+        "Close": 491.1,
+        "Percent Change": 9.99,
+        "Volume": 70.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-07",
+        "Open": 437.8,
+        "High": 446.5,
+        "Low": 437.8,
+        "Close": 446.5,
+        "Percent Change": 4.01,
+        "Volume": 20.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-06",
+        "Open": 420.9,
+        "High": 429.3,
+        "Low": 420.9,
+        "Close": 429.3,
+        "Percent Change": 2.0,
+        "Volume": 46.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-05",
+        "Open": 404.7,
+        "High": 420.9,
+        "Low": 404.7,
+        "Close": 420.9,
+        "Percent Change": 6.07,
+        "Volume": 66.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-04",
+        "Open": 396.8,
+        "High": 396.8,
+        "Low": 396.8,
+        "Close": 396.8,
+        "Percent Change": 1.98,
+        "Volume": 10.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-04-03",
+        "Open": 381.5,
+        "High": 389.1,
+        "Low": 381.5,
+        "Close": 389.1,
+        "Percent Change": 4.01,
+        "Volume": 24.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-03-31",
+        "Open": 366.8,
+        "High": 374.1,
+        "Low": 366.8,
+        "Close": 374.1,
+        "Percent Change": 4.0,
+        "Volume": 27.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-03-30",
+        "Open": 352.7,
+        "High": 359.7,
+        "Low": 352.7,
+        "Close": 359.7,
+        "Percent Change": 1.98,
+        "Volume": 16.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-03-29",
+        "Open": 339.1,
+        "High": 352.7,
+        "Low": 339.1,
+        "Close": 352.7,
+        "Percent Change": 4.01,
+        "Volume": 54.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-03-28",
+        "Open": 332.5,
+        "High": 339.1,
+        "Low": 332.5,
+        "Close": 339.1,
+        "Percent Change": 1.98,
+        "Volume": 43.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-03-27",
+        "Open": 332.5,
+        "High": 332.5,
+        "Low": 332.5,
+        "Close": 332.5,
+        "Percent Change": 0.0,
+        "Volume": 5.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-03-24",
+        "Open": 332.5,
+        "High": 332.5,
+        "Low": 332.5,
+        "Close": 332.5,
+        "Percent Change": 1.99,
+        "Volume": 10.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-03-23",
+        "Open": 326.0,
+        "High": 326.0,
+        "Low": 326.0,
+        "Close": 326.0,
+        "Percent Change": 0.0,
+        "Volume": 6.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-03-22",
+        "Open": 319.7,
+        "High": 326.0,
+        "Low": 319.7,
+        "Close": 326.0,
+        "Percent Change": 0.34,
+        "Volume": 33.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-03-20",
+        "Open": 318.6,
+        "High": 324.9,
+        "Low": 318.6,
+        "Close": 324.9,
+        "Percent Change": 1.98,
+        "Volume": 12.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-03-16",
+        "Open": 318.6,
+        "High": 318.6,
+        "Low": 318.6,
+        "Close": 318.6,
+        "Percent Change": 0.0,
+        "Volume": 2.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-03-15",
+        "Open": 318.6,
+        "High": 318.6,
+        "Low": 318.6,
+        "Close": 318.6,
+        "Percent Change": 0.0,
+        "Volume": 18.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-03-14",
+        "Open": 318.6,
+        "High": 318.6,
+        "Low": 318.6,
+        "Close": 318.6,
+        "Percent Change": 0.0,
+        "Volume": 30.0
+    },
+    {
+        "Symbol": "JALPA",
+        "Date": "2022-01-02",
+        "Open": 3300.0,
+        "High": 3361.0,
+        "Low": 3290.0,
+        "Close": 3361.0,
+        "Percent Change": 1.08,
+        "Volume": 3090.0
+    }
+]

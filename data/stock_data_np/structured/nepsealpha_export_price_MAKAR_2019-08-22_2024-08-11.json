@@ -1,0 +1,2952 @@
+[
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-08-11",
+        "Open": 585.0,
+        "High": 595.0,
+        "Low": 552.3,
+        "Close": 588.0,
+        "Percent Change": 1.73,
+        "Volume": 104910.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-08-08",
+        "Open": 600.0,
+        "High": 636.0,
+        "Low": 570.0,
+        "Close": 578.0,
+        "Percent Change": -3.67,
+        "Volume": 112010.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-08-07",
+        "Open": 550.0,
+        "High": 600.0,
+        "Low": 545.9,
+        "Close": 600.0,
+        "Percent Change": 9.91,
+        "Volume": 49362.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-08-06",
+        "Open": 589.0,
+        "High": 612.0,
+        "Low": 545.9,
+        "Close": 545.9,
+        "Percent Change": -9.17,
+        "Volume": 120107.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-08-05",
+        "Open": 569.0,
+        "High": 610.0,
+        "Low": 557.7,
+        "Close": 601.0,
+        "Percent Change": 5.62,
+        "Volume": 143726.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-08-01",
+        "Open": 510.1,
+        "High": 572.0,
+        "Low": 510.1,
+        "Close": 569.0,
+        "Percent Change": 9.32,
+        "Volume": 124382.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-31",
+        "Open": 482.0,
+        "High": 520.5,
+        "Low": 482.0,
+        "Close": 520.5,
+        "Percent Change": 10.0,
+        "Volume": 110082.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-30",
+        "Open": 464.1,
+        "High": 490.0,
+        "Low": 464.1,
+        "Close": 473.2,
+        "Percent Change": 0.77,
+        "Volume": 57223.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-29",
+        "Open": 475.0,
+        "High": 487.0,
+        "Low": 469.6,
+        "Close": 469.6,
+        "Percent Change": -0.95,
+        "Volume": 37062.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-28",
+        "Open": 480.0,
+        "High": 489.0,
+        "Low": 466.3,
+        "Close": 474.1,
+        "Percent Change": -1.23,
+        "Volume": 16726.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-25",
+        "Open": 489.8,
+        "High": 489.8,
+        "Low": 473.0,
+        "Close": 480.0,
+        "Percent Change": -0.21,
+        "Volume": 37900.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-24",
+        "Open": 510.0,
+        "High": 515.0,
+        "Low": 480.2,
+        "Close": 481.0,
+        "Percent Change": -5.69,
+        "Volume": 56955.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-23",
+        "Open": 491.1,
+        "High": 521.0,
+        "Low": 488.0,
+        "Close": 510.0,
+        "Percent Change": 4.29,
+        "Volume": 52551.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-22",
+        "Open": 485.0,
+        "High": 504.7,
+        "Low": 485.0,
+        "Close": 489.0,
+        "Percent Change": 0.72,
+        "Volume": 49202.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-21",
+        "Open": 482.0,
+        "High": 490.0,
+        "Low": 470.0,
+        "Close": 485.5,
+        "Percent Change": 1.15,
+        "Volume": 36955.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-18",
+        "Open": 473.2,
+        "High": 489.5,
+        "Low": 470.4,
+        "Close": 480.0,
+        "Percent Change": 0.0,
+        "Volume": 47163.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-17",
+        "Open": 480.0,
+        "High": 486.0,
+        "Low": 466.6,
+        "Close": 480.0,
+        "Percent Change": 1.05,
+        "Volume": 45826.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-16",
+        "Open": 454.3,
+        "High": 486.0,
+        "Low": 454.3,
+        "Close": 475.0,
+        "Percent Change": 4.56,
+        "Volume": 39881.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-15",
+        "Open": 465.0,
+        "High": 465.0,
+        "Low": 450.0,
+        "Close": 454.3,
+        "Percent Change": -2.3,
+        "Volume": 24609.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-14",
+        "Open": 469.2,
+        "High": 478.0,
+        "Low": 460.0,
+        "Close": 465.0,
+        "Percent Change": 1.09,
+        "Volume": 17710.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-11",
+        "Open": 471.7,
+        "High": 471.7,
+        "Low": 457.0,
+        "Close": 460.0,
+        "Percent Change": -0.63,
+        "Volume": 23490.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-10",
+        "Open": 467.0,
+        "High": 467.0,
+        "Low": 456.3,
+        "Close": 462.9,
+        "Percent Change": 1.07,
+        "Volume": 11037.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-09",
+        "Open": 450.1,
+        "High": 476.9,
+        "Low": 450.1,
+        "Close": 458.0,
+        "Percent Change": 0.66,
+        "Volume": 18802.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-08",
+        "Open": 469.2,
+        "High": 469.2,
+        "Low": 452.3,
+        "Close": 455.0,
+        "Percent Change": -1.09,
+        "Volume": 18384.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-07",
+        "Open": 452.8,
+        "High": 472.0,
+        "Low": 452.8,
+        "Close": 460.0,
+        "Percent Change": -0.43,
+        "Volume": 35667.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-04",
+        "Open": 455.8,
+        "High": 468.0,
+        "Low": 455.8,
+        "Close": 462.0,
+        "Percent Change": -0.67,
+        "Volume": 28007.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-03",
+        "Open": 466.0,
+        "High": 470.9,
+        "Low": 460.0,
+        "Close": 465.1,
+        "Percent Change": -2.08,
+        "Volume": 18511.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-02",
+        "Open": 469.2,
+        "High": 495.0,
+        "Low": 458.0,
+        "Close": 475.0,
+        "Percent Change": 3.26,
+        "Volume": 53308.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-07-01",
+        "Open": 454.0,
+        "High": 465.0,
+        "Low": 454.0,
+        "Close": 460.0,
+        "Percent Change": 1.32,
+        "Volume": 38271.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-30",
+        "Open": 450.0,
+        "High": 474.0,
+        "Low": 450.0,
+        "Close": 454.0,
+        "Percent Change": 1.29,
+        "Volume": 39372.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-27",
+        "Open": 468.4,
+        "High": 468.4,
+        "Low": 445.0,
+        "Close": 448.2,
+        "Percent Change": -2.42,
+        "Volume": 115901.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-26",
+        "Open": 478.9,
+        "High": 479.0,
+        "Low": 450.0,
+        "Close": 459.3,
+        "Percent Change": -2.5,
+        "Volume": 43818.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-25",
+        "Open": 434.9,
+        "High": 471.1,
+        "Low": 434.9,
+        "Close": 471.1,
+        "Percent Change": 9.99,
+        "Volume": 118917.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-24",
+        "Open": 394.1,
+        "High": 432.0,
+        "Low": 394.1,
+        "Close": 428.3,
+        "Percent Change": 7.21,
+        "Volume": 104502.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-23",
+        "Open": 400.0,
+        "High": 405.0,
+        "Low": 395.5,
+        "Close": 399.5,
+        "Percent Change": -0.62,
+        "Volume": 16865.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-20",
+        "Open": 413.1,
+        "High": 413.1,
+        "Low": 400.1,
+        "Close": 402.0,
+        "Percent Change": -0.74,
+        "Volume": 17840.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-19",
+        "Open": 409.9,
+        "High": 409.9,
+        "Low": 401.8,
+        "Close": 405.0,
+        "Percent Change": 0.72,
+        "Volume": 11571.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-18",
+        "Open": 416.1,
+        "High": 416.1,
+        "Low": 402.1,
+        "Close": 402.1,
+        "Percent Change": -1.45,
+        "Volume": 30116.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-16",
+        "Open": 408.0,
+        "High": 421.2,
+        "Low": 401.0,
+        "Close": 408.0,
+        "Percent Change": 2.0,
+        "Volume": 38766.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-13",
+        "Open": 391.0,
+        "High": 410.9,
+        "Low": 391.0,
+        "Close": 400.0,
+        "Percent Change": 0.5,
+        "Volume": 41430.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-12",
+        "Open": 410.0,
+        "High": 411.0,
+        "Low": 395.3,
+        "Close": 398.0,
+        "Percent Change": -1.0,
+        "Volume": 20500.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-11",
+        "Open": 400.0,
+        "High": 415.3,
+        "Low": 399.0,
+        "Close": 402.0,
+        "Percent Change": 0.5,
+        "Volume": 25927.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-10",
+        "Open": 399.9,
+        "High": 412.9,
+        "Low": 395.0,
+        "Close": 400.0,
+        "Percent Change": 1.27,
+        "Volume": 39815.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-09",
+        "Open": 393.0,
+        "High": 404.0,
+        "Low": 390.2,
+        "Close": 395.0,
+        "Percent Change": -0.75,
+        "Volume": 37104.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-06",
+        "Open": 389.0,
+        "High": 403.0,
+        "Low": 386.1,
+        "Close": 398.0,
+        "Percent Change": 2.31,
+        "Volume": 22736.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-05",
+        "Open": 405.9,
+        "High": 405.9,
+        "Low": 381.1,
+        "Close": 389.0,
+        "Percent Change": -2.26,
+        "Volume": 40788.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-04",
+        "Open": 405.2,
+        "High": 419.0,
+        "Low": 394.0,
+        "Close": 398.0,
+        "Percent Change": -1.73,
+        "Volume": 29138.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-03",
+        "Open": 417.0,
+        "High": 434.0,
+        "Low": 399.9,
+        "Close": 405.0,
+        "Percent Change": -1.29,
+        "Volume": 77496.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-06-02",
+        "Open": 380.4,
+        "High": 410.3,
+        "Low": 380.4,
+        "Close": 410.3,
+        "Percent Change": 10.0,
+        "Volume": 112110.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-30",
+        "Open": 357.7,
+        "High": 378.9,
+        "Low": 357.7,
+        "Close": 373.0,
+        "Percent Change": 2.19,
+        "Volume": 24947.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-29",
+        "Open": 368.0,
+        "High": 385.0,
+        "Low": 363.0,
+        "Close": 365.0,
+        "Percent Change": -2.64,
+        "Volume": 33656.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-27",
+        "Open": 365.6,
+        "High": 377.2,
+        "Low": 365.6,
+        "Close": 374.9,
+        "Percent Change": 2.71,
+        "Volume": 13953.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-26",
+        "Open": 374.4,
+        "High": 383.9,
+        "Low": 365.0,
+        "Close": 365.0,
+        "Percent Change": -4.45,
+        "Volume": 22038.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-22",
+        "Open": 384.5,
+        "High": 399.9,
+        "Low": 378.2,
+        "Close": 382.0,
+        "Percent Change": -0.65,
+        "Volume": 15642.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-21",
+        "Open": 375.0,
+        "High": 391.0,
+        "Low": 371.2,
+        "Close": 384.5,
+        "Percent Change": 3.95,
+        "Volume": 46195.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-20",
+        "Open": 363.0,
+        "High": 373.3,
+        "Low": 362.6,
+        "Close": 369.9,
+        "Percent Change": 1.07,
+        "Volume": 30731.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-19",
+        "Open": 365.0,
+        "High": 372.0,
+        "Low": 354.2,
+        "Close": 366.0,
+        "Percent Change": 0.27,
+        "Volume": 21621.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-16",
+        "Open": 366.5,
+        "High": 379.9,
+        "Low": 352.2,
+        "Close": 365.0,
+        "Percent Change": -2.38,
+        "Volume": 9795.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-15",
+        "Open": 375.0,
+        "High": 387.0,
+        "Low": 368.2,
+        "Close": 373.9,
+        "Percent Change": -1.79,
+        "Volume": 10522.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-14",
+        "Open": 352.0,
+        "High": 380.7,
+        "Low": 352.0,
+        "Close": 380.7,
+        "Percent Change": 8.18,
+        "Volume": 21417.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-13",
+        "Open": 357.0,
+        "High": 363.5,
+        "Low": 351.0,
+        "Close": 351.9,
+        "Percent Change": -1.43,
+        "Volume": 6760.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-12",
+        "Open": 352.5,
+        "High": 363.2,
+        "Low": 352.5,
+        "Close": 357.0,
+        "Percent Change": 0.56,
+        "Volume": 25530.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-09",
+        "Open": 342.0,
+        "High": 355.0,
+        "Low": 342.0,
+        "Close": 355.0,
+        "Percent Change": 2.6,
+        "Volume": 14562.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-08",
+        "Open": 344.9,
+        "High": 353.0,
+        "Low": 343.0,
+        "Close": 346.0,
+        "Percent Change": -1.68,
+        "Volume": 9845.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-07",
+        "Open": 352.3,
+        "High": 365.0,
+        "Low": 350.1,
+        "Close": 351.9,
+        "Percent Change": -2.09,
+        "Volume": 9598.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-06",
+        "Open": 358.2,
+        "High": 364.0,
+        "Low": 353.6,
+        "Close": 359.4,
+        "Percent Change": -1.51,
+        "Volume": 4367.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-05",
+        "Open": 358.2,
+        "High": 370.0,
+        "Low": 358.2,
+        "Close": 364.9,
+        "Percent Change": -0.03,
+        "Volume": 10725.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-05-02",
+        "Open": 363.8,
+        "High": 377.0,
+        "Low": 362.0,
+        "Close": 365.0,
+        "Percent Change": -1.62,
+        "Volume": 13728.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-30",
+        "Open": 359.0,
+        "High": 385.0,
+        "Low": 358.7,
+        "Close": 371.0,
+        "Percent Change": 2.2,
+        "Volume": 11337.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-29",
+        "Open": 370.0,
+        "High": 374.0,
+        "Low": 360.0,
+        "Close": 363.0,
+        "Percent Change": -2.68,
+        "Volume": 15325.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-28",
+        "Open": 370.0,
+        "High": 381.0,
+        "Low": 366.0,
+        "Close": 373.0,
+        "Percent Change": -0.53,
+        "Volume": 17120.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-25",
+        "Open": 381.1,
+        "High": 394.0,
+        "Low": 375.0,
+        "Close": 375.0,
+        "Percent Change": -3.1,
+        "Volume": 13490.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-24",
+        "Open": 383.0,
+        "High": 402.0,
+        "Low": 379.0,
+        "Close": 387.0,
+        "Percent Change": -0.77,
+        "Volume": 5589.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-22",
+        "Open": 392.0,
+        "High": 399.0,
+        "Low": 383.0,
+        "Close": 390.0,
+        "Percent Change": -2.48,
+        "Volume": 12069.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-21",
+        "Open": 382.5,
+        "High": 400.0,
+        "Low": 382.5,
+        "Close": 399.9,
+        "Percent Change": 2.54,
+        "Volume": 9532.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-18",
+        "Open": 388.6,
+        "High": 397.8,
+        "Low": 383.0,
+        "Close": 390.0,
+        "Percent Change": -1.02,
+        "Volume": 4849.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-16",
+        "Open": 411.9,
+        "High": 411.9,
+        "Low": 391.2,
+        "Close": 394.0,
+        "Percent Change": -2.72,
+        "Volume": 4870.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-15",
+        "Open": 394.1,
+        "High": 411.0,
+        "Low": 394.1,
+        "Close": 405.0,
+        "Percent Change": 1.25,
+        "Volume": 19470.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-14",
+        "Open": 391.0,
+        "High": 406.7,
+        "Low": 390.3,
+        "Close": 400.0,
+        "Percent Change": 0.5,
+        "Volume": 57966.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-10",
+        "Open": 402.0,
+        "High": 404.4,
+        "Low": 388.0,
+        "Close": 398.0,
+        "Percent Change": 0.76,
+        "Volume": 14926.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-09",
+        "Open": 402.0,
+        "High": 404.9,
+        "Low": 392.0,
+        "Close": 395.0,
+        "Percent Change": 0.03,
+        "Volume": 37602.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-07",
+        "Open": 380.5,
+        "High": 394.9,
+        "Low": 380.5,
+        "Close": 394.9,
+        "Percent Change": 1.78,
+        "Volume": 5720.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-04",
+        "Open": 386.1,
+        "High": 395.6,
+        "Low": 385.0,
+        "Close": 388.0,
+        "Percent Change": -0.51,
+        "Volume": 13178.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-03",
+        "Open": 390.1,
+        "High": 403.5,
+        "Low": 387.3,
+        "Close": 390.0,
+        "Percent Change": -1.27,
+        "Volume": 6680.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-02",
+        "Open": 415.0,
+        "High": 415.0,
+        "Low": 395.0,
+        "Close": 395.0,
+        "Percent Change": -3.42,
+        "Volume": 9420.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-04-01",
+        "Open": 400.0,
+        "High": 412.0,
+        "Low": 400.0,
+        "Close": 409.0,
+        "Percent Change": 2.0,
+        "Volume": 25661.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-31",
+        "Open": 399.0,
+        "High": 404.0,
+        "Low": 392.1,
+        "Close": 401.0,
+        "Percent Change": 1.13,
+        "Volume": 21971.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-28",
+        "Open": 386.2,
+        "High": 405.0,
+        "Low": 386.2,
+        "Close": 396.5,
+        "Percent Change": 0.63,
+        "Volume": 21202.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-27",
+        "Open": 375.0,
+        "High": 394.0,
+        "Low": 374.2,
+        "Close": 394.0,
+        "Percent Change": 3.96,
+        "Volume": 17137.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-26",
+        "Open": 372.0,
+        "High": 390.0,
+        "Low": 367.6,
+        "Close": 379.0,
+        "Percent Change": 2.35,
+        "Volume": 6372.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-25",
+        "Open": 368.5,
+        "High": 375.0,
+        "Low": 368.5,
+        "Close": 370.3,
+        "Percent Change": -1.52,
+        "Volume": 1945.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-21",
+        "Open": 372.0,
+        "High": 391.0,
+        "Low": 372.0,
+        "Close": 376.0,
+        "Percent Change": 0.0,
+        "Volume": 4225.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-20",
+        "Open": 376.2,
+        "High": 384.1,
+        "Low": 376.0,
+        "Close": 376.0,
+        "Percent Change": -1.05,
+        "Volume": 6070.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-19",
+        "Open": 381.0,
+        "High": 390.0,
+        "Low": 375.4,
+        "Close": 380.0,
+        "Percent Change": -1.04,
+        "Volume": 4922.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-18",
+        "Open": 375.2,
+        "High": 384.0,
+        "Low": 375.0,
+        "Close": 384.0,
+        "Percent Change": 2.05,
+        "Volume": 6361.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-17",
+        "Open": 384.1,
+        "High": 390.0,
+        "Low": 375.1,
+        "Close": 376.3,
+        "Percent Change": -3.51,
+        "Volume": 12192.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-14",
+        "Open": 392.0,
+        "High": 400.9,
+        "Low": 386.1,
+        "Close": 390.0,
+        "Percent Change": -2.45,
+        "Volume": 7439.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-13",
+        "Open": 411.0,
+        "High": 411.0,
+        "Low": 394.1,
+        "Close": 399.8,
+        "Percent Change": -0.79,
+        "Volume": 14584.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-12",
+        "Open": 397.1,
+        "High": 409.0,
+        "Low": 397.1,
+        "Close": 403.0,
+        "Percent Change": -0.47,
+        "Volume": 25069.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-10",
+        "Open": 400.6,
+        "High": 408.0,
+        "Low": 396.0,
+        "Close": 404.9,
+        "Percent Change": 1.23,
+        "Volume": 11557.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-07",
+        "Open": 396.2,
+        "High": 401.0,
+        "Low": 382.0,
+        "Close": 400.0,
+        "Percent Change": -0.72,
+        "Volume": 12005.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-06",
+        "Open": 372.1,
+        "High": 402.9,
+        "Low": 365.0,
+        "Close": 402.9,
+        "Percent Change": 6.59,
+        "Volume": 25629.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-05",
+        "Open": 393.0,
+        "High": 393.0,
+        "Low": 375.6,
+        "Close": 378.0,
+        "Percent Change": -3.47,
+        "Volume": 14331.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-04",
+        "Open": 377.4,
+        "High": 391.6,
+        "Low": 377.4,
+        "Close": 391.6,
+        "Percent Change": 5.84,
+        "Volume": 70.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-03-03",
+        "Open": 378.0,
+        "High": 378.0,
+        "Low": 362.7,
+        "Close": 370.0,
+        "Percent Change": -0.27,
+        "Volume": 12450.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-29",
+        "Open": 402.9,
+        "High": 402.9,
+        "Low": 370.1,
+        "Close": 371.0,
+        "Percent Change": -6.08,
+        "Volume": 9795.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-28",
+        "Open": 385.1,
+        "High": 397.0,
+        "Low": 385.1,
+        "Close": 395.0,
+        "Percent Change": 1.8,
+        "Volume": 11172.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-27",
+        "Open": 388.1,
+        "High": 405.0,
+        "Low": 388.0,
+        "Close": 388.0,
+        "Percent Change": -2.02,
+        "Volume": 12430.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-26",
+        "Open": 405.9,
+        "High": 405.9,
+        "Low": 393.1,
+        "Close": 396.0,
+        "Percent Change": -0.5,
+        "Volume": 5732.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-25",
+        "Open": 412.6,
+        "High": 422.0,
+        "Low": 398.0,
+        "Close": 398.0,
+        "Percent Change": -5.46,
+        "Volume": 29407.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-22",
+        "Open": 401.8,
+        "High": 427.0,
+        "Low": 395.1,
+        "Close": 421.0,
+        "Percent Change": 2.68,
+        "Volume": 18590.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-21",
+        "Open": 406.5,
+        "High": 422.4,
+        "Low": 401.8,
+        "Close": 410.0,
+        "Percent Change": -1.01,
+        "Volume": 16970.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-20",
+        "Open": 421.4,
+        "High": 428.0,
+        "Low": 414.1,
+        "Close": 414.2,
+        "Percent Change": -3.67,
+        "Volume": 24983.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-18",
+        "Open": 450.0,
+        "High": 450.0,
+        "Low": 423.0,
+        "Close": 430.0,
+        "Percent Change": -4.44,
+        "Volume": 29050.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-15",
+        "Open": 442.0,
+        "High": 451.9,
+        "Low": 427.0,
+        "Close": 450.0,
+        "Percent Change": 3.45,
+        "Volume": 60627.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-14",
+        "Open": 420.0,
+        "High": 438.0,
+        "Low": 420.0,
+        "Close": 435.0,
+        "Percent Change": 2.11,
+        "Volume": 30242.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-13",
+        "Open": 418.0,
+        "High": 450.0,
+        "Low": 418.0,
+        "Close": 426.0,
+        "Percent Change": 0.24,
+        "Volume": 37503.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-12",
+        "Open": 416.0,
+        "High": 434.0,
+        "Low": 409.0,
+        "Close": 425.0,
+        "Percent Change": 0.24,
+        "Volume": 30689.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-11",
+        "Open": 425.0,
+        "High": 435.3,
+        "Low": 421.5,
+        "Close": 424.0,
+        "Percent Change": -1.4,
+        "Volume": 33668.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-08",
+        "Open": 437.1,
+        "High": 454.0,
+        "Low": 428.4,
+        "Close": 430.0,
+        "Percent Change": -3.59,
+        "Volume": 29947.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-07",
+        "Open": 440.0,
+        "High": 449.0,
+        "Low": 422.0,
+        "Close": 446.0,
+        "Percent Change": 3.17,
+        "Volume": 53327.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-06",
+        "Open": 425.0,
+        "High": 442.6,
+        "Low": 425.0,
+        "Close": 432.3,
+        "Percent Change": 0.77,
+        "Volume": 17495.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-05",
+        "Open": 415.0,
+        "High": 440.0,
+        "Low": 415.0,
+        "Close": 429.0,
+        "Percent Change": 2.14,
+        "Volume": 22130.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-04",
+        "Open": 430.0,
+        "High": 430.0,
+        "Low": 413.1,
+        "Close": 420.0,
+        "Percent Change": -1.59,
+        "Volume": 75448.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-02-01",
+        "Open": 421.4,
+        "High": 432.4,
+        "Low": 406.7,
+        "Close": 426.8,
+        "Percent Change": -0.74,
+        "Volume": 44831.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-31",
+        "Open": 438.0,
+        "High": 438.5,
+        "Low": 423.0,
+        "Close": 430.0,
+        "Percent Change": 0.02,
+        "Volume": 50071.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-30",
+        "Open": 400.0,
+        "High": 431.0,
+        "Low": 397.0,
+        "Close": 429.9,
+        "Percent Change": 7.47,
+        "Volume": 102197.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-29",
+        "Open": 369.0,
+        "High": 404.0,
+        "Low": 368.5,
+        "Close": 400.0,
+        "Percent Change": 6.38,
+        "Volume": 80935.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-28",
+        "Open": 369.1,
+        "High": 387.0,
+        "Low": 369.1,
+        "Close": 376.0,
+        "Percent Change": 0.51,
+        "Volume": 27796.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-25",
+        "Open": 361.6,
+        "High": 387.0,
+        "Low": 347.4,
+        "Close": 374.1,
+        "Percent Change": 5.5,
+        "Volume": 120451.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-24",
+        "Open": 348.0,
+        "High": 367.0,
+        "Low": 348.0,
+        "Close": 354.6,
+        "Percent Change": -0.11,
+        "Volume": 15474.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-23",
+        "Open": 347.0,
+        "High": 370.0,
+        "Low": 344.0,
+        "Close": 355.0,
+        "Percent Change": 0.28,
+        "Volume": 20497.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-22",
+        "Open": 371.5,
+        "High": 378.0,
+        "Low": 352.2,
+        "Close": 354.0,
+        "Percent Change": -6.57,
+        "Volume": 30610.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-21",
+        "Open": 379.3,
+        "High": 398.0,
+        "Low": 371.0,
+        "Close": 378.9,
+        "Percent Change": -2.09,
+        "Volume": 47026.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-18",
+        "Open": 373.0,
+        "High": 393.0,
+        "Low": 372.0,
+        "Close": 387.0,
+        "Percent Change": 1.84,
+        "Volume": 43272.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-17",
+        "Open": 402.1,
+        "High": 424.4,
+        "Low": 367.5,
+        "Close": 380.0,
+        "Percent Change": -3.63,
+        "Volume": 105531.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-16",
+        "Open": 362.0,
+        "High": 394.3,
+        "Low": 356.2,
+        "Close": 394.3,
+        "Percent Change": 9.99,
+        "Volume": 100781.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-14",
+        "Open": 344.0,
+        "High": 371.8,
+        "Low": 339.1,
+        "Close": 358.5,
+        "Percent Change": 6.07,
+        "Volume": 80396.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-11",
+        "Open": 315.1,
+        "High": 339.6,
+        "Low": 315.0,
+        "Close": 338.0,
+        "Percent Change": 5.49,
+        "Volume": 56521.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-10",
+        "Open": 322.0,
+        "High": 328.4,
+        "Low": 316.0,
+        "Close": 320.4,
+        "Percent Change": -0.19,
+        "Volume": 31980.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-09",
+        "Open": 340.1,
+        "High": 347.0,
+        "Low": 317.1,
+        "Close": 321.0,
+        "Percent Change": -3.75,
+        "Volume": 26567.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-08",
+        "Open": 315.0,
+        "High": 339.0,
+        "Low": 310.0,
+        "Close": 333.5,
+        "Percent Change": 6.21,
+        "Volume": 80247.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-07",
+        "Open": 315.0,
+        "High": 323.0,
+        "Low": 306.0,
+        "Close": 314.0,
+        "Percent Change": 1.62,
+        "Volume": 57451.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-04",
+        "Open": 297.1,
+        "High": 318.0,
+        "Low": 295.3,
+        "Close": 309.0,
+        "Percent Change": 5.42,
+        "Volume": 90957.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-03",
+        "Open": 275.1,
+        "High": 296.0,
+        "Low": 275.1,
+        "Close": 293.1,
+        "Percent Change": 4.68,
+        "Volume": 15523.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-02",
+        "Open": 281.0,
+        "High": 293.0,
+        "Low": 276.0,
+        "Close": 280.0,
+        "Percent Change": -1.16,
+        "Volume": 26565.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2024-01-01",
+        "Open": 291.5,
+        "High": 312.1,
+        "Low": 283.3,
+        "Close": 283.3,
+        "Percent Change": -4.26,
+        "Volume": 32788.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-28",
+        "Open": 292.3,
+        "High": 306.0,
+        "Low": 292.3,
+        "Close": 295.9,
+        "Percent Change": 0.31,
+        "Volume": 20613.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-27",
+        "Open": 300.9,
+        "High": 312.9,
+        "Low": 283.0,
+        "Close": 295.0,
+        "Percent Change": 0.0,
+        "Volume": 31551.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-24",
+        "Open": 301.0,
+        "High": 312.0,
+        "Low": 295.0,
+        "Close": 295.0,
+        "Percent Change": -1.67,
+        "Volume": 36314.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-21",
+        "Open": 313.0,
+        "High": 315.0,
+        "Low": 295.0,
+        "Close": 300.0,
+        "Percent Change": -3.88,
+        "Volume": 19685.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-20",
+        "Open": 294.0,
+        "High": 322.3,
+        "Low": 285.0,
+        "Close": 312.1,
+        "Percent Change": 6.52,
+        "Volume": 28555.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-19",
+        "Open": 295.0,
+        "High": 298.7,
+        "Low": 281.0,
+        "Close": 293.0,
+        "Percent Change": -1.35,
+        "Volume": 31035.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-18",
+        "Open": 307.0,
+        "High": 309.0,
+        "Low": 288.0,
+        "Close": 297.0,
+        "Percent Change": -3.1,
+        "Volume": 29751.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-17",
+        "Open": 275.0,
+        "High": 307.0,
+        "Low": 269.0,
+        "Close": 306.5,
+        "Percent Change": 9.82,
+        "Volume": 69054.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-14",
+        "Open": 279.9,
+        "High": 284.0,
+        "Low": 273.5,
+        "Close": 279.1,
+        "Percent Change": -2.28,
+        "Volume": 13767.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-13",
+        "Open": 274.0,
+        "High": 286.0,
+        "Low": 268.6,
+        "Close": 285.6,
+        "Percent Change": 4.27,
+        "Volume": 31247.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-12",
+        "Open": 249.0,
+        "High": 276.0,
+        "Low": 246.4,
+        "Close": 273.9,
+        "Percent Change": 8.26,
+        "Volume": 40394.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-11",
+        "Open": 265.0,
+        "High": 265.0,
+        "Low": 244.0,
+        "Close": 253.0,
+        "Percent Change": -2.65,
+        "Volume": 11290.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-10",
+        "Open": 245.0,
+        "High": 259.9,
+        "Low": 245.0,
+        "Close": 259.9,
+        "Percent Change": 7.09,
+        "Volume": 3687.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-07",
+        "Open": 233.4,
+        "High": 247.5,
+        "Low": 232.1,
+        "Close": 242.7,
+        "Percent Change": 1.97,
+        "Volume": 9660.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-06",
+        "Open": 234.0,
+        "High": 241.9,
+        "Low": 229.4,
+        "Close": 238.0,
+        "Percent Change": 0.0,
+        "Volume": 4105.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-05",
+        "Open": 236.0,
+        "High": 240.0,
+        "Low": 228.0,
+        "Close": 238.0,
+        "Percent Change": -0.83,
+        "Volume": 4320.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-04",
+        "Open": 237.0,
+        "High": 241.7,
+        "Low": 228.2,
+        "Close": 240.0,
+        "Percent Change": 1.27,
+        "Volume": 2180.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-12-03",
+        "Open": 236.0,
+        "High": 237.0,
+        "Low": 232.0,
+        "Close": 237.0,
+        "Percent Change": -1.25,
+        "Volume": 6905.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-30",
+        "Open": 249.0,
+        "High": 249.1,
+        "Low": 240.0,
+        "Close": 240.0,
+        "Percent Change": -5.36,
+        "Volume": 5800.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-29",
+        "Open": 266.5,
+        "High": 261.2,
+        "Low": 245.0,
+        "Close": 253.6,
+        "Percent Change": -4.84,
+        "Volume": 11066.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-28",
+        "Open": 252.5,
+        "High": 272.0,
+        "Low": 238.0,
+        "Close": 266.5,
+        "Percent Change": 7.46,
+        "Volume": 9365.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-27",
+        "Open": 246.9,
+        "High": 266.0,
+        "Low": 242.0,
+        "Close": 248.0,
+        "Percent Change": -1.55,
+        "Volume": 7145.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-26",
+        "Open": 232.0,
+        "High": 252.9,
+        "Low": 226.0,
+        "Close": 251.9,
+        "Percent Change": 6.47,
+        "Volume": 14268.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-23",
+        "Open": 231.2,
+        "High": 236.6,
+        "Low": 221.0,
+        "Close": 236.6,
+        "Percent Change": 0.3,
+        "Volume": 5240.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-22",
+        "Open": 216.0,
+        "High": 235.9,
+        "Low": 216.0,
+        "Close": 235.9,
+        "Percent Change": 7.28,
+        "Volume": 2120.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-21",
+        "Open": 222.5,
+        "High": 224.0,
+        "Low": 216.6,
+        "Close": 219.9,
+        "Percent Change": -3.13,
+        "Volume": 3540.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-20",
+        "Open": 218.1,
+        "High": 227.0,
+        "Low": 217.0,
+        "Close": 227.0,
+        "Percent Change": 2.25,
+        "Volume": 2779.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-09",
+        "Open": 225.0,
+        "High": 230.0,
+        "Low": 220.8,
+        "Close": 222.0,
+        "Percent Change": -1.29,
+        "Volume": 2425.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-08",
+        "Open": 225.0,
+        "High": 226.0,
+        "Low": 218.1,
+        "Close": 224.9,
+        "Percent Change": 0.54,
+        "Volume": 3410.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-07",
+        "Open": 217.2,
+        "High": 225.4,
+        "Low": 217.1,
+        "Close": 223.7,
+        "Percent Change": 1.22,
+        "Volume": 1920.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-06",
+        "Open": 217.0,
+        "High": 238.0,
+        "Low": 214.0,
+        "Close": 221.0,
+        "Percent Change": 1.84,
+        "Volume": 3000.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-05",
+        "Open": 217.0,
+        "High": 221.0,
+        "Low": 213.1,
+        "Close": 217.0,
+        "Percent Change": -0.91,
+        "Volume": 2239.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-02",
+        "Open": 218.8,
+        "High": 223.0,
+        "Low": 218.7,
+        "Close": 219.0,
+        "Percent Change": -1.79,
+        "Volume": 1650.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-11-01",
+        "Open": 219.1,
+        "High": 228.4,
+        "Low": 219.0,
+        "Close": 223.0,
+        "Percent Change": 0.45,
+        "Volume": 2270.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-31",
+        "Open": 221.2,
+        "High": 225.0,
+        "Low": 217.3,
+        "Close": 222.0,
+        "Percent Change": -1.64,
+        "Volume": 3381.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-30",
+        "Open": 226.4,
+        "High": 228.0,
+        "Low": 217.5,
+        "Close": 225.7,
+        "Percent Change": -2.29,
+        "Volume": 1440.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-29",
+        "Open": 229.4,
+        "High": 231.0,
+        "Low": 220.6,
+        "Close": 231.0,
+        "Percent Change": -1.28,
+        "Volume": 3515.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-19",
+        "Open": 237.4,
+        "High": 241.0,
+        "Low": 223.2,
+        "Close": 234.0,
+        "Percent Change": 0.52,
+        "Volume": 1454.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-18",
+        "Open": 226.0,
+        "High": 232.8,
+        "Low": 222.1,
+        "Close": 232.8,
+        "Percent Change": 2.83,
+        "Volume": 3345.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-17",
+        "Open": 225.6,
+        "High": 230.0,
+        "Low": 219.1,
+        "Close": 226.4,
+        "Percent Change": -1.52,
+        "Volume": 4055.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-16",
+        "Open": 227.5,
+        "High": 230.0,
+        "Low": 221.0,
+        "Close": 229.9,
+        "Percent Change": -0.91,
+        "Volume": 7740.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-12",
+        "Open": 235.0,
+        "High": 238.0,
+        "Low": 229.3,
+        "Close": 232.0,
+        "Percent Change": -2.52,
+        "Volume": 2182.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-11",
+        "Open": 230.8,
+        "High": 239.8,
+        "Low": 230.8,
+        "Close": 238.0,
+        "Percent Change": 1.06,
+        "Volume": 3530.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-10",
+        "Open": 239.8,
+        "High": 240.0,
+        "Low": 235.4,
+        "Close": 235.5,
+        "Percent Change": -1.83,
+        "Volume": 3175.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-09",
+        "Open": 239.0,
+        "High": 243.7,
+        "Low": 232.0,
+        "Close": 239.9,
+        "Percent Change": -1.28,
+        "Volume": 3365.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-08",
+        "Open": 247.0,
+        "High": 247.0,
+        "Low": 230.1,
+        "Close": 243.0,
+        "Percent Change": -1.62,
+        "Volume": 7293.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-05",
+        "Open": 240.1,
+        "High": 260.0,
+        "Low": 240.1,
+        "Close": 247.0,
+        "Percent Change": 1.06,
+        "Volume": 8490.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-04",
+        "Open": 238.1,
+        "High": 247.0,
+        "Low": 238.1,
+        "Close": 244.4,
+        "Percent Change": 0.62,
+        "Volume": 4260.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-03",
+        "Open": 239.1,
+        "High": 245.0,
+        "Low": 239.1,
+        "Close": 242.9,
+        "Percent Change": -0.16,
+        "Volume": 4918.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-02",
+        "Open": 244.1,
+        "High": 250.0,
+        "Low": 235.2,
+        "Close": 243.3,
+        "Percent Change": -2.29,
+        "Volume": 3167.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-10-01",
+        "Open": 251.0,
+        "High": 252.0,
+        "Low": 241.0,
+        "Close": 249.0,
+        "Percent Change": -2.73,
+        "Volume": 11593.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-27",
+        "Open": 260.1,
+        "High": 261.0,
+        "Low": 251.1,
+        "Close": 256.0,
+        "Percent Change": -3.4,
+        "Volume": 11645.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-26",
+        "Open": 251.0,
+        "High": 269.0,
+        "Low": 251.0,
+        "Close": 265.0,
+        "Percent Change": 3.52,
+        "Volume": 13210.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-25",
+        "Open": 247.0,
+        "High": 262.1,
+        "Low": 239.7,
+        "Close": 256.0,
+        "Percent Change": 1.59,
+        "Volume": 10626.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-24",
+        "Open": 245.0,
+        "High": 265.3,
+        "Low": 237.1,
+        "Close": 252.0,
+        "Percent Change": 0.8,
+        "Volume": 11500.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-21",
+        "Open": 235.0,
+        "High": 258.0,
+        "Low": 235.0,
+        "Close": 250.0,
+        "Percent Change": 6.38,
+        "Volume": 14671.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-19",
+        "Open": 231.0,
+        "High": 240.3,
+        "Low": 222.2,
+        "Close": 235.0,
+        "Percent Change": 3.39,
+        "Volume": 2960.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-18",
+        "Open": 219.3,
+        "High": 228.1,
+        "Low": 217.1,
+        "Close": 227.3,
+        "Percent Change": 1.61,
+        "Volume": 1930.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-17",
+        "Open": 228.4,
+        "High": 228.4,
+        "Low": 220.5,
+        "Close": 223.7,
+        "Percent Change": -3.99,
+        "Volume": 1970.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-13",
+        "Open": 223.1,
+        "High": 240.8,
+        "Low": 223.1,
+        "Close": 233.0,
+        "Percent Change": 2.64,
+        "Volume": 5620.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-12",
+        "Open": 231.3,
+        "High": 231.3,
+        "Low": 223.0,
+        "Close": 227.0,
+        "Percent Change": -3.81,
+        "Volume": 1435.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-11",
+        "Open": 219.0,
+        "High": 244.0,
+        "Low": 219.0,
+        "Close": 236.0,
+        "Percent Change": 5.83,
+        "Volume": 4660.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-10",
+        "Open": 223.0,
+        "High": 231.5,
+        "Low": 219.4,
+        "Close": 223.0,
+        "Percent Change": -1.68,
+        "Volume": 2870.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-07",
+        "Open": 233.2,
+        "High": 236.9,
+        "Low": 221.0,
+        "Close": 226.8,
+        "Percent Change": -4.67,
+        "Volume": 3595.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-05",
+        "Open": 238.0,
+        "High": 238.0,
+        "Low": 220.0,
+        "Close": 237.9,
+        "Percent Change": 1.67,
+        "Volume": 1657.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-04",
+        "Open": 225.0,
+        "High": 239.1,
+        "Low": 221.2,
+        "Close": 234.0,
+        "Percent Change": 4.0,
+        "Volume": 2880.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-09-03",
+        "Open": 227.0,
+        "High": 235.0,
+        "Low": 225.0,
+        "Close": 225.0,
+        "Percent Change": -2.39,
+        "Volume": 2000.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-30",
+        "Open": 233.3,
+        "High": 239.0,
+        "Low": 230.5,
+        "Close": 230.5,
+        "Percent Change": -1.62,
+        "Volume": 3036.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-29",
+        "Open": 234.0,
+        "High": 239.4,
+        "Low": 234.0,
+        "Close": 234.3,
+        "Percent Change": -1.64,
+        "Volume": 4165.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-28",
+        "Open": 238.4,
+        "High": 247.8,
+        "Low": 238.0,
+        "Close": 238.2,
+        "Percent Change": -2.02,
+        "Volume": 3110.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-27",
+        "Open": 263.7,
+        "High": 263.7,
+        "Low": 242.1,
+        "Close": 243.1,
+        "Percent Change": -9.63,
+        "Volume": 5371.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-24",
+        "Open": 249.0,
+        "High": 270.0,
+        "Low": 242.0,
+        "Close": 269.0,
+        "Percent Change": 5.99,
+        "Volume": 5812.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-23",
+        "Open": 257.9,
+        "High": 258.7,
+        "Low": 241.0,
+        "Close": 253.8,
+        "Percent Change": -2.42,
+        "Volume": 6450.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-22",
+        "Open": 235.3,
+        "High": 260.1,
+        "Low": 230.7,
+        "Close": 260.1,
+        "Percent Change": 8.42,
+        "Volume": 5250.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-21",
+        "Open": 238.2,
+        "High": 251.8,
+        "Low": 235.0,
+        "Close": 239.9,
+        "Percent Change": -1.28,
+        "Volume": 4840.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-20",
+        "Open": 238.0,
+        "High": 259.8,
+        "Low": 237.2,
+        "Close": 243.0,
+        "Percent Change": 0.41,
+        "Volume": 7160.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-17",
+        "Open": 245.1,
+        "High": 270.6,
+        "Low": 239.9,
+        "Close": 242.0,
+        "Percent Change": -3.24,
+        "Volume": 7278.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-16",
+        "Open": 250.0,
+        "High": 259.0,
+        "Low": 235.3,
+        "Close": 250.1,
+        "Percent Change": -1.54,
+        "Volume": 3160.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-15",
+        "Open": 254.0,
+        "High": 267.1,
+        "Low": 247.0,
+        "Close": 254.0,
+        "Percent Change": -1.09,
+        "Volume": 10665.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-14",
+        "Open": 249.0,
+        "High": 257.0,
+        "Low": 249.0,
+        "Close": 256.8,
+        "Percent Change": 1.38,
+        "Volume": 4070.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-13",
+        "Open": 265.6,
+        "High": 265.6,
+        "Low": 250.1,
+        "Close": 253.3,
+        "Percent Change": -6.53,
+        "Volume": 3110.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-10",
+        "Open": 264.6,
+        "High": 275.0,
+        "Low": 255.1,
+        "Close": 271.0,
+        "Percent Change": 0.37,
+        "Volume": 5835.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-09",
+        "Open": 246.0,
+        "High": 270.3,
+        "Low": 242.1,
+        "Close": 270.0,
+        "Percent Change": 7.91,
+        "Volume": 5765.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-08",
+        "Open": 250.0,
+        "High": 255.0,
+        "Low": 250.0,
+        "Close": 250.2,
+        "Percent Change": -1.88,
+        "Volume": 5301.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-07",
+        "Open": 249.7,
+        "High": 270.0,
+        "Low": 245.0,
+        "Close": 255.0,
+        "Percent Change": 0.12,
+        "Volume": 4400.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-06",
+        "Open": 264.0,
+        "High": 264.0,
+        "Low": 250.0,
+        "Close": 254.7,
+        "Percent Change": -4.93,
+        "Volume": 8227.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-03",
+        "Open": 261.8,
+        "High": 268.2,
+        "Low": 253.8,
+        "Close": 267.9,
+        "Percent Change": 0.34,
+        "Volume": 5040.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-02",
+        "Open": 253.2,
+        "High": 267.0,
+        "Low": 252.0,
+        "Close": 267.0,
+        "Percent Change": 3.37,
+        "Volume": 4394.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-08-01",
+        "Open": 257.8,
+        "High": 265.2,
+        "Low": 253.2,
+        "Close": 258.3,
+        "Percent Change": -1.79,
+        "Volume": 4370.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-31",
+        "Open": 260.0,
+        "High": 264.9,
+        "Low": 260.0,
+        "Close": 263.0,
+        "Percent Change": -0.34,
+        "Volume": 2880.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-30",
+        "Open": 264.7,
+        "High": 270.0,
+        "Low": 260.0,
+        "Close": 263.9,
+        "Percent Change": -2.26,
+        "Volume": 7404.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-27",
+        "Open": 265.2,
+        "High": 281.0,
+        "Low": 261.2,
+        "Close": 270.0,
+        "Percent Change": -0.04,
+        "Volume": 6328.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-26",
+        "Open": 273.5,
+        "High": 284.0,
+        "Low": 268.2,
+        "Close": 270.1,
+        "Percent Change": -3.19,
+        "Volume": 7457.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-25",
+        "Open": 276.5,
+        "High": 291.0,
+        "Low": 273.2,
+        "Close": 279.0,
+        "Percent Change": -1.06,
+        "Volume": 8164.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-24",
+        "Open": 273.2,
+        "High": 288.2,
+        "Low": 273.2,
+        "Close": 282.0,
+        "Percent Change": 3.22,
+        "Volume": 16101.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-23",
+        "Open": 274.0,
+        "High": 281.5,
+        "Low": 263.3,
+        "Close": 273.2,
+        "Percent Change": -2.04,
+        "Volume": 7385.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-20",
+        "Open": 269.5,
+        "High": 279.0,
+        "Low": 262.7,
+        "Close": 278.9,
+        "Percent Change": 1.46,
+        "Volume": 11582.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-19",
+        "Open": 272.5,
+        "High": 275.0,
+        "Low": 267.2,
+        "Close": 274.9,
+        "Percent Change": -1.12,
+        "Volume": 5159.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-18",
+        "Open": 274.5,
+        "High": 295.0,
+        "Low": 270.1,
+        "Close": 278.0,
+        "Percent Change": -0.71,
+        "Volume": 10672.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-17",
+        "Open": 269.0,
+        "High": 282.0,
+        "Low": 269.0,
+        "Close": 280.0,
+        "Percent Change": 2.53,
+        "Volume": 5012.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-16",
+        "Open": 294.0,
+        "High": 294.0,
+        "Low": 271.5,
+        "Close": 273.1,
+        "Percent Change": -5.83,
+        "Volume": 6195.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-13",
+        "Open": 284.8,
+        "High": 295.8,
+        "Low": 274.5,
+        "Close": 290.0,
+        "Percent Change": 0.0,
+        "Volume": 5278.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-12",
+        "Open": 275.4,
+        "High": 290.0,
+        "Low": 265.1,
+        "Close": 290.0,
+        "Percent Change": 7.41,
+        "Volume": 7750.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-11",
+        "Open": 273.9,
+        "High": 280.4,
+        "Low": 266.1,
+        "Close": 270.0,
+        "Percent Change": -0.48,
+        "Volume": 17366.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-10",
+        "Open": 270.0,
+        "High": 280.0,
+        "Low": 262.0,
+        "Close": 271.3,
+        "Percent Change": -1.35,
+        "Volume": 16245.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-09",
+        "Open": 270.0,
+        "High": 280.5,
+        "Low": 270.0,
+        "Close": 275.0,
+        "Percent Change": 0.0,
+        "Volume": 5300.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-06",
+        "Open": 278.4,
+        "High": 281.0,
+        "Low": 270.0,
+        "Close": 275.0,
+        "Percent Change": -3.17,
+        "Volume": 11735.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-05",
+        "Open": 288.0,
+        "High": 288.0,
+        "Low": 280.3,
+        "Close": 284.0,
+        "Percent Change": -1.25,
+        "Volume": 8855.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-04",
+        "Open": 279.0,
+        "High": 291.0,
+        "Low": 274.1,
+        "Close": 287.6,
+        "Percent Change": 3.08,
+        "Volume": 9685.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-03",
+        "Open": 282.2,
+        "High": 295.0,
+        "Low": 279.0,
+        "Close": 279.0,
+        "Percent Change": -3.02,
+        "Volume": 8954.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-07-02",
+        "Open": 293.0,
+        "High": 308.0,
+        "Low": 287.7,
+        "Close": 287.7,
+        "Percent Change": -3.13,
+        "Volume": 8435.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-28",
+        "Open": 310.0,
+        "High": 319.2,
+        "Low": 296.5,
+        "Close": 297.0,
+        "Percent Change": -5.86,
+        "Volume": 14835.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-27",
+        "Open": 302.0,
+        "High": 330.0,
+        "Low": 284.2,
+        "Close": 315.5,
+        "Percent Change": 4.47,
+        "Volume": 20301.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-26",
+        "Open": 310.0,
+        "High": 316.2,
+        "Low": 299.0,
+        "Close": 302.0,
+        "Percent Change": -2.58,
+        "Volume": 7946.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-25",
+        "Open": 310.7,
+        "High": 320.0,
+        "Low": 291.0,
+        "Close": 310.0,
+        "Percent Change": -2.21,
+        "Volume": 25017.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-22",
+        "Open": 320.0,
+        "High": 326.4,
+        "Low": 303.0,
+        "Close": 317.0,
+        "Percent Change": -0.94,
+        "Volume": 15147.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-21",
+        "Open": 329.0,
+        "High": 333.0,
+        "Low": 316.2,
+        "Close": 320.0,
+        "Percent Change": -3.03,
+        "Volume": 16412.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-20",
+        "Open": 350.0,
+        "High": 350.0,
+        "Low": 321.0,
+        "Close": 330.0,
+        "Percent Change": -5.71,
+        "Volume": 11641.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-19",
+        "Open": 320.0,
+        "High": 351.0,
+        "Low": 318.0,
+        "Close": 350.0,
+        "Percent Change": 9.1,
+        "Volume": 38594.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-18",
+        "Open": 324.0,
+        "High": 330.0,
+        "Low": 317.0,
+        "Close": 320.8,
+        "Percent Change": -2.79,
+        "Volume": 13336.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-15",
+        "Open": 314.0,
+        "High": 330.0,
+        "Low": 313.0,
+        "Close": 330.0,
+        "Percent Change": 3.16,
+        "Volume": 25769.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-14",
+        "Open": 320.0,
+        "High": 333.5,
+        "Low": 312.0,
+        "Close": 319.9,
+        "Percent Change": -0.34,
+        "Volume": 26479.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-13",
+        "Open": 316.6,
+        "High": 323.0,
+        "Low": 311.0,
+        "Close": 321.0,
+        "Percent Change": -0.62,
+        "Volume": 21335.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-12",
+        "Open": 313.0,
+        "High": 333.3,
+        "Low": 307.0,
+        "Close": 323.0,
+        "Percent Change": 2.87,
+        "Volume": 31893.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-11",
+        "Open": 285.0,
+        "High": 316.0,
+        "Low": 285.0,
+        "Close": 314.0,
+        "Percent Change": 8.24,
+        "Volume": 24922.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-08",
+        "Open": 282.0,
+        "High": 291.3,
+        "Low": 274.1,
+        "Close": 290.1,
+        "Percent Change": 2.87,
+        "Volume": 29302.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-07",
+        "Open": 271.0,
+        "High": 291.0,
+        "Low": 271.0,
+        "Close": 282.0,
+        "Percent Change": 3.49,
+        "Volume": 27982.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-06",
+        "Open": 256.1,
+        "High": 273.0,
+        "Low": 256.1,
+        "Close": 272.5,
+        "Percent Change": 4.41,
+        "Volume": 13624.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-05",
+        "Open": 250.1,
+        "High": 265.2,
+        "Low": 250.1,
+        "Close": 261.0,
+        "Percent Change": 2.35,
+        "Volume": 18629.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-04",
+        "Open": 241.0,
+        "High": 259.7,
+        "Low": 241.0,
+        "Close": 255.0,
+        "Percent Change": 5.81,
+        "Volume": 7010.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-06-01",
+        "Open": 240.0,
+        "High": 246.5,
+        "Low": 235.6,
+        "Close": 241.0,
+        "Percent Change": 0.42,
+        "Volume": 7970.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-31",
+        "Open": 245.0,
+        "High": 249.9,
+        "Low": 238.2,
+        "Close": 240.0,
+        "Percent Change": -3.96,
+        "Volume": 6030.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-30",
+        "Open": 249.9,
+        "High": 252.0,
+        "Low": 241.8,
+        "Close": 249.9,
+        "Percent Change": -1.96,
+        "Volume": 6643.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-28",
+        "Open": 258.0,
+        "High": 263.0,
+        "Low": 247.0,
+        "Close": 254.9,
+        "Percent Change": -1.47,
+        "Volume": 17735.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-24",
+        "Open": 261.0,
+        "High": 265.0,
+        "Low": 254.1,
+        "Close": 258.7,
+        "Percent Change": -0.96,
+        "Volume": 10570.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-23",
+        "Open": 250.0,
+        "High": 263.0,
+        "Low": 250.0,
+        "Close": 261.2,
+        "Percent Change": 4.48,
+        "Volume": 10517.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-22",
+        "Open": 246.0,
+        "High": 255.0,
+        "Low": 243.1,
+        "Close": 250.0,
+        "Percent Change": -0.4,
+        "Volume": 6560.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-21",
+        "Open": 252.9,
+        "High": 260.9,
+        "Low": 245.1,
+        "Close": 251.0,
+        "Percent Change": -2.71,
+        "Volume": 15445.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-18",
+        "Open": 250.0,
+        "High": 263.0,
+        "Low": 244.0,
+        "Close": 258.0,
+        "Percent Change": 3.28,
+        "Volume": 14308.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-17",
+        "Open": 239.0,
+        "High": 250.2,
+        "Low": 239.0,
+        "Close": 249.8,
+        "Percent Change": 2.8,
+        "Volume": 10005.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-16",
+        "Open": 236.0,
+        "High": 244.0,
+        "Low": 232.0,
+        "Close": 243.0,
+        "Percent Change": 1.25,
+        "Volume": 8788.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-15",
+        "Open": 234.2,
+        "High": 249.0,
+        "Low": 230.0,
+        "Close": 240.0,
+        "Percent Change": 0.01,
+        "Volume": 14233.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-14",
+        "Open": 245.0,
+        "High": 246.0,
+        "Low": 235.0,
+        "Close": 238.7,
+        "Percent Change": -4.48,
+        "Volume": 13746.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-11",
+        "Open": 253.0,
+        "High": 253.0,
+        "Low": 243.1,
+        "Close": 249.9,
+        "Percent Change": -1.23,
+        "Volume": 7708.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-10",
+        "Open": 253.2,
+        "High": 255.0,
+        "Low": 246.2,
+        "Close": 253.0,
+        "Percent Change": -2.05,
+        "Volume": 9415.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-09",
+        "Open": 251.1,
+        "High": 261.1,
+        "Low": 247.0,
+        "Close": 258.3,
+        "Percent Change": 0.86,
+        "Volume": 10970.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-08",
+        "Open": 255.0,
+        "High": 270.3,
+        "Low": 237.0,
+        "Close": 256.1,
+        "Percent Change": 0.43,
+        "Volume": 24595.0
+    },
+    {
+        "Symbol": "MAKAR",
+        "Date": "2023-05-07",
+        "Open": 278.1,
+        "High": 294.9,
+        "Low": 251.0,
+        "Close": 255.0,
+        "Percent Change": 0.0,
+        "Volume": 73692.0
+    }
+]

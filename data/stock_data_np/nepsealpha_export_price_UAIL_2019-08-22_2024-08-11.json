@@ -1,0 +1,2472 @@
+[
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-08-11",
+        "Open":768.0,
+        "High":783.0,
+        "Low":753.0,
+        "Close":770.0,
+        "Percent Change":"2.26 %",
+        "Volume":"114,998.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-08-08",
+        "Open":775.0,
+        "High":785.0,
+        "Low":750.0,
+        "Close":753.0,
+        "Percent Change":"-1.70 %",
+        "Volume":"52,050.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-08-07",
+        "Open":740.0,
+        "High":770.0,
+        "Low":730.0,
+        "Close":766.0,
+        "Percent Change":"3.51 %",
+        "Volume":"67,634.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-08-06",
+        "Open":790.0,
+        "High":790.1,
+        "Low":735.0,
+        "Close":740.0,
+        "Percent Change":"-6.09 %",
+        "Volume":"121,082.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-08-05",
+        "Open":773.3,
+        "High":822.0,
+        "Low":773.3,
+        "Close":788.0,
+        "Percent Change":"-0.13 %",
+        "Volume":"110,580.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-08-01",
+        "Open":761.0,
+        "High":837.3,
+        "Low":745.8,
+        "Close":789.0,
+        "Percent Change":"3.65 %",
+        "Volume":"199,003.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-31",
+        "Open":700.0,
+        "High":761.2,
+        "Low":681.1,
+        "Close":761.2,
+        "Percent Change":"10.00 %",
+        "Volume":"239,220.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-30",
+        "Open":688.0,
+        "High":697.6,
+        "Low":666.0,
+        "Close":692.0,
+        "Percent Change":"0.29 %",
+        "Volume":"65,473.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-29",
+        "Open":711.0,
+        "High":713.0,
+        "Low":689.0,
+        "Close":690.0,
+        "Percent Change":"-2.82 %",
+        "Volume":"72,738.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-28",
+        "Open":710.0,
+        "High":725.5,
+        "Low":684.1,
+        "Close":710.0,
+        "Percent Change":"1.72 %",
+        "Volume":"73,084.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-25",
+        "Open":666.0,
+        "High":710.0,
+        "Low":657.0,
+        "Close":698.0,
+        "Percent Change":"4.80 %",
+        "Volume":"114,477.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-24",
+        "Open":668.0,
+        "High":679.0,
+        "Low":649.0,
+        "Close":666.0,
+        "Percent Change":"0.08 %",
+        "Volume":"74,986.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-23",
+        "Open":659.1,
+        "High":675.0,
+        "Low":640.0,
+        "Close":665.5,
+        "Percent Change":"2.99 %",
+        "Volume":"63,100.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-22",
+        "Open":657.0,
+        "High":657.0,
+        "Low":637.0,
+        "Close":646.2,
+        "Percent Change":"-0.43 %",
+        "Volume":"45,763.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-21",
+        "Open":640.0,
+        "High":656.9,
+        "Low":631.0,
+        "Close":649.0,
+        "Percent Change":"0.93 %",
+        "Volume":"62,225.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-18",
+        "Open":649.7,
+        "High":650.0,
+        "Low":631.0,
+        "Close":643.0,
+        "Percent Change":"0.47 %",
+        "Volume":"70,060.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-17",
+        "Open":629.4,
+        "High":646.0,
+        "Low":615.0,
+        "Close":640.0,
+        "Percent Change":"3.71 %",
+        "Volume":"97,063.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-16",
+        "Open":600.3,
+        "High":617.1,
+        "Low":593.1,
+        "Close":617.1,
+        "Percent Change":"3.11 %",
+        "Volume":"39,927.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-15",
+        "Open":609.0,
+        "High":614.0,
+        "Low":594.0,
+        "Close":598.5,
+        "Percent Change":"-1.63 %",
+        "Volume":"46,554.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-14",
+        "Open":612.0,
+        "High":624.0,
+        "Low":600.0,
+        "Close":608.4,
+        "Percent Change":"1.40 %",
+        "Volume":"53,492.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-11",
+        "Open":591.0,
+        "High":600.0,
+        "Low":582.2,
+        "Close":600.0,
+        "Percent Change":"3.25 %",
+        "Volume":"157,892.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-10",
+        "Open":577.9,
+        "High":590.6,
+        "Low":577.9,
+        "Close":581.1,
+        "Percent Change":"0.55 %",
+        "Volume":"42,724.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-09",
+        "Open":580.2,
+        "High":584.5,
+        "Low":570.0,
+        "Close":577.9,
+        "Percent Change":"-0.40 %",
+        "Volume":"56,564.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-08",
+        "Open":590.0,
+        "High":590.2,
+        "Low":580.0,
+        "Close":580.2,
+        "Percent Change":"-0.82 %",
+        "Volume":"12,690.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-07",
+        "Open":588.9,
+        "High":589.9,
+        "Low":582.0,
+        "Close":585.0,
+        "Percent Change":"0.86 %",
+        "Volume":"21,234.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-04",
+        "Open":570.0,
+        "High":584.0,
+        "Low":570.0,
+        "Close":580.0,
+        "Percent Change":"1.75 %",
+        "Volume":"16,046.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-03",
+        "Open":564.0,
+        "High":571.0,
+        "Low":558.2,
+        "Close":570.0,
+        "Percent Change":"-0.70 %",
+        "Volume":"15,517.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-02",
+        "Open":564.9,
+        "High":587.0,
+        "Low":560.0,
+        "Close":574.0,
+        "Percent Change":"3.63 %",
+        "Volume":"24,046.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-07-01",
+        "Open":548.0,
+        "High":554.0,
+        "Low":545.2,
+        "Close":553.9,
+        "Percent Change":"1.08 %",
+        "Volume":"6,715.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-30",
+        "Open":552.0,
+        "High":558.0,
+        "Low":548.0,
+        "Close":548.0,
+        "Percent Change":"-0.72 %",
+        "Volume":"9,575.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-27",
+        "Open":558.0,
+        "High":559.9,
+        "Low":550.2,
+        "Close":552.0,
+        "Percent Change":"-1.16 %",
+        "Volume":"12,134.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-26",
+        "Open":563.0,
+        "High":564.0,
+        "Low":553.6,
+        "Close":558.5,
+        "Percent Change":"-0.27 %",
+        "Volume":"7,383.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-25",
+        "Open":558.0,
+        "High":564.0,
+        "Low":557.5,
+        "Close":560.0,
+        "Percent Change":"0.88 %",
+        "Volume":"7,458.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-24",
+        "Open":567.0,
+        "High":569.0,
+        "Low":555.0,
+        "Close":555.1,
+        "Percent Change":"-0.61 %",
+        "Volume":"12,273.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-23",
+        "Open":557.1,
+        "High":560.0,
+        "Low":553.1,
+        "Close":558.5,
+        "Percent Change":"-0.09 %",
+        "Volume":"20,414.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-20",
+        "Open":558.2,
+        "High":566.0,
+        "Low":558.0,
+        "Close":559.0,
+        "Percent Change":"-0.62 %",
+        "Volume":"15,003.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-19",
+        "Open":558.1,
+        "High":578.0,
+        "Low":555.0,
+        "Close":562.5,
+        "Percent Change":"-0.44 %",
+        "Volume":"13,634.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-18",
+        "Open":561.0,
+        "High":575.0,
+        "Low":561.0,
+        "Close":565.0,
+        "Percent Change":"-0.53 %",
+        "Volume":"10,423.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-16",
+        "Open":567.0,
+        "High":577.8,
+        "Low":567.0,
+        "Close":568.0,
+        "Percent Change":"-1.32 %",
+        "Volume":"35,860.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-13",
+        "Open":580.0,
+        "High":583.9,
+        "Low":575.0,
+        "Close":575.6,
+        "Percent Change":"-1.77 %",
+        "Volume":"10,922.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-12",
+        "Open":599.7,
+        "High":602.0,
+        "Low":579.3,
+        "Close":586.0,
+        "Percent Change":"-0.34 %",
+        "Volume":"19,240.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-11",
+        "Open":571.2,
+        "High":597.0,
+        "Low":568.0,
+        "Close":588.0,
+        "Percent Change":"1.55 %",
+        "Volume":"40,438.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-10",
+        "Open":560.0,
+        "High":592.0,
+        "Low":548.8,
+        "Close":579.0,
+        "Percent Change":"3.39 %",
+        "Volume":"59,236.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-09",
+        "Open":561.0,
+        "High":570.0,
+        "Low":554.0,
+        "Close":560.0,
+        "Percent Change":"-0.18 %",
+        "Volume":"26,256.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-06",
+        "Open":577.0,
+        "High":577.0,
+        "Low":558.0,
+        "Close":561.0,
+        "Percent Change":"-0.88 %",
+        "Volume":"17,484.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-05",
+        "Open":571.0,
+        "High":586.0,
+        "Low":566.0,
+        "Close":566.0,
+        "Percent Change":"-2.08 %",
+        "Volume":"20,769.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-04",
+        "Open":571.2,
+        "High":599.0,
+        "Low":555.0,
+        "Close":578.0,
+        "Percent Change":"3.21 %",
+        "Volume":"209,862.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-03",
+        "Open":567.0,
+        "High":567.0,
+        "Low":558.0,
+        "Close":560.0,
+        "Percent Change":"-0.36 %",
+        "Volume":"19,268.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-06-02",
+        "Open":574.0,
+        "High":575.0,
+        "Low":561.0,
+        "Close":562.0,
+        "Percent Change":"-1.49 %",
+        "Volume":"31,410.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-30",
+        "Open":586.0,
+        "High":586.5,
+        "Low":564.1,
+        "Close":570.5,
+        "Percent Change":"-0.80 %",
+        "Volume":"19,135.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-29",
+        "Open":599.7,
+        "High":599.7,
+        "Low":573.1,
+        "Close":575.1,
+        "Percent Change":"-2.19 %",
+        "Volume":"22,438.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-27",
+        "Open":589.0,
+        "High":595.0,
+        "Low":578.2,
+        "Close":588.0,
+        "Percent Change":"1.17 %",
+        "Volume":"17,825.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-26",
+        "Open":603.0,
+        "High":603.0,
+        "Low":580.2,
+        "Close":581.2,
+        "Percent Change":"-3.62 %",
+        "Volume":"29,376.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-22",
+        "Open":606.0,
+        "High":615.0,
+        "Low":594.0,
+        "Close":603.0,
+        "Percent Change":"-0.50 %",
+        "Volume":"40,425.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-21",
+        "Open":591.0,
+        "High":607.0,
+        "Low":590.0,
+        "Close":606.0,
+        "Percent Change":"1.17 %",
+        "Volume":"24,636.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-20",
+        "Open":612.0,
+        "High":619.4,
+        "Low":587.2,
+        "Close":599.0,
+        "Percent Change":"-1.64 %",
+        "Volume":"33,914.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-19",
+        "Open":586.5,
+        "High":619.0,
+        "Low":577.1,
+        "Close":609.0,
+        "Percent Change":"5.91 %",
+        "Volume":"82,498.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-16",
+        "Open":570.0,
+        "High":585.0,
+        "Low":570.0,
+        "Close":575.0,
+        "Percent Change":"-0.86 %",
+        "Volume":"17,655.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-15",
+        "Open":585.0,
+        "High":594.9,
+        "Low":570.5,
+        "Close":580.0,
+        "Percent Change":"-0.85 %",
+        "Volume":"33,084.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-14",
+        "Open":562.0,
+        "High":585.0,
+        "Low":562.0,
+        "Close":585.0,
+        "Percent Change":"4.45 %",
+        "Volume":"55,529.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-13",
+        "Open":560.0,
+        "High":566.0,
+        "Low":551.6,
+        "Close":560.1,
+        "Percent Change":"-0.76 %",
+        "Volume":"26,637.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-12",
+        "Open":544.0,
+        "High":564.4,
+        "Low":542.0,
+        "Close":564.4,
+        "Percent Change":"5.69 %",
+        "Volume":"59,652.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-09",
+        "Open":545.7,
+        "High":545.7,
+        "Low":528.0,
+        "Close":534.0,
+        "Percent Change":"-0.19 %",
+        "Volume":"10,547.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-08",
+        "Open":545.7,
+        "High":545.7,
+        "Low":530.0,
+        "Close":535.0,
+        "Percent Change":"0.00 %",
+        "Volume":"5,357.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-07",
+        "Open":545.0,
+        "High":545.0,
+        "Low":530.0,
+        "Close":535.0,
+        "Percent Change":"-0.37 %",
+        "Volume":"2,802.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-06",
+        "Open":548.0,
+        "High":548.0,
+        "Low":527.0,
+        "Close":537.0,
+        "Percent Change":"-0.56 %",
+        "Volume":"24,330.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-05",
+        "Open":554.1,
+        "High":554.1,
+        "Low":534.1,
+        "Close":540.0,
+        "Percent Change":"-0.61 %",
+        "Volume":"39,472.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-05-02",
+        "Open":553.0,
+        "High":560.0,
+        "Low":543.0,
+        "Close":543.3,
+        "Percent Change":"-1.74 %",
+        "Volume":"26,468.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-30",
+        "Open":537.0,
+        "High":553.0,
+        "Low":527.0,
+        "Close":552.9,
+        "Percent Change":"2.88 %",
+        "Volume":"28,518.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-29",
+        "Open":530.0,
+        "High":540.3,
+        "Low":530.0,
+        "Close":537.4,
+        "Percent Change":"-0.20 %",
+        "Volume":"86,221.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-28",
+        "Open":528.5,
+        "High":541.5,
+        "Low":520.0,
+        "Close":538.5,
+        "Percent Change":"3.16 %",
+        "Volume":"60,912.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-25",
+        "Open":533.4,
+        "High":533.4,
+        "Low":516.0,
+        "Close":522.0,
+        "Percent Change":"-0.19 %",
+        "Volume":"7,965.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-24",
+        "Open":535.0,
+        "High":535.0,
+        "Low":516.1,
+        "Close":523.0,
+        "Percent Change":"-0.36 %",
+        "Volume":"8,733.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-22",
+        "Open":535.0,
+        "High":535.0,
+        "Low":522.1,
+        "Close":524.9,
+        "Percent Change":"-0.59 %",
+        "Volume":"61,408.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-21",
+        "Open":530.5,
+        "High":530.5,
+        "Low":516.0,
+        "Close":528.0,
+        "Percent Change":"1.52 %",
+        "Volume":"7,732.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-18",
+        "Open":527.0,
+        "High":527.0,
+        "Low":520.1,
+        "Close":520.1,
+        "Percent Change":"-1.48 %",
+        "Volume":"6,865.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-16",
+        "Open":520.0,
+        "High":540.6,
+        "Low":520.0,
+        "Close":527.9,
+        "Percent Change":"-0.40 %",
+        "Volume":"65,359.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-15",
+        "Open":525.09,
+        "High":543.9,
+        "Low":525.0,
+        "Close":530.0,
+        "Percent Change":"-0.04 %",
+        "Volume":"49,556.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-14",
+        "Open":529.2,
+        "High":542.6,
+        "Low":529.2,
+        "Close":530.2,
+        "Percent Change":"-1.81 %",
+        "Volume":"19,950.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-10",
+        "Open":562.0,
+        "High":562.0,
+        "Low":540.0,
+        "Close":540.0,
+        "Percent Change":"-2.00 %",
+        "Volume":"4,980.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-09",
+        "Open":535.0,
+        "High":560.0,
+        "Low":535.0,
+        "Close":551.0,
+        "Percent Change":"1.10 %",
+        "Volume":"17,594.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-07",
+        "Open":525.0,
+        "High":545.0,
+        "Low":525.0,
+        "Close":545.0,
+        "Percent Change":"3.81 %",
+        "Volume":"12,973.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-04",
+        "Open":524.1,
+        "High":532.8,
+        "Low":523.0,
+        "Close":525.0,
+        "Percent Change":"0.38 %",
+        "Volume":"11,358.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-03",
+        "Open":534.9,
+        "High":534.9,
+        "Low":522.0,
+        "Close":523.0,
+        "Percent Change":"-1.12 %",
+        "Volume":"12,538.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-02",
+        "Open":525.2,
+        "High":534.0,
+        "Low":525.0,
+        "Close":528.9,
+        "Percent Change":"0.59 %",
+        "Volume":"12,821.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-04-01",
+        "Open":525.5,
+        "High":530.0,
+        "Low":525.5,
+        "Close":525.8,
+        "Percent Change":"-0.79 %",
+        "Volume":"9,007.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-31",
+        "Open":533.0,
+        "High":539.8,
+        "Low":527.1,
+        "Close":530.0,
+        "Percent Change":"-0.56 %",
+        "Volume":"7,505.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-28",
+        "Open":526.0,
+        "High":535.0,
+        "Low":526.0,
+        "Close":533.0,
+        "Percent Change":"0.19 %",
+        "Volume":"14,247.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-27",
+        "Open":535.0,
+        "High":538.0,
+        "Low":530.0,
+        "Close":532.0,
+        "Percent Change":"-0.56 %",
+        "Volume":"6,996.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-26",
+        "Open":537.8,
+        "High":537.8,
+        "Low":530.2,
+        "Close":535.0,
+        "Percent Change":"0.36 %",
+        "Volume":"6,732.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-25",
+        "Open":540.0,
+        "High":541.7,
+        "Low":530.0,
+        "Close":533.1,
+        "Percent Change":"-2.18 %",
+        "Volume":"10,380.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-21",
+        "Open":548.1,
+        "High":558.7,
+        "Low":544.0,
+        "Close":545.0,
+        "Percent Change":"-0.57 %",
+        "Volume":"10,019.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-20",
+        "Open":546.0,
+        "High":556.8,
+        "Low":546.0,
+        "Close":548.1,
+        "Percent Change":"-0.38 %",
+        "Volume":"10,742.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-19",
+        "Open":562.2,
+        "High":562.2,
+        "Low":550.0,
+        "Close":550.2,
+        "Percent Change":"-0.18 %",
+        "Volume":"11,052.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-18",
+        "Open":562.0,
+        "High":562.0,
+        "Low":548.2,
+        "Close":551.2,
+        "Percent Change":"-0.51 %",
+        "Volume":"12,009.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-17",
+        "Open":553.0,
+        "High":563.1,
+        "Low":552.6,
+        "Close":554.0,
+        "Percent Change":"-0.36 %",
+        "Volume":"17,155.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-14",
+        "Open":557.0,
+        "High":566.2,
+        "Low":555.0,
+        "Close":556.0,
+        "Percent Change":"-1.97 %",
+        "Volume":"26,221.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-13",
+        "Open":566.1,
+        "High":580.0,
+        "Low":563.0,
+        "Close":567.2,
+        "Percent Change":"-0.89 %",
+        "Volume":"21,199.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-12",
+        "Open":561.0,
+        "High":575.2,
+        "Low":553.1,
+        "Close":572.3,
+        "Percent Change":"4.05 %",
+        "Volume":"20,020.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-10",
+        "Open":533.1,
+        "High":555.0,
+        "Low":533.1,
+        "Close":550.0,
+        "Percent Change":"3.17 %",
+        "Volume":"27,105.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-07",
+        "Open":535.0,
+        "High":539.5,
+        "Low":530.2,
+        "Close":533.1,
+        "Percent Change":"0.78 %",
+        "Volume":"13,240.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-06",
+        "Open":521.0,
+        "High":545.0,
+        "Low":521.0,
+        "Close":529.0,
+        "Percent Change":"-0.45 %",
+        "Volume":"16,461.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-05",
+        "Open":552.0,
+        "High":552.0,
+        "Low":531.4,
+        "Close":531.4,
+        "Percent Change":"-3.70 %",
+        "Volume":"11,228.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-04",
+        "Open":530.4,
+        "High":551.8,
+        "Low":530.4,
+        "Close":551.8,
+        "Percent Change":"6.12 %",
+        "Volume":"30.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-03-03",
+        "Open":515.2,
+        "High":540.0,
+        "Low":514.0,
+        "Close":520.0,
+        "Percent Change":"0.93 %",
+        "Volume":"9,767.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-29",
+        "Open":529.0,
+        "High":534.0,
+        "Low":515.0,
+        "Close":515.2,
+        "Percent Change":"-2.77 %",
+        "Volume":"7,792.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-28",
+        "Open":530.0,
+        "High":538.5,
+        "Low":523.0,
+        "Close":529.9,
+        "Percent Change":"-0.58 %",
+        "Volume":"13,171.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-27",
+        "Open":529.0,
+        "High":537.0,
+        "Low":520.0,
+        "Close":533.0,
+        "Percent Change":"0.76 %",
+        "Volume":"4,083.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-26",
+        "Open":530.4,
+        "High":530.4,
+        "Low":515.0,
+        "Close":529.0,
+        "Percent Change":"1.73 %",
+        "Volume":"8,572.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-25",
+        "Open":522.0,
+        "High":525.0,
+        "Low":515.0,
+        "Close":520.0,
+        "Percent Change":"-0.38 %",
+        "Volume":"12,142.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-22",
+        "Open":535.0,
+        "High":540.0,
+        "Low":521.1,
+        "Close":522.0,
+        "Percent Change":"-2.43 %",
+        "Volume":"9,173.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-21",
+        "Open":542.0,
+        "High":542.0,
+        "Low":530.6,
+        "Close":535.0,
+        "Percent Change":"-0.37 %",
+        "Volume":"6,325.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-20",
+        "Open":540.0,
+        "High":550.0,
+        "Low":537.0,
+        "Close":537.0,
+        "Percent Change":"-0.92 %",
+        "Volume":"10,170.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-18",
+        "Open":546.0,
+        "High":550.0,
+        "Low":536.1,
+        "Close":542.0,
+        "Percent Change":"-1.44 %",
+        "Volume":"16,482.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-15",
+        "Open":555.0,
+        "High":564.0,
+        "Low":547.1,
+        "Close":549.9,
+        "Percent Change":"-0.90 %",
+        "Volume":"20,934.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-14",
+        "Open":567.0,
+        "High":567.0,
+        "Low":552.4,
+        "Close":554.9,
+        "Percent Change":"-0.56 %",
+        "Volume":"8,988.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-13",
+        "Open":560.0,
+        "High":566.9,
+        "Low":550.0,
+        "Close":558.0,
+        "Percent Change":"-2.09 %",
+        "Volume":"37,095.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-12",
+        "Open":567.0,
+        "High":570.0,
+        "Low":550.1,
+        "Close":569.9,
+        "Percent Change":"2.50 %",
+        "Volume":"13,714.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-11",
+        "Open":570.0,
+        "High":570.0,
+        "Low":555.0,
+        "Close":556.0,
+        "Percent Change":"-1.80 %",
+        "Volume":"11,917.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-08",
+        "Open":566.0,
+        "High":576.0,
+        "Low":558.0,
+        "Close":566.2,
+        "Percent Change":"0.04 %",
+        "Volume":"5,579.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-07",
+        "Open":583.1,
+        "High":583.1,
+        "Low":566.0,
+        "Close":566.0,
+        "Percent Change":"-4.87 %",
+        "Volume":"19,254.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-06",
+        "Open":551.0,
+        "High":599.5,
+        "Low":551.0,
+        "Close":595.0,
+        "Percent Change":"7.40 %",
+        "Volume":"11,495.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-05",
+        "Open":572.5,
+        "High":583.0,
+        "Low":553.0,
+        "Close":554.0,
+        "Percent Change":"-1.30 %",
+        "Volume":"16,992.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-04",
+        "Open":616.0,
+        "High":624.0,
+        "Low":614.0,
+        "Close":618.9,
+        "Percent Change":"0.52 %",
+        "Volume":"65,524.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-02-01",
+        "Open":627.0,
+        "High":635.0,
+        "Low":610.0,
+        "Close":615.7,
+        "Percent Change":"-1.72 %",
+        "Volume":"35,211.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-31",
+        "Open":636.2,
+        "High":639.0,
+        "Low":625.0,
+        "Close":626.5,
+        "Percent Change":"-1.18 %",
+        "Volume":"35,216.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-30",
+        "Open":641.5,
+        "High":646.6,
+        "Low":630.7,
+        "Close":634.0,
+        "Percent Change":"0.63 %",
+        "Volume":"24,202.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-29",
+        "Open":644.0,
+        "High":644.0,
+        "Low":629.2,
+        "Close":630.0,
+        "Percent Change":"-0.79 %",
+        "Volume":"15,805.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-28",
+        "Open":639.4,
+        "High":639.4,
+        "Low":627.0,
+        "Close":635.0,
+        "Percent Change":"1.28 %",
+        "Volume":"11,705.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-25",
+        "Open":627.0,
+        "High":639.0,
+        "Low":623.0,
+        "Close":627.0,
+        "Percent Change":"0.00 %",
+        "Volume":"11,154.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-24",
+        "Open":645.0,
+        "High":645.0,
+        "Low":626.0,
+        "Close":627.0,
+        "Percent Change":"-1.10 %",
+        "Volume":"12,625.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-23",
+        "Open":636.0,
+        "High":640.0,
+        "Low":628.0,
+        "Close":634.0,
+        "Percent Change":"1.12 %",
+        "Volume":"26,696.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-22",
+        "Open":642.3,
+        "High":653.0,
+        "Low":625.6,
+        "Close":627.0,
+        "Percent Change":"-2.34 %",
+        "Volume":"39,461.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-21",
+        "Open":669.1,
+        "High":669.1,
+        "Low":635.0,
+        "Close":642.0,
+        "Percent Change":"-2.13 %",
+        "Volume":"45,415.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-18",
+        "Open":652.0,
+        "High":668.0,
+        "Low":648.0,
+        "Close":656.0,
+        "Percent Change":"-1.34 %",
+        "Volume":"43,439.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-17",
+        "Open":680.0,
+        "High":696.0,
+        "Low":656.6,
+        "Close":664.9,
+        "Percent Change":"-2.22 %",
+        "Volume":"52,007.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-16",
+        "Open":635.0,
+        "High":684.4,
+        "Low":625.0,
+        "Close":680.0,
+        "Percent Change":"7.26 %",
+        "Volume":"96,952.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-14",
+        "Open":628.2,
+        "High":645.0,
+        "Low":626.0,
+        "Close":634.0,
+        "Percent Change":"1.28 %",
+        "Volume":"13,494.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-11",
+        "Open":648.0,
+        "High":648.0,
+        "Low":625.0,
+        "Close":626.0,
+        "Percent Change":"-2.36 %",
+        "Volume":"19,658.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-10",
+        "Open":653.8,
+        "High":664.0,
+        "Low":641.1,
+        "Close":641.1,
+        "Percent Change":"0.00 %",
+        "Volume":"36,806.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-09",
+        "Open":649.8,
+        "High":655.0,
+        "Low":640.0,
+        "Close":641.1,
+        "Percent Change":"0.17 %",
+        "Volume":"48,947.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-08",
+        "Open":637.5,
+        "High":643.0,
+        "Low":627.0,
+        "Close":640.0,
+        "Percent Change":"2.40 %",
+        "Volume":"28,265.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-07",
+        "Open":635.0,
+        "High":640.0,
+        "Low":625.0,
+        "Close":625.0,
+        "Percent Change":"-1.57 %",
+        "Volume":"65,488.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-04",
+        "Open":650.0,
+        "High":652.0,
+        "Low":635.0,
+        "Close":635.0,
+        "Percent Change":"-1.18 %",
+        "Volume":"38,639.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-03",
+        "Open":638.0,
+        "High":642.6,
+        "Low":622.0,
+        "Close":642.6,
+        "Percent Change":"2.65 %",
+        "Volume":"45,492.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-02",
+        "Open":648.9,
+        "High":648.9,
+        "Low":625.0,
+        "Close":626.0,
+        "Percent Change":"-3.69 %",
+        "Volume":"43,242.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2024-01-01",
+        "Open":638.1,
+        "High":664.0,
+        "Low":638.1,
+        "Close":650.0,
+        "Percent Change":"1.86 %",
+        "Volume":"73,491.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-28",
+        "Open":620.0,
+        "High":648.7,
+        "Low":614.0,
+        "Close":638.1,
+        "Percent Change":"3.76 %",
+        "Volume":"103,988.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-27",
+        "Open":597.0,
+        "High":628.0,
+        "Low":597.0,
+        "Close":615.0,
+        "Percent Change":"1.82 %",
+        "Volume":"64,269.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-24",
+        "Open":600.5,
+        "High":620.0,
+        "Low":587.0,
+        "Close":604.0,
+        "Percent Change":"-0.66 %",
+        "Volume":"53,608.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-21",
+        "Open":615.0,
+        "High":621.0,
+        "Low":601.3,
+        "Close":608.0,
+        "Percent Change":"-1.94 %",
+        "Volume":"29,995.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-20",
+        "Open":627.0,
+        "High":631.5,
+        "Low":610.0,
+        "Close":620.0,
+        "Percent Change":"-1.12 %",
+        "Volume":"52,325.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-19",
+        "Open":608.0,
+        "High":628.0,
+        "Low":600.1,
+        "Close":627.0,
+        "Percent Change":"2.79 %",
+        "Volume":"54,565.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-18",
+        "Open":620.0,
+        "High":620.0,
+        "Low":601.0,
+        "Close":610.0,
+        "Percent Change":"0.20 %",
+        "Volume":"44,514.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-17",
+        "Open":589.1,
+        "High":609.0,
+        "Low":589.1,
+        "Close":608.8,
+        "Percent Change":"1.28 %",
+        "Volume":"26,500.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-14",
+        "Open":600.0,
+        "High":605.0,
+        "Low":595.0,
+        "Close":601.1,
+        "Percent Change":"-0.97 %",
+        "Volume":"38,669.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-13",
+        "Open":620.0,
+        "High":625.0,
+        "Low":596.1,
+        "Close":607.0,
+        "Percent Change":"-2.10 %",
+        "Volume":"27,379.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-12",
+        "Open":619.0,
+        "High":628.0,
+        "Low":610.0,
+        "Close":620.0,
+        "Percent Change":"1.64 %",
+        "Volume":"47,592.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-11",
+        "Open":610.0,
+        "High":620.0,
+        "Low":590.0,
+        "Close":610.0,
+        "Percent Change":"0.00 %",
+        "Volume":"78,498.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-10",
+        "Open":591.6,
+        "High":615.0,
+        "Low":591.6,
+        "Close":610.0,
+        "Percent Change":"5.17 %",
+        "Volume":"5,331.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-07",
+        "Open":561.0,
+        "High":580.0,
+        "Low":556.7,
+        "Close":580.0,
+        "Percent Change":"3.39 %",
+        "Volume":"69,715.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-06",
+        "Open":547.0,
+        "High":562.0,
+        "Low":546.0,
+        "Close":561.0,
+        "Percent Change":"3.89 %",
+        "Volume":"23,602.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-05",
+        "Open":530.0,
+        "High":562.0,
+        "Low":530.0,
+        "Close":540.0,
+        "Percent Change":"1.89 %",
+        "Volume":"8,674.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-04",
+        "Open":535.0,
+        "High":540.0,
+        "Low":524.3,
+        "Close":530.0,
+        "Percent Change":"0.02 %",
+        "Volume":"6,186.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-12-03",
+        "Open":520.0,
+        "High":529.9,
+        "Low":512.0,
+        "Close":529.9,
+        "Percent Change":"0.74 %",
+        "Volume":"7,678.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-30",
+        "Open":532.0,
+        "High":537.0,
+        "Low":525.1,
+        "Close":526.0,
+        "Percent Change":"-1.13 %",
+        "Volume":"5,876.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-29",
+        "Open":549.0,
+        "High":549.0,
+        "Low":532.0,
+        "Close":532.0,
+        "Percent Change":"-3.62 %",
+        "Volume":"8,032.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-28",
+        "Open":548.0,
+        "High":555.0,
+        "Low":540.3,
+        "Close":552.0,
+        "Percent Change":"0.91 %",
+        "Volume":"11,208.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-27",
+        "Open":561.0,
+        "High":561.0,
+        "Low":544.5,
+        "Close":547.0,
+        "Percent Change":"-1.41 %",
+        "Volume":"23,740.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-26",
+        "Open":525.0,
+        "High":555.0,
+        "Low":523.0,
+        "Close":554.8,
+        "Percent Change":"5.86 %",
+        "Volume":"18,272.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-23",
+        "Open":510.0,
+        "High":537.9,
+        "Low":498.1,
+        "Close":524.1,
+        "Percent Change":"1.18 %",
+        "Volume":"7,028.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-22",
+        "Open":500.0,
+        "High":518.0,
+        "Low":490.6,
+        "Close":518.0,
+        "Percent Change":"5.28 %",
+        "Volume":"9,976.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-21",
+        "Open":515.0,
+        "High":515.0,
+        "Low":491.4,
+        "Close":492.0,
+        "Percent Change":"-3.53 %",
+        "Volume":"6,483.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-20",
+        "Open":491.0,
+        "High":510.0,
+        "Low":491.0,
+        "Close":510.0,
+        "Percent Change":"4.08 %",
+        "Volume":"16,188.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-09",
+        "Open":500.0,
+        "High":500.0,
+        "Low":488.0,
+        "Close":490.0,
+        "Percent Change":"-0.20 %",
+        "Volume":"3,429.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-08",
+        "Open":509.7,
+        "High":509.7,
+        "Low":491.0,
+        "Close":491.0,
+        "Percent Change":"-1.76 %",
+        "Volume":"2,767.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-07",
+        "Open":506.0,
+        "High":506.0,
+        "Low":490.0,
+        "Close":499.8,
+        "Percent Change":"0.66 %",
+        "Volume":"7,018.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-06",
+        "Open":480.0,
+        "High":496.9,
+        "Low":470.5,
+        "Close":496.5,
+        "Percent Change":"3.44 %",
+        "Volume":"6,860.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-05",
+        "Open":480.0,
+        "High":485.5,
+        "Low":474.1,
+        "Close":480.0,
+        "Percent Change":"-1.03 %",
+        "Volume":"5,398.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-02",
+        "Open":489.0,
+        "High":490.0,
+        "Low":483.4,
+        "Close":485.0,
+        "Percent Change":"-0.88 %",
+        "Volume":"3,525.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-11-01",
+        "Open":495.1,
+        "High":498.0,
+        "Low":489.0,
+        "Close":489.3,
+        "Percent Change":"-0.77 %",
+        "Volume":"5,594.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-31",
+        "Open":501.0,
+        "High":505.7,
+        "Low":493.1,
+        "Close":493.1,
+        "Percent Change":"-1.58 %",
+        "Volume":"1,853.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-30",
+        "Open":494.5,
+        "High":504.0,
+        "Low":494.5,
+        "Close":501.0,
+        "Percent Change":"1.31 %",
+        "Volume":"4,144.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-29",
+        "Open":503.0,
+        "High":503.0,
+        "Low":490.0,
+        "Close":494.5,
+        "Percent Change":"-3.61 %",
+        "Volume":"10,350.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-19",
+        "Open":516.0,
+        "High":524.9,
+        "Low":509.6,
+        "Close":513.0,
+        "Percent Change":"-0.58 %",
+        "Volume":"2,856.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-18",
+        "Open":512.6,
+        "High":522.0,
+        "Low":512.0,
+        "Close":516.0,
+        "Percent Change":"1.96 %",
+        "Volume":"3,994.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-17",
+        "Open":522.2,
+        "High":530.0,
+        "Low":505.1,
+        "Close":506.1,
+        "Percent Change":"-1.15 %",
+        "Volume":"6,768.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-16",
+        "Open":505.0,
+        "High":524.0,
+        "Low":505.0,
+        "Close":512.0,
+        "Percent Change":"-0.39 %",
+        "Volume":"8,375.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-12",
+        "Open":514.0,
+        "High":528.4,
+        "Low":510.5,
+        "Close":514.0,
+        "Percent Change":"-0.79 %",
+        "Volume":"12,611.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-11",
+        "Open":507.0,
+        "High":537.0,
+        "Low":497.0,
+        "Close":518.1,
+        "Percent Change":"0.21 %",
+        "Volume":"8,017.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-10",
+        "Open":550.0,
+        "High":550.0,
+        "Low":516.0,
+        "Close":517.0,
+        "Percent Change":"-4.26 %",
+        "Volume":"16,210.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-09",
+        "Open":548.0,
+        "High":548.0,
+        "Low":539.4,
+        "Close":540.0,
+        "Percent Change":"-1.46 %",
+        "Volume":"8,089.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-08",
+        "Open":547.0,
+        "High":556.0,
+        "Low":545.0,
+        "Close":548.0,
+        "Percent Change":"-1.62 %",
+        "Volume":"12,807.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-05",
+        "Open":563.9,
+        "High":565.0,
+        "Low":556.1,
+        "Close":557.0,
+        "Percent Change":"-1.22 %",
+        "Volume":"10,675.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-04",
+        "Open":555.0,
+        "High":567.0,
+        "Low":555.0,
+        "Close":563.9,
+        "Percent Change":"1.24 %",
+        "Volume":"7,685.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-03",
+        "Open":561.0,
+        "High":563.9,
+        "Low":555.1,
+        "Close":557.0,
+        "Percent Change":"-1.42 %",
+        "Volume":"10,189.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-02",
+        "Open":560.3,
+        "High":567.0,
+        "Low":557.0,
+        "Close":565.0,
+        "Percent Change":"0.18 %",
+        "Volume":"12,125.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-10-01",
+        "Open":563.6,
+        "High":569.0,
+        "Low":560.0,
+        "Close":564.0,
+        "Percent Change":"-1.91 %",
+        "Volume":"12,577.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-27",
+        "Open":580.0,
+        "High":585.0,
+        "Low":569.0,
+        "Close":575.0,
+        "Percent Change":"-1.73 %",
+        "Volume":"15,052.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-26",
+        "Open":588.0,
+        "High":589.0,
+        "Low":578.0,
+        "Close":585.1,
+        "Percent Change":"1.49 %",
+        "Volume":"22,694.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-25",
+        "Open":594.9,
+        "High":594.9,
+        "Low":568.0,
+        "Close":576.5,
+        "Percent Change":"-1.28 %",
+        "Volume":"7,949.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-24",
+        "Open":587.3,
+        "High":594.0,
+        "Low":575.6,
+        "Close":584.0,
+        "Percent Change":"-0.56 %",
+        "Volume":"27,470.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-21",
+        "Open":583.0,
+        "High":597.0,
+        "Low":583.0,
+        "Close":587.3,
+        "Percent Change":"1.64 %",
+        "Volume":"38,912.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-19",
+        "Open":568.3,
+        "High":580.0,
+        "Low":565.1,
+        "Close":577.8,
+        "Percent Change":"1.67 %",
+        "Volume":"7,784.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-18",
+        "Open":566.0,
+        "High":580.0,
+        "Low":563.0,
+        "Close":568.3,
+        "Percent Change":"0.41 %",
+        "Volume":"6,558.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-17",
+        "Open":575.5,
+        "High":580.0,
+        "Low":565.0,
+        "Close":566.0,
+        "Percent Change":"-3.58 %",
+        "Volume":"29,387.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-13",
+        "Open":569.9,
+        "High":590.0,
+        "Low":566.1,
+        "Close":587.0,
+        "Percent Change":"3.00 %",
+        "Volume":"26,683.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-12",
+        "Open":577.0,
+        "High":578.0,
+        "Low":565.0,
+        "Close":569.9,
+        "Percent Change":"-1.74 %",
+        "Volume":"21,068.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-11",
+        "Open":561.1,
+        "High":584.0,
+        "Low":561.1,
+        "Close":580.0,
+        "Percent Change":"3.39 %",
+        "Volume":"25,328.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-10",
+        "Open":557.0,
+        "High":566.9,
+        "Low":554.1,
+        "Close":561.0,
+        "Percent Change":"0.88 %",
+        "Volume":"11,593.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-07",
+        "Open":556.7,
+        "High":567.0,
+        "Low":555.1,
+        "Close":556.1,
+        "Percent Change":"-1.24 %",
+        "Volume":"16,289.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-05",
+        "Open":573.9,
+        "High":574.0,
+        "Low":563.0,
+        "Close":563.1,
+        "Percent Change":"-1.19 %",
+        "Volume":"12,645.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-04",
+        "Open":577.9,
+        "High":577.9,
+        "Low":560.0,
+        "Close":569.9,
+        "Percent Change":"0.16 %",
+        "Volume":"22,904.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-09-03",
+        "Open":580.0,
+        "High":580.0,
+        "Low":566.2,
+        "Close":569.0,
+        "Percent Change":"-1.90 %",
+        "Volume":"25,698.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-30",
+        "Open":583.0,
+        "High":588.9,
+        "Low":577.5,
+        "Close":580.0,
+        "Percent Change":"0.00 %",
+        "Volume":"33,752.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-29",
+        "Open":588.0,
+        "High":599.7,
+        "Low":573.0,
+        "Close":580.0,
+        "Percent Change":"0.52 %",
+        "Volume":"20,320.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-28",
+        "Open":588.0,
+        "High":588.0,
+        "Low":577.0,
+        "Close":577.0,
+        "Percent Change":"-0.52 %",
+        "Volume":"25,278.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-27",
+        "Open":600.0,
+        "High":600.0,
+        "Low":578.0,
+        "Close":580.0,
+        "Percent Change":"-2.68 %",
+        "Volume":"42,830.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-24",
+        "Open":610.0,
+        "High":610.0,
+        "Low":584.0,
+        "Close":596.0,
+        "Percent Change":"-1.32 %",
+        "Volume":"43,431.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-23",
+        "Open":594.5,
+        "High":608.0,
+        "Low":585.0,
+        "Close":604.0,
+        "Percent Change":"3.62 %",
+        "Volume":"48,976.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-22",
+        "Open":584.0,
+        "High":584.0,
+        "Low":566.0,
+        "Close":582.9,
+        "Percent Change":"1.73 %",
+        "Volume":"94,857.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-21",
+        "Open":580.0,
+        "High":585.0,
+        "Low":570.0,
+        "Close":573.0,
+        "Percent Change":"-0.57 %",
+        "Volume":"53,639.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-20",
+        "Open":592.0,
+        "High":593.0,
+        "Low":576.3,
+        "Close":576.3,
+        "Percent Change":"-2.02 %",
+        "Volume":"20,987.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-17",
+        "Open":595.0,
+        "High":598.0,
+        "Low":588.0,
+        "Close":588.2,
+        "Percent Change":"0.58 %",
+        "Volume":"22,226.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-16",
+        "Open":589.0,
+        "High":592.0,
+        "Low":580.0,
+        "Close":584.8,
+        "Percent Change":"-1.22 %",
+        "Volume":"40,063.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-15",
+        "Open":606.9,
+        "High":609.5,
+        "Low":590.0,
+        "Close":592.0,
+        "Percent Change":"-2.46 %",
+        "Volume":"34,628.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-14",
+        "Open":621.0,
+        "High":621.0,
+        "Low":603.1,
+        "Close":606.9,
+        "Percent Change":"-0.34 %",
+        "Volume":"41,357.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-13",
+        "Open":594.0,
+        "High":614.0,
+        "Low":590.0,
+        "Close":609.0,
+        "Percent Change":"1.99 %",
+        "Volume":"45,370.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-10",
+        "Open":582.0,
+        "High":605.0,
+        "Low":573.0,
+        "Close":597.1,
+        "Percent Change":"2.95 %",
+        "Volume":"53,560.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-09",
+        "Open":554.0,
+        "High":580.0,
+        "Low":554.0,
+        "Close":580.0,
+        "Percent Change":"2.71 %",
+        "Volume":"29,177.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-08",
+        "Open":569.0,
+        "High":575.0,
+        "Low":558.0,
+        "Close":564.7,
+        "Percent Change":"-0.76 %",
+        "Volume":"17,979.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-07",
+        "Open":564.0,
+        "High":575.0,
+        "Low":553.0,
+        "Close":569.0,
+        "Percent Change":"0.71 %",
+        "Volume":"19,218.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-06",
+        "Open":575.0,
+        "High":583.8,
+        "Low":560.0,
+        "Close":565.0,
+        "Percent Change":"-3.25 %",
+        "Volume":"15,012.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-03",
+        "Open":580.1,
+        "High":586.5,
+        "Low":580.0,
+        "Close":584.0,
+        "Percent Change":"-0.68 %",
+        "Volume":"17,944.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-02",
+        "Open":597.0,
+        "High":597.0,
+        "Low":573.0,
+        "Close":588.0,
+        "Percent Change":"0.43 %",
+        "Volume":"27,874.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-08-01",
+        "Open":608.0,
+        "High":608.0,
+        "Low":581.0,
+        "Close":585.5,
+        "Percent Change":"-2.74 %",
+        "Volume":"28,219.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-07-31",
+        "Open":602.0,
+        "High":612.5,
+        "Low":595.0,
+        "Close":602.0,
+        "Percent Change":"0.00 %",
+        "Volume":"28,758.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-07-30",
+        "Open":623.0,
+        "High":623.0,
+        "Low":592.0,
+        "Close":602.0,
+        "Percent Change":"-1.79 %",
+        "Volume":"50,025.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-07-27",
+        "Open":628.0,
+        "High":628.0,
+        "Low":612.5,
+        "Close":613.0,
+        "Percent Change":"-1.13 %",
+        "Volume":"36,151.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-07-26",
+        "Open":627.2,
+        "High":632.6,
+        "Low":620.0,
+        "Close":620.0,
+        "Percent Change":"-1.15 %",
+        "Volume":"27,511.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-07-25",
+        "Open":638.0,
+        "High":638.0,
+        "Low":626.2,
+        "Close":627.2,
+        "Percent Change":"-0.81 %",
+        "Volume":"53,853.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-07-24",
+        "Open":644.0,
+        "High":644.0,
+        "Low":625.1,
+        "Close":632.3,
+        "Percent Change":"-1.20 %",
+        "Volume":"86,302.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-07-23",
+        "Open":625.0,
+        "High":642.0,
+        "Low":616.2,
+        "Close":640.0,
+        "Percent Change":"3.06 %",
+        "Volume":"110,633.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-07-20",
+        "Open":643.4,
+        "High":643.4,
+        "Low":620.0,
+        "Close":621.0,
+        "Percent Change":"-1.58 %",
+        "Volume":"95,250.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-07-19",
+        "Open":604.0,
+        "High":651.4,
+        "Low":604.0,
+        "Close":631.0,
+        "Percent Change":"6.55 %",
+        "Volume":"375,277.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-07-18",
+        "Open":545.0,
+        "High":592.2,
+        "Low":545.0,
+        "Close":592.2,
+        "Percent Change":"9.99 %",
+        "Volume":"7,651.00"
+    },
+    {
+        "Symbol":"UAIL",
+        "Date":"2023-07-17",
+        "Open":518.9,
+        "High":538.4,
+        "Low":499.2,
+        "Close":538.4,
+        "Percent Change":"9.99 %",
+        "Volume":"2,554.00"
+    }
+]

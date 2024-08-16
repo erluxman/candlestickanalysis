@@ -1,0 +1,6952 @@
+[
+    {
+        "Symbol":"CBL",
+        "Date":"2023-02-23",
+        "Open":213.0,
+        "High":220.0,
+        "Low":212.8,
+        "Close":214.0,
+        "Percent Change":"-1.34 %",
+        "Volume":"51,915.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-02-22",
+        "Open":208.0,
+        "High":216.9,
+        "Low":208.0,
+        "Close":216.9,
+        "Percent Change":"2.60 %",
+        "Volume":"40,061.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-02-20",
+        "Open":216.0,
+        "High":216.0,
+        "Low":210.7,
+        "Close":211.4,
+        "Percent Change":"-1.90 %",
+        "Volume":"35,445.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-02-16",
+        "Open":216.0,
+        "High":219.0,
+        "Low":215.2,
+        "Close":215.5,
+        "Percent Change":"-0.23 %",
+        "Volume":"22,412.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-02-15",
+        "Open":218.0,
+        "High":220.0,
+        "Low":216.0,
+        "Close":216.0,
+        "Percent Change":"-0.78 %",
+        "Volume":"26,751.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-02-14",
+        "Open":218.0,
+        "High":219.6,
+        "Low":217.4,
+        "Close":217.7,
+        "Percent Change":"-0.55 %",
+        "Volume":"20,750.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-02-12",
+        "Open":219.0,
+        "High":219.0,
+        "Low":216.5,
+        "Close":218.9,
+        "Percent Change":"-1.40 %",
+        "Volume":"22,218.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-02-09",
+        "Open":221.0,
+        "High":222.0,
+        "Low":219.0,
+        "Close":222.0,
+        "Percent Change":"0.68 %",
+        "Volume":"25,195.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-02-08",
+        "Open":221.1,
+        "High":225.0,
+        "Low":218.0,
+        "Close":220.5,
+        "Percent Change":"0.23 %",
+        "Volume":"53,461.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-02-07",
+        "Open":214.5,
+        "High":220.0,
+        "Low":214.0,
+        "Close":220.0,
+        "Percent Change":"2.61 %",
+        "Volume":"52,725.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-02-06",
+        "Open":215.1,
+        "High":217.0,
+        "Low":212.7,
+        "Close":214.4,
+        "Percent Change":"-0.33 %",
+        "Volume":"13,377.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-02-05",
+        "Open":215.0,
+        "High":219.0,
+        "Low":215.0,
+        "Close":215.1,
+        "Percent Change":"-0.37 %",
+        "Volume":"21,869.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-02-02",
+        "Open":218.8,
+        "High":219.0,
+        "Low":215.0,
+        "Close":215.9,
+        "Percent Change":"-1.42 %",
+        "Volume":"32,884.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-02-01",
+        "Open":219.2,
+        "High":222.0,
+        "Low":217.4,
+        "Close":219.0,
+        "Percent Change":"-0.09 %",
+        "Volume":"36,677.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-31",
+        "Open":224.0,
+        "High":225.8,
+        "Low":219.1,
+        "Close":219.2,
+        "Percent Change":"-2.49 %",
+        "Volume":"93,979.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-30",
+        "Open":226.1,
+        "High":230.0,
+        "Low":224.0,
+        "Close":224.8,
+        "Percent Change":"-1.62 %",
+        "Volume":"45,141.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-29",
+        "Open":229.1,
+        "High":232.0,
+        "Low":228.0,
+        "Close":228.5,
+        "Percent Change":"-1.30 %",
+        "Volume":"64,629.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-26",
+        "Open":230.9,
+        "High":233.0,
+        "Low":229.2,
+        "Close":231.5,
+        "Percent Change":"0.13 %",
+        "Volume":"48,630.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-25",
+        "Open":230.1,
+        "High":232.7,
+        "Low":230.1,
+        "Close":231.2,
+        "Percent Change":"-0.34 %",
+        "Volume":"24,594.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-24",
+        "Open":231.1,
+        "High":233.0,
+        "Low":230.1,
+        "Close":232.0,
+        "Percent Change":"-0.43 %",
+        "Volume":"33,080.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-23",
+        "Open":235.0,
+        "High":236.9,
+        "Low":232.9,
+        "Close":233.0,
+        "Percent Change":"-0.04 %",
+        "Volume":"60,806.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-19",
+        "Open":228.3,
+        "High":233.6,
+        "Low":228.3,
+        "Close":233.1,
+        "Percent Change":"1.30 %",
+        "Volume":"57,663.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-18",
+        "Open":236.6,
+        "High":236.6,
+        "Low":230.0,
+        "Close":230.1,
+        "Percent Change":"-0.82 %",
+        "Volume":"50,563.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-17",
+        "Open":234.0,
+        "High":235.0,
+        "Low":229.5,
+        "Close":232.0,
+        "Percent Change":"-0.85 %",
+        "Volume":"40,588.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-12",
+        "Open":237.6,
+        "High":238.0,
+        "Low":231.7,
+        "Close":234.0,
+        "Percent Change":"0.43 %",
+        "Volume":"99,018.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-10",
+        "Open":236.0,
+        "High":243.0,
+        "Low":232.3,
+        "Close":233.0,
+        "Percent Change":"0.00 %",
+        "Volume":"155,141.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-09",
+        "Open":232.0,
+        "High":233.9,
+        "Low":230.2,
+        "Close":233.0,
+        "Percent Change":"0.09 %",
+        "Volume":"99,260.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-08",
+        "Open":232.0,
+        "High":235.0,
+        "Low":230.1,
+        "Close":232.8,
+        "Percent Change":"0.30 %",
+        "Volume":"85,870.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-05",
+        "Open":235.1,
+        "High":237.0,
+        "Low":229.5,
+        "Close":232.1,
+        "Percent Change":"-1.23 %",
+        "Volume":"98,095.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-04",
+        "Open":234.4,
+        "High":236.0,
+        "Low":231.7,
+        "Close":235.0,
+        "Percent Change":"0.26 %",
+        "Volume":"82,293.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-03",
+        "Open":239.0,
+        "High":239.9,
+        "Low":234.2,
+        "Close":234.4,
+        "Percent Change":"-1.55 %",
+        "Volume":"85,274.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-02",
+        "Open":241.1,
+        "High":251.3,
+        "Low":239.0,
+        "Close":250.0,
+        "Percent Change":"3.73 %",
+        "Volume":"279,797.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2023-01-01",
+        "Open":236.0,
+        "High":242.3,
+        "Low":235.0,
+        "Close":241.0,
+        "Percent Change":"2.03 %",
+        "Volume":"152,835.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-29",
+        "Open":234.0,
+        "High":237.0,
+        "Low":229.5,
+        "Close":236.2,
+        "Percent Change":"2.25 %",
+        "Volume":"124,969.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-28",
+        "Open":234.0,
+        "High":234.1,
+        "Low":229.9,
+        "Close":231.0,
+        "Percent Change":"-1.28 %",
+        "Volume":"115,183.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-27",
+        "Open":228.0,
+        "High":241.7,
+        "Low":227.5,
+        "Close":234.0,
+        "Percent Change":"3.08 %",
+        "Volume":"154,440.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-26",
+        "Open":223.0,
+        "High":228.0,
+        "Low":219.4,
+        "Close":227.0,
+        "Percent Change":"1.84 %",
+        "Volume":"137,267.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-22",
+        "Open":219.9,
+        "High":223.2,
+        "Low":217.2,
+        "Close":222.9,
+        "Percent Change":"1.83 %",
+        "Volume":"97,606.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-21",
+        "Open":218.0,
+        "High":220.9,
+        "Low":217.0,
+        "Close":218.9,
+        "Percent Change":"0.09 %",
+        "Volume":"47,363.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-20",
+        "Open":216.4,
+        "High":218.8,
+        "Low":214.0,
+        "Close":218.7,
+        "Percent Change":"2.20 %",
+        "Volume":"186,275.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-19",
+        "Open":213.9,
+        "High":214.0,
+        "Low":210.0,
+        "Close":214.0,
+        "Percent Change":"0.05 %",
+        "Volume":"16,379.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-18",
+        "Open":210.0,
+        "High":217.2,
+        "Low":210.0,
+        "Close":213.9,
+        "Percent Change":"0.42 %",
+        "Volume":"35,190.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-15",
+        "Open":211.5,
+        "High":217.9,
+        "Low":210.9,
+        "Close":213.0,
+        "Percent Change":"-0.84 %",
+        "Volume":"49,734.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-14",
+        "Open":211.2,
+        "High":214.8,
+        "Low":211.1,
+        "Close":214.8,
+        "Percent Change":"0.85 %",
+        "Volume":"27,380.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-13",
+        "Open":212.0,
+        "High":215.0,
+        "Low":211.3,
+        "Close":213.0,
+        "Percent Change":"-0.93 %",
+        "Volume":"18,804.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-12",
+        "Open":218.0,
+        "High":219.0,
+        "Low":212.2,
+        "Close":215.0,
+        "Percent Change":"0.00 %",
+        "Volume":"25,896.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-11",
+        "Open":218.0,
+        "High":218.0,
+        "Low":214.2,
+        "Close":215.0,
+        "Percent Change":"-1.78 %",
+        "Volume":"32,423.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-07",
+        "Open":219.0,
+        "High":222.0,
+        "Low":218.9,
+        "Close":218.9,
+        "Percent Change":"-0.86 %",
+        "Volume":"24,694.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-06",
+        "Open":222.0,
+        "High":222.0,
+        "Low":220.0,
+        "Close":220.8,
+        "Percent Change":"-0.32 %",
+        "Volume":"20,913.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-05",
+        "Open":222.3,
+        "High":224.9,
+        "Low":221.5,
+        "Close":221.5,
+        "Percent Change":"-1.07 %",
+        "Volume":"39,387.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-04",
+        "Open":225.0,
+        "High":225.0,
+        "Low":221.5,
+        "Close":223.9,
+        "Percent Change":"-0.93 %",
+        "Volume":"32,540.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-12-01",
+        "Open":222.5,
+        "High":227.0,
+        "Low":222.1,
+        "Close":226.0,
+        "Percent Change":"0.89 %",
+        "Volume":"38,585.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-11-30",
+        "Open":222.0,
+        "High":225.9,
+        "Low":218.8,
+        "Close":224.0,
+        "Percent Change":"-0.22 %",
+        "Volume":"102,453.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-11-29",
+        "Open":226.0,
+        "High":230.0,
+        "Low":223.5,
+        "Close":224.5,
+        "Percent Change":"-1.14 %",
+        "Volume":"72,689.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-11-28",
+        "Open":230.0,
+        "High":230.0,
+        "Low":226.3,
+        "Close":227.1,
+        "Percent Change":"-1.26 %",
+        "Volume":"73,089.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-11-27",
+        "Open":230.0,
+        "High":230.0,
+        "Low":227.1,
+        "Close":230.0,
+        "Percent Change":"-0.43 %",
+        "Volume":"62,913.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-11-24",
+        "Open":238.9,
+        "High":238.9,
+        "Low":226.1,
+        "Close":231.0,
+        "Percent Change":"-1.41 %",
+        "Volume":"69,168.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-11-23",
+        "Open":217.2,
+        "High":234.3,
+        "Low":217.2,
+        "Close":234.3,
+        "Percent Change":"10.00 %",
+        "Volume":"292,518.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-07-13",
+        "Open":200.7,
+        "High":216.0,
+        "Low":200.7,
+        "Close":213.0,
+        "Percent Change":"8.23 %",
+        "Volume":"263,712.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-07-12",
+        "Open":198.9,
+        "High":198.9,
+        "Low":194.0,
+        "Close":196.8,
+        "Percent Change":"-0.10 %",
+        "Volume":"46,110.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-07-11",
+        "Open":203.9,
+        "High":203.9,
+        "Low":196.4,
+        "Close":197.0,
+        "Percent Change":"-5.24 %",
+        "Volume":"89,868.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-07-08",
+        "Open":211.0,
+        "High":211.0,
+        "Low":207.0,
+        "Close":207.9,
+        "Percent Change":"-1.47 %",
+        "Volume":"72,369.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-07-07",
+        "Open":218.2,
+        "High":219.5,
+        "Low":210.0,
+        "Close":211.0,
+        "Percent Change":"-1.40 %",
+        "Volume":"189,596.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-07-06",
+        "Open":204.0,
+        "High":220.0,
+        "Low":204.0,
+        "Close":214.0,
+        "Percent Change":"7.00 %",
+        "Volume":"491,865.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-07-05",
+        "Open":200.0,
+        "High":202.0,
+        "Low":198.0,
+        "Close":200.0,
+        "Percent Change":"-0.74 %",
+        "Volume":"58,805.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-07-04",
+        "Open":204.0,
+        "High":205.9,
+        "Low":200.0,
+        "Close":201.5,
+        "Percent Change":"-0.20 %",
+        "Volume":"92,230.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-07-03",
+        "Open":201.0,
+        "High":205.0,
+        "Low":200.0,
+        "Close":201.9,
+        "Percent Change":"-1.27 %",
+        "Volume":"70,889.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-07-01",
+        "Open":206.3,
+        "High":206.5,
+        "Low":203.0,
+        "Close":204.5,
+        "Percent Change":"-0.87 %",
+        "Volume":"37,370.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-30",
+        "Open":202.0,
+        "High":206.8,
+        "Low":202.0,
+        "Close":206.3,
+        "Percent Change":"2.13 %",
+        "Volume":"70,198.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-29",
+        "Open":200.0,
+        "High":202.0,
+        "Low":198.2,
+        "Close":202.0,
+        "Percent Change":"1.15 %",
+        "Volume":"36,163.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-28",
+        "Open":202.0,
+        "High":204.0,
+        "Low":198.2,
+        "Close":199.7,
+        "Percent Change":"-0.60 %",
+        "Volume":"26,886.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-27",
+        "Open":208.0,
+        "High":208.0,
+        "Low":200.1,
+        "Close":200.9,
+        "Percent Change":"-1.52 %",
+        "Volume":"49,207.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-26",
+        "Open":202.0,
+        "High":204.5,
+        "Low":200.0,
+        "Close":204.0,
+        "Percent Change":"2.00 %",
+        "Volume":"66,535.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-24",
+        "Open":200.0,
+        "High":203.0,
+        "Low":194.0,
+        "Close":200.0,
+        "Percent Change":"-0.35 %",
+        "Volume":"32,607.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-23",
+        "Open":198.2,
+        "High":204.9,
+        "Low":196.0,
+        "Close":200.7,
+        "Percent Change":"-0.74 %",
+        "Volume":"95,805.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-22",
+        "Open":200.0,
+        "High":205.0,
+        "Low":200.0,
+        "Close":202.2,
+        "Percent Change":"-0.39 %",
+        "Volume":"31,126.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-21",
+        "Open":204.0,
+        "High":207.0,
+        "Low":199.0,
+        "Close":203.0,
+        "Percent Change":"1.00 %",
+        "Volume":"36,421.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-20",
+        "Open":204.0,
+        "High":204.0,
+        "Low":197.0,
+        "Close":201.0,
+        "Percent Change":"-1.47 %",
+        "Volume":"82,351.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-19",
+        "Open":207.9,
+        "High":208.0,
+        "Low":202.9,
+        "Close":204.0,
+        "Percent Change":"-1.88 %",
+        "Volume":"48,085.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-17",
+        "Open":213.1,
+        "High":213.1,
+        "Low":207.0,
+        "Close":207.9,
+        "Percent Change":"-0.53 %",
+        "Volume":"32,057.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-16",
+        "Open":205.9,
+        "High":211.0,
+        "Low":202.0,
+        "Close":209.0,
+        "Percent Change":"3.52 %",
+        "Volume":"227,340.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-15",
+        "Open":202.0,
+        "High":204.5,
+        "Low":200.0,
+        "Close":201.9,
+        "Percent Change":"-1.51 %",
+        "Volume":"59,790.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-14",
+        "Open":207.1,
+        "High":210.0,
+        "Low":204.0,
+        "Close":205.0,
+        "Percent Change":"-1.01 %",
+        "Volume":"35,324.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-13",
+        "Open":206.0,
+        "High":212.0,
+        "Low":205.0,
+        "Close":207.1,
+        "Percent Change":"0.53 %",
+        "Volume":"257,451.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-10",
+        "Open":204.0,
+        "High":207.9,
+        "Low":200.4,
+        "Close":206.0,
+        "Percent Change":"2.95 %",
+        "Volume":"49,918.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-09",
+        "Open":205.0,
+        "High":207.0,
+        "Low":200.1,
+        "Close":200.1,
+        "Percent Change":"-0.45 %",
+        "Volume":"18,920.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-08",
+        "Open":197.0,
+        "High":205.0,
+        "Low":196.1,
+        "Close":201.0,
+        "Percent Change":"0.50 %",
+        "Volume":"39,238.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-07",
+        "Open":201.0,
+        "High":203.5,
+        "Low":200.0,
+        "Close":200.0,
+        "Percent Change":"-2.06 %",
+        "Volume":"27,601.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-06",
+        "Open":209.9,
+        "High":209.9,
+        "Low":204.2,
+        "Close":204.2,
+        "Percent Change":"-2.76 %",
+        "Volume":"42,606.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-03",
+        "Open":215.0,
+        "High":215.0,
+        "Low":203.9,
+        "Close":210.0,
+        "Percent Change":"-1.96 %",
+        "Volume":"74,363.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-02",
+        "Open":211.0,
+        "High":214.2,
+        "Low":207.0,
+        "Close":214.2,
+        "Percent Change":"1.52 %",
+        "Volume":"18,378.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-06-01",
+        "Open":208.1,
+        "High":212.0,
+        "Low":205.0,
+        "Close":211.0,
+        "Percent Change":"1.39 %",
+        "Volume":"19,740.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-31",
+        "Open":214.0,
+        "High":214.0,
+        "Low":208.1,
+        "Close":208.1,
+        "Percent Change":"-3.16 %",
+        "Volume":"23,715.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-30",
+        "Open":216.0,
+        "High":216.0,
+        "Low":210.0,
+        "Close":214.9,
+        "Percent Change":"-0.51 %",
+        "Volume":"54,567.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-27",
+        "Open":219.3,
+        "High":222.0,
+        "Low":212.0,
+        "Close":216.0,
+        "Percent Change":"0.47 %",
+        "Volume":"33,748.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-26",
+        "Open":210.0,
+        "High":216.0,
+        "Low":208.1,
+        "Close":215.0,
+        "Percent Change":"2.38 %",
+        "Volume":"38,054.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-25",
+        "Open":209.0,
+        "High":212.0,
+        "Low":209.0,
+        "Close":210.0,
+        "Percent Change":"1.69 %",
+        "Volume":"13,249.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-24",
+        "Open":207.0,
+        "High":209.9,
+        "Low":204.1,
+        "Close":206.5,
+        "Percent Change":"-0.24 %",
+        "Volume":"45,003.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-23",
+        "Open":210.1,
+        "High":212.0,
+        "Low":206.2,
+        "Close":207.0,
+        "Percent Change":"-1.90 %",
+        "Volume":"27,539.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-20",
+        "Open":213.0,
+        "High":217.0,
+        "Low":210.0,
+        "Close":211.0,
+        "Percent Change":"-0.94 %",
+        "Volume":"33,397.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-19",
+        "Open":215.0,
+        "High":216.3,
+        "Low":212.1,
+        "Close":213.0,
+        "Percent Change":"-0.93 %",
+        "Volume":"20,304.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-18",
+        "Open":217.0,
+        "High":218.0,
+        "Low":213.0,
+        "Close":215.0,
+        "Percent Change":"0.01 %",
+        "Volume":"18,365.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-17",
+        "Open":215.0,
+        "High":216.0,
+        "Low":213.0,
+        "Close":213.0,
+        "Percent Change":"-2.74 %",
+        "Volume":"22,765.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-12",
+        "Open":223.0,
+        "High":224.0,
+        "Low":219.0,
+        "Close":219.0,
+        "Percent Change":"-1.79 %",
+        "Volume":"30,653.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-11",
+        "Open":219.0,
+        "High":224.5,
+        "Low":218.2,
+        "Close":223.0,
+        "Percent Change":"1.00 %",
+        "Volume":"29,336.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-10",
+        "Open":217.0,
+        "High":221.0,
+        "Low":215.3,
+        "Close":220.8,
+        "Percent Change":"1.94 %",
+        "Volume":"29,758.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-09",
+        "Open":213.2,
+        "High":220.7,
+        "Low":212.0,
+        "Close":216.6,
+        "Percent Change":"2.07 %",
+        "Volume":"38,584.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-08",
+        "Open":210.0,
+        "High":213.0,
+        "Low":210.0,
+        "Close":212.2,
+        "Percent Change":"-0.61 %",
+        "Volume":"16,229.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-05",
+        "Open":219.0,
+        "High":220.0,
+        "Low":211.7,
+        "Close":213.5,
+        "Percent Change":"-1.16 %",
+        "Volume":"40,045.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-04",
+        "Open":221.5,
+        "High":221.9,
+        "Low":215.1,
+        "Close":216.0,
+        "Percent Change":"-1.32 %",
+        "Volume":"40,925.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-05-02",
+        "Open":224.4,
+        "High":224.4,
+        "Low":216.6,
+        "Close":218.9,
+        "Percent Change":"-0.50 %",
+        "Volume":"84,853.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-28",
+        "Open":220.0,
+        "High":223.9,
+        "Low":217.0,
+        "Close":220.0,
+        "Percent Change":"1.01 %",
+        "Volume":"48,827.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-27",
+        "Open":218.0,
+        "High":221.0,
+        "Low":216.0,
+        "Close":217.8,
+        "Percent Change":"-0.09 %",
+        "Volume":"29,523.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-26",
+        "Open":221.0,
+        "High":224.0,
+        "Low":217.2,
+        "Close":218.0,
+        "Percent Change":"-0.86 %",
+        "Volume":"35,373.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-25",
+        "Open":221.0,
+        "High":224.9,
+        "Low":216.6,
+        "Close":219.9,
+        "Percent Change":"-0.50 %",
+        "Volume":"59,602.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-24",
+        "Open":216.0,
+        "High":224.0,
+        "Low":213.1,
+        "Close":221.0,
+        "Percent Change":"3.27 %",
+        "Volume":"50,155.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-21",
+        "Open":212.0,
+        "High":215.0,
+        "Low":209.1,
+        "Close":214.0,
+        "Percent Change":"0.47 %",
+        "Volume":"61,774.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-20",
+        "Open":217.0,
+        "High":218.0,
+        "Low":211.7,
+        "Close":213.0,
+        "Percent Change":"-0.37 %",
+        "Volume":"37,607.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-19",
+        "Open":214.0,
+        "High":214.0,
+        "Low":209.0,
+        "Close":213.8,
+        "Percent Change":"0.80 %",
+        "Volume":"43,269.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-18",
+        "Open":216.0,
+        "High":216.0,
+        "Low":210.5,
+        "Close":212.1,
+        "Percent Change":"-1.81 %",
+        "Volume":"53,216.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-17",
+        "Open":218.0,
+        "High":219.0,
+        "Low":214.0,
+        "Close":216.0,
+        "Percent Change":"-0.46 %",
+        "Volume":"27,627.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-13",
+        "Open":219.0,
+        "High":219.3,
+        "Low":211.0,
+        "Close":217.0,
+        "Percent Change":"0.93 %",
+        "Volume":"60,192.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-12",
+        "Open":220.4,
+        "High":223.2,
+        "Low":206.1,
+        "Close":215.0,
+        "Percent Change":"-1.83 %",
+        "Volume":"112,734.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-11",
+        "Open":224.0,
+        "High":228.0,
+        "Low":218.0,
+        "Close":219.0,
+        "Percent Change":"-1.35 %",
+        "Volume":"73,130.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-07",
+        "Open":219.0,
+        "High":226.0,
+        "Low":218.0,
+        "Close":222.0,
+        "Percent Change":"1.37 %",
+        "Volume":"82,643.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-06",
+        "Open":218.0,
+        "High":220.0,
+        "Low":216.0,
+        "Close":219.0,
+        "Percent Change":"-0.45 %",
+        "Volume":"65,553.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-05",
+        "Open":225.0,
+        "High":225.0,
+        "Low":218.0,
+        "Close":220.0,
+        "Percent Change":"-2.22 %",
+        "Volume":"72,101.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-04",
+        "Open":222.0,
+        "High":226.0,
+        "Low":222.0,
+        "Close":225.0,
+        "Percent Change":"0.00 %",
+        "Volume":"25,700.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-04-03",
+        "Open":223.0,
+        "High":229.0,
+        "Low":223.0,
+        "Close":225.0,
+        "Percent Change":"0.45 %",
+        "Volume":"43,274.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-31",
+        "Open":227.1,
+        "High":232.0,
+        "Low":222.6,
+        "Close":224.0,
+        "Percent Change":"-1.32 %",
+        "Volume":"63,586.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-30",
+        "Open":225.0,
+        "High":231.5,
+        "Low":223.0,
+        "Close":227.0,
+        "Percent Change":"0.67 %",
+        "Volume":"30,419.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-29",
+        "Open":224.0,
+        "High":230.0,
+        "Low":224.0,
+        "Close":225.5,
+        "Percent Change":"-0.22 %",
+        "Volume":"27,851.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-28",
+        "Open":225.0,
+        "High":229.5,
+        "Low":225.0,
+        "Close":226.0,
+        "Percent Change":"-1.48 %",
+        "Volume":"30,824.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-27",
+        "Open":230.0,
+        "High":232.0,
+        "Low":227.0,
+        "Close":229.4,
+        "Percent Change":"-0.74 %",
+        "Volume":"90,168.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-24",
+        "Open":235.0,
+        "High":235.0,
+        "Low":231.0,
+        "Close":231.1,
+        "Percent Change":"-1.66 %",
+        "Volume":"24,717.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-23",
+        "Open":232.0,
+        "High":236.0,
+        "Low":232.0,
+        "Close":235.0,
+        "Percent Change":"0.00 %",
+        "Volume":"23,507.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-22",
+        "Open":236.0,
+        "High":238.0,
+        "Low":234.0,
+        "Close":235.0,
+        "Percent Change":"0.43 %",
+        "Volume":"42,943.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-21",
+        "Open":232.0,
+        "High":234.0,
+        "Low":231.0,
+        "Close":234.0,
+        "Percent Change":"0.86 %",
+        "Volume":"21,170.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-20",
+        "Open":234.0,
+        "High":236.0,
+        "Low":230.3,
+        "Close":232.0,
+        "Percent Change":"-0.85 %",
+        "Volume":"50,708.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-16",
+        "Open":237.0,
+        "High":240.0,
+        "Low":233.5,
+        "Close":234.0,
+        "Percent Change":"-1.27 %",
+        "Volume":"38,327.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-15",
+        "Open":240.0,
+        "High":240.0,
+        "Low":233.0,
+        "Close":237.0,
+        "Percent Change":"0.00 %",
+        "Volume":"74,803.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-14",
+        "Open":240.0,
+        "High":241.0,
+        "Low":235.0,
+        "Close":237.0,
+        "Percent Change":"-0.42 %",
+        "Volume":"10,131.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-13",
+        "Open":230.0,
+        "High":240.6,
+        "Low":230.0,
+        "Close":238.0,
+        "Percent Change":"3.93 %",
+        "Volume":"80,849.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-10",
+        "Open":227.0,
+        "High":230.0,
+        "Low":224.1,
+        "Close":229.0,
+        "Percent Change":"2.23 %",
+        "Volume":"47,923.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-09",
+        "Open":229.0,
+        "High":232.9,
+        "Low":223.0,
+        "Close":224.0,
+        "Percent Change":"-2.18 %",
+        "Volume":"89,781.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-07",
+        "Open":230.0,
+        "High":230.5,
+        "Low":227.0,
+        "Close":229.0,
+        "Percent Change":"0.44 %",
+        "Volume":"49,253.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-06",
+        "Open":229.0,
+        "High":230.0,
+        "Low":225.0,
+        "Close":228.0,
+        "Percent Change":"0.75 %",
+        "Volume":"46,564.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-03-02",
+        "Open":226.0,
+        "High":229.0,
+        "Low":225.2,
+        "Close":226.3,
+        "Percent Change":"1.25 %",
+        "Volume":"88,110.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-28",
+        "Open":237.6,
+        "High":237.6,
+        "Low":223.5,
+        "Close":223.5,
+        "Percent Change":"-4.08 %",
+        "Volume":"124,807.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-27",
+        "Open":238.0,
+        "High":238.0,
+        "Low":229.1,
+        "Close":233.0,
+        "Percent Change":"-1.27 %",
+        "Volume":"84,059.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-24",
+        "Open":240.2,
+        "High":243.0,
+        "Low":236.0,
+        "Close":236.0,
+        "Percent Change":"-3.28 %",
+        "Volume":"80,035.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-23",
+        "Open":248.0,
+        "High":248.0,
+        "Low":242.0,
+        "Close":244.0,
+        "Percent Change":"-0.81 %",
+        "Volume":"25,257.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-22",
+        "Open":247.8,
+        "High":248.0,
+        "Low":244.5,
+        "Close":246.0,
+        "Percent Change":"0.04 %",
+        "Volume":"39,079.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-21",
+        "Open":239.0,
+        "High":250.0,
+        "Low":238.5,
+        "Close":245.9,
+        "Percent Change":"3.10 %",
+        "Volume":"65,280.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-20",
+        "Open":240.1,
+        "High":241.0,
+        "Low":236.4,
+        "Close":238.5,
+        "Percent Change":"-2.61 %",
+        "Volume":"66,331.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-17",
+        "Open":245.0,
+        "High":245.0,
+        "Low":241.0,
+        "Close":244.9,
+        "Percent Change":"-0.45 %",
+        "Volume":"27,990.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-16",
+        "Open":249.0,
+        "High":250.0,
+        "Low":244.1,
+        "Close":246.0,
+        "Percent Change":"-0.81 %",
+        "Volume":"25,999.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-15",
+        "Open":246.0,
+        "High":248.0,
+        "Low":244.0,
+        "Close":248.0,
+        "Percent Change":"0.85 %",
+        "Volume":"25,955.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-14",
+        "Open":243.5,
+        "High":249.9,
+        "Low":243.5,
+        "Close":245.9,
+        "Percent Change":"0.33 %",
+        "Volume":"38,843.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-13",
+        "Open":248.0,
+        "High":249.0,
+        "Low":239.3,
+        "Close":245.1,
+        "Percent Change":"-3.12 %",
+        "Volume":"59,167.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-10",
+        "Open":255.0,
+        "High":255.0,
+        "Low":250.3,
+        "Close":253.0,
+        "Percent Change":"-0.35 %",
+        "Volume":"52,657.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-09",
+        "Open":252.3,
+        "High":255.0,
+        "Low":250.0,
+        "Close":253.9,
+        "Percent Change":"-0.43 %",
+        "Volume":"77,181.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-08",
+        "Open":261.0,
+        "High":264.0,
+        "Low":254.0,
+        "Close":255.0,
+        "Percent Change":"0.00 %",
+        "Volume":"64,807.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-07",
+        "Open":256.0,
+        "High":258.7,
+        "Low":255.0,
+        "Close":256.0,
+        "Percent Change":"0.67 %",
+        "Volume":"45,863.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-06",
+        "Open":257.1,
+        "High":260.0,
+        "Low":254.2,
+        "Close":254.3,
+        "Percent Change":"-2.04 %",
+        "Volume":"84,500.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-03",
+        "Open":264.0,
+        "High":264.0,
+        "Low":259.1,
+        "Close":259.6,
+        "Percent Change":"-0.61 %",
+        "Volume":"99,853.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-02-01",
+        "Open":260.0,
+        "High":264.0,
+        "Low":256.2,
+        "Close":261.2,
+        "Percent Change":"0.46 %",
+        "Volume":"70,609.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-31",
+        "Open":268.0,
+        "High":268.0,
+        "Low":258.6,
+        "Close":260.0,
+        "Percent Change":"-1.85 %",
+        "Volume":"87,212.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-30",
+        "Open":264.1,
+        "High":269.3,
+        "Low":258.0,
+        "Close":264.9,
+        "Percent Change":"2.28 %",
+        "Volume":"127,022.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-27",
+        "Open":256.9,
+        "High":260.0,
+        "Low":254.1,
+        "Close":259.0,
+        "Percent Change":"0.82 %",
+        "Volume":"77,426.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-26",
+        "Open":255.1,
+        "High":259.0,
+        "Low":250.0,
+        "Close":256.9,
+        "Percent Change":"-1.19 %",
+        "Volume":"167,692.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-25",
+        "Open":260.0,
+        "High":265.0,
+        "Low":255.1,
+        "Close":260.0,
+        "Percent Change":"0.00 %",
+        "Volume":"71,234.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-24",
+        "Open":268.0,
+        "High":269.0,
+        "Low":257.6,
+        "Close":260.0,
+        "Percent Change":"-3.88 %",
+        "Volume":"210,956.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-23",
+        "Open":275.0,
+        "High":282.0,
+        "Low":269.0,
+        "Close":270.5,
+        "Percent Change":"0.19 %",
+        "Volume":"133,211.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-20",
+        "Open":275.0,
+        "High":275.0,
+        "Low":268.3,
+        "Close":270.0,
+        "Percent Change":"-0.70 %",
+        "Volume":"108,065.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-19",
+        "Open":272.2,
+        "High":275.9,
+        "Low":268.0,
+        "Close":271.9,
+        "Percent Change":"-0.11 %",
+        "Volume":"118,916.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-18",
+        "Open":279.0,
+        "High":282.0,
+        "Low":270.0,
+        "Close":272.2,
+        "Percent Change":"-0.98 %",
+        "Volume":"263,251.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-17",
+        "Open":278.0,
+        "High":285.4,
+        "Low":270.0,
+        "Close":274.9,
+        "Percent Change":"0.11 %",
+        "Volume":"160,554.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-16",
+        "Open":260.1,
+        "High":280.0,
+        "Low":260.1,
+        "Close":274.6,
+        "Percent Change":"7.69 %",
+        "Volume":"528,204.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-13",
+        "Open":250.0,
+        "High":256.7,
+        "Low":249.1,
+        "Close":255.0,
+        "Percent Change":"0.39 %",
+        "Volume":"86,105.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-12",
+        "Open":256.2,
+        "High":260.0,
+        "Low":252.0,
+        "Close":254.0,
+        "Percent Change":"-1.93 %",
+        "Volume":"140,831.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-11",
+        "Open":262.1,
+        "High":262.1,
+        "Low":253.0,
+        "Close":259.0,
+        "Percent Change":"0.78 %",
+        "Volume":"116,577.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-10",
+        "Open":266.2,
+        "High":266.2,
+        "Low":253.1,
+        "Close":257.0,
+        "Percent Change":"-1.53 %",
+        "Volume":"380,971.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-09",
+        "Open":259.0,
+        "High":264.9,
+        "Low":255.0,
+        "Close":261.0,
+        "Percent Change":"1.95 %",
+        "Volume":"143,701.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-06",
+        "Open":247.0,
+        "High":260.0,
+        "Low":246.0,
+        "Close":256.0,
+        "Percent Change":"3.14 %",
+        "Volume":"111,467.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-05",
+        "Open":256.0,
+        "High":256.0,
+        "Low":248.1,
+        "Close":248.2,
+        "Percent Change":"-2.24 %",
+        "Volume":"52,968.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-04",
+        "Open":243.2,
+        "High":255.0,
+        "Low":243.0,
+        "Close":253.9,
+        "Percent Change":"3.33 %",
+        "Volume":"104,026.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-03",
+        "Open":247.0,
+        "High":258.8,
+        "Low":245.1,
+        "Close":258.0,
+        "Percent Change":"4.67 %",
+        "Volume":"212,509.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2022-01-02",
+        "Open":244.0,
+        "High":248.8,
+        "Low":242.0,
+        "Close":246.5,
+        "Percent Change":"1.86 %",
+        "Volume":"64,052.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-29",
+        "Open":238.1,
+        "High":245.0,
+        "Low":238.1,
+        "Close":242.0,
+        "Percent Change":"0.41 %",
+        "Volume":"44,507.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-28",
+        "Open":239.0,
+        "High":243.0,
+        "Low":237.2,
+        "Close":241.0,
+        "Percent Change":"0.37 %",
+        "Volume":"51,915.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-27",
+        "Open":245.0,
+        "High":247.8,
+        "Low":239.0,
+        "Close":240.1,
+        "Percent Change":"-1.19 %",
+        "Volume":"53,023.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-26",
+        "Open":234.0,
+        "High":245.8,
+        "Low":234.0,
+        "Close":243.0,
+        "Percent Change":"2.49 %",
+        "Volume":"75,023.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-23",
+        "Open":235.6,
+        "High":240.9,
+        "Low":235.6,
+        "Close":237.1,
+        "Percent Change":"-1.21 %",
+        "Volume":"78,088.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-22",
+        "Open":235.1,
+        "High":241.0,
+        "Low":233.0,
+        "Close":240.0,
+        "Percent Change":"2.21 %",
+        "Volume":"76,102.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-21",
+        "Open":231.1,
+        "High":236.0,
+        "Low":230.3,
+        "Close":234.8,
+        "Percent Change":"-0.09 %",
+        "Volume":"74,987.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-20",
+        "Open":234.7,
+        "High":235.0,
+        "Low":230.0,
+        "Close":235.0,
+        "Percent Change":"0.34 %",
+        "Volume":"51,989.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-16",
+        "Open":238.0,
+        "High":238.0,
+        "Low":234.0,
+        "Close":234.2,
+        "Percent Change":"-1.18 %",
+        "Volume":"26,831.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-15",
+        "Open":244.0,
+        "High":246.0,
+        "Low":235.0,
+        "Close":237.0,
+        "Percent Change":"-1.13 %",
+        "Volume":"52,174.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-14",
+        "Open":230.0,
+        "High":239.7,
+        "Low":230.0,
+        "Close":239.7,
+        "Percent Change":"4.26 %",
+        "Volume":"45,454.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-13",
+        "Open":230.3,
+        "High":234.0,
+        "Low":226.0,
+        "Close":229.9,
+        "Percent Change":"-2.17 %",
+        "Volume":"123,522.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-12",
+        "Open":240.0,
+        "High":243.0,
+        "Low":233.0,
+        "Close":235.0,
+        "Percent Change":"-2.49 %",
+        "Volume":"81,404.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-09",
+        "Open":238.0,
+        "High":244.0,
+        "Low":234.2,
+        "Close":241.0,
+        "Percent Change":"1.69 %",
+        "Volume":"42,362.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-08",
+        "Open":241.1,
+        "High":242.9,
+        "Low":236.0,
+        "Close":237.0,
+        "Percent Change":"-2.07 %",
+        "Volume":"69,337.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-07",
+        "Open":250.0,
+        "High":253.8,
+        "Low":241.0,
+        "Close":242.0,
+        "Percent Change":"-2.02 %",
+        "Volume":"72,028.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-06",
+        "Open":246.0,
+        "High":249.9,
+        "Low":237.0,
+        "Close":247.0,
+        "Percent Change":"0.82 %",
+        "Volume":"87,406.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-05",
+        "Open":246.0,
+        "High":253.0,
+        "Low":240.1,
+        "Close":245.0,
+        "Percent Change":"-1.96 %",
+        "Volume":"90,019.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-02",
+        "Open":257.0,
+        "High":257.0,
+        "Low":248.0,
+        "Close":249.9,
+        "Percent Change":"-1.61 %",
+        "Volume":"99,571.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-12-01",
+        "Open":261.0,
+        "High":261.0,
+        "Low":252.3,
+        "Close":254.0,
+        "Percent Change":"-0.78 %",
+        "Volume":"52,368.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-30",
+        "Open":256.0,
+        "High":259.0,
+        "Low":252.9,
+        "Close":256.0,
+        "Percent Change":"0.00 %",
+        "Volume":"69,905.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-29",
+        "Open":264.0,
+        "High":265.0,
+        "Low":253.9,
+        "Close":256.0,
+        "Percent Change":"-3.40 %",
+        "Volume":"114,541.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-28",
+        "Open":267.6,
+        "High":268.0,
+        "Low":258.0,
+        "Close":265.0,
+        "Percent Change":"-2.93 %",
+        "Volume":"179,856.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-25",
+        "Open":265.0,
+        "High":281.0,
+        "Low":260.1,
+        "Close":273.0,
+        "Percent Change":"2.94 %",
+        "Volume":"547,871.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-24",
+        "Open":259.0,
+        "High":265.2,
+        "Low":255.5,
+        "Close":265.2,
+        "Percent Change":"2.00 %",
+        "Volume":"84,757.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-23",
+        "Open":267.0,
+        "High":267.0,
+        "Low":258.8,
+        "Close":260.0,
+        "Percent Change":"-2.62 %",
+        "Volume":"78,317.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-22",
+        "Open":265.2,
+        "High":270.0,
+        "Low":255.0,
+        "Close":267.0,
+        "Percent Change":"2.69 %",
+        "Volume":"212,816.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-21",
+        "Open":250.1,
+        "High":260.0,
+        "Low":247.0,
+        "Close":260.0,
+        "Percent Change":"4.00 %",
+        "Volume":"144,832.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-18",
+        "Open":253.0,
+        "High":253.0,
+        "Low":248.0,
+        "Close":250.0,
+        "Percent Change":"-1.07 %",
+        "Volume":"59,823.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-17",
+        "Open":254.0,
+        "High":254.0,
+        "Low":248.0,
+        "Close":252.7,
+        "Percent Change":"0.72 %",
+        "Volume":"51,127.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-16",
+        "Open":240.0,
+        "High":252.0,
+        "Low":239.2,
+        "Close":250.9,
+        "Percent Change":"2.83 %",
+        "Volume":"47,847.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-15",
+        "Open":240.0,
+        "High":246.0,
+        "Low":239.0,
+        "Close":244.0,
+        "Percent Change":"0.41 %",
+        "Volume":"33,102.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-14",
+        "Open":240.0,
+        "High":244.0,
+        "Low":238.3,
+        "Close":243.0,
+        "Percent Change":"0.00 %",
+        "Volume":"58,771.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-11",
+        "Open":247.1,
+        "High":249.0,
+        "Low":241.5,
+        "Close":243.0,
+        "Percent Change":"-2.80 %",
+        "Volume":"72,081.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-09",
+        "Open":251.0,
+        "High":255.0,
+        "Low":246.0,
+        "Close":250.0,
+        "Percent Change":"-2.34 %",
+        "Volume":"85,009.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-08",
+        "Open":263.0,
+        "High":264.0,
+        "Low":256.0,
+        "Close":256.0,
+        "Percent Change":"-1.92 %",
+        "Volume":"66,404.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-03",
+        "Open":264.1,
+        "High":264.1,
+        "Low":256.0,
+        "Close":261.0,
+        "Percent Change":"0.77 %",
+        "Volume":"129,776.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-02",
+        "Open":260.0,
+        "High":260.2,
+        "Low":252.0,
+        "Close":259.0,
+        "Percent Change":"0.78 %",
+        "Volume":"108,123.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-11-01",
+        "Open":247.0,
+        "High":258.0,
+        "Low":247.0,
+        "Close":257.0,
+        "Percent Change":"6.02 %",
+        "Volume":"161,924.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-31",
+        "Open":242.0,
+        "High":246.1,
+        "Low":241.0,
+        "Close":242.4,
+        "Percent Change":"0.21 %",
+        "Volume":"103,679.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-28",
+        "Open":243.9,
+        "High":244.0,
+        "Low":240.1,
+        "Close":241.9,
+        "Percent Change":"0.33 %",
+        "Volume":"49,887.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-27",
+        "Open":245.0,
+        "High":246.8,
+        "Low":239.0,
+        "Close":241.1,
+        "Percent Change":"-0.37 %",
+        "Volume":"71,359.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-26",
+        "Open":243.0,
+        "High":244.0,
+        "Low":237.0,
+        "Close":242.0,
+        "Percent Change":"1.26 %",
+        "Volume":"96,913.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-25",
+        "Open":232.0,
+        "High":240.0,
+        "Low":231.0,
+        "Close":239.0,
+        "Percent Change":"3.02 %",
+        "Volume":"29,001.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-24",
+        "Open":231.0,
+        "High":234.4,
+        "Low":229.0,
+        "Close":232.0,
+        "Percent Change":"0.00 %",
+        "Volume":"41,565.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-21",
+        "Open":239.7,
+        "High":239.7,
+        "Low":231.4,
+        "Close":232.0,
+        "Percent Change":"-1.28 %",
+        "Volume":"26,983.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-20",
+        "Open":235.6,
+        "High":241.0,
+        "Low":234.0,
+        "Close":235.0,
+        "Percent Change":"1.73 %",
+        "Volume":"49,268.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-19",
+        "Open":237.0,
+        "High":237.0,
+        "Low":229.0,
+        "Close":231.0,
+        "Percent Change":"-2.94 %",
+        "Volume":"83,150.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-18",
+        "Open":240.0,
+        "High":242.9,
+        "Low":237.0,
+        "Close":238.0,
+        "Percent Change":"-2.06 %",
+        "Volume":"56,148.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-17",
+        "Open":244.0,
+        "High":246.9,
+        "Low":242.0,
+        "Close":243.0,
+        "Percent Change":"-0.41 %",
+        "Volume":"35,156.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-11",
+        "Open":244.0,
+        "High":244.9,
+        "Low":238.0,
+        "Close":244.0,
+        "Percent Change":"0.29 %",
+        "Volume":"88,639.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-10",
+        "Open":245.0,
+        "High":254.8,
+        "Low":243.0,
+        "Close":243.3,
+        "Percent Change":"-0.69 %",
+        "Volume":"34,162.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-06",
+        "Open":247.0,
+        "High":249.0,
+        "Low":242.6,
+        "Close":245.0,
+        "Percent Change":"-0.04 %",
+        "Volume":"112,637.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-05",
+        "Open":239.0,
+        "High":249.0,
+        "Low":238.3,
+        "Close":245.1,
+        "Percent Change":"0.86 %",
+        "Volume":"92,011.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-04",
+        "Open":239.0,
+        "High":246.0,
+        "Low":237.0,
+        "Close":243.0,
+        "Percent Change":"0.87 %",
+        "Volume":"65,443.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-10-03",
+        "Open":245.0,
+        "High":248.0,
+        "Low":240.5,
+        "Close":240.9,
+        "Percent Change":"-1.83 %",
+        "Volume":"118,216.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-30",
+        "Open":256.0,
+        "High":257.0,
+        "Low":244.5,
+        "Close":245.4,
+        "Percent Change":"-2.62 %",
+        "Volume":"136,819.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-29",
+        "Open":250.0,
+        "High":255.0,
+        "Low":241.4,
+        "Close":252.0,
+        "Percent Change":"2.44 %",
+        "Volume":"82,397.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-28",
+        "Open":249.1,
+        "High":259.0,
+        "Low":240.1,
+        "Close":246.0,
+        "Percent Change":"-3.15 %",
+        "Volume":"115,505.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-27",
+        "Open":260.0,
+        "High":260.0,
+        "Low":250.1,
+        "Close":254.0,
+        "Percent Change":"-2.31 %",
+        "Volume":"75,650.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-26",
+        "Open":270.3,
+        "High":270.3,
+        "Low":258.8,
+        "Close":260.0,
+        "Percent Change":"-1.89 %",
+        "Volume":"132,566.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-23",
+        "Open":266.2,
+        "High":275.0,
+        "Low":260.8,
+        "Close":265.0,
+        "Percent Change":"1.53 %",
+        "Volume":"187,312.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-22",
+        "Open":255.0,
+        "High":263.6,
+        "Low":252.0,
+        "Close":261.0,
+        "Percent Change":"4.40 %",
+        "Volume":"94,812.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-21",
+        "Open":245.0,
+        "High":259.0,
+        "Low":242.0,
+        "Close":250.0,
+        "Percent Change":"0.40 %",
+        "Volume":"105,811.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-20",
+        "Open":261.0,
+        "High":266.0,
+        "Low":248.5,
+        "Close":249.0,
+        "Percent Change":"-4.60 %",
+        "Volume":"177,689.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-16",
+        "Open":265.0,
+        "High":265.0,
+        "Low":260.0,
+        "Close":261.0,
+        "Percent Change":"-2.14 %",
+        "Volume":"155,200.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-15",
+        "Open":270.0,
+        "High":271.0,
+        "Low":266.0,
+        "Close":266.7,
+        "Percent Change":"-1.22 %",
+        "Volume":"60,379.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-14",
+        "Open":277.9,
+        "High":280.0,
+        "Low":270.0,
+        "Close":270.0,
+        "Percent Change":"-1.10 %",
+        "Volume":"104,704.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-13",
+        "Open":276.0,
+        "High":280.0,
+        "Low":270.6,
+        "Close":273.0,
+        "Percent Change":"0.22 %",
+        "Volume":"110,066.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-12",
+        "Open":265.0,
+        "High":287.0,
+        "Low":262.1,
+        "Close":272.4,
+        "Percent Change":"2.99 %",
+        "Volume":"183,622.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-09",
+        "Open":266.0,
+        "High":269.0,
+        "Low":262.0,
+        "Close":264.5,
+        "Percent Change":"-0.04 %",
+        "Volume":"75,619.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-08",
+        "Open":266.0,
+        "High":269.0,
+        "Low":260.1,
+        "Close":264.6,
+        "Percent Change":"-1.27 %",
+        "Volume":"67,558.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-07",
+        "Open":280.0,
+        "High":280.0,
+        "Low":268.0,
+        "Close":268.0,
+        "Percent Change":"-2.55 %",
+        "Volume":"77,176.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-06",
+        "Open":262.0,
+        "High":275.0,
+        "Low":261.0,
+        "Close":275.0,
+        "Percent Change":"5.28 %",
+        "Volume":"126,297.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-05",
+        "Open":274.0,
+        "High":275.0,
+        "Low":260.5,
+        "Close":261.2,
+        "Percent Change":"-4.67 %",
+        "Volume":"171,495.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-02",
+        "Open":270.0,
+        "High":278.0,
+        "Low":270.0,
+        "Close":274.0,
+        "Percent Change":"0.37 %",
+        "Volume":"130,357.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-09-01",
+        "Open":270.0,
+        "High":284.0,
+        "Low":265.0,
+        "Close":273.0,
+        "Percent Change":"0.74 %",
+        "Volume":"209,482.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-31",
+        "Open":278.0,
+        "High":278.0,
+        "Low":269.4,
+        "Close":271.0,
+        "Percent Change":"-0.73 %",
+        "Volume":"176,935.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-29",
+        "Open":280.0,
+        "High":282.1,
+        "Low":270.6,
+        "Close":273.0,
+        "Percent Change":"-1.80 %",
+        "Volume":"254,379.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-26",
+        "Open":280.0,
+        "High":281.9,
+        "Low":272.5,
+        "Close":278.0,
+        "Percent Change":"0.36 %",
+        "Volume":"237,444.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-25",
+        "Open":285.0,
+        "High":285.0,
+        "Low":275.0,
+        "Close":277.0,
+        "Percent Change":"-2.46 %",
+        "Volume":"334,516.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-24",
+        "Open":285.0,
+        "High":287.0,
+        "Low":281.0,
+        "Close":284.0,
+        "Percent Change":"0.00 %",
+        "Volume":"160,656.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-19",
+        "Open":288.0,
+        "High":290.5,
+        "Low":282.0,
+        "Close":284.0,
+        "Percent Change":"-1.05 %",
+        "Volume":"123,379.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-18",
+        "Open":285.0,
+        "High":294.0,
+        "Low":278.2,
+        "Close":287.0,
+        "Percent Change":"0.70 %",
+        "Volume":"295,559.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-17",
+        "Open":287.0,
+        "High":290.0,
+        "Low":283.0,
+        "Close":285.0,
+        "Percent Change":"-0.70 %",
+        "Volume":"201,619.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-16",
+        "Open":295.0,
+        "High":295.0,
+        "Low":286.6,
+        "Close":287.0,
+        "Percent Change":"-1.71 %",
+        "Volume":"149,950.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-15",
+        "Open":299.9,
+        "High":300.0,
+        "Low":289.5,
+        "Close":292.0,
+        "Percent Change":"-0.71 %",
+        "Volume":"239,067.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-12",
+        "Open":293.5,
+        "High":299.0,
+        "Low":290.0,
+        "Close":294.1,
+        "Percent Change":"0.20 %",
+        "Volume":"208,175.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-11",
+        "Open":299.0,
+        "High":303.0,
+        "Low":293.1,
+        "Close":293.5,
+        "Percent Change":"-1.51 %",
+        "Volume":"152,110.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-10",
+        "Open":294.0,
+        "High":299.8,
+        "Low":290.0,
+        "Close":298.0,
+        "Percent Change":"2.41 %",
+        "Volume":"279,425.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-09",
+        "Open":295.0,
+        "High":295.0,
+        "Low":290.0,
+        "Close":291.0,
+        "Percent Change":"-0.55 %",
+        "Volume":"132,276.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-08",
+        "Open":300.0,
+        "High":300.0,
+        "Low":291.6,
+        "Close":292.6,
+        "Percent Change":"-0.95 %",
+        "Volume":"150,704.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-05",
+        "Open":300.0,
+        "High":300.0,
+        "Low":292.2,
+        "Close":295.4,
+        "Percent Change":"0.14 %",
+        "Volume":"148,860.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-04",
+        "Open":299.0,
+        "High":299.0,
+        "Low":292.6,
+        "Close":295.0,
+        "Percent Change":"0.10 %",
+        "Volume":"192,394.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-03",
+        "Open":297.0,
+        "High":297.0,
+        "Low":293.0,
+        "Close":294.7,
+        "Percent Change":"-0.10 %",
+        "Volume":"109,077.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-02",
+        "Open":295.0,
+        "High":297.7,
+        "Low":291.9,
+        "Close":295.0,
+        "Percent Change":"0.31 %",
+        "Volume":"150,376.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-08-01",
+        "Open":297.0,
+        "High":299.9,
+        "Low":293.0,
+        "Close":294.1,
+        "Percent Change":"-0.14 %",
+        "Volume":"135,232.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-29",
+        "Open":299.0,
+        "High":300.0,
+        "Low":293.0,
+        "Close":294.5,
+        "Percent Change":"-1.17 %",
+        "Volume":"139,394.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-28",
+        "Open":300.0,
+        "High":302.0,
+        "Low":296.2,
+        "Close":298.0,
+        "Percent Change":"-0.50 %",
+        "Volume":"147,076.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-27",
+        "Open":300.0,
+        "High":301.0,
+        "Low":291.0,
+        "Close":299.5,
+        "Percent Change":"-0.76 %",
+        "Volume":"249,954.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-26",
+        "Open":316.0,
+        "High":316.0,
+        "Low":300.0,
+        "Close":301.8,
+        "Percent Change":"-2.61 %",
+        "Volume":"327,736.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-25",
+        "Open":301.0,
+        "High":309.9,
+        "Low":300.0,
+        "Close":309.9,
+        "Percent Change":"3.99 %",
+        "Volume":"686,374.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-22",
+        "Open":297.0,
+        "High":301.0,
+        "Low":295.0,
+        "Close":298.0,
+        "Percent Change":"0.34 %",
+        "Volume":"275,988.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-20",
+        "Open":296.0,
+        "High":301.0,
+        "Low":294.0,
+        "Close":297.0,
+        "Percent Change":"-0.34 %",
+        "Volume":"119,212.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-19",
+        "Open":305.0,
+        "High":306.2,
+        "Low":295.0,
+        "Close":298.0,
+        "Percent Change":"-0.93 %",
+        "Volume":"299,371.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-18",
+        "Open":290.0,
+        "High":301.5,
+        "Low":287.0,
+        "Close":300.8,
+        "Percent Change":"5.17 %",
+        "Volume":"431,587.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-15",
+        "Open":286.0,
+        "High":288.0,
+        "Low":283.0,
+        "Close":286.0,
+        "Percent Change":"0.00 %",
+        "Volume":"84,078.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-14",
+        "Open":300.0,
+        "High":300.0,
+        "Low":284.0,
+        "Close":286.0,
+        "Percent Change":"-1.04 %",
+        "Volume":"80,211.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-13",
+        "Open":283.0,
+        "High":289.0,
+        "Low":283.0,
+        "Close":289.0,
+        "Percent Change":"1.40 %",
+        "Volume":"99,152.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-12",
+        "Open":290.0,
+        "High":293.0,
+        "Low":281.0,
+        "Close":285.0,
+        "Percent Change":"-1.72 %",
+        "Volume":"179,605.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-11",
+        "Open":284.0,
+        "High":290.0,
+        "Low":284.0,
+        "Close":290.0,
+        "Percent Change":"2.84 %",
+        "Volume":"111,834.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-08",
+        "Open":280.0,
+        "High":283.0,
+        "Low":280.0,
+        "Close":282.0,
+        "Percent Change":"0.71 %",
+        "Volume":"186,386.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-07",
+        "Open":280.0,
+        "High":284.0,
+        "Low":280.0,
+        "Close":280.0,
+        "Percent Change":"-0.71 %",
+        "Volume":"87,323.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-06",
+        "Open":280.0,
+        "High":285.0,
+        "Low":280.0,
+        "Close":282.0,
+        "Percent Change":"-0.35 %",
+        "Volume":"105,150.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-05",
+        "Open":284.0,
+        "High":284.0,
+        "Low":281.0,
+        "Close":283.0,
+        "Percent Change":"-0.35 %",
+        "Volume":"67,241.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-04",
+        "Open":271.0,
+        "High":292.0,
+        "Low":271.0,
+        "Close":284.0,
+        "Percent Change":"-0.35 %",
+        "Volume":"112,290.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-07-01",
+        "Open":281.0,
+        "High":291.0,
+        "Low":281.0,
+        "Close":285.0,
+        "Percent Change":"0.35 %",
+        "Volume":"212,930.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-30",
+        "Open":286.0,
+        "High":286.0,
+        "Low":278.0,
+        "Close":284.0,
+        "Percent Change":"-0.70 %",
+        "Volume":"151,509.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-29",
+        "Open":294.0,
+        "High":298.0,
+        "Low":285.0,
+        "Close":286.0,
+        "Percent Change":"-2.72 %",
+        "Volume":"140,935.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-28",
+        "Open":300.0,
+        "High":305.0,
+        "Low":291.0,
+        "Close":294.0,
+        "Percent Change":"-0.68 %",
+        "Volume":"313,602.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-27",
+        "Open":280.0,
+        "High":304.0,
+        "Low":278.0,
+        "Close":296.0,
+        "Percent Change":"6.09 %",
+        "Volume":"706,852.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-24",
+        "Open":280.0,
+        "High":284.0,
+        "Low":275.0,
+        "Close":279.0,
+        "Percent Change":"-0.71 %",
+        "Volume":"155,148.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-23",
+        "Open":286.0,
+        "High":289.0,
+        "Low":280.0,
+        "Close":281.0,
+        "Percent Change":"-1.75 %",
+        "Volume":"118,276.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-22",
+        "Open":278.0,
+        "High":289.0,
+        "Low":273.0,
+        "Close":286.0,
+        "Percent Change":"3.25 %",
+        "Volume":"257,560.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-21",
+        "Open":299.0,
+        "High":299.0,
+        "Low":277.0,
+        "Close":277.0,
+        "Percent Change":"-2.81 %",
+        "Volume":"315,477.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-20",
+        "Open":293.0,
+        "High":295.0,
+        "Low":283.0,
+        "Close":285.0,
+        "Percent Change":"-2.06 %",
+        "Volume":"374,910.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-17",
+        "Open":305.0,
+        "High":305.0,
+        "Low":287.0,
+        "Close":291.0,
+        "Percent Change":"-1.36 %",
+        "Volume":"200,897.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-16",
+        "Open":298.0,
+        "High":305.0,
+        "Low":291.0,
+        "Close":295.0,
+        "Percent Change":"-1.01 %",
+        "Volume":"291,286.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-15",
+        "Open":310.0,
+        "High":310.0,
+        "Low":297.0,
+        "Close":298.0,
+        "Percent Change":"-1.65 %",
+        "Volume":"523,773.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-14",
+        "Open":290.0,
+        "High":309.0,
+        "Low":290.0,
+        "Close":303.0,
+        "Percent Change":"3.41 %",
+        "Volume":"632,447.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-13",
+        "Open":290.0,
+        "High":298.0,
+        "Low":285.0,
+        "Close":293.0,
+        "Percent Change":"1.38 %",
+        "Volume":"348,525.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-10",
+        "Open":294.0,
+        "High":295.0,
+        "Low":286.0,
+        "Close":289.0,
+        "Percent Change":"-0.34 %",
+        "Volume":"229,938.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-09",
+        "Open":305.0,
+        "High":305.0,
+        "Low":289.0,
+        "Close":290.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"369,535.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-08",
+        "Open":294.0,
+        "High":304.0,
+        "Low":290.0,
+        "Close":297.0,
+        "Percent Change":"1.37 %",
+        "Volume":"476,943.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-07",
+        "Open":305.0,
+        "High":308.0,
+        "Low":290.0,
+        "Close":293.0,
+        "Percent Change":"-2.66 %",
+        "Volume":"671,236.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-06",
+        "Open":290.0,
+        "High":310.0,
+        "Low":290.0,
+        "Close":301.0,
+        "Percent Change":"5.61 %",
+        "Volume":"1,026,480.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-03",
+        "Open":280.0,
+        "High":290.0,
+        "Low":271.0,
+        "Close":285.0,
+        "Percent Change":"5.56 %",
+        "Volume":"958,722.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-02",
+        "Open":270.0,
+        "High":275.0,
+        "Low":264.0,
+        "Close":270.0,
+        "Percent Change":"0.75 %",
+        "Volume":"262,188.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-06-01",
+        "Open":275.0,
+        "High":275.0,
+        "Low":266.0,
+        "Close":268.0,
+        "Percent Change":"-0.74 %",
+        "Volume":"162,907.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-31",
+        "Open":277.0,
+        "High":281.0,
+        "Low":269.0,
+        "Close":270.0,
+        "Percent Change":"-1.82 %",
+        "Volume":"695,556.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-30",
+        "Open":270.0,
+        "High":280.0,
+        "Low":266.0,
+        "Close":275.0,
+        "Percent Change":"2.61 %",
+        "Volume":"482,181.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-27",
+        "Open":262.0,
+        "High":276.0,
+        "Low":260.0,
+        "Close":268.0,
+        "Percent Change":"0.37 %",
+        "Volume":"289,383.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-25",
+        "Open":272.0,
+        "High":275.0,
+        "Low":264.0,
+        "Close":267.0,
+        "Percent Change":"-2.20 %",
+        "Volume":"388,301.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-24",
+        "Open":275.0,
+        "High":284.0,
+        "Low":269.0,
+        "Close":273.0,
+        "Percent Change":"0.37 %",
+        "Volume":"871,981.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-23",
+        "Open":265.0,
+        "High":272.0,
+        "Low":255.0,
+        "Close":272.0,
+        "Percent Change":"1.87 %",
+        "Volume":"678,308.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-20",
+        "Open":252.0,
+        "High":269.0,
+        "Low":252.0,
+        "Close":267.0,
+        "Percent Change":"5.95 %",
+        "Volume":"865,230.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-19",
+        "Open":246.0,
+        "High":260.0,
+        "Low":246.0,
+        "Close":252.0,
+        "Percent Change":"2.86 %",
+        "Volume":"721,843.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-18",
+        "Open":246.0,
+        "High":246.0,
+        "Low":240.0,
+        "Close":245.0,
+        "Percent Change":"1.24 %",
+        "Volume":"288,064.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-17",
+        "Open":242.0,
+        "High":245.0,
+        "Low":241.0,
+        "Close":242.0,
+        "Percent Change":"0.41 %",
+        "Volume":"259,568.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-16",
+        "Open":241.0,
+        "High":243.0,
+        "Low":238.0,
+        "Close":241.0,
+        "Percent Change":"0.84 %",
+        "Volume":"221,311.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-13",
+        "Open":245.0,
+        "High":245.0,
+        "Low":238.0,
+        "Close":239.0,
+        "Percent Change":"-0.83 %",
+        "Volume":"150,661.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-12",
+        "Open":228.0,
+        "High":243.0,
+        "Low":228.0,
+        "Close":241.0,
+        "Percent Change":"0.84 %",
+        "Volume":"333,669.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-11",
+        "Open":236.0,
+        "High":241.0,
+        "Low":235.0,
+        "Close":239.0,
+        "Percent Change":"1.27 %",
+        "Volume":"260,794.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-10",
+        "Open":234.0,
+        "High":239.0,
+        "Low":233.0,
+        "Close":236.0,
+        "Percent Change":"0.43 %",
+        "Volume":"88,362.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-09",
+        "Open":235.0,
+        "High":241.0,
+        "Low":233.0,
+        "Close":235.0,
+        "Percent Change":"-0.84 %",
+        "Volume":"160,902.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-06",
+        "Open":242.0,
+        "High":242.0,
+        "Low":234.0,
+        "Close":237.0,
+        "Percent Change":"-0.42 %",
+        "Volume":"134,025.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-05",
+        "Open":247.0,
+        "High":247.0,
+        "Low":232.0,
+        "Close":238.0,
+        "Percent Change":"0.85 %",
+        "Volume":"263,430.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-04",
+        "Open":241.0,
+        "High":241.0,
+        "Low":227.0,
+        "Close":236.0,
+        "Percent Change":"2.61 %",
+        "Volume":"175,033.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-03",
+        "Open":225.0,
+        "High":234.0,
+        "Low":225.0,
+        "Close":230.0,
+        "Percent Change":"0.00 %",
+        "Volume":"147,599.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-05-02",
+        "Open":230.0,
+        "High":232.0,
+        "Low":229.0,
+        "Close":230.0,
+        "Percent Change":"0.44 %",
+        "Volume":"84,248.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-29",
+        "Open":218.0,
+        "High":234.0,
+        "Low":218.0,
+        "Close":229.0,
+        "Percent Change":"0.00 %",
+        "Volume":"65,551.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-28",
+        "Open":240.0,
+        "High":240.0,
+        "Low":227.0,
+        "Close":229.0,
+        "Percent Change":"-1.72 %",
+        "Volume":"134,703.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-27",
+        "Open":225.0,
+        "High":236.0,
+        "Low":222.0,
+        "Close":233.0,
+        "Percent Change":"3.56 %",
+        "Volume":"106,759.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-26",
+        "Open":231.0,
+        "High":231.0,
+        "Low":225.0,
+        "Close":225.0,
+        "Percent Change":"-2.60 %",
+        "Volume":"176,576.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-25",
+        "Open":250.0,
+        "High":250.0,
+        "Low":230.0,
+        "Close":231.0,
+        "Percent Change":"-3.35 %",
+        "Volume":"181,770.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-22",
+        "Open":248.0,
+        "High":248.0,
+        "Low":233.0,
+        "Close":239.0,
+        "Percent Change":"0.84 %",
+        "Volume":"162,196.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-21",
+        "Open":228.0,
+        "High":244.0,
+        "Low":228.0,
+        "Close":237.0,
+        "Percent Change":"-1.25 %",
+        "Volume":"177,161.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-20",
+        "Open":248.0,
+        "High":248.0,
+        "Low":234.0,
+        "Close":240.0,
+        "Percent Change":"1.27 %",
+        "Volume":"347,996.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-19",
+        "Open":237.0,
+        "High":243.0,
+        "Low":235.0,
+        "Close":237.0,
+        "Percent Change":"-0.84 %",
+        "Volume":"169,130.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-18",
+        "Open":245.0,
+        "High":250.0,
+        "Low":238.0,
+        "Close":239.0,
+        "Percent Change":"-1.65 %",
+        "Volume":"343,822.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-15",
+        "Open":227.0,
+        "High":247.0,
+        "Low":227.0,
+        "Close":243.0,
+        "Percent Change":"2.10 %",
+        "Volume":"388,785.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-13",
+        "Open":235.0,
+        "High":239.0,
+        "Low":234.0,
+        "Close":238.0,
+        "Percent Change":"1.28 %",
+        "Volume":"215,626.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-12",
+        "Open":235.0,
+        "High":238.0,
+        "Low":232.0,
+        "Close":235.0,
+        "Percent Change":"-0.42 %",
+        "Volume":"138,138.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-08",
+        "Open":226.0,
+        "High":241.0,
+        "Low":226.0,
+        "Close":236.0,
+        "Percent Change":"-0.42 %",
+        "Volume":"99,169.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-07",
+        "Open":233.0,
+        "High":244.0,
+        "Low":231.0,
+        "Close":237.0,
+        "Percent Change":"2.16 %",
+        "Volume":"378,863.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-06",
+        "Open":221.0,
+        "High":233.0,
+        "Low":221.0,
+        "Close":232.0,
+        "Percent Change":"0.00 %",
+        "Volume":"185,991.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-05",
+        "Open":230.0,
+        "High":234.0,
+        "Low":229.0,
+        "Close":232.0,
+        "Percent Change":"0.43 %",
+        "Volume":"121,845.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-04",
+        "Open":235.0,
+        "High":236.0,
+        "Low":229.0,
+        "Close":231.0,
+        "Percent Change":"-0.43 %",
+        "Volume":"235,849.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-04-01",
+        "Open":241.0,
+        "High":241.0,
+        "Low":228.0,
+        "Close":232.0,
+        "Percent Change":"0.87 %",
+        "Volume":"258,359.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-31",
+        "Open":227.0,
+        "High":231.0,
+        "Low":227.0,
+        "Close":230.0,
+        "Percent Change":"1.32 %",
+        "Volume":"127,794.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-30",
+        "Open":226.0,
+        "High":229.0,
+        "Low":225.0,
+        "Close":227.0,
+        "Percent Change":"0.44 %",
+        "Volume":"70,657.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-29",
+        "Open":231.0,
+        "High":231.0,
+        "Low":225.0,
+        "Close":226.0,
+        "Percent Change":"-2.16 %",
+        "Volume":"76,423.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-25",
+        "Open":235.0,
+        "High":235.0,
+        "Low":227.0,
+        "Close":231.0,
+        "Percent Change":"0.00 %",
+        "Volume":"182,139.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-24",
+        "Open":241.0,
+        "High":241.0,
+        "Low":228.0,
+        "Close":231.0,
+        "Percent Change":"0.43 %",
+        "Volume":"112,631.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-23",
+        "Open":241.0,
+        "High":241.0,
+        "Low":225.0,
+        "Close":230.0,
+        "Percent Change":"0.00 %",
+        "Volume":"63,484.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-22",
+        "Open":245.0,
+        "High":245.0,
+        "Low":229.0,
+        "Close":230.0,
+        "Percent Change":"-1.71 %",
+        "Volume":"105,055.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-21",
+        "Open":235.0,
+        "High":237.0,
+        "Low":225.0,
+        "Close":234.0,
+        "Percent Change":"4.46 %",
+        "Volume":"247,285.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-18",
+        "Open":233.0,
+        "High":233.0,
+        "Low":221.0,
+        "Close":224.0,
+        "Percent Change":"0.90 %",
+        "Volume":"127,896.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-17",
+        "Open":231.0,
+        "High":231.0,
+        "Low":216.0,
+        "Close":222.0,
+        "Percent Change":"0.91 %",
+        "Volume":"80,366.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-16",
+        "Open":217.0,
+        "High":221.0,
+        "Low":217.0,
+        "Close":220.0,
+        "Percent Change":"0.46 %",
+        "Volume":"75,897.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-15",
+        "Open":221.0,
+        "High":224.0,
+        "Low":217.0,
+        "Close":219.0,
+        "Percent Change":"-1.35 %",
+        "Volume":"183,435.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-14",
+        "Open":229.0,
+        "High":229.0,
+        "Low":220.0,
+        "Close":222.0,
+        "Percent Change":"-1.33 %",
+        "Volume":"96,415.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-10",
+        "Open":227.0,
+        "High":227.0,
+        "Low":224.0,
+        "Close":225.0,
+        "Percent Change":"-0.88 %",
+        "Volume":"67,596.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-09",
+        "Open":226.0,
+        "High":230.0,
+        "Low":225.0,
+        "Close":227.0,
+        "Percent Change":"-0.87 %",
+        "Volume":"99,358.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-08",
+        "Open":235.0,
+        "High":236.0,
+        "Low":227.0,
+        "Close":229.0,
+        "Percent Change":"-1.72 %",
+        "Volume":"112,211.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-04",
+        "Open":226.0,
+        "High":234.0,
+        "Low":225.0,
+        "Close":233.0,
+        "Percent Change":"3.10 %",
+        "Volume":"205,936.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-03",
+        "Open":217.0,
+        "High":229.0,
+        "Low":217.0,
+        "Close":226.0,
+        "Percent Change":"-0.88 %",
+        "Volume":"218,840.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-02",
+        "Open":246.0,
+        "High":246.0,
+        "Low":226.0,
+        "Close":228.0,
+        "Percent Change":"-2.98 %",
+        "Volume":"226,726.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-03-01",
+        "Open":225.0,
+        "High":240.0,
+        "Low":225.0,
+        "Close":235.0,
+        "Percent Change":"0.00 %",
+        "Volume":"189,273.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-28",
+        "Open":245.0,
+        "High":245.0,
+        "Low":228.0,
+        "Close":230.0,
+        "Percent Change":"-4.56 %",
+        "Volume":"260,006.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-25",
+        "Open":256.0,
+        "High":256.0,
+        "Low":238.0,
+        "Close":241.0,
+        "Percent Change":"0.00 %",
+        "Volume":"206,704.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-24",
+        "Open":250.0,
+        "High":256.0,
+        "Low":240.0,
+        "Close":244.0,
+        "Percent Change":"0.83 %",
+        "Volume":"229,783.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-23",
+        "Open":249.0,
+        "High":250.0,
+        "Low":234.0,
+        "Close":242.0,
+        "Percent Change":"-2.81 %",
+        "Volume":"355,653.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-22",
+        "Open":276.0,
+        "High":276.0,
+        "Low":245.0,
+        "Close":249.0,
+        "Percent Change":"-5.32 %",
+        "Volume":"640,726.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-21",
+        "Open":257.0,
+        "High":269.0,
+        "Low":244.0,
+        "Close":263.0,
+        "Percent Change":"0.07 %",
+        "Volume":"826,394.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-18",
+        "Open":229.0,
+        "High":245.0,
+        "Low":223.0,
+        "Close":245.0,
+        "Percent Change":"0.10 %",
+        "Volume":"1,187,420.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-17",
+        "Open":223.0,
+        "High":225.0,
+        "Low":221.0,
+        "Close":223.0,
+        "Percent Change":"0.00 %",
+        "Volume":"173,664.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-16",
+        "Open":225.0,
+        "High":226.0,
+        "Low":221.0,
+        "Close":223.0,
+        "Percent Change":"0.00 %",
+        "Volume":"320,376.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-15",
+        "Open":224.0,
+        "High":225.0,
+        "Low":219.0,
+        "Close":222.0,
+        "Percent Change":"0.01 %",
+        "Volume":"138,452.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-14",
+        "Open":236.0,
+        "High":236.0,
+        "Low":217.0,
+        "Close":220.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"144,425.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-11",
+        "Open":225.0,
+        "High":230.0,
+        "Low":222.0,
+        "Close":225.0,
+        "Percent Change":"0.01 %",
+        "Volume":"280,883.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-10",
+        "Open":220.0,
+        "High":223.0,
+        "Low":219.0,
+        "Close":223.0,
+        "Percent Change":"0.02 %",
+        "Volume":"228,671.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-09",
+        "Open":222.0,
+        "High":227.0,
+        "Low":219.0,
+        "Close":220.0,
+        "Percent Change":"0.00 %",
+        "Volume":"215,377.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-08",
+        "Open":220.0,
+        "High":221.0,
+        "Low":216.0,
+        "Close":219.0,
+        "Percent Change":"-0.00 %",
+        "Volume":"234,676.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-07",
+        "Open":215.0,
+        "High":220.0,
+        "Low":214.0,
+        "Close":220.0,
+        "Percent Change":"0.02 %",
+        "Volume":"285,014.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-04",
+        "Open":235.0,
+        "High":235.0,
+        "Low":228.0,
+        "Close":232.0,
+        "Percent Change":"-0.00 %",
+        "Volume":"684,911.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-03",
+        "Open":237.0,
+        "High":238.0,
+        "Low":231.0,
+        "Close":233.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"296,135.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-02",
+        "Open":238.0,
+        "High":239.0,
+        "Low":228.0,
+        "Close":235.0,
+        "Percent Change":"0.00 %",
+        "Volume":"281,314.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-02-01",
+        "Open":231.0,
+        "High":237.0,
+        "Low":220.0,
+        "Close":234.0,
+        "Percent Change":"0.06 %",
+        "Volume":"640,953.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-31",
+        "Open":233.0,
+        "High":233.0,
+        "Low":213.0,
+        "Close":220.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"484,762.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-28",
+        "Open":227.0,
+        "High":229.0,
+        "Low":220.0,
+        "Close":222.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"329,535.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-27",
+        "Open":227.0,
+        "High":230.0,
+        "Low":225.0,
+        "Close":227.0,
+        "Percent Change":"0.00 %",
+        "Volume":"220,959.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-26",
+        "Open":233.0,
+        "High":233.0,
+        "Low":226.0,
+        "Close":227.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"196,382.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-25",
+        "Open":245.0,
+        "High":245.0,
+        "Low":229.0,
+        "Close":230.0,
+        "Percent Change":"-0.03 %",
+        "Volume":"319,330.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-24",
+        "Open":226.0,
+        "High":238.0,
+        "Low":225.0,
+        "Close":237.0,
+        "Percent Change":"0.06 %",
+        "Volume":"455,687.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-21",
+        "Open":222.0,
+        "High":226.0,
+        "Low":221.0,
+        "Close":223.0,
+        "Percent Change":"0.00 %",
+        "Volume":"451,493.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-20",
+        "Open":217.0,
+        "High":224.0,
+        "Low":217.0,
+        "Close":222.0,
+        "Percent Change":"0.02 %",
+        "Volume":"359,756.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-19",
+        "Open":218.0,
+        "High":218.0,
+        "Low":214.0,
+        "Close":217.0,
+        "Percent Change":"0.01 %",
+        "Volume":"178,723.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-18",
+        "Open":217.0,
+        "High":218.0,
+        "Low":214.0,
+        "Close":214.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"212,653.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-17",
+        "Open":222.0,
+        "High":222.0,
+        "Low":210.0,
+        "Close":217.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"980,170.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-13",
+        "Open":230.0,
+        "High":230.0,
+        "Low":220.0,
+        "Close":220.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"281,622.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-12",
+        "Open":223.0,
+        "High":230.0,
+        "Low":216.0,
+        "Close":224.0,
+        "Percent Change":"0.05 %",
+        "Volume":"635,166.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-11",
+        "Open":210.0,
+        "High":217.0,
+        "Low":203.0,
+        "Close":213.0,
+        "Percent Change":"0.07 %",
+        "Volume":"869,453.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-10",
+        "Open":199.0,
+        "High":200.0,
+        "Low":190.0,
+        "Close":200.0,
+        "Percent Change":"0.05 %",
+        "Volume":"401,436.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-07",
+        "Open":190.0,
+        "High":192.0,
+        "Low":188.0,
+        "Close":190.0,
+        "Percent Change":"0.00 %",
+        "Volume":"136,005.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-06",
+        "Open":195.0,
+        "High":195.0,
+        "Low":186.0,
+        "Close":190.0,
+        "Percent Change":"0.01 %",
+        "Volume":"136,754.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-05",
+        "Open":189.0,
+        "High":192.0,
+        "Low":186.0,
+        "Close":189.0,
+        "Percent Change":"0.01 %",
+        "Volume":"121,994.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-04",
+        "Open":195.0,
+        "High":195.0,
+        "Low":186.0,
+        "Close":188.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"206,849.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2021-01-03",
+        "Open":190.0,
+        "High":193.0,
+        "Low":185.0,
+        "Close":192.0,
+        "Percent Change":"0.04 %",
+        "Volume":"291,091.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-31",
+        "Open":187.0,
+        "High":190.0,
+        "Low":181.0,
+        "Close":185.0,
+        "Percent Change":"0.03 %",
+        "Volume":"314,421.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-30",
+        "Open":176.0,
+        "High":181.0,
+        "Low":175.0,
+        "Close":179.0,
+        "Percent Change":"0.02 %",
+        "Volume":"179,829.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-29",
+        "Open":182.0,
+        "High":182.0,
+        "Low":174.0,
+        "Close":175.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"82,224.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-28",
+        "Open":177.0,
+        "High":181.0,
+        "Low":175.0,
+        "Close":178.0,
+        "Percent Change":"0.01 %",
+        "Volume":"66,161.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-27",
+        "Open":181.0,
+        "High":185.0,
+        "Low":176.0,
+        "Close":177.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"104,160.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-24",
+        "Open":177.0,
+        "High":182.0,
+        "Low":175.0,
+        "Close":180.0,
+        "Percent Change":"0.00 %",
+        "Volume":"151,276.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-23",
+        "Open":187.0,
+        "High":190.0,
+        "Low":178.0,
+        "Close":180.0,
+        "Percent Change":"0.01 %",
+        "Volume":"126,135.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-22",
+        "Open":174.0,
+        "High":183.0,
+        "Low":174.0,
+        "Close":179.0,
+        "Percent Change":"0.05 %",
+        "Volume":"154,890.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-21",
+        "Open":170.0,
+        "High":175.0,
+        "Low":165.0,
+        "Close":171.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"104,323.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-20",
+        "Open":181.0,
+        "High":181.0,
+        "Low":170.0,
+        "Close":172.0,
+        "Percent Change":"-0.03 %",
+        "Volume":"104,378.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-17",
+        "Open":176.0,
+        "High":183.0,
+        "Low":176.0,
+        "Close":178.0,
+        "Percent Change":"0.00 %",
+        "Volume":"99,789.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-16",
+        "Open":184.0,
+        "High":184.0,
+        "Low":178.0,
+        "Close":178.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"70,354.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-15",
+        "Open":190.0,
+        "High":190.0,
+        "Low":179.0,
+        "Close":182.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"76,208.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-14",
+        "Open":185.0,
+        "High":186.0,
+        "Low":179.0,
+        "Close":183.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"161,927.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-13",
+        "Open":175.0,
+        "High":189.0,
+        "Low":174.0,
+        "Close":185.0,
+        "Percent Change":"0.05 %",
+        "Volume":"134,903.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-10",
+        "Open":178.0,
+        "High":179.0,
+        "Low":173.0,
+        "Close":177.0,
+        "Percent Change":"0.00 %",
+        "Volume":"70,664.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-09",
+        "Open":180.0,
+        "High":180.0,
+        "Low":175.0,
+        "Close":177.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"98,580.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-08",
+        "Open":189.0,
+        "High":189.0,
+        "Low":177.0,
+        "Close":180.0,
+        "Percent Change":"0.00 %",
+        "Volume":"94,336.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-07",
+        "Open":178.0,
+        "High":188.0,
+        "Low":177.0,
+        "Close":180.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"153,476.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-06",
+        "Open":186.0,
+        "High":186.0,
+        "Low":180.0,
+        "Close":181.0,
+        "Percent Change":"-0.03 %",
+        "Volume":"140,034.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-03",
+        "Open":187.0,
+        "High":192.0,
+        "Low":183.0,
+        "Close":186.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"128,147.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-02",
+        "Open":192.0,
+        "High":192.0,
+        "Low":182.0,
+        "Close":187.0,
+        "Percent Change":"0.01 %",
+        "Volume":"177,466.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-12-01",
+        "Open":191.0,
+        "High":197.0,
+        "Low":181.0,
+        "Close":186.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"207,305.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-30",
+        "Open":203.0,
+        "High":203.0,
+        "Low":188.0,
+        "Close":189.0,
+        "Percent Change":"-0.03 %",
+        "Volume":"466,798.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-29",
+        "Open":178.0,
+        "High":194.0,
+        "Low":178.0,
+        "Close":194.0,
+        "Percent Change":"0.10 %",
+        "Volume":"884,618.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-26",
+        "Open":179.0,
+        "High":184.0,
+        "Low":174.0,
+        "Close":177.0,
+        "Percent Change":"0.00 %",
+        "Volume":"317,658.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-25",
+        "Open":173.0,
+        "High":181.0,
+        "Low":171.0,
+        "Close":181.0,
+        "Percent Change":"0.06 %",
+        "Volume":"300,384.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-24",
+        "Open":171.0,
+        "High":173.0,
+        "Low":170.0,
+        "Close":171.0,
+        "Percent Change":"0.00 %",
+        "Volume":"190,538.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-23",
+        "Open":170.0,
+        "High":173.0,
+        "Low":169.0,
+        "Close":171.0,
+        "Percent Change":"0.00 %",
+        "Volume":"96,359.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-22",
+        "Open":171.0,
+        "High":176.0,
+        "Low":170.0,
+        "Close":171.0,
+        "Percent Change":"0.00 %",
+        "Volume":"158,231.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-19",
+        "Open":170.0,
+        "High":174.0,
+        "Low":169.0,
+        "Close":171.0,
+        "Percent Change":"0.00 %",
+        "Volume":"114,321.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-18",
+        "Open":172.0,
+        "High":173.0,
+        "Low":168.0,
+        "Close":171.0,
+        "Percent Change":"0.00 %",
+        "Volume":"132,453.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-12",
+        "Open":174.0,
+        "High":177.0,
+        "Low":173.0,
+        "Close":175.0,
+        "Percent Change":"- %",
+        "Volume":"64,167.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-11",
+        "Open":175.0,
+        "High":178.0,
+        "Low":172.0,
+        "Close":175.0,
+        "Percent Change":"0.57 %",
+        "Volume":"162,234.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-10",
+        "Open":174.0,
+        "High":174.0,
+        "Low":171.0,
+        "Close":174.0,
+        "Percent Change":"1.16 %",
+        "Volume":"60,655.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-09",
+        "Open":173.0,
+        "High":173.0,
+        "Low":170.0,
+        "Close":172.0,
+        "Percent Change":"0.00 %",
+        "Volume":"72,251.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-08",
+        "Open":175.0,
+        "High":175.0,
+        "Low":169.0,
+        "Close":172.0,
+        "Percent Change":"-0.58 %",
+        "Volume":"102,083.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-05",
+        "Open":172.0,
+        "High":174.0,
+        "Low":171.0,
+        "Close":173.0,
+        "Percent Change":"0.58 %",
+        "Volume":"80,281.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-04",
+        "Open":173.0,
+        "High":174.0,
+        "Low":172.0,
+        "Close":172.0,
+        "Percent Change":"-1.15 %",
+        "Volume":"48,557.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-03",
+        "Open":175.0,
+        "High":175.0,
+        "Low":172.0,
+        "Close":174.0,
+        "Percent Change":"-0.57 %",
+        "Volume":"37,031.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-02",
+        "Open":177.0,
+        "High":179.0,
+        "Low":173.0,
+        "Close":175.0,
+        "Percent Change":"-1.13 %",
+        "Volume":"115,057.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-11-01",
+        "Open":186.0,
+        "High":186.0,
+        "Low":176.0,
+        "Close":177.0,
+        "Percent Change":"-0.56 %",
+        "Volume":"205,014.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-29",
+        "Open":186.0,
+        "High":188.0,
+        "Low":176.0,
+        "Close":178.0,
+        "Percent Change":"-2.20 %",
+        "Volume":"372,213.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-28",
+        "Open":170.0,
+        "High":182.0,
+        "Low":170.0,
+        "Close":182.0,
+        "Percent Change":"7.06 %",
+        "Volume":"433,715.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-22",
+        "Open":174.0,
+        "High":174.0,
+        "Low":166.0,
+        "Close":170.0,
+        "Percent Change":"2.41 %",
+        "Volume":"137,155.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-21",
+        "Open":164.0,
+        "High":167.0,
+        "Low":164.0,
+        "Close":166.0,
+        "Percent Change":"0.61 %",
+        "Volume":"44,214.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-20",
+        "Open":164.0,
+        "High":166.0,
+        "Low":164.0,
+        "Close":165.0,
+        "Percent Change":"0.61 %",
+        "Volume":"30,209.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-19",
+        "Open":164.0,
+        "High":166.0,
+        "Low":162.0,
+        "Close":164.0,
+        "Percent Change":"0.00 %",
+        "Volume":"24,141.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-18",
+        "Open":167.0,
+        "High":167.0,
+        "Low":162.0,
+        "Close":164.0,
+        "Percent Change":"0.00 %",
+        "Volume":"25,292.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-15",
+        "Open":167.0,
+        "High":167.0,
+        "Low":163.0,
+        "Close":164.0,
+        "Percent Change":"0.00 %",
+        "Volume":"70,923.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-14",
+        "Open":168.0,
+        "High":168.0,
+        "Low":163.0,
+        "Close":164.0,
+        "Percent Change":"-1.20 %",
+        "Volume":"37,869.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-13",
+        "Open":167.0,
+        "High":169.0,
+        "Low":165.0,
+        "Close":166.0,
+        "Percent Change":"0.00 %",
+        "Volume":"46,191.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-12",
+        "Open":165.0,
+        "High":169.0,
+        "Low":165.0,
+        "Close":166.0,
+        "Percent Change":"-0.60 %",
+        "Volume":"56,535.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-11",
+        "Open":168.0,
+        "High":170.0,
+        "Low":166.0,
+        "Close":167.0,
+        "Percent Change":"0.00 %",
+        "Volume":"144,211.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-08",
+        "Open":178.0,
+        "High":178.0,
+        "Low":167.0,
+        "Close":167.0,
+        "Percent Change":"-1.76 %",
+        "Volume":"163,732.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-07",
+        "Open":164.0,
+        "High":173.0,
+        "Low":164.0,
+        "Close":170.0,
+        "Percent Change":"2.41 %",
+        "Volume":"270,092.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-06",
+        "Open":173.0,
+        "High":173.0,
+        "Low":163.0,
+        "Close":166.0,
+        "Percent Change":"0.61 %",
+        "Volume":"55,038.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-05",
+        "Open":165.0,
+        "High":167.0,
+        "Low":164.0,
+        "Close":165.0,
+        "Percent Change":"0.00 %",
+        "Volume":"109,799.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-04",
+        "Open":169.0,
+        "High":170.0,
+        "Low":161.0,
+        "Close":165.0,
+        "Percent Change":"-1.20 %",
+        "Volume":"330,684.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-10-01",
+        "Open":177.0,
+        "High":177.0,
+        "Low":164.0,
+        "Close":167.0,
+        "Percent Change":"-1.18 %",
+        "Volume":"100,439.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-30",
+        "Open":171.0,
+        "High":171.0,
+        "Low":162.0,
+        "Close":169.0,
+        "Percent Change":"1.20 %",
+        "Volume":"122,146.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-29",
+        "Open":178.0,
+        "High":178.0,
+        "Low":166.0,
+        "Close":167.0,
+        "Percent Change":"-1.76 %",
+        "Volume":"81,358.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-28",
+        "Open":173.0,
+        "High":173.0,
+        "Low":167.0,
+        "Close":170.0,
+        "Percent Change":"0.00 %",
+        "Volume":"268,346.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-27",
+        "Open":160.0,
+        "High":174.0,
+        "Low":160.0,
+        "Close":170.0,
+        "Percent Change":"6.92 %",
+        "Volume":"659,317.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-24",
+        "Open":164.0,
+        "High":167.0,
+        "Low":155.0,
+        "Close":159.0,
+        "Percent Change":"1.27 %",
+        "Volume":"175,984.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-23",
+        "Open":163.0,
+        "High":163.0,
+        "Low":153.0,
+        "Close":157.0,
+        "Percent Change":"0.64 %",
+        "Volume":"126,117.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-22",
+        "Open":160.0,
+        "High":162.0,
+        "Low":155.0,
+        "Close":156.0,
+        "Percent Change":"-1.89 %",
+        "Volume":"201,798.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-21",
+        "Open":160.0,
+        "High":164.0,
+        "Low":154.0,
+        "Close":159.0,
+        "Percent Change":"1.27 %",
+        "Volume":"331,885.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-20",
+        "Open":157.0,
+        "High":165.0,
+        "Low":156.0,
+        "Close":157.0,
+        "Percent Change":"4.67 %",
+        "Volume":"456,634.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-17",
+        "Open":148.0,
+        "High":153.0,
+        "Low":145.0,
+        "Close":150.0,
+        "Percent Change":"3.45 %",
+        "Volume":"155,375.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-16",
+        "Open":145.0,
+        "High":146.0,
+        "Low":144.0,
+        "Close":145.0,
+        "Percent Change":"0.00 %",
+        "Volume":"52,659.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-15",
+        "Open":148.0,
+        "High":148.0,
+        "Low":145.0,
+        "Close":145.0,
+        "Percent Change":"-0.68 %",
+        "Volume":"29,429.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-14",
+        "Open":145.0,
+        "High":147.0,
+        "Low":145.0,
+        "Close":146.0,
+        "Percent Change":"0.00 %",
+        "Volume":"63,485.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-13",
+        "Open":146.0,
+        "High":146.0,
+        "Low":143.0,
+        "Close":146.0,
+        "Percent Change":"0.69 %",
+        "Volume":"44,583.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-10",
+        "Open":147.0,
+        "High":148.0,
+        "Low":143.0,
+        "Close":145.0,
+        "Percent Change":"-0.68 %",
+        "Volume":"37,186.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-09",
+        "Open":142.0,
+        "High":146.0,
+        "Low":142.0,
+        "Close":146.0,
+        "Percent Change":"1.39 %",
+        "Volume":"39,828.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-08",
+        "Open":144.0,
+        "High":145.0,
+        "Low":141.0,
+        "Close":144.0,
+        "Percent Change":"-0.69 %",
+        "Volume":"33,943.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-07",
+        "Open":145.0,
+        "High":149.0,
+        "Low":143.0,
+        "Close":145.0,
+        "Percent Change":"0.00 %",
+        "Volume":"29,670.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-06",
+        "Open":148.0,
+        "High":153.0,
+        "Low":145.0,
+        "Close":145.0,
+        "Percent Change":"-0.68 %",
+        "Volume":"50,836.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-03",
+        "Open":147.0,
+        "High":150.0,
+        "Low":145.0,
+        "Close":146.0,
+        "Percent Change":"-1.35 %",
+        "Volume":"52,121.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-09-02",
+        "Open":144.0,
+        "High":148.0,
+        "Low":143.0,
+        "Close":148.0,
+        "Percent Change":"2.78 %",
+        "Volume":"123,459.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-31",
+        "Open":144.0,
+        "High":145.0,
+        "Low":143.0,
+        "Close":144.0,
+        "Percent Change":"0.00 %",
+        "Volume":"34,338.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-30",
+        "Open":142.0,
+        "High":145.0,
+        "Low":142.0,
+        "Close":144.0,
+        "Percent Change":"1.41 %",
+        "Volume":"41,821.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-27",
+        "Open":145.0,
+        "High":146.0,
+        "Low":142.0,
+        "Close":142.0,
+        "Percent Change":"-2.07 %",
+        "Volume":"96,982.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-26",
+        "Open":145.0,
+        "High":145.0,
+        "Low":143.0,
+        "Close":145.0,
+        "Percent Change":"0.00 %",
+        "Volume":"46,105.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-25",
+        "Open":145.0,
+        "High":145.0,
+        "Low":143.0,
+        "Close":145.0,
+        "Percent Change":"1.40 %",
+        "Volume":"37,575.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-24",
+        "Open":143.0,
+        "High":145.0,
+        "Low":142.0,
+        "Close":143.0,
+        "Percent Change":"-0.69 %",
+        "Volume":"59,073.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-23",
+        "Open":142.0,
+        "High":144.0,
+        "Low":142.0,
+        "Close":144.0,
+        "Percent Change":"0.70 %",
+        "Volume":"25,776.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-20",
+        "Open":142.0,
+        "High":145.0,
+        "Low":142.0,
+        "Close":143.0,
+        "Percent Change":"0.00 %",
+        "Volume":"23,339.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-19",
+        "Open":143.0,
+        "High":144.0,
+        "Low":141.0,
+        "Close":143.0,
+        "Percent Change":"0.00 %",
+        "Volume":"70,649.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-18",
+        "Open":146.0,
+        "High":146.0,
+        "Low":143.0,
+        "Close":143.0,
+        "Percent Change":"-2.05 %",
+        "Volume":"47,005.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-17",
+        "Open":144.0,
+        "High":146.0,
+        "Low":144.0,
+        "Close":146.0,
+        "Percent Change":"1.39 %",
+        "Volume":"62,155.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-16",
+        "Open":149.0,
+        "High":149.0,
+        "Low":142.0,
+        "Close":144.0,
+        "Percent Change":"-2.04 %",
+        "Volume":"84,648.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-13",
+        "Open":146.0,
+        "High":148.0,
+        "Low":145.0,
+        "Close":147.0,
+        "Percent Change":"0.00 %",
+        "Volume":"60,219.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-12",
+        "Open":144.0,
+        "High":147.0,
+        "Low":143.0,
+        "Close":147.0,
+        "Percent Change":"1.38 %",
+        "Volume":"87,940.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-11",
+        "Open":146.0,
+        "High":147.0,
+        "Low":144.0,
+        "Close":145.0,
+        "Percent Change":"0.00 %",
+        "Volume":"33,570.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-10",
+        "Open":141.0,
+        "High":147.0,
+        "Low":141.0,
+        "Close":145.0,
+        "Percent Change":"1.40 %",
+        "Volume":"21,584.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-09",
+        "Open":143.0,
+        "High":145.0,
+        "Low":141.0,
+        "Close":143.0,
+        "Percent Change":"-0.69 %",
+        "Volume":"40,589.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-06",
+        "Open":144.0,
+        "High":146.0,
+        "Low":141.0,
+        "Close":144.0,
+        "Percent Change":"-0.69 %",
+        "Volume":"49,908.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-05",
+        "Open":145.0,
+        "High":145.0,
+        "Low":141.0,
+        "Close":145.0,
+        "Percent Change":"-0.68 %",
+        "Volume":"31,242.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-03",
+        "Open":147.0,
+        "High":148.0,
+        "Low":143.0,
+        "Close":146.0,
+        "Percent Change":"0.00 %",
+        "Volume":"32,533.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-08-02",
+        "Open":145.0,
+        "High":147.0,
+        "Low":142.0,
+        "Close":146.0,
+        "Percent Change":"-0.68 %",
+        "Volume":"81,343.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-30",
+        "Open":153.0,
+        "High":153.0,
+        "Low":145.0,
+        "Close":147.0,
+        "Percent Change":"0.68 %",
+        "Volume":"52,774.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-29",
+        "Open":141.0,
+        "High":150.0,
+        "Low":141.0,
+        "Close":146.0,
+        "Percent Change":"-1.35 %",
+        "Volume":"36,623.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-28",
+        "Open":149.0,
+        "High":150.0,
+        "Low":145.0,
+        "Close":148.0,
+        "Percent Change":"0.68 %",
+        "Volume":"89,121.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-27",
+        "Open":148.0,
+        "High":148.0,
+        "Low":145.0,
+        "Close":147.0,
+        "Percent Change":"0.00 %",
+        "Volume":"54,722.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-26",
+        "Open":143.0,
+        "High":149.0,
+        "Low":143.0,
+        "Close":147.0,
+        "Percent Change":"1.38 %",
+        "Volume":"49,058.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-23",
+        "Open":145.0,
+        "High":145.0,
+        "Low":142.0,
+        "Close":145.0,
+        "Percent Change":"0.00 %",
+        "Volume":"41,696.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-22",
+        "Open":147.0,
+        "High":150.0,
+        "Low":145.0,
+        "Close":145.0,
+        "Percent Change":"-0.68 %",
+        "Volume":"85,604.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-21",
+        "Open":150.0,
+        "High":151.0,
+        "Low":144.0,
+        "Close":146.0,
+        "Percent Change":"-4.58 %",
+        "Volume":"62,226.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-20",
+        "Open":160.0,
+        "High":163.0,
+        "Low":146.0,
+        "Close":153.0,
+        "Percent Change":"-2.55 %",
+        "Volume":"112,424.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-19",
+        "Open":147.0,
+        "High":157.0,
+        "Low":147.0,
+        "Close":157.0,
+        "Percent Change":"8.28 %",
+        "Volume":"240.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-16",
+        "Open":139.0,
+        "High":149.0,
+        "Low":138.0,
+        "Close":145.0,
+        "Percent Change":"4.32 %",
+        "Volume":"47,125.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-15",
+        "Open":135.0,
+        "High":139.0,
+        "Low":135.0,
+        "Close":139.0,
+        "Percent Change":"1.46 %",
+        "Volume":"42,646.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-14",
+        "Open":134.0,
+        "High":139.0,
+        "Low":134.0,
+        "Close":137.0,
+        "Percent Change":"0.74 %",
+        "Volume":"22,894.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-13",
+        "Open":136.0,
+        "High":138.0,
+        "Low":134.0,
+        "Close":136.0,
+        "Percent Change":"-1.45 %",
+        "Volume":"43,444.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-12",
+        "Open":138.0,
+        "High":138.0,
+        "Low":136.0,
+        "Close":138.0,
+        "Percent Change":"-1.43 %",
+        "Volume":"10,407.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-09",
+        "Open":140.0,
+        "High":141.0,
+        "Low":137.0,
+        "Close":140.0,
+        "Percent Change":"0.00 %",
+        "Volume":"27,928.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-08",
+        "Open":136.0,
+        "High":140.0,
+        "Low":136.0,
+        "Close":140.0,
+        "Percent Change":"1.45 %",
+        "Volume":"26,623.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-07",
+        "Open":136.0,
+        "High":140.0,
+        "Low":134.0,
+        "Close":138.0,
+        "Percent Change":"2.99 %",
+        "Volume":"38,464.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-06",
+        "Open":130.0,
+        "High":136.0,
+        "Low":128.0,
+        "Close":134.0,
+        "Percent Change":"3.08 %",
+        "Volume":"36,198.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-05",
+        "Open":129.0,
+        "High":135.0,
+        "Low":128.0,
+        "Close":130.0,
+        "Percent Change":"0.78 %",
+        "Volume":"37,051.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-02",
+        "Open":139.0,
+        "High":139.0,
+        "Low":126.0,
+        "Close":129.0,
+        "Percent Change":"-5.84 %",
+        "Volume":"27,804.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-07-01",
+        "Open":136.0,
+        "High":138.0,
+        "Low":136.0,
+        "Close":137.0,
+        "Percent Change":"2.24 %",
+        "Volume":"5,028.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-06-30",
+        "Open":128.0,
+        "High":134.0,
+        "Low":128.0,
+        "Close":134.0,
+        "Percent Change":"3.08 %",
+        "Volume":"9,301.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-06-29",
+        "Open":132.0,
+        "High":134.0,
+        "Low":125.0,
+        "Close":130.0,
+        "Percent Change":"-2.99 %",
+        "Volume":"14,805.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-05-12",
+        "Open":136.0,
+        "High":136.0,
+        "Low":134.0,
+        "Close":134.0,
+        "Percent Change":"-2.90 %",
+        "Volume":"520.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-03-22",
+        "Open":138.0,
+        "High":140.0,
+        "Low":138.0,
+        "Close":138.0,
+        "Percent Change":"-1.43 %",
+        "Volume":"1,836.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-03-19",
+        "Open":137.0,
+        "High":145.0,
+        "Low":134.0,
+        "Close":140.0,
+        "Percent Change":"2.19 %",
+        "Volume":"72,881.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-03-18",
+        "Open":137.0,
+        "High":138.0,
+        "Low":135.0,
+        "Close":137.0,
+        "Percent Change":"-0.72 %",
+        "Volume":"73,220.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-03-17",
+        "Open":140.0,
+        "High":140.0,
+        "Low":137.0,
+        "Close":138.0,
+        "Percent Change":"-2.13 %",
+        "Volume":"99,811.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-03-16",
+        "Open":139.0,
+        "High":142.0,
+        "Low":137.0,
+        "Close":141.0,
+        "Percent Change":"0.71 %",
+        "Volume":"56,150.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-03-15",
+        "Open":142.0,
+        "High":144.0,
+        "Low":139.0,
+        "Close":140.0,
+        "Percent Change":"-2.78 %",
+        "Volume":"92,685.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-03-12",
+        "Open":146.0,
+        "High":149.0,
+        "Low":143.0,
+        "Close":144.0,
+        "Percent Change":"-2.70 %",
+        "Volume":"123,276.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-03-11",
+        "Open":144.0,
+        "High":149.0,
+        "Low":142.0,
+        "Close":148.0,
+        "Percent Change":"4.23 %",
+        "Volume":"83,593.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-03-10",
+        "Open":147.0,
+        "High":147.0,
+        "Low":142.0,
+        "Close":142.0,
+        "Percent Change":"-4.70 %",
+        "Volume":"54,991.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-03-05",
+        "Open":148.0,
+        "High":153.0,
+        "Low":147.0,
+        "Close":149.0,
+        "Percent Change":"-0.67 %",
+        "Volume":"123,569.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-03-04",
+        "Open":154.0,
+        "High":155.0,
+        "Low":149.0,
+        "Close":150.0,
+        "Percent Change":"-2.60 %",
+        "Volume":"102,186.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-03-03",
+        "Open":155.0,
+        "High":161.0,
+        "Low":152.0,
+        "Close":154.0,
+        "Percent Change":"-0.65 %",
+        "Volume":"126,271.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-03-02",
+        "Open":160.0,
+        "High":161.0,
+        "Low":155.0,
+        "Close":155.0,
+        "Percent Change":"-3.13 %",
+        "Volume":"104,245.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-03-01",
+        "Open":162.0,
+        "High":167.0,
+        "Low":158.0,
+        "Close":160.0,
+        "Percent Change":"-1.23 %",
+        "Volume":"380,322.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-27",
+        "Open":157.0,
+        "High":165.0,
+        "Low":154.0,
+        "Close":162.0,
+        "Percent Change":"3.18 %",
+        "Volume":"414,330.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-26",
+        "Open":156.0,
+        "High":159.0,
+        "Low":156.0,
+        "Close":157.0,
+        "Percent Change":"-0.63 %",
+        "Volume":"293,160.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-25",
+        "Open":157.0,
+        "High":159.0,
+        "Low":155.0,
+        "Close":158.0,
+        "Percent Change":"0.00 %",
+        "Volume":"99,187.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-24",
+        "Open":159.0,
+        "High":165.0,
+        "Low":156.0,
+        "Close":158.0,
+        "Percent Change":"-0.63 %",
+        "Volume":"154,282.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-23",
+        "Open":156.0,
+        "High":160.0,
+        "Low":154.0,
+        "Close":159.0,
+        "Percent Change":"3.92 %",
+        "Volume":"219,039.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-20",
+        "Open":153.0,
+        "High":153.0,
+        "Low":151.0,
+        "Close":153.0,
+        "Percent Change":"0.00 %",
+        "Volume":"93,809.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-19",
+        "Open":153.0,
+        "High":154.0,
+        "Low":151.0,
+        "Close":153.0,
+        "Percent Change":"-0.65 %",
+        "Volume":"88,720.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-18",
+        "Open":156.0,
+        "High":157.0,
+        "Low":152.0,
+        "Close":154.0,
+        "Percent Change":"0.00 %",
+        "Volume":"60,322.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-17",
+        "Open":153.0,
+        "High":159.0,
+        "Low":153.0,
+        "Close":154.0,
+        "Percent Change":"1.32 %",
+        "Volume":"87,914.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-16",
+        "Open":151.0,
+        "High":154.0,
+        "Low":150.0,
+        "Close":152.0,
+        "Percent Change":"0.00 %",
+        "Volume":"50,596.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-13",
+        "Open":153.0,
+        "High":154.0,
+        "Low":151.0,
+        "Close":152.0,
+        "Percent Change":"-0.65 %",
+        "Volume":"47,401.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-12",
+        "Open":155.0,
+        "High":158.0,
+        "Low":152.0,
+        "Close":153.0,
+        "Percent Change":"-1.29 %",
+        "Volume":"71,566.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-11",
+        "Open":150.0,
+        "High":157.0,
+        "Low":150.0,
+        "Close":155.0,
+        "Percent Change":"1.97 %",
+        "Volume":"538,060.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-10",
+        "Open":151.0,
+        "High":154.0,
+        "Low":151.0,
+        "Close":152.0,
+        "Percent Change":"0.00 %",
+        "Volume":"66,856.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-09",
+        "Open":154.0,
+        "High":155.0,
+        "Low":152.0,
+        "Close":152.0,
+        "Percent Change":"-1.94 %",
+        "Volume":"93,484.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-06",
+        "Open":158.0,
+        "High":159.0,
+        "Low":153.0,
+        "Close":155.0,
+        "Percent Change":"-3.73 %",
+        "Volume":"163,045.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-05",
+        "Open":150.0,
+        "High":162.0,
+        "Low":148.0,
+        "Close":161.0,
+        "Percent Change":"8.78 %",
+        "Volume":"827,440.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-04",
+        "Open":148.0,
+        "High":151.0,
+        "Low":148.0,
+        "Close":148.0,
+        "Percent Change":"-1.33 %",
+        "Volume":"131,643.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-03",
+        "Open":152.0,
+        "High":152.0,
+        "Low":148.0,
+        "Close":150.0,
+        "Percent Change":"0.00 %",
+        "Volume":"48,790.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-02-02",
+        "Open":151.0,
+        "High":154.0,
+        "Low":147.0,
+        "Close":150.0,
+        "Percent Change":"0.67 %",
+        "Volume":"74,299.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-30",
+        "Open":143.0,
+        "High":149.0,
+        "Low":143.0,
+        "Close":149.0,
+        "Percent Change":"2.76 %",
+        "Volume":"86,303.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-29",
+        "Open":145.0,
+        "High":147.0,
+        "Low":144.0,
+        "Close":145.0,
+        "Percent Change":"-1.36 %",
+        "Volume":"29,858.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-28",
+        "Open":147.0,
+        "High":147.0,
+        "Low":144.0,
+        "Close":147.0,
+        "Percent Change":"1.38 %",
+        "Volume":"52,400.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-27",
+        "Open":144.0,
+        "High":147.0,
+        "Low":143.0,
+        "Close":145.0,
+        "Percent Change":"1.40 %",
+        "Volume":"40,225.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-26",
+        "Open":146.0,
+        "High":148.0,
+        "Low":144.0,
+        "Close":144.0,
+        "Percent Change":"-2.04 %",
+        "Volume":"55,243.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-23",
+        "Open":149.0,
+        "High":150.0,
+        "Low":147.0,
+        "Close":147.0,
+        "Percent Change":"-2.65 %",
+        "Volume":"92,701.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-22",
+        "Open":148.0,
+        "High":151.0,
+        "Low":145.0,
+        "Close":151.0,
+        "Percent Change":"2.03 %",
+        "Volume":"74,142.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-21",
+        "Open":148.0,
+        "High":150.0,
+        "Low":147.0,
+        "Close":148.0,
+        "Percent Change":"0.00 %",
+        "Volume":"44,853.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-20",
+        "Open":155.0,
+        "High":155.0,
+        "Low":146.0,
+        "Close":148.0,
+        "Percent Change":"-2.63 %",
+        "Volume":"119,269.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-19",
+        "Open":151.0,
+        "High":156.0,
+        "Low":149.0,
+        "Close":152.0,
+        "Percent Change":"1.33 %",
+        "Volume":"162,663.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-16",
+        "Open":149.0,
+        "High":152.0,
+        "Low":146.0,
+        "Close":150.0,
+        "Percent Change":"2.04 %",
+        "Volume":"131,135.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-15",
+        "Open":140.0,
+        "High":149.0,
+        "Low":140.0,
+        "Close":147.0,
+        "Percent Change":"5.00 %",
+        "Volume":"138,329.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-14",
+        "Open":140.0,
+        "High":141.0,
+        "Low":138.0,
+        "Close":140.0,
+        "Percent Change":"-0.71 %",
+        "Volume":"58,396.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-13",
+        "Open":146.0,
+        "High":146.0,
+        "Low":140.0,
+        "Close":141.0,
+        "Percent Change":"0.71 %",
+        "Volume":"73,346.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-12",
+        "Open":138.0,
+        "High":140.0,
+        "Low":136.0,
+        "Close":140.0,
+        "Percent Change":"2.19 %",
+        "Volume":"68,600.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-09",
+        "Open":143.0,
+        "High":143.0,
+        "Low":135.0,
+        "Close":137.0,
+        "Percent Change":"0.00 %",
+        "Volume":"20,889.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-08",
+        "Open":139.0,
+        "High":139.0,
+        "Low":136.0,
+        "Close":137.0,
+        "Percent Change":"-1.44 %",
+        "Volume":"40,252.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-07",
+        "Open":137.0,
+        "High":140.0,
+        "Low":136.0,
+        "Close":139.0,
+        "Percent Change":"0.72 %",
+        "Volume":"40,337.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-06",
+        "Open":139.0,
+        "High":139.0,
+        "Low":136.0,
+        "Close":138.0,
+        "Percent Change":"0.73 %",
+        "Volume":"37,290.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-05",
+        "Open":135.0,
+        "High":138.0,
+        "Low":135.0,
+        "Close":137.0,
+        "Percent Change":"0.74 %",
+        "Volume":"25,720.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-02",
+        "Open":141.0,
+        "High":141.0,
+        "Low":134.0,
+        "Close":136.0,
+        "Percent Change":"0.74 %",
+        "Volume":"22,144.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2020-01-01",
+        "Open":134.0,
+        "High":138.0,
+        "Low":134.0,
+        "Close":135.0,
+        "Percent Change":"-0.74 %",
+        "Volume":"8,303.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-31",
+        "Open":135.0,
+        "High":136.0,
+        "Low":134.0,
+        "Close":136.0,
+        "Percent Change":"0.00 %",
+        "Volume":"9,256.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-30",
+        "Open":135.0,
+        "High":136.0,
+        "Low":135.0,
+        "Close":136.0,
+        "Percent Change":"0.74 %",
+        "Volume":"10,458.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-29",
+        "Open":136.0,
+        "High":136.0,
+        "Low":134.0,
+        "Close":135.0,
+        "Percent Change":"-0.74 %",
+        "Volume":"7,667.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-26",
+        "Open":136.0,
+        "High":136.0,
+        "Low":135.0,
+        "Close":136.0,
+        "Percent Change":"-0.73 %",
+        "Volume":"13,522.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-25",
+        "Open":135.0,
+        "High":137.0,
+        "Low":134.0,
+        "Close":137.0,
+        "Percent Change":"0.00 %",
+        "Volume":"25,786.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-24",
+        "Open":134.0,
+        "High":137.0,
+        "Low":134.0,
+        "Close":137.0,
+        "Percent Change":"0.74 %",
+        "Volume":"12,748.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-23",
+        "Open":134.0,
+        "High":136.0,
+        "Low":134.0,
+        "Close":136.0,
+        "Percent Change":"1.49 %",
+        "Volume":"17,742.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-22",
+        "Open":136.0,
+        "High":136.0,
+        "Low":134.0,
+        "Close":134.0,
+        "Percent Change":"-1.47 %",
+        "Volume":"17,712.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-19",
+        "Open":136.0,
+        "High":137.0,
+        "Low":135.0,
+        "Close":136.0,
+        "Percent Change":"0.00 %",
+        "Volume":"17,505.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-18",
+        "Open":136.0,
+        "High":137.0,
+        "Low":135.0,
+        "Close":136.0,
+        "Percent Change":"-0.73 %",
+        "Volume":"38,029.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-17",
+        "Open":137.0,
+        "High":138.0,
+        "Low":136.0,
+        "Close":137.0,
+        "Percent Change":"0.00 %",
+        "Volume":"18,228.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-16",
+        "Open":138.0,
+        "High":138.0,
+        "Low":136.0,
+        "Close":137.0,
+        "Percent Change":"-0.72 %",
+        "Volume":"27,150.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-15",
+        "Open":137.0,
+        "High":141.0,
+        "Low":137.0,
+        "Close":138.0,
+        "Percent Change":"0.73 %",
+        "Volume":"39,323.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-12",
+        "Open":138.0,
+        "High":139.0,
+        "Low":137.0,
+        "Close":137.0,
+        "Percent Change":"-1.44 %",
+        "Volume":"24,427.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-11",
+        "Open":138.0,
+        "High":139.0,
+        "Low":137.0,
+        "Close":139.0,
+        "Percent Change":"0.72 %",
+        "Volume":"17,048.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-10",
+        "Open":137.0,
+        "High":139.0,
+        "Low":136.0,
+        "Close":138.0,
+        "Percent Change":"0.73 %",
+        "Volume":"19,136.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-09",
+        "Open":138.0,
+        "High":138.0,
+        "Low":135.0,
+        "Close":137.0,
+        "Percent Change":"-2.14 %",
+        "Volume":"23,829.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-08",
+        "Open":140.0,
+        "High":140.0,
+        "Low":137.0,
+        "Close":140.0,
+        "Percent Change":"0.00 %",
+        "Volume":"69,311.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-05",
+        "Open":137.0,
+        "High":140.0,
+        "Low":137.0,
+        "Close":140.0,
+        "Percent Change":"2.94 %",
+        "Volume":"22,578.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-04",
+        "Open":138.0,
+        "High":138.0,
+        "Low":135.0,
+        "Close":136.0,
+        "Percent Change":"0.00 %",
+        "Volume":"22,834.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-03",
+        "Open":138.0,
+        "High":138.0,
+        "Low":136.0,
+        "Close":136.0,
+        "Percent Change":"-0.73 %",
+        "Volume":"16,327.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-02",
+        "Open":136.0,
+        "High":138.0,
+        "Low":135.0,
+        "Close":137.0,
+        "Percent Change":"0.74 %",
+        "Volume":"7,853.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-12-01",
+        "Open":136.0,
+        "High":137.0,
+        "Low":135.0,
+        "Close":136.0,
+        "Percent Change":"0.00 %",
+        "Volume":"13,909.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-28",
+        "Open":136.0,
+        "High":137.0,
+        "Low":134.0,
+        "Close":136.0,
+        "Percent Change":"0.00 %",
+        "Volume":"28,387.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-27",
+        "Open":136.0,
+        "High":137.0,
+        "Low":135.0,
+        "Close":136.0,
+        "Percent Change":"0.00 %",
+        "Volume":"21,961.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-26",
+        "Open":137.0,
+        "High":137.0,
+        "Low":135.0,
+        "Close":136.0,
+        "Percent Change":"0.00 %",
+        "Volume":"13,164.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-25",
+        "Open":137.0,
+        "High":137.0,
+        "Low":134.0,
+        "Close":136.0,
+        "Percent Change":"0.00 %",
+        "Volume":"40,674.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-24",
+        "Open":137.0,
+        "High":137.0,
+        "Low":134.0,
+        "Close":136.0,
+        "Percent Change":"-0.73 %",
+        "Volume":"11,342.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-21",
+        "Open":136.0,
+        "High":138.0,
+        "Low":136.0,
+        "Close":137.0,
+        "Percent Change":"0.00 %",
+        "Volume":"18,775.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-20",
+        "Open":138.0,
+        "High":139.0,
+        "Low":137.0,
+        "Close":137.0,
+        "Percent Change":"-0.72 %",
+        "Volume":"14,378.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-19",
+        "Open":137.0,
+        "High":138.0,
+        "Low":135.0,
+        "Close":138.0,
+        "Percent Change":"0.00 %",
+        "Volume":"28,073.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-18",
+        "Open":137.0,
+        "High":138.0,
+        "Low":137.0,
+        "Close":138.0,
+        "Percent Change":"0.00 %",
+        "Volume":"20,052.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-17",
+        "Open":139.0,
+        "High":139.0,
+        "Low":137.0,
+        "Close":138.0,
+        "Percent Change":"-1.43 %",
+        "Volume":"20,201.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-14",
+        "Open":140.0,
+        "High":140.0,
+        "Low":139.0,
+        "Close":140.0,
+        "Percent Change":"0.00 %",
+        "Volume":"16,005.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-13",
+        "Open":140.0,
+        "High":141.0,
+        "Low":139.0,
+        "Close":140.0,
+        "Percent Change":"0.00 %",
+        "Volume":"23,846.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-12",
+        "Open":142.0,
+        "High":142.0,
+        "Low":139.0,
+        "Close":140.0,
+        "Percent Change":"0.00 %",
+        "Volume":"10,659.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-11",
+        "Open":140.0,
+        "High":141.0,
+        "Low":139.0,
+        "Close":140.0,
+        "Percent Change":"0.00 %",
+        "Volume":"19,633.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-10",
+        "Open":140.0,
+        "High":140.0,
+        "Low":139.0,
+        "Close":140.0,
+        "Percent Change":"0.00 %",
+        "Volume":"23,235.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-07",
+        "Open":141.0,
+        "High":142.0,
+        "Low":140.0,
+        "Close":140.0,
+        "Percent Change":"0.00 %",
+        "Volume":"22,998.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-06",
+        "Open":142.0,
+        "High":142.0,
+        "Low":140.0,
+        "Close":140.0,
+        "Percent Change":"-1.41 %",
+        "Volume":"5,407.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-05",
+        "Open":142.0,
+        "High":143.0,
+        "Low":141.0,
+        "Close":142.0,
+        "Percent Change":"-0.70 %",
+        "Volume":"11,338.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-04",
+        "Open":141.0,
+        "High":143.0,
+        "Low":141.0,
+        "Close":143.0,
+        "Percent Change":"0.70 %",
+        "Volume":"10,495.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-11-03",
+        "Open":141.0,
+        "High":142.0,
+        "Low":141.0,
+        "Close":142.0,
+        "Percent Change":"-0.70 %",
+        "Volume":"13,289.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-10-31",
+        "Open":143.0,
+        "High":143.0,
+        "Low":141.0,
+        "Close":143.0,
+        "Percent Change":"0.00 %",
+        "Volume":"7,847.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-10-24",
+        "Open":143.0,
+        "High":144.0,
+        "Low":142.0,
+        "Close":143.0,
+        "Percent Change":"-0.69 %",
+        "Volume":"10,216.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-10-23",
+        "Open":144.0,
+        "High":144.0,
+        "Low":142.0,
+        "Close":144.0,
+        "Percent Change":"0.70 %",
+        "Volume":"9,170.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-10-22",
+        "Open":141.0,
+        "High":144.0,
+        "Low":141.0,
+        "Close":143.0,
+        "Percent Change":"0.70 %",
+        "Volume":"7,491.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-10-21",
+        "Open":142.0,
+        "High":142.0,
+        "Low":141.0,
+        "Close":142.0,
+        "Percent Change":"0.00 %",
+        "Volume":"17,999.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-10-20",
+        "Open":142.0,
+        "High":143.0,
+        "Low":141.0,
+        "Close":142.0,
+        "Percent Change":"-0.70 %",
+        "Volume":"2,725.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-10-17",
+        "Open":144.0,
+        "High":144.0,
+        "Low":142.0,
+        "Close":143.0,
+        "Percent Change":"-0.69 %",
+        "Volume":"5,317.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-10-16",
+        "Open":143.0,
+        "High":145.0,
+        "Low":142.0,
+        "Close":144.0,
+        "Percent Change":"0.00 %",
+        "Volume":"10,950.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-10-15",
+        "Open":143.0,
+        "High":144.0,
+        "Low":142.0,
+        "Close":144.0,
+        "Percent Change":"0.00 %",
+        "Volume":"9,451.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-10-14",
+        "Open":143.0,
+        "High":144.0,
+        "Low":139.0,
+        "Close":144.0,
+        "Percent Change":"-0.69 %",
+        "Volume":"38,718.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-10-10",
+        "Open":143.0,
+        "High":145.0,
+        "Low":143.0,
+        "Close":145.0,
+        "Percent Change":"0.00 %",
+        "Volume":"4,015.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-10-03",
+        "Open":144.0,
+        "High":145.0,
+        "Low":143.0,
+        "Close":145.0,
+        "Percent Change":"0.69 %",
+        "Volume":"9,795.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-10-02",
+        "Open":145.0,
+        "High":145.0,
+        "Low":143.0,
+        "Close":144.0,
+        "Percent Change":"0.00 %",
+        "Volume":"5,346.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-10-01",
+        "Open":142.0,
+        "High":144.0,
+        "Low":142.0,
+        "Close":144.0,
+        "Percent Change":"0.00 %",
+        "Volume":"9,951.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-30",
+        "Open":142.0,
+        "High":143.0,
+        "Low":141.0,
+        "Close":143.0,
+        "Percent Change":"1.42 %",
+        "Volume":"10,045.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-29",
+        "Open":142.0,
+        "High":142.0,
+        "Low":140.0,
+        "Close":141.0,
+        "Percent Change":"-0.70 %",
+        "Volume":"7,928.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-26",
+        "Open":141.0,
+        "High":143.0,
+        "Low":141.0,
+        "Close":142.0,
+        "Percent Change":"0.71 %",
+        "Volume":"14,574.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-24",
+        "Open":143.0,
+        "High":143.0,
+        "Low":141.0,
+        "Close":143.0,
+        "Percent Change":"-0.69 %",
+        "Volume":"11,824.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-23",
+        "Open":144.0,
+        "High":145.0,
+        "Low":142.0,
+        "Close":144.0,
+        "Percent Change":"0.70 %",
+        "Volume":"32,113.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-22",
+        "Open":143.0,
+        "High":143.0,
+        "Low":142.0,
+        "Close":143.0,
+        "Percent Change":"-0.69 %",
+        "Volume":"16,132.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-19",
+        "Open":149.0,
+        "High":149.0,
+        "Low":143.0,
+        "Close":144.0,
+        "Percent Change":"-2.70 %",
+        "Volume":"35,002.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-18",
+        "Open":147.0,
+        "High":149.0,
+        "Low":145.0,
+        "Close":148.0,
+        "Percent Change":"1.37 %",
+        "Volume":"41,659.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-17",
+        "Open":143.0,
+        "High":146.0,
+        "Low":143.0,
+        "Close":146.0,
+        "Percent Change":"3.55 %",
+        "Volume":"24,187.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-16",
+        "Open":142.0,
+        "High":144.0,
+        "Low":141.0,
+        "Close":141.0,
+        "Percent Change":"-0.70 %",
+        "Volume":"25,431.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-15",
+        "Open":144.0,
+        "High":144.0,
+        "Low":141.0,
+        "Close":142.0,
+        "Percent Change":"-1.39 %",
+        "Volume":"26,875.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-12",
+        "Open":152.0,
+        "High":152.0,
+        "Low":143.0,
+        "Close":144.0,
+        "Percent Change":"-1.37 %",
+        "Volume":"24,042.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-11",
+        "Open":145.0,
+        "High":146.0,
+        "Low":143.0,
+        "Close":146.0,
+        "Percent Change":"0.00 %",
+        "Volume":"18,483.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-10",
+        "Open":146.0,
+        "High":146.0,
+        "Low":144.0,
+        "Close":146.0,
+        "Percent Change":"0.00 %",
+        "Volume":"37,644.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-09",
+        "Open":147.0,
+        "High":147.0,
+        "Low":145.0,
+        "Close":146.0,
+        "Percent Change":"-0.68 %",
+        "Volume":"20,809.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-08",
+        "Open":147.0,
+        "High":148.0,
+        "Low":146.0,
+        "Close":147.0,
+        "Percent Change":"0.00 %",
+        "Volume":"20,244.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-05",
+        "Open":150.0,
+        "High":150.0,
+        "Low":147.0,
+        "Close":147.0,
+        "Percent Change":"-1.34 %",
+        "Volume":"14,914.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-04",
+        "Open":151.0,
+        "High":151.0,
+        "Low":146.0,
+        "Close":149.0,
+        "Percent Change":"0.00 %",
+        "Volume":"8,139.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-03",
+        "Open":147.0,
+        "High":149.0,
+        "Low":143.0,
+        "Close":149.0,
+        "Percent Change":"1.36 %",
+        "Volume":"45,951.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-02",
+        "Open":150.0,
+        "High":150.0,
+        "Low":145.0,
+        "Close":147.0,
+        "Percent Change":"-1.34 %",
+        "Volume":"18,769.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-09-01",
+        "Open":149.0,
+        "High":150.0,
+        "Low":148.0,
+        "Close":149.0,
+        "Percent Change":"0.68 %",
+        "Volume":"24,835.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-08-29",
+        "Open":147.0,
+        "High":148.0,
+        "Low":144.0,
+        "Close":148.0,
+        "Percent Change":"1.37 %",
+        "Volume":"23,892.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-08-28",
+        "Open":148.0,
+        "High":148.0,
+        "Low":145.0,
+        "Close":146.0,
+        "Percent Change":"-0.68 %",
+        "Volume":"15,482.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-08-27",
+        "Open":146.0,
+        "High":148.0,
+        "Low":145.0,
+        "Close":147.0,
+        "Percent Change":"0.68 %",
+        "Volume":"16,716.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-08-26",
+        "Open":145.0,
+        "High":147.0,
+        "Low":145.0,
+        "Close":146.0,
+        "Percent Change":"-0.68 %",
+        "Volume":"19,274.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-08-25",
+        "Open":146.0,
+        "High":147.0,
+        "Low":145.0,
+        "Close":147.0,
+        "Percent Change":"0.00 %",
+        "Volume":"31,944.00"
+    },
+    {
+        "Symbol":"CBL",
+        "Date":"2019-08-22",
+        "Open":147.0,
+        "High":148.0,
+        "Low":146.0,
+        "Close":147.0,
+        "Percent Change":"0.00 %",
+        "Volume":"27,862.00"
+    }
+]

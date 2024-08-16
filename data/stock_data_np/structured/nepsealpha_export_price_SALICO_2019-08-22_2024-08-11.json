@@ -1,0 +1,2892 @@
+[
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-08-11",
+        "Open": 836.4,
+        "High": 892.0,
+        "Low": 835.0,
+        "Close": 890.0,
+        "Percent Change": 6.57,
+        "Volume": 82375.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-08-08",
+        "Open": 849.0,
+        "High": 853.0,
+        "Low": 830.2,
+        "Close": 835.1,
+        "Percent Change": 0.01,
+        "Volume": 52029.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-08-07",
+        "Open": 817.0,
+        "High": 835.0,
+        "Low": 810.0,
+        "Close": 835.0,
+        "Percent Change": 2.2,
+        "Volume": 43397.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-08-06",
+        "Open": 862.0,
+        "High": 866.0,
+        "Low": 815.0,
+        "Close": 817.0,
+        "Percent Change": -5.31,
+        "Volume": 51478.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-08-05",
+        "Open": 850.0,
+        "High": 863.0,
+        "Low": 840.0,
+        "Close": 862.8,
+        "Percent Change": 2.84,
+        "Volume": 95634.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-08-01",
+        "Open": 827.0,
+        "High": 875.0,
+        "Low": 810.0,
+        "Close": 839.0,
+        "Percent Change": 1.57,
+        "Volume": 87378.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-31",
+        "Open": 810.0,
+        "High": 840.9,
+        "Low": 807.0,
+        "Close": 826.0,
+        "Percent Change": 1.98,
+        "Volume": 32221.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-30",
+        "Open": 805.0,
+        "High": 811.5,
+        "Low": 780.1,
+        "Close": 810.0,
+        "Percent Change": -0.01,
+        "Volume": 26553.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-29",
+        "Open": 805.0,
+        "High": 821.0,
+        "Low": 805.0,
+        "Close": 810.1,
+        "Percent Change": -0.6,
+        "Volume": 46143.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-28",
+        "Open": 801.0,
+        "High": 832.0,
+        "Low": 769.0,
+        "Close": 815.0,
+        "Percent Change": 1.88,
+        "Volume": 31342.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-25",
+        "Open": 794.0,
+        "High": 820.0,
+        "Low": 794.0,
+        "Close": 800.0,
+        "Percent Change": -1.23,
+        "Volume": 32769.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-24",
+        "Open": 830.0,
+        "High": 830.0,
+        "Low": 791.2,
+        "Close": 810.0,
+        "Percent Change": -0.86,
+        "Volume": 41787.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-23",
+        "Open": 773.1,
+        "High": 819.0,
+        "Low": 772.5,
+        "Close": 817.0,
+        "Percent Change": 3.68,
+        "Volume": 44615.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-22",
+        "Open": 782.0,
+        "High": 790.0,
+        "Low": 757.0,
+        "Close": 788.0,
+        "Percent Change": 0.13,
+        "Volume": 42365.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-21",
+        "Open": 771.0,
+        "High": 787.8,
+        "Low": 769.3,
+        "Close": 787.0,
+        "Percent Change": 0.25,
+        "Volume": 36778.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-18",
+        "Open": 775.0,
+        "High": 788.0,
+        "Low": 758.0,
+        "Close": 785.0,
+        "Percent Change": 2.21,
+        "Volume": 44102.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-17",
+        "Open": 733.0,
+        "High": 775.2,
+        "Low": 733.0,
+        "Close": 768.0,
+        "Percent Change": 3.52,
+        "Volume": 19479.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-16",
+        "Open": 727.0,
+        "High": 764.0,
+        "Low": 717.0,
+        "Close": 741.9,
+        "Percent Change": 2.05,
+        "Volume": 21660.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-15",
+        "Open": 731.1,
+        "High": 745.0,
+        "Low": 727.0,
+        "Close": 727.0,
+        "Percent Change": -1.76,
+        "Volume": 26652.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-14",
+        "Open": 734.4,
+        "High": 749.0,
+        "Low": 720.0,
+        "Close": 740.0,
+        "Percent Change": 2.78,
+        "Volume": 14005.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-11",
+        "Open": 715.0,
+        "High": 726.0,
+        "Low": 711.0,
+        "Close": 720.0,
+        "Percent Change": 1.84,
+        "Volume": 27427.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-10",
+        "Open": 700.0,
+        "High": 715.0,
+        "Low": 696.0,
+        "Close": 707.0,
+        "Percent Change": 1.01,
+        "Volume": 36910.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-09",
+        "Open": 697.5,
+        "High": 700.0,
+        "Low": 691.0,
+        "Close": 699.9,
+        "Percent Change": 0.27,
+        "Volume": 21365.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-08",
+        "Open": 700.2,
+        "High": 703.0,
+        "Low": 696.1,
+        "Close": 698.0,
+        "Percent Change": -0.85,
+        "Volume": 17529.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-07",
+        "Open": 708.0,
+        "High": 711.0,
+        "Low": 697.0,
+        "Close": 704.0,
+        "Percent Change": 1.0,
+        "Volume": 10722.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-04",
+        "Open": 700.0,
+        "High": 700.0,
+        "Low": 688.0,
+        "Close": 697.0,
+        "Percent Change": 1.23,
+        "Volume": 9585.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-03",
+        "Open": 677.0,
+        "High": 688.5,
+        "Low": 677.0,
+        "Close": 688.5,
+        "Percent Change": 0.15,
+        "Volume": 3735.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-02",
+        "Open": 697.1,
+        "High": 711.0,
+        "Low": 682.1,
+        "Close": 687.5,
+        "Percent Change": 0.59,
+        "Volume": 6115.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-07-01",
+        "Open": 684.0,
+        "High": 684.0,
+        "Low": 675.0,
+        "Close": 683.5,
+        "Percent Change": 0.65,
+        "Volume": 11972.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-30",
+        "Open": 678.0,
+        "High": 680.0,
+        "Low": 675.0,
+        "Close": 679.1,
+        "Percent Change": 0.03,
+        "Volume": 14673.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-27",
+        "Open": 668.4,
+        "High": 678.9,
+        "Low": 668.0,
+        "Close": 678.9,
+        "Percent Change": -0.31,
+        "Volume": 1397.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-26",
+        "Open": 684.0,
+        "High": 684.0,
+        "Low": 675.1,
+        "Close": 681.0,
+        "Percent Change": -0.44,
+        "Volume": 4218.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-25",
+        "Open": 683.0,
+        "High": 692.0,
+        "Low": 680.0,
+        "Close": 684.0,
+        "Percent Change": 0.28,
+        "Volume": 9312.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-24",
+        "Open": 680.3,
+        "High": 702.0,
+        "Low": 680.3,
+        "Close": 682.1,
+        "Percent Change": -1.3,
+        "Volume": 11151.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-23",
+        "Open": 695.0,
+        "High": 709.0,
+        "Low": 690.1,
+        "Close": 691.1,
+        "Percent Change": -0.55,
+        "Volume": 15828.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-20",
+        "Open": 673.3,
+        "High": 694.9,
+        "Low": 673.3,
+        "Close": 694.9,
+        "Percent Change": 1.47,
+        "Volume": 14166.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-19",
+        "Open": 689.5,
+        "High": 710.0,
+        "Low": 675.0,
+        "Close": 684.8,
+        "Percent Change": 1.3,
+        "Volume": 6068.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-18",
+        "Open": 685.0,
+        "High": 694.0,
+        "Low": 676.0,
+        "Close": 676.0,
+        "Percent Change": -1.6,
+        "Volume": 10484.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-16",
+        "Open": 695.0,
+        "High": 704.9,
+        "Low": 687.0,
+        "Close": 687.0,
+        "Percent Change": -1.43,
+        "Volume": 8201.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-13",
+        "Open": 704.9,
+        "High": 709.0,
+        "Low": 695.1,
+        "Close": 697.0,
+        "Percent Change": -1.13,
+        "Volume": 13383.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-12",
+        "Open": 711.0,
+        "High": 717.5,
+        "Low": 700.0,
+        "Close": 705.0,
+        "Percent Change": -1.25,
+        "Volume": 24909.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-11",
+        "Open": 700.0,
+        "High": 715.0,
+        "Low": 692.1,
+        "Close": 713.9,
+        "Percent Change": 2.45,
+        "Volume": 26556.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-10",
+        "Open": 679.0,
+        "High": 725.0,
+        "Low": 676.1,
+        "Close": 696.8,
+        "Percent Change": 2.47,
+        "Volume": 5733.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-09",
+        "Open": 671.6,
+        "High": 698.9,
+        "Low": 671.5,
+        "Close": 680.0,
+        "Percent Change": -0.76,
+        "Volume": 6196.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-06",
+        "Open": 688.0,
+        "High": 688.0,
+        "Low": 676.0,
+        "Close": 685.2,
+        "Percent Change": 1.06,
+        "Volume": 14358.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-05",
+        "Open": 680.0,
+        "High": 685.0,
+        "Low": 677.1,
+        "Close": 678.0,
+        "Percent Change": -1.45,
+        "Volume": 3605.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-04",
+        "Open": 684.0,
+        "High": 694.9,
+        "Low": 681.1,
+        "Close": 688.0,
+        "Percent Change": 0.73,
+        "Volume": 14292.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-03",
+        "Open": 690.0,
+        "High": 690.0,
+        "Low": 677.6,
+        "Close": 683.0,
+        "Percent Change": -1.01,
+        "Volume": 6939.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-06-02",
+        "Open": 681.0,
+        "High": 704.0,
+        "Low": 679.0,
+        "Close": 690.0,
+        "Percent Change": 1.46,
+        "Volume": 9721.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-30",
+        "Open": 680.1,
+        "High": 691.0,
+        "Low": 680.1,
+        "Close": 680.1,
+        "Percent Change": -1.86,
+        "Volume": 7765.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-29",
+        "Open": 715.0,
+        "High": 715.0,
+        "Low": 688.0,
+        "Close": 693.0,
+        "Percent Change": -1.56,
+        "Volume": 10748.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-27",
+        "Open": 702.0,
+        "High": 707.0,
+        "Low": 696.0,
+        "Close": 704.0,
+        "Percent Change": 0.28,
+        "Volume": 12053.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-26",
+        "Open": 700.7,
+        "High": 708.9,
+        "Low": 700.7,
+        "Close": 702.0,
+        "Percent Change": -1.82,
+        "Volume": 8243.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-22",
+        "Open": 704.1,
+        "High": 715.0,
+        "Low": 704.1,
+        "Close": 715.0,
+        "Percent Change": 0.01,
+        "Volume": 22512.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-21",
+        "Open": 705.0,
+        "High": 719.0,
+        "Low": 703.3,
+        "Close": 714.9,
+        "Percent Change": -0.01,
+        "Volume": 12011.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-20",
+        "Open": 715.0,
+        "High": 722.8,
+        "Low": 710.0,
+        "Close": 715.0,
+        "Percent Change": 0.42,
+        "Volume": 27497.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-19",
+        "Open": 694.6,
+        "High": 722.0,
+        "Low": 694.6,
+        "Close": 712.0,
+        "Percent Change": 4.55,
+        "Volume": 46847.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-16",
+        "Open": 685.0,
+        "High": 689.0,
+        "Low": 675.0,
+        "Close": 681.0,
+        "Percent Change": -1.62,
+        "Volume": 6083.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-15",
+        "Open": 714.9,
+        "High": 719.0,
+        "Low": 690.0,
+        "Close": 692.2,
+        "Percent Change": -1.82,
+        "Volume": 22917.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-14",
+        "Open": 681.8,
+        "High": 723.0,
+        "Low": 675.0,
+        "Close": 705.0,
+        "Percent Change": 5.22,
+        "Volume": 14550.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-13",
+        "Open": 672.9,
+        "High": 679.6,
+        "Low": 661.0,
+        "Close": 670.0,
+        "Percent Change": 1.52,
+        "Volume": 9283.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-12",
+        "Open": 646.9,
+        "High": 672.1,
+        "Low": 644.9,
+        "Close": 660.0,
+        "Percent Change": 4.02,
+        "Volume": 18590.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-09",
+        "Open": 632.0,
+        "High": 634.5,
+        "Low": 624.0,
+        "Close": 634.5,
+        "Percent Change": 0.4,
+        "Volume": 10538.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-08",
+        "Open": 629.0,
+        "High": 633.0,
+        "Low": 629.0,
+        "Close": 632.0,
+        "Percent Change": 0.51,
+        "Volume": 2211.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-07",
+        "Open": 620.2,
+        "High": 642.6,
+        "Low": 620.2,
+        "Close": 628.8,
+        "Percent Change": -0.19,
+        "Volume": 4030.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-06",
+        "Open": 630.0,
+        "High": 640.0,
+        "Low": 627.0,
+        "Close": 630.0,
+        "Percent Change": -1.42,
+        "Volume": 8552.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-05",
+        "Open": 644.9,
+        "High": 645.0,
+        "Low": 639.1,
+        "Close": 639.1,
+        "Percent Change": -0.76,
+        "Volume": 8572.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-05-02",
+        "Open": 652.0,
+        "High": 652.0,
+        "Low": 635.1,
+        "Close": 644.0,
+        "Percent Change": -1.23,
+        "Volume": 9280.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-30",
+        "Open": 625.0,
+        "High": 663.0,
+        "Low": 615.5,
+        "Close": 652.0,
+        "Percent Change": 4.32,
+        "Volume": 10879.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-29",
+        "Open": 615.2,
+        "High": 626.9,
+        "Low": 615.2,
+        "Close": 625.0,
+        "Percent Change": 0.81,
+        "Volume": 5011.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-28",
+        "Open": 613.0,
+        "High": 625.2,
+        "Low": 613.0,
+        "Close": 620.0,
+        "Percent Change": 1.14,
+        "Volume": 3281.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-25",
+        "Open": 614.0,
+        "High": 614.0,
+        "Low": 605.1,
+        "Close": 613.0,
+        "Percent Change": 1.83,
+        "Volume": 6336.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-24",
+        "Open": 610.0,
+        "High": 622.0,
+        "Low": 602.0,
+        "Close": 602.0,
+        "Percent Change": -1.41,
+        "Volume": 7029.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-22",
+        "Open": 634.0,
+        "High": 634.0,
+        "Low": 610.6,
+        "Close": 610.6,
+        "Percent Change": -3.08,
+        "Volume": 13152.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-21",
+        "Open": 630.0,
+        "High": 631.0,
+        "Low": 625.0,
+        "Close": 630.0,
+        "Percent Change": -0.63,
+        "Volume": 5806.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-18",
+        "Open": 630.1,
+        "High": 635.0,
+        "Low": 625.0,
+        "Close": 634.0,
+        "Percent Change": -0.84,
+        "Volume": 3727.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-16",
+        "Open": 636.0,
+        "High": 645.0,
+        "Low": 632.1,
+        "Close": 639.4,
+        "Percent Change": -0.42,
+        "Volume": 12293.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-15",
+        "Open": 666.0,
+        "High": 666.0,
+        "Low": 640.0,
+        "Close": 642.1,
+        "Percent Change": -2.04,
+        "Volume": 3899.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-14",
+        "Open": 651.3,
+        "High": 661.0,
+        "Low": 650.5,
+        "Close": 655.5,
+        "Percent Change": -0.83,
+        "Volume": 3549.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-10",
+        "Open": 657.8,
+        "High": 666.5,
+        "Low": 657.2,
+        "Close": 661.0,
+        "Percent Change": -0.9,
+        "Volume": 5251.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-09",
+        "Open": 669.0,
+        "High": 675.0,
+        "Low": 662.4,
+        "Close": 667.0,
+        "Percent Change": -0.3,
+        "Volume": 12203.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-07",
+        "Open": 665.0,
+        "High": 670.0,
+        "Low": 662.0,
+        "Close": 669.0,
+        "Percent Change": -0.3,
+        "Volume": 3502.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-04",
+        "Open": 670.0,
+        "High": 673.1,
+        "Low": 669.0,
+        "Close": 671.0,
+        "Percent Change": 0.9,
+        "Volume": 10910.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-03",
+        "Open": 660.0,
+        "High": 670.0,
+        "Low": 656.3,
+        "Close": 665.0,
+        "Percent Change": 1.06,
+        "Volume": 7611.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-02",
+        "Open": 657.0,
+        "High": 660.0,
+        "Low": 652.1,
+        "Close": 658.0,
+        "Percent Change": 0.15,
+        "Volume": 8098.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-04-01",
+        "Open": 650.0,
+        "High": 662.0,
+        "Low": 650.0,
+        "Close": 657.0,
+        "Percent Change": 0.58,
+        "Volume": 4609.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-31",
+        "Open": 652.0,
+        "High": 664.9,
+        "Low": 652.0,
+        "Close": 653.2,
+        "Percent Change": -0.29,
+        "Volume": 9828.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-28",
+        "Open": 651.6,
+        "High": 664.6,
+        "Low": 651.6,
+        "Close": 655.1,
+        "Percent Change": -1.04,
+        "Volume": 6833.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-27",
+        "Open": 670.0,
+        "High": 670.0,
+        "Low": 661.1,
+        "Close": 662.0,
+        "Percent Change": -0.87,
+        "Volume": 6113.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-26",
+        "Open": 671.0,
+        "High": 671.0,
+        "Low": 665.0,
+        "Close": 667.8,
+        "Percent Change": -0.48,
+        "Volume": 2349.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-25",
+        "Open": 676.0,
+        "High": 680.0,
+        "Low": 666.0,
+        "Close": 671.0,
+        "Percent Change": -1.18,
+        "Volume": 8900.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-21",
+        "Open": 681.1,
+        "High": 690.1,
+        "Low": 679.0,
+        "Close": 679.0,
+        "Percent Change": -1.59,
+        "Volume": 6275.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-20",
+        "Open": 681.0,
+        "High": 697.9,
+        "Low": 681.0,
+        "Close": 690.0,
+        "Percent Change": 0.44,
+        "Volume": 5015.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-19",
+        "Open": 681.0,
+        "High": 694.0,
+        "Low": 681.0,
+        "Close": 687.0,
+        "Percent Change": 0.73,
+        "Volume": 4011.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-18",
+        "Open": 690.0,
+        "High": 699.0,
+        "Low": 681.3,
+        "Close": 682.0,
+        "Percent Change": -1.52,
+        "Volume": 1353.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-17",
+        "Open": 684.0,
+        "High": 695.0,
+        "Low": 684.0,
+        "Close": 692.5,
+        "Percent Change": 0.35,
+        "Volume": 7250.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-14",
+        "Open": 701.9,
+        "High": 704.0,
+        "Low": 690.0,
+        "Close": 690.1,
+        "Percent Change": -1.85,
+        "Volume": 5796.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-13",
+        "Open": 710.0,
+        "High": 710.0,
+        "Low": 691.2,
+        "Close": 703.1,
+        "Percent Change": -0.27,
+        "Volume": 7647.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-12",
+        "Open": 691.5,
+        "High": 705.3,
+        "Low": 680.3,
+        "Close": 705.0,
+        "Percent Change": 3.98,
+        "Volume": 12046.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-10",
+        "Open": 666.0,
+        "High": 688.0,
+        "Low": 666.0,
+        "Close": 678.0,
+        "Percent Change": 2.12,
+        "Volume": 16121.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-07",
+        "Open": 664.0,
+        "High": 664.0,
+        "Low": 656.0,
+        "Close": 663.9,
+        "Percent Change": 1.67,
+        "Volume": 7708.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-06",
+        "Open": 659.0,
+        "High": 659.0,
+        "Low": 652.0,
+        "Close": 653.0,
+        "Percent Change": 0.08,
+        "Volume": 9349.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-05",
+        "Open": 670.0,
+        "High": 670.0,
+        "Low": 643.0,
+        "Close": 652.5,
+        "Percent Change": -1.58,
+        "Volume": 7390.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-04",
+        "Open": 650.0,
+        "High": 663.0,
+        "Low": 650.0,
+        "Close": 663.0,
+        "Percent Change": 3.92,
+        "Volume": 150.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-03-03",
+        "Open": 631.1,
+        "High": 638.0,
+        "Low": 624.3,
+        "Close": 638.0,
+        "Percent Change": -0.31,
+        "Volume": 6086.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-29",
+        "Open": 647.0,
+        "High": 655.0,
+        "Low": 640.0,
+        "Close": 640.0,
+        "Percent Change": -1.08,
+        "Volume": 10975.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-28",
+        "Open": 644.0,
+        "High": 649.0,
+        "Low": 642.0,
+        "Close": 647.0,
+        "Percent Change": -0.31,
+        "Volume": 3418.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-27",
+        "Open": 644.9,
+        "High": 650.0,
+        "Low": 632.1,
+        "Close": 649.0,
+        "Percent Change": -1.37,
+        "Volume": 14008.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-26",
+        "Open": 659.0,
+        "High": 659.0,
+        "Low": 646.0,
+        "Close": 658.0,
+        "Percent Change": -0.15,
+        "Volume": 6477.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-25",
+        "Open": 653.1,
+        "High": 661.0,
+        "Low": 651.0,
+        "Close": 659.0,
+        "Percent Change": 0.0,
+        "Volume": 3242.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-22",
+        "Open": 655.0,
+        "High": 676.2,
+        "Low": 655.0,
+        "Close": 659.0,
+        "Percent Change": -0.6,
+        "Volume": 6781.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-21",
+        "Open": 657.5,
+        "High": 680.0,
+        "Low": 657.5,
+        "Close": 663.0,
+        "Percent Change": -0.75,
+        "Volume": 3527.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-20",
+        "Open": 670.0,
+        "High": 675.0,
+        "Low": 660.0,
+        "Close": 668.0,
+        "Percent Change": 0.0,
+        "Volume": 13162.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-18",
+        "Open": 680.0,
+        "High": 683.0,
+        "Low": 667.0,
+        "Close": 668.0,
+        "Percent Change": -1.76,
+        "Volume": 4360.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-15",
+        "Open": 680.0,
+        "High": 685.0,
+        "Low": 677.2,
+        "Close": 680.0,
+        "Percent Change": 0.0,
+        "Volume": 7267.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-14",
+        "Open": 680.0,
+        "High": 692.0,
+        "Low": 680.0,
+        "Close": 680.0,
+        "Percent Change": -0.04,
+        "Volume": 8844.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-13",
+        "Open": 695.0,
+        "High": 695.0,
+        "Low": 680.0,
+        "Close": 680.3,
+        "Percent Change": -2.81,
+        "Volume": 6361.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-12",
+        "Open": 695.2,
+        "High": 705.5,
+        "Low": 691.2,
+        "Close": 700.0,
+        "Percent Change": 1.08,
+        "Volume": 11692.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-11",
+        "Open": 693.0,
+        "High": 700.0,
+        "Low": 689.0,
+        "Close": 692.5,
+        "Percent Change": 0.51,
+        "Volume": 7289.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-08",
+        "Open": 685.0,
+        "High": 690.0,
+        "Low": 685.0,
+        "Close": 689.0,
+        "Percent Change": 0.58,
+        "Volume": 2175.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-07",
+        "Open": 680.0,
+        "High": 687.9,
+        "Low": 679.0,
+        "Close": 685.0,
+        "Percent Change": 0.74,
+        "Volume": 4711.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-06",
+        "Open": 686.4,
+        "High": 686.4,
+        "Low": 673.0,
+        "Close": 680.0,
+        "Percent Change": 1.04,
+        "Volume": 6739.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-05",
+        "Open": 690.0,
+        "High": 691.0,
+        "Low": 671.0,
+        "Close": 673.0,
+        "Percent Change": -0.74,
+        "Volume": 7208.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-04",
+        "Open": 686.0,
+        "High": 686.0,
+        "Low": 677.0,
+        "Close": 678.0,
+        "Percent Change": -1.17,
+        "Volume": 4990.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-02-01",
+        "Open": 690.0,
+        "High": 690.0,
+        "Low": 675.4,
+        "Close": 686.0,
+        "Percent Change": -0.44,
+        "Volume": 11614.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-31",
+        "Open": 710.0,
+        "High": 710.0,
+        "Low": 685.1,
+        "Close": 689.0,
+        "Percent Change": -1.18,
+        "Volume": 4329.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-30",
+        "Open": 709.0,
+        "High": 709.0,
+        "Low": 697.2,
+        "Close": 697.2,
+        "Percent Change": -0.13,
+        "Volume": 7595.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-29",
+        "Open": 693.0,
+        "High": 706.0,
+        "Low": 693.0,
+        "Close": 698.1,
+        "Percent Change": 0.27,
+        "Volume": 8207.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-28",
+        "Open": 714.0,
+        "High": 725.0,
+        "Low": 696.2,
+        "Close": 696.2,
+        "Percent Change": -0.54,
+        "Volume": 2055.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-25",
+        "Open": 702.0,
+        "High": 702.0,
+        "Low": 692.0,
+        "Close": 700.0,
+        "Percent Change": -0.16,
+        "Volume": 6598.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-24",
+        "Open": 715.0,
+        "High": 715.0,
+        "Low": 701.1,
+        "Close": 701.1,
+        "Percent Change": -0.27,
+        "Volume": 7352.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-23",
+        "Open": 701.0,
+        "High": 719.0,
+        "Low": 698.2,
+        "Close": 703.0,
+        "Percent Change": -0.69,
+        "Volume": 14032.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-22",
+        "Open": 710.0,
+        "High": 710.0,
+        "Low": 703.2,
+        "Close": 707.9,
+        "Percent Change": 0.13,
+        "Volume": 12265.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-21",
+        "Open": 708.1,
+        "High": 719.0,
+        "Low": 702.5,
+        "Close": 707.0,
+        "Percent Change": -1.26,
+        "Volume": 17063.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-18",
+        "Open": 710.0,
+        "High": 717.0,
+        "Low": 707.0,
+        "Close": 716.0,
+        "Percent Change": -0.42,
+        "Volume": 7391.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-17",
+        "Open": 705.6,
+        "High": 738.0,
+        "Low": 705.6,
+        "Close": 719.0,
+        "Percent Change": -0.14,
+        "Volume": 29702.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-16",
+        "Open": 724.0,
+        "High": 725.0,
+        "Low": 710.0,
+        "Close": 720.0,
+        "Percent Change": 0.84,
+        "Volume": 20282.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-14",
+        "Open": 732.0,
+        "High": 732.0,
+        "Low": 711.5,
+        "Close": 714.0,
+        "Percent Change": -0.7,
+        "Volume": 16113.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-11",
+        "Open": 718.9,
+        "High": 719.0,
+        "Low": 706.3,
+        "Close": 719.0,
+        "Percent Change": 0.01,
+        "Volume": 11355.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-10",
+        "Open": 710.0,
+        "High": 738.0,
+        "Low": 710.0,
+        "Close": 718.9,
+        "Percent Change": 1.25,
+        "Volume": 12998.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-09",
+        "Open": 716.9,
+        "High": 727.0,
+        "Low": 703.2,
+        "Close": 710.0,
+        "Percent Change": 1.0,
+        "Volume": 17137.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-08",
+        "Open": 716.5,
+        "High": 716.5,
+        "Low": 700.0,
+        "Close": 703.0,
+        "Percent Change": -0.71,
+        "Volume": 20450.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-07",
+        "Open": 727.0,
+        "High": 727.0,
+        "Low": 699.9,
+        "Close": 708.0,
+        "Percent Change": -1.21,
+        "Volume": 15483.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-04",
+        "Open": 725.0,
+        "High": 725.0,
+        "Low": 705.1,
+        "Close": 716.7,
+        "Percent Change": 0.8,
+        "Volume": 18579.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-03",
+        "Open": 708.0,
+        "High": 715.0,
+        "Low": 700.0,
+        "Close": 711.0,
+        "Percent Change": 0.3,
+        "Volume": 6981.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-02",
+        "Open": 707.0,
+        "High": 720.0,
+        "Low": 700.0,
+        "Close": 708.9,
+        "Percent Change": -0.99,
+        "Volume": 22828.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2024-01-01",
+        "Open": 720.0,
+        "High": 734.0,
+        "Low": 715.3,
+        "Close": 716.0,
+        "Percent Change": -0.28,
+        "Volume": 20759.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-28",
+        "Open": 705.0,
+        "High": 729.9,
+        "Low": 705.0,
+        "Close": 718.0,
+        "Percent Change": 0.01,
+        "Volume": 16561.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-27",
+        "Open": 706.0,
+        "High": 725.0,
+        "Low": 703.6,
+        "Close": 717.9,
+        "Percent Change": 0.41,
+        "Volume": 18247.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-24",
+        "Open": 727.9,
+        "High": 727.9,
+        "Low": 708.0,
+        "Close": 715.0,
+        "Percent Change": -0.97,
+        "Volume": 13227.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-21",
+        "Open": 732.2,
+        "High": 744.0,
+        "Low": 718.0,
+        "Close": 722.0,
+        "Percent Change": -2.68,
+        "Volume": 12802.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-20",
+        "Open": 732.1,
+        "High": 754.0,
+        "Low": 732.0,
+        "Close": 741.9,
+        "Percent Change": -0.55,
+        "Volume": 34428.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-19",
+        "Open": 728.0,
+        "High": 750.0,
+        "Low": 727.0,
+        "Close": 746.0,
+        "Percent Change": 1.23,
+        "Volume": 32192.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-18",
+        "Open": 735.0,
+        "High": 744.0,
+        "Low": 722.1,
+        "Close": 736.9,
+        "Percent Change": 2.21,
+        "Volume": 23435.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-17",
+        "Open": 721.0,
+        "High": 730.0,
+        "Low": 707.0,
+        "Close": 721.0,
+        "Percent Change": 0.0,
+        "Volume": 10743.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-14",
+        "Open": 715.0,
+        "High": 730.0,
+        "Low": 696.0,
+        "Close": 721.0,
+        "Percent Change": -1.1,
+        "Volume": 15660.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-13",
+        "Open": 745.0,
+        "High": 745.0,
+        "Low": 721.1,
+        "Close": 729.0,
+        "Percent Change": -1.49,
+        "Volume": 18540.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-12",
+        "Open": 715.0,
+        "High": 741.0,
+        "Low": 715.0,
+        "Close": 740.0,
+        "Percent Change": 2.78,
+        "Volume": 47626.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-11",
+        "Open": 727.2,
+        "High": 727.2,
+        "Low": 696.0,
+        "Close": 720.0,
+        "Percent Change": 0.98,
+        "Volume": 37663.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-10",
+        "Open": 687.4,
+        "High": 713.0,
+        "Low": 687.4,
+        "Close": 713.0,
+        "Percent Change": 5.79,
+        "Volume": 1580.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-07",
+        "Open": 665.0,
+        "High": 691.0,
+        "Low": 656.0,
+        "Close": 674.0,
+        "Percent Change": 2.15,
+        "Volume": 19960.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-06",
+        "Open": 659.9,
+        "High": 659.9,
+        "Low": 652.0,
+        "Close": 659.8,
+        "Percent Change": -0.03,
+        "Volume": 120.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-05",
+        "Open": 665.0,
+        "High": 668.0,
+        "Low": 649.9,
+        "Close": 660.0,
+        "Percent Change": -0.75,
+        "Volume": 6999.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-04",
+        "Open": 651.1,
+        "High": 669.0,
+        "Low": 650.0,
+        "Close": 665.0,
+        "Percent Change": 0.76,
+        "Volume": 3067.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-12-03",
+        "Open": 666.0,
+        "High": 666.0,
+        "Low": 658.4,
+        "Close": 660.0,
+        "Percent Change": -0.15,
+        "Volume": 2717.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-30",
+        "Open": 674.0,
+        "High": 674.0,
+        "Low": 656.0,
+        "Close": 661.0,
+        "Percent Change": -0.45,
+        "Volume": 5953.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-29",
+        "Open": 666.0,
+        "High": 670.0,
+        "Low": 653.0,
+        "Close": 664.0,
+        "Percent Change": -0.3,
+        "Volume": 6598.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-28",
+        "Open": 683.4,
+        "High": 685.0,
+        "Low": 658.0,
+        "Close": 666.0,
+        "Percent Change": -0.6,
+        "Volume": 5349.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-27",
+        "Open": 690.0,
+        "High": 693.5,
+        "Low": 670.0,
+        "Close": 670.0,
+        "Percent Change": -1.47,
+        "Volume": 9373.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-26",
+        "Open": 665.0,
+        "High": 684.4,
+        "Low": 665.0,
+        "Close": 680.0,
+        "Percent Change": 3.03,
+        "Volume": 7038.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-23",
+        "Open": 650.0,
+        "High": 674.5,
+        "Low": 641.0,
+        "Close": 660.0,
+        "Percent Change": 1.54,
+        "Volume": 5415.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-22",
+        "Open": 645.0,
+        "High": 658.9,
+        "Low": 645.0,
+        "Close": 650.0,
+        "Percent Change": 0.62,
+        "Volume": 1782.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-21",
+        "Open": 650.0,
+        "High": 653.0,
+        "Low": 645.0,
+        "Close": 646.0,
+        "Percent Change": -1.82,
+        "Volume": 2560.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-20",
+        "Open": 663.0,
+        "High": 663.0,
+        "Low": 650.0,
+        "Close": 658.0,
+        "Percent Change": 1.23,
+        "Volume": 4474.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-09",
+        "Open": 664.0,
+        "High": 669.9,
+        "Low": 640.0,
+        "Close": 650.0,
+        "Percent Change": -0.15,
+        "Volume": 7234.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-08",
+        "Open": 643.5,
+        "High": 690.0,
+        "Low": 643.5,
+        "Close": 651.0,
+        "Percent Change": -0.44,
+        "Volume": 5727.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-07",
+        "Open": 652.0,
+        "High": 683.4,
+        "Low": 642.0,
+        "Close": 653.9,
+        "Percent Change": 0.91,
+        "Volume": 3795.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-06",
+        "Open": 631.0,
+        "High": 650.0,
+        "Low": 631.0,
+        "Close": 648.0,
+        "Percent Change": 1.41,
+        "Volume": 15343.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-05",
+        "Open": 651.0,
+        "High": 653.0,
+        "Low": 635.1,
+        "Close": 639.0,
+        "Percent Change": -1.84,
+        "Volume": 13728.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-02",
+        "Open": 659.8,
+        "High": 660.0,
+        "Low": 651.0,
+        "Close": 651.0,
+        "Percent Change": -1.21,
+        "Volume": 8482.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-11-01",
+        "Open": 663.0,
+        "High": 665.0,
+        "Low": 654.1,
+        "Close": 659.0,
+        "Percent Change": -0.53,
+        "Volume": 4832.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-31",
+        "Open": 665.1,
+        "High": 666.0,
+        "Low": 662.2,
+        "Close": 662.5,
+        "Percent Change": -1.85,
+        "Volume": 3411.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-30",
+        "Open": 665.0,
+        "High": 675.0,
+        "Low": 652.0,
+        "Close": 675.0,
+        "Percent Change": 0.0,
+        "Volume": 11435.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-29",
+        "Open": 680.0,
+        "High": 680.0,
+        "Low": 668.0,
+        "Close": 675.0,
+        "Percent Change": -2.02,
+        "Volume": 8903.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-19",
+        "Open": 680.0,
+        "High": 691.0,
+        "Low": 680.0,
+        "Close": 688.9,
+        "Percent Change": 0.13,
+        "Volume": 8551.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-18",
+        "Open": 664.0,
+        "High": 688.0,
+        "Low": 651.1,
+        "Close": 688.0,
+        "Percent Change": 4.88,
+        "Volume": 14278.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-17",
+        "Open": 666.0,
+        "High": 680.0,
+        "Low": 653.0,
+        "Close": 656.0,
+        "Percent Change": -0.15,
+        "Volume": 7257.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-16",
+        "Open": 656.6,
+        "High": 674.0,
+        "Low": 655.0,
+        "Close": 657.0,
+        "Percent Change": -1.94,
+        "Volume": 11713.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-12",
+        "Open": 677.0,
+        "High": 685.0,
+        "Low": 670.0,
+        "Close": 670.0,
+        "Percent Change": -2.62,
+        "Volume": 12919.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-11",
+        "Open": 667.0,
+        "High": 691.0,
+        "Low": 667.0,
+        "Close": 688.0,
+        "Percent Change": 1.18,
+        "Volume": 8857.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-10",
+        "Open": 668.1,
+        "High": 680.0,
+        "Low": 668.0,
+        "Close": 680.0,
+        "Percent Change": 0.0,
+        "Volume": 7162.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-09",
+        "Open": 703.9,
+        "High": 703.9,
+        "Low": 676.2,
+        "Close": 680.0,
+        "Percent Change": -1.59,
+        "Volume": 11018.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-08",
+        "Open": 704.0,
+        "High": 704.0,
+        "Low": 678.0,
+        "Close": 691.0,
+        "Percent Change": -1.99,
+        "Volume": 14958.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-05",
+        "Open": 709.0,
+        "High": 709.0,
+        "Low": 703.7,
+        "Close": 705.0,
+        "Percent Change": -0.84,
+        "Volume": 14934.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-04",
+        "Open": 717.9,
+        "High": 717.9,
+        "Low": 697.0,
+        "Close": 711.0,
+        "Percent Change": 0.99,
+        "Volume": 12753.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-03",
+        "Open": 708.0,
+        "High": 708.0,
+        "Low": 699.1,
+        "Close": 704.0,
+        "Percent Change": 0.13,
+        "Volume": 4648.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-02",
+        "Open": 697.1,
+        "High": 708.0,
+        "Low": 697.1,
+        "Close": 703.1,
+        "Percent Change": 0.11,
+        "Volume": 12069.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-10-01",
+        "Open": 714.9,
+        "High": 714.9,
+        "Low": 702.3,
+        "Close": 702.3,
+        "Percent Change": -1.01,
+        "Volume": 9428.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-27",
+        "Open": 721.0,
+        "High": 721.0,
+        "Low": 709.5,
+        "Close": 709.5,
+        "Percent Change": -0.21,
+        "Volume": 5482.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-26",
+        "Open": 715.0,
+        "High": 719.0,
+        "Low": 707.2,
+        "Close": 711.0,
+        "Percent Change": -0.55,
+        "Volume": 4709.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-25",
+        "Open": 717.0,
+        "High": 717.0,
+        "Low": 704.0,
+        "Close": 714.9,
+        "Percent Change": -0.29,
+        "Volume": 12449.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-24",
+        "Open": 722.9,
+        "High": 724.9,
+        "Low": 715.0,
+        "Close": 717.0,
+        "Percent Change": -0.83,
+        "Volume": 5667.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-21",
+        "Open": 730.0,
+        "High": 732.0,
+        "Low": 723.0,
+        "Close": 723.0,
+        "Percent Change": 0.71,
+        "Volume": 19402.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-19",
+        "Open": 715.1,
+        "High": 718.0,
+        "Low": 711.3,
+        "Close": 717.9,
+        "Percent Change": 0.39,
+        "Volume": 1982.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-18",
+        "Open": 703.3,
+        "High": 722.0,
+        "Low": 703.3,
+        "Close": 715.1,
+        "Percent Change": 0.17,
+        "Volume": 9023.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-17",
+        "Open": 725.0,
+        "High": 725.0,
+        "Low": 713.0,
+        "Close": 713.9,
+        "Percent Change": -1.53,
+        "Volume": 9724.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-13",
+        "Open": 710.0,
+        "High": 725.9,
+        "Low": 707.0,
+        "Close": 725.0,
+        "Percent Change": 1.68,
+        "Volume": 23459.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-12",
+        "Open": 702.0,
+        "High": 724.0,
+        "Low": 702.0,
+        "Close": 713.0,
+        "Percent Change": 0.66,
+        "Volume": 11658.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-11",
+        "Open": 692.3,
+        "High": 716.0,
+        "Low": 692.3,
+        "Close": 708.3,
+        "Percent Change": 2.31,
+        "Volume": 5312.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-10",
+        "Open": 685.1,
+        "High": 698.5,
+        "Low": 685.0,
+        "Close": 692.3,
+        "Percent Change": -0.39,
+        "Volume": 3720.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-07",
+        "Open": 689.1,
+        "High": 699.7,
+        "Low": 687.0,
+        "Close": 695.0,
+        "Percent Change": 0.0,
+        "Volume": 4103.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-05",
+        "Open": 696.6,
+        "High": 707.9,
+        "Low": 695.0,
+        "Close": 695.0,
+        "Percent Change": -1.68,
+        "Volume": 3171.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-04",
+        "Open": 700.0,
+        "High": 711.0,
+        "Low": 696.1,
+        "Close": 706.9,
+        "Percent Change": 0.27,
+        "Volume": 4934.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-09-03",
+        "Open": 704.0,
+        "High": 705.0,
+        "Low": 695.1,
+        "Close": 705.0,
+        "Percent Change": -1.01,
+        "Volume": 14226.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-30",
+        "Open": 721.0,
+        "High": 721.0,
+        "Low": 712.1,
+        "Close": 712.2,
+        "Percent Change": -0.53,
+        "Volume": 7304.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-29",
+        "Open": 707.0,
+        "High": 717.9,
+        "Low": 707.0,
+        "Close": 716.0,
+        "Percent Change": 1.56,
+        "Volume": 10896.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-28",
+        "Open": 705.0,
+        "High": 713.0,
+        "Low": 701.2,
+        "Close": 705.0,
+        "Percent Change": 0.14,
+        "Volume": 5967.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-27",
+        "Open": 700.0,
+        "High": 710.0,
+        "Low": 696.8,
+        "Close": 704.0,
+        "Percent Change": -0.98,
+        "Volume": 5914.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-24",
+        "Open": 733.0,
+        "High": 733.0,
+        "Low": 710.2,
+        "Close": 711.0,
+        "Percent Change": -1.93,
+        "Volume": 9868.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-23",
+        "Open": 711.0,
+        "High": 730.0,
+        "Low": 711.0,
+        "Close": 725.0,
+        "Percent Change": 1.4,
+        "Volume": 16439.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-22",
+        "Open": 710.0,
+        "High": 719.0,
+        "Low": 701.2,
+        "Close": 715.0,
+        "Percent Change": 0.7,
+        "Volume": 11970.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-21",
+        "Open": 722.0,
+        "High": 735.0,
+        "Low": 710.0,
+        "Close": 710.0,
+        "Percent Change": -1.66,
+        "Volume": 6388.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-20",
+        "Open": 723.2,
+        "High": 736.0,
+        "Low": 711.0,
+        "Close": 722.0,
+        "Percent Change": -1.26,
+        "Volume": 14445.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-17",
+        "Open": 725.0,
+        "High": 740.0,
+        "Low": 725.0,
+        "Close": 731.2,
+        "Percent Change": 0.86,
+        "Volume": 9598.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-16",
+        "Open": 730.0,
+        "High": 733.0,
+        "Low": 715.0,
+        "Close": 725.0,
+        "Percent Change": 0.0,
+        "Volume": 14979.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-15",
+        "Open": 721.3,
+        "High": 743.9,
+        "Low": 720.0,
+        "Close": 725.0,
+        "Percent Change": -1.49,
+        "Volume": 11958.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-14",
+        "Open": 740.0,
+        "High": 745.0,
+        "Low": 735.0,
+        "Close": 736.0,
+        "Percent Change": -0.54,
+        "Volume": 20202.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-13",
+        "Open": 716.0,
+        "High": 740.0,
+        "Low": 716.0,
+        "Close": 740.0,
+        "Percent Change": 2.21,
+        "Volume": 16096.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-10",
+        "Open": 700.1,
+        "High": 729.0,
+        "Low": 700.0,
+        "Close": 724.0,
+        "Percent Change": 3.43,
+        "Volume": 16859.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-09",
+        "Open": 670.0,
+        "High": 705.0,
+        "Low": 670.0,
+        "Close": 700.0,
+        "Percent Change": 2.49,
+        "Volume": 5308.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-08",
+        "Open": 696.0,
+        "High": 696.0,
+        "Low": 670.0,
+        "Close": 683.0,
+        "Percent Change": -1.16,
+        "Volume": 6093.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-07",
+        "Open": 672.0,
+        "High": 692.0,
+        "Low": 660.0,
+        "Close": 691.0,
+        "Percent Change": 0.88,
+        "Volume": 5675.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-06",
+        "Open": 693.5,
+        "High": 700.0,
+        "Low": 680.0,
+        "Close": 685.0,
+        "Percent Change": -2.84,
+        "Volume": 13925.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-03",
+        "Open": 720.0,
+        "High": 736.0,
+        "Low": 701.0,
+        "Close": 705.0,
+        "Percent Change": -1.38,
+        "Volume": 14121.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-02",
+        "Open": 710.0,
+        "High": 719.0,
+        "Low": 701.0,
+        "Close": 714.9,
+        "Percent Change": 0.97,
+        "Volume": 9203.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-08-01",
+        "Open": 735.0,
+        "High": 746.0,
+        "Low": 700.8,
+        "Close": 708.0,
+        "Percent Change": -3.48,
+        "Volume": 7828.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-31",
+        "Open": 745.0,
+        "High": 749.0,
+        "Low": 733.5,
+        "Close": 733.5,
+        "Percent Change": -0.47,
+        "Volume": 12298.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-30",
+        "Open": 758.0,
+        "High": 759.0,
+        "Low": 730.0,
+        "Close": 737.0,
+        "Percent Change": -1.07,
+        "Volume": 22638.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-27",
+        "Open": 740.1,
+        "High": 756.0,
+        "Low": 740.1,
+        "Close": 745.0,
+        "Percent Change": -0.53,
+        "Volume": 30389.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-26",
+        "Open": 759.0,
+        "High": 759.7,
+        "Low": 746.6,
+        "Close": 749.0,
+        "Percent Change": -1.45,
+        "Volume": 4971.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-25",
+        "Open": 760.0,
+        "High": 782.0,
+        "Low": 752.0,
+        "Close": 760.0,
+        "Percent Change": -1.3,
+        "Volume": 17512.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-24",
+        "Open": 766.0,
+        "High": 780.0,
+        "Low": 762.0,
+        "Close": 770.0,
+        "Percent Change": -0.01,
+        "Volume": 18102.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-23",
+        "Open": 781.0,
+        "High": 782.4,
+        "Low": 766.0,
+        "Close": 770.1,
+        "Percent Change": 0.26,
+        "Volume": 21026.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-20",
+        "Open": 789.0,
+        "High": 789.0,
+        "Low": 766.0,
+        "Close": 768.1,
+        "Percent Change": -0.76,
+        "Volume": 14725.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-19",
+        "Open": 777.0,
+        "High": 789.8,
+        "Low": 767.5,
+        "Close": 774.0,
+        "Percent Change": -0.77,
+        "Volume": 29080.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-18",
+        "Open": 780.0,
+        "High": 790.0,
+        "Low": 771.0,
+        "Close": 780.0,
+        "Percent Change": 1.96,
+        "Volume": 41317.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-17",
+        "Open": 760.0,
+        "High": 770.0,
+        "Low": 741.0,
+        "Close": 765.0,
+        "Percent Change": 2.27,
+        "Volume": 20219.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-16",
+        "Open": 750.0,
+        "High": 750.0,
+        "Low": 743.3,
+        "Close": 748.0,
+        "Percent Change": -0.27,
+        "Volume": 16740.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-13",
+        "Open": 751.0,
+        "High": 770.0,
+        "Low": 741.4,
+        "Close": 750.0,
+        "Percent Change": -1.06,
+        "Volume": 34844.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-12",
+        "Open": 750.0,
+        "High": 765.0,
+        "Low": 743.0,
+        "Close": 758.0,
+        "Percent Change": 1.49,
+        "Volume": 47558.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-11",
+        "Open": 727.0,
+        "High": 750.0,
+        "Low": 727.0,
+        "Close": 746.9,
+        "Percent Change": 1.48,
+        "Volume": 32560.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-10",
+        "Open": 745.0,
+        "High": 752.0,
+        "Low": 733.5,
+        "Close": 736.0,
+        "Percent Change": 0.53,
+        "Volume": 35209.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-09",
+        "Open": 747.8,
+        "High": 747.8,
+        "Low": 730.0,
+        "Close": 732.1,
+        "Percent Change": -0.15,
+        "Volume": 51779.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-06",
+        "Open": 738.0,
+        "High": 747.9,
+        "Low": 726.3,
+        "Close": 733.2,
+        "Percent Change": -0.85,
+        "Volume": 31245.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-05",
+        "Open": 739.0,
+        "High": 750.0,
+        "Low": 739.0,
+        "Close": 739.5,
+        "Percent Change": -1.66,
+        "Volume": 34776.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-04",
+        "Open": 760.3,
+        "High": 770.0,
+        "Low": 746.1,
+        "Close": 752.0,
+        "Percent Change": -0.79,
+        "Volume": 37118.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-03",
+        "Open": 772.0,
+        "High": 776.0,
+        "Low": 752.0,
+        "Close": 758.0,
+        "Percent Change": -2.18,
+        "Volume": 67716.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-07-02",
+        "Open": 770.0,
+        "High": 790.0,
+        "Low": 755.0,
+        "Close": 774.9,
+        "Percent Change": 1.29,
+        "Volume": 43506.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-28",
+        "Open": 757.2,
+        "High": 785.0,
+        "Low": 747.0,
+        "Close": 765.0,
+        "Percent Change": -0.89,
+        "Volume": 35448.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-27",
+        "Open": 770.0,
+        "High": 786.0,
+        "Low": 767.0,
+        "Close": 771.9,
+        "Percent Change": -0.53,
+        "Volume": 29547.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-26",
+        "Open": 800.0,
+        "High": 805.0,
+        "Low": 776.0,
+        "Close": 776.0,
+        "Percent Change": -1.51,
+        "Volume": 44642.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-25",
+        "Open": 767.0,
+        "High": 800.0,
+        "Low": 764.9,
+        "Close": 787.9,
+        "Percent Change": 4.77,
+        "Volume": 72656.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-22",
+        "Open": 745.7,
+        "High": 759.8,
+        "Low": 735.0,
+        "Close": 752.0,
+        "Percent Change": 2.59,
+        "Volume": 27637.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-21",
+        "Open": 731.0,
+        "High": 749.9,
+        "Low": 731.0,
+        "Close": 733.0,
+        "Percent Change": 0.26,
+        "Volume": 32546.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-20",
+        "Open": 753.1,
+        "High": 774.0,
+        "Low": 726.3,
+        "Close": 731.1,
+        "Percent Change": -3.8,
+        "Volume": 32472.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-19",
+        "Open": 795.6,
+        "High": 795.6,
+        "Low": 751.0,
+        "Close": 760.0,
+        "Percent Change": -2.56,
+        "Volume": 30787.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-18",
+        "Open": 753.9,
+        "High": 784.9,
+        "Low": 740.0,
+        "Close": 780.0,
+        "Percent Change": 5.41,
+        "Volume": 54204.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-15",
+        "Open": 729.9,
+        "High": 745.0,
+        "Low": 720.0,
+        "Close": 740.0,
+        "Percent Change": 2.78,
+        "Volume": 26899.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-14",
+        "Open": 738.8,
+        "High": 745.0,
+        "Low": 715.0,
+        "Close": 720.0,
+        "Percent Change": -1.22,
+        "Volume": 44792.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-13",
+        "Open": 690.0,
+        "High": 740.0,
+        "Low": 690.0,
+        "Close": 728.9,
+        "Percent Change": 3.54,
+        "Volume": 53143.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-12",
+        "Open": 718.0,
+        "High": 718.0,
+        "Low": 700.0,
+        "Close": 704.0,
+        "Percent Change": -0.64,
+        "Volume": 48227.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-11",
+        "Open": 704.0,
+        "High": 708.5,
+        "Low": 694.3,
+        "Close": 708.5,
+        "Percent Change": 1.66,
+        "Volume": 41139.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-08",
+        "Open": 655.0,
+        "High": 696.9,
+        "Low": 650.0,
+        "Close": 696.9,
+        "Percent Change": 5.9,
+        "Volume": 49848.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-07",
+        "Open": 678.0,
+        "High": 678.0,
+        "Low": 658.0,
+        "Close": 658.1,
+        "Percent Change": -1.04,
+        "Volume": 31512.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-06",
+        "Open": 625.0,
+        "High": 666.0,
+        "Low": 624.2,
+        "Close": 665.0,
+        "Percent Change": 4.72,
+        "Volume": 29713.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-05",
+        "Open": 645.0,
+        "High": 650.0,
+        "Low": 635.0,
+        "Close": 635.0,
+        "Percent Change": -0.94,
+        "Volume": 17932.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-04",
+        "Open": 615.2,
+        "High": 650.0,
+        "Low": 615.2,
+        "Close": 641.0,
+        "Percent Change": 4.19,
+        "Volume": 14219.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-06-01",
+        "Open": 612.0,
+        "High": 628.0,
+        "Low": 594.1,
+        "Close": 615.2,
+        "Percent Change": 1.52,
+        "Volume": 16560.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-05-31",
+        "Open": 609.6,
+        "High": 640.0,
+        "Low": 597.8,
+        "Close": 606.0,
+        "Percent Change": -2.57,
+        "Volume": 49776.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-05-30",
+        "Open": 627.0,
+        "High": 632.9,
+        "Low": 608.0,
+        "Close": 622.0,
+        "Percent Change": -2.66,
+        "Volume": 34278.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-05-28",
+        "Open": 669.0,
+        "High": 669.0,
+        "Low": 633.0,
+        "Close": 639.0,
+        "Percent Change": -3.18,
+        "Volume": 33839.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-05-24",
+        "Open": 661.0,
+        "High": 665.0,
+        "Low": 647.0,
+        "Close": 660.0,
+        "Percent Change": 1.38,
+        "Volume": 23153.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-05-23",
+        "Open": 625.0,
+        "High": 665.0,
+        "Low": 625.0,
+        "Close": 651.0,
+        "Percent Change": 3.66,
+        "Volume": 28344.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-05-22",
+        "Open": 610.0,
+        "High": 629.0,
+        "Low": 606.0,
+        "Close": 628.0,
+        "Percent Change": 2.33,
+        "Volume": 12030.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-05-21",
+        "Open": 610.0,
+        "High": 618.0,
+        "Low": 600.0,
+        "Close": 613.7,
+        "Percent Change": 1.45,
+        "Volume": 21127.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-05-18",
+        "Open": 573.0,
+        "High": 606.0,
+        "Low": 573.0,
+        "Close": 604.9,
+        "Percent Change": 3.58,
+        "Volume": 41447.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-05-17",
+        "Open": 560.0,
+        "High": 584.0,
+        "Low": 560.0,
+        "Close": 584.0,
+        "Percent Change": 4.51,
+        "Volume": 19381.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-05-16",
+        "Open": 558.0,
+        "High": 564.0,
+        "Low": 551.4,
+        "Close": 558.8,
+        "Percent Change": -0.3,
+        "Volume": 14258.0
+    },
+    {
+        "Symbol": "SALICO",
+        "Date": "2023-05-15",
+        "Open": 611.1,
+        "High": 611.1,
+        "Low": 554.0,
+        "Close": 560.5,
+        "Percent Change": -0.06,
+        "Volume": 53417.0
+    }
+]

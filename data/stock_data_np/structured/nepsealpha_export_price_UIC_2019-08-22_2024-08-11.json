@@ -1,0 +1,8422 @@
+[
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-28",
+        "Open": 515.0,
+        "High": 515.0,
+        "Low": 515.0,
+        "Close": 515.0,
+        "Percent Change": -0.75,
+        "Volume": 150.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-24",
+        "Open": 478.3,
+        "High": 518.9,
+        "Low": 476.0,
+        "Close": 518.9,
+        "Percent Change": 6.33,
+        "Volume": 42167.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-23",
+        "Open": 470.0,
+        "High": 488.0,
+        "Low": 470.0,
+        "Close": 488.0,
+        "Percent Change": 4.3,
+        "Volume": 29122.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-22",
+        "Open": 461.0,
+        "High": 473.8,
+        "Low": 457.0,
+        "Close": 467.9,
+        "Percent Change": 1.28,
+        "Volume": 15600.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-21",
+        "Open": 460.0,
+        "High": 465.0,
+        "Low": 455.0,
+        "Close": 462.0,
+        "Percent Change": 0.63,
+        "Volume": 8466.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-18",
+        "Open": 448.0,
+        "High": 465.0,
+        "Low": 447.0,
+        "Close": 459.1,
+        "Percent Change": 1.91,
+        "Volume": 16375.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-17",
+        "Open": 431.0,
+        "High": 450.5,
+        "Low": 431.0,
+        "Close": 450.5,
+        "Percent Change": 2.62,
+        "Volume": 13254.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-16",
+        "Open": 423.1,
+        "High": 440.0,
+        "Low": 421.4,
+        "Close": 439.0,
+        "Percent Change": 2.09,
+        "Volume": 6006.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-15",
+        "Open": 430.0,
+        "High": 434.0,
+        "Low": 418.9,
+        "Close": 430.0,
+        "Percent Change": -0.01,
+        "Volume": 2372.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-14",
+        "Open": 425.0,
+        "High": 434.0,
+        "Low": 425.0,
+        "Close": 433.7,
+        "Percent Change": 0.05,
+        "Volume": 464.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-11",
+        "Open": 429.0,
+        "High": 435.0,
+        "Low": 426.4,
+        "Close": 433.5,
+        "Percent Change": 0.86,
+        "Volume": 2009.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-10",
+        "Open": 425.0,
+        "High": 430.0,
+        "Low": 420.2,
+        "Close": 429.8,
+        "Percent Change": 0.89,
+        "Volume": 3281.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-09",
+        "Open": 420.0,
+        "High": 441.0,
+        "Low": 416.0,
+        "Close": 426.0,
+        "Percent Change": 1.67,
+        "Volume": 6759.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-08",
+        "Open": 428.3,
+        "High": 428.3,
+        "Low": 416.2,
+        "Close": 419.0,
+        "Percent Change": -4.12,
+        "Volume": 13143.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-07",
+        "Open": 430.2,
+        "High": 439.6,
+        "Low": 430.0,
+        "Close": 437.0,
+        "Percent Change": -0.23,
+        "Volume": 1975.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-04",
+        "Open": 430.0,
+        "High": 438.0,
+        "Low": 426.7,
+        "Close": 438.0,
+        "Percent Change": 1.86,
+        "Volume": 1145.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-03",
+        "Open": 434.3,
+        "High": 437.0,
+        "Low": 427.6,
+        "Close": 430.0,
+        "Percent Change": -2.93,
+        "Volume": 8658.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-05-02",
+        "Open": 445.0,
+        "High": 445.0,
+        "Low": 436.1,
+        "Close": 443.0,
+        "Percent Change": -0.43,
+        "Volume": 1394.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-30",
+        "Open": 445.0,
+        "High": 445.0,
+        "Low": 437.0,
+        "Close": 444.9,
+        "Percent Change": -0.47,
+        "Volume": 1293.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-27",
+        "Open": 440.1,
+        "High": 447.0,
+        "Low": 433.4,
+        "Close": 447.0,
+        "Percent Change": -0.45,
+        "Volume": 1498.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-26",
+        "Open": 454.9,
+        "High": 454.9,
+        "Low": 441.0,
+        "Close": 449.0,
+        "Percent Change": 0.67,
+        "Volume": 3382.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-25",
+        "Open": 450.9,
+        "High": 451.0,
+        "Low": 441.0,
+        "Close": 446.0,
+        "Percent Change": 0.02,
+        "Volume": 14581.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-24",
+        "Open": 438.5,
+        "High": 448.0,
+        "Low": 438.4,
+        "Close": 445.9,
+        "Percent Change": -0.02,
+        "Volume": 1555.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-23",
+        "Open": 442.9,
+        "High": 446.0,
+        "Low": 440.0,
+        "Close": 446.0,
+        "Percent Change": -1.31,
+        "Volume": 2982.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-20",
+        "Open": 450.0,
+        "High": 455.0,
+        "Low": 445.0,
+        "Close": 451.9,
+        "Percent Change": 0.42,
+        "Volume": 3214.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-19",
+        "Open": 450.0,
+        "High": 458.0,
+        "Low": 445.1,
+        "Close": 450.0,
+        "Percent Change": 0.02,
+        "Volume": 3760.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-18",
+        "Open": 449.0,
+        "High": 455.0,
+        "Low": 441.7,
+        "Close": 449.9,
+        "Percent Change": 1.81,
+        "Volume": 7172.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-17",
+        "Open": 441.0,
+        "High": 449.0,
+        "Low": 432.6,
+        "Close": 441.9,
+        "Percent Change": -1.8,
+        "Volume": 4526.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-16",
+        "Open": 440.0,
+        "High": 455.0,
+        "Low": 431.3,
+        "Close": 450.0,
+        "Percent Change": 0.76,
+        "Volume": 5713.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-13",
+        "Open": 453.8,
+        "High": 459.0,
+        "Low": 445.0,
+        "Close": 446.6,
+        "Percent Change": -3.54,
+        "Volume": 5142.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-12",
+        "Open": 434.0,
+        "High": 463.0,
+        "Low": 431.5,
+        "Close": 463.0,
+        "Percent Change": 7.67,
+        "Volume": 13374.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-11",
+        "Open": 420.0,
+        "High": 430.0,
+        "Low": 420.0,
+        "Close": 430.0,
+        "Percent Change": 1.9,
+        "Volume": 7217.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-10",
+        "Open": 415.2,
+        "High": 424.5,
+        "Low": 415.0,
+        "Close": 422.0,
+        "Percent Change": -0.24,
+        "Volume": 3270.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-09",
+        "Open": 427.3,
+        "High": 428.0,
+        "Low": 415.0,
+        "Close": 423.0,
+        "Percent Change": -2.98,
+        "Volume": 5359.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-06",
+        "Open": 428.0,
+        "High": 439.0,
+        "Low": 425.5,
+        "Close": 436.0,
+        "Percent Change": 0.44,
+        "Volume": 6464.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-05",
+        "Open": 438.0,
+        "High": 438.0,
+        "Low": 430.0,
+        "Close": 434.1,
+        "Percent Change": -0.89,
+        "Volume": 3256.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-04",
+        "Open": 435.0,
+        "High": 442.0,
+        "Low": 427.0,
+        "Close": 438.0,
+        "Percent Change": -0.9,
+        "Volume": 2535.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-03",
+        "Open": 435.1,
+        "High": 448.9,
+        "Low": 435.1,
+        "Close": 442.0,
+        "Percent Change": -0.41,
+        "Volume": 8789.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-04-02",
+        "Open": 438.0,
+        "High": 454.9,
+        "Low": 432.0,
+        "Close": 443.8,
+        "Percent Change": 1.32,
+        "Volume": 11320.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-30",
+        "Open": 440.0,
+        "High": 447.0,
+        "Low": 435.2,
+        "Close": 438.0,
+        "Percent Change": -0.45,
+        "Volume": 3169.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-29",
+        "Open": 430.0,
+        "High": 440.0,
+        "Low": 429.3,
+        "Close": 440.0,
+        "Percent Change": 0.46,
+        "Volume": 6298.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-28",
+        "Open": 425.0,
+        "High": 440.0,
+        "Low": 424.0,
+        "Close": 438.0,
+        "Percent Change": 3.06,
+        "Volume": 3153.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-27",
+        "Open": 420.1,
+        "High": 425.0,
+        "Low": 416.6,
+        "Close": 425.0,
+        "Percent Change": 1.19,
+        "Volume": 1868.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-26",
+        "Open": 426.0,
+        "High": 426.0,
+        "Low": 417.5,
+        "Close": 420.0,
+        "Percent Change": -1.34,
+        "Volume": 753.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-23",
+        "Open": 433.1,
+        "High": 433.1,
+        "Low": 420.1,
+        "Close": 425.7,
+        "Percent Change": -1.69,
+        "Volume": 3287.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-22",
+        "Open": 446.5,
+        "High": 446.5,
+        "Low": 427.6,
+        "Close": 433.0,
+        "Percent Change": -1.12,
+        "Volume": 4800.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-20",
+        "Open": 431.0,
+        "High": 439.0,
+        "Low": 423.0,
+        "Close": 437.9,
+        "Percent Change": 1.62,
+        "Volume": 4150.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-19",
+        "Open": 434.9,
+        "High": 434.9,
+        "Low": 425.0,
+        "Close": 430.9,
+        "Percent Change": 0.91,
+        "Volume": 4514.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-16",
+        "Open": 430.0,
+        "High": 430.0,
+        "Low": 413.6,
+        "Close": 427.0,
+        "Percent Change": -2.51,
+        "Volume": 2253.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-15",
+        "Open": 414.2,
+        "High": 438.0,
+        "Low": 406.1,
+        "Close": 438.0,
+        "Percent Change": 3.82,
+        "Volume": 11615.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-14",
+        "Open": 420.0,
+        "High": 425.0,
+        "Low": 415.0,
+        "Close": 421.9,
+        "Percent Change": 0.57,
+        "Volume": 3015.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-13",
+        "Open": 425.0,
+        "High": 425.0,
+        "Low": 413.0,
+        "Close": 419.5,
+        "Percent Change": -3.23,
+        "Volume": 2906.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-12",
+        "Open": 432.0,
+        "High": 440.0,
+        "Low": 417.1,
+        "Close": 433.5,
+        "Percent Change": 0.35,
+        "Volume": 6819.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-09",
+        "Open": 425.3,
+        "High": 432.0,
+        "Low": 417.0,
+        "Close": 432.0,
+        "Percent Change": 3.6,
+        "Volume": 8919.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-07",
+        "Open": 405.1,
+        "High": 429.1,
+        "Low": 405.1,
+        "Close": 417.0,
+        "Percent Change": 1.09,
+        "Volume": 210.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-05",
+        "Open": 417.5,
+        "High": 420.0,
+        "Low": 401.8,
+        "Close": 412.5,
+        "Percent Change": -2.94,
+        "Volume": 6607.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-02",
+        "Open": 430.0,
+        "High": 430.0,
+        "Low": 418.0,
+        "Close": 425.0,
+        "Percent Change": -0.93,
+        "Volume": 1550.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-03-01",
+        "Open": 428.3,
+        "High": 429.0,
+        "Low": 421.0,
+        "Close": 429.0,
+        "Percent Change": -1.83,
+        "Volume": 2627.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-28",
+        "Open": 435.0,
+        "High": 437.0,
+        "Low": 431.0,
+        "Close": 437.0,
+        "Percent Change": 0.69,
+        "Volume": 2431.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-27",
+        "Open": 430.1,
+        "High": 442.9,
+        "Low": 422.8,
+        "Close": 434.0,
+        "Percent Change": -0.91,
+        "Volume": 9893.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-26",
+        "Open": 429.5,
+        "High": 438.0,
+        "Low": 416.0,
+        "Close": 438.0,
+        "Percent Change": 2.34,
+        "Volume": 9378.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-23",
+        "Open": 433.3,
+        "High": 438.0,
+        "Low": 428.0,
+        "Close": 428.0,
+        "Percent Change": -3.17,
+        "Volume": 10618.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-22",
+        "Open": 436.5,
+        "High": 444.0,
+        "Low": 430.0,
+        "Close": 442.0,
+        "Percent Change": 3.27,
+        "Volume": 3464.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-20",
+        "Open": 434.0,
+        "High": 443.0,
+        "Low": 426.0,
+        "Close": 428.0,
+        "Percent Change": -1.34,
+        "Volume": 7102.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-16",
+        "Open": 438.1,
+        "High": 440.0,
+        "Low": 431.5,
+        "Close": 433.8,
+        "Percent Change": -1.86,
+        "Volume": 10370.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-15",
+        "Open": 445.0,
+        "High": 450.0,
+        "Low": 436.2,
+        "Close": 442.0,
+        "Percent Change": 0.16,
+        "Volume": 3517.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-14",
+        "Open": 464.0,
+        "High": 464.0,
+        "Low": 441.3,
+        "Close": 441.3,
+        "Percent Change": -3.01,
+        "Volume": 8733.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-12",
+        "Open": 461.0,
+        "High": 462.0,
+        "Low": 444.0,
+        "Close": 455.0,
+        "Percent Change": -3.19,
+        "Volume": 10205.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-09",
+        "Open": 460.9,
+        "High": 470.0,
+        "Low": 449.0,
+        "Close": 470.0,
+        "Percent Change": 1.97,
+        "Volume": 5972.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-08",
+        "Open": 474.2,
+        "High": 474.2,
+        "Low": 455.0,
+        "Close": 460.9,
+        "Percent Change": -0.88,
+        "Volume": 12353.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-07",
+        "Open": 451.0,
+        "High": 469.0,
+        "Low": 445.0,
+        "Close": 465.0,
+        "Percent Change": 4.49,
+        "Volume": 20130.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-06",
+        "Open": 447.2,
+        "High": 453.0,
+        "Low": 436.3,
+        "Close": 445.0,
+        "Percent Change": 1.48,
+        "Volume": 5270.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-05",
+        "Open": 445.0,
+        "High": 450.8,
+        "Low": 434.4,
+        "Close": 438.5,
+        "Percent Change": -0.11,
+        "Volume": 9203.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-02",
+        "Open": 460.0,
+        "High": 460.0,
+        "Low": 434.2,
+        "Close": 439.0,
+        "Percent Change": -2.88,
+        "Volume": 14518.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-02-01",
+        "Open": 458.0,
+        "High": 458.0,
+        "Low": 448.9,
+        "Close": 452.0,
+        "Percent Change": 0.22,
+        "Volume": 5557.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-31",
+        "Open": 464.0,
+        "High": 465.0,
+        "Low": 451.0,
+        "Close": 451.0,
+        "Percent Change": -1.18,
+        "Volume": 10515.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-30",
+        "Open": 479.0,
+        "High": 479.0,
+        "Low": 455.2,
+        "Close": 456.4,
+        "Percent Change": -2.91,
+        "Volume": 15346.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-29",
+        "Open": 465.0,
+        "High": 480.0,
+        "Low": 462.0,
+        "Close": 470.1,
+        "Percent Change": -0.19,
+        "Volume": 17855.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-26",
+        "Open": 479.4,
+        "High": 479.4,
+        "Low": 465.0,
+        "Close": 471.0,
+        "Percent Change": 0.21,
+        "Volume": 24537.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-25",
+        "Open": 457.0,
+        "High": 482.0,
+        "Low": 457.0,
+        "Close": 470.0,
+        "Percent Change": 4.89,
+        "Volume": 19452.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-24",
+        "Open": 460.7,
+        "High": 460.7,
+        "Low": 436.1,
+        "Close": 448.1,
+        "Percent Change": -0.86,
+        "Volume": 10091.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-23",
+        "Open": 469.2,
+        "High": 475.0,
+        "Low": 450.9,
+        "Close": 452.0,
+        "Percent Change": -1.74,
+        "Volume": 11249.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-19",
+        "Open": 460.0,
+        "High": 487.0,
+        "Low": 460.0,
+        "Close": 460.0,
+        "Percent Change": -1.29,
+        "Volume": 15895.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-18",
+        "Open": 467.0,
+        "High": 481.0,
+        "Low": 465.0,
+        "Close": 466.0,
+        "Percent Change": -1.69,
+        "Volume": 19702.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-17",
+        "Open": 464.6,
+        "High": 480.0,
+        "Low": 457.0,
+        "Close": 474.0,
+        "Percent Change": 0.0,
+        "Volume": 18634.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-12",
+        "Open": 484.0,
+        "High": 510.0,
+        "Low": 456.0,
+        "Close": 474.0,
+        "Percent Change": -0.21,
+        "Volume": 51819.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-10",
+        "Open": 490.0,
+        "High": 504.0,
+        "Low": 475.0,
+        "Close": 475.0,
+        "Percent Change": -2.06,
+        "Volume": 47574.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-09",
+        "Open": 465.0,
+        "High": 488.5,
+        "Low": 465.0,
+        "Close": 485.0,
+        "Percent Change": 4.98,
+        "Volume": 42705.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-08",
+        "Open": 450.0,
+        "High": 480.0,
+        "Low": 441.0,
+        "Close": 462.0,
+        "Percent Change": 2.67,
+        "Volume": 44069.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-05",
+        "Open": 442.0,
+        "High": 455.0,
+        "Low": 437.0,
+        "Close": 450.0,
+        "Percent Change": 1.81,
+        "Volume": 29492.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-04",
+        "Open": 426.0,
+        "High": 443.0,
+        "Low": 426.0,
+        "Close": 442.0,
+        "Percent Change": 2.08,
+        "Volume": 23115.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-03",
+        "Open": 432.4,
+        "High": 440.0,
+        "Low": 414.0,
+        "Close": 433.0,
+        "Percent Change": 2.12,
+        "Volume": 41998.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-02",
+        "Open": 400.8,
+        "High": 425.0,
+        "Low": 385.2,
+        "Close": 424.0,
+        "Percent Change": 7.89,
+        "Volume": 54284.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2023-01-01",
+        "Open": 390.5,
+        "High": 410.0,
+        "Low": 386.0,
+        "Close": 393.0,
+        "Percent Change": 2.65,
+        "Volume": 52289.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-29",
+        "Open": 372.3,
+        "High": 405.0,
+        "Low": 368.1,
+        "Close": 402.0,
+        "Percent Change": 6.07,
+        "Volume": 33991.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-28",
+        "Open": 369.9,
+        "High": 382.0,
+        "Low": 364.0,
+        "Close": 379.0,
+        "Percent Change": 2.43,
+        "Volume": 21092.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-27",
+        "Open": 360.0,
+        "High": 373.9,
+        "Low": 347.0,
+        "Close": 370.0,
+        "Percent Change": 4.52,
+        "Volume": 20741.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-26",
+        "Open": 341.7,
+        "High": 354.0,
+        "Low": 336.0,
+        "Close": 354.0,
+        "Percent Change": 5.67,
+        "Volume": 6173.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-22",
+        "Open": 333.0,
+        "High": 335.0,
+        "Low": 333.0,
+        "Close": 335.0,
+        "Percent Change": 0.15,
+        "Volume": 714.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-21",
+        "Open": 340.0,
+        "High": 340.0,
+        "Low": 333.3,
+        "Close": 334.5,
+        "Percent Change": -1.33,
+        "Volume": 2745.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-20",
+        "Open": 339.0,
+        "High": 340.0,
+        "Low": 336.5,
+        "Close": 339.0,
+        "Percent Change": 0.0,
+        "Volume": 7724.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-19",
+        "Open": 335.5,
+        "High": 339.0,
+        "Low": 332.0,
+        "Close": 339.0,
+        "Percent Change": 1.04,
+        "Volume": 3250.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-18",
+        "Open": 333.0,
+        "High": 335.5,
+        "Low": 330.0,
+        "Close": 335.5,
+        "Percent Change": 0.75,
+        "Volume": 4384.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-15",
+        "Open": 338.0,
+        "High": 338.0,
+        "Low": 333.0,
+        "Close": 333.0,
+        "Percent Change": -1.48,
+        "Volume": 1817.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-14",
+        "Open": 335.1,
+        "High": 341.0,
+        "Low": 335.0,
+        "Close": 338.0,
+        "Percent Change": -0.38,
+        "Volume": 3430.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-13",
+        "Open": 340.0,
+        "High": 342.9,
+        "Low": 338.5,
+        "Close": 339.3,
+        "Percent Change": 0.59,
+        "Volume": 1519.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-12",
+        "Open": 341.0,
+        "High": 345.0,
+        "Low": 337.0,
+        "Close": 337.3,
+        "Percent Change": -0.5,
+        "Volume": 3907.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-11",
+        "Open": 339.0,
+        "High": 342.0,
+        "Low": 339.0,
+        "Close": 339.0,
+        "Percent Change": -1.77,
+        "Volume": 2089.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-07",
+        "Open": 343.2,
+        "High": 349.8,
+        "Low": 343.0,
+        "Close": 345.1,
+        "Percent Change": -1.4,
+        "Volume": 1875.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-06",
+        "Open": 349.0,
+        "High": 350.0,
+        "Low": 344.9,
+        "Close": 350.0,
+        "Percent Change": 0.29,
+        "Volume": 3645.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-05",
+        "Open": 361.0,
+        "High": 366.0,
+        "Low": 349.0,
+        "Close": 349.0,
+        "Percent Change": -5.14,
+        "Volume": 3694.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-04",
+        "Open": 350.0,
+        "High": 367.9,
+        "Low": 345.6,
+        "Close": 367.9,
+        "Percent Change": 5.72,
+        "Volume": 13321.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-12-01",
+        "Open": 348.0,
+        "High": 356.0,
+        "Low": 348.0,
+        "Close": 348.0,
+        "Percent Change": 0.23,
+        "Volume": 3911.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-30",
+        "Open": 351.0,
+        "High": 351.0,
+        "Low": 347.0,
+        "Close": 347.2,
+        "Percent Change": -2.94,
+        "Volume": 1640.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-29",
+        "Open": 345.0,
+        "High": 358.0,
+        "Low": 345.0,
+        "Close": 357.7,
+        "Percent Change": 2.76,
+        "Volume": 938.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-28",
+        "Open": 358.5,
+        "High": 362.0,
+        "Low": 348.1,
+        "Close": 348.1,
+        "Percent Change": -3.01,
+        "Volume": 4017.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-27",
+        "Open": 354.0,
+        "High": 358.9,
+        "Low": 350.1,
+        "Close": 358.9,
+        "Percent Change": 2.98,
+        "Volume": 8376.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-24",
+        "Open": 342.0,
+        "High": 348.8,
+        "Low": 342.0,
+        "Close": 348.5,
+        "Percent Change": 1.9,
+        "Volume": 1133.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-23",
+        "Open": 342.0,
+        "High": 345.0,
+        "Low": 340.3,
+        "Close": 342.0,
+        "Percent Change": -1.44,
+        "Volume": 3300.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-22",
+        "Open": 357.7,
+        "High": 357.7,
+        "Low": 347.0,
+        "Close": 347.0,
+        "Percent Change": -2.99,
+        "Volume": 1320.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-17",
+        "Open": 355.0,
+        "High": 357.7,
+        "Low": 352.1,
+        "Close": 357.7,
+        "Percent Change": 2.2,
+        "Volume": 1959.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-16",
+        "Open": 350.9,
+        "High": 350.9,
+        "Low": 346.0,
+        "Close": 350.0,
+        "Percent Change": 1.71,
+        "Volume": 1580.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-15",
+        "Open": 352.9,
+        "High": 357.0,
+        "Low": 344.1,
+        "Close": 344.1,
+        "Percent Change": -0.55,
+        "Volume": 891.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-14",
+        "Open": 350.0,
+        "High": 350.9,
+        "Low": 345.0,
+        "Close": 346.0,
+        "Percent Change": 0.29,
+        "Volume": 1819.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-13",
+        "Open": 350.0,
+        "High": 355.0,
+        "Low": 341.9,
+        "Close": 345.0,
+        "Percent Change": -1.09,
+        "Volume": 8063.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-10",
+        "Open": 354.0,
+        "High": 354.0,
+        "Low": 341.1,
+        "Close": 348.8,
+        "Percent Change": -1.47,
+        "Volume": 3813.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-09",
+        "Open": 368.5,
+        "High": 368.5,
+        "Low": 345.5,
+        "Close": 354.0,
+        "Percent Change": -3.28,
+        "Volume": 12658.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-08",
+        "Open": 354.0,
+        "High": 366.0,
+        "Low": 354.0,
+        "Close": 366.0,
+        "Percent Change": 1.67,
+        "Volume": 5035.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-07",
+        "Open": 367.9,
+        "High": 369.0,
+        "Low": 355.0,
+        "Close": 360.0,
+        "Percent Change": -0.28,
+        "Volume": 10232.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-06",
+        "Open": 341.4,
+        "High": 363.0,
+        "Low": 341.4,
+        "Close": 361.0,
+        "Percent Change": 3.74,
+        "Volume": 6367.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-03",
+        "Open": 352.0,
+        "High": 362.0,
+        "Low": 346.3,
+        "Close": 348.0,
+        "Percent Change": -2.52,
+        "Volume": 4220.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-02",
+        "Open": 360.8,
+        "High": 363.0,
+        "Low": 345.0,
+        "Close": 357.0,
+        "Percent Change": 0.85,
+        "Volume": 6380.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-11-01",
+        "Open": 335.3,
+        "High": 356.9,
+        "Low": 335.2,
+        "Close": 354.0,
+        "Percent Change": 3.51,
+        "Volume": 7440.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-10-31",
+        "Open": 339.0,
+        "High": 348.9,
+        "Low": 338.0,
+        "Close": 342.0,
+        "Percent Change": 2.7,
+        "Volume": 2990.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-10-23",
+        "Open": 330.0,
+        "High": 334.0,
+        "Low": 326.0,
+        "Close": 333.0,
+        "Percent Change": 1.4,
+        "Volume": 4265.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-10-20",
+        "Open": 330.1,
+        "High": 335.0,
+        "Low": 328.4,
+        "Close": 328.4,
+        "Percent Change": -1.97,
+        "Volume": 8825.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-10-19",
+        "Open": 340.0,
+        "High": 340.0,
+        "Low": 333.0,
+        "Close": 335.0,
+        "Percent Change": -3.32,
+        "Volume": 2858.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-10-17",
+        "Open": 336.0,
+        "High": 346.5,
+        "Low": 333.1,
+        "Close": 346.5,
+        "Percent Change": 1.32,
+        "Volume": 1305.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-10-16",
+        "Open": 349.0,
+        "High": 352.0,
+        "Low": 338.1,
+        "Close": 342.0,
+        "Percent Change": -3.66,
+        "Volume": 3585.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-10-13",
+        "Open": 355.0,
+        "High": 355.0,
+        "Low": 350.0,
+        "Close": 355.0,
+        "Percent Change": 0.39,
+        "Volume": 1680.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-10-12",
+        "Open": 355.0,
+        "High": 359.0,
+        "Low": 350.0,
+        "Close": 354.0,
+        "Percent Change": -0.28,
+        "Volume": 2689.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-10-11",
+        "Open": 343.0,
+        "High": 355.0,
+        "Low": 336.5,
+        "Close": 355.0,
+        "Percent Change": 1.46,
+        "Volume": 2969.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-10-10",
+        "Open": 350.0,
+        "High": 350.0,
+        "Low": 340.0,
+        "Close": 349.9,
+        "Percent Change": -1.99,
+        "Volume": 4240.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-10-09",
+        "Open": 346.0,
+        "High": 357.0,
+        "Low": 345.1,
+        "Close": 357.0,
+        "Percent Change": 3.81,
+        "Volume": 1518.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-29",
+        "Open": 338.0,
+        "High": 343.9,
+        "Low": 335.0,
+        "Close": 343.9,
+        "Percent Change": 1.15,
+        "Volume": 1380.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-28",
+        "Open": 347.0,
+        "High": 353.8,
+        "Low": 335.0,
+        "Close": 340.0,
+        "Percent Change": -0.29,
+        "Volume": 5218.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-27",
+        "Open": 342.6,
+        "High": 349.0,
+        "Low": 340.0,
+        "Close": 341.0,
+        "Percent Change": 1.43,
+        "Volume": 2579.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-25",
+        "Open": 337.0,
+        "High": 339.0,
+        "Low": 329.3,
+        "Close": 336.2,
+        "Percent Change": -1.41,
+        "Volume": 5757.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-22",
+        "Open": 340.0,
+        "High": 349.0,
+        "Low": 336.0,
+        "Close": 341.0,
+        "Percent Change": 0.29,
+        "Volume": 3524.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-21",
+        "Open": 345.0,
+        "High": 353.7,
+        "Low": 334.0,
+        "Close": 340.0,
+        "Percent Change": 0.0,
+        "Volume": 4065.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-20",
+        "Open": 353.0,
+        "High": 353.0,
+        "Low": 337.0,
+        "Close": 340.0,
+        "Percent Change": -3.68,
+        "Volume": 4394.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-18",
+        "Open": 360.0,
+        "High": 363.0,
+        "Low": 351.0,
+        "Close": 353.0,
+        "Percent Change": -3.42,
+        "Volume": 6152.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-16",
+        "Open": 374.0,
+        "High": 374.0,
+        "Low": 365.0,
+        "Close": 365.5,
+        "Percent Change": -2.77,
+        "Volume": 1310.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-15",
+        "Open": 388.0,
+        "High": 388.0,
+        "Low": 367.5,
+        "Close": 375.9,
+        "Percent Change": -3.49,
+        "Volume": 12678.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-14",
+        "Open": 377.0,
+        "High": 391.5,
+        "Low": 375.0,
+        "Close": 389.5,
+        "Percent Change": 4.31,
+        "Volume": 7122.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-13",
+        "Open": 372.8,
+        "High": 385.0,
+        "Low": 372.8,
+        "Close": 373.4,
+        "Percent Change": 2.16,
+        "Volume": 745.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-12",
+        "Open": 370.0,
+        "High": 370.0,
+        "Low": 365.0,
+        "Close": 365.5,
+        "Percent Change": -1.75,
+        "Volume": 1056.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-11",
+        "Open": 375.0,
+        "High": 377.0,
+        "Low": 372.0,
+        "Close": 372.0,
+        "Percent Change": -2.11,
+        "Volume": 3989.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-08",
+        "Open": 367.7,
+        "High": 390.0,
+        "Low": 367.5,
+        "Close": 380.0,
+        "Percent Change": 1.33,
+        "Volume": 2531.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-07",
+        "Open": 383.0,
+        "High": 383.0,
+        "Low": 369.0,
+        "Close": 375.0,
+        "Percent Change": -0.27,
+        "Volume": 9499.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-06",
+        "Open": 382.7,
+        "High": 383.0,
+        "Low": 376.0,
+        "Close": 376.0,
+        "Percent Change": -3.69,
+        "Volume": 5424.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-05",
+        "Open": 396.5,
+        "High": 398.9,
+        "Low": 386.1,
+        "Close": 390.4,
+        "Percent Change": -1.46,
+        "Volume": 8942.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-04",
+        "Open": 379.0,
+        "High": 399.4,
+        "Low": 372.0,
+        "Close": 396.2,
+        "Percent Change": 6.33,
+        "Volume": 6758.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-02",
+        "Open": 388.0,
+        "High": 388.0,
+        "Low": 365.3,
+        "Close": 372.6,
+        "Percent Change": -2.2,
+        "Volume": 4333.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-09-01",
+        "Open": 366.0,
+        "High": 391.6,
+        "Low": 365.0,
+        "Close": 381.0,
+        "Percent Change": 2.97,
+        "Volume": 10202.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-31",
+        "Open": 369.0,
+        "High": 375.0,
+        "Low": 366.6,
+        "Close": 370.0,
+        "Percent Change": -1.07,
+        "Volume": 3848.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-30",
+        "Open": 377.0,
+        "High": 377.0,
+        "Low": 368.0,
+        "Close": 374.0,
+        "Percent Change": 1.08,
+        "Volume": 5687.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-29",
+        "Open": 382.8,
+        "High": 382.8,
+        "Low": 370.0,
+        "Close": 370.0,
+        "Percent Change": -1.6,
+        "Volume": 4685.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-28",
+        "Open": 381.0,
+        "High": 383.0,
+        "Low": 371.5,
+        "Close": 376.0,
+        "Percent Change": -2.59,
+        "Volume": 9697.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-26",
+        "Open": 380.3,
+        "High": 388.0,
+        "Low": 380.0,
+        "Close": 386.0,
+        "Percent Change": -0.52,
+        "Volume": 6844.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-25",
+        "Open": 395.0,
+        "High": 397.0,
+        "Low": 385.0,
+        "Close": 388.0,
+        "Percent Change": -1.02,
+        "Volume": 5719.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-24",
+        "Open": 391.6,
+        "High": 396.0,
+        "Low": 390.0,
+        "Close": 392.0,
+        "Percent Change": -1.51,
+        "Volume": 3006.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-23",
+        "Open": 395.1,
+        "High": 398.5,
+        "Low": 390.0,
+        "Close": 398.0,
+        "Percent Change": -0.5,
+        "Volume": 7062.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-22",
+        "Open": 396.0,
+        "High": 405.0,
+        "Low": 390.2,
+        "Close": 400.0,
+        "Percent Change": -0.99,
+        "Volume": 6040.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-21",
+        "Open": 412.0,
+        "High": 412.0,
+        "Low": 396.0,
+        "Close": 404.0,
+        "Percent Change": 0.0,
+        "Volume": 4556.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-18",
+        "Open": 404.0,
+        "High": 405.0,
+        "Low": 399.1,
+        "Close": 404.0,
+        "Percent Change": 1.76,
+        "Volume": 6400.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-17",
+        "Open": 388.0,
+        "High": 400.0,
+        "Low": 388.0,
+        "Close": 397.0,
+        "Percent Change": 0.51,
+        "Volume": 1889.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-16",
+        "Open": 399.0,
+        "High": 413.4,
+        "Low": 390.1,
+        "Close": 395.0,
+        "Percent Change": -1.25,
+        "Volume": 17311.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-15",
+        "Open": 390.0,
+        "High": 404.0,
+        "Low": 390.0,
+        "Close": 400.0,
+        "Percent Change": 4.14,
+        "Volume": 9222.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-14",
+        "Open": 380.2,
+        "High": 395.5,
+        "Low": 380.0,
+        "Close": 384.1,
+        "Percent Change": -0.75,
+        "Volume": 7315.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-11",
+        "Open": 400.0,
+        "High": 420.2,
+        "Low": 386.0,
+        "Close": 387.0,
+        "Percent Change": -2.4,
+        "Volume": 16495.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-10",
+        "Open": 390.0,
+        "High": 405.0,
+        "Low": 389.1,
+        "Close": 396.5,
+        "Percent Change": -0.13,
+        "Volume": 11232.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-09",
+        "Open": 415.0,
+        "High": 415.0,
+        "Low": 397.0,
+        "Close": 397.0,
+        "Percent Change": -3.87,
+        "Volume": 15690.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-08",
+        "Open": 420.2,
+        "High": 428.0,
+        "Low": 402.0,
+        "Close": 413.0,
+        "Percent Change": 0.24,
+        "Volume": 27763.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-07",
+        "Open": 417.2,
+        "High": 433.0,
+        "Low": 408.0,
+        "Close": 412.0,
+        "Percent Change": 0.71,
+        "Volume": 10996.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-05",
+        "Open": 412.0,
+        "High": 427.0,
+        "Low": 406.8,
+        "Close": 409.1,
+        "Percent Change": -2.6,
+        "Volume": 13624.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-04",
+        "Open": 429.0,
+        "High": 433.8,
+        "Low": 419.1,
+        "Close": 420.0,
+        "Percent Change": -1.41,
+        "Volume": 15800.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-03",
+        "Open": 447.0,
+        "High": 447.0,
+        "Low": 425.0,
+        "Close": 426.0,
+        "Percent Change": -2.96,
+        "Volume": 34414.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-02",
+        "Open": 442.0,
+        "High": 442.0,
+        "Low": 425.0,
+        "Close": 439.0,
+        "Percent Change": 0.92,
+        "Volume": 21388.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-08-01",
+        "Open": 442.9,
+        "High": 468.0,
+        "Low": 428.1,
+        "Close": 435.0,
+        "Percent Change": 0.16,
+        "Volume": 65328.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-31",
+        "Open": 402.7,
+        "High": 434.3,
+        "Low": 400.0,
+        "Close": 434.3,
+        "Percent Change": 9.98,
+        "Volume": 46748.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-29",
+        "Open": 386.0,
+        "High": 395.0,
+        "Low": 384.0,
+        "Close": 394.9,
+        "Percent Change": 0.56,
+        "Volume": 8883.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-28",
+        "Open": 398.0,
+        "High": 402.9,
+        "Low": 385.0,
+        "Close": 392.7,
+        "Percent Change": 0.18,
+        "Volume": 15821.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-27",
+        "Open": 375.4,
+        "High": 392.0,
+        "Low": 369.2,
+        "Close": 392.0,
+        "Percent Change": 2.35,
+        "Volume": 11820.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-26",
+        "Open": 390.0,
+        "High": 397.8,
+        "Low": 376.0,
+        "Close": 383.0,
+        "Percent Change": -0.52,
+        "Volume": 36238.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-25",
+        "Open": 374.0,
+        "High": 385.0,
+        "Low": 366.6,
+        "Close": 385.0,
+        "Percent Change": 4.65,
+        "Volume": 26783.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-24",
+        "Open": 355.9,
+        "High": 370.0,
+        "Low": 350.0,
+        "Close": 367.9,
+        "Percent Change": 5.42,
+        "Volume": 8899.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-22",
+        "Open": 348.0,
+        "High": 361.0,
+        "Low": 348.0,
+        "Close": 349.0,
+        "Percent Change": -1.41,
+        "Volume": 3718.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-21",
+        "Open": 361.0,
+        "High": 361.5,
+        "Low": 353.0,
+        "Close": 354.0,
+        "Percent Change": -0.56,
+        "Volume": 5003.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-20",
+        "Open": 353.0,
+        "High": 365.0,
+        "Low": 353.0,
+        "Close": 356.0,
+        "Percent Change": -1.11,
+        "Volume": 4514.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-19",
+        "Open": 355.0,
+        "High": 364.0,
+        "Low": 350.1,
+        "Close": 360.0,
+        "Percent Change": 1.41,
+        "Volume": 3433.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-18",
+        "Open": 350.0,
+        "High": 355.8,
+        "Low": 349.5,
+        "Close": 355.0,
+        "Percent Change": 1.72,
+        "Volume": 4333.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-17",
+        "Open": 345.0,
+        "High": 355.0,
+        "Low": 340.0,
+        "Close": 349.0,
+        "Percent Change": -0.29,
+        "Volume": 10250.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-15",
+        "Open": 367.0,
+        "High": 367.0,
+        "Low": 343.9,
+        "Close": 350.0,
+        "Percent Change": -3.23,
+        "Volume": 6644.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-14",
+        "Open": 371.0,
+        "High": 377.0,
+        "Low": 358.1,
+        "Close": 361.7,
+        "Percent Change": -2.24,
+        "Volume": 5426.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-13",
+        "Open": 378.0,
+        "High": 378.0,
+        "Low": 365.0,
+        "Close": 370.0,
+        "Percent Change": -0.88,
+        "Volume": 7148.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-12",
+        "Open": 352.0,
+        "High": 373.3,
+        "Low": 342.0,
+        "Close": 373.3,
+        "Percent Change": 6.96,
+        "Volume": 4129.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-11",
+        "Open": 363.0,
+        "High": 363.0,
+        "Low": 341.1,
+        "Close": 349.0,
+        "Percent Change": -3.86,
+        "Volume": 7523.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-08",
+        "Open": 378.3,
+        "High": 378.3,
+        "Low": 363.0,
+        "Close": 363.0,
+        "Percent Change": -2.16,
+        "Volume": 3300.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-07",
+        "Open": 392.7,
+        "High": 400.5,
+        "Low": 369.0,
+        "Close": 371.0,
+        "Percent Change": -3.64,
+        "Volume": 8033.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-06",
+        "Open": 391.6,
+        "High": 391.6,
+        "Low": 373.2,
+        "Close": 385.0,
+        "Percent Change": 0.26,
+        "Volume": 5504.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-05",
+        "Open": 401.8,
+        "High": 401.8,
+        "Low": 383.0,
+        "Close": 384.0,
+        "Percent Change": -2.54,
+        "Volume": 8670.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-04",
+        "Open": 399.8,
+        "High": 420.0,
+        "Low": 385.0,
+        "Close": 394.0,
+        "Percent Change": 0.51,
+        "Volume": 29061.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-03",
+        "Open": 376.2,
+        "High": 410.0,
+        "Low": 374.0,
+        "Close": 392.0,
+        "Percent Change": 4.78,
+        "Volume": 7129.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-07-01",
+        "Open": 397.4,
+        "High": 409.0,
+        "Low": 360.0,
+        "Close": 374.1,
+        "Percent Change": -4.03,
+        "Volume": 5781.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-30",
+        "Open": 367.0,
+        "High": 395.0,
+        "Low": 361.5,
+        "Close": 389.8,
+        "Percent Change": 8.31,
+        "Volume": 16157.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-29",
+        "Open": 356.0,
+        "High": 362.0,
+        "Low": 350.0,
+        "Close": 359.9,
+        "Percent Change": 1.38,
+        "Volume": 4080.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-28",
+        "Open": 363.9,
+        "High": 363.9,
+        "Low": 346.0,
+        "Close": 355.0,
+        "Percent Change": -0.5,
+        "Volume": 3233.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-27",
+        "Open": 367.0,
+        "High": 374.0,
+        "Low": 351.0,
+        "Close": 356.8,
+        "Percent Change": -2.78,
+        "Volume": 10090.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-26",
+        "Open": 343.0,
+        "High": 367.0,
+        "Low": 343.0,
+        "Close": 367.0,
+        "Percent Change": 4.86,
+        "Volume": 17038.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-24",
+        "Open": 337.2,
+        "High": 350.0,
+        "Low": 325.0,
+        "Close": 350.0,
+        "Percent Change": 1.74,
+        "Volume": 2285.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-23",
+        "Open": 344.3,
+        "High": 351.0,
+        "Low": 328.0,
+        "Close": 344.0,
+        "Percent Change": -2.08,
+        "Volume": 10710.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-22",
+        "Open": 360.0,
+        "High": 360.0,
+        "Low": 341.0,
+        "Close": 351.3,
+        "Percent Change": -2.42,
+        "Volume": 4861.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-21",
+        "Open": 347.8,
+        "High": 370.0,
+        "Low": 335.2,
+        "Close": 360.0,
+        "Percent Change": 5.57,
+        "Volume": 4961.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-20",
+        "Open": 345.0,
+        "High": 352.0,
+        "Low": 334.0,
+        "Close": 341.0,
+        "Percent Change": -1.13,
+        "Volume": 8000.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-19",
+        "Open": 368.0,
+        "High": 368.0,
+        "Low": 344.5,
+        "Close": 344.9,
+        "Percent Change": -5.51,
+        "Volume": 8233.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-17",
+        "Open": 365.1,
+        "High": 370.0,
+        "Low": 362.0,
+        "Close": 365.0,
+        "Percent Change": -1.0,
+        "Volume": 2085.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-16",
+        "Open": 357.0,
+        "High": 378.0,
+        "Low": 357.0,
+        "Close": 368.7,
+        "Percent Change": 1.29,
+        "Volume": 2371.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-15",
+        "Open": 382.5,
+        "High": 382.5,
+        "Low": 357.8,
+        "Close": 364.0,
+        "Percent Change": -2.93,
+        "Volume": 6415.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-14",
+        "Open": 389.6,
+        "High": 389.6,
+        "Low": 366.0,
+        "Close": 375.0,
+        "Percent Change": -5.66,
+        "Volume": 20016.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-13",
+        "Open": 395.0,
+        "High": 397.8,
+        "Low": 385.0,
+        "Close": 397.5,
+        "Percent Change": 1.92,
+        "Volume": 5190.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-10",
+        "Open": 400.0,
+        "High": 400.0,
+        "Low": 390.0,
+        "Close": 390.0,
+        "Percent Change": -3.23,
+        "Volume": 4860.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-09",
+        "Open": 416.0,
+        "High": 424.0,
+        "Low": 401.1,
+        "Close": 403.0,
+        "Percent Change": -3.08,
+        "Volume": 9044.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-08",
+        "Open": 409.9,
+        "High": 417.0,
+        "Low": 387.6,
+        "Close": 415.8,
+        "Percent Change": 3.43,
+        "Volume": 11586.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-07",
+        "Open": 417.1,
+        "High": 420.0,
+        "Low": 388.4,
+        "Close": 402.0,
+        "Percent Change": -1.71,
+        "Volume": 5963.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-06",
+        "Open": 410.0,
+        "High": 418.2,
+        "Low": 397.1,
+        "Close": 409.0,
+        "Percent Change": 1.72,
+        "Volume": 718.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-03",
+        "Open": 422.0,
+        "High": 422.0,
+        "Low": 389.4,
+        "Close": 402.1,
+        "Percent Change": -3.06,
+        "Volume": 6007.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-02",
+        "Open": 431.0,
+        "High": 431.0,
+        "Low": 406.7,
+        "Close": 414.8,
+        "Percent Change": -1.94,
+        "Volume": 1414.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-06-01",
+        "Open": 426.0,
+        "High": 426.0,
+        "Low": 401.2,
+        "Close": 423.0,
+        "Percent Change": 1.08,
+        "Volume": 5604.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-31",
+        "Open": 439.0,
+        "High": 444.9,
+        "Low": 404.3,
+        "Close": 418.5,
+        "Percent Change": -2.95,
+        "Volume": 7806.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-30",
+        "Open": 455.0,
+        "High": 455.0,
+        "Low": 431.2,
+        "Close": 431.2,
+        "Percent Change": -4.6,
+        "Volume": 4315.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-27",
+        "Open": 462.0,
+        "High": 470.0,
+        "Low": 440.0,
+        "Close": 452.0,
+        "Percent Change": -0.22,
+        "Volume": 130.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-26",
+        "Open": 463.9,
+        "High": 463.9,
+        "Low": 446.0,
+        "Close": 453.0,
+        "Percent Change": -0.42,
+        "Volume": 4022.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-25",
+        "Open": 449.8,
+        "High": 460.0,
+        "Low": 436.0,
+        "Close": 454.9,
+        "Percent Change": 3.15,
+        "Volume": 11814.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-24",
+        "Open": 446.0,
+        "High": 453.0,
+        "Low": 433.0,
+        "Close": 441.0,
+        "Percent Change": 0.68,
+        "Volume": 9549.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-23",
+        "Open": 469.2,
+        "High": 469.2,
+        "Low": 435.0,
+        "Close": 438.0,
+        "Percent Change": -4.78,
+        "Volume": 6705.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-20",
+        "Open": 471.2,
+        "High": 476.9,
+        "Low": 446.0,
+        "Close": 460.0,
+        "Percent Change": -0.43,
+        "Volume": 3590.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-19",
+        "Open": 488.5,
+        "High": 488.5,
+        "Low": 445.9,
+        "Close": 462.0,
+        "Percent Change": -3.55,
+        "Volume": 28903.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-18",
+        "Open": 488.3,
+        "High": 488.3,
+        "Low": 465.0,
+        "Close": 479.0,
+        "Percent Change": 0.0,
+        "Volume": 9005.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-17",
+        "Open": 542.6,
+        "High": 542.6,
+        "Low": 478.8,
+        "Close": 478.8,
+        "Percent Change": -10.0,
+        "Volume": 13421.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-12",
+        "Open": 558.9,
+        "High": 558.9,
+        "Low": 525.0,
+        "Close": 532.0,
+        "Percent Change": -2.92,
+        "Volume": 9598.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-11",
+        "Open": 529.0,
+        "High": 548.0,
+        "Low": 518.0,
+        "Close": 548.0,
+        "Percent Change": 5.59,
+        "Volume": 13780.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-10",
+        "Open": 527.3,
+        "High": 527.3,
+        "Low": 517.0,
+        "Close": 519.0,
+        "Percent Change": 0.39,
+        "Volume": 1920.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-09",
+        "Open": 503.1,
+        "High": 521.0,
+        "Low": 503.1,
+        "Close": 517.0,
+        "Percent Change": 0.98,
+        "Volume": 5567.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-08",
+        "Open": 509.7,
+        "High": 512.0,
+        "Low": 501.0,
+        "Close": 512.0,
+        "Percent Change": -1.54,
+        "Volume": 3519.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-05",
+        "Open": 524.3,
+        "High": 534.0,
+        "Low": 515.0,
+        "Close": 520.0,
+        "Percent Change": -2.8,
+        "Volume": 5730.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-04",
+        "Open": 540.0,
+        "High": 555.0,
+        "Low": 520.0,
+        "Close": 535.0,
+        "Percent Change": -2.37,
+        "Volume": 6456.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-05-02",
+        "Open": 570.9,
+        "High": 570.9,
+        "Low": 535.2,
+        "Close": 548.0,
+        "Percent Change": -2.13,
+        "Volume": 7301.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-28",
+        "Open": 581.4,
+        "High": 588.5,
+        "Low": 551.0,
+        "Close": 559.9,
+        "Percent Change": -1.77,
+        "Volume": 12654.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-27",
+        "Open": 578.3,
+        "High": 578.3,
+        "Low": 556.0,
+        "Close": 570.0,
+        "Percent Change": 0.53,
+        "Volume": 2032.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-26",
+        "Open": 580.0,
+        "High": 580.0,
+        "Low": 550.0,
+        "Close": 567.0,
+        "Percent Change": -0.32,
+        "Volume": 3076.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-25",
+        "Open": 595.6,
+        "High": 601.8,
+        "Low": 560.0,
+        "Close": 568.8,
+        "Percent Change": -2.6,
+        "Volume": 11670.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-24",
+        "Open": 574.2,
+        "High": 585.6,
+        "Low": 553.0,
+        "Close": 584.0,
+        "Percent Change": 3.73,
+        "Volume": 10545.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-21",
+        "Open": 565.0,
+        "High": 565.0,
+        "Low": 528.3,
+        "Close": 563.0,
+        "Percent Change": 1.62,
+        "Volume": 8473.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-20",
+        "Open": 592.4,
+        "High": 592.4,
+        "Low": 554.0,
+        "Close": 554.0,
+        "Percent Change": -4.61,
+        "Volume": 4725.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-19",
+        "Open": 581.0,
+        "High": 581.0,
+        "Low": 547.5,
+        "Close": 580.8,
+        "Percent Change": 1.89,
+        "Volume": 9954.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-18",
+        "Open": 593.0,
+        "High": 593.0,
+        "Low": 558.6,
+        "Close": 570.0,
+        "Percent Change": -1.99,
+        "Volume": 7400.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-17",
+        "Open": 605.0,
+        "High": 605.0,
+        "Low": 570.4,
+        "Close": 581.6,
+        "Percent Change": -2.09,
+        "Volume": 6123.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-13",
+        "Open": 580.0,
+        "High": 594.0,
+        "Low": 569.0,
+        "Close": 594.0,
+        "Percent Change": 2.95,
+        "Volume": 4757.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-12",
+        "Open": 606.9,
+        "High": 606.9,
+        "Low": 577.0,
+        "Close": 577.0,
+        "Percent Change": -3.03,
+        "Volume": 13887.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-11",
+        "Open": 625.0,
+        "High": 637.5,
+        "Low": 585.0,
+        "Close": 595.0,
+        "Percent Change": -2.94,
+        "Volume": 8129.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-07",
+        "Open": 618.0,
+        "High": 618.0,
+        "Low": 600.0,
+        "Close": 613.0,
+        "Percent Change": 0.16,
+        "Volume": 3315.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-06",
+        "Open": 618.8,
+        "High": 618.8,
+        "Low": 595.0,
+        "Close": 612.0,
+        "Percent Change": -0.08,
+        "Volume": 7761.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-05",
+        "Open": 612.1,
+        "High": 626.0,
+        "Low": 595.0,
+        "Close": 612.5,
+        "Percent Change": -1.84,
+        "Volume": 35775.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-04",
+        "Open": 628.0,
+        "High": 649.0,
+        "Low": 618.0,
+        "Close": 624.0,
+        "Percent Change": -2.5,
+        "Volume": 27296.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-04-03",
+        "Open": 673.2,
+        "High": 673.2,
+        "Low": 637.0,
+        "Close": 640.0,
+        "Percent Change": -3.03,
+        "Volume": 5887.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-31",
+        "Open": 678.0,
+        "High": 678.0,
+        "Low": 648.0,
+        "Close": 660.0,
+        "Percent Change": -1.05,
+        "Volume": 9272.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-30",
+        "Open": 666.0,
+        "High": 668.0,
+        "Low": 649.0,
+        "Close": 667.0,
+        "Percent Change": 1.6,
+        "Volume": 13380.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-29",
+        "Open": 667.0,
+        "High": 667.0,
+        "Low": 638.0,
+        "Close": 656.5,
+        "Percent Change": 0.38,
+        "Volume": 11013.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-28",
+        "Open": 680.3,
+        "High": 680.3,
+        "Low": 654.0,
+        "Close": 654.0,
+        "Percent Change": -1.95,
+        "Volume": 17866.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-27",
+        "Open": 687.4,
+        "High": 725.0,
+        "Low": 667.0,
+        "Close": 667.0,
+        "Percent Change": -1.04,
+        "Volume": 119270.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-24",
+        "Open": 682.3,
+        "High": 682.3,
+        "Low": 657.0,
+        "Close": 674.0,
+        "Percent Change": 0.75,
+        "Volume": 33816.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-23",
+        "Open": 680.0,
+        "High": 680.0,
+        "Low": 663.1,
+        "Close": 669.0,
+        "Percent Change": -1.04,
+        "Volume": 11538.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-22",
+        "Open": 679.3,
+        "High": 679.3,
+        "Low": 663.0,
+        "Close": 676.0,
+        "Percent Change": 1.5,
+        "Volume": 19244.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-21",
+        "Open": 673.0,
+        "High": 673.0,
+        "Low": 659.0,
+        "Close": 666.0,
+        "Percent Change": 0.91,
+        "Volume": 12670.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-20",
+        "Open": 675.2,
+        "High": 675.2,
+        "Low": 654.0,
+        "Close": 660.0,
+        "Percent Change": -0.3,
+        "Volume": 9110.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-16",
+        "Open": 679.3,
+        "High": 679.3,
+        "Low": 655.0,
+        "Close": 662.0,
+        "Percent Change": -0.6,
+        "Volume": 20948.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-15",
+        "Open": 672.1,
+        "High": 672.1,
+        "Low": 647.0,
+        "Close": 666.0,
+        "Percent Change": 1.06,
+        "Volume": 11794.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-14",
+        "Open": 675.6,
+        "High": 675.6,
+        "Low": 650.0,
+        "Close": 659.0,
+        "Percent Change": -0.51,
+        "Volume": 9468.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-13",
+        "Open": 648.7,
+        "High": 664.9,
+        "Low": 640.0,
+        "Close": 662.4,
+        "Percent Change": 4.15,
+        "Volume": 15989.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-10",
+        "Open": 615.0,
+        "High": 637.0,
+        "Low": 614.6,
+        "Close": 636.0,
+        "Percent Change": 1.42,
+        "Volume": 9553.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-09",
+        "Open": 634.9,
+        "High": 647.5,
+        "Low": 600.0,
+        "Close": 627.1,
+        "Percent Change": -1.23,
+        "Volume": 32956.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-07",
+        "Open": 632.4,
+        "High": 640.0,
+        "Low": 619.9,
+        "Close": 634.9,
+        "Percent Change": 2.4,
+        "Volume": 9139.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-06",
+        "Open": 637.5,
+        "High": 663.0,
+        "Low": 620.0,
+        "Close": 620.0,
+        "Percent Change": -0.8,
+        "Volume": 10716.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-03-02",
+        "Open": 656.8,
+        "High": 656.8,
+        "Low": 622.4,
+        "Close": 625.0,
+        "Percent Change": -2.95,
+        "Volume": 8997.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-28",
+        "Open": 670.1,
+        "High": 670.1,
+        "Low": 637.0,
+        "Close": 644.0,
+        "Percent Change": -1.98,
+        "Volume": 11984.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-27",
+        "Open": 673.2,
+        "High": 673.2,
+        "Low": 650.1,
+        "Close": 657.0,
+        "Percent Change": -0.45,
+        "Volume": 8328.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-24",
+        "Open": 681.3,
+        "High": 681.3,
+        "Low": 643.0,
+        "Close": 660.0,
+        "Percent Change": -1.2,
+        "Volume": 13473.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-23",
+        "Open": 699.7,
+        "High": 699.7,
+        "Low": 667.0,
+        "Close": 668.0,
+        "Percent Change": -2.62,
+        "Volume": 12453.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-22",
+        "Open": 693.4,
+        "High": 693.4,
+        "Low": 669.4,
+        "Close": 686.0,
+        "Percent Change": 0.9,
+        "Volume": 12093.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-21",
+        "Open": 692.0,
+        "High": 705.0,
+        "Low": 670.0,
+        "Close": 679.9,
+        "Percent Change": 0.13,
+        "Volume": 11636.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-20",
+        "Open": 726.2,
+        "High": 726.2,
+        "Low": 671.0,
+        "Close": 679.0,
+        "Percent Change": -4.63,
+        "Volume": 37442.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-17",
+        "Open": 712.0,
+        "High": 712.0,
+        "Low": 686.0,
+        "Close": 712.0,
+        "Percent Change": 1.86,
+        "Volume": 8877.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-16",
+        "Open": 666.4,
+        "High": 727.0,
+        "Low": 666.4,
+        "Close": 699.0,
+        "Percent Change": 2.79,
+        "Volume": 195787.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-15",
+        "Open": 687.0,
+        "High": 690.0,
+        "Low": 668.6,
+        "Close": 680.0,
+        "Percent Change": 0.74,
+        "Volume": 51253.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-14",
+        "Open": 670.0,
+        "High": 690.0,
+        "Low": 667.0,
+        "Close": 675.0,
+        "Percent Change": -0.74,
+        "Volume": 29060.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-13",
+        "Open": 688.0,
+        "High": 701.0,
+        "Low": 672.3,
+        "Close": 680.0,
+        "Percent Change": -2.86,
+        "Volume": 37926.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-10",
+        "Open": 719.0,
+        "High": 724.0,
+        "Low": 696.0,
+        "Close": 700.0,
+        "Percent Change": -0.74,
+        "Volume": 11700.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-09",
+        "Open": 714.0,
+        "High": 724.0,
+        "Low": 702.0,
+        "Close": 705.2,
+        "Percent Change": -1.23,
+        "Volume": 11098.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-08",
+        "Open": 726.2,
+        "High": 730.9,
+        "Low": 710.0,
+        "Close": 714.0,
+        "Percent Change": 0.0,
+        "Volume": 23175.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-07",
+        "Open": 698.1,
+        "High": 719.0,
+        "Low": 698.1,
+        "Close": 712.0,
+        "Percent Change": 0.64,
+        "Volume": 38889.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-06",
+        "Open": 716.0,
+        "High": 716.0,
+        "Low": 707.1,
+        "Close": 707.5,
+        "Percent Change": -2.82,
+        "Volume": 15926.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-03",
+        "Open": 743.0,
+        "High": 743.0,
+        "Low": 721.0,
+        "Close": 728.0,
+        "Percent Change": -0.11,
+        "Volume": 26747.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-02-01",
+        "Open": 724.0,
+        "High": 732.0,
+        "Low": 717.0,
+        "Close": 728.8,
+        "Percent Change": 0.66,
+        "Volume": 30964.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-31",
+        "Open": 727.9,
+        "High": 730.0,
+        "Low": 716.1,
+        "Close": 724.0,
+        "Percent Change": -0.82,
+        "Volume": 19028.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-30",
+        "Open": 715.0,
+        "High": 743.0,
+        "Low": 715.0,
+        "Close": 730.0,
+        "Percent Change": 3.11,
+        "Volume": 12521.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-27",
+        "Open": 716.0,
+        "High": 729.9,
+        "Low": 702.0,
+        "Close": 708.0,
+        "Percent Change": 0.85,
+        "Volume": 12523.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-26",
+        "Open": 713.0,
+        "High": 715.0,
+        "Low": 698.0,
+        "Close": 702.0,
+        "Percent Change": -2.16,
+        "Volume": 25716.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-25",
+        "Open": 716.0,
+        "High": 738.0,
+        "Low": 716.0,
+        "Close": 717.5,
+        "Percent Change": -1.44,
+        "Volume": 25774.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-24",
+        "Open": 729.0,
+        "High": 738.0,
+        "Low": 715.0,
+        "Close": 728.0,
+        "Percent Change": -1.9,
+        "Volume": 53452.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-23",
+        "Open": 750.0,
+        "High": 755.0,
+        "Low": 741.0,
+        "Close": 742.1,
+        "Percent Change": 0.56,
+        "Volume": 49938.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-20",
+        "Open": 716.0,
+        "High": 746.8,
+        "Low": 707.0,
+        "Close": 738.0,
+        "Percent Change": 3.06,
+        "Volume": 48535.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-19",
+        "Open": 738.0,
+        "High": 738.0,
+        "Low": 715.0,
+        "Close": 716.1,
+        "Percent Change": -1.23,
+        "Volume": 23408.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-18",
+        "Open": 739.9,
+        "High": 742.9,
+        "Low": 722.0,
+        "Close": 725.0,
+        "Percent Change": -1.49,
+        "Volume": 22639.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-17",
+        "Open": 753.0,
+        "High": 753.0,
+        "Low": 726.2,
+        "Close": 736.0,
+        "Percent Change": -0.67,
+        "Volume": 42751.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-16",
+        "Open": 728.0,
+        "High": 753.0,
+        "Low": 737.0,
+        "Close": 741.0,
+        "Percent Change": 1.79,
+        "Volume": 74873.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-13",
+        "Open": 715.0,
+        "High": 735.0,
+        "Low": 711.0,
+        "Close": 728.0,
+        "Percent Change": 1.82,
+        "Volume": 26290.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-12",
+        "Open": 735.0,
+        "High": 747.8,
+        "Low": 698.0,
+        "Close": 715.0,
+        "Percent Change": -2.72,
+        "Volume": 54633.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-11",
+        "Open": 726.0,
+        "High": 745.6,
+        "Low": 715.2,
+        "Close": 735.0,
+        "Percent Change": 3.09,
+        "Volume": 53575.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-10",
+        "Open": 684.0,
+        "High": 716.0,
+        "Low": 678.0,
+        "Close": 713.0,
+        "Percent Change": 4.24,
+        "Volume": 52603.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-09",
+        "Open": 678.0,
+        "High": 699.0,
+        "Low": 677.1,
+        "Close": 684.0,
+        "Percent Change": 2.86,
+        "Volume": 22549.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-06",
+        "Open": 645.0,
+        "High": 671.0,
+        "Low": 644.9,
+        "Close": 665.0,
+        "Percent Change": 1.06,
+        "Volume": 9190.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-05",
+        "Open": 670.0,
+        "High": 670.0,
+        "Low": 650.0,
+        "Close": 658.0,
+        "Percent Change": -1.79,
+        "Volume": 13825.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-04",
+        "Open": 658.1,
+        "High": 680.0,
+        "Low": 653.7,
+        "Close": 670.0,
+        "Percent Change": 0.45,
+        "Volume": 8633.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-03",
+        "Open": 694.3,
+        "High": 694.3,
+        "Low": 667.0,
+        "Close": 667.0,
+        "Percent Change": -2.03,
+        "Volume": 17222.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2022-01-02",
+        "Open": 669.0,
+        "High": 688.5,
+        "Low": 656.0,
+        "Close": 680.8,
+        "Percent Change": 3.67,
+        "Volume": 20938.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-29",
+        "Open": 668.0,
+        "High": 672.0,
+        "Low": 645.0,
+        "Close": 656.7,
+        "Percent Change": 0.26,
+        "Volume": 16635.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-28",
+        "Open": 647.1,
+        "High": 659.9,
+        "Low": 635.1,
+        "Close": 655.0,
+        "Percent Change": -0.76,
+        "Volume": 12281.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-27",
+        "Open": 695.0,
+        "High": 714.0,
+        "Low": 650.0,
+        "Close": 660.0,
+        "Percent Change": -3.23,
+        "Volume": 46547.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-26",
+        "Open": 625.0,
+        "High": 682.0,
+        "Low": 625.0,
+        "Close": 682.0,
+        "Percent Change": 10.0,
+        "Volume": 40975.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-23",
+        "Open": 607.0,
+        "High": 642.0,
+        "Low": 598.0,
+        "Close": 620.0,
+        "Percent Change": 3.68,
+        "Volume": 20554.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-22",
+        "Open": 586.9,
+        "High": 618.0,
+        "Low": 586.8,
+        "Close": 598.0,
+        "Percent Change": 3.82,
+        "Volume": 12763.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-21",
+        "Open": 576.0,
+        "High": 580.0,
+        "Low": 560.0,
+        "Close": 576.0,
+        "Percent Change": 1.95,
+        "Volume": 8284.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-20",
+        "Open": 570.0,
+        "High": 581.0,
+        "Low": 565.0,
+        "Close": 565.0,
+        "Percent Change": -1.74,
+        "Volume": 4976.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-16",
+        "Open": 609.9,
+        "High": 609.9,
+        "Low": 575.0,
+        "Close": 575.0,
+        "Percent Change": -3.85,
+        "Volume": 4306.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-15",
+        "Open": 601.8,
+        "High": 630.0,
+        "Low": 590.0,
+        "Close": 598.0,
+        "Percent Change": 1.36,
+        "Volume": 11197.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-14",
+        "Open": 578.3,
+        "High": 590.0,
+        "Low": 578.3,
+        "Close": 590.0,
+        "Percent Change": 4.06,
+        "Volume": 6290.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-13",
+        "Open": 578.0,
+        "High": 580.0,
+        "Low": 550.0,
+        "Close": 567.0,
+        "Percent Change": -3.57,
+        "Volume": 16076.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-12",
+        "Open": 601.1,
+        "High": 609.0,
+        "Low": 588.0,
+        "Close": 588.0,
+        "Percent Change": -5.01,
+        "Volume": 10766.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-09",
+        "Open": 604.0,
+        "High": 639.0,
+        "Low": 603.0,
+        "Close": 619.0,
+        "Percent Change": 0.67,
+        "Volume": 4927.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-08",
+        "Open": 620.0,
+        "High": 626.0,
+        "Low": 605.0,
+        "Close": 614.9,
+        "Percent Change": -2.4,
+        "Volume": 13033.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-07",
+        "Open": 665.0,
+        "High": 670.0,
+        "Low": 630.0,
+        "Close": 630.0,
+        "Percent Change": -3.37,
+        "Volume": 7838.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-06",
+        "Open": 625.0,
+        "High": 653.0,
+        "Low": 610.0,
+        "Close": 652.0,
+        "Percent Change": 2.35,
+        "Volume": 17933.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-05",
+        "Open": 667.0,
+        "High": 667.0,
+        "Low": 617.4,
+        "Close": 637.0,
+        "Percent Change": -2.75,
+        "Volume": 10859.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-02",
+        "Open": 688.0,
+        "High": 688.0,
+        "Low": 648.0,
+        "Close": 655.0,
+        "Percent Change": -3.14,
+        "Volume": 13935.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-12-01",
+        "Open": 700.0,
+        "High": 714.0,
+        "Low": 676.2,
+        "Close": 676.2,
+        "Percent Change": -3.4,
+        "Volume": 8487.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-30",
+        "Open": 691.0,
+        "High": 705.0,
+        "Low": 669.0,
+        "Close": 700.0,
+        "Percent Change": 3.24,
+        "Volume": 11841.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-29",
+        "Open": 690.0,
+        "High": 708.0,
+        "Low": 677.0,
+        "Close": 678.0,
+        "Percent Change": -1.17,
+        "Volume": 7204.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-28",
+        "Open": 705.0,
+        "High": 716.0,
+        "Low": 685.1,
+        "Close": 686.0,
+        "Percent Change": -4.59,
+        "Volume": 20774.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-25",
+        "Open": 746.0,
+        "High": 746.0,
+        "Low": 719.0,
+        "Close": 719.0,
+        "Percent Change": -2.84,
+        "Volume": 19517.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-24",
+        "Open": 714.1,
+        "High": 740.0,
+        "Low": 706.0,
+        "Close": 740.0,
+        "Percent Change": 1.66,
+        "Volume": 12236.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-23",
+        "Open": 722.1,
+        "High": 735.0,
+        "Low": 719.1,
+        "Close": 727.9,
+        "Percent Change": -0.97,
+        "Volume": 28791.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-22",
+        "Open": 721.0,
+        "High": 742.0,
+        "Low": 721.0,
+        "Close": 735.0,
+        "Percent Change": 1.38,
+        "Volume": 33753.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-21",
+        "Open": 739.0,
+        "High": 739.0,
+        "Low": 717.0,
+        "Close": 725.0,
+        "Percent Change": 0.0,
+        "Volume": 7557.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-18",
+        "Open": 718.0,
+        "High": 749.0,
+        "Low": 715.0,
+        "Close": 725.0,
+        "Percent Change": -0.55,
+        "Volume": 47645.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-17",
+        "Open": 755.0,
+        "High": 755.0,
+        "Low": 726.5,
+        "Close": 729.0,
+        "Percent Change": -2.54,
+        "Volume": 47691.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-16",
+        "Open": 710.0,
+        "High": 750.0,
+        "Low": 710.0,
+        "Close": 748.0,
+        "Percent Change": 5.06,
+        "Volume": 28276.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-15",
+        "Open": 720.0,
+        "High": 734.0,
+        "Low": 700.0,
+        "Close": 712.0,
+        "Percent Change": 0.42,
+        "Volume": 17040.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-14",
+        "Open": 707.0,
+        "High": 718.0,
+        "Low": 694.1,
+        "Close": 709.0,
+        "Percent Change": 0.11,
+        "Volume": 21683.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-11",
+        "Open": 696.1,
+        "High": 719.0,
+        "Low": 690.0,
+        "Close": 708.2,
+        "Percent Change": -0.11,
+        "Volume": 26538.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-09",
+        "Open": 766.0,
+        "High": 766.0,
+        "Low": 695.0,
+        "Close": 709.0,
+        "Percent Change": -5.59,
+        "Volume": 60586.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-08",
+        "Open": 775.0,
+        "High": 775.2,
+        "Low": 741.1,
+        "Close": 751.0,
+        "Percent Change": -1.18,
+        "Volume": 18575.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-03",
+        "Open": 784.0,
+        "High": 788.0,
+        "Low": 752.7,
+        "Close": 760.0,
+        "Percent Change": -1.81,
+        "Volume": 30411.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-02",
+        "Open": 735.0,
+        "High": 785.0,
+        "Low": 731.0,
+        "Close": 774.0,
+        "Percent Change": 4.88,
+        "Volume": 59598.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-11-01",
+        "Open": 739.3,
+        "High": 756.0,
+        "Low": 727.1,
+        "Close": 738.0,
+        "Percent Change": 1.81,
+        "Volume": 110583.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-31",
+        "Open": 659.0,
+        "High": 724.9,
+        "Low": 659.0,
+        "Close": 724.9,
+        "Percent Change": 10.0,
+        "Volume": 49058.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-28",
+        "Open": 642.0,
+        "High": 679.3,
+        "Low": 640.0,
+        "Close": 659.0,
+        "Percent Change": 0.76,
+        "Volume": 9656.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-27",
+        "Open": 617.5,
+        "High": 680.0,
+        "Low": 617.5,
+        "Close": 654.0,
+        "Percent Change": 3.81,
+        "Volume": 25028.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-26",
+        "Open": 613.0,
+        "High": 633.4,
+        "Low": 612.0,
+        "Close": 630.0,
+        "Percent Change": 4.83,
+        "Volume": 18566.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-25",
+        "Open": 575.0,
+        "High": 601.0,
+        "Low": 575.0,
+        "Close": 601.0,
+        "Percent Change": 4.89,
+        "Volume": 13969.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-24",
+        "Open": 558.6,
+        "High": 575.0,
+        "Low": 546.0,
+        "Close": 573.0,
+        "Percent Change": 0.53,
+        "Volume": 4004.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-21",
+        "Open": 565.0,
+        "High": 584.0,
+        "Low": 552.0,
+        "Close": 570.0,
+        "Percent Change": -0.7,
+        "Volume": 7235.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-20",
+        "Open": 568.0,
+        "High": 585.0,
+        "Low": 563.5,
+        "Close": 574.0,
+        "Percent Change": 3.07,
+        "Volume": 3800.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-19",
+        "Open": 559.0,
+        "High": 569.7,
+        "Low": 548.0,
+        "Close": 556.9,
+        "Percent Change": -2.3,
+        "Volume": 18757.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-18",
+        "Open": 590.0,
+        "High": 591.6,
+        "Low": 570.0,
+        "Close": 570.0,
+        "Percent Change": -5.32,
+        "Volume": 12763.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-17",
+        "Open": 600.0,
+        "High": 612.0,
+        "Low": 587.0,
+        "Close": 602.0,
+        "Percent Change": 0.67,
+        "Volume": 5695.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-11",
+        "Open": 589.0,
+        "High": 608.0,
+        "Low": 589.0,
+        "Close": 598.0,
+        "Percent Change": 0.17,
+        "Volume": 8074.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-10",
+        "Open": 622.0,
+        "High": 622.0,
+        "Low": 595.0,
+        "Close": 597.0,
+        "Percent Change": -2.13,
+        "Volume": 12915.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-06",
+        "Open": 600.0,
+        "High": 636.6,
+        "Low": 586.2,
+        "Close": 610.0,
+        "Percent Change": 3.04,
+        "Volume": 7581.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-05",
+        "Open": 590.0,
+        "High": 596.0,
+        "Low": 580.0,
+        "Close": 592.0,
+        "Percent Change": 2.07,
+        "Volume": 7197.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-04",
+        "Open": 590.0,
+        "High": 590.0,
+        "Low": 570.0,
+        "Close": 580.0,
+        "Percent Change": 0.19,
+        "Volume": 16748.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-10-03",
+        "Open": 570.0,
+        "High": 602.0,
+        "Low": 564.0,
+        "Close": 578.9,
+        "Percent Change": 0.68,
+        "Volume": 10418.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-30",
+        "Open": 594.6,
+        "High": 594.6,
+        "Low": 575.0,
+        "Close": 575.0,
+        "Percent Change": -1.37,
+        "Volume": 8892.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-29",
+        "Open": 575.1,
+        "High": 586.0,
+        "Low": 555.0,
+        "Close": 583.0,
+        "Percent Change": 3.39,
+        "Volume": 13885.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-28",
+        "Open": 585.0,
+        "High": 596.0,
+        "Low": 555.0,
+        "Close": 563.9,
+        "Percent Change": -5.23,
+        "Volume": 21580.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-27",
+        "Open": 620.0,
+        "High": 622.0,
+        "Low": 590.0,
+        "Close": 595.0,
+        "Percent Change": -5.56,
+        "Volume": 21582.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-26",
+        "Open": 655.0,
+        "High": 660.0,
+        "Low": 630.0,
+        "Close": 630.0,
+        "Percent Change": -5.41,
+        "Volume": 15319.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-23",
+        "Open": 672.0,
+        "High": 680.0,
+        "Low": 665.0,
+        "Close": 666.0,
+        "Percent Change": -1.62,
+        "Volume": 14193.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-22",
+        "Open": 660.0,
+        "High": 683.0,
+        "Low": 660.0,
+        "Close": 677.0,
+        "Percent Change": 2.58,
+        "Volume": 13460.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-21",
+        "Open": 634.0,
+        "High": 681.0,
+        "Low": 623.0,
+        "Close": 660.0,
+        "Percent Change": 2.17,
+        "Volume": 20577.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-20",
+        "Open": 665.0,
+        "High": 665.0,
+        "Low": 645.0,
+        "Close": 646.0,
+        "Percent Change": -3.84,
+        "Volume": 21677.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-16",
+        "Open": 683.0,
+        "High": 692.0,
+        "Low": 655.0,
+        "Close": 671.8,
+        "Percent Change": -3.34,
+        "Volume": 39011.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-15",
+        "Open": 702.0,
+        "High": 710.0,
+        "Low": 690.0,
+        "Close": 695.0,
+        "Percent Change": -1.7,
+        "Volume": 21254.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-14",
+        "Open": 734.0,
+        "High": 734.0,
+        "Low": 707.0,
+        "Close": 707.0,
+        "Percent Change": -1.81,
+        "Volume": 11198.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-13",
+        "Open": 724.0,
+        "High": 733.0,
+        "Low": 709.6,
+        "Close": 720.0,
+        "Percent Change": 0.98,
+        "Volume": 25712.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-12",
+        "Open": 708.9,
+        "High": 717.0,
+        "Low": 690.0,
+        "Close": 713.0,
+        "Percent Change": 2.59,
+        "Volume": 27431.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-09",
+        "Open": 707.0,
+        "High": 717.9,
+        "Low": 692.0,
+        "Close": 695.0,
+        "Percent Change": -0.43,
+        "Volume": 21195.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-08",
+        "Open": 705.6,
+        "High": 724.0,
+        "Low": 692.0,
+        "Close": 698.0,
+        "Percent Change": -3.06,
+        "Volume": 23844.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-07",
+        "Open": 749.7,
+        "High": 749.7,
+        "Low": 709.0,
+        "Close": 720.0,
+        "Percent Change": -2.04,
+        "Volume": 27491.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-06",
+        "Open": 719.0,
+        "High": 750.0,
+        "Low": 692.2,
+        "Close": 735.0,
+        "Percent Change": 4.26,
+        "Volume": 34911.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-05",
+        "Open": 718.0,
+        "High": 729.9,
+        "Low": 678.0,
+        "Close": 705.0,
+        "Percent Change": -3.69,
+        "Volume": 54551.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-02",
+        "Open": 750.0,
+        "High": 765.0,
+        "Low": 721.0,
+        "Close": 732.0,
+        "Percent Change": -2.53,
+        "Volume": 36395.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-09-01",
+        "Open": 769.0,
+        "High": 780.0,
+        "Low": 747.0,
+        "Close": 751.0,
+        "Percent Change": -1.44,
+        "Volume": 30996.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-31",
+        "Open": 780.0,
+        "High": 780.0,
+        "Low": 731.1,
+        "Close": 762.0,
+        "Percent Change": -2.31,
+        "Volume": 52818.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-29",
+        "Open": 800.0,
+        "High": 802.0,
+        "Low": 768.0,
+        "Close": 780.0,
+        "Percent Change": -1.27,
+        "Volume": 52490.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-26",
+        "Open": 805.0,
+        "High": 805.0,
+        "Low": 782.1,
+        "Close": 790.0,
+        "Percent Change": -0.63,
+        "Volume": 50847.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-25",
+        "Open": 830.0,
+        "High": 830.0,
+        "Low": 785.0,
+        "Close": 795.0,
+        "Percent Change": -3.87,
+        "Volume": 93525.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-24",
+        "Open": 830.0,
+        "High": 860.0,
+        "Low": 825.0,
+        "Close": 827.0,
+        "Percent Change": 0.36,
+        "Volume": 199628.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-19",
+        "Open": 776.0,
+        "High": 848.0,
+        "Low": 766.0,
+        "Close": 824.0,
+        "Percent Change": 6.32,
+        "Volume": 285642.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-18",
+        "Open": 770.0,
+        "High": 790.0,
+        "Low": 755.0,
+        "Close": 775.0,
+        "Percent Change": 1.71,
+        "Volume": 58570.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-17",
+        "Open": 771.5,
+        "High": 786.0,
+        "Low": 760.0,
+        "Close": 762.0,
+        "Percent Change": -1.23,
+        "Volume": 29012.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-16",
+        "Open": 801.7,
+        "High": 801.7,
+        "Low": 770.5,
+        "Close": 771.5,
+        "Percent Change": -1.84,
+        "Volume": 40086.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-15",
+        "Open": 812.0,
+        "High": 812.0,
+        "Low": 775.0,
+        "Close": 786.0,
+        "Percent Change": -3.2,
+        "Volume": 73871.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-12",
+        "Open": 800.7,
+        "High": 816.0,
+        "Low": 780.0,
+        "Close": 812.0,
+        "Percent Change": 3.44,
+        "Volume": 151573.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-11",
+        "Open": 799.0,
+        "High": 805.0,
+        "Low": 775.0,
+        "Close": 785.0,
+        "Percent Change": 0.13,
+        "Volume": 123466.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-10",
+        "Open": 773.0,
+        "High": 791.0,
+        "Low": 760.0,
+        "Close": 784.0,
+        "Percent Change": 3.43,
+        "Volume": 56570.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-09",
+        "Open": 773.1,
+        "High": 773.1,
+        "Low": 751.1,
+        "Close": 758.0,
+        "Percent Change": 0.0,
+        "Volume": 65746.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-08",
+        "Open": 786.5,
+        "High": 802.2,
+        "Low": 745.0,
+        "Close": 758.0,
+        "Percent Change": -1.7,
+        "Volume": 75003.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-05",
+        "Open": 805.8,
+        "High": 805.8,
+        "Low": 771.0,
+        "Close": 771.1,
+        "Percent Change": -2.39,
+        "Volume": 45552.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-04",
+        "Open": 803.7,
+        "High": 803.7,
+        "Low": 782.5,
+        "Close": 790.0,
+        "Percent Change": 0.25,
+        "Volume": 53132.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-03",
+        "Open": 804.7,
+        "High": 804.7,
+        "Low": 776.0,
+        "Close": 788.0,
+        "Percent Change": -0.13,
+        "Volume": 41268.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-02",
+        "Open": 806.8,
+        "High": 816.0,
+        "Low": 781.0,
+        "Close": 789.0,
+        "Percent Change": -0.25,
+        "Volume": 81460.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-08-01",
+        "Open": 799.0,
+        "High": 801.0,
+        "Low": 786.0,
+        "Close": 791.0,
+        "Percent Change": -0.13,
+        "Volume": 86212.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-29",
+        "Open": 810.0,
+        "High": 824.0,
+        "Low": 785.0,
+        "Close": 792.0,
+        "Percent Change": -1.37,
+        "Volume": 96391.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-28",
+        "Open": 759.0,
+        "High": 808.0,
+        "Low": 758.0,
+        "Close": 803.0,
+        "Percent Change": 5.94,
+        "Volume": 178937.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-27",
+        "Open": 743.0,
+        "High": 765.0,
+        "Low": 743.0,
+        "Close": 758.0,
+        "Percent Change": 2.43,
+        "Volume": 52853.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-26",
+        "Open": 736.0,
+        "High": 745.0,
+        "Low": 733.0,
+        "Close": 740.0,
+        "Percent Change": -0.54,
+        "Volume": 35258.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-25",
+        "Open": 755.0,
+        "High": 755.0,
+        "Low": 726.0,
+        "Close": 744.0,
+        "Percent Change": -1.2,
+        "Volume": 79802.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-22",
+        "Open": 771.0,
+        "High": 771.0,
+        "Low": 752.0,
+        "Close": 753.0,
+        "Percent Change": -0.92,
+        "Volume": 22425.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-20",
+        "Open": 774.0,
+        "High": 774.0,
+        "Low": 744.0,
+        "Close": 760.0,
+        "Percent Change": 0.0,
+        "Volume": 38836.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-19",
+        "Open": 761.0,
+        "High": 787.4,
+        "Low": 750.0,
+        "Close": 760.0,
+        "Percent Change": 1.75,
+        "Volume": 51334.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-18",
+        "Open": 729.0,
+        "High": 750.0,
+        "Low": 729.0,
+        "Close": 746.9,
+        "Percent Change": 4.46,
+        "Volume": 39152.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-15",
+        "Open": 715.0,
+        "High": 731.0,
+        "Low": 715.0,
+        "Close": 715.0,
+        "Percent Change": 0.14,
+        "Volume": 24839.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-14",
+        "Open": 725.0,
+        "High": 725.0,
+        "Low": 713.0,
+        "Close": 714.0,
+        "Percent Change": -0.97,
+        "Volume": 19079.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-13",
+        "Open": 725.0,
+        "High": 730.0,
+        "Low": 712.0,
+        "Close": 721.0,
+        "Percent Change": -0.55,
+        "Volume": 18638.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-12",
+        "Open": 740.0,
+        "High": 754.0,
+        "Low": 718.0,
+        "Close": 725.0,
+        "Percent Change": -2.68,
+        "Volume": 59851.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-11",
+        "Open": 777.0,
+        "High": 777.0,
+        "Low": 730.0,
+        "Close": 745.0,
+        "Percent Change": 0.68,
+        "Volume": 33838.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-08",
+        "Open": 730.0,
+        "High": 740.0,
+        "Low": 721.0,
+        "Close": 740.0,
+        "Percent Change": 1.51,
+        "Volume": 23843.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-07",
+        "Open": 730.0,
+        "High": 730.0,
+        "Low": 715.0,
+        "Close": 729.0,
+        "Percent Change": -0.14,
+        "Volume": 56734.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-06",
+        "Open": 720.0,
+        "High": 736.0,
+        "Low": 706.0,
+        "Close": 730.0,
+        "Percent Change": 2.38,
+        "Volume": 33543.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-05",
+        "Open": 726.0,
+        "High": 726.0,
+        "Low": 700.0,
+        "Close": 713.0,
+        "Percent Change": 0.14,
+        "Volume": 74933.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-04",
+        "Open": 713.0,
+        "High": 719.0,
+        "Low": 700.0,
+        "Close": 712.0,
+        "Percent Change": -0.14,
+        "Volume": 38866.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-07-01",
+        "Open": 707.0,
+        "High": 722.0,
+        "Low": 700.0,
+        "Close": 713.0,
+        "Percent Change": 0.99,
+        "Volume": 25970.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-30",
+        "Open": 725.0,
+        "High": 725.0,
+        "Low": 698.0,
+        "Close": 706.0,
+        "Percent Change": -0.7,
+        "Volume": 42500.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-29",
+        "Open": 767.0,
+        "High": 767.0,
+        "Low": 710.0,
+        "Close": 711.0,
+        "Percent Change": -2.74,
+        "Volume": 28125.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-28",
+        "Open": 745.0,
+        "High": 749.0,
+        "Low": 730.0,
+        "Close": 731.0,
+        "Percent Change": -0.95,
+        "Volume": 31644.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-27",
+        "Open": 757.0,
+        "High": 757.0,
+        "Low": 730.0,
+        "Close": 738.0,
+        "Percent Change": -0.67,
+        "Volume": 52503.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-24",
+        "Open": 747.0,
+        "High": 759.0,
+        "Low": 740.0,
+        "Close": 743.0,
+        "Percent Change": -2.24,
+        "Volume": 31269.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-23",
+        "Open": 785.0,
+        "High": 788.0,
+        "Low": 751.0,
+        "Close": 760.0,
+        "Percent Change": -2.94,
+        "Volume": 36916.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-22",
+        "Open": 741.0,
+        "High": 790.0,
+        "Low": 737.0,
+        "Close": 783.0,
+        "Percent Change": 5.67,
+        "Volume": 48846.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-21",
+        "Open": 767.0,
+        "High": 780.0,
+        "Low": 740.0,
+        "Close": 741.0,
+        "Percent Change": -3.39,
+        "Volume": 69436.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-20",
+        "Open": 805.0,
+        "High": 807.0,
+        "Low": 756.0,
+        "Close": 767.0,
+        "Percent Change": -2.91,
+        "Volume": 79098.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-17",
+        "Open": 800.0,
+        "High": 816.0,
+        "Low": 785.0,
+        "Close": 790.0,
+        "Percent Change": -0.38,
+        "Volume": 60168.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-16",
+        "Open": 784.0,
+        "High": 821.0,
+        "Low": 784.0,
+        "Close": 793.0,
+        "Percent Change": -3.88,
+        "Volume": 115357.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-15",
+        "Open": 833.0,
+        "High": 855.0,
+        "Low": 822.0,
+        "Close": 825.0,
+        "Percent Change": -0.6,
+        "Volume": 153901.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-14",
+        "Open": 815.0,
+        "High": 840.0,
+        "Low": 813.0,
+        "Close": 830.0,
+        "Percent Change": 1.59,
+        "Volume": 105591.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-13",
+        "Open": 823.0,
+        "High": 830.0,
+        "Low": 801.0,
+        "Close": 817.0,
+        "Percent Change": -0.73,
+        "Volume": 137874.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-10",
+        "Open": 860.0,
+        "High": 868.0,
+        "Low": 820.0,
+        "Close": 823.0,
+        "Percent Change": -3.18,
+        "Volume": 138254.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-09",
+        "Open": 850.0,
+        "High": 890.0,
+        "Low": 837.0,
+        "Close": 850.0,
+        "Percent Change": 0.02,
+        "Volume": 171192.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-08",
+        "Open": 800.0,
+        "High": 844.0,
+        "Low": 765.0,
+        "Close": 833.0,
+        "Percent Change": 7.35,
+        "Volume": 311391.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-07",
+        "Open": 795.0,
+        "High": 814.0,
+        "Low": 769.0,
+        "Close": 776.0,
+        "Percent Change": 2.37,
+        "Volume": 130215.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-06",
+        "Open": 780.0,
+        "High": 786.0,
+        "Low": 750.0,
+        "Close": 758.0,
+        "Percent Change": -0.92,
+        "Volume": 56929.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-03",
+        "Open": 732.0,
+        "High": 793.0,
+        "Low": 732.0,
+        "Close": 765.0,
+        "Percent Change": -0.65,
+        "Volume": 67634.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-02",
+        "Open": 766.0,
+        "High": 795.0,
+        "Low": 748.0,
+        "Close": 770.0,
+        "Percent Change": 0.52,
+        "Volume": 67353.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-06-01",
+        "Open": 770.0,
+        "High": 795.0,
+        "Low": 748.0,
+        "Close": 766.0,
+        "Percent Change": 0.13,
+        "Volume": 100463.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-31",
+        "Open": 790.0,
+        "High": 810.0,
+        "Low": 755.0,
+        "Close": 765.0,
+        "Percent Change": -2.55,
+        "Volume": 149525.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-30",
+        "Open": 800.0,
+        "High": 800.0,
+        "Low": 776.0,
+        "Close": 785.0,
+        "Percent Change": -0.38,
+        "Volume": 164733.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-27",
+        "Open": 790.0,
+        "High": 800.0,
+        "Low": 760.0,
+        "Close": 788.0,
+        "Percent Change": -0.51,
+        "Volume": 98184.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-25",
+        "Open": 765.0,
+        "High": 810.0,
+        "Low": 745.0,
+        "Close": 792.0,
+        "Percent Change": 5.18,
+        "Volume": 312824.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-24",
+        "Open": 766.0,
+        "High": 766.0,
+        "Low": 731.0,
+        "Close": 753.0,
+        "Percent Change": 3.15,
+        "Volume": 188479.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-23",
+        "Open": 733.0,
+        "High": 740.0,
+        "Low": 716.0,
+        "Close": 730.0,
+        "Percent Change": -0.54,
+        "Volume": 80582.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-20",
+        "Open": 760.0,
+        "High": 760.0,
+        "Low": 730.0,
+        "Close": 734.0,
+        "Percent Change": -1.61,
+        "Volume": 85755.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-19",
+        "Open": 721.0,
+        "High": 749.0,
+        "Low": 721.0,
+        "Close": 746.0,
+        "Percent Change": 3.47,
+        "Volume": 232835.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-18",
+        "Open": 720.0,
+        "High": 722.0,
+        "Low": 704.0,
+        "Close": 721.0,
+        "Percent Change": 1.84,
+        "Volume": 70126.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-17",
+        "Open": 720.0,
+        "High": 734.0,
+        "Low": 708.0,
+        "Close": 708.0,
+        "Percent Change": -0.98,
+        "Volume": 55593.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-16",
+        "Open": 690.0,
+        "High": 719.0,
+        "Low": 690.0,
+        "Close": 715.0,
+        "Percent Change": 3.92,
+        "Volume": 95600.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-13",
+        "Open": 690.0,
+        "High": 697.0,
+        "Low": 685.0,
+        "Close": 688.0,
+        "Percent Change": -0.29,
+        "Volume": 16120.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-12",
+        "Open": 695.0,
+        "High": 700.0,
+        "Low": 686.0,
+        "Close": 690.0,
+        "Percent Change": -0.72,
+        "Volume": 11998.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-11",
+        "Open": 650.0,
+        "High": 700.0,
+        "Low": 650.0,
+        "Close": 695.0,
+        "Percent Change": 1.61,
+        "Volume": 28352.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-10",
+        "Open": 681.0,
+        "High": 696.0,
+        "Low": 671.0,
+        "Close": 684.0,
+        "Percent Change": 0.44,
+        "Volume": 30216.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-09",
+        "Open": 690.0,
+        "High": 695.0,
+        "Low": 670.0,
+        "Close": 681.0,
+        "Percent Change": 0.15,
+        "Volume": 43553.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-06",
+        "Open": 697.0,
+        "High": 701.0,
+        "Low": 680.0,
+        "Close": 680.0,
+        "Percent Change": -1.16,
+        "Volume": 20025.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-05",
+        "Open": 687.0,
+        "High": 695.0,
+        "Low": 687.0,
+        "Close": 688.0,
+        "Percent Change": -0.43,
+        "Volume": 12196.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-04",
+        "Open": 688.0,
+        "High": 696.0,
+        "Low": 685.0,
+        "Close": 691.0,
+        "Percent Change": -0.58,
+        "Volume": 14335.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-03",
+        "Open": 707.0,
+        "High": 718.0,
+        "Low": 685.0,
+        "Close": 695.0,
+        "Percent Change": -0.57,
+        "Volume": 47078.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-05-02",
+        "Open": 694.0,
+        "High": 706.0,
+        "Low": 690.0,
+        "Close": 699.0,
+        "Percent Change": 1.9,
+        "Volume": 44423.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-29",
+        "Open": 680.0,
+        "High": 700.0,
+        "Low": 676.0,
+        "Close": 686.0,
+        "Percent Change": -0.44,
+        "Volume": 15893.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-28",
+        "Open": 711.0,
+        "High": 711.0,
+        "Low": 680.0,
+        "Close": 689.0,
+        "Percent Change": -3.09,
+        "Volume": 29512.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-27",
+        "Open": 647.0,
+        "High": 710.0,
+        "Low": 647.0,
+        "Close": 710.0,
+        "Percent Change": 9.74,
+        "Volume": 40522.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-26",
+        "Open": 656.0,
+        "High": 674.0,
+        "Low": 640.0,
+        "Close": 647.0,
+        "Percent Change": -1.82,
+        "Volume": 42008.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-25",
+        "Open": 700.0,
+        "High": 700.0,
+        "Low": 640.0,
+        "Close": 659.0,
+        "Percent Change": -3.8,
+        "Volume": 55843.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-22",
+        "Open": 695.0,
+        "High": 695.0,
+        "Low": 677.0,
+        "Close": 685.0,
+        "Percent Change": 0.0,
+        "Volume": 31541.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-21",
+        "Open": 705.0,
+        "High": 709.0,
+        "Low": 681.0,
+        "Close": 685.0,
+        "Percent Change": -1.72,
+        "Volume": 32826.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-20",
+        "Open": 705.0,
+        "High": 714.0,
+        "Low": 693.0,
+        "Close": 697.0,
+        "Percent Change": 0.29,
+        "Volume": 26094.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-19",
+        "Open": 711.0,
+        "High": 711.0,
+        "Low": 695.0,
+        "Close": 695.0,
+        "Percent Change": -1.7,
+        "Volume": 37974.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-18",
+        "Open": 729.0,
+        "High": 729.0,
+        "Low": 706.0,
+        "Close": 707.0,
+        "Percent Change": -1.26,
+        "Volume": 34697.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-15",
+        "Open": 730.0,
+        "High": 731.0,
+        "Low": 715.0,
+        "Close": 716.0,
+        "Percent Change": -0.14,
+        "Volume": 41184.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-13",
+        "Open": 738.0,
+        "High": 741.0,
+        "Low": 716.0,
+        "Close": 717.0,
+        "Percent Change": -1.78,
+        "Volume": 45610.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-12",
+        "Open": 712.0,
+        "High": 743.0,
+        "Low": 710.0,
+        "Close": 730.0,
+        "Percent Change": 3.11,
+        "Volume": 70742.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-08",
+        "Open": 710.0,
+        "High": 715.0,
+        "Low": 705.0,
+        "Close": 708.0,
+        "Percent Change": 0.71,
+        "Volume": 34207.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-07",
+        "Open": 725.0,
+        "High": 726.0,
+        "Low": 703.0,
+        "Close": 703.0,
+        "Percent Change": -3.17,
+        "Volume": 67488.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-06",
+        "Open": 738.0,
+        "High": 749.0,
+        "Low": 724.0,
+        "Close": 726.0,
+        "Percent Change": -2.94,
+        "Volume": 111589.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-05",
+        "Open": 759.0,
+        "High": 798.0,
+        "Low": 735.0,
+        "Close": 750.0,
+        "Percent Change": -1.19,
+        "Volume": 162464.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-04",
+        "Open": 720.0,
+        "High": 770.0,
+        "Low": 719.0,
+        "Close": 759.0,
+        "Percent Change": 7.05,
+        "Volume": 253532.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-04-01",
+        "Open": 753.0,
+        "High": 753.0,
+        "Low": 702.0,
+        "Close": 709.0,
+        "Percent Change": -1.25,
+        "Volume": 166045.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-31",
+        "Open": 691.0,
+        "High": 719.0,
+        "Low": 663.0,
+        "Close": 718.0,
+        "Percent Change": 8.95,
+        "Volume": 172516.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-30",
+        "Open": 649.0,
+        "High": 665.0,
+        "Low": 626.0,
+        "Close": 659.0,
+        "Percent Change": 3.29,
+        "Volume": 69596.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-29",
+        "Open": 660.0,
+        "High": 660.0,
+        "Low": 634.0,
+        "Close": 638.0,
+        "Percent Change": 0.63,
+        "Volume": 17539.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-25",
+        "Open": 656.0,
+        "High": 656.0,
+        "Low": 632.0,
+        "Close": 634.0,
+        "Percent Change": -1.71,
+        "Volume": 45764.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-24",
+        "Open": 654.0,
+        "High": 654.0,
+        "Low": 640.0,
+        "Close": 645.0,
+        "Percent Change": 0.31,
+        "Volume": 23950.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-23",
+        "Open": 658.0,
+        "High": 658.0,
+        "Low": 636.0,
+        "Close": 643.0,
+        "Percent Change": -1.08,
+        "Volume": 18873.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-22",
+        "Open": 660.0,
+        "High": 665.0,
+        "Low": 637.0,
+        "Close": 650.0,
+        "Percent Change": -1.07,
+        "Volume": 30676.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-21",
+        "Open": 642.0,
+        "High": 666.0,
+        "Low": 632.0,
+        "Close": 657.0,
+        "Percent Change": 2.5,
+        "Volume": 50801.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-18",
+        "Open": 638.0,
+        "High": 646.0,
+        "Low": 634.0,
+        "Close": 641.0,
+        "Percent Change": 0.63,
+        "Volume": 23120.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-17",
+        "Open": 635.0,
+        "High": 642.0,
+        "Low": 630.0,
+        "Close": 637.0,
+        "Percent Change": 1.11,
+        "Volume": 12270.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-16",
+        "Open": 645.0,
+        "High": 645.0,
+        "Low": 627.0,
+        "Close": 630.0,
+        "Percent Change": -1.25,
+        "Volume": 19291.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-15",
+        "Open": 625.0,
+        "High": 657.0,
+        "Low": 623.0,
+        "Close": 638.0,
+        "Percent Change": 0.63,
+        "Volume": 19946.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-14",
+        "Open": 663.0,
+        "High": 663.0,
+        "Low": 622.0,
+        "Close": 634.0,
+        "Percent Change": -2.46,
+        "Volume": 36293.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-10",
+        "Open": 658.0,
+        "High": 671.0,
+        "Low": 641.0,
+        "Close": 650.0,
+        "Percent Change": 0.62,
+        "Volume": 21092.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-09",
+        "Open": 689.0,
+        "High": 689.0,
+        "Low": 646.0,
+        "Close": 646.0,
+        "Percent Change": -1.67,
+        "Volume": 34239.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-08",
+        "Open": 676.0,
+        "High": 681.0,
+        "Low": 655.0,
+        "Close": 657.0,
+        "Percent Change": -2.52,
+        "Volume": 59541.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-04",
+        "Open": 656.0,
+        "High": 682.0,
+        "Low": 652.0,
+        "Close": 674.0,
+        "Percent Change": 4.5,
+        "Volume": 100192.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-03",
+        "Open": 636.0,
+        "High": 655.0,
+        "Low": 634.0,
+        "Close": 645.0,
+        "Percent Change": -0.31,
+        "Volume": 65723.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-02",
+        "Open": 675.0,
+        "High": 680.0,
+        "Low": 635.0,
+        "Close": 647.0,
+        "Percent Change": -2.27,
+        "Volume": 86066.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-03-01",
+        "Open": 635.0,
+        "High": 672.0,
+        "Low": 613.0,
+        "Close": 662.0,
+        "Percent Change": 0.0,
+        "Volume": 101407.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-28",
+        "Open": 640.0,
+        "High": 650.0,
+        "Low": 618.0,
+        "Close": 629.0,
+        "Percent Change": -1.72,
+        "Volume": 97648.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-25",
+        "Open": 650.0,
+        "High": 654.0,
+        "Low": 636.0,
+        "Close": 640.0,
+        "Percent Change": 0.0,
+        "Volume": 36425.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-24",
+        "Open": 650.0,
+        "High": 677.0,
+        "Low": 642.0,
+        "Close": 650.0,
+        "Percent Change": 1.25,
+        "Volume": 50140.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-23",
+        "Open": 634.0,
+        "High": 650.0,
+        "Low": 616.0,
+        "Close": 642.0,
+        "Percent Change": 1.26,
+        "Volume": 45123.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-22",
+        "Open": 679.0,
+        "High": 679.0,
+        "Low": 628.0,
+        "Close": 634.0,
+        "Percent Change": -2.01,
+        "Volume": 47892.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-21",
+        "Open": 655.0,
+        "High": 660.0,
+        "Low": 642.0,
+        "Close": 647.0,
+        "Percent Change": -0.01,
+        "Volume": 39132.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-18",
+        "Open": 690.0,
+        "High": 690.0,
+        "Low": 655.0,
+        "Close": 655.0,
+        "Percent Change": -0.0,
+        "Volume": 49963.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-17",
+        "Open": 658.0,
+        "High": 664.0,
+        "Low": 651.0,
+        "Close": 658.0,
+        "Percent Change": -0.02,
+        "Volume": 50573.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-16",
+        "Open": 683.0,
+        "High": 685.0,
+        "Low": 661.0,
+        "Close": 670.0,
+        "Percent Change": -0.02,
+        "Volume": 49921.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-15",
+        "Open": 669.0,
+        "High": 694.0,
+        "Low": 669.0,
+        "Close": 682.0,
+        "Percent Change": 0.04,
+        "Volume": 39945.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-14",
+        "Open": 680.0,
+        "High": 688.0,
+        "Low": 648.0,
+        "Close": 656.0,
+        "Percent Change": -0.02,
+        "Volume": 73378.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-11",
+        "Open": 699.0,
+        "High": 699.0,
+        "Low": 665.0,
+        "Close": 669.0,
+        "Percent Change": -0.02,
+        "Volume": 80963.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-10",
+        "Open": 700.0,
+        "High": 703.0,
+        "Low": 680.0,
+        "Close": 686.0,
+        "Percent Change": -0.02,
+        "Volume": 69100.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-09",
+        "Open": 701.0,
+        "High": 715.0,
+        "Low": 690.0,
+        "Close": 695.0,
+        "Percent Change": -0.02,
+        "Volume": 81348.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-08",
+        "Open": 740.0,
+        "High": 750.0,
+        "Low": 703.0,
+        "Close": 710.0,
+        "Percent Change": -0.02,
+        "Volume": 132814.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-07",
+        "Open": 721.0,
+        "High": 729.0,
+        "Low": 685.0,
+        "Close": 727.0,
+        "Percent Change": 0.06,
+        "Volume": 160419.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-04",
+        "Open": 674.0,
+        "High": 700.0,
+        "Low": 661.0,
+        "Close": 687.0,
+        "Percent Change": 0.02,
+        "Volume": 116896.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-03",
+        "Open": 725.0,
+        "High": 726.0,
+        "Low": 666.0,
+        "Close": 675.0,
+        "Percent Change": -0.03,
+        "Volume": 173343.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-02",
+        "Open": 642.0,
+        "High": 693.0,
+        "Low": 626.0,
+        "Close": 693.0,
+        "Percent Change": 0.1,
+        "Volume": 202420.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-02-01",
+        "Open": 637.0,
+        "High": 650.0,
+        "Low": 630.0,
+        "Close": 630.0,
+        "Percent Change": 0.0,
+        "Volume": 88778.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-31",
+        "Open": 650.0,
+        "High": 650.0,
+        "Low": 622.0,
+        "Close": 628.0,
+        "Percent Change": -0.03,
+        "Volume": 126446.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-28",
+        "Open": 656.0,
+        "High": 666.0,
+        "Low": 620.0,
+        "Close": 645.0,
+        "Percent Change": 0.03,
+        "Volume": 209452.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-27",
+        "Open": 600.0,
+        "High": 641.0,
+        "Low": 589.0,
+        "Close": 625.0,
+        "Percent Change": 0.05,
+        "Volume": 163043.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-26",
+        "Open": 588.0,
+        "High": 599.0,
+        "Low": 574.0,
+        "Close": 593.0,
+        "Percent Change": 0.02,
+        "Volume": 141489.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-25",
+        "Open": 609.0,
+        "High": 614.0,
+        "Low": 570.0,
+        "Close": 580.0,
+        "Percent Change": -0.03,
+        "Volume": 187396.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-24",
+        "Open": 639.0,
+        "High": 639.0,
+        "Low": 588.0,
+        "Close": 598.0,
+        "Percent Change": -0.02,
+        "Volume": 117691.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-21",
+        "Open": 550.0,
+        "High": 609.0,
+        "Low": 550.0,
+        "Close": 609.0,
+        "Percent Change": 0.1,
+        "Volume": 190267.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-20",
+        "Open": 535.0,
+        "High": 560.0,
+        "Low": 525.0,
+        "Close": 554.0,
+        "Percent Change": 0.06,
+        "Volume": 252861.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-19",
+        "Open": 535.0,
+        "High": 540.0,
+        "Low": 515.0,
+        "Close": 524.0,
+        "Percent Change": -0.02,
+        "Volume": 65907.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-18",
+        "Open": 515.0,
+        "High": 540.0,
+        "Low": 515.0,
+        "Close": 533.0,
+        "Percent Change": 0.02,
+        "Volume": 141143.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-17",
+        "Open": 540.0,
+        "High": 540.0,
+        "Low": 515.0,
+        "Close": 524.0,
+        "Percent Change": -0.01,
+        "Volume": 86932.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-13",
+        "Open": 530.0,
+        "High": 538.0,
+        "Low": 530.0,
+        "Close": 530.0,
+        "Percent Change": 0.02,
+        "Volume": 82576.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-12",
+        "Open": 523.0,
+        "High": 533.0,
+        "Low": 510.0,
+        "Close": 520.0,
+        "Percent Change": 0.01,
+        "Volume": 41906.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-11",
+        "Open": 520.0,
+        "High": 525.0,
+        "Low": 511.0,
+        "Close": 513.0,
+        "Percent Change": 0.0,
+        "Volume": 34562.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-10",
+        "Open": 519.0,
+        "High": 526.0,
+        "Low": 507.0,
+        "Close": 512.0,
+        "Percent Change": -0.01,
+        "Volume": 54121.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-07",
+        "Open": 550.0,
+        "High": 550.0,
+        "Low": 517.0,
+        "Close": 519.0,
+        "Percent Change": -0.01,
+        "Volume": 115584.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-06",
+        "Open": 511.0,
+        "High": 540.0,
+        "Low": 501.0,
+        "Close": 526.0,
+        "Percent Change": 0.04,
+        "Volume": 234437.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-05",
+        "Open": 480.0,
+        "High": 511.0,
+        "Low": 470.0,
+        "Close": 504.0,
+        "Percent Change": 0.05,
+        "Volume": 237612.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-04",
+        "Open": 465.0,
+        "High": 485.0,
+        "Low": 462.0,
+        "Close": 480.0,
+        "Percent Change": 0.04,
+        "Volume": 115684.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2021-01-03",
+        "Open": 453.0,
+        "High": 465.0,
+        "Low": 449.0,
+        "Close": 460.0,
+        "Percent Change": 0.02,
+        "Volume": 39930.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-31",
+        "Open": 452.0,
+        "High": 460.0,
+        "Low": 451.0,
+        "Close": 453.0,
+        "Percent Change": -0.01,
+        "Volume": 15367.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-30",
+        "Open": 450.0,
+        "High": 467.0,
+        "Low": 450.0,
+        "Close": 457.0,
+        "Percent Change": -0.0,
+        "Volume": 17916.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-29",
+        "Open": 457.0,
+        "High": 470.0,
+        "Low": 450.0,
+        "Close": 459.0,
+        "Percent Change": 0.0,
+        "Volume": 22108.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-28",
+        "Open": 462.0,
+        "High": 464.0,
+        "Low": 450.0,
+        "Close": 457.0,
+        "Percent Change": 0.0,
+        "Volume": 11136.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-27",
+        "Open": 463.0,
+        "High": 465.0,
+        "Low": 455.0,
+        "Close": 456.0,
+        "Percent Change": -0.02,
+        "Volume": 20960.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-24",
+        "Open": 489.0,
+        "High": 489.0,
+        "Low": 458.0,
+        "Close": 463.0,
+        "Percent Change": -0.01,
+        "Volume": 14524.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-23",
+        "Open": 485.0,
+        "High": 487.0,
+        "Low": 466.0,
+        "Close": 466.0,
+        "Percent Change": -0.03,
+        "Volume": 23386.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-22",
+        "Open": 461.0,
+        "High": 478.0,
+        "Low": 457.0,
+        "Close": 478.0,
+        "Percent Change": 0.06,
+        "Volume": 44700.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-21",
+        "Open": 446.0,
+        "High": 465.0,
+        "Low": 432.0,
+        "Close": 452.0,
+        "Percent Change": -0.01,
+        "Volume": 35284.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-20",
+        "Open": 471.0,
+        "High": 472.0,
+        "Low": 455.0,
+        "Close": 455.0,
+        "Percent Change": -0.03,
+        "Volume": 52324.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-17",
+        "Open": 470.0,
+        "High": 486.0,
+        "Low": 470.0,
+        "Close": 471.0,
+        "Percent Change": 0.0,
+        "Volume": 60316.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-16",
+        "Open": 480.0,
+        "High": 484.0,
+        "Low": 470.0,
+        "Close": 471.0,
+        "Percent Change": -0.02,
+        "Volume": 17146.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-15",
+        "Open": 487.0,
+        "High": 495.0,
+        "Low": 480.0,
+        "Close": 480.0,
+        "Percent Change": 0.0,
+        "Volume": 84576.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-14",
+        "Open": 471.0,
+        "High": 492.0,
+        "Low": 471.0,
+        "Close": 478.0,
+        "Percent Change": 0.03,
+        "Volume": 99824.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-13",
+        "Open": 464.0,
+        "High": 465.0,
+        "Low": 456.0,
+        "Close": 462.0,
+        "Percent Change": 0.0,
+        "Volume": 11048.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-10",
+        "Open": 453.0,
+        "High": 480.0,
+        "Low": 449.0,
+        "Close": 462.0,
+        "Percent Change": 0.0,
+        "Volume": 30554.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-09",
+        "Open": 478.0,
+        "High": 478.0,
+        "Low": 457.0,
+        "Close": 462.0,
+        "Percent Change": -0.03,
+        "Volume": 32688.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-08",
+        "Open": 495.0,
+        "High": 495.0,
+        "Low": 470.0,
+        "Close": 477.0,
+        "Percent Change": -0.02,
+        "Volume": 26987.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-07",
+        "Open": 448.0,
+        "High": 486.0,
+        "Low": 445.0,
+        "Close": 486.0,
+        "Percent Change": 0.08,
+        "Volume": 72536.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-06",
+        "Open": 475.0,
+        "High": 475.0,
+        "Low": 448.0,
+        "Close": 448.0,
+        "Percent Change": -0.07,
+        "Volume": 45488.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-03",
+        "Open": 500.0,
+        "High": 502.0,
+        "Low": 477.0,
+        "Close": 480.0,
+        "Percent Change": -0.03,
+        "Volume": 49823.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-02",
+        "Open": 478.0,
+        "High": 495.0,
+        "Low": 471.0,
+        "Close": 494.0,
+        "Percent Change": 0.05,
+        "Volume": 89627.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-12-01",
+        "Open": 505.0,
+        "High": 505.0,
+        "Low": 472.0,
+        "Close": 472.0,
+        "Percent Change": -0.02,
+        "Volume": 35463.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-30",
+        "Open": 475.0,
+        "High": 491.0,
+        "Low": 471.0,
+        "Close": 481.0,
+        "Percent Change": 0.01,
+        "Volume": 57023.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-29",
+        "Open": 495.0,
+        "High": 495.0,
+        "Low": 466.0,
+        "Close": 474.0,
+        "Percent Change": 0.0,
+        "Volume": 63254.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-26",
+        "Open": 513.0,
+        "High": 513.0,
+        "Low": 472.0,
+        "Close": 472.0,
+        "Percent Change": -0.03,
+        "Volume": 63580.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-25",
+        "Open": 480.0,
+        "High": 498.0,
+        "Low": 480.0,
+        "Close": 490.0,
+        "Percent Change": 0.02,
+        "Volume": 66477.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-24",
+        "Open": 468.0,
+        "High": 481.0,
+        "Low": 466.0,
+        "Close": 480.0,
+        "Percent Change": 0.03,
+        "Volume": 64939.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-23",
+        "Open": 465.0,
+        "High": 474.0,
+        "Low": 465.0,
+        "Close": 468.0,
+        "Percent Change": -0.0,
+        "Volume": 62121.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-22",
+        "Open": 495.0,
+        "High": 508.0,
+        "Low": 457.0,
+        "Close": 469.0,
+        "Percent Change": -0.04,
+        "Volume": 97984.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-19",
+        "Open": 475.0,
+        "High": 500.0,
+        "Low": 469.0,
+        "Close": 490.0,
+        "Percent Change": 0.0,
+        "Volume": 158009.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-18",
+        "Open": 452.0,
+        "High": 473.0,
+        "Low": 442.0,
+        "Close": 468.0,
+        "Percent Change": 0.0,
+        "Volume": 75304.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-12",
+        "Open": 463.0,
+        "High": 463.0,
+        "Low": 440.0,
+        "Close": 460.0,
+        "Percent Change": -0.0,
+        "Volume": 86493.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-11",
+        "Open": 444.0,
+        "High": 459.0,
+        "Low": 444.0,
+        "Close": 454.0,
+        "Percent Change": 3.89,
+        "Volume": 148622.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-10",
+        "Open": 421.0,
+        "High": 439.0,
+        "Low": 421.0,
+        "Close": 437.0,
+        "Percent Change": 3.31,
+        "Volume": 44230.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-09",
+        "Open": 420.0,
+        "High": 431.0,
+        "Low": 420.0,
+        "Close": 423.0,
+        "Percent Change": 0.71,
+        "Volume": 14605.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-08",
+        "Open": 433.0,
+        "High": 433.0,
+        "Low": 418.0,
+        "Close": 420.0,
+        "Percent Change": -1.18,
+        "Volume": 22457.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-05",
+        "Open": 432.0,
+        "High": 432.0,
+        "Low": 421.0,
+        "Close": 425.0,
+        "Percent Change": 0.0,
+        "Volume": 11865.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-04",
+        "Open": 430.0,
+        "High": 432.0,
+        "Low": 423.0,
+        "Close": 425.0,
+        "Percent Change": -1.16,
+        "Volume": 14018.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-03",
+        "Open": 437.0,
+        "High": 438.0,
+        "Low": 430.0,
+        "Close": 430.0,
+        "Percent Change": -0.23,
+        "Volume": 13148.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-02",
+        "Open": 423.0,
+        "High": 435.0,
+        "Low": 423.0,
+        "Close": 431.0,
+        "Percent Change": 0.7,
+        "Volume": 24065.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-11-01",
+        "Open": 421.0,
+        "High": 432.0,
+        "Low": 417.0,
+        "Close": 428.0,
+        "Percent Change": 1.9,
+        "Volume": 13008.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-29",
+        "Open": 426.0,
+        "High": 426.0,
+        "Low": 419.0,
+        "Close": 420.0,
+        "Percent Change": 0.24,
+        "Volume": 14849.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-28",
+        "Open": 425.0,
+        "High": 425.0,
+        "Low": 413.0,
+        "Close": 419.0,
+        "Percent Change": 0.48,
+        "Volume": 9859.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-22",
+        "Open": 424.0,
+        "High": 424.0,
+        "Low": 417.0,
+        "Close": 417.0,
+        "Percent Change": -0.24,
+        "Volume": 10270.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-21",
+        "Open": 425.0,
+        "High": 425.0,
+        "Low": 417.0,
+        "Close": 418.0,
+        "Percent Change": -0.48,
+        "Volume": 4956.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-20",
+        "Open": 421.0,
+        "High": 422.0,
+        "Low": 418.0,
+        "Close": 420.0,
+        "Percent Change": 1.2,
+        "Volume": 13812.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-19",
+        "Open": 415.0,
+        "High": 420.0,
+        "Low": 410.0,
+        "Close": 415.0,
+        "Percent Change": 0.97,
+        "Volume": 3522.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-18",
+        "Open": 415.0,
+        "High": 415.0,
+        "Low": 408.0,
+        "Close": 411.0,
+        "Percent Change": 0.0,
+        "Volume": 6684.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-15",
+        "Open": 420.0,
+        "High": 426.0,
+        "Low": 411.0,
+        "Close": 411.0,
+        "Percent Change": -0.24,
+        "Volume": 11577.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-14",
+        "Open": 414.0,
+        "High": 417.0,
+        "Low": 410.0,
+        "Close": 412.0,
+        "Percent Change": -1.44,
+        "Volume": 27767.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-13",
+        "Open": 421.0,
+        "High": 426.0,
+        "Low": 415.0,
+        "Close": 418.0,
+        "Percent Change": -2.56,
+        "Volume": 48202.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-12",
+        "Open": 428.0,
+        "High": 431.0,
+        "Low": 423.0,
+        "Close": 429.0,
+        "Percent Change": 0.23,
+        "Volume": 15040.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-11",
+        "Open": 421.0,
+        "High": 433.0,
+        "Low": 421.0,
+        "Close": 428.0,
+        "Percent Change": -0.47,
+        "Volume": 16136.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-08",
+        "Open": 436.0,
+        "High": 442.0,
+        "Low": 430.0,
+        "Close": 430.0,
+        "Percent Change": -1.38,
+        "Volume": 37333.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-07",
+        "Open": 430.0,
+        "High": 436.0,
+        "Low": 429.0,
+        "Close": 436.0,
+        "Percent Change": 0.69,
+        "Volume": 21757.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-06",
+        "Open": 412.0,
+        "High": 438.0,
+        "Low": 412.0,
+        "Close": 433.0,
+        "Percent Change": 0.0,
+        "Volume": 11238.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-05",
+        "Open": 445.0,
+        "High": 447.0,
+        "Low": 433.0,
+        "Close": 433.0,
+        "Percent Change": -1.37,
+        "Volume": 9205.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-04",
+        "Open": 450.0,
+        "High": 458.0,
+        "Low": 439.0,
+        "Close": 439.0,
+        "Percent Change": -0.68,
+        "Volume": 33184.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-10-01",
+        "Open": 430.0,
+        "High": 442.0,
+        "Low": 423.0,
+        "Close": 442.0,
+        "Percent Change": 4.49,
+        "Volume": 45557.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-30",
+        "Open": 423.0,
+        "High": 428.0,
+        "Low": 417.0,
+        "Close": 423.0,
+        "Percent Change": 0.0,
+        "Volume": 21915.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-29",
+        "Open": 447.0,
+        "High": 447.0,
+        "Low": 421.0,
+        "Close": 423.0,
+        "Percent Change": -0.7,
+        "Volume": 16605.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-28",
+        "Open": 435.0,
+        "High": 435.0,
+        "Low": 426.0,
+        "Close": 426.0,
+        "Percent Change": -0.7,
+        "Volume": 12655.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-27",
+        "Open": 435.0,
+        "High": 435.0,
+        "Low": 429.0,
+        "Close": 429.0,
+        "Percent Change": -1.38,
+        "Volume": 12431.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-24",
+        "Open": 445.0,
+        "High": 445.0,
+        "Low": 430.0,
+        "Close": 435.0,
+        "Percent Change": 1.16,
+        "Volume": 27516.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-23",
+        "Open": 430.0,
+        "High": 439.0,
+        "Low": 420.0,
+        "Close": 430.0,
+        "Percent Change": 0.7,
+        "Volume": 22891.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-22",
+        "Open": 438.0,
+        "High": 438.0,
+        "Low": 423.0,
+        "Close": 427.0,
+        "Percent Change": -1.84,
+        "Volume": 44972.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-21",
+        "Open": 442.0,
+        "High": 442.0,
+        "Low": 435.0,
+        "Close": 435.0,
+        "Percent Change": -1.58,
+        "Volume": 36842.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-20",
+        "Open": 453.0,
+        "High": 453.0,
+        "Low": 441.0,
+        "Close": 442.0,
+        "Percent Change": -1.78,
+        "Volume": 18274.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-17",
+        "Open": 462.0,
+        "High": 462.0,
+        "Low": 448.0,
+        "Close": 450.0,
+        "Percent Change": -0.88,
+        "Volume": 28353.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-16",
+        "Open": 449.0,
+        "High": 460.0,
+        "Low": 442.0,
+        "Close": 454.0,
+        "Percent Change": -0.22,
+        "Volume": 34098.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-15",
+        "Open": 477.0,
+        "High": 477.0,
+        "Low": 438.0,
+        "Close": 455.0,
+        "Percent Change": 0.0,
+        "Volume": 57299.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-14",
+        "Open": 490.0,
+        "High": 490.0,
+        "Low": 452.0,
+        "Close": 455.0,
+        "Percent Change": -2.57,
+        "Volume": 71844.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-13",
+        "Open": 467.0,
+        "High": 479.0,
+        "Low": 445.0,
+        "Close": 467.0,
+        "Percent Change": 4.94,
+        "Volume": 178844.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-10",
+        "Open": 432.0,
+        "High": 447.0,
+        "Low": 429.0,
+        "Close": 445.0,
+        "Percent Change": 4.71,
+        "Volume": 84888.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-09",
+        "Open": 421.0,
+        "High": 429.0,
+        "Low": 419.0,
+        "Close": 425.0,
+        "Percent Change": 0.95,
+        "Volume": 53497.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-08",
+        "Open": 420.0,
+        "High": 426.0,
+        "Low": 410.0,
+        "Close": 421.0,
+        "Percent Change": 0.96,
+        "Volume": 36084.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-07",
+        "Open": 415.0,
+        "High": 422.0,
+        "Low": 408.0,
+        "Close": 417.0,
+        "Percent Change": -0.71,
+        "Volume": 31857.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-06",
+        "Open": 446.0,
+        "High": 446.0,
+        "Low": 417.0,
+        "Close": 420.0,
+        "Percent Change": -1.18,
+        "Volume": 42158.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-03",
+        "Open": 439.0,
+        "High": 439.0,
+        "Low": 410.0,
+        "Close": 425.0,
+        "Percent Change": 1.43,
+        "Volume": 58370.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-09-02",
+        "Open": 428.0,
+        "High": 442.0,
+        "Low": 418.0,
+        "Close": 419.0,
+        "Percent Change": -0.24,
+        "Volume": 136972.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-31",
+        "Open": 412.0,
+        "High": 441.0,
+        "Low": 405.0,
+        "Close": 420.0,
+        "Percent Change": 3.96,
+        "Volume": 128460.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-30",
+        "Open": 408.0,
+        "High": 410.0,
+        "Low": 401.0,
+        "Close": 404.0,
+        "Percent Change": -0.98,
+        "Volume": 18361.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-27",
+        "Open": 414.0,
+        "High": 414.0,
+        "Low": 400.0,
+        "Close": 408.0,
+        "Percent Change": 0.49,
+        "Volume": 62737.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-26",
+        "Open": 406.0,
+        "High": 414.0,
+        "Low": 405.0,
+        "Close": 406.0,
+        "Percent Change": -0.98,
+        "Volume": 68884.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-25",
+        "Open": 429.0,
+        "High": 429.0,
+        "Low": 406.0,
+        "Close": 410.0,
+        "Percent Change": 0.24,
+        "Volume": 70011.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-24",
+        "Open": 423.0,
+        "High": 423.0,
+        "Low": 404.0,
+        "Close": 409.0,
+        "Percent Change": 1.49,
+        "Volume": 86763.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-23",
+        "Open": 398.0,
+        "High": 404.0,
+        "Low": 389.0,
+        "Close": 403.0,
+        "Percent Change": 2.54,
+        "Volume": 51606.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-20",
+        "Open": 392.0,
+        "High": 395.0,
+        "Low": 390.0,
+        "Close": 393.0,
+        "Percent Change": 0.51,
+        "Volume": 14031.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-19",
+        "Open": 400.0,
+        "High": 400.0,
+        "Low": 387.0,
+        "Close": 391.0,
+        "Percent Change": -2.25,
+        "Volume": 30716.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-18",
+        "Open": 406.0,
+        "High": 407.0,
+        "Low": 398.0,
+        "Close": 400.0,
+        "Percent Change": 0.0,
+        "Volume": 28318.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-17",
+        "Open": 403.0,
+        "High": 405.0,
+        "Low": 394.0,
+        "Close": 400.0,
+        "Percent Change": 1.01,
+        "Volume": 72823.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-16",
+        "Open": 403.0,
+        "High": 405.0,
+        "Low": 385.0,
+        "Close": 396.0,
+        "Percent Change": -1.74,
+        "Volume": 75070.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-13",
+        "Open": 413.0,
+        "High": 416.0,
+        "Low": 403.0,
+        "Close": 403.0,
+        "Percent Change": -2.89,
+        "Volume": 44278.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-12",
+        "Open": 400.0,
+        "High": 421.0,
+        "Low": 396.0,
+        "Close": 415.0,
+        "Percent Change": 2.98,
+        "Volume": 150511.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-11",
+        "Open": 389.0,
+        "High": 406.0,
+        "Low": 382.0,
+        "Close": 403.0,
+        "Percent Change": 5.22,
+        "Volume": 119886.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-10",
+        "Open": 372.0,
+        "High": 385.0,
+        "Low": 366.0,
+        "Close": 383.0,
+        "Percent Change": 4.93,
+        "Volume": 37074.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-09",
+        "Open": 355.0,
+        "High": 376.0,
+        "Low": 346.0,
+        "Close": 365.0,
+        "Percent Change": 1.39,
+        "Volume": 14193.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-06",
+        "Open": 346.0,
+        "High": 364.0,
+        "Low": 346.0,
+        "Close": 360.0,
+        "Percent Change": 1.69,
+        "Volume": 19903.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-05",
+        "Open": 363.0,
+        "High": 363.0,
+        "Low": 350.0,
+        "Close": 354.0,
+        "Percent Change": -2.48,
+        "Volume": 9676.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-03",
+        "Open": 363.0,
+        "High": 370.0,
+        "Low": 357.0,
+        "Close": 363.0,
+        "Percent Change": 0.0,
+        "Volume": 15316.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-08-02",
+        "Open": 374.0,
+        "High": 376.0,
+        "Low": 359.0,
+        "Close": 363.0,
+        "Percent Change": -4.47,
+        "Volume": 25806.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-30",
+        "Open": 380.0,
+        "High": 383.0,
+        "Low": 375.0,
+        "Close": 380.0,
+        "Percent Change": 0.26,
+        "Volume": 13591.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-29",
+        "Open": 382.0,
+        "High": 396.0,
+        "Low": 375.0,
+        "Close": 379.0,
+        "Percent Change": -2.57,
+        "Volume": 16810.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-28",
+        "Open": 388.0,
+        "High": 402.0,
+        "Low": 382.0,
+        "Close": 389.0,
+        "Percent Change": 0.52,
+        "Volume": 22193.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-27",
+        "Open": 394.0,
+        "High": 405.0,
+        "Low": 385.0,
+        "Close": 387.0,
+        "Percent Change": -2.03,
+        "Volume": 22837.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-26",
+        "Open": 379.0,
+        "High": 399.0,
+        "Low": 378.0,
+        "Close": 395.0,
+        "Percent Change": 3.4,
+        "Volume": 47403.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-23",
+        "Open": 400.0,
+        "High": 400.0,
+        "Low": 370.0,
+        "Close": 382.0,
+        "Percent Change": 0.26,
+        "Volume": 28260.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-22",
+        "Open": 395.0,
+        "High": 395.0,
+        "Low": 376.0,
+        "Close": 381.0,
+        "Percent Change": -2.31,
+        "Volume": 13367.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-21",
+        "Open": 388.0,
+        "High": 400.0,
+        "Low": 381.0,
+        "Close": 390.0,
+        "Percent Change": -1.27,
+        "Volume": 17803.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-20",
+        "Open": 421.0,
+        "High": 441.0,
+        "Low": 388.0,
+        "Close": 395.0,
+        "Percent Change": -1.5,
+        "Volume": 53449.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-19",
+        "Open": 394.0,
+        "High": 401.0,
+        "Low": 394.0,
+        "Close": 401.0,
+        "Percent Change": 3.62,
+        "Volume": 849.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-16",
+        "Open": 377.0,
+        "High": 387.0,
+        "Low": 374.0,
+        "Close": 387.0,
+        "Percent Change": 4.59,
+        "Volume": 26394.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-15",
+        "Open": 370.0,
+        "High": 378.0,
+        "Low": 370.0,
+        "Close": 370.0,
+        "Percent Change": -1.86,
+        "Volume": 19095.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-14",
+        "Open": 378.0,
+        "High": 382.0,
+        "Low": 372.0,
+        "Close": 377.0,
+        "Percent Change": 0.27,
+        "Volume": 10002.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-13",
+        "Open": 382.0,
+        "High": 382.0,
+        "Low": 374.0,
+        "Close": 376.0,
+        "Percent Change": -1.05,
+        "Volume": 14993.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-12",
+        "Open": 382.0,
+        "High": 392.0,
+        "Low": 376.0,
+        "Close": 380.0,
+        "Percent Change": 1.33,
+        "Volume": 24923.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-09",
+        "Open": 377.0,
+        "High": 380.0,
+        "Low": 356.0,
+        "Close": 375.0,
+        "Percent Change": 1.35,
+        "Volume": 13773.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-08",
+        "Open": 365.0,
+        "High": 393.0,
+        "Low": 346.0,
+        "Close": 370.0,
+        "Percent Change": 2.78,
+        "Volume": 35117.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-07",
+        "Open": 334.0,
+        "High": 360.0,
+        "Low": 334.0,
+        "Close": 360.0,
+        "Percent Change": 9.76,
+        "Volume": 31153.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-06",
+        "Open": 304.0,
+        "High": 328.0,
+        "Low": 304.0,
+        "Close": 328.0,
+        "Percent Change": 9.7,
+        "Volume": 15258.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-05",
+        "Open": 290.0,
+        "High": 314.0,
+        "Low": 283.0,
+        "Close": 299.0,
+        "Percent Change": 2.4,
+        "Volume": 15875.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-02",
+        "Open": 330.0,
+        "High": 338.0,
+        "Low": 292.0,
+        "Close": 292.0,
+        "Percent Change": -9.88,
+        "Volume": 10768.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-07-01",
+        "Open": 317.0,
+        "High": 337.0,
+        "Low": 317.0,
+        "Close": 324.0,
+        "Percent Change": 4.18,
+        "Volume": 3440.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-06-30",
+        "Open": 288.0,
+        "High": 311.0,
+        "Low": 288.0,
+        "Close": 311.0,
+        "Percent Change": 9.89,
+        "Volume": 2313.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-06-29",
+        "Open": 293.0,
+        "High": 293.0,
+        "Low": 273.0,
+        "Close": 283.0,
+        "Percent Change": -5.03,
+        "Volume": 4761.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-05-12",
+        "Open": 301.0,
+        "High": 301.0,
+        "Low": 298.0,
+        "Close": 298.0,
+        "Percent Change": -2.93,
+        "Volume": 700.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-03-22",
+        "Open": 313.0,
+        "High": 313.0,
+        "Low": 301.0,
+        "Close": 307.0,
+        "Percent Change": 0.0,
+        "Volume": 636.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-03-19",
+        "Open": 299.0,
+        "High": 318.0,
+        "Low": 292.0,
+        "Close": 307.0,
+        "Percent Change": -0.65,
+        "Volume": 23737.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-03-18",
+        "Open": 314.0,
+        "High": 327.0,
+        "Low": 284.0,
+        "Close": 309.0,
+        "Percent Change": -0.64,
+        "Volume": 32474.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-03-17",
+        "Open": 347.0,
+        "High": 347.0,
+        "Low": 311.0,
+        "Close": 311.0,
+        "Percent Change": -9.86,
+        "Volume": 60602.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-03-16",
+        "Open": 340.0,
+        "High": 352.0,
+        "Low": 324.0,
+        "Close": 345.0,
+        "Percent Change": 3.29,
+        "Volume": 19598.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-03-15",
+        "Open": 361.0,
+        "High": 361.0,
+        "Low": 334.0,
+        "Close": 334.0,
+        "Percent Change": -9.24,
+        "Volume": 29421.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-03-12",
+        "Open": 384.0,
+        "High": 391.0,
+        "Low": 363.0,
+        "Close": 368.0,
+        "Percent Change": -2.39,
+        "Volume": 34978.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-03-11",
+        "Open": 349.0,
+        "High": 377.0,
+        "Low": 338.0,
+        "Close": 377.0,
+        "Percent Change": 9.91,
+        "Volume": 26494.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-03-10",
+        "Open": 370.0,
+        "High": 370.0,
+        "Low": 343.0,
+        "Close": 343.0,
+        "Percent Change": -9.02,
+        "Volume": 5809.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-03-05",
+        "Open": 374.0,
+        "High": 395.0,
+        "Low": 367.0,
+        "Close": 377.0,
+        "Percent Change": -1.05,
+        "Volume": 23057.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-03-04",
+        "Open": 395.0,
+        "High": 408.0,
+        "Low": 376.0,
+        "Close": 381.0,
+        "Percent Change": -5.46,
+        "Volume": 49824.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-03-03",
+        "Open": 378.0,
+        "High": 415.0,
+        "Low": 353.0,
+        "Close": 403.0,
+        "Percent Change": 6.61,
+        "Volume": 51206.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-03-02",
+        "Open": 432.0,
+        "High": 432.0,
+        "Low": 378.0,
+        "Close": 378.0,
+        "Percent Change": -8.25,
+        "Volume": 26648.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-03-01",
+        "Open": 431.0,
+        "High": 452.0,
+        "Low": 407.0,
+        "Close": 412.0,
+        "Percent Change": -4.41,
+        "Volume": 44518.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-27",
+        "Open": 445.0,
+        "High": 455.0,
+        "Low": 431.0,
+        "Close": 431.0,
+        "Percent Change": -4.86,
+        "Volume": 58657.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-26",
+        "Open": 451.0,
+        "High": 472.0,
+        "Low": 444.0,
+        "Close": 453.0,
+        "Percent Change": 0.0,
+        "Volume": 69351.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-25",
+        "Open": 439.0,
+        "High": 460.0,
+        "Low": 432.0,
+        "Close": 453.0,
+        "Percent Change": 4.62,
+        "Volume": 57335.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-24",
+        "Open": 454.0,
+        "High": 463.0,
+        "Low": 432.0,
+        "Close": 433.0,
+        "Percent Change": -4.63,
+        "Volume": 49316.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-23",
+        "Open": 483.0,
+        "High": 483.0,
+        "Low": 443.0,
+        "Close": 454.0,
+        "Percent Change": -1.3,
+        "Volume": 82206.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-20",
+        "Open": 438.0,
+        "High": 473.0,
+        "Low": 441.0,
+        "Close": 460.0,
+        "Percent Change": 5.02,
+        "Volume": 24769.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-19",
+        "Open": 439.0,
+        "High": 446.0,
+        "Low": 433.0,
+        "Close": 438.0,
+        "Percent Change": -2.01,
+        "Volume": 8123.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-18",
+        "Open": 460.0,
+        "High": 460.0,
+        "Low": 436.0,
+        "Close": 447.0,
+        "Percent Change": -1.76,
+        "Volume": 10983.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-17",
+        "Open": 448.0,
+        "High": 470.0,
+        "Low": 448.0,
+        "Close": 455.0,
+        "Percent Change": 3.41,
+        "Volume": 31772.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-16",
+        "Open": 424.0,
+        "High": 448.0,
+        "Low": 420.0,
+        "Close": 440.0,
+        "Percent Change": 3.77,
+        "Volume": 19666.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-13",
+        "Open": 432.0,
+        "High": 432.0,
+        "Low": 423.0,
+        "Close": 424.0,
+        "Percent Change": 0.0,
+        "Volume": 9065.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-12",
+        "Open": 430.0,
+        "High": 435.0,
+        "Low": 423.0,
+        "Close": 424.0,
+        "Percent Change": 0.0,
+        "Volume": 5386.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-11",
+        "Open": 428.0,
+        "High": 435.0,
+        "Low": 424.0,
+        "Close": 424.0,
+        "Percent Change": 0.71,
+        "Volume": 4989.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-10",
+        "Open": 413.0,
+        "High": 425.0,
+        "Low": 405.0,
+        "Close": 421.0,
+        "Percent Change": 1.94,
+        "Volume": 5270.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-09",
+        "Open": 425.0,
+        "High": 425.0,
+        "Low": 413.0,
+        "Close": 413.0,
+        "Percent Change": -2.82,
+        "Volume": 12901.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-06",
+        "Open": 439.0,
+        "High": 439.0,
+        "Low": 421.0,
+        "Close": 425.0,
+        "Percent Change": -2.3,
+        "Volume": 16900.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-05",
+        "Open": 426.0,
+        "High": 442.0,
+        "Low": 426.0,
+        "Close": 435.0,
+        "Percent Change": 0.23,
+        "Volume": 6911.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-04",
+        "Open": 429.0,
+        "High": 439.0,
+        "Low": 425.0,
+        "Close": 434.0,
+        "Percent Change": 1.4,
+        "Volume": 12387.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-03",
+        "Open": 430.0,
+        "High": 436.0,
+        "Low": 421.0,
+        "Close": 428.0,
+        "Percent Change": 0.0,
+        "Volume": 15211.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-02-02",
+        "Open": 433.0,
+        "High": 441.0,
+        "Low": 425.0,
+        "Close": 428.0,
+        "Percent Change": 0.71,
+        "Volume": 18666.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-30",
+        "Open": 400.0,
+        "High": 435.0,
+        "Low": 400.0,
+        "Close": 425.0,
+        "Percent Change": 7.32,
+        "Volume": 47745.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-29",
+        "Open": 382.0,
+        "High": 398.0,
+        "Low": 380.0,
+        "Close": 396.0,
+        "Percent Change": 4.76,
+        "Volume": 10756.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-28",
+        "Open": 376.0,
+        "High": 385.0,
+        "Low": 370.0,
+        "Close": 378.0,
+        "Percent Change": 2.44,
+        "Volume": 8130.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-27",
+        "Open": 354.0,
+        "High": 381.0,
+        "Low": 353.0,
+        "Close": 369.0,
+        "Percent Change": 2.5,
+        "Volume": 4478.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-26",
+        "Open": 365.0,
+        "High": 365.0,
+        "Low": 353.0,
+        "Close": 353.0,
+        "Percent Change": -5.11,
+        "Volume": 6934.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-23",
+        "Open": 385.0,
+        "High": 385.0,
+        "Low": 370.0,
+        "Close": 372.0,
+        "Percent Change": -3.12,
+        "Volume": 6394.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-22",
+        "Open": 380.0,
+        "High": 388.0,
+        "Low": 377.0,
+        "Close": 388.0,
+        "Percent Change": 0.78,
+        "Volume": 7299.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-21",
+        "Open": 382.0,
+        "High": 390.0,
+        "Low": 374.0,
+        "Close": 385.0,
+        "Percent Change": 2.67,
+        "Volume": 12842.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-20",
+        "Open": 400.0,
+        "High": 404.0,
+        "Low": 370.0,
+        "Close": 375.0,
+        "Percent Change": -4.58,
+        "Volume": 13658.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-19",
+        "Open": 365.0,
+        "High": 393.0,
+        "Low": 359.0,
+        "Close": 393.0,
+        "Percent Change": 9.78,
+        "Volume": 9270.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-16",
+        "Open": 349.0,
+        "High": 358.0,
+        "Low": 346.0,
+        "Close": 358.0,
+        "Percent Change": 3.77,
+        "Volume": 5650.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-15",
+        "Open": 355.0,
+        "High": 355.0,
+        "Low": 345.0,
+        "Close": 345.0,
+        "Percent Change": -1.15,
+        "Volume": 2332.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-14",
+        "Open": 345.0,
+        "High": 356.0,
+        "Low": 337.0,
+        "Close": 349.0,
+        "Percent Change": -0.29,
+        "Volume": 7509.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-13",
+        "Open": 334.0,
+        "High": 360.0,
+        "Low": 328.0,
+        "Close": 350.0,
+        "Percent Change": 6.71,
+        "Volume": 14019.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-12",
+        "Open": 304.0,
+        "High": 328.0,
+        "Low": 304.0,
+        "Close": 328.0,
+        "Percent Change": 9.7,
+        "Volume": 14859.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-09",
+        "Open": 294.0,
+        "High": 299.0,
+        "Low": 294.0,
+        "Close": 299.0,
+        "Percent Change": 1.01,
+        "Volume": 2025.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-08",
+        "Open": 295.0,
+        "High": 300.0,
+        "Low": 295.0,
+        "Close": 296.0,
+        "Percent Change": 0.34,
+        "Volume": 1969.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-07",
+        "Open": 295.0,
+        "High": 298.0,
+        "Low": 294.0,
+        "Close": 295.0,
+        "Percent Change": -1.01,
+        "Volume": 4526.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-06",
+        "Open": 297.0,
+        "High": 308.0,
+        "Low": 295.0,
+        "Close": 298.0,
+        "Percent Change": 1.71,
+        "Volume": 2398.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-05",
+        "Open": 295.0,
+        "High": 297.0,
+        "Low": 290.0,
+        "Close": 293.0,
+        "Percent Change": 0.69,
+        "Volume": 3715.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-02",
+        "Open": 291.0,
+        "High": 291.0,
+        "Low": 291.0,
+        "Close": 291.0,
+        "Percent Change": -1.69,
+        "Volume": 255.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2020-01-01",
+        "Open": 296.0,
+        "High": 296.0,
+        "Low": 291.0,
+        "Close": 296.0,
+        "Percent Change": 0.0,
+        "Volume": 1150.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-31",
+        "Open": 297.0,
+        "High": 298.0,
+        "Low": 291.0,
+        "Close": 296.0,
+        "Percent Change": -0.67,
+        "Volume": 2781.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-30",
+        "Open": 289.0,
+        "High": 298.0,
+        "Low": 289.0,
+        "Close": 298.0,
+        "Percent Change": 3.83,
+        "Volume": 2906.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-29",
+        "Open": 288.0,
+        "High": 288.0,
+        "Low": 283.0,
+        "Close": 287.0,
+        "Percent Change": 0.0,
+        "Volume": 2076.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-26",
+        "Open": 297.0,
+        "High": 297.0,
+        "Low": 287.0,
+        "Close": 287.0,
+        "Percent Change": -1.71,
+        "Volume": 964.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-25",
+        "Open": 288.0,
+        "High": 298.0,
+        "Low": 288.0,
+        "Close": 292.0,
+        "Percent Change": -0.34,
+        "Volume": 1409.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-24",
+        "Open": 298.0,
+        "High": 307.0,
+        "Low": 293.0,
+        "Close": 293.0,
+        "Percent Change": 0.0,
+        "Volume": 10942.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-23",
+        "Open": 273.0,
+        "High": 294.0,
+        "Low": 273.0,
+        "Close": 293.0,
+        "Percent Change": 8.52,
+        "Volume": 2396.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-22",
+        "Open": 270.0,
+        "High": 270.0,
+        "Low": 262.0,
+        "Close": 270.0,
+        "Percent Change": -1.82,
+        "Volume": 3250.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-19",
+        "Open": 276.0,
+        "High": 276.0,
+        "Low": 270.0,
+        "Close": 275.0,
+        "Percent Change": -1.79,
+        "Volume": 2175.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-18",
+        "Open": 291.0,
+        "High": 291.0,
+        "Low": 280.0,
+        "Close": 280.0,
+        "Percent Change": -3.45,
+        "Volume": 1664.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-17",
+        "Open": 277.0,
+        "High": 294.0,
+        "Low": 277.0,
+        "Close": 290.0,
+        "Percent Change": 2.84,
+        "Volume": 2900.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-16",
+        "Open": 287.0,
+        "High": 295.0,
+        "Low": 282.0,
+        "Close": 282.0,
+        "Percent Change": -2.42,
+        "Volume": 9057.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-15",
+        "Open": 286.0,
+        "High": 309.0,
+        "Low": 286.0,
+        "Close": 299.0,
+        "Percent Change": 6.41,
+        "Volume": 11563.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-12",
+        "Open": 261.0,
+        "High": 281.0,
+        "Low": 261.0,
+        "Close": 281.0,
+        "Percent Change": 9.77,
+        "Volume": 5752.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-11",
+        "Open": 236.0,
+        "High": 256.0,
+        "Low": 236.0,
+        "Close": 256.0,
+        "Percent Change": 9.87,
+        "Volume": 3997.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-10",
+        "Open": 240.0,
+        "High": 248.0,
+        "Low": 233.0,
+        "Close": 233.0,
+        "Percent Change": -1.69,
+        "Volume": 3545.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-09",
+        "Open": 234.0,
+        "High": 243.0,
+        "Low": 234.0,
+        "Close": 237.0,
+        "Percent Change": 2.6,
+        "Volume": 1191.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-08",
+        "Open": 233.0,
+        "High": 233.0,
+        "Low": 223.0,
+        "Close": 231.0,
+        "Percent Change": -0.86,
+        "Volume": 935.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-05",
+        "Open": 229.0,
+        "High": 233.0,
+        "Low": 228.0,
+        "Close": 233.0,
+        "Percent Change": 3.56,
+        "Volume": 870.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-04",
+        "Open": 225.0,
+        "High": 232.0,
+        "Low": 220.0,
+        "Close": 225.0,
+        "Percent Change": 1.81,
+        "Volume": 4469.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-03",
+        "Open": 212.0,
+        "High": 221.0,
+        "Low": 212.0,
+        "Close": 221.0,
+        "Percent Change": 3.76,
+        "Volume": 1112.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-02",
+        "Open": 214.0,
+        "High": 214.0,
+        "Low": 213.0,
+        "Close": 213.0,
+        "Percent Change": -0.93,
+        "Volume": 100.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-12-01",
+        "Open": 217.0,
+        "High": 217.0,
+        "Low": 215.0,
+        "Close": 215.0,
+        "Percent Change": -1.83,
+        "Volume": 191.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-28",
+        "Open": 220.0,
+        "High": 220.0,
+        "Low": 219.0,
+        "Close": 219.0,
+        "Percent Change": 0.0,
+        "Volume": 450.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-27",
+        "Open": 220.0,
+        "High": 220.0,
+        "Low": 219.0,
+        "Close": 219.0,
+        "Percent Change": -1.35,
+        "Volume": 110.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-26",
+        "Open": 225.0,
+        "High": 225.0,
+        "Low": 218.0,
+        "Close": 222.0,
+        "Percent Change": -3.06,
+        "Volume": 952.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-25",
+        "Open": 231.0,
+        "High": 231.0,
+        "Low": 225.0,
+        "Close": 229.0,
+        "Percent Change": -0.87,
+        "Volume": 400.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-24",
+        "Open": 231.0,
+        "High": 231.0,
+        "Low": 231.0,
+        "Close": 231.0,
+        "Percent Change": -1.7,
+        "Volume": 80.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-21",
+        "Open": 234.0,
+        "High": 235.0,
+        "Low": 234.0,
+        "Close": 235.0,
+        "Percent Change": 0.43,
+        "Volume": 140.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-20",
+        "Open": 238.0,
+        "High": 238.0,
+        "Low": 234.0,
+        "Close": 234.0,
+        "Percent Change": 0.0,
+        "Volume": 75.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-19",
+        "Open": 232.0,
+        "High": 235.0,
+        "Low": 231.0,
+        "Close": 234.0,
+        "Percent Change": -0.43,
+        "Volume": 222.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-18",
+        "Open": 235.0,
+        "High": 235.0,
+        "Low": 235.0,
+        "Close": 235.0,
+        "Percent Change": 0.0,
+        "Volume": 10.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-17",
+        "Open": 235.0,
+        "High": 235.0,
+        "Low": 235.0,
+        "Close": 235.0,
+        "Percent Change": 0.43,
+        "Volume": 110.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-14",
+        "Open": 240.0,
+        "High": 240.0,
+        "Low": 234.0,
+        "Close": 234.0,
+        "Percent Change": -2.5,
+        "Volume": 349.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-13",
+        "Open": 248.0,
+        "High": 248.0,
+        "Low": 240.0,
+        "Close": 240.0,
+        "Percent Change": -1.64,
+        "Volume": 423.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-12",
+        "Open": 253.0,
+        "High": 255.0,
+        "Low": 239.0,
+        "Close": 244.0,
+        "Percent Change": -3.56,
+        "Volume": 340.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-11",
+        "Open": 239.0,
+        "High": 253.0,
+        "Low": 239.0,
+        "Close": 253.0,
+        "Percent Change": 6.3,
+        "Volume": 1124.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-10",
+        "Open": 239.0,
+        "High": 240.0,
+        "Low": 238.0,
+        "Close": 238.0,
+        "Percent Change": -0.42,
+        "Volume": 546.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-07",
+        "Open": 241.0,
+        "High": 241.0,
+        "Low": 239.0,
+        "Close": 239.0,
+        "Percent Change": -0.83,
+        "Volume": 224.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-06",
+        "Open": 244.0,
+        "High": 244.0,
+        "Low": 239.0,
+        "Close": 241.0,
+        "Percent Change": -0.82,
+        "Volume": 645.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-05",
+        "Open": 246.0,
+        "High": 246.0,
+        "Low": 243.0,
+        "Close": 243.0,
+        "Percent Change": -2.41,
+        "Volume": 1662.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-04",
+        "Open": 250.0,
+        "High": 250.0,
+        "Low": 249.0,
+        "Close": 249.0,
+        "Percent Change": -1.97,
+        "Volume": 265.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-11-03",
+        "Open": 254.0,
+        "High": 254.0,
+        "Low": 254.0,
+        "Close": 254.0,
+        "Percent Change": 0.0,
+        "Volume": 50.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-10-31",
+        "Open": 258.0,
+        "High": 258.0,
+        "Low": 254.0,
+        "Close": 254.0,
+        "Percent Change": 0.4,
+        "Volume": 308.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-10-24",
+        "Open": 255.0,
+        "High": 257.0,
+        "Low": 253.0,
+        "Close": 253.0,
+        "Percent Change": 0.4,
+        "Volume": 277.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-10-23",
+        "Open": 256.0,
+        "High": 256.0,
+        "Low": 252.0,
+        "Close": 252.0,
+        "Percent Change": 0.0,
+        "Volume": 190.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-10-22",
+        "Open": 256.0,
+        "High": 257.0,
+        "Low": 252.0,
+        "Close": 252.0,
+        "Percent Change": -3.08,
+        "Volume": 1755.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-10-21",
+        "Open": 259.0,
+        "High": 260.0,
+        "Low": 259.0,
+        "Close": 260.0,
+        "Percent Change": 0.0,
+        "Volume": 25.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-10-20",
+        "Open": 265.0,
+        "High": 265.0,
+        "Low": 260.0,
+        "Close": 260.0,
+        "Percent Change": -1.89,
+        "Volume": 130.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-10-17",
+        "Open": 270.0,
+        "High": 270.0,
+        "Low": 260.0,
+        "Close": 265.0,
+        "Percent Change": 0.0,
+        "Volume": 750.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-10-16",
+        "Open": 261.0,
+        "High": 265.0,
+        "Low": 260.0,
+        "Close": 265.0,
+        "Percent Change": 0.0,
+        "Volume": 737.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-10-15",
+        "Open": 261.0,
+        "High": 265.0,
+        "Low": 261.0,
+        "Close": 265.0,
+        "Percent Change": 1.92,
+        "Volume": 470.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-10-14",
+        "Open": 261.0,
+        "High": 262.0,
+        "Low": 260.0,
+        "Close": 260.0,
+        "Percent Change": 0.0,
+        "Volume": 400.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-10-10",
+        "Open": 265.0,
+        "High": 266.0,
+        "Low": 260.0,
+        "Close": 260.0,
+        "Percent Change": 0.0,
+        "Volume": 770.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-10-03",
+        "Open": 261.0,
+        "High": 265.0,
+        "Low": 258.0,
+        "Close": 260.0,
+        "Percent Change": 0.0,
+        "Volume": 3374.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-10-02",
+        "Open": 262.0,
+        "High": 262.0,
+        "Low": 260.0,
+        "Close": 260.0,
+        "Percent Change": -0.38,
+        "Volume": 1326.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-10-01",
+        "Open": 265.0,
+        "High": 265.0,
+        "Low": 261.0,
+        "Close": 261.0,
+        "Percent Change": -1.14,
+        "Volume": 415.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-30",
+        "Open": 251.0,
+        "High": 264.0,
+        "Low": 251.0,
+        "Close": 264.0,
+        "Percent Change": 3.12,
+        "Volume": 535.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-29",
+        "Open": 260.0,
+        "High": 260.0,
+        "Low": 254.0,
+        "Close": 256.0,
+        "Percent Change": -2.66,
+        "Volume": 1714.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-26",
+        "Open": 262.0,
+        "High": 263.0,
+        "Low": 259.0,
+        "Close": 263.0,
+        "Percent Change": 0.38,
+        "Volume": 1020.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-24",
+        "Open": 257.0,
+        "High": 260.0,
+        "Low": 257.0,
+        "Close": 260.0,
+        "Percent Change": 1.17,
+        "Volume": 430.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-23",
+        "Open": 257.0,
+        "High": 265.0,
+        "Low": 256.0,
+        "Close": 257.0,
+        "Percent Change": -1.15,
+        "Volume": 1899.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-22",
+        "Open": 270.0,
+        "High": 271.0,
+        "Low": 260.0,
+        "Close": 260.0,
+        "Percent Change": -5.11,
+        "Volume": 230.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-19",
+        "Open": 290.0,
+        "High": 290.0,
+        "Low": 274.0,
+        "Close": 274.0,
+        "Percent Change": -3.86,
+        "Volume": 2567.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-18",
+        "Open": 268.0,
+        "High": 285.0,
+        "Low": 266.0,
+        "Close": 285.0,
+        "Percent Change": 7.95,
+        "Volume": 4550.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-17",
+        "Open": 264.0,
+        "High": 270.0,
+        "Low": 260.0,
+        "Close": 264.0,
+        "Percent Change": 1.93,
+        "Volume": 2790.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-16",
+        "Open": 260.0,
+        "High": 262.0,
+        "Low": 258.0,
+        "Close": 259.0,
+        "Percent Change": -1.15,
+        "Volume": 2193.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-15",
+        "Open": 265.0,
+        "High": 265.0,
+        "Low": 262.0,
+        "Close": 262.0,
+        "Percent Change": -1.13,
+        "Volume": 1428.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-12",
+        "Open": 267.0,
+        "High": 272.0,
+        "Low": 265.0,
+        "Close": 265.0,
+        "Percent Change": -0.75,
+        "Volume": 1644.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-11",
+        "Open": 280.0,
+        "High": 280.0,
+        "Low": 262.0,
+        "Close": 267.0,
+        "Percent Change": -3.61,
+        "Volume": 2762.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-10",
+        "Open": 268.0,
+        "High": 277.0,
+        "Low": 268.0,
+        "Close": 277.0,
+        "Percent Change": 3.75,
+        "Volume": 1036.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-09",
+        "Open": 282.0,
+        "High": 282.0,
+        "Low": 267.0,
+        "Close": 267.0,
+        "Percent Change": -5.32,
+        "Volume": 3289.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-08",
+        "Open": 285.0,
+        "High": 285.0,
+        "Low": 282.0,
+        "Close": 282.0,
+        "Percent Change": -1.4,
+        "Volume": 566.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-05",
+        "Open": 291.0,
+        "High": 291.0,
+        "Low": 285.0,
+        "Close": 286.0,
+        "Percent Change": -1.72,
+        "Volume": 2370.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-04",
+        "Open": 286.0,
+        "High": 293.0,
+        "Low": 285.0,
+        "Close": 291.0,
+        "Percent Change": 1.04,
+        "Volume": 3643.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-03",
+        "Open": 268.0,
+        "High": 288.0,
+        "Low": 264.0,
+        "Close": 288.0,
+        "Percent Change": 5.49,
+        "Volume": 2293.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-02",
+        "Open": 286.0,
+        "High": 286.0,
+        "Low": 271.0,
+        "Close": 273.0,
+        "Percent Change": -5.54,
+        "Volume": 2093.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-09-01",
+        "Open": 290.0,
+        "High": 290.0,
+        "Low": 289.0,
+        "Close": 289.0,
+        "Percent Change": -1.7,
+        "Volume": 506.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-08-29",
+        "Open": 296.0,
+        "High": 298.0,
+        "Low": 294.0,
+        "Close": 294.0,
+        "Percent Change": -1.34,
+        "Volume": 2369.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-08-28",
+        "Open": 305.0,
+        "High": 305.0,
+        "Low": 297.0,
+        "Close": 298.0,
+        "Percent Change": -1.97,
+        "Volume": 820.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-08-27",
+        "Open": 297.0,
+        "High": 304.0,
+        "Low": 297.0,
+        "Close": 304.0,
+        "Percent Change": 3.75,
+        "Volume": 790.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-08-26",
+        "Open": 294.0,
+        "High": 299.0,
+        "Low": 289.0,
+        "Close": 293.0,
+        "Percent Change": -2.33,
+        "Volume": 2270.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-08-25",
+        "Open": 305.0,
+        "High": 305.0,
+        "Low": 300.0,
+        "Close": 300.0,
+        "Percent Change": -1.32,
+        "Volume": 865.0
+    },
+    {
+        "Symbol": "UIC",
+        "Date": "2019-08-22",
+        "Open": 310.0,
+        "High": 310.0,
+        "Low": 304.0,
+        "Close": 304.0,
+        "Percent Change": -1.62,
+        "Volume": 505.0
+    }
+]

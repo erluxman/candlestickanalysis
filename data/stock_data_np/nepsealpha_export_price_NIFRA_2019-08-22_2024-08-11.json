@@ -1,0 +1,8262 @@
+[
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-08-11",
+        "Open":313.6,
+        "High":338.0,
+        "Low":313.6,
+        "Close":337.9,
+        "Percent Change":"9.89 %",
+        "Volume":"2,091,470.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-08-08",
+        "Open":285.0,
+        "High":311.3,
+        "Low":280.0,
+        "Close":307.5,
+        "Percent Change":"8.66 %",
+        "Volume":"3,037,821.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-08-07",
+        "Open":261.5,
+        "High":284.0,
+        "Low":261.5,
+        "Close":283.0,
+        "Percent Change":"6.07 %",
+        "Volume":"722,857.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-08-06",
+        "Open":286.4,
+        "High":287.0,
+        "Low":264.1,
+        "Close":266.8,
+        "Percent Change":"-6.84 %",
+        "Volume":"1,118,782.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-08-05",
+        "Open":286.1,
+        "High":290.0,
+        "Low":274.0,
+        "Close":286.4,
+        "Percent Change":"2.10 %",
+        "Volume":"994,754.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-08-01",
+        "Open":266.2,
+        "High":284.9,
+        "Low":261.0,
+        "Close":280.5,
+        "Percent Change":"7.47 %",
+        "Volume":"1,494,471.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-31",
+        "Open":248.7,
+        "High":270.1,
+        "Low":248.7,
+        "Close":261.0,
+        "Percent Change":"4.95 %",
+        "Volume":"1,000,880.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-30",
+        "Open":247.0,
+        "High":253.0,
+        "Low":238.7,
+        "Close":248.7,
+        "Percent Change":"1.51 %",
+        "Volume":"530,695.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-29",
+        "Open":258.5,
+        "High":263.0,
+        "Low":245.0,
+        "Close":245.0,
+        "Percent Change":"-3.35 %",
+        "Volume":"679,291.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-28",
+        "Open":235.1,
+        "High":253.5,
+        "Low":235.1,
+        "Close":253.5,
+        "Percent Change":"9.98 %",
+        "Volume":"992,125.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-25",
+        "Open":233.0,
+        "High":235.0,
+        "Low":227.5,
+        "Close":230.5,
+        "Percent Change":"-0.26 %",
+        "Volume":"319,554.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-24",
+        "Open":237.0,
+        "High":242.0,
+        "Low":228.5,
+        "Close":231.1,
+        "Percent Change":"-2.08 %",
+        "Volume":"517,106.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-23",
+        "Open":235.0,
+        "High":236.6,
+        "Low":229.0,
+        "Close":236.0,
+        "Percent Change":"2.16 %",
+        "Volume":"266,106.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-22",
+        "Open":235.0,
+        "High":236.1,
+        "Low":229.9,
+        "Close":231.0,
+        "Percent Change":"-2.53 %",
+        "Volume":"350,058.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-21",
+        "Open":232.0,
+        "High":242.0,
+        "Low":230.0,
+        "Close":237.0,
+        "Percent Change":"2.11 %",
+        "Volume":"491,167.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-18",
+        "Open":235.0,
+        "High":240.0,
+        "Low":227.6,
+        "Close":232.1,
+        "Percent Change":"0.39 %",
+        "Volume":"493,169.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-17",
+        "Open":239.7,
+        "High":243.7,
+        "Low":229.0,
+        "Close":231.2,
+        "Percent Change":"-1.62 %",
+        "Volume":"353,494.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-16",
+        "Open":228.0,
+        "High":235.0,
+        "Low":224.0,
+        "Close":235.0,
+        "Percent Change":"3.07 %",
+        "Volume":"380,259.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-15",
+        "Open":216.0,
+        "High":229.0,
+        "Low":209.2,
+        "Close":228.0,
+        "Percent Change":"7.04 %",
+        "Volume":"984,199.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-14",
+        "Open":214.0,
+        "High":214.7,
+        "Low":211.0,
+        "Close":213.0,
+        "Percent Change":"1.19 %",
+        "Volume":"216,712.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-11",
+        "Open":212.7,
+        "High":212.7,
+        "Low":207.0,
+        "Close":210.5,
+        "Percent Change":"0.91 %",
+        "Volume":"157,097.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-10",
+        "Open":212.1,
+        "High":212.1,
+        "Low":207.1,
+        "Close":208.6,
+        "Percent Change":"0.29 %",
+        "Volume":"176,406.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-09",
+        "Open":208.2,
+        "High":212.0,
+        "Low":207.0,
+        "Close":208.0,
+        "Percent Change":"-1.33 %",
+        "Volume":"103,143.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-08",
+        "Open":210.0,
+        "High":214.9,
+        "Low":208.1,
+        "Close":210.8,
+        "Percent Change":"0.86 %",
+        "Volume":"348,107.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-07",
+        "Open":196.5,
+        "High":213.0,
+        "Low":196.1,
+        "Close":209.0,
+        "Percent Change":"5.03 %",
+        "Volume":"475,730.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-04",
+        "Open":192.5,
+        "High":200.1,
+        "Low":192.4,
+        "Close":199.0,
+        "Percent Change":"2.58 %",
+        "Volume":"164,063.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-03",
+        "Open":195.0,
+        "High":196.7,
+        "Low":192.0,
+        "Close":194.0,
+        "Percent Change":"-0.51 %",
+        "Volume":"52,772.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-02",
+        "Open":193.8,
+        "High":207.7,
+        "Low":193.0,
+        "Close":195.0,
+        "Percent Change":"2.63 %",
+        "Volume":"97,546.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-07-01",
+        "Open":192.6,
+        "High":192.6,
+        "Low":188.1,
+        "Close":190.0,
+        "Percent Change":"0.58 %",
+        "Volume":"55,505.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-30",
+        "Open":194.4,
+        "High":194.4,
+        "Low":188.5,
+        "Close":188.9,
+        "Percent Change":"-0.89 %",
+        "Volume":"51,105.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-27",
+        "Open":190.0,
+        "High":191.0,
+        "Low":189.0,
+        "Close":190.6,
+        "Percent Change":"0.16 %",
+        "Volume":"61,825.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-26",
+        "Open":192.0,
+        "High":194.4,
+        "Low":190.0,
+        "Close":190.3,
+        "Percent Change":"-1.60 %",
+        "Volume":"44,174.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-25",
+        "Open":192.0,
+        "High":194.0,
+        "Low":189.3,
+        "Close":193.4,
+        "Percent Change":"2.00 %",
+        "Volume":"76,762.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-24",
+        "Open":190.1,
+        "High":193.0,
+        "Low":189.5,
+        "Close":189.6,
+        "Percent Change":"-1.25 %",
+        "Volume":"99,603.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-23",
+        "Open":190.3,
+        "High":194.0,
+        "Low":190.1,
+        "Close":192.0,
+        "Percent Change":"0.37 %",
+        "Volume":"46,718.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-20",
+        "Open":195.3,
+        "High":195.3,
+        "Low":190.4,
+        "Close":191.3,
+        "Percent Change":"-0.10 %",
+        "Volume":"61,298.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-19",
+        "Open":192.0,
+        "High":193.9,
+        "Low":191.0,
+        "Close":191.5,
+        "Percent Change":"-0.73 %",
+        "Volume":"68,327.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-18",
+        "Open":195.0,
+        "High":195.0,
+        "Low":192.0,
+        "Close":192.9,
+        "Percent Change":"-1.03 %",
+        "Volume":"63,894.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-16",
+        "Open":195.6,
+        "High":198.0,
+        "Low":193.9,
+        "Close":194.9,
+        "Percent Change":"-0.36 %",
+        "Volume":"59,858.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-13",
+        "Open":195.0,
+        "High":197.0,
+        "Low":195.0,
+        "Close":195.6,
+        "Percent Change":"-0.46 %",
+        "Volume":"59,260.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-12",
+        "Open":199.0,
+        "High":200.0,
+        "Low":196.0,
+        "Close":196.5,
+        "Percent Change":"-0.71 %",
+        "Volume":"74,959.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-11",
+        "Open":197.9,
+        "High":198.9,
+        "Low":193.2,
+        "Close":197.9,
+        "Percent Change":"1.96 %",
+        "Volume":"88,520.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-10",
+        "Open":197.7,
+        "High":197.7,
+        "Low":189.9,
+        "Close":194.1,
+        "Percent Change":"0.10 %",
+        "Volume":"114,738.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-09",
+        "Open":199.1,
+        "High":199.1,
+        "Low":193.1,
+        "Close":193.9,
+        "Percent Change":"-0.67 %",
+        "Volume":"64,649.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-06",
+        "Open":198.0,
+        "High":198.0,
+        "Low":195.1,
+        "Close":195.2,
+        "Percent Change":"-1.41 %",
+        "Volume":"64,369.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-05",
+        "Open":200.0,
+        "High":200.0,
+        "Low":196.0,
+        "Close":198.0,
+        "Percent Change":"0.25 %",
+        "Volume":"49,623.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-04",
+        "Open":196.2,
+        "High":200.0,
+        "Low":196.2,
+        "Close":197.5,
+        "Percent Change":"-0.70 %",
+        "Volume":"52,600.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-03",
+        "Open":202.0,
+        "High":202.0,
+        "Low":197.1,
+        "Close":198.9,
+        "Percent Change":"-0.05 %",
+        "Volume":"55,569.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-06-02",
+        "Open":201.0,
+        "High":202.0,
+        "Low":197.1,
+        "Close":199.0,
+        "Percent Change":"0.40 %",
+        "Volume":"78,926.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-30",
+        "Open":197.8,
+        "High":205.0,
+        "Low":197.8,
+        "Close":198.2,
+        "Percent Change":"-1.78 %",
+        "Volume":"81,442.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-29",
+        "Open":207.0,
+        "High":210.1,
+        "Low":200.2,
+        "Close":201.8,
+        "Percent Change":"-2.04 %",
+        "Volume":"111,078.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-27",
+        "Open":201.5,
+        "High":208.0,
+        "Low":201.0,
+        "Close":206.0,
+        "Percent Change":"2.23 %",
+        "Volume":"88,702.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-26",
+        "Open":205.0,
+        "High":208.0,
+        "Low":201.0,
+        "Close":201.5,
+        "Percent Change":"-1.95 %",
+        "Volume":"82,620.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-22",
+        "Open":206.0,
+        "High":208.0,
+        "Low":203.0,
+        "Close":205.5,
+        "Percent Change":"-0.29 %",
+        "Volume":"84,193.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-21",
+        "Open":204.0,
+        "High":210.0,
+        "Low":201.9,
+        "Close":206.1,
+        "Percent Change":"1.03 %",
+        "Volume":"103,282.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-20",
+        "Open":198.1,
+        "High":213.0,
+        "Low":198.0,
+        "Close":204.0,
+        "Percent Change":"2.51 %",
+        "Volume":"163,447.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-19",
+        "Open":196.0,
+        "High":203.0,
+        "Low":196.0,
+        "Close":199.0,
+        "Percent Change":"1.27 %",
+        "Volume":"75,671.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-16",
+        "Open":202.8,
+        "High":202.8,
+        "Low":196.0,
+        "Close":196.5,
+        "Percent Change":"-1.21 %",
+        "Volume":"45,085.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-15",
+        "Open":202.0,
+        "High":204.0,
+        "Low":198.0,
+        "Close":198.9,
+        "Percent Change":"-1.53 %",
+        "Volume":"66,471.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-14",
+        "Open":200.0,
+        "High":204.0,
+        "Low":196.3,
+        "Close":202.0,
+        "Percent Change":"1.00 %",
+        "Volume":"44,812.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-13",
+        "Open":195.0,
+        "High":201.0,
+        "Low":191.3,
+        "Close":200.0,
+        "Percent Change":"3.63 %",
+        "Volume":"78,687.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-12",
+        "Open":195.8,
+        "High":195.8,
+        "Low":190.1,
+        "Close":193.0,
+        "Percent Change":"0.52 %",
+        "Volume":"56,253.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-09",
+        "Open":191.7,
+        "High":193.5,
+        "Low":191.0,
+        "Close":192.0,
+        "Percent Change":"0.00 %",
+        "Volume":"49,786.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-08",
+        "Open":195.0,
+        "High":195.0,
+        "Low":191.2,
+        "Close":192.0,
+        "Percent Change":"-0.67 %",
+        "Volume":"52,978.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-07",
+        "Open":195.0,
+        "High":197.0,
+        "Low":193.0,
+        "Close":193.3,
+        "Percent Change":"-0.31 %",
+        "Volume":"51,625.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-06",
+        "Open":199.5,
+        "High":199.5,
+        "Low":193.8,
+        "Close":193.9,
+        "Percent Change":"-1.12 %",
+        "Volume":"61,493.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-05",
+        "Open":202.0,
+        "High":202.0,
+        "Low":195.3,
+        "Close":196.1,
+        "Percent Change":"-1.26 %",
+        "Volume":"47,551.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-05-02",
+        "Open":205.4,
+        "High":205.4,
+        "Low":198.2,
+        "Close":198.6,
+        "Percent Change":"-1.39 %",
+        "Volume":"49,042.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-30",
+        "Open":197.0,
+        "High":204.0,
+        "Low":196.1,
+        "Close":201.4,
+        "Percent Change":"2.03 %",
+        "Volume":"68,298.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-29",
+        "Open":201.2,
+        "High":201.2,
+        "Low":196.6,
+        "Close":197.4,
+        "Percent Change":"0.05 %",
+        "Volume":"37,510.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-28",
+        "Open":199.9,
+        "High":200.0,
+        "Low":196.1,
+        "Close":197.3,
+        "Percent Change":"0.66 %",
+        "Volume":"64,328.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-25",
+        "Open":199.8,
+        "High":199.8,
+        "Low":196.0,
+        "Close":196.0,
+        "Percent Change":"-0.51 %",
+        "Volume":"48,123.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-24",
+        "Open":198.0,
+        "High":200.0,
+        "Low":196.0,
+        "Close":197.0,
+        "Percent Change":"-0.51 %",
+        "Volume":"36,581.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-22",
+        "Open":200.0,
+        "High":205.0,
+        "Low":197.0,
+        "Close":198.0,
+        "Percent Change":"-1.74 %",
+        "Volume":"47,699.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-21",
+        "Open":196.2,
+        "High":201.9,
+        "Low":196.2,
+        "Close":201.5,
+        "Percent Change":"1.77 %",
+        "Volume":"42,180.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-18",
+        "Open":200.0,
+        "High":200.0,
+        "Low":197.0,
+        "Close":198.0,
+        "Percent Change":"-1.00 %",
+        "Volume":"59,454.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-16",
+        "Open":197.8,
+        "High":202.8,
+        "Low":197.8,
+        "Close":200.0,
+        "Percent Change":"-0.89 %",
+        "Volume":"65,204.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-15",
+        "Open":204.0,
+        "High":204.0,
+        "Low":201.0,
+        "Close":201.8,
+        "Percent Change":"-1.08 %",
+        "Volume":"54,164.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-14",
+        "Open":208.0,
+        "High":210.0,
+        "Low":203.0,
+        "Close":204.0,
+        "Percent Change":"-2.86 %",
+        "Volume":"66,947.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-10",
+        "Open":208.0,
+        "High":210.0,
+        "Low":204.0,
+        "Close":210.0,
+        "Percent Change":"0.96 %",
+        "Volume":"88,711.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-09",
+        "Open":204.0,
+        "High":208.0,
+        "Low":203.1,
+        "Close":208.0,
+        "Percent Change":"2.26 %",
+        "Volume":"94,427.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-07",
+        "Open":206.0,
+        "High":206.0,
+        "Low":200.6,
+        "Close":203.4,
+        "Percent Change":"0.69 %",
+        "Volume":"68,600.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-04",
+        "Open":202.0,
+        "High":205.0,
+        "Low":201.5,
+        "Close":202.0,
+        "Percent Change":"-0.25 %",
+        "Volume":"59,269.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-03",
+        "Open":202.0,
+        "High":205.0,
+        "Low":201.3,
+        "Close":202.5,
+        "Percent Change":"-0.54 %",
+        "Volume":"48,121.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-02",
+        "Open":203.0,
+        "High":205.0,
+        "Low":202.5,
+        "Close":203.6,
+        "Percent Change":"0.30 %",
+        "Volume":"45,901.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-04-01",
+        "Open":201.0,
+        "High":204.9,
+        "Low":201.0,
+        "Close":203.0,
+        "Percent Change":"-0.64 %",
+        "Volume":"36,643.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-31",
+        "Open":205.0,
+        "High":207.0,
+        "Low":204.0,
+        "Close":204.3,
+        "Percent Change":"-1.40 %",
+        "Volume":"53,105.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-28",
+        "Open":202.0,
+        "High":210.0,
+        "Low":202.0,
+        "Close":207.2,
+        "Percent Change":"0.97 %",
+        "Volume":"64,281.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-27",
+        "Open":212.0,
+        "High":212.0,
+        "Low":205.0,
+        "Close":205.2,
+        "Percent Change":"-1.30 %",
+        "Volume":"56,334.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-26",
+        "Open":203.0,
+        "High":208.9,
+        "Low":203.0,
+        "Close":207.9,
+        "Percent Change":"1.32 %",
+        "Volume":"46,052.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-25",
+        "Open":206.0,
+        "High":208.9,
+        "Low":203.7,
+        "Close":205.2,
+        "Percent Change":"-0.82 %",
+        "Volume":"53,847.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-21",
+        "Open":208.0,
+        "High":210.0,
+        "Low":206.5,
+        "Close":206.9,
+        "Percent Change":"-0.96 %",
+        "Volume":"65,405.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-20",
+        "Open":210.0,
+        "High":214.0,
+        "Low":208.0,
+        "Close":208.9,
+        "Percent Change":"-0.52 %",
+        "Volume":"75,932.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-19",
+        "Open":209.1,
+        "High":213.5,
+        "Low":209.0,
+        "Close":210.0,
+        "Percent Change":"-0.94 %",
+        "Volume":"101,185.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-18",
+        "Open":210.0,
+        "High":212.0,
+        "Low":209.6,
+        "Close":212.0,
+        "Percent Change":"0.71 %",
+        "Volume":"56,613.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-17",
+        "Open":213.0,
+        "High":215.0,
+        "Low":209.2,
+        "Close":210.5,
+        "Percent Change":"-0.94 %",
+        "Volume":"72,431.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-14",
+        "Open":216.0,
+        "High":218.0,
+        "Low":212.3,
+        "Close":212.5,
+        "Percent Change":"-2.07 %",
+        "Volume":"70,696.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-13",
+        "Open":220.0,
+        "High":221.0,
+        "Low":216.0,
+        "Close":217.0,
+        "Percent Change":"-0.91 %",
+        "Volume":"106,968.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-12",
+        "Open":215.9,
+        "High":220.0,
+        "Low":213.5,
+        "Close":219.0,
+        "Percent Change":"3.45 %",
+        "Volume":"137,526.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-10",
+        "Open":213.0,
+        "High":214.6,
+        "Low":210.5,
+        "Close":211.7,
+        "Percent Change":"0.62 %",
+        "Volume":"56,931.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-07",
+        "Open":210.0,
+        "High":214.9,
+        "Low":208.3,
+        "Close":210.4,
+        "Percent Change":"0.48 %",
+        "Volume":"65,251.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-06",
+        "Open":210.0,
+        "High":213.0,
+        "Low":205.9,
+        "Close":209.4,
+        "Percent Change":"0.67 %",
+        "Volume":"170,586.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-05",
+        "Open":218.0,
+        "High":218.0,
+        "Low":207.3,
+        "Close":208.0,
+        "Percent Change":"-4.15 %",
+        "Volume":"117,687.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-04",
+        "Open":205.9,
+        "High":218.0,
+        "Low":205.9,
+        "Close":217.0,
+        "Percent Change":"7.48 %",
+        "Volume":"21,529.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-03-03",
+        "Open":201.5,
+        "High":202.5,
+        "Low":200.0,
+        "Close":201.9,
+        "Percent Change":"-0.05 %",
+        "Volume":"70,967.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-29",
+        "Open":205.8,
+        "High":209.8,
+        "Low":201.1,
+        "Close":202.0,
+        "Percent Change":"-2.27 %",
+        "Volume":"107,011.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-28",
+        "Open":205.1,
+        "High":210.1,
+        "Low":205.1,
+        "Close":206.7,
+        "Percent Change":"-0.67 %",
+        "Volume":"52,858.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-27",
+        "Open":208.0,
+        "High":211.0,
+        "Low":206.0,
+        "Close":208.1,
+        "Percent Change":"0.29 %",
+        "Volume":"83,022.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-26",
+        "Open":206.6,
+        "High":209.1,
+        "Low":205.1,
+        "Close":207.5,
+        "Percent Change":"1.22 %",
+        "Volume":"75,673.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-25",
+        "Open":207.3,
+        "High":210.0,
+        "Low":204.4,
+        "Close":205.0,
+        "Percent Change":"-1.91 %",
+        "Volume":"87,096.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-22",
+        "Open":211.0,
+        "High":213.0,
+        "Low":208.1,
+        "Close":209.0,
+        "Percent Change":"-0.95 %",
+        "Volume":"106,646.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-21",
+        "Open":217.8,
+        "High":217.9,
+        "Low":210.8,
+        "Close":211.0,
+        "Percent Change":"-1.31 %",
+        "Volume":"89,176.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-20",
+        "Open":211.0,
+        "High":219.0,
+        "Low":208.2,
+        "Close":213.8,
+        "Percent Change":"1.33 %",
+        "Volume":"150,463.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-18",
+        "Open":221.6,
+        "High":221.6,
+        "Low":210.2,
+        "Close":211.0,
+        "Percent Change":"-2.90 %",
+        "Volume":"145,858.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-15",
+        "Open":216.8,
+        "High":221.3,
+        "Low":216.8,
+        "Close":217.3,
+        "Percent Change":"-0.55 %",
+        "Volume":"109,522.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-14",
+        "Open":220.0,
+        "High":221.9,
+        "Low":217.1,
+        "Close":218.5,
+        "Percent Change":"-0.68 %",
+        "Volume":"70,220.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-13",
+        "Open":222.6,
+        "High":224.5,
+        "Low":218.8,
+        "Close":220.0,
+        "Percent Change":"-2.61 %",
+        "Volume":"176,132.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-12",
+        "Open":222.5,
+        "High":226.0,
+        "Low":222.5,
+        "Close":225.9,
+        "Percent Change":"1.21 %",
+        "Volume":"85,725.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-11",
+        "Open":226.0,
+        "High":230.0,
+        "Low":223.1,
+        "Close":223.2,
+        "Percent Change":"-0.89 %",
+        "Volume":"127,756.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-08",
+        "Open":225.0,
+        "High":228.8,
+        "Low":224.1,
+        "Close":225.2,
+        "Percent Change":"-0.09 %",
+        "Volume":"101,014.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-07",
+        "Open":229.0,
+        "High":229.0,
+        "Low":224.0,
+        "Close":225.4,
+        "Percent Change":"0.36 %",
+        "Volume":"90,816.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-06",
+        "Open":225.2,
+        "High":227.0,
+        "Low":224.1,
+        "Close":224.6,
+        "Percent Change":"-0.13 %",
+        "Volume":"91,722.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-05",
+        "Open":229.0,
+        "High":229.0,
+        "Low":224.0,
+        "Close":224.9,
+        "Percent Change":"-0.40 %",
+        "Volume":"75,251.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-04",
+        "Open":222.0,
+        "High":232.5,
+        "Low":222.0,
+        "Close":225.8,
+        "Percent Change":"0.80 %",
+        "Volume":"525,058.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-02-01",
+        "Open":231.0,
+        "High":231.0,
+        "Low":223.0,
+        "Close":224.0,
+        "Percent Change":"-1.32 %",
+        "Volume":"111,242.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-31",
+        "Open":228.9,
+        "High":237.9,
+        "Low":226.5,
+        "Close":227.0,
+        "Percent Change":"-2.70 %",
+        "Volume":"332,401.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-30",
+        "Open":229.0,
+        "High":236.6,
+        "Low":228.2,
+        "Close":233.3,
+        "Percent Change":"1.83 %",
+        "Volume":"280,645.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-29",
+        "Open":223.0,
+        "High":240.0,
+        "Low":222.0,
+        "Close":229.1,
+        "Percent Change":"2.28 %",
+        "Volume":"339,021.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-28",
+        "Open":225.0,
+        "High":227.5,
+        "Low":222.0,
+        "Close":224.0,
+        "Percent Change":"-0.44 %",
+        "Volume":"113,129.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-25",
+        "Open":218.6,
+        "High":231.5,
+        "Low":218.6,
+        "Close":225.0,
+        "Percent Change":"0.90 %",
+        "Volume":"188,285.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-24",
+        "Open":234.6,
+        "High":234.6,
+        "Low":220.0,
+        "Close":223.0,
+        "Percent Change":"-3.04 %",
+        "Volume":"293,910.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-23",
+        "Open":221.7,
+        "High":234.0,
+        "Low":221.7,
+        "Close":230.0,
+        "Percent Change":"1.68 %",
+        "Volume":"184,008.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-22",
+        "Open":226.3,
+        "High":234.0,
+        "Low":224.0,
+        "Close":226.2,
+        "Percent Change":"-2.04 %",
+        "Volume":"216,277.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-21",
+        "Open":238.5,
+        "High":240.0,
+        "Low":228.0,
+        "Close":230.9,
+        "Percent Change":"-3.19 %",
+        "Volume":"291,154.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-18",
+        "Open":244.0,
+        "High":245.0,
+        "Low":235.7,
+        "Close":238.5,
+        "Percent Change":"-2.25 %",
+        "Volume":"471,517.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-17",
+        "Open":248.0,
+        "High":253.0,
+        "Low":238.1,
+        "Close":244.0,
+        "Percent Change":"-0.41 %",
+        "Volume":"963,380.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-16",
+        "Open":225.0,
+        "High":245.0,
+        "Low":224.1,
+        "Close":245.0,
+        "Percent Change":"9.38 %",
+        "Volume":"979,409.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-14",
+        "Open":222.0,
+        "High":227.0,
+        "Low":222.0,
+        "Close":224.0,
+        "Percent Change":"0.90 %",
+        "Volume":"305,242.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-11",
+        "Open":225.0,
+        "High":231.0,
+        "Low":221.5,
+        "Close":222.0,
+        "Percent Change":"-3.06 %",
+        "Volume":"344,731.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-10",
+        "Open":232.0,
+        "High":236.0,
+        "Low":224.5,
+        "Close":229.0,
+        "Percent Change":"-1.08 %",
+        "Volume":"521,832.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-09",
+        "Open":220.0,
+        "High":234.6,
+        "Low":220.0,
+        "Close":231.5,
+        "Percent Change":"3.16 %",
+        "Volume":"851,050.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-08",
+        "Open":213.5,
+        "High":226.7,
+        "Low":211.0,
+        "Close":224.4,
+        "Percent Change":"5.11 %",
+        "Volume":"526,393.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-07",
+        "Open":218.0,
+        "High":223.0,
+        "Low":213.4,
+        "Close":213.5,
+        "Percent Change":"-3.83 %",
+        "Volume":"238,641.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-04",
+        "Open":215.0,
+        "High":228.0,
+        "Low":214.0,
+        "Close":222.0,
+        "Percent Change":"3.74 %",
+        "Volume":"469,734.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-03",
+        "Open":205.0,
+        "High":215.0,
+        "Low":205.0,
+        "Close":214.0,
+        "Percent Change":"4.34 %",
+        "Volume":"178,553.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-02",
+        "Open":208.0,
+        "High":208.9,
+        "Low":204.0,
+        "Close":205.1,
+        "Percent Change":"-1.35 %",
+        "Volume":"155,375.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2024-01-01",
+        "Open":211.0,
+        "High":216.1,
+        "Low":207.0,
+        "Close":207.9,
+        "Percent Change":"-1.24 %",
+        "Volume":"133,476.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-28",
+        "Open":207.8,
+        "High":215.1,
+        "Low":207.8,
+        "Close":210.5,
+        "Percent Change":"-0.71 %",
+        "Volume":"179,737.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-27",
+        "Open":209.0,
+        "High":218.0,
+        "Low":209.0,
+        "Close":212.0,
+        "Percent Change":"-0.52 %",
+        "Volume":"188,834.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-24",
+        "Open":224.0,
+        "High":225.0,
+        "Low":213.0,
+        "Close":213.1,
+        "Percent Change":"-4.87 %",
+        "Volume":"275,359.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-21",
+        "Open":234.6,
+        "High":237.2,
+        "Low":222.6,
+        "Close":224.0,
+        "Percent Change":"-4.52 %",
+        "Volume":"284,213.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-20",
+        "Open":220.8,
+        "High":238.1,
+        "Low":217.0,
+        "Close":234.6,
+        "Percent Change":"8.36 %",
+        "Volume":"761,161.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-19",
+        "Open":211.0,
+        "High":218.0,
+        "Low":209.2,
+        "Close":216.5,
+        "Percent Change":"2.61 %",
+        "Volume":"143,966.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-18",
+        "Open":212.0,
+        "High":218.0,
+        "Low":210.0,
+        "Close":211.0,
+        "Percent Change":"0.00 %",
+        "Volume":"193,559.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-17",
+        "Open":197.3,
+        "High":211.0,
+        "Low":197.2,
+        "Close":211.0,
+        "Percent Change":"4.98 %",
+        "Volume":"199,770.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-14",
+        "Open":200.0,
+        "High":204.0,
+        "Low":197.2,
+        "Close":201.0,
+        "Percent Change":"0.00 %",
+        "Volume":"110,983.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-13",
+        "Open":200.0,
+        "High":208.9,
+        "Low":198.9,
+        "Close":201.0,
+        "Percent Change":"0.50 %",
+        "Volume":"116,155.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-12",
+        "Open":197.0,
+        "High":204.0,
+        "Low":194.2,
+        "Close":200.0,
+        "Percent Change":"1.52 %",
+        "Volume":"150,700.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-11",
+        "Open":205.0,
+        "High":205.0,
+        "Low":194.1,
+        "Close":197.0,
+        "Percent Change":"-1.99 %",
+        "Volume":"220,301.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-10",
+        "Open":187.0,
+        "High":202.0,
+        "Low":187.0,
+        "Close":201.0,
+        "Percent Change":"8.65 %",
+        "Volume":"15,323.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-07",
+        "Open":185.0,
+        "High":187.0,
+        "Low":183.6,
+        "Close":185.0,
+        "Percent Change":"0.82 %",
+        "Volume":"37,971.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-06",
+        "Open":183.3,
+        "High":185.0,
+        "Low":182.6,
+        "Close":183.5,
+        "Percent Change":"-0.81 %",
+        "Volume":"33,745.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-05",
+        "Open":184.0,
+        "High":190.0,
+        "Low":183.7,
+        "Close":185.0,
+        "Percent Change":"0.00 %",
+        "Volume":"52,569.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-04",
+        "Open":184.0,
+        "High":188.0,
+        "Low":183.8,
+        "Close":185.0,
+        "Percent Change":"-0.48 %",
+        "Volume":"37,626.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-12-03",
+        "Open":185.1,
+        "High":187.0,
+        "Low":184.1,
+        "Close":185.9,
+        "Percent Change":"-0.59 %",
+        "Volume":"26,991.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-30",
+        "Open":188.0,
+        "High":190.0,
+        "Low":186.0,
+        "Close":187.0,
+        "Percent Change":"-1.06 %",
+        "Volume":"25,373.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-29",
+        "Open":190.0,
+        "High":194.1,
+        "Low":186.4,
+        "Close":189.0,
+        "Percent Change":"-0.53 %",
+        "Volume":"40,546.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-28",
+        "Open":190.0,
+        "High":191.0,
+        "Low":187.8,
+        "Close":190.0,
+        "Percent Change":"-0.47 %",
+        "Volume":"26,715.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-27",
+        "Open":192.0,
+        "High":194.0,
+        "Low":189.0,
+        "Close":190.9,
+        "Percent Change":"-0.57 %",
+        "Volume":"43,264.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-26",
+        "Open":185.0,
+        "High":195.0,
+        "Low":184.3,
+        "Close":192.0,
+        "Percent Change":"2.18 %",
+        "Volume":"87,152.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-23",
+        "Open":185.1,
+        "High":191.5,
+        "Low":184.7,
+        "Close":187.9,
+        "Percent Change":"-0.05 %",
+        "Volume":"45,499.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-22",
+        "Open":185.0,
+        "High":190.2,
+        "Low":182.8,
+        "Close":188.0,
+        "Percent Change":"1.18 %",
+        "Volume":"38,888.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-21",
+        "Open":182.7,
+        "High":186.0,
+        "Low":182.7,
+        "Close":185.8,
+        "Percent Change":"-0.11 %",
+        "Volume":"22,943.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-20",
+        "Open":183.8,
+        "High":192.9,
+        "Low":183.8,
+        "Close":186.0,
+        "Percent Change":"1.31 %",
+        "Volume":"40,770.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-09",
+        "Open":186.0,
+        "High":187.0,
+        "Low":183.0,
+        "Close":183.6,
+        "Percent Change":"-1.29 %",
+        "Volume":"26,772.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-08",
+        "Open":187.0,
+        "High":189.0,
+        "Low":184.0,
+        "Close":186.0,
+        "Percent Change":"-0.05 %",
+        "Volume":"33,690.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-07",
+        "Open":184.0,
+        "High":186.4,
+        "Low":181.1,
+        "Close":186.1,
+        "Percent Change":"1.64 %",
+        "Volume":"40,211.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-06",
+        "Open":180.2,
+        "High":185.0,
+        "Low":180.2,
+        "Close":183.1,
+        "Percent Change":"0.60 %",
+        "Volume":"33,965.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-05",
+        "Open":185.0,
+        "High":185.9,
+        "Low":181.3,
+        "Close":182.0,
+        "Percent Change":"-1.62 %",
+        "Volume":"48,908.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-02",
+        "Open":185.0,
+        "High":188.0,
+        "Low":184.9,
+        "Close":185.0,
+        "Percent Change":"-0.32 %",
+        "Volume":"43,462.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-11-01",
+        "Open":185.5,
+        "High":188.0,
+        "Low":184.1,
+        "Close":185.6,
+        "Percent Change":"-0.22 %",
+        "Volume":"22,369.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-31",
+        "Open":188.0,
+        "High":188.0,
+        "Low":185.1,
+        "Close":186.0,
+        "Percent Change":"-1.06 %",
+        "Volume":"17,607.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-30",
+        "Open":185.3,
+        "High":188.6,
+        "Low":185.0,
+        "Close":188.0,
+        "Percent Change":"0.80 %",
+        "Volume":"29,389.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-29",
+        "Open":188.0,
+        "High":189.0,
+        "Low":185.0,
+        "Close":186.5,
+        "Percent Change":"-1.32 %",
+        "Volume":"51,326.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-19",
+        "Open":191.0,
+        "High":191.0,
+        "Low":187.1,
+        "Close":189.0,
+        "Percent Change":"-0.53 %",
+        "Volume":"32,265.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-18",
+        "Open":189.0,
+        "High":190.9,
+        "Low":187.3,
+        "Close":190.0,
+        "Percent Change":"1.77 %",
+        "Volume":"33,883.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-17",
+        "Open":185.3,
+        "High":191.8,
+        "Low":185.2,
+        "Close":186.7,
+        "Percent Change":"0.65 %",
+        "Volume":"29,591.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-16",
+        "Open":188.0,
+        "High":188.0,
+        "Low":185.0,
+        "Close":185.5,
+        "Percent Change":"-0.96 %",
+        "Volume":"54,208.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-12",
+        "Open":189.0,
+        "High":190.0,
+        "Low":187.0,
+        "Close":187.3,
+        "Percent Change":"-1.21 %",
+        "Volume":"62,292.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-11",
+        "Open":189.0,
+        "High":193.0,
+        "Low":188.0,
+        "Close":189.6,
+        "Percent Change":"-0.11 %",
+        "Volume":"43,412.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-10",
+        "Open":190.0,
+        "High":192.0,
+        "Low":188.5,
+        "Close":189.8,
+        "Percent Change":"-0.37 %",
+        "Volume":"41,960.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-09",
+        "Open":191.7,
+        "High":193.0,
+        "Low":190.0,
+        "Close":190.5,
+        "Percent Change":"-1.45 %",
+        "Volume":"67,949.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-08",
+        "Open":198.5,
+        "High":198.5,
+        "Low":193.0,
+        "Close":193.3,
+        "Percent Change":"-0.87 %",
+        "Volume":"80,398.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-05",
+        "Open":195.0,
+        "High":196.5,
+        "Low":194.5,
+        "Close":195.0,
+        "Percent Change":"-0.31 %",
+        "Volume":"51,327.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-04",
+        "Open":193.5,
+        "High":198.0,
+        "Low":193.0,
+        "Close":195.6,
+        "Percent Change":"0.57 %",
+        "Volume":"39,583.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-03",
+        "Open":195.0,
+        "High":197.0,
+        "Low":194.5,
+        "Close":194.5,
+        "Percent Change":"-0.77 %",
+        "Volume":"56,816.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-02",
+        "Open":197.0,
+        "High":197.5,
+        "Low":194.2,
+        "Close":196.0,
+        "Percent Change":"-0.46 %",
+        "Volume":"62,822.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-10-01",
+        "Open":203.0,
+        "High":203.0,
+        "Low":195.1,
+        "Close":196.9,
+        "Percent Change":"-1.10 %",
+        "Volume":"65,371.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-27",
+        "Open":201.0,
+        "High":202.5,
+        "Low":197.4,
+        "Close":199.1,
+        "Percent Change":"-1.78 %",
+        "Volume":"107,411.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-26",
+        "Open":200.2,
+        "High":204.5,
+        "Low":200.2,
+        "Close":202.7,
+        "Percent Change":"1.35 %",
+        "Volume":"56,366.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-25",
+        "Open":200.1,
+        "High":204.0,
+        "Low":199.2,
+        "Close":200.0,
+        "Percent Change":"-1.57 %",
+        "Volume":"52,521.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-24",
+        "Open":206.0,
+        "High":209.0,
+        "Low":202.0,
+        "Close":203.2,
+        "Percent Change":"-1.26 %",
+        "Volume":"61,251.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-21",
+        "Open":200.0,
+        "High":207.1,
+        "Low":200.0,
+        "Close":205.8,
+        "Percent Change":"3.42 %",
+        "Volume":"127,920.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-19",
+        "Open":196.0,
+        "High":199.0,
+        "Low":194.7,
+        "Close":199.0,
+        "Percent Change":"1.53 %",
+        "Volume":"33,647.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-18",
+        "Open":197.0,
+        "High":198.0,
+        "Low":193.3,
+        "Close":196.0,
+        "Percent Change":"0.00 %",
+        "Volume":"25,832.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-17",
+        "Open":200.0,
+        "High":200.2,
+        "Low":195.1,
+        "Close":196.0,
+        "Percent Change":"-2.97 %",
+        "Volume":"59,629.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-13",
+        "Open":198.0,
+        "High":203.1,
+        "Low":196.2,
+        "Close":202.0,
+        "Percent Change":"2.90 %",
+        "Volume":"63,814.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-12",
+        "Open":200.0,
+        "High":203.0,
+        "Low":196.0,
+        "Close":196.3,
+        "Percent Change":"-1.85 %",
+        "Volume":"43,617.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-11",
+        "Open":195.0,
+        "High":200.8,
+        "Low":193.0,
+        "Close":200.0,
+        "Percent Change":"2.83 %",
+        "Volume":"53,404.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-10",
+        "Open":195.0,
+        "High":196.9,
+        "Low":193.5,
+        "Close":194.5,
+        "Percent Change":"0.10 %",
+        "Volume":"41,876.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-07",
+        "Open":195.0,
+        "High":198.0,
+        "Low":194.0,
+        "Close":194.3,
+        "Percent Change":"-0.61 %",
+        "Volume":"52,592.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-05",
+        "Open":194.1,
+        "High":200.0,
+        "Low":194.1,
+        "Close":195.5,
+        "Percent Change":"-1.26 %",
+        "Volume":"49,114.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-04",
+        "Open":197.5,
+        "High":201.0,
+        "Low":194.3,
+        "Close":198.0,
+        "Percent Change":"0.41 %",
+        "Volume":"72,628.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-09-03",
+        "Open":206.0,
+        "High":206.0,
+        "Low":197.2,
+        "Close":197.2,
+        "Percent Change":"-2.57 %",
+        "Volume":"84,368.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-30",
+        "Open":200.9,
+        "High":204.8,
+        "Low":200.9,
+        "Close":202.4,
+        "Percent Change":"-1.27 %",
+        "Volume":"35,428.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-29",
+        "Open":200.3,
+        "High":206.0,
+        "Low":200.3,
+        "Close":205.0,
+        "Percent Change":"0.99 %",
+        "Volume":"52,668.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-28",
+        "Open":200.1,
+        "High":204.9,
+        "Low":200.1,
+        "Close":203.0,
+        "Percent Change":"0.50 %",
+        "Volume":"45,716.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-27",
+        "Open":203.0,
+        "High":205.0,
+        "Low":200.1,
+        "Close":202.0,
+        "Percent Change":"-0.64 %",
+        "Volume":"62,150.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-24",
+        "Open":210.0,
+        "High":210.0,
+        "Low":203.0,
+        "Close":203.3,
+        "Percent Change":"-2.31 %",
+        "Volume":"52,340.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-23",
+        "Open":204.0,
+        "High":211.0,
+        "Low":203.0,
+        "Close":208.1,
+        "Percent Change":"1.61 %",
+        "Volume":"80,389.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-22",
+        "Open":200.0,
+        "High":205.0,
+        "Low":200.0,
+        "Close":204.8,
+        "Percent Change":"1.24 %",
+        "Volume":"37,247.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-21",
+        "Open":200.1,
+        "High":205.0,
+        "Low":200.1,
+        "Close":202.3,
+        "Percent Change":"-0.20 %",
+        "Volume":"52,809.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-20",
+        "Open":208.1,
+        "High":208.1,
+        "Low":202.1,
+        "Close":202.7,
+        "Percent Change":"-1.07 %",
+        "Volume":"45,361.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-17",
+        "Open":205.0,
+        "High":208.0,
+        "Low":204.2,
+        "Close":204.9,
+        "Percent Change":"-0.49 %",
+        "Volume":"61,223.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-16",
+        "Open":208.9,
+        "High":208.9,
+        "Low":203.3,
+        "Close":205.9,
+        "Percent Change":"-0.29 %",
+        "Volume":"63,325.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-15",
+        "Open":212.0,
+        "High":212.0,
+        "Low":205.8,
+        "Close":206.5,
+        "Percent Change":"-1.20 %",
+        "Volume":"53,142.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-14",
+        "Open":210.6,
+        "High":212.0,
+        "Low":208.1,
+        "Close":209.0,
+        "Percent Change":"-1.18 %",
+        "Volume":"53,983.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-13",
+        "Open":210.0,
+        "High":214.0,
+        "Low":207.1,
+        "Close":211.5,
+        "Percent Change":"0.71 %",
+        "Volume":"69,498.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-10",
+        "Open":210.0,
+        "High":215.0,
+        "Low":207.0,
+        "Close":210.0,
+        "Percent Change":"0.00 %",
+        "Volume":"78,943.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-09",
+        "Open":205.8,
+        "High":211.0,
+        "Low":203.3,
+        "Close":210.0,
+        "Percent Change":"2.04 %",
+        "Volume":"73,100.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-08",
+        "Open":210.0,
+        "High":210.0,
+        "Low":205.1,
+        "Close":205.8,
+        "Percent Change":"-1.53 %",
+        "Volume":"62,091.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-07",
+        "Open":208.5,
+        "High":211.8,
+        "Low":207.5,
+        "Close":209.0,
+        "Percent Change":"-0.48 %",
+        "Volume":"65,642.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-06",
+        "Open":213.0,
+        "High":215.0,
+        "Low":209.3,
+        "Close":210.0,
+        "Percent Change":"-1.41 %",
+        "Volume":"73,007.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-03",
+        "Open":212.0,
+        "High":215.9,
+        "Low":212.0,
+        "Close":213.0,
+        "Percent Change":"-0.47 %",
+        "Volume":"81,316.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-02",
+        "Open":212.5,
+        "High":216.0,
+        "Low":212.0,
+        "Close":214.0,
+        "Percent Change":"0.00 %",
+        "Volume":"79,080.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-08-01",
+        "Open":215.0,
+        "High":219.0,
+        "Low":213.0,
+        "Close":214.0,
+        "Percent Change":"-0.93 %",
+        "Volume":"101,938.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-31",
+        "Open":215.0,
+        "High":219.0,
+        "Low":215.0,
+        "Close":216.0,
+        "Percent Change":"0.42 %",
+        "Volume":"76,831.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-30",
+        "Open":214.0,
+        "High":220.0,
+        "Low":214.0,
+        "Close":215.1,
+        "Percent Change":"-0.88 %",
+        "Volume":"93,677.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-27",
+        "Open":218.4,
+        "High":222.9,
+        "Low":216.9,
+        "Close":217.0,
+        "Percent Change":"-1.32 %",
+        "Volume":"88,172.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-26",
+        "Open":225.0,
+        "High":225.0,
+        "Low":218.6,
+        "Close":219.9,
+        "Percent Change":"-0.54 %",
+        "Volume":"90,515.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-25",
+        "Open":223.8,
+        "High":227.0,
+        "Low":221.0,
+        "Close":221.1,
+        "Percent Change":"-2.17 %",
+        "Volume":"106,697.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-24",
+        "Open":230.0,
+        "High":232.0,
+        "Low":225.0,
+        "Close":226.0,
+        "Percent Change":"-1.99 %",
+        "Volume":"153,594.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-23",
+        "Open":228.4,
+        "High":236.0,
+        "Low":227.0,
+        "Close":230.6,
+        "Percent Change":"2.95 %",
+        "Volume":"317,090.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-20",
+        "Open":226.0,
+        "High":228.8,
+        "Low":224.0,
+        "Close":224.0,
+        "Percent Change":"-1.15 %",
+        "Volume":"120,572.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-19",
+        "Open":224.1,
+        "High":230.0,
+        "Low":224.1,
+        "Close":226.6,
+        "Percent Change":"-0.74 %",
+        "Volume":"95,747.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-18",
+        "Open":226.0,
+        "High":234.0,
+        "Low":226.0,
+        "Close":228.3,
+        "Percent Change":"0.09 %",
+        "Volume":"204,736.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-17",
+        "Open":225.0,
+        "High":230.0,
+        "Low":223.5,
+        "Close":228.1,
+        "Percent Change":"1.83 %",
+        "Volume":"201,462.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-16",
+        "Open":218.0,
+        "High":228.0,
+        "Low":215.9,
+        "Close":224.0,
+        "Percent Change":"3.23 %",
+        "Volume":"173,923.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-13",
+        "Open":218.0,
+        "High":222.9,
+        "Low":216.5,
+        "Close":217.0,
+        "Percent Change":"-0.46 %",
+        "Volume":"121,198.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-12",
+        "Open":214.0,
+        "High":220.0,
+        "Low":213.0,
+        "Close":218.0,
+        "Percent Change":"0.93 %",
+        "Volume":"92,892.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-11",
+        "Open":217.6,
+        "High":219.0,
+        "Low":215.0,
+        "Close":216.0,
+        "Percent Change":"-0.78 %",
+        "Volume":"88,381.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-10",
+        "Open":219.0,
+        "High":223.0,
+        "Low":216.4,
+        "Close":217.7,
+        "Percent Change":"-1.05 %",
+        "Volume":"109,705.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-09",
+        "Open":210.0,
+        "High":221.8,
+        "Low":210.0,
+        "Close":220.0,
+        "Percent Change":"3.24 %",
+        "Volume":"141,871.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-06",
+        "Open":218.2,
+        "High":218.2,
+        "Low":211.6,
+        "Close":213.1,
+        "Percent Change":"-0.42 %",
+        "Volume":"124,075.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-05",
+        "Open":220.0,
+        "High":220.1,
+        "Low":213.1,
+        "Close":214.0,
+        "Percent Change":"-2.28 %",
+        "Volume":"138,898.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-04",
+        "Open":220.0,
+        "High":223.8,
+        "Low":217.4,
+        "Close":219.0,
+        "Percent Change":"-0.27 %",
+        "Volume":"122,183.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-03",
+        "Open":221.3,
+        "High":225.0,
+        "Low":219.0,
+        "Close":219.6,
+        "Percent Change":"-1.96 %",
+        "Volume":"172,650.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-07-02",
+        "Open":232.0,
+        "High":233.5,
+        "Low":221.2,
+        "Close":224.0,
+        "Percent Change":"-2.61 %",
+        "Volume":"180,012.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-28",
+        "Open":234.0,
+        "High":242.7,
+        "Low":228.7,
+        "Close":230.0,
+        "Percent Change":"-2.17 %",
+        "Volume":"312,696.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-27",
+        "Open":239.7,
+        "High":239.7,
+        "Low":232.2,
+        "Close":235.1,
+        "Percent Change":"0.04 %",
+        "Volume":"296,765.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-26",
+        "Open":240.5,
+        "High":244.0,
+        "Low":233.3,
+        "Close":235.0,
+        "Percent Change":"-0.42 %",
+        "Volume":"247,145.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-25",
+        "Open":237.0,
+        "High":238.5,
+        "Low":232.0,
+        "Close":236.0,
+        "Percent Change":"0.98 %",
+        "Volume":"466,178.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-22",
+        "Open":239.0,
+        "High":240.0,
+        "Low":232.6,
+        "Close":233.7,
+        "Percent Change":"-0.34 %",
+        "Volume":"203,672.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-21",
+        "Open":237.0,
+        "High":245.8,
+        "Low":234.5,
+        "Close":234.5,
+        "Percent Change":"-1.14 %",
+        "Volume":"354,463.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-20",
+        "Open":230.0,
+        "High":248.0,
+        "Low":230.0,
+        "Close":237.2,
+        "Percent Change":"3.13 %",
+        "Volume":"849,396.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-19",
+        "Open":227.0,
+        "High":235.6,
+        "Low":223.1,
+        "Close":230.0,
+        "Percent Change":"2.13 %",
+        "Volume":"244,881.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-18",
+        "Open":229.0,
+        "High":230.0,
+        "Low":221.4,
+        "Close":225.2,
+        "Percent Change":"0.09 %",
+        "Volume":"220,387.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-15",
+        "Open":224.0,
+        "High":230.5,
+        "Low":221.0,
+        "Close":225.0,
+        "Percent Change":"-0.44 %",
+        "Volume":"109,917.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-14",
+        "Open":223.3,
+        "High":234.0,
+        "Low":223.0,
+        "Close":226.0,
+        "Percent Change":"0.22 %",
+        "Volume":"315,499.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-13",
+        "Open":216.0,
+        "High":228.0,
+        "Low":216.0,
+        "Close":225.5,
+        "Percent Change":"3.44 %",
+        "Volume":"251,341.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-12",
+        "Open":223.0,
+        "High":223.0,
+        "Low":216.6,
+        "Close":218.0,
+        "Percent Change":"-0.32 %",
+        "Volume":"110,466.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-11",
+        "Open":214.5,
+        "High":220.5,
+        "Low":214.5,
+        "Close":218.7,
+        "Percent Change":"1.72 %",
+        "Volume":"142,891.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-08",
+        "Open":216.0,
+        "High":219.6,
+        "Low":214.1,
+        "Close":215.0,
+        "Percent Change":"-0.46 %",
+        "Volume":"86,849.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-07",
+        "Open":218.0,
+        "High":222.0,
+        "Low":215.7,
+        "Close":216.0,
+        "Percent Change":"-0.92 %",
+        "Volume":"122,445.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-06",
+        "Open":218.0,
+        "High":220.0,
+        "Low":214.7,
+        "Close":218.0,
+        "Percent Change":"0.23 %",
+        "Volume":"65,877.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-05",
+        "Open":225.5,
+        "High":225.5,
+        "Low":216.8,
+        "Close":217.5,
+        "Percent Change":"-1.63 %",
+        "Volume":"117,197.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-04",
+        "Open":216.1,
+        "High":224.4,
+        "Low":216.0,
+        "Close":221.1,
+        "Percent Change":"4.34 %",
+        "Volume":"145,979.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-06-01",
+        "Open":210.0,
+        "High":214.2,
+        "Low":205.4,
+        "Close":211.9,
+        "Percent Change":"1.63 %",
+        "Volume":"136,186.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-31",
+        "Open":212.0,
+        "High":216.0,
+        "Low":206.0,
+        "Close":208.5,
+        "Percent Change":"-2.57 %",
+        "Volume":"163,609.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-30",
+        "Open":220.1,
+        "High":224.0,
+        "Low":213.0,
+        "Close":214.0,
+        "Percent Change":"-4.46 %",
+        "Volume":"275,721.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-28",
+        "Open":219.8,
+        "High":234.5,
+        "Low":216.2,
+        "Close":224.0,
+        "Percent Change":"1.91 %",
+        "Volume":"346,644.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-24",
+        "Open":215.0,
+        "High":220.0,
+        "Low":215.0,
+        "Close":219.8,
+        "Percent Change":"1.43 %",
+        "Volume":"98,895.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-23",
+        "Open":212.0,
+        "High":219.0,
+        "Low":212.0,
+        "Close":216.7,
+        "Percent Change":"2.12 %",
+        "Volume":"83,877.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-22",
+        "Open":210.0,
+        "High":215.1,
+        "Low":208.4,
+        "Close":212.2,
+        "Percent Change":"-0.33 %",
+        "Volume":"60,352.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-21",
+        "Open":210.1,
+        "High":218.2,
+        "Low":210.0,
+        "Close":212.9,
+        "Percent Change":"1.14 %",
+        "Volume":"93,188.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-18",
+        "Open":205.1,
+        "High":214.0,
+        "Low":205.0,
+        "Close":210.5,
+        "Percent Change":"1.94 %",
+        "Volume":"75,011.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-17",
+        "Open":200.0,
+        "High":208.0,
+        "Low":200.0,
+        "Close":206.5,
+        "Percent Change":"1.23 %",
+        "Volume":"34,477.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-16",
+        "Open":200.0,
+        "High":205.0,
+        "Low":200.0,
+        "Close":204.0,
+        "Percent Change":"0.49 %",
+        "Volume":"43,712.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-15",
+        "Open":201.0,
+        "High":204.9,
+        "Low":200.0,
+        "Close":203.0,
+        "Percent Change":"0.00 %",
+        "Volume":"41,721.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-14",
+        "Open":204.0,
+        "High":208.0,
+        "Low":202.1,
+        "Close":202.1,
+        "Percent Change":"-1.32 %",
+        "Volume":"50,645.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-11",
+        "Open":202.4,
+        "High":208.0,
+        "Low":202.4,
+        "Close":204.8,
+        "Percent Change":"-0.82 %",
+        "Volume":"35,303.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-10",
+        "Open":205.1,
+        "High":210.0,
+        "Low":204.0,
+        "Close":206.5,
+        "Percent Change":"-0.48 %",
+        "Volume":"29,319.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-09",
+        "Open":205.0,
+        "High":208.9,
+        "Low":204.0,
+        "Close":207.5,
+        "Percent Change":"1.22 %",
+        "Volume":"42,782.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-08",
+        "Open":204.0,
+        "High":208.0,
+        "Low":203.1,
+        "Close":205.0,
+        "Percent Change":"-0.44 %",
+        "Volume":"44,322.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-07",
+        "Open":208.0,
+        "High":208.9,
+        "Low":205.1,
+        "Close":205.9,
+        "Percent Change":"-1.06 %",
+        "Volume":"31,947.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-04",
+        "Open":206.0,
+        "High":211.0,
+        "Low":205.0,
+        "Close":208.1,
+        "Percent Change":"0.53 %",
+        "Volume":"34,545.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-03",
+        "Open":209.1,
+        "High":210.0,
+        "Low":206.5,
+        "Close":207.0,
+        "Percent Change":"-1.24 %",
+        "Volume":"42,828.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-05-02",
+        "Open":215.2,
+        "High":215.2,
+        "Low":209.1,
+        "Close":209.6,
+        "Percent Change":"-0.66 %",
+        "Volume":"47,065.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-30",
+        "Open":210.0,
+        "High":214.2,
+        "Low":210.0,
+        "Close":211.0,
+        "Percent Change":"-0.57 %",
+        "Volume":"63,598.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-27",
+        "Open":212.0,
+        "High":214.0,
+        "Low":211.5,
+        "Close":212.2,
+        "Percent Change":"-0.24 %",
+        "Volume":"45,775.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-26",
+        "Open":214.0,
+        "High":217.0,
+        "Low":212.3,
+        "Close":212.7,
+        "Percent Change":"-1.16 %",
+        "Volume":"47,505.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-25",
+        "Open":216.0,
+        "High":219.3,
+        "Low":212.0,
+        "Close":215.2,
+        "Percent Change":"0.51 %",
+        "Volume":"50,037.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-24",
+        "Open":211.0,
+        "High":217.0,
+        "Low":211.0,
+        "Close":214.1,
+        "Percent Change":"0.05 %",
+        "Volume":"43,615.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-23",
+        "Open":212.6,
+        "High":216.0,
+        "Low":212.1,
+        "Close":214.0,
+        "Percent Change":"-1.02 %",
+        "Volume":"61,600.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-20",
+        "Open":222.0,
+        "High":225.0,
+        "Low":216.2,
+        "Close":216.2,
+        "Percent Change":"-2.17 %",
+        "Volume":"51,969.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-19",
+        "Open":222.3,
+        "High":226.0,
+        "Low":219.2,
+        "Close":221.0,
+        "Percent Change":"1.38 %",
+        "Volume":"108,273.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-18",
+        "Open":218.0,
+        "High":221.7,
+        "Low":216.0,
+        "Close":218.0,
+        "Percent Change":"0.00 %",
+        "Volume":"67,521.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-17",
+        "Open":222.0,
+        "High":223.0,
+        "Low":217.5,
+        "Close":218.0,
+        "Percent Change":"-2.24 %",
+        "Volume":"68,649.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-16",
+        "Open":218.0,
+        "High":223.4,
+        "Low":216.1,
+        "Close":223.0,
+        "Percent Change":"1.50 %",
+        "Volume":"100,059.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-13",
+        "Open":222.0,
+        "High":224.8,
+        "Low":218.2,
+        "Close":219.7,
+        "Percent Change":"-0.41 %",
+        "Volume":"129,997.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-12",
+        "Open":215.0,
+        "High":222.0,
+        "Low":214.0,
+        "Close":220.6,
+        "Percent Change":"3.57 %",
+        "Volume":"97,464.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-11",
+        "Open":209.0,
+        "High":217.0,
+        "Low":209.0,
+        "Close":213.0,
+        "Percent Change":"1.48 %",
+        "Volume":"54,281.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-10",
+        "Open":207.2,
+        "High":211.0,
+        "Low":206.2,
+        "Close":209.9,
+        "Percent Change":"0.91 %",
+        "Volume":"51,724.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-09",
+        "Open":215.7,
+        "High":215.7,
+        "Low":207.3,
+        "Close":208.0,
+        "Percent Change":"-1.75 %",
+        "Volume":"54,808.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-06",
+        "Open":217.0,
+        "High":219.0,
+        "Low":211.6,
+        "Close":211.7,
+        "Percent Change":"-1.53 %",
+        "Volume":"74,020.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-05",
+        "Open":212.0,
+        "High":217.0,
+        "Low":211.0,
+        "Close":215.0,
+        "Percent Change":"0.80 %",
+        "Volume":"42,388.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-04",
+        "Open":215.0,
+        "High":216.0,
+        "Low":211.0,
+        "Close":213.3,
+        "Percent Change":"0.00 %",
+        "Volume":"40,043.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-03",
+        "Open":216.0,
+        "High":216.0,
+        "Low":213.0,
+        "Close":213.3,
+        "Percent Change":"-1.25 %",
+        "Volume":"53,408.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-04-02",
+        "Open":219.0,
+        "High":225.0,
+        "Low":215.0,
+        "Close":216.0,
+        "Percent Change":"-1.37 %",
+        "Volume":"70,560.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-30",
+        "Open":220.0,
+        "High":221.8,
+        "Low":218.0,
+        "Close":219.0,
+        "Percent Change":"0.05 %",
+        "Volume":"40,628.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-29",
+        "Open":216.0,
+        "High":220.0,
+        "Low":215.5,
+        "Close":218.9,
+        "Percent Change":"0.32 %",
+        "Volume":"40,357.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-28",
+        "Open":220.0,
+        "High":221.9,
+        "Low":216.8,
+        "Close":218.2,
+        "Percent Change":"0.09 %",
+        "Volume":"61,620.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-27",
+        "Open":215.0,
+        "High":218.8,
+        "Low":212.2,
+        "Close":218.0,
+        "Percent Change":"1.40 %",
+        "Volume":"69,874.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-26",
+        "Open":215.0,
+        "High":217.1,
+        "Low":213.0,
+        "Close":215.0,
+        "Percent Change":"-0.92 %",
+        "Volume":"81,700.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-23",
+        "Open":217.2,
+        "High":220.0,
+        "Low":216.3,
+        "Close":217.0,
+        "Percent Change":"-0.91 %",
+        "Volume":"57,925.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-22",
+        "Open":223.0,
+        "High":226.0,
+        "Low":218.9,
+        "Close":219.0,
+        "Percent Change":"-1.57 %",
+        "Volume":"75,329.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-20",
+        "Open":217.5,
+        "High":222.5,
+        "Low":217.0,
+        "Close":222.5,
+        "Percent Change":"1.60 %",
+        "Volume":"61,282.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-19",
+        "Open":218.0,
+        "High":220.0,
+        "Low":216.1,
+        "Close":219.0,
+        "Percent Change":"0.46 %",
+        "Volume":"61,004.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-16",
+        "Open":215.0,
+        "High":222.0,
+        "Low":215.0,
+        "Close":218.0,
+        "Percent Change":"-0.46 %",
+        "Volume":"67,395.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-15",
+        "Open":218.0,
+        "High":222.0,
+        "Low":216.8,
+        "Close":219.0,
+        "Percent Change":"0.00 %",
+        "Volume":"58,560.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-14",
+        "Open":213.2,
+        "High":221.6,
+        "Low":213.2,
+        "Close":219.0,
+        "Percent Change":"0.69 %",
+        "Volume":"62,968.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-13",
+        "Open":221.0,
+        "High":222.0,
+        "Low":217.2,
+        "Close":217.5,
+        "Percent Change":"-1.58 %",
+        "Volume":"82,573.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-12",
+        "Open":230.0,
+        "High":230.0,
+        "Low":219.3,
+        "Close":221.0,
+        "Percent Change":"-2.21 %",
+        "Volume":"183,211.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-09",
+        "Open":217.0,
+        "High":226.0,
+        "Low":216.1,
+        "Close":226.0,
+        "Percent Change":"4.63 %",
+        "Volume":"99,212.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-07",
+        "Open":215.0,
+        "High":217.9,
+        "Low":211.0,
+        "Close":216.0,
+        "Percent Change":"1.22 %",
+        "Volume":"68,004.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-05",
+        "Open":216.0,
+        "High":218.0,
+        "Low":211.4,
+        "Close":213.4,
+        "Percent Change":"-1.66 %",
+        "Volume":"117,332.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-02",
+        "Open":220.0,
+        "High":222.0,
+        "Low":217.0,
+        "Close":217.0,
+        "Percent Change":"-2.69 %",
+        "Volume":"69,134.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-03-01",
+        "Open":230.0,
+        "High":231.0,
+        "Low":222.1,
+        "Close":223.0,
+        "Percent Change":"-1.93 %",
+        "Volume":"51,438.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-28",
+        "Open":227.2,
+        "High":230.9,
+        "Low":220.0,
+        "Close":227.4,
+        "Percent Change":"2.06 %",
+        "Volume":"166,140.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-27",
+        "Open":225.0,
+        "High":225.0,
+        "Low":216.0,
+        "Close":222.8,
+        "Percent Change":"0.36 %",
+        "Volume":"124,059.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-26",
+        "Open":219.0,
+        "High":223.0,
+        "Low":211.0,
+        "Close":222.0,
+        "Percent Change":"0.91 %",
+        "Volume":"109,112.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-23",
+        "Open":221.0,
+        "High":222.3,
+        "Low":217.0,
+        "Close":220.0,
+        "Percent Change":"-2.14 %",
+        "Volume":"79,930.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-22",
+        "Open":216.0,
+        "High":227.0,
+        "Low":216.0,
+        "Close":224.8,
+        "Percent Change":"4.07 %",
+        "Volume":"139,794.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-20",
+        "Open":220.0,
+        "High":222.0,
+        "Low":215.1,
+        "Close":216.0,
+        "Percent Change":"-1.95 %",
+        "Volume":"84,658.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-16",
+        "Open":220.0,
+        "High":224.9,
+        "Low":219.0,
+        "Close":220.3,
+        "Percent Change":"-0.72 %",
+        "Volume":"90,175.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-15",
+        "Open":220.1,
+        "High":226.9,
+        "Low":220.1,
+        "Close":221.9,
+        "Percent Change":"-0.49 %",
+        "Volume":"81,937.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-14",
+        "Open":225.5,
+        "High":229.0,
+        "Low":221.5,
+        "Close":223.0,
+        "Percent Change":"-1.76 %",
+        "Volume":"115,206.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-12",
+        "Open":234.3,
+        "High":234.3,
+        "Low":225.0,
+        "Close":227.0,
+        "Percent Change":"-5.02 %",
+        "Volume":"132,984.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-09",
+        "Open":235.0,
+        "High":239.9,
+        "Low":230.5,
+        "Close":239.0,
+        "Percent Change":"1.70 %",
+        "Volume":"78,152.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-08",
+        "Open":241.0,
+        "High":242.6,
+        "Low":233.6,
+        "Close":235.0,
+        "Percent Change":"-1.22 %",
+        "Volume":"147,581.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-07",
+        "Open":219.0,
+        "High":238.4,
+        "Low":219.0,
+        "Close":237.9,
+        "Percent Change":"6.73 %",
+        "Volume":"196,244.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-06",
+        "Open":222.0,
+        "High":225.0,
+        "Low":219.0,
+        "Close":222.9,
+        "Percent Change":"0.45 %",
+        "Volume":"64,923.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-05",
+        "Open":220.0,
+        "High":225.0,
+        "Low":219.0,
+        "Close":221.9,
+        "Percent Change":"1.14 %",
+        "Volume":"96,581.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-02",
+        "Open":222.0,
+        "High":234.9,
+        "Low":218.6,
+        "Close":219.4,
+        "Percent Change":"-2.05 %",
+        "Volume":"101,114.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-02-01",
+        "Open":225.0,
+        "High":227.0,
+        "Low":221.1,
+        "Close":224.0,
+        "Percent Change":"-0.44 %",
+        "Volume":"80,391.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-31",
+        "Open":227.0,
+        "High":232.0,
+        "Low":220.0,
+        "Close":225.0,
+        "Percent Change":"-0.88 %",
+        "Volume":"121,833.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-30",
+        "Open":235.0,
+        "High":237.0,
+        "Low":226.4,
+        "Close":227.0,
+        "Percent Change":"-3.40 %",
+        "Volume":"167,664.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-29",
+        "Open":241.0,
+        "High":242.8,
+        "Low":235.0,
+        "Close":235.0,
+        "Percent Change":"-2.08 %",
+        "Volume":"131,466.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-26",
+        "Open":236.7,
+        "High":245.8,
+        "Low":236.7,
+        "Close":240.0,
+        "Percent Change":"-0.62 %",
+        "Volume":"89,416.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-25",
+        "Open":241.0,
+        "High":250.8,
+        "Low":237.0,
+        "Close":241.5,
+        "Percent Change":"-0.21 %",
+        "Volume":"137,285.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-24",
+        "Open":240.1,
+        "High":247.8,
+        "Low":234.0,
+        "Close":242.0,
+        "Percent Change":"0.00 %",
+        "Volume":"132,620.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-23",
+        "Open":258.0,
+        "High":261.0,
+        "Low":242.0,
+        "Close":242.0,
+        "Percent Change":"-4.35 %",
+        "Volume":"277,901.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-19",
+        "Open":235.0,
+        "High":259.0,
+        "Low":233.0,
+        "Close":253.0,
+        "Percent Change":"7.20 %",
+        "Volume":"350,793.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-18",
+        "Open":240.0,
+        "High":246.0,
+        "Low":236.0,
+        "Close":236.0,
+        "Percent Change":"-2.36 %",
+        "Volume":"182,265.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-17",
+        "Open":225.0,
+        "High":242.5,
+        "Low":225.0,
+        "Close":241.7,
+        "Percent Change":"6.01 %",
+        "Volume":"182,100.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-12",
+        "Open":240.0,
+        "High":245.0,
+        "Low":225.1,
+        "Close":228.0,
+        "Percent Change":"-3.39 %",
+        "Volume":"247,823.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-10",
+        "Open":244.0,
+        "High":252.0,
+        "Low":229.0,
+        "Close":236.0,
+        "Percent Change":"-2.40 %",
+        "Volume":"282,318.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-09",
+        "Open":234.0,
+        "High":241.9,
+        "Low":231.0,
+        "Close":241.8,
+        "Percent Change":"3.78 %",
+        "Volume":"200,620.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-08",
+        "Open":218.0,
+        "High":239.6,
+        "Low":213.3,
+        "Close":233.0,
+        "Percent Change":"6.93 %",
+        "Volume":"283,680.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-05",
+        "Open":213.0,
+        "High":219.0,
+        "Low":210.1,
+        "Close":217.9,
+        "Percent Change":"2.20 %",
+        "Volume":"154,372.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-04",
+        "Open":208.0,
+        "High":215.0,
+        "Low":206.1,
+        "Close":213.2,
+        "Percent Change":"2.50 %",
+        "Volume":"106,398.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-03",
+        "Open":213.1,
+        "High":214.0,
+        "Low":205.0,
+        "Close":208.0,
+        "Percent Change":"-2.35 %",
+        "Volume":"81,379.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-02",
+        "Open":214.0,
+        "High":217.9,
+        "Low":208.0,
+        "Close":213.0,
+        "Percent Change":"-0.47 %",
+        "Volume":"83,694.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2023-01-01",
+        "Open":211.0,
+        "High":217.1,
+        "Low":205.0,
+        "Close":214.0,
+        "Percent Change":"2.05 %",
+        "Volume":"162,327.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-29",
+        "Open":202.0,
+        "High":210.0,
+        "Low":196.0,
+        "Close":209.7,
+        "Percent Change":"5.11 %",
+        "Volume":"138,915.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-28",
+        "Open":208.5,
+        "High":208.5,
+        "Low":199.0,
+        "Close":199.5,
+        "Percent Change":"-2.44 %",
+        "Volume":"135,358.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-27",
+        "Open":190.0,
+        "High":205.3,
+        "Low":190.0,
+        "Close":204.5,
+        "Percent Change":"9.53 %",
+        "Volume":"211,014.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-26",
+        "Open":180.0,
+        "High":191.0,
+        "Low":180.0,
+        "Close":186.7,
+        "Percent Change":"4.30 %",
+        "Volume":"73,563.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-22",
+        "Open":179.0,
+        "High":181.0,
+        "Low":178.0,
+        "Close":179.0,
+        "Percent Change":"-0.33 %",
+        "Volume":"26,551.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-21",
+        "Open":183.0,
+        "High":183.7,
+        "Low":179.0,
+        "Close":179.6,
+        "Percent Change":"-0.28 %",
+        "Volume":"30,971.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-20",
+        "Open":176.9,
+        "High":181.5,
+        "Low":176.9,
+        "Close":180.1,
+        "Percent Change":"-0.22 %",
+        "Volume":"31,681.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-19",
+        "Open":181.0,
+        "High":182.0,
+        "Low":179.3,
+        "Close":180.5,
+        "Percent Change":"-0.33 %",
+        "Volume":"27,364.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-18",
+        "Open":183.0,
+        "High":183.2,
+        "Low":180.0,
+        "Close":181.1,
+        "Percent Change":"-1.09 %",
+        "Volume":"50,448.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-15",
+        "Open":186.5,
+        "High":186.5,
+        "Low":183.0,
+        "Close":183.1,
+        "Percent Change":"-1.56 %",
+        "Volume":"24,105.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-14",
+        "Open":184.0,
+        "High":187.6,
+        "Low":183.6,
+        "Close":186.0,
+        "Percent Change":"1.09 %",
+        "Volume":"21,664.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-13",
+        "Open":184.5,
+        "High":186.0,
+        "Low":182.5,
+        "Close":184.0,
+        "Percent Change":"-0.27 %",
+        "Volume":"26,925.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-12",
+        "Open":182.5,
+        "High":184.5,
+        "Low":181.0,
+        "Close":184.5,
+        "Percent Change":"0.82 %",
+        "Volume":"33,717.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-11",
+        "Open":188.0,
+        "High":188.0,
+        "Low":183.0,
+        "Close":183.0,
+        "Percent Change":"-1.08 %",
+        "Volume":"44,083.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-07",
+        "Open":189.0,
+        "High":189.0,
+        "Low":185.0,
+        "Close":185.0,
+        "Percent Change":"-0.38 %",
+        "Volume":"38,424.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-06",
+        "Open":187.0,
+        "High":189.0,
+        "Low":185.3,
+        "Close":185.7,
+        "Percent Change":"-0.96 %",
+        "Volume":"40,665.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-05",
+        "Open":189.9,
+        "High":190.0,
+        "Low":187.1,
+        "Close":187.5,
+        "Percent Change":"-0.53 %",
+        "Volume":"33,161.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-04",
+        "Open":190.0,
+        "High":192.0,
+        "Low":188.0,
+        "Close":188.5,
+        "Percent Change":"-0.32 %",
+        "Volume":"49,715.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-12-01",
+        "Open":190.0,
+        "High":192.0,
+        "Low":188.1,
+        "Close":189.1,
+        "Percent Change":"-0.47 %",
+        "Volume":"38,802.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-30",
+        "Open":189.0,
+        "High":193.0,
+        "Low":189.0,
+        "Close":190.0,
+        "Percent Change":"-0.63 %",
+        "Volume":"29,166.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-29",
+        "Open":192.0,
+        "High":193.0,
+        "Low":189.3,
+        "Close":191.2,
+        "Percent Change":"-0.42 %",
+        "Volume":"24,248.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-28",
+        "Open":195.0,
+        "High":199.9,
+        "Low":190.0,
+        "Close":192.0,
+        "Percent Change":"0.00 %",
+        "Volume":"44,987.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-27",
+        "Open":190.0,
+        "High":192.0,
+        "Low":189.0,
+        "Close":192.0,
+        "Percent Change":"1.96 %",
+        "Volume":"42,357.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-24",
+        "Open":190.0,
+        "High":191.0,
+        "Low":188.0,
+        "Close":188.3,
+        "Percent Change":"-0.37 %",
+        "Volume":"38,536.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-23",
+        "Open":190.0,
+        "High":193.0,
+        "Low":188.0,
+        "Close":189.0,
+        "Percent Change":"-0.89 %",
+        "Volume":"34,557.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-22",
+        "Open":197.9,
+        "High":198.0,
+        "Low":190.6,
+        "Close":190.7,
+        "Percent Change":"-1.75 %",
+        "Volume":"38,922.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-17",
+        "Open":192.0,
+        "High":195.0,
+        "Low":189.2,
+        "Close":194.1,
+        "Percent Change":"0.57 %",
+        "Volume":"54,020.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-16",
+        "Open":193.0,
+        "High":195.5,
+        "Low":189.0,
+        "Close":193.0,
+        "Percent Change":"1.58 %",
+        "Volume":"65,947.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-15",
+        "Open":190.0,
+        "High":195.0,
+        "Low":190.0,
+        "Close":190.0,
+        "Percent Change":"-0.52 %",
+        "Volume":"51,112.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-14",
+        "Open":190.0,
+        "High":192.0,
+        "Low":187.5,
+        "Close":191.0,
+        "Percent Change":"1.06 %",
+        "Volume":"37,536.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-13",
+        "Open":190.0,
+        "High":192.0,
+        "Low":187.2,
+        "Close":189.0,
+        "Percent Change":"-0.53 %",
+        "Volume":"31,560.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-10",
+        "Open":193.0,
+        "High":195.0,
+        "Low":189.2,
+        "Close":190.0,
+        "Percent Change":"-1.04 %",
+        "Volume":"39,357.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-09",
+        "Open":198.0,
+        "High":201.0,
+        "Low":192.0,
+        "Close":192.0,
+        "Percent Change":"-2.59 %",
+        "Volume":"52,490.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-08",
+        "Open":201.0,
+        "High":201.0,
+        "Low":196.0,
+        "Close":197.1,
+        "Percent Change":"-0.95 %",
+        "Volume":"32,323.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-07",
+        "Open":205.0,
+        "High":205.0,
+        "Low":199.0,
+        "Close":199.0,
+        "Percent Change":"-1.24 %",
+        "Volume":"71,837.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-06",
+        "Open":200.0,
+        "High":204.0,
+        "Low":197.0,
+        "Close":201.5,
+        "Percent Change":"1.10 %",
+        "Volume":"52,939.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-03",
+        "Open":208.0,
+        "High":208.0,
+        "Low":198.5,
+        "Close":199.3,
+        "Percent Change":"-2.30 %",
+        "Volume":"46,292.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-02",
+        "Open":200.0,
+        "High":210.0,
+        "Low":197.0,
+        "Close":204.0,
+        "Percent Change":"1.54 %",
+        "Volume":"74,843.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-11-01",
+        "Open":191.0,
+        "High":200.9,
+        "Low":189.0,
+        "Close":200.9,
+        "Percent Change":"6.30 %",
+        "Volume":"74,432.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-10-31",
+        "Open":188.0,
+        "High":192.0,
+        "Low":188.0,
+        "Close":189.0,
+        "Percent Change":"1.02 %",
+        "Volume":"32,954.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-10-23",
+        "Open":187.0,
+        "High":189.6,
+        "Low":186.0,
+        "Close":187.1,
+        "Percent Change":"0.70 %",
+        "Volume":"25,605.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-10-20",
+        "Open":185.0,
+        "High":187.0,
+        "Low":184.0,
+        "Close":185.8,
+        "Percent Change":"0.43 %",
+        "Volume":"29,247.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-10-19",
+        "Open":184.0,
+        "High":186.0,
+        "Low":184.0,
+        "Close":185.0,
+        "Percent Change":"-1.02 %",
+        "Volume":"41,987.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-10-17",
+        "Open":186.0,
+        "High":187.4,
+        "Low":182.5,
+        "Close":186.9,
+        "Percent Change":"0.48 %",
+        "Volume":"40,332.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-10-16",
+        "Open":185.0,
+        "High":189.3,
+        "Low":185.0,
+        "Close":186.0,
+        "Percent Change":"-0.75 %",
+        "Volume":"29,584.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-10-13",
+        "Open":190.0,
+        "High":192.0,
+        "Low":186.0,
+        "Close":187.4,
+        "Percent Change":"-0.27 %",
+        "Volume":"39,680.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-10-12",
+        "Open":188.0,
+        "High":190.0,
+        "Low":185.0,
+        "Close":187.4,
+        "Percent Change":"0.64 %",
+        "Volume":"30,946.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-10-11",
+        "Open":186.3,
+        "High":188.4,
+        "Low":184.0,
+        "Close":186.2,
+        "Percent Change":"-1.59 %",
+        "Volume":"53,755.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-10-10",
+        "Open":195.0,
+        "High":196.0,
+        "Low":189.0,
+        "Close":189.2,
+        "Percent Change":"-2.72 %",
+        "Volume":"49,135.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-10-09",
+        "Open":194.0,
+        "High":196.9,
+        "Low":192.0,
+        "Close":194.5,
+        "Percent Change":"1.30 %",
+        "Volume":"33,857.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-29",
+        "Open":190.0,
+        "High":193.6,
+        "Low":189.0,
+        "Close":192.0,
+        "Percent Change":"2.13 %",
+        "Volume":"50,688.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-28",
+        "Open":190.0,
+        "High":190.0,
+        "Low":187.0,
+        "Close":188.0,
+        "Percent Change":"0.21 %",
+        "Volume":"29,732.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-27",
+        "Open":187.0,
+        "High":190.0,
+        "Low":185.0,
+        "Close":187.6,
+        "Percent Change":"0.32 %",
+        "Volume":"43,498.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-25",
+        "Open":195.9,
+        "High":195.9,
+        "Low":179.9,
+        "Close":187.0,
+        "Percent Change":"-6.41 %",
+        "Volume":"139,884.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-22",
+        "Open":200.0,
+        "High":202.0,
+        "Low":197.1,
+        "Close":199.8,
+        "Percent Change":"-1.33 %",
+        "Volume":"51,537.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-21",
+        "Open":203.0,
+        "High":205.9,
+        "Low":199.0,
+        "Close":202.5,
+        "Percent Change":"1.30 %",
+        "Volume":"55,598.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-20",
+        "Open":201.0,
+        "High":205.0,
+        "Low":198.0,
+        "Close":199.9,
+        "Percent Change":"-2.49 %",
+        "Volume":"82,393.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-18",
+        "Open":211.0,
+        "High":211.0,
+        "Low":205.0,
+        "Close":205.0,
+        "Percent Change":"-2.47 %",
+        "Volume":"78,020.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-16",
+        "Open":210.0,
+        "High":213.0,
+        "Low":205.8,
+        "Close":210.2,
+        "Percent Change":"-1.78 %",
+        "Volume":"42,620.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-15",
+        "Open":226.7,
+        "High":226.7,
+        "Low":211.6,
+        "Close":214.0,
+        "Percent Change":"-4.08 %",
+        "Volume":"83,601.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-14",
+        "Open":215.0,
+        "High":224.0,
+        "Low":215.0,
+        "Close":223.1,
+        "Percent Change":"3.33 %",
+        "Volume":"61,871.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-13",
+        "Open":214.0,
+        "High":219.0,
+        "Low":213.1,
+        "Close":215.9,
+        "Percent Change":"0.89 %",
+        "Volume":"43,593.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-12",
+        "Open":215.0,
+        "High":217.0,
+        "Low":212.0,
+        "Close":214.0,
+        "Percent Change":"-0.47 %",
+        "Volume":"42,693.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-11",
+        "Open":221.5,
+        "High":221.5,
+        "Low":213.0,
+        "Close":215.0,
+        "Percent Change":"-1.01 %",
+        "Volume":"74,533.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-08",
+        "Open":217.2,
+        "High":221.0,
+        "Low":215.8,
+        "Close":217.2,
+        "Percent Change":"-0.18 %",
+        "Volume":"44,738.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-07",
+        "Open":216.0,
+        "High":222.0,
+        "Low":216.0,
+        "Close":217.6,
+        "Percent Change":"-1.09 %",
+        "Volume":"32,928.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-06",
+        "Open":222.0,
+        "High":226.0,
+        "Low":219.5,
+        "Close":220.0,
+        "Percent Change":"-1.03 %",
+        "Volume":"58,130.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-05",
+        "Open":218.6,
+        "High":225.0,
+        "Low":218.6,
+        "Close":222.3,
+        "Percent Change":"-0.31 %",
+        "Volume":"35,687.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-04",
+        "Open":222.0,
+        "High":226.0,
+        "Low":222.0,
+        "Close":223.0,
+        "Percent Change":"0.00 %",
+        "Volume":"41,198.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-02",
+        "Open":225.0,
+        "High":225.9,
+        "Low":223.0,
+        "Close":223.0,
+        "Percent Change":"-0.04 %",
+        "Volume":"12,089.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-09-01",
+        "Open":220.6,
+        "High":227.0,
+        "Low":220.6,
+        "Close":223.1,
+        "Percent Change":"-0.89 %",
+        "Volume":"40,413.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-31",
+        "Open":224.5,
+        "High":228.0,
+        "Low":224.0,
+        "Close":225.1,
+        "Percent Change":"-0.75 %",
+        "Volume":"33,083.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-30",
+        "Open":228.0,
+        "High":230.0,
+        "Low":225.1,
+        "Close":226.8,
+        "Percent Change":"0.58 %",
+        "Volume":"19,865.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-29",
+        "Open":225.0,
+        "High":227.0,
+        "Low":221.9,
+        "Close":225.5,
+        "Percent Change":"0.22 %",
+        "Volume":"64,113.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-28",
+        "Open":225.0,
+        "High":230.0,
+        "Low":224.5,
+        "Close":225.0,
+        "Percent Change":"-1.75 %",
+        "Volume":"82,956.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-26",
+        "Open":231.8,
+        "High":231.8,
+        "Low":228.1,
+        "Close":229.0,
+        "Percent Change":"-1.21 %",
+        "Volume":"36,361.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-25",
+        "Open":228.0,
+        "High":234.0,
+        "Low":228.0,
+        "Close":231.8,
+        "Percent Change":"-0.34 %",
+        "Volume":"50,536.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-24",
+        "Open":228.0,
+        "High":237.0,
+        "Low":228.0,
+        "Close":232.6,
+        "Percent Change":"0.26 %",
+        "Volume":"38,823.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-23",
+        "Open":230.0,
+        "High":233.0,
+        "Low":230.0,
+        "Close":232.0,
+        "Percent Change":"-0.30 %",
+        "Volume":"39,306.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-22",
+        "Open":233.5,
+        "High":235.0,
+        "Low":230.6,
+        "Close":232.7,
+        "Percent Change":"-0.94 %",
+        "Volume":"46,025.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-21",
+        "Open":235.0,
+        "High":240.9,
+        "Low":233.0,
+        "Close":234.9,
+        "Percent Change":"-0.89 %",
+        "Volume":"41,512.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-18",
+        "Open":230.0,
+        "High":238.9,
+        "Low":230.0,
+        "Close":237.0,
+        "Percent Change":"2.60 %",
+        "Volume":"76,930.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-17",
+        "Open":231.0,
+        "High":233.0,
+        "Low":227.3,
+        "Close":231.0,
+        "Percent Change":"0.39 %",
+        "Volume":"54,991.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-16",
+        "Open":235.0,
+        "High":240.0,
+        "Low":229.4,
+        "Close":230.1,
+        "Percent Change":"-2.75 %",
+        "Volume":"86,087.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-15",
+        "Open":226.0,
+        "High":237.4,
+        "Low":226.0,
+        "Close":236.6,
+        "Percent Change":"2.91 %",
+        "Volume":"70,265.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-14",
+        "Open":229.4,
+        "High":235.0,
+        "Low":229.0,
+        "Close":229.9,
+        "Percent Change":"-1.75 %",
+        "Volume":"87,124.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-11",
+        "Open":235.0,
+        "High":239.0,
+        "Low":233.2,
+        "Close":234.0,
+        "Percent Change":"-0.43 %",
+        "Volume":"58,253.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-10",
+        "Open":234.0,
+        "High":239.0,
+        "Low":231.5,
+        "Close":235.0,
+        "Percent Change":"0.00 %",
+        "Volume":"56,855.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-09",
+        "Open":237.2,
+        "High":240.0,
+        "Low":235.0,
+        "Close":235.0,
+        "Percent Change":"-1.67 %",
+        "Volume":"98,225.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-08",
+        "Open":247.8,
+        "High":247.8,
+        "Low":239.0,
+        "Close":239.0,
+        "Percent Change":"-1.65 %",
+        "Volume":"102,562.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-07",
+        "Open":240.0,
+        "High":249.5,
+        "Low":238.5,
+        "Close":243.0,
+        "Percent Change":"0.41 %",
+        "Volume":"65,696.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-05",
+        "Open":249.0,
+        "High":249.0,
+        "Low":242.0,
+        "Close":242.0,
+        "Percent Change":"-2.42 %",
+        "Volume":"72,923.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-04",
+        "Open":254.0,
+        "High":256.0,
+        "Low":247.0,
+        "Close":248.0,
+        "Percent Change":"-2.36 %",
+        "Volume":"154,422.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-03",
+        "Open":264.0,
+        "High":264.0,
+        "Low":253.0,
+        "Close":254.0,
+        "Percent Change":"-1.93 %",
+        "Volume":"140,288.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-02",
+        "Open":264.0,
+        "High":264.0,
+        "Low":255.5,
+        "Close":259.0,
+        "Percent Change":"-1.52 %",
+        "Volume":"105,893.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-08-01",
+        "Open":268.0,
+        "High":269.2,
+        "Low":260.0,
+        "Close":263.0,
+        "Percent Change":"-0.38 %",
+        "Volume":"211,469.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-31",
+        "Open":252.0,
+        "High":267.0,
+        "Low":251.0,
+        "Close":264.0,
+        "Percent Change":"5.10 %",
+        "Volume":"273,966.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-29",
+        "Open":252.0,
+        "High":257.0,
+        "Low":249.1,
+        "Close":251.2,
+        "Percent Change":"0.48 %",
+        "Volume":"89,958.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-28",
+        "Open":249.0,
+        "High":265.3,
+        "Low":247.0,
+        "Close":250.0,
+        "Percent Change":"1.05 %",
+        "Volume":"215,017.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-27",
+        "Open":244.0,
+        "High":247.8,
+        "Low":241.0,
+        "Close":247.4,
+        "Percent Change":"0.94 %",
+        "Volume":"90,584.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-26",
+        "Open":255.0,
+        "High":257.0,
+        "Low":245.0,
+        "Close":245.1,
+        "Percent Change":"-3.12 %",
+        "Volume":"125,228.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-25",
+        "Open":249.0,
+        "High":255.0,
+        "Low":245.1,
+        "Close":253.0,
+        "Percent Change":"2.64 %",
+        "Volume":"157,997.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-24",
+        "Open":244.0,
+        "High":248.0,
+        "Low":239.9,
+        "Close":246.5,
+        "Percent Change":"2.71 %",
+        "Volume":"123,649.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-22",
+        "Open":245.0,
+        "High":246.0,
+        "Low":238.3,
+        "Close":240.0,
+        "Percent Change":"-0.12 %",
+        "Volume":"71,190.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-21",
+        "Open":245.0,
+        "High":245.0,
+        "Low":240.0,
+        "Close":240.3,
+        "Percent Change":"-1.92 %",
+        "Volume":"59,653.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-20",
+        "Open":244.0,
+        "High":248.0,
+        "Low":242.0,
+        "Close":245.0,
+        "Percent Change":"0.41 %",
+        "Volume":"39,721.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-19",
+        "Open":244.0,
+        "High":250.0,
+        "Low":243.1,
+        "Close":244.0,
+        "Percent Change":"0.21 %",
+        "Volume":"68,376.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-18",
+        "Open":241.0,
+        "High":247.0,
+        "Low":240.0,
+        "Close":243.5,
+        "Percent Change":"0.62 %",
+        "Volume":"46,856.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-17",
+        "Open":243.0,
+        "High":246.0,
+        "Low":240.0,
+        "Close":242.0,
+        "Percent Change":"0.83 %",
+        "Volume":"57,214.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-15",
+        "Open":243.1,
+        "High":244.0,
+        "Low":239.2,
+        "Close":240.0,
+        "Percent Change":"-0.99 %",
+        "Volume":"40,374.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-14",
+        "Open":244.0,
+        "High":250.9,
+        "Low":241.0,
+        "Close":242.4,
+        "Percent Change":"-0.66 %",
+        "Volume":"76,790.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-13",
+        "Open":233.0,
+        "High":244.0,
+        "Low":230.5,
+        "Close":244.0,
+        "Percent Change":"4.72 %",
+        "Volume":"73,157.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-12",
+        "Open":232.0,
+        "High":239.0,
+        "Low":230.3,
+        "Close":233.0,
+        "Percent Change":"0.43 %",
+        "Volume":"92,289.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-11",
+        "Open":240.0,
+        "High":240.0,
+        "Low":231.0,
+        "Close":232.0,
+        "Percent Change":"-3.53 %",
+        "Volume":"110,528.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-08",
+        "Open":248.0,
+        "High":249.0,
+        "Low":237.5,
+        "Close":240.5,
+        "Percent Change":"-2.63 %",
+        "Volume":"60,023.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-07",
+        "Open":252.0,
+        "High":260.0,
+        "Low":244.1,
+        "Close":247.0,
+        "Percent Change":"-1.20 %",
+        "Volume":"67,965.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-06",
+        "Open":250.0,
+        "High":252.0,
+        "Low":241.1,
+        "Close":250.0,
+        "Percent Change":"1.21 %",
+        "Volume":"84,478.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-05",
+        "Open":252.9,
+        "High":261.0,
+        "Low":247.0,
+        "Close":247.0,
+        "Percent Change":"-4.26 %",
+        "Volume":"128,069.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-04",
+        "Open":267.0,
+        "High":274.0,
+        "Low":255.0,
+        "Close":258.0,
+        "Percent Change":"-1.49 %",
+        "Volume":"178,532.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-03",
+        "Open":246.0,
+        "High":264.0,
+        "Low":241.1,
+        "Close":261.9,
+        "Percent Change":"4.34 %",
+        "Volume":"101,703.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-07-01",
+        "Open":250.0,
+        "High":260.0,
+        "Low":250.0,
+        "Close":251.0,
+        "Percent Change":"-1.41 %",
+        "Volume":"47,058.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-30",
+        "Open":247.0,
+        "High":257.0,
+        "Low":244.0,
+        "Close":254.6,
+        "Percent Change":"4.77 %",
+        "Volume":"121,168.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-29",
+        "Open":244.0,
+        "High":245.0,
+        "Low":235.0,
+        "Close":243.0,
+        "Percent Change":"1.55 %",
+        "Volume":"60,411.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-28",
+        "Open":238.0,
+        "High":241.0,
+        "Low":232.1,
+        "Close":239.3,
+        "Percent Change":"-0.71 %",
+        "Volume":"78,988.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-27",
+        "Open":253.4,
+        "High":255.0,
+        "Low":240.4,
+        "Close":241.0,
+        "Percent Change":"-3.02 %",
+        "Volume":"91,212.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-26",
+        "Open":232.0,
+        "High":249.0,
+        "Low":232.0,
+        "Close":248.5,
+        "Percent Change":"6.93 %",
+        "Volume":"118,265.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-24",
+        "Open":228.0,
+        "High":240.0,
+        "Low":221.5,
+        "Close":232.4,
+        "Percent Change":"1.89 %",
+        "Volume":"60,604.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-23",
+        "Open":238.0,
+        "High":238.0,
+        "Low":228.0,
+        "Close":228.1,
+        "Percent Change":"-3.35 %",
+        "Volume":"77,192.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-22",
+        "Open":241.0,
+        "High":241.0,
+        "Low":235.0,
+        "Close":236.0,
+        "Percent Change":"-2.07 %",
+        "Volume":"47,674.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-21",
+        "Open":233.0,
+        "High":245.0,
+        "Low":230.1,
+        "Close":241.0,
+        "Percent Change":"3.21 %",
+        "Volume":"78,620.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-20",
+        "Open":242.0,
+        "High":242.0,
+        "Low":231.5,
+        "Close":233.5,
+        "Percent Change":"-3.51 %",
+        "Volume":"97,965.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-19",
+        "Open":250.0,
+        "High":254.0,
+        "Low":242.0,
+        "Close":242.0,
+        "Percent Change":"-3.39 %",
+        "Volume":"79,012.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-17",
+        "Open":253.0,
+        "High":256.0,
+        "Low":250.0,
+        "Close":250.5,
+        "Percent Change":"-0.60 %",
+        "Volume":"21,156.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-16",
+        "Open":247.0,
+        "High":258.9,
+        "Low":247.0,
+        "Close":252.0,
+        "Percent Change":"0.00 %",
+        "Volume":"57,997.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-15",
+        "Open":257.5,
+        "High":257.5,
+        "Low":247.0,
+        "Close":252.0,
+        "Percent Change":"-1.75 %",
+        "Volume":"73,439.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-14",
+        "Open":264.6,
+        "High":264.6,
+        "Low":255.0,
+        "Close":256.5,
+        "Percent Change":"-3.06 %",
+        "Volume":"99,008.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-13",
+        "Open":265.1,
+        "High":270.0,
+        "Low":264.0,
+        "Close":264.6,
+        "Percent Change":"-1.60 %",
+        "Volume":"34,768.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-10",
+        "Open":273.0,
+        "High":273.0,
+        "Low":264.1,
+        "Close":268.9,
+        "Percent Change":"0.34 %",
+        "Volume":"35,540.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-09",
+        "Open":271.0,
+        "High":279.9,
+        "Low":267.0,
+        "Close":268.0,
+        "Percent Change":"-1.83 %",
+        "Volume":"80,519.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-08",
+        "Open":263.0,
+        "High":275.5,
+        "Low":262.0,
+        "Close":273.0,
+        "Percent Change":"4.20 %",
+        "Volume":"100,083.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-07",
+        "Open":268.1,
+        "High":271.0,
+        "Low":262.0,
+        "Close":262.0,
+        "Percent Change":"-2.64 %",
+        "Volume":"59,946.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-06",
+        "Open":273.0,
+        "High":275.9,
+        "Low":266.0,
+        "Close":269.1,
+        "Percent Change":"0.22 %",
+        "Volume":"67,655.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-03",
+        "Open":265.8,
+        "High":276.0,
+        "Low":265.8,
+        "Close":268.5,
+        "Percent Change":"-0.96 %",
+        "Volume":"52,214.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-02",
+        "Open":275.5,
+        "High":279.0,
+        "Low":271.0,
+        "Close":271.1,
+        "Percent Change":"-1.24 %",
+        "Volume":"50,586.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-06-01",
+        "Open":275.0,
+        "High":277.0,
+        "Low":271.0,
+        "Close":274.5,
+        "Percent Change":"0.59 %",
+        "Volume":"60,533.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-31",
+        "Open":278.0,
+        "High":281.0,
+        "Low":270.0,
+        "Close":272.9,
+        "Percent Change":"-1.62 %",
+        "Volume":"90,866.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-30",
+        "Open":285.0,
+        "High":289.0,
+        "Low":277.0,
+        "Close":277.4,
+        "Percent Change":"-2.67 %",
+        "Volume":"83,006.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-27",
+        "Open":285.0,
+        "High":291.9,
+        "Low":283.0,
+        "Close":285.0,
+        "Percent Change":"-0.70 %",
+        "Volume":"49,978.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-26",
+        "Open":290.7,
+        "High":290.7,
+        "Low":285.0,
+        "Close":287.0,
+        "Percent Change":"0.53 %",
+        "Volume":"56,271.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-25",
+        "Open":290.0,
+        "High":292.9,
+        "Low":285.5,
+        "Close":285.5,
+        "Percent Change":"-0.17 %",
+        "Volume":"60,952.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-24",
+        "Open":287.0,
+        "High":289.9,
+        "Low":280.6,
+        "Close":286.0,
+        "Percent Change":"0.81 %",
+        "Volume":"43,538.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-23",
+        "Open":290.0,
+        "High":290.0,
+        "Low":283.0,
+        "Close":283.7,
+        "Percent Change":"-2.17 %",
+        "Volume":"73,828.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-20",
+        "Open":288.0,
+        "High":295.0,
+        "Low":287.5,
+        "Close":290.0,
+        "Percent Change":"0.00 %",
+        "Volume":"46,782.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-19",
+        "Open":291.1,
+        "High":295.8,
+        "Low":289.0,
+        "Close":290.0,
+        "Percent Change":"0.00 %",
+        "Volume":"67,614.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-18",
+        "Open":296.0,
+        "High":296.9,
+        "Low":287.1,
+        "Close":290.0,
+        "Percent Change":"-0.01 %",
+        "Volume":"63,188.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-17",
+        "Open":299.0,
+        "High":301.0,
+        "Low":290.0,
+        "Close":292.0,
+        "Percent Change":"-3.31 %",
+        "Volume":"77,100.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-12",
+        "Open":309.0,
+        "High":315.0,
+        "Low":301.1,
+        "Close":302.0,
+        "Percent Change":"-2.27 %",
+        "Volume":"87,012.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-11",
+        "Open":294.7,
+        "High":311.0,
+        "Low":294.7,
+        "Close":309.0,
+        "Percent Change":"3.28 %",
+        "Volume":"98,431.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-10",
+        "Open":295.0,
+        "High":300.0,
+        "Low":292.0,
+        "Close":299.2,
+        "Percent Change":"2.47 %",
+        "Volume":"68,424.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-09",
+        "Open":298.0,
+        "High":302.0,
+        "Low":290.0,
+        "Close":292.0,
+        "Percent Change":"-1.78 %",
+        "Volume":"110,453.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-08",
+        "Open":287.0,
+        "High":299.0,
+        "Low":280.0,
+        "Close":297.3,
+        "Percent Change":"3.77 %",
+        "Volume":"92,245.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-05",
+        "Open":293.0,
+        "High":295.0,
+        "Low":285.0,
+        "Close":286.5,
+        "Percent Change":"-1.92 %",
+        "Volume":"121,469.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-04",
+        "Open":296.0,
+        "High":299.0,
+        "Low":290.0,
+        "Close":292.1,
+        "Percent Change":"-1.08 %",
+        "Volume":"99,614.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-05-02",
+        "Open":302.0,
+        "High":302.0,
+        "Low":295.0,
+        "Close":295.3,
+        "Percent Change":"-2.09 %",
+        "Volume":"125,585.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-28",
+        "Open":312.0,
+        "High":312.0,
+        "Low":301.0,
+        "Close":301.6,
+        "Percent Change":"-1.76 %",
+        "Volume":"114,023.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-27",
+        "Open":301.0,
+        "High":309.0,
+        "Low":300.0,
+        "Close":307.0,
+        "Percent Change":"0.49 %",
+        "Volume":"63,206.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-26",
+        "Open":310.0,
+        "High":313.0,
+        "Low":303.8,
+        "Close":305.5,
+        "Percent Change":"-1.29 %",
+        "Volume":"74,586.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-25",
+        "Open":318.0,
+        "High":320.9,
+        "Low":308.7,
+        "Close":309.5,
+        "Percent Change":"-2.64 %",
+        "Volume":"113,420.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-24",
+        "Open":300.0,
+        "High":320.9,
+        "Low":296.0,
+        "Close":317.9,
+        "Percent Change":"6.32 %",
+        "Volume":"152,478.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-21",
+        "Open":296.0,
+        "High":302.8,
+        "Low":290.9,
+        "Close":299.0,
+        "Percent Change":"0.91 %",
+        "Volume":"109,454.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-20",
+        "Open":300.0,
+        "High":305.0,
+        "Low":295.0,
+        "Close":296.3,
+        "Percent Change":"-1.89 %",
+        "Volume":"106,913.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-19",
+        "Open":300.0,
+        "High":309.0,
+        "Low":293.0,
+        "Close":302.0,
+        "Percent Change":"0.67 %",
+        "Volume":"99,793.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-18",
+        "Open":312.0,
+        "High":312.0,
+        "Low":300.0,
+        "Close":300.0,
+        "Percent Change":"-3.23 %",
+        "Volume":"122,674.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-17",
+        "Open":315.0,
+        "High":320.0,
+        "Low":309.5,
+        "Close":310.0,
+        "Percent Change":"-1.90 %",
+        "Volume":"107,084.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-13",
+        "Open":310.7,
+        "High":320.0,
+        "Low":310.0,
+        "Close":316.0,
+        "Percent Change":"0.64 %",
+        "Volume":"102,510.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-12",
+        "Open":315.0,
+        "High":320.4,
+        "Low":312.0,
+        "Close":314.0,
+        "Percent Change":"-1.41 %",
+        "Volume":"117,778.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-11",
+        "Open":330.4,
+        "High":337.0,
+        "Low":318.0,
+        "Close":318.5,
+        "Percent Change":"-1.70 %",
+        "Volume":"222,068.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-07",
+        "Open":312.0,
+        "High":329.9,
+        "Low":312.0,
+        "Close":324.0,
+        "Percent Change":"1.89 %",
+        "Volume":"138,885.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-06",
+        "Open":315.0,
+        "High":322.0,
+        "Low":311.1,
+        "Close":318.0,
+        "Percent Change":"0.32 %",
+        "Volume":"130,855.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-05",
+        "Open":323.6,
+        "High":323.6,
+        "Low":315.0,
+        "Close":317.0,
+        "Percent Change":"-2.04 %",
+        "Volume":"138,955.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-04",
+        "Open":324.0,
+        "High":328.0,
+        "Low":322.0,
+        "Close":323.6,
+        "Percent Change":"-0.34 %",
+        "Volume":"95,123.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-04-03",
+        "Open":330.0,
+        "High":330.0,
+        "Low":323.0,
+        "Close":324.7,
+        "Percent Change":"-2.05 %",
+        "Volume":"92,142.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-31",
+        "Open":337.0,
+        "High":341.0,
+        "Low":330.0,
+        "Close":331.5,
+        "Percent Change":"-1.63 %",
+        "Volume":"82,958.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-30",
+        "Open":332.0,
+        "High":338.6,
+        "Low":326.0,
+        "Close":337.0,
+        "Percent Change":"3.22 %",
+        "Volume":"103,888.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-29",
+        "Open":326.1,
+        "High":334.0,
+        "Low":325.0,
+        "Close":326.5,
+        "Percent Change":"0.12 %",
+        "Volume":"100,040.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-28",
+        "Open":333.0,
+        "High":334.9,
+        "Low":326.0,
+        "Close":326.1,
+        "Percent Change":"-1.78 %",
+        "Volume":"134,867.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-27",
+        "Open":337.0,
+        "High":343.0,
+        "Low":331.0,
+        "Close":332.0,
+        "Percent Change":"-2.35 %",
+        "Volume":"152,689.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-24",
+        "Open":349.0,
+        "High":349.0,
+        "Low":340.0,
+        "Close":340.0,
+        "Percent Change":"-2.30 %",
+        "Volume":"128,898.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-23",
+        "Open":353.1,
+        "High":353.1,
+        "Low":346.1,
+        "Close":348.0,
+        "Percent Change":"-1.44 %",
+        "Volume":"114,510.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-22",
+        "Open":353.0,
+        "High":360.0,
+        "Low":353.0,
+        "Close":353.1,
+        "Percent Change":"0.03 %",
+        "Volume":"138,968.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-21",
+        "Open":360.0,
+        "High":360.0,
+        "Low":347.1,
+        "Close":353.0,
+        "Percent Change":"-0.28 %",
+        "Volume":"180,026.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-20",
+        "Open":340.0,
+        "High":357.0,
+        "Low":336.0,
+        "Close":354.0,
+        "Percent Change":"4.89 %",
+        "Volume":"171,499.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-16",
+        "Open":341.0,
+        "High":345.9,
+        "Low":337.5,
+        "Close":337.5,
+        "Percent Change":"-1.32 %",
+        "Volume":"106,986.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-15",
+        "Open":350.0,
+        "High":350.0,
+        "Low":340.0,
+        "Close":342.0,
+        "Percent Change":"-1.72 %",
+        "Volume":"157,124.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-14",
+        "Open":354.0,
+        "High":358.0,
+        "Low":345.0,
+        "Close":348.0,
+        "Percent Change":"-1.69 %",
+        "Volume":"82,838.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-13",
+        "Open":342.0,
+        "High":356.0,
+        "Low":338.0,
+        "Close":354.0,
+        "Percent Change":"5.36 %",
+        "Volume":"227,867.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-10",
+        "Open":323.0,
+        "High":336.0,
+        "Low":319.0,
+        "Close":336.0,
+        "Percent Change":"4.02 %",
+        "Volume":"185,613.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-09",
+        "Open":330.0,
+        "High":333.0,
+        "Low":321.5,
+        "Close":323.0,
+        "Percent Change":"-2.12 %",
+        "Volume":"96,432.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-07",
+        "Open":332.0,
+        "High":337.0,
+        "Low":328.0,
+        "Close":330.0,
+        "Percent Change":"-0.30 %",
+        "Volume":"107,525.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-06",
+        "Open":331.0,
+        "High":338.0,
+        "Low":325.1,
+        "Close":331.0,
+        "Percent Change":"0.00 %",
+        "Volume":"129,473.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-03-02",
+        "Open":343.9,
+        "High":345.9,
+        "Low":329.0,
+        "Close":331.0,
+        "Percent Change":"-3.75 %",
+        "Volume":"220,597.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-28",
+        "Open":358.0,
+        "High":365.0,
+        "Low":341.8,
+        "Close":343.9,
+        "Percent Change":"-2.02 %",
+        "Volume":"173,421.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-27",
+        "Open":354.0,
+        "High":360.0,
+        "Low":345.1,
+        "Close":351.0,
+        "Percent Change":"-0.85 %",
+        "Volume":"155,707.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-24",
+        "Open":360.0,
+        "High":360.9,
+        "Low":350.0,
+        "Close":354.0,
+        "Percent Change":"-1.67 %",
+        "Volume":"235,395.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-23",
+        "Open":361.0,
+        "High":367.0,
+        "Low":358.0,
+        "Close":360.0,
+        "Percent Change":"-1.34 %",
+        "Volume":"137,830.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-22",
+        "Open":366.0,
+        "High":371.0,
+        "Low":363.2,
+        "Close":364.9,
+        "Percent Change":"-0.27 %",
+        "Volume":"111,847.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-21",
+        "Open":368.0,
+        "High":375.0,
+        "Low":362.0,
+        "Close":365.9,
+        "Percent Change":"1.22 %",
+        "Volume":"118,146.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-20",
+        "Open":369.0,
+        "High":374.0,
+        "Low":355.0,
+        "Close":361.5,
+        "Percent Change":"-2.03 %",
+        "Volume":"224,491.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-17",
+        "Open":372.0,
+        "High":374.0,
+        "Low":366.0,
+        "Close":369.0,
+        "Percent Change":"-0.81 %",
+        "Volume":"116,473.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-16",
+        "Open":384.0,
+        "High":384.0,
+        "Low":367.0,
+        "Close":372.0,
+        "Percent Change":"-1.33 %",
+        "Volume":"219,828.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-15",
+        "Open":356.8,
+        "High":381.0,
+        "Low":356.8,
+        "Close":377.0,
+        "Percent Change":"3.57 %",
+        "Volume":"163,852.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-14",
+        "Open":360.0,
+        "High":379.9,
+        "Low":360.0,
+        "Close":364.0,
+        "Percent Change":"-0.82 %",
+        "Volume":"303,691.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-13",
+        "Open":385.0,
+        "High":385.0,
+        "Low":360.7,
+        "Close":367.0,
+        "Percent Change":"-6.38 %",
+        "Volume":"685,053.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-10",
+        "Open":392.0,
+        "High":401.0,
+        "Low":390.0,
+        "Close":392.0,
+        "Percent Change":"-1.26 %",
+        "Volume":"329,169.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-09",
+        "Open":404.0,
+        "High":405.0,
+        "Low":392.0,
+        "Close":397.0,
+        "Percent Change":"-1.98 %",
+        "Volume":"357,001.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-08",
+        "Open":418.3,
+        "High":435.0,
+        "Low":398.0,
+        "Close":405.0,
+        "Percent Change":"0.00 %",
+        "Volume":"778,107.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-07",
+        "Open":375.0,
+        "High":413.0,
+        "Low":375.0,
+        "Close":410.1,
+        "Percent Change":"7.92 %",
+        "Volume":"1,227,275.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-06",
+        "Open":376.5,
+        "High":381.0,
+        "Low":365.3,
+        "Close":380.0,
+        "Percent Change":"0.93 %",
+        "Volume":"261,674.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-03",
+        "Open":383.0,
+        "High":392.0,
+        "Low":376.0,
+        "Close":376.5,
+        "Percent Change":"0.13 %",
+        "Volume":"479,810.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-02-01",
+        "Open":386.5,
+        "High":386.5,
+        "Low":372.5,
+        "Close":376.0,
+        "Percent Change":"-0.79 %",
+        "Volume":"234,316.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-31",
+        "Open":382.6,
+        "High":391.5,
+        "Low":368.0,
+        "Close":379.0,
+        "Percent Change":"1.04 %",
+        "Volume":"432,113.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-30",
+        "Open":347.8,
+        "High":375.1,
+        "Low":347.8,
+        "Close":375.1,
+        "Percent Change":"10.00 %",
+        "Volume":"335,843.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-27",
+        "Open":343.0,
+        "High":350.0,
+        "Low":340.1,
+        "Close":341.0,
+        "Percent Change":"-0.61 %",
+        "Volume":"110,333.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-26",
+        "Open":354.0,
+        "High":354.0,
+        "Low":339.0,
+        "Close":343.1,
+        "Percent Change":"-2.94 %",
+        "Volume":"162,777.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-25",
+        "Open":358.0,
+        "High":362.0,
+        "Low":342.0,
+        "Close":353.5,
+        "Percent Change":"-0.70 %",
+        "Volume":"160,557.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-24",
+        "Open":374.0,
+        "High":374.0,
+        "Low":352.0,
+        "Close":356.0,
+        "Percent Change":"-4.30 %",
+        "Volume":"256,935.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-23",
+        "Open":374.0,
+        "High":382.0,
+        "Low":368.0,
+        "Close":372.0,
+        "Percent Change":"-0.53 %",
+        "Volume":"183,380.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-20",
+        "Open":372.0,
+        "High":375.0,
+        "Low":366.0,
+        "Close":374.0,
+        "Percent Change":"1.63 %",
+        "Volume":"217,424.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-19",
+        "Open":372.0,
+        "High":373.0,
+        "Low":363.1,
+        "Close":368.0,
+        "Percent Change":"-1.10 %",
+        "Volume":"209,171.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-18",
+        "Open":382.0,
+        "High":384.0,
+        "Low":370.1,
+        "Close":372.1,
+        "Percent Change":"-2.72 %",
+        "Volume":"263,726.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-17",
+        "Open":390.0,
+        "High":396.0,
+        "Low":376.0,
+        "Close":382.5,
+        "Percent Change":"-1.67 %",
+        "Volume":"280,447.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-16",
+        "Open":400.0,
+        "High":415.0,
+        "Low":381.5,
+        "Close":389.0,
+        "Percent Change":"-0.99 %",
+        "Volume":"640,840.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-13",
+        "Open":380.3,
+        "High":400.0,
+        "Low":372.9,
+        "Close":392.9,
+        "Percent Change":"5.36 %",
+        "Volume":"572,402.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-12",
+        "Open":340.0,
+        "High":372.9,
+        "Low":340.0,
+        "Close":372.9,
+        "Percent Change":"10.00 %",
+        "Volume":"443,532.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-11",
+        "Open":324.3,
+        "High":345.0,
+        "Low":317.9,
+        "Close":339.0,
+        "Percent Change":"6.60 %",
+        "Volume":"217,947.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-10",
+        "Open":316.0,
+        "High":324.0,
+        "Low":314.0,
+        "Close":318.0,
+        "Percent Change":"0.63 %",
+        "Volume":"165,581.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-09",
+        "Open":308.0,
+        "High":320.9,
+        "Low":308.0,
+        "Close":316.0,
+        "Percent Change":"2.60 %",
+        "Volume":"152,930.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-06",
+        "Open":305.0,
+        "High":311.0,
+        "Low":301.8,
+        "Close":308.0,
+        "Percent Change":"0.03 %",
+        "Volume":"72,266.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-05",
+        "Open":316.0,
+        "High":320.0,
+        "Low":307.0,
+        "Close":307.9,
+        "Percent Change":"-2.56 %",
+        "Volume":"113,843.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-04",
+        "Open":294.1,
+        "High":322.0,
+        "Low":289.1,
+        "Close":316.0,
+        "Percent Change":"7.52 %",
+        "Volume":"181,835.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-03",
+        "Open":287.0,
+        "High":297.0,
+        "Low":287.0,
+        "Close":293.9,
+        "Percent Change":"0.65 %",
+        "Volume":"58,152.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2022-01-02",
+        "Open":291.0,
+        "High":295.0,
+        "Low":290.0,
+        "Close":292.0,
+        "Percent Change":"0.34 %",
+        "Volume":"75,101.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-29",
+        "Open":290.0,
+        "High":293.5,
+        "Low":289.0,
+        "Close":291.0,
+        "Percent Change":"-0.31 %",
+        "Volume":"51,602.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-28",
+        "Open":290.0,
+        "High":294.9,
+        "Low":284.0,
+        "Close":291.9,
+        "Percent Change":"-0.38 %",
+        "Volume":"78,749.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-27",
+        "Open":304.9,
+        "High":307.9,
+        "Low":292.0,
+        "Close":293.0,
+        "Percent Change":"-2.98 %",
+        "Volume":"83,592.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-26",
+        "Open":302.0,
+        "High":310.0,
+        "Low":300.0,
+        "Close":302.0,
+        "Percent Change":"0.00 %",
+        "Volume":"77,040.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-23",
+        "Open":301.0,
+        "High":307.0,
+        "Low":296.8,
+        "Close":302.0,
+        "Percent Change":"0.33 %",
+        "Volume":"116,170.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-22",
+        "Open":290.0,
+        "High":301.0,
+        "Low":290.0,
+        "Close":301.0,
+        "Percent Change":"3.44 %",
+        "Volume":"100,683.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-21",
+        "Open":289.0,
+        "High":294.6,
+        "Low":287.0,
+        "Close":291.0,
+        "Percent Change":"0.69 %",
+        "Volume":"52,346.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-20",
+        "Open":288.0,
+        "High":292.5,
+        "Low":284.0,
+        "Close":289.0,
+        "Percent Change":"0.00 %",
+        "Volume":"51,655.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-16",
+        "Open":297.6,
+        "High":297.7,
+        "Low":286.2,
+        "Close":289.0,
+        "Percent Change":"-0.99 %",
+        "Volume":"74,886.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-15",
+        "Open":295.8,
+        "High":310.0,
+        "Low":285.0,
+        "Close":291.9,
+        "Percent Change":"0.66 %",
+        "Volume":"174,205.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-14",
+        "Open":275.0,
+        "High":291.0,
+        "Low":275.0,
+        "Close":290.0,
+        "Percent Change":"7.37 %",
+        "Volume":"57,731.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-13",
+        "Open":279.0,
+        "High":280.0,
+        "Low":268.5,
+        "Close":270.1,
+        "Percent Change":"-4.96 %",
+        "Volume":"134,542.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-12",
+        "Open":299.0,
+        "High":301.0,
+        "Low":284.2,
+        "Close":284.2,
+        "Percent Change":"-3.99 %",
+        "Volume":"146,644.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-09",
+        "Open":293.6,
+        "High":298.7,
+        "Low":290.5,
+        "Close":296.0,
+        "Percent Change":"0.82 %",
+        "Volume":"68,966.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-08",
+        "Open":298.0,
+        "High":301.0,
+        "Low":290.0,
+        "Close":293.6,
+        "Percent Change":"-1.14 %",
+        "Volume":"70,229.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-07",
+        "Open":300.0,
+        "High":313.0,
+        "Low":290.0,
+        "Close":297.0,
+        "Percent Change":"-0.37 %",
+        "Volume":"148,038.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-06",
+        "Open":299.0,
+        "High":302.0,
+        "Low":288.0,
+        "Close":298.1,
+        "Percent Change":"-0.30 %",
+        "Volume":"158,263.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-05",
+        "Open":316.2,
+        "High":316.2,
+        "Low":297.1,
+        "Close":299.0,
+        "Percent Change":"-3.55 %",
+        "Volume":"148,968.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-02",
+        "Open":307.4,
+        "High":316.0,
+        "Low":307.4,
+        "Close":310.0,
+        "Percent Change":"-1.15 %",
+        "Volume":"71,495.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-12-01",
+        "Open":310.0,
+        "High":316.1,
+        "Low":310.0,
+        "Close":313.6,
+        "Percent Change":"0.35 %",
+        "Volume":"77,321.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-30",
+        "Open":317.0,
+        "High":320.0,
+        "Low":308.0,
+        "Close":312.5,
+        "Percent Change":"-1.17 %",
+        "Volume":"91,375.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-29",
+        "Open":321.0,
+        "High":321.0,
+        "Low":316.0,
+        "Close":316.2,
+        "Percent Change":"-1.50 %",
+        "Volume":"81,228.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-28",
+        "Open":336.0,
+        "High":336.0,
+        "Low":313.6,
+        "Close":321.0,
+        "Percent Change":"-4.18 %",
+        "Volume":"177,279.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-25",
+        "Open":338.1,
+        "High":338.1,
+        "Low":332.0,
+        "Close":335.0,
+        "Percent Change":"1.06 %",
+        "Volume":"131,504.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-24",
+        "Open":360.0,
+        "High":360.0,
+        "Low":350.0,
+        "Close":358.0,
+        "Percent Change":"1.42 %",
+        "Volume":"204,852.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-23",
+        "Open":358.9,
+        "High":361.0,
+        "Low":351.9,
+        "Close":353.0,
+        "Percent Change":"-1.64 %",
+        "Volume":"84,926.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-22",
+        "Open":355.0,
+        "High":363.0,
+        "Low":353.0,
+        "Close":358.9,
+        "Percent Change":"0.98 %",
+        "Volume":"128,568.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-21",
+        "Open":360.0,
+        "High":364.0,
+        "Low":354.0,
+        "Close":355.4,
+        "Percent Change":"-0.45 %",
+        "Volume":"86,458.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-18",
+        "Open":361.0,
+        "High":365.0,
+        "Low":356.1,
+        "Close":357.0,
+        "Percent Change":"-1.24 %",
+        "Volume":"114,092.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-17",
+        "Open":365.0,
+        "High":370.0,
+        "Low":360.1,
+        "Close":361.5,
+        "Percent Change":"0.98 %",
+        "Volume":"113,811.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-16",
+        "Open":350.0,
+        "High":367.2,
+        "Low":350.0,
+        "Close":358.0,
+        "Percent Change":"0.62 %",
+        "Volume":"76,190.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-15",
+        "Open":355.0,
+        "High":365.8,
+        "Low":355.0,
+        "Close":355.8,
+        "Percent Change":"0.23 %",
+        "Volume":"83,297.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-14",
+        "Open":368.2,
+        "High":375.5,
+        "Low":355.0,
+        "Close":355.0,
+        "Percent Change":"-1.66 %",
+        "Volume":"118,795.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-11",
+        "Open":370.0,
+        "High":375.0,
+        "Low":360.0,
+        "Close":361.0,
+        "Percent Change":"-3.48 %",
+        "Volume":"114,346.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-09",
+        "Open":372.0,
+        "High":385.0,
+        "Low":362.6,
+        "Close":374.0,
+        "Percent Change":"0.54 %",
+        "Volume":"242,919.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-08",
+        "Open":355.9,
+        "High":375.0,
+        "Low":355.0,
+        "Close":372.0,
+        "Percent Change":"6.59 %",
+        "Volume":"253,551.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-03",
+        "Open":345.0,
+        "High":352.0,
+        "Low":345.0,
+        "Close":349.0,
+        "Percent Change":"-0.20 %",
+        "Volume":"71,443.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-02",
+        "Open":349.0,
+        "High":350.0,
+        "Low":345.0,
+        "Close":349.7,
+        "Percent Change":"0.20 %",
+        "Volume":"61,891.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-11-01",
+        "Open":358.0,
+        "High":358.0,
+        "Low":348.0,
+        "Close":349.0,
+        "Percent Change":"-0.68 %",
+        "Volume":"114,146.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-31",
+        "Open":350.0,
+        "High":355.0,
+        "Low":349.0,
+        "Close":351.4,
+        "Percent Change":"0.75 %",
+        "Volume":"121,645.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-28",
+        "Open":353.0,
+        "High":353.0,
+        "Low":347.0,
+        "Close":348.8,
+        "Percent Change":"-1.19 %",
+        "Volume":"87,422.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-27",
+        "Open":355.0,
+        "High":362.0,
+        "Low":349.0,
+        "Close":353.0,
+        "Percent Change":"-0.56 %",
+        "Volume":"86,232.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-26",
+        "Open":345.0,
+        "High":358.0,
+        "Low":345.0,
+        "Close":355.0,
+        "Percent Change":"2.33 %",
+        "Volume":"129,038.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-25",
+        "Open":337.0,
+        "High":347.0,
+        "Low":337.0,
+        "Close":346.9,
+        "Percent Change":"2.88 %",
+        "Volume":"81,851.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-24",
+        "Open":338.0,
+        "High":344.0,
+        "Low":336.0,
+        "Close":337.2,
+        "Percent Change":"-0.24 %",
+        "Volume":"71,357.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-21",
+        "Open":343.0,
+        "High":348.8,
+        "Low":336.0,
+        "Close":338.0,
+        "Percent Change":"-1.31 %",
+        "Volume":"66,702.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-20",
+        "Open":338.0,
+        "High":350.0,
+        "Low":338.0,
+        "Close":342.5,
+        "Percent Change":"2.24 %",
+        "Volume":"79,034.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-19",
+        "Open":345.0,
+        "High":346.0,
+        "Low":332.5,
+        "Close":335.0,
+        "Percent Change":"-3.74 %",
+        "Volume":"129,619.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-18",
+        "Open":360.0,
+        "High":364.0,
+        "Low":344.0,
+        "Close":348.0,
+        "Percent Change":"-3.33 %",
+        "Volume":"95,320.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-17",
+        "Open":368.7,
+        "High":368.7,
+        "Low":354.0,
+        "Close":360.0,
+        "Percent Change":"-0.41 %",
+        "Volume":"75,468.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-11",
+        "Open":350.8,
+        "High":378.4,
+        "Low":350.0,
+        "Close":361.5,
+        "Percent Change":"5.09 %",
+        "Volume":"324,332.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-10",
+        "Open":350.0,
+        "High":350.0,
+        "Low":343.0,
+        "Close":344.0,
+        "Percent Change":"0.00 %",
+        "Volume":"89,147.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-06",
+        "Open":336.0,
+        "High":344.9,
+        "Low":336.0,
+        "Close":344.0,
+        "Percent Change":"2.38 %",
+        "Volume":"121,946.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-05",
+        "Open":332.0,
+        "High":339.0,
+        "Low":332.0,
+        "Close":336.0,
+        "Percent Change":"1.20 %",
+        "Volume":"88,376.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-04",
+        "Open":340.0,
+        "High":340.0,
+        "Low":326.0,
+        "Close":332.0,
+        "Percent Change":"-0.90 %",
+        "Volume":"96,660.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-10-03",
+        "Open":350.0,
+        "High":350.0,
+        "Low":334.0,
+        "Close":335.0,
+        "Percent Change":"-2.70 %",
+        "Volume":"102,615.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-30",
+        "Open":352.0,
+        "High":354.0,
+        "Low":343.2,
+        "Close":344.3,
+        "Percent Change":"-1.88 %",
+        "Volume":"100,402.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-29",
+        "Open":338.0,
+        "High":352.0,
+        "Low":331.3,
+        "Close":350.9,
+        "Percent Change":"3.27 %",
+        "Volume":"170,926.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-28",
+        "Open":350.0,
+        "High":357.0,
+        "Low":338.2,
+        "Close":339.8,
+        "Percent Change":"-2.91 %",
+        "Volume":"198,611.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-27",
+        "Open":364.6,
+        "High":370.1,
+        "Low":349.0,
+        "Close":350.0,
+        "Percent Change":"-4.00 %",
+        "Volume":"206,877.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-26",
+        "Open":386.5,
+        "High":386.5,
+        "Low":364.0,
+        "Close":364.6,
+        "Percent Change":"-3.80 %",
+        "Volume":"161,812.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-23",
+        "Open":382.7,
+        "High":398.0,
+        "Low":377.0,
+        "Close":379.0,
+        "Percent Change":"-2.57 %",
+        "Volume":"192,952.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-22",
+        "Open":389.0,
+        "High":400.0,
+        "Low":385.0,
+        "Close":389.0,
+        "Percent Change":"1.83 %",
+        "Volume":"250,875.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-21",
+        "Open":365.0,
+        "High":397.0,
+        "Low":351.7,
+        "Close":382.0,
+        "Percent Change":"4.66 %",
+        "Volume":"541,390.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-20",
+        "Open":388.0,
+        "High":389.9,
+        "Low":364.6,
+        "Close":365.0,
+        "Percent Change":"-6.05 %",
+        "Volume":"291,101.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-16",
+        "Open":395.0,
+        "High":395.0,
+        "Low":384.7,
+        "Close":388.5,
+        "Percent Change":"-1.52 %",
+        "Volume":"230,337.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-15",
+        "Open":399.0,
+        "High":402.0,
+        "Low":394.0,
+        "Close":394.5,
+        "Percent Change":"-1.30 %",
+        "Volume":"179,287.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-14",
+        "Open":401.0,
+        "High":404.0,
+        "Low":399.0,
+        "Close":399.7,
+        "Percent Change":"-0.45 %",
+        "Volume":"218,439.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-13",
+        "Open":403.0,
+        "High":410.0,
+        "Low":400.0,
+        "Close":401.5,
+        "Percent Change":"-0.54 %",
+        "Volume":"215,429.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-12",
+        "Open":410.0,
+        "High":412.0,
+        "Low":403.0,
+        "Close":403.7,
+        "Percent Change":"-0.10 %",
+        "Volume":"187,082.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-09",
+        "Open":404.0,
+        "High":414.0,
+        "Low":401.1,
+        "Close":404.1,
+        "Percent Change":"0.02 %",
+        "Volume":"132,126.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-08",
+        "Open":412.0,
+        "High":412.0,
+        "Low":404.0,
+        "Close":404.0,
+        "Percent Change":"-1.99 %",
+        "Volume":"133,879.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-07",
+        "Open":430.0,
+        "High":430.0,
+        "Low":409.1,
+        "Close":412.2,
+        "Percent Change":"-2.67 %",
+        "Volume":"162,279.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-06",
+        "Open":400.0,
+        "High":424.0,
+        "Low":400.0,
+        "Close":423.5,
+        "Percent Change":"5.35 %",
+        "Volume":"245,189.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-05",
+        "Open":426.8,
+        "High":426.8,
+        "Low":400.0,
+        "Close":402.0,
+        "Percent Change":"-3.94 %",
+        "Volume":"344,529.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-02",
+        "Open":435.0,
+        "High":439.6,
+        "Low":417.0,
+        "Close":418.5,
+        "Percent Change":"-2.90 %",
+        "Volume":"262,291.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-09-01",
+        "Open":428.0,
+        "High":442.6,
+        "Low":427.0,
+        "Close":431.0,
+        "Percent Change":"0.70 %",
+        "Volume":"189,142.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-31",
+        "Open":439.0,
+        "High":444.0,
+        "Low":427.0,
+        "Close":428.0,
+        "Percent Change":"-2.53 %",
+        "Volume":"284,420.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-29",
+        "Open":440.0,
+        "High":453.0,
+        "Low":439.0,
+        "Close":439.1,
+        "Percent Change":"-2.07 %",
+        "Volume":"308,431.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-26",
+        "Open":452.0,
+        "High":460.0,
+        "Low":447.0,
+        "Close":448.4,
+        "Percent Change":"-0.62 %",
+        "Volume":"268,366.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-25",
+        "Open":456.0,
+        "High":456.0,
+        "Low":450.2,
+        "Close":451.2,
+        "Percent Change":"-1.55 %",
+        "Volume":"203,612.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-24",
+        "Open":469.0,
+        "High":469.0,
+        "Low":457.0,
+        "Close":458.3,
+        "Percent Change":"-2.28 %",
+        "Volume":"212,566.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-19",
+        "Open":489.6,
+        "High":492.0,
+        "Low":465.0,
+        "Close":469.0,
+        "Percent Change":"-2.29 %",
+        "Volume":"297,630.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-18",
+        "Open":456.0,
+        "High":494.0,
+        "Low":449.5,
+        "Close":480.0,
+        "Percent Change":"5.26 %",
+        "Volume":"693,344.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-17",
+        "Open":461.0,
+        "High":466.0,
+        "Low":455.0,
+        "Close":456.0,
+        "Percent Change":"-1.28 %",
+        "Volume":"374,615.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-16",
+        "Open":470.0,
+        "High":470.0,
+        "Low":460.1,
+        "Close":461.9,
+        "Percent Change":"-1.30 %",
+        "Volume":"329,789.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-15",
+        "Open":477.0,
+        "High":482.0,
+        "Low":467.0,
+        "Close":468.0,
+        "Percent Change":"-1.58 %",
+        "Volume":"365,348.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-12",
+        "Open":487.0,
+        "High":487.0,
+        "Low":466.6,
+        "Close":475.5,
+        "Percent Change":"-0.52 %",
+        "Volume":"296,207.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-11",
+        "Open":490.0,
+        "High":490.0,
+        "Low":476.0,
+        "Close":478.0,
+        "Percent Change":"-0.62 %",
+        "Volume":"267,068.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-10",
+        "Open":478.0,
+        "High":487.5,
+        "Low":475.0,
+        "Close":481.0,
+        "Percent Change":"0.63 %",
+        "Volume":"344,596.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-09",
+        "Open":482.0,
+        "High":482.0,
+        "Low":477.0,
+        "Close":478.0,
+        "Percent Change":"-0.83 %",
+        "Volume":"311,376.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-08",
+        "Open":488.0,
+        "High":488.0,
+        "Low":480.0,
+        "Close":482.0,
+        "Percent Change":"-2.03 %",
+        "Volume":"392,438.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-05",
+        "Open":500.0,
+        "High":505.0,
+        "Low":489.0,
+        "Close":492.0,
+        "Percent Change":"-1.50 %",
+        "Volume":"226,837.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-04",
+        "Open":473.9,
+        "High":516.0,
+        "Low":473.9,
+        "Close":499.5,
+        "Percent Change":"3.31 %",
+        "Volume":"552,344.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-03",
+        "Open":491.0,
+        "High":491.0,
+        "Low":480.0,
+        "Close":483.5,
+        "Percent Change":"0.42 %",
+        "Volume":"233,403.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-02",
+        "Open":485.0,
+        "High":485.2,
+        "Low":481.1,
+        "Close":481.5,
+        "Percent Change":"-0.66 %",
+        "Volume":"232,036.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-08-01",
+        "Open":496.7,
+        "High":496.7,
+        "Low":484.1,
+        "Close":484.7,
+        "Percent Change":"-0.47 %",
+        "Volume":"220,642.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-29",
+        "Open":490.0,
+        "High":493.0,
+        "Low":486.6,
+        "Close":487.0,
+        "Percent Change":"-0.61 %",
+        "Volume":"206,567.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-28",
+        "Open":492.0,
+        "High":495.0,
+        "Low":486.1,
+        "Close":490.0,
+        "Percent Change":"-0.51 %",
+        "Volume":"216,256.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-27",
+        "Open":486.0,
+        "High":495.2,
+        "Low":482.0,
+        "Close":492.5,
+        "Percent Change":"0.92 %",
+        "Volume":"293,096.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-26",
+        "Open":495.0,
+        "High":496.0,
+        "Low":487.1,
+        "Close":488.0,
+        "Percent Change":"-0.81 %",
+        "Volume":"294,200.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-25",
+        "Open":492.0,
+        "High":498.0,
+        "Low":490.1,
+        "Close":492.0,
+        "Percent Change":"-0.12 %",
+        "Volume":"300,559.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-22",
+        "Open":492.0,
+        "High":497.0,
+        "Low":490.0,
+        "Close":492.6,
+        "Percent Change":"0.12 %",
+        "Volume":"209,467.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-20",
+        "Open":498.0,
+        "High":500.0,
+        "Low":491.0,
+        "Close":492.0,
+        "Percent Change":"-1.20 %",
+        "Volume":"159,685.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-19",
+        "Open":502.0,
+        "High":508.0,
+        "Low":495.4,
+        "Close":498.0,
+        "Percent Change":"-0.20 %",
+        "Volume":"212,059.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-18",
+        "Open":492.0,
+        "High":504.0,
+        "Low":492.0,
+        "Close":499.0,
+        "Percent Change":"1.42 %",
+        "Volume":"207,820.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-15",
+        "Open":495.0,
+        "High":497.0,
+        "Low":490.0,
+        "Close":492.0,
+        "Percent Change":"0.20 %",
+        "Volume":"164,324.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-14",
+        "Open":494.0,
+        "High":505.0,
+        "Low":489.0,
+        "Close":491.0,
+        "Percent Change":"-0.61 %",
+        "Volume":"154,072.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-13",
+        "Open":504.0,
+        "High":504.0,
+        "Low":488.0,
+        "Close":494.0,
+        "Percent Change":"-0.20 %",
+        "Volume":"253,886.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-12",
+        "Open":536.0,
+        "High":536.0,
+        "Low":490.0,
+        "Close":495.0,
+        "Percent Change":"-3.13 %",
+        "Volume":"364,593.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-11",
+        "Open":495.0,
+        "High":512.0,
+        "Low":495.0,
+        "Close":511.0,
+        "Percent Change":"4.29 %",
+        "Volume":"373,329.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-08",
+        "Open":480.0,
+        "High":508.0,
+        "Low":473.0,
+        "Close":490.0,
+        "Percent Change":"2.30 %",
+        "Volume":"290,179.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-07",
+        "Open":484.0,
+        "High":486.0,
+        "Low":478.0,
+        "Close":479.0,
+        "Percent Change":"-1.03 %",
+        "Volume":"227,513.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-06",
+        "Open":489.0,
+        "High":495.0,
+        "Low":481.0,
+        "Close":484.0,
+        "Percent Change":"-1.02 %",
+        "Volume":"255,098.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-05",
+        "Open":497.0,
+        "High":499.0,
+        "Low":488.0,
+        "Close":489.0,
+        "Percent Change":"-1.61 %",
+        "Volume":"271,311.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-04",
+        "Open":501.0,
+        "High":505.0,
+        "Low":496.0,
+        "Close":497.0,
+        "Percent Change":"-0.80 %",
+        "Volume":"184,761.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-07-01",
+        "Open":505.0,
+        "High":508.0,
+        "Low":500.0,
+        "Close":501.0,
+        "Percent Change":"0.20 %",
+        "Volume":"209,366.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-30",
+        "Open":503.0,
+        "High":505.0,
+        "Low":495.0,
+        "Close":500.0,
+        "Percent Change":"-0.60 %",
+        "Volume":"240,095.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-29",
+        "Open":509.0,
+        "High":515.0,
+        "Low":502.0,
+        "Close":503.0,
+        "Percent Change":"-1.18 %",
+        "Volume":"247,114.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-28",
+        "Open":515.0,
+        "High":518.0,
+        "Low":505.0,
+        "Close":509.0,
+        "Percent Change":"-0.39 %",
+        "Volume":"185,355.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-27",
+        "Open":510.0,
+        "High":519.0,
+        "Low":506.0,
+        "Close":511.0,
+        "Percent Change":"0.20 %",
+        "Volume":"306,783.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-24",
+        "Open":512.0,
+        "High":518.0,
+        "Low":508.0,
+        "Close":510.0,
+        "Percent Change":"-0.39 %",
+        "Volume":"252,503.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-23",
+        "Open":529.0,
+        "High":533.0,
+        "Low":511.0,
+        "Close":512.0,
+        "Percent Change":"-2.29 %",
+        "Volume":"201,087.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-22",
+        "Open":515.0,
+        "High":524.0,
+        "Low":505.0,
+        "Close":524.0,
+        "Percent Change":"2.75 %",
+        "Volume":"402,416.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-21",
+        "Open":523.0,
+        "High":526.0,
+        "Low":509.0,
+        "Close":510.0,
+        "Percent Change":"-2.49 %",
+        "Volume":"420,675.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-20",
+        "Open":520.0,
+        "High":537.0,
+        "Low":520.0,
+        "Close":523.0,
+        "Percent Change":"-1.13 %",
+        "Volume":"388,678.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-17",
+        "Open":534.0,
+        "High":535.0,
+        "Low":525.0,
+        "Close":529.0,
+        "Percent Change":"-0.94 %",
+        "Volume":"464,954.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-16",
+        "Open":525.0,
+        "High":536.0,
+        "Low":523.0,
+        "Close":534.0,
+        "Percent Change":"-0.93 %",
+        "Volume":"483,442.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-15",
+        "Open":563.0,
+        "High":563.0,
+        "Low":539.0,
+        "Close":539.0,
+        "Percent Change":"-2.00 %",
+        "Volume":"320,786.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-14",
+        "Open":540.0,
+        "High":565.0,
+        "Low":539.0,
+        "Close":550.0,
+        "Percent Change":"2.42 %",
+        "Volume":"577,558.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-13",
+        "Open":541.0,
+        "High":548.0,
+        "Low":534.0,
+        "Close":537.0,
+        "Percent Change":"-0.74 %",
+        "Volume":"419,915.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-10",
+        "Open":560.0,
+        "High":560.0,
+        "Low":531.0,
+        "Close":541.0,
+        "Percent Change":"-1.46 %",
+        "Volume":"444,293.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-09",
+        "Open":561.0,
+        "High":568.0,
+        "Low":547.0,
+        "Close":549.0,
+        "Percent Change":"-0.02 %",
+        "Volume":"466,594.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-08",
+        "Open":578.0,
+        "High":578.0,
+        "Low":560.0,
+        "Close":561.0,
+        "Percent Change":"-1.75 %",
+        "Volume":"588,485.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-07",
+        "Open":590.0,
+        "High":599.0,
+        "Low":566.0,
+        "Close":572.0,
+        "Percent Change":"-1.04 %",
+        "Volume":"805,770.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-06",
+        "Open":542.0,
+        "High":581.0,
+        "Low":542.0,
+        "Close":578.0,
+        "Percent Change":"8.26 %",
+        "Volume":"1,478,880.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-03",
+        "Open":525.0,
+        "High":540.0,
+        "Low":525.0,
+        "Close":533.0,
+        "Percent Change":"1.72 %",
+        "Volume":"618,859.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-02",
+        "Open":525.0,
+        "High":528.0,
+        "Low":515.0,
+        "Close":524.0,
+        "Percent Change":"-0.19 %",
+        "Volume":"312,966.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-06-01",
+        "Open":526.0,
+        "High":532.0,
+        "Low":522.0,
+        "Close":525.0,
+        "Percent Change":"-0.19 %",
+        "Volume":"285,458.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-31",
+        "Open":530.0,
+        "High":535.0,
+        "Low":526.0,
+        "Close":526.0,
+        "Percent Change":"-0.75 %",
+        "Volume":"332,230.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-30",
+        "Open":530.0,
+        "High":545.0,
+        "Low":528.0,
+        "Close":530.0,
+        "Percent Change":"0.00 %",
+        "Volume":"522,428.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-27",
+        "Open":534.0,
+        "High":536.0,
+        "Low":529.0,
+        "Close":530.0,
+        "Percent Change":"-0.75 %",
+        "Volume":"391,248.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-25",
+        "Open":555.0,
+        "High":555.0,
+        "Low":532.0,
+        "Close":534.0,
+        "Percent Change":"-0.37 %",
+        "Volume":"261,918.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-24",
+        "Open":539.0,
+        "High":545.0,
+        "Low":535.0,
+        "Close":536.0,
+        "Percent Change":"-0.37 %",
+        "Volume":"344,835.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-23",
+        "Open":537.0,
+        "High":543.0,
+        "Low":529.0,
+        "Close":538.0,
+        "Percent Change":"0.19 %",
+        "Volume":"362,473.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-20",
+        "Open":560.0,
+        "High":560.0,
+        "Low":530.0,
+        "Close":537.0,
+        "Percent Change":"-0.19 %",
+        "Volume":"371,438.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-19",
+        "Open":544.0,
+        "High":552.0,
+        "Low":537.0,
+        "Close":538.0,
+        "Percent Change":"-1.10 %",
+        "Volume":"323,110.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-18",
+        "Open":546.0,
+        "High":553.0,
+        "Low":542.0,
+        "Close":544.0,
+        "Percent Change":"-0.37 %",
+        "Volume":"314,084.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-17",
+        "Open":555.0,
+        "High":560.0,
+        "Low":545.0,
+        "Close":546.0,
+        "Percent Change":"-0.18 %",
+        "Volume":"331,567.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-16",
+        "Open":535.0,
+        "High":549.0,
+        "Low":526.0,
+        "Close":547.0,
+        "Percent Change":"3.01 %",
+        "Volume":"546,356.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-13",
+        "Open":534.0,
+        "High":537.0,
+        "Low":525.0,
+        "Close":531.0,
+        "Percent Change":"-0.56 %",
+        "Volume":"256,911.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-12",
+        "Open":511.0,
+        "High":545.0,
+        "Low":511.0,
+        "Close":534.0,
+        "Percent Change":"-0.56 %",
+        "Volume":"167,760.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-11",
+        "Open":540.0,
+        "High":543.0,
+        "Low":530.0,
+        "Close":537.0,
+        "Percent Change":"0.56 %",
+        "Volume":"216,667.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-10",
+        "Open":528.0,
+        "High":540.0,
+        "Low":525.0,
+        "Close":534.0,
+        "Percent Change":"1.14 %",
+        "Volume":"182,691.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-09",
+        "Open":530.0,
+        "High":535.0,
+        "Low":520.0,
+        "Close":528.0,
+        "Percent Change":"-0.75 %",
+        "Volume":"297,827.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-06",
+        "Open":540.0,
+        "High":540.0,
+        "Low":531.0,
+        "Close":532.0,
+        "Percent Change":"-1.48 %",
+        "Volume":"282,014.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-05",
+        "Open":544.0,
+        "High":544.0,
+        "Low":539.0,
+        "Close":540.0,
+        "Percent Change":"-0.74 %",
+        "Volume":"230,204.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-04",
+        "Open":560.0,
+        "High":560.0,
+        "Low":541.0,
+        "Close":544.0,
+        "Percent Change":"0.00 %",
+        "Volume":"302,660.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-03",
+        "Open":545.0,
+        "High":554.0,
+        "Low":542.0,
+        "Close":544.0,
+        "Percent Change":"0.37 %",
+        "Volume":"368,189.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-05-02",
+        "Open":542.0,
+        "High":545.0,
+        "Low":535.0,
+        "Close":542.0,
+        "Percent Change":"0.00 %",
+        "Volume":"448,160.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-29",
+        "Open":545.0,
+        "High":549.0,
+        "Low":534.0,
+        "Close":542.0,
+        "Percent Change":"-0.55 %",
+        "Volume":"210,781.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-28",
+        "Open":547.0,
+        "High":555.0,
+        "Low":532.0,
+        "Close":545.0,
+        "Percent Change":"-0.37 %",
+        "Volume":"209,761.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-27",
+        "Open":520.0,
+        "High":548.0,
+        "Low":517.0,
+        "Close":546.0,
+        "Percent Change":"3.80 %",
+        "Volume":"391,695.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-26",
+        "Open":540.0,
+        "High":541.0,
+        "Low":520.0,
+        "Close":526.0,
+        "Percent Change":"-2.77 %",
+        "Volume":"476,237.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-25",
+        "Open":565.0,
+        "High":570.0,
+        "Low":537.0,
+        "Close":541.0,
+        "Percent Change":"-3.74 %",
+        "Volume":"723,657.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-22",
+        "Open":572.0,
+        "High":572.0,
+        "Low":561.0,
+        "Close":562.0,
+        "Percent Change":"-1.75 %",
+        "Volume":"457,462.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-21",
+        "Open":581.0,
+        "High":581.0,
+        "Low":560.0,
+        "Close":571.0,
+        "Percent Change":"-1.21 %",
+        "Volume":"444,290.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-20",
+        "Open":580.0,
+        "High":584.0,
+        "Low":575.0,
+        "Close":577.0,
+        "Percent Change":"-0.69 %",
+        "Volume":"343,512.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-19",
+        "Open":588.0,
+        "High":588.0,
+        "Low":579.0,
+        "Close":581.0,
+        "Percent Change":"-0.68 %",
+        "Volume":"410,725.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-18",
+        "Open":623.0,
+        "High":623.0,
+        "Low":581.0,
+        "Close":585.0,
+        "Percent Change":"-1.52 %",
+        "Volume":"476,981.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-15",
+        "Open":585.0,
+        "High":604.0,
+        "Low":580.0,
+        "Close":595.0,
+        "Percent Change":"1.71 %",
+        "Volume":"835,570.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-13",
+        "Open":586.0,
+        "High":589.0,
+        "Low":580.0,
+        "Close":583.0,
+        "Percent Change":"-0.17 %",
+        "Volume":"361,253.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-12",
+        "Open":586.0,
+        "High":590.0,
+        "Low":580.0,
+        "Close":584.0,
+        "Percent Change":"-0.85 %",
+        "Volume":"376,104.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-08",
+        "Open":621.0,
+        "High":621.0,
+        "Low":588.0,
+        "Close":589.0,
+        "Percent Change":"-0.51 %",
+        "Volume":"420,301.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-07",
+        "Open":606.0,
+        "High":612.0,
+        "Low":591.0,
+        "Close":592.0,
+        "Percent Change":"-2.31 %",
+        "Volume":"461,662.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-06",
+        "Open":604.0,
+        "High":606.0,
+        "Low":572.0,
+        "Close":605.0,
+        "Percent Change":"5.03 %",
+        "Volume":"672,591.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-05",
+        "Open":581.0,
+        "High":588.0,
+        "Low":574.0,
+        "Close":577.0,
+        "Percent Change":"-0.69 %",
+        "Volume":"500,352.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-04",
+        "Open":595.0,
+        "High":600.0,
+        "Low":577.0,
+        "Close":581.0,
+        "Percent Change":"-2.35 %",
+        "Volume":"801,852.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-04-01",
+        "Open":615.0,
+        "High":615.0,
+        "Low":588.0,
+        "Close":595.0,
+        "Percent Change":"0.34 %",
+        "Volume":"96,316.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-31",
+        "Open":592.0,
+        "High":604.0,
+        "Low":590.0,
+        "Close":593.0,
+        "Percent Change":"0.17 %",
+        "Volume":"508,187.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-30",
+        "Open":606.0,
+        "High":611.0,
+        "Low":591.0,
+        "Close":592.0,
+        "Percent Change":"-2.31 %",
+        "Volume":"802,167.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-29",
+        "Open":615.0,
+        "High":622.0,
+        "Low":603.0,
+        "Close":606.0,
+        "Percent Change":"-0.33 %",
+        "Volume":"724,630.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-25",
+        "Open":600.0,
+        "High":631.0,
+        "Low":585.0,
+        "Close":608.0,
+        "Percent Change":"4.65 %",
+        "Volume":"1,462,360.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-24",
+        "Open":545.0,
+        "High":588.0,
+        "Low":545.0,
+        "Close":581.0,
+        "Percent Change":"7.59 %",
+        "Volume":"1,140,970.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-23",
+        "Open":524.0,
+        "High":550.0,
+        "Low":520.0,
+        "Close":540.0,
+        "Percent Change":"3.05 %",
+        "Volume":"973,981.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-22",
+        "Open":530.0,
+        "High":537.0,
+        "Low":522.0,
+        "Close":524.0,
+        "Percent Change":"-0.76 %",
+        "Volume":"375,082.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-21",
+        "Open":525.0,
+        "High":534.0,
+        "Low":525.0,
+        "Close":528.0,
+        "Percent Change":"0.57 %",
+        "Volume":"401,215.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-18",
+        "Open":530.0,
+        "High":535.0,
+        "Low":525.0,
+        "Close":525.0,
+        "Percent Change":"-0.94 %",
+        "Volume":"408,478.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-17",
+        "Open":532.0,
+        "High":540.0,
+        "Low":527.0,
+        "Close":530.0,
+        "Percent Change":"-0.56 %",
+        "Volume":"378,017.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-16",
+        "Open":550.0,
+        "High":550.0,
+        "Low":530.0,
+        "Close":533.0,
+        "Percent Change":"-0.74 %",
+        "Volume":"317,765.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-15",
+        "Open":548.0,
+        "High":557.0,
+        "Low":528.0,
+        "Close":537.0,
+        "Percent Change":"2.68 %",
+        "Volume":"807,526.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-14",
+        "Open":540.0,
+        "High":541.0,
+        "Low":521.0,
+        "Close":523.0,
+        "Percent Change":"-1.51 %",
+        "Volume":"521,372.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-10",
+        "Open":530.0,
+        "High":540.0,
+        "Low":522.0,
+        "Close":531.0,
+        "Percent Change":"-0.19 %",
+        "Volume":"389,669.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-09",
+        "Open":542.0,
+        "High":547.0,
+        "Low":528.0,
+        "Close":532.0,
+        "Percent Change":"-1.85 %",
+        "Volume":"476,968.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-08",
+        "Open":560.0,
+        "High":570.0,
+        "Low":539.0,
+        "Close":542.0,
+        "Percent Change":"-1.81 %",
+        "Volume":"779,371.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-04",
+        "Open":508.0,
+        "High":558.0,
+        "Low":508.0,
+        "Close":552.0,
+        "Percent Change":"8.66 %",
+        "Volume":"989,491.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-03",
+        "Open":515.0,
+        "High":520.0,
+        "Low":503.0,
+        "Close":508.0,
+        "Percent Change":"-1.36 %",
+        "Volume":"428,048.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-02",
+        "Open":540.0,
+        "High":541.0,
+        "Low":508.0,
+        "Close":515.0,
+        "Percent Change":"-2.65 %",
+        "Volume":"494,666.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-03-01",
+        "Open":508.0,
+        "High":535.0,
+        "Low":482.0,
+        "Close":529.0,
+        "Percent Change":"0.00 %",
+        "Volume":"863,802.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-02-28",
+        "Open":543.0,
+        "High":550.0,
+        "Low":507.0,
+        "Close":508.0,
+        "Percent Change":"-6.45 %",
+        "Volume":"1,229,080.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-02-25",
+        "Open":550.0,
+        "High":595.0,
+        "Low":526.0,
+        "Close":543.0,
+        "Percent Change":"0.00 %",
+        "Volume":"1,649,930.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-02-24",
+        "Open":565.0,
+        "High":642.0,
+        "Low":340.0,
+        "Close":562.0,
+        "Percent Change":"-5.39 %",
+        "Volume":"992,207.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-02-23",
+        "Open":693.0,
+        "High":726.0,
+        "Low":594.0,
+        "Close":594.0,
+        "Percent Change":"-10.00 %",
+        "Volume":"1,081,400.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-02-22",
+        "Open":630.0,
+        "High":660.0,
+        "Low":630.0,
+        "Close":660.0,
+        "Percent Change":"10.00 %",
+        "Volume":"487,154.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-02-21",
+        "Open":573.0,
+        "High":600.0,
+        "Low":573.0,
+        "Close":600.0,
+        "Percent Change":"0.10 %",
+        "Volume":"898,056.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-02-18",
+        "Open":521.0,
+        "High":546.0,
+        "Low":521.0,
+        "Close":546.0,
+        "Percent Change":"0.10 %",
+        "Volume":"932,534.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-02-17",
+        "Open":474.0,
+        "High":497.0,
+        "Low":474.0,
+        "Close":497.0,
+        "Percent Change":"0.10 %",
+        "Volume":"1,397,130.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-02-16",
+        "Open":431.0,
+        "High":452.0,
+        "Low":431.0,
+        "Close":452.0,
+        "Percent Change":"0.10 %",
+        "Volume":"47,799.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-02-15",
+        "Open":392.0,
+        "High":411.0,
+        "Low":392.0,
+        "Close":411.0,
+        "Percent Change":"0.10 %",
+        "Volume":"47,850.00"
+    },
+    {
+        "Symbol":"NIFRA",
+        "Date":"2021-02-14",
+        "Open":340.0,
+        "High":374.0,
+        "Low":340.0,
+        "Close":374.0,
+        "Percent Change":"0.10 %",
+        "Volume":"59,931.00"
+    }
+]

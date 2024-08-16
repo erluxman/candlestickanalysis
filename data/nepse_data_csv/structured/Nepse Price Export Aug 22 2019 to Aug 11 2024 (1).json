@@ -1,0 +1,1432 @@
+[
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-07-04",
+        "Open": 854.0,
+        "High": 854.0,
+        "Low": 829.1,
+        "Close": 836.0,
+        "Percent Change": -2.11,
+        "Volume": "600.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-07-03",
+        "Open": 852.2,
+        "High": 879.0,
+        "Low": 845.0,
+        "Close": 854.0,
+        "Percent Change": -1.27,
+        "Volume": "1,140.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-07-02",
+        "Open": 900.0,
+        "High": 918.0,
+        "Low": 865.0,
+        "Close": 865.0,
+        "Percent Change": -3.89,
+        "Volume": "601.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-28",
+        "Open": 978.1,
+        "High": 1009.0,
+        "Low": 900.0,
+        "Close": 900.0,
+        "Percent Change": -6.15,
+        "Volume": "1,780.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-27",
+        "Open": 892.0,
+        "High": 962.0,
+        "Low": 892.0,
+        "Close": 959.0,
+        "Percent Change": 9.6,
+        "Volume": "1,144.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-26",
+        "Open": 865.0,
+        "High": 930.0,
+        "Low": 865.0,
+        "Close": 875.0,
+        "Percent Change": -0.57,
+        "Volume": "1,212.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-25",
+        "Open": 857.5,
+        "High": 880.0,
+        "Low": 843.0,
+        "Close": 880.0,
+        "Percent Change": 0.57,
+        "Volume": "1,299.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-22",
+        "Open": 853.9,
+        "High": 888.0,
+        "Low": 853.9,
+        "Close": 875.0,
+        "Percent Change": 0.42,
+        "Volume": "190.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-21",
+        "Open": 886.0,
+        "High": 886.0,
+        "Low": 851.0,
+        "Close": 871.3,
+        "Percent Change": -3.62,
+        "Volume": "400.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-20",
+        "Open": 900.2,
+        "High": 904.0,
+        "Low": 892.0,
+        "Close": 904.0,
+        "Percent Change": -0.66,
+        "Volume": "630.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-19",
+        "Open": 935.0,
+        "High": 935.0,
+        "Low": 891.0,
+        "Close": 910.0,
+        "Percent Change": -3.8,
+        "Volume": "471.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-18",
+        "Open": 951.6,
+        "High": 955.0,
+        "Low": 916.0,
+        "Close": 945.9,
+        "Percent Change": -2.58,
+        "Volume": "1,240.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-15",
+        "Open": 964.3,
+        "High": 1025.0,
+        "Low": 964.3,
+        "Close": 971.0,
+        "Percent Change": 2.71,
+        "Volume": "1,665.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-14",
+        "Open": 876.6,
+        "High": 945.4,
+        "Low": 876.3,
+        "Close": 945.4,
+        "Percent Change": 9.99,
+        "Volume": "1,766.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-13",
+        "Open": 859.6,
+        "High": 894.0,
+        "Low": 842.6,
+        "Close": 859.5,
+        "Percent Change": -2.01,
+        "Volume": "1,110.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-12",
+        "Open": 845.3,
+        "High": 877.1,
+        "Low": 845.3,
+        "Close": 877.1,
+        "Percent Change": 1.98,
+        "Volume": "100.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-11",
+        "Open": 860.0,
+        "High": 883.8,
+        "Low": 855.0,
+        "Close": 860.1,
+        "Percent Change": -0.74,
+        "Volume": "240.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-08",
+        "Open": 884.0,
+        "High": 884.0,
+        "Low": 866.5,
+        "Close": 866.5,
+        "Percent Change": -3.94,
+        "Volume": "60.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-07",
+        "Open": 840.0,
+        "High": 902.0,
+        "Low": 840.0,
+        "Close": 902.0,
+        "Percent Change": 8.02,
+        "Volume": "469.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-06",
+        "Open": 820.0,
+        "High": 835.0,
+        "Low": 820.0,
+        "Close": 835.0,
+        "Percent Change": -0.12,
+        "Volume": "42.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-05",
+        "Open": 865.0,
+        "High": 865.0,
+        "Low": 836.0,
+        "Close": 836.0,
+        "Percent Change": -2.79,
+        "Volume": "242.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-04",
+        "Open": 825.0,
+        "High": 860.0,
+        "Low": 825.0,
+        "Close": 860.0,
+        "Percent Change": 2.63,
+        "Volume": "70.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-06-01",
+        "Open": 821.0,
+        "High": 845.0,
+        "Low": 821.0,
+        "Close": 838.0,
+        "Percent Change": 0.96,
+        "Volume": "180.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-31",
+        "Open": 833.0,
+        "High": 834.0,
+        "Low": 821.0,
+        "Close": 830.0,
+        "Percent Change": -0.36,
+        "Volume": "116.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-30",
+        "Open": 859.7,
+        "High": 859.7,
+        "Low": 828.2,
+        "Close": 833.0,
+        "Percent Change": -5.04,
+        "Volume": "338.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-28",
+        "Open": 895.0,
+        "High": 932.0,
+        "Low": 877.2,
+        "Close": 877.2,
+        "Percent Change": -1.77,
+        "Volume": "300.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-24",
+        "Open": 922.2,
+        "High": 978.5,
+        "Low": 890.1,
+        "Close": 893.0,
+        "Percent Change": -1.24,
+        "Volume": "550.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-23",
+        "Open": 838.4,
+        "High": 904.2,
+        "Low": 838.0,
+        "Close": 904.2,
+        "Percent Change": 10.0,
+        "Volume": "220.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-22",
+        "Open": 813.8,
+        "High": 831.3,
+        "Low": 813.8,
+        "Close": 822.0,
+        "Percent Change": -0.96,
+        "Volume": "170.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-21",
+        "Open": 833.1,
+        "High": 845.0,
+        "Low": 825.0,
+        "Close": 830.0,
+        "Percent Change": -2.35,
+        "Volume": "150.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-18",
+        "Open": 820.1,
+        "High": 851.0,
+        "Low": 820.1,
+        "Close": 850.0,
+        "Percent Change": 1.8,
+        "Volume": "90.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-17",
+        "Open": 805.0,
+        "High": 835.0,
+        "Low": 805.0,
+        "Close": 835.0,
+        "Percent Change": 1.83,
+        "Volume": "100.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-16",
+        "Open": 804.0,
+        "High": 820.0,
+        "Low": 804.0,
+        "Close": 820.0,
+        "Percent Change": 0.0,
+        "Volume": "60.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-15",
+        "Open": 825.1,
+        "High": 849.0,
+        "Low": 810.0,
+        "Close": 820.0,
+        "Percent Change": -0.02,
+        "Volume": "251.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-14",
+        "Open": 827.0,
+        "High": 841.0,
+        "Low": 827.0,
+        "Close": 841.0,
+        "Percent Change": -0.11,
+        "Volume": "130.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-11",
+        "Open": 853.0,
+        "High": 853.0,
+        "Low": 841.9,
+        "Close": 841.9,
+        "Percent Change": -3.23,
+        "Volume": "140.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-10",
+        "Open": 857.5,
+        "High": 870.0,
+        "Low": 857.5,
+        "Close": 870.0,
+        "Percent Change": -0.57,
+        "Volume": "50.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-09",
+        "Open": 857.0,
+        "High": 875.0,
+        "Low": 857.0,
+        "Close": 875.0,
+        "Percent Change": 0.1,
+        "Volume": "50.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-08",
+        "Open": 856.6,
+        "High": 874.1,
+        "Low": 856.6,
+        "Close": 874.1,
+        "Percent Change": 0.01,
+        "Volume": "200.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-07",
+        "Open": 890.9,
+        "High": 890.9,
+        "Low": 873.1,
+        "Close": 874.0,
+        "Percent Change": -3.85,
+        "Volume": "170.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-04",
+        "Open": 868.0,
+        "High": 909.0,
+        "Low": 868.0,
+        "Close": 909.0,
+        "Percent Change": 4.0,
+        "Volume": "70.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-03",
+        "Open": 865.0,
+        "High": 885.0,
+        "Low": 865.0,
+        "Close": 874.0,
+        "Percent Change": 0.37,
+        "Volume": "180.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-05-02",
+        "Open": 888.0,
+        "High": 890.0,
+        "Low": 870.8,
+        "Close": 870.8,
+        "Percent Change": -2.17,
+        "Volume": "148.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-30",
+        "Open": 896.7,
+        "High": 915.0,
+        "Low": 886.1,
+        "Close": 890.1,
+        "Percent Change": -2.72,
+        "Volume": "140.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-27",
+        "Open": 892.0,
+        "High": 927.1,
+        "Low": 892.0,
+        "Close": 915.0,
+        "Percent Change": 0.55,
+        "Volume": "160.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-26",
+        "Open": 918.0,
+        "High": 935.0,
+        "Low": 909.0,
+        "Close": 910.0,
+        "Percent Change": -1.89,
+        "Volume": "268.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-25",
+        "Open": 877.0,
+        "High": 927.5,
+        "Low": 877.0,
+        "Close": 927.5,
+        "Percent Change": 7.85,
+        "Volume": "220.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-24",
+        "Open": 868.0,
+        "High": 869.0,
+        "Low": 852.0,
+        "Close": 860.0,
+        "Percent Change": -2.82,
+        "Volume": "40.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-23",
+        "Open": 894.7,
+        "High": 894.7,
+        "Low": 870.0,
+        "Close": 885.0,
+        "Percent Change": -3.06,
+        "Volume": "80.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-20",
+        "Open": 881.0,
+        "High": 912.9,
+        "Low": 881.0,
+        "Close": 912.9,
+        "Percent Change": 2.0,
+        "Volume": "185.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-19",
+        "Open": 903.0,
+        "High": 921.0,
+        "Low": 890.0,
+        "Close": 895.0,
+        "Percent Change": -2.82,
+        "Volume": "320.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-18",
+        "Open": 970.0,
+        "High": 970.0,
+        "Low": 886.0,
+        "Close": 921.0,
+        "Percent Change": -5.05,
+        "Volume": "410.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-17",
+        "Open": 952.5,
+        "High": 970.0,
+        "Low": 935.0,
+        "Close": 970.0,
+        "Percent Change": 0.0,
+        "Volume": "100.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-16",
+        "Open": 954.6,
+        "High": 970.0,
+        "Low": 937.0,
+        "Close": 970.0,
+        "Percent Change": -0.41,
+        "Volume": "250.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-13",
+        "Open": 920.3,
+        "High": 992.5,
+        "Low": 920.3,
+        "Close": 974.0,
+        "Percent Change": 7.95,
+        "Volume": "863.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-12",
+        "Open": 835.0,
+        "High": 902.3,
+        "Low": 835.0,
+        "Close": 902.3,
+        "Percent Change": 10.0,
+        "Volume": "400.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-11",
+        "Open": 820.0,
+        "High": 836.4,
+        "Low": 820.0,
+        "Close": 820.3,
+        "Percent Change": -0.36,
+        "Volume": "135.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-10",
+        "Open": 835.0,
+        "High": 835.0,
+        "Low": 823.2,
+        "Close": 823.3,
+        "Percent Change": -1.99,
+        "Volume": "81.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-09",
+        "Open": 880.1,
+        "High": 880.1,
+        "Low": 840.0,
+        "Close": 840.0,
+        "Percent Change": -4.56,
+        "Volume": "71.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-06",
+        "Open": 916.3,
+        "High": 916.3,
+        "Low": 880.1,
+        "Close": 880.1,
+        "Percent Change": -5.87,
+        "Volume": "60.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-05",
+        "Open": 885.0,
+        "High": 935.0,
+        "Low": 875.0,
+        "Close": 935.0,
+        "Percent Change": 5.06,
+        "Volume": "130.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-04",
+        "Open": 884.0,
+        "High": 890.0,
+        "Low": 867.0,
+        "Close": 890.0,
+        "Percent Change": -1.29,
+        "Volume": "80.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-03",
+        "Open": 885.0,
+        "High": 920.0,
+        "Low": 881.0,
+        "Close": 901.6,
+        "Percent Change": 0.74,
+        "Volume": "140.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-04-02",
+        "Open": 913.0,
+        "High": 949.0,
+        "Low": 895.0,
+        "Close": 895.0,
+        "Percent Change": -1.97,
+        "Volume": "170.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-30",
+        "Open": 914.0,
+        "High": 920.0,
+        "Low": 913.0,
+        "Close": 913.0,
+        "Percent Change": -1.93,
+        "Volume": "111.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-29",
+        "Open": 956.0,
+        "High": 956.0,
+        "Low": 931.0,
+        "Close": 931.0,
+        "Percent Change": -4.41,
+        "Volume": "100.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-28",
+        "Open": 905.7,
+        "High": 974.0,
+        "Low": 905.0,
+        "Close": 974.0,
+        "Percent Change": 5.41,
+        "Volume": "220.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-27",
+        "Open": 907.8,
+        "High": 925.0,
+        "Low": 907.8,
+        "Close": 924.0,
+        "Percent Change": 3.82,
+        "Volume": "60.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-26",
+        "Open": 906.5,
+        "High": 926.0,
+        "Low": 888.5,
+        "Close": 890.0,
+        "Percent Change": -3.78,
+        "Volume": "480.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-23",
+        "Open": 969.0,
+        "High": 970.0,
+        "Low": 913.0,
+        "Close": 925.0,
+        "Percent Change": -6.02,
+        "Volume": "163.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-22",
+        "Open": 978.1,
+        "High": 984.3,
+        "Low": 958.9,
+        "Close": 984.3,
+        "Percent Change": -1.37,
+        "Volume": "190.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-20",
+        "Open": 979.0,
+        "High": 998.0,
+        "Low": 960.0,
+        "Close": 998.0,
+        "Percent Change": -0.05,
+        "Volume": "235.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-19",
+        "Open": 940.8,
+        "High": 998.5,
+        "Low": 934.0,
+        "Close": 998.5,
+        "Percent Change": 4.01,
+        "Volume": "70.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-16",
+        "Open": 967.3,
+        "High": 968.0,
+        "Low": 948.0,
+        "Close": 960.0,
+        "Percent Change": -2.74,
+        "Volume": "178.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-15",
+        "Open": 985.0,
+        "High": 987.0,
+        "Low": 968.0,
+        "Close": 987.0,
+        "Percent Change": 0.49,
+        "Volume": "80.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-14",
+        "Open": 933.0,
+        "High": 982.2,
+        "Low": 931.0,
+        "Close": 982.2,
+        "Percent Change": 5.27,
+        "Volume": "90.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-13",
+        "Open": 990.1,
+        "High": 1000.0,
+        "Low": 933.0,
+        "Close": 933.0,
+        "Percent Change": -7.62,
+        "Volume": "369.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-12",
+        "Open": 1048.0,
+        "High": 1050.0,
+        "Low": 1009.0,
+        "Close": 1010.0,
+        "Percent Change": -5.35,
+        "Volume": "70.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-09",
+        "Open": 1050.0,
+        "High": 1087.0,
+        "Low": 1050.0,
+        "Close": 1067.1,
+        "Percent Change": 0.67,
+        "Volume": "120.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-07",
+        "Open": 1081.0,
+        "High": 1102.6,
+        "Low": 1059.0,
+        "Close": 1060.0,
+        "Percent Change": 0.0,
+        "Volume": "210.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-05",
+        "Open": 1122.1,
+        "High": 1122.1,
+        "Low": 1060.0,
+        "Close": 1060.0,
+        "Percent Change": -7.42,
+        "Volume": "517.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-02",
+        "Open": 1139.7,
+        "High": 1190.3,
+        "Low": 1095.0,
+        "Close": 1145.0,
+        "Percent Change": -1.54,
+        "Volume": "319.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-03-01",
+        "Open": 1154.0,
+        "High": 1224.0,
+        "Low": 1132.0,
+        "Close": 1162.9,
+        "Percent Change": 2.74,
+        "Volume": "460.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-28",
+        "Open": 1010.0,
+        "High": 1131.9,
+        "Low": 1010.0,
+        "Close": 1131.9,
+        "Percent Change": 10.0,
+        "Volume": "380.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-27",
+        "Open": 1055.0,
+        "High": 1085.0,
+        "Low": 1029.0,
+        "Close": 1029.0,
+        "Percent Change": -2.0,
+        "Volume": "360.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-26",
+        "Open": 1016.1,
+        "High": 1054.0,
+        "Low": 935.0,
+        "Close": 1050.0,
+        "Percent Change": 1.27,
+        "Volume": "830.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-23",
+        "Open": 1128.9,
+        "High": 1128.9,
+        "Low": 1036.8,
+        "Close": 1036.8,
+        "Percent Change": -9.99,
+        "Volume": "1,300.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-22",
+        "Open": 1240.0,
+        "High": 1264.0,
+        "Low": 1151.7,
+        "Close": 1151.9,
+        "Percent Change": -7.85,
+        "Volume": "1,625.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-20",
+        "Open": 1282.0,
+        "High": 1300.0,
+        "Low": 1250.0,
+        "Close": 1250.0,
+        "Percent Change": -4.43,
+        "Volume": "350.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-16",
+        "Open": 1320.0,
+        "High": 1330.0,
+        "Low": 1308.0,
+        "Close": 1308.0,
+        "Percent Change": -1.73,
+        "Volume": "430.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-15",
+        "Open": 1326.0,
+        "High": 1340.0,
+        "Low": 1326.0,
+        "Close": 1331.0,
+        "Percent Change": -1.63,
+        "Volume": "430.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-14",
+        "Open": 1400.0,
+        "High": 1400.0,
+        "Low": 1352.5,
+        "Close": 1353.0,
+        "Percent Change": -1.6,
+        "Volume": "715.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-12",
+        "Open": 1300.0,
+        "High": 1389.0,
+        "Low": 1300.0,
+        "Close": 1375.0,
+        "Percent Change": 4.48,
+        "Volume": "780.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-09",
+        "Open": 1291.0,
+        "High": 1316.0,
+        "Low": 1278.0,
+        "Close": 1316.0,
+        "Percent Change": 0.0,
+        "Volume": "659.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-08",
+        "Open": 1352.0,
+        "High": 1360.0,
+        "Low": 1316.0,
+        "Close": 1316.0,
+        "Percent Change": -1.05,
+        "Volume": "430.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-07",
+        "Open": 1295.0,
+        "High": 1370.0,
+        "Low": 1285.0,
+        "Close": 1330.0,
+        "Percent Change": 2.31,
+        "Volume": "380.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-06",
+        "Open": 1315.8,
+        "High": 1315.8,
+        "Low": 1280.0,
+        "Close": 1300.0,
+        "Percent Change": 0.78,
+        "Volume": "479.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-05",
+        "Open": 1300.0,
+        "High": 1305.0,
+        "Low": 1280.1,
+        "Close": 1290.0,
+        "Percent Change": -1.15,
+        "Volume": "480.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-02",
+        "Open": 1310.0,
+        "High": 1325.0,
+        "Low": 1298.0,
+        "Close": 1305.0,
+        "Percent Change": -0.46,
+        "Volume": "671.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-02-01",
+        "Open": 1305.0,
+        "High": 1329.0,
+        "Low": 1305.0,
+        "Close": 1311.0,
+        "Percent Change": -1.21,
+        "Volume": "615.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-31",
+        "Open": 1342.6,
+        "High": 1342.6,
+        "Low": 1322.0,
+        "Close": 1327.0,
+        "Percent Change": -3.14,
+        "Volume": "520.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-30",
+        "Open": 1357.0,
+        "High": 1390.0,
+        "Low": 1357.0,
+        "Close": 1370.0,
+        "Percent Change": -1.01,
+        "Volume": "440.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-29",
+        "Open": 1370.2,
+        "High": 1397.0,
+        "Low": 1370.0,
+        "Close": 1384.0,
+        "Percent Change": -0.44,
+        "Volume": "950.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-26",
+        "Open": 1386.0,
+        "High": 1410.0,
+        "Low": 1386.0,
+        "Close": 1390.1,
+        "Percent Change": -0.71,
+        "Volume": "750.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-25",
+        "Open": 1400.0,
+        "High": 1415.0,
+        "Low": 1392.1,
+        "Close": 1400.0,
+        "Percent Change": 0.14,
+        "Volume": "1,130.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-24",
+        "Open": 1415.0,
+        "High": 1415.0,
+        "Low": 1381.4,
+        "Close": 1398.0,
+        "Percent Change": 0.35,
+        "Volume": "925.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-23",
+        "Open": 1374.1,
+        "High": 1420.0,
+        "Low": 1374.1,
+        "Close": 1393.1,
+        "Percent Change": -0.49,
+        "Volume": "610.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-19",
+        "Open": 1402.0,
+        "High": 1427.0,
+        "Low": 1390.0,
+        "Close": 1400.0,
+        "Percent Change": -2.1,
+        "Volume": "720.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-18",
+        "Open": 1457.5,
+        "High": 1457.5,
+        "Low": 1400.2,
+        "Close": 1430.0,
+        "Percent Change": 0.07,
+        "Volume": "1,132.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-17",
+        "Open": 1456.3,
+        "High": 1456.3,
+        "Low": 1381.1,
+        "Close": 1429.0,
+        "Percent Change": -3.84,
+        "Volume": "2,787.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-12",
+        "Open": 1600.0,
+        "High": 1603.0,
+        "Low": 1485.0,
+        "Close": 1486.0,
+        "Percent Change": -7.3,
+        "Volume": "3,710.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-10",
+        "Open": 1734.0,
+        "High": 1870.0,
+        "Low": 1601.0,
+        "Close": 1603.1,
+        "Percent Change": -5.7,
+        "Volume": "3,595.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-09",
+        "Open": 1545.0,
+        "High": 1700.0,
+        "Low": 1545.0,
+        "Close": 1700.0,
+        "Percent Change": 10.0,
+        "Volume": "3,664.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-08",
+        "Open": 1433.1,
+        "High": 1545.5,
+        "Low": 1433.1,
+        "Close": 1545.5,
+        "Percent Change": 10.0,
+        "Volume": "1,530.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-05",
+        "Open": 1302.8,
+        "High": 1405.0,
+        "Low": 1302.8,
+        "Close": 1405.0,
+        "Percent Change": 10.0,
+        "Volume": "4,770.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-04",
+        "Open": 1184.4,
+        "High": 1277.3,
+        "Low": 1184.4,
+        "Close": 1277.3,
+        "Percent Change": 10.0,
+        "Volume": "840.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-03",
+        "Open": 1076.8,
+        "High": 1161.2,
+        "Low": 1076.8,
+        "Close": 1161.2,
+        "Percent Change": 9.99,
+        "Volume": "60.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-02",
+        "Open": 959.8,
+        "High": 1055.7,
+        "Low": 959.8,
+        "Close": 1055.7,
+        "Percent Change": 9.99,
+        "Volume": "60.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2023-01-01",
+        "Open": 890.0,
+        "High": 959.8,
+        "Low": 890.0,
+        "Close": 959.8,
+        "Percent Change": 9.99,
+        "Volume": "70.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-29",
+        "Open": 855.5,
+        "High": 872.6,
+        "Low": 855.5,
+        "Close": 872.6,
+        "Percent Change": 4.03,
+        "Volume": "20.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-28",
+        "Open": 777.8,
+        "High": 838.8,
+        "Low": 777.8,
+        "Close": 838.8,
+        "Percent Change": 9.99,
+        "Volume": "80.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-27",
+        "Open": 718.8,
+        "High": 762.6,
+        "Low": 718.8,
+        "Close": 762.6,
+        "Percent Change": 8.2,
+        "Volume": "41.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-26",
+        "Open": 653.6,
+        "High": 704.8,
+        "Low": 653.6,
+        "Close": 704.8,
+        "Percent Change": 9.99,
+        "Volume": "50.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-22",
+        "Open": 628.3,
+        "High": 640.8,
+        "Low": 628.3,
+        "Close": 640.8,
+        "Percent Change": 4.03,
+        "Volume": "20.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-21",
+        "Open": 604.0,
+        "High": 616.0,
+        "Low": 604.0,
+        "Close": 616.0,
+        "Percent Change": 1.99,
+        "Volume": "11.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-20",
+        "Open": 592.2,
+        "High": 604.0,
+        "Low": 592.2,
+        "Close": 604.0,
+        "Percent Change": 4.03,
+        "Volume": "20.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-19",
+        "Open": 558.2,
+        "High": 580.6,
+        "Low": 558.2,
+        "Close": 580.6,
+        "Percent Change": 6.08,
+        "Volume": "30.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-18",
+        "Open": 526.1,
+        "High": 547.3,
+        "Low": 526.1,
+        "Close": 547.3,
+        "Percent Change": 6.11,
+        "Volume": "30.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-15",
+        "Open": 515.8,
+        "High": 515.8,
+        "Low": 515.8,
+        "Close": 515.8,
+        "Percent Change": 2.0,
+        "Volume": "10.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-14",
+        "Open": 486.1,
+        "High": 505.7,
+        "Low": 486.1,
+        "Close": 505.7,
+        "Percent Change": 6.11,
+        "Volume": "30.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-13",
+        "Open": 476.6,
+        "High": 476.6,
+        "Low": 476.6,
+        "Close": 476.6,
+        "Percent Change": 1.99,
+        "Volume": "10.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-12",
+        "Open": 467.3,
+        "High": 467.3,
+        "Low": 467.3,
+        "Close": 467.3,
+        "Percent Change": 1.99,
+        "Volume": "10.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-11",
+        "Open": 449.3,
+        "High": 458.2,
+        "Low": 449.3,
+        "Close": 458.2,
+        "Percent Change": 4.02,
+        "Volume": "20.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-07",
+        "Open": 423.5,
+        "High": 440.5,
+        "Low": 423.5,
+        "Close": 440.5,
+        "Percent Change": 6.09,
+        "Volume": "30.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-06",
+        "Open": 407.1,
+        "High": 415.2,
+        "Low": 407.1,
+        "Close": 415.2,
+        "Percent Change": 4.01,
+        "Volume": "20.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-05",
+        "Open": 399.2,
+        "High": 399.2,
+        "Low": 399.2,
+        "Close": 399.2,
+        "Percent Change": 1.99,
+        "Volume": "10.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-12-04",
+        "Open": 376.3,
+        "High": 391.4,
+        "Low": 376.3,
+        "Close": 391.4,
+        "Percent Change": 6.07,
+        "Volume": "40.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-11-30",
+        "Open": 361.8,
+        "High": 369.0,
+        "Low": 361.8,
+        "Close": 369.0,
+        "Percent Change": 4.0,
+        "Volume": "20.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-11-29",
+        "Open": 347.9,
+        "High": 354.8,
+        "Low": 347.9,
+        "Close": 354.8,
+        "Percent Change": 4.02,
+        "Volume": "20.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-11-28",
+        "Open": 321.6,
+        "High": 341.1,
+        "Low": 321.6,
+        "Close": 341.1,
+        "Percent Change": 8.18,
+        "Volume": "40.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-11-22",
+        "Open": 309.2,
+        "High": 315.3,
+        "Low": 309.2,
+        "Close": 315.3,
+        "Percent Change": 3.99,
+        "Volume": "20.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-11-16",
+        "Open": 303.2,
+        "High": 303.2,
+        "Low": 303.2,
+        "Close": 303.2,
+        "Percent Change": 0.0,
+        "Volume": "20.00"
+    },
+    {
+        "Symbol": "KLBS",
+        "Date": "2022-01-02",
+        "Open": 959.8,
+        "High": 1055.7,
+        "Low": 959.8,
+        "Close": 1055.7,
+        "Percent Change": 9.99,
+        "Volume": "60.00"
+    }
+]

@@ -1,0 +1,8212 @@
+[
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-08-11",
+        "Open": 790.0,
+        "High": 860.0,
+        "Low": 790.0,
+        "Close": 860.0,
+        "Percent Change": 9.97,
+        "Volume": 127719.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-08-08",
+        "Open": 798.0,
+        "High": 800.0,
+        "Low": 778.0,
+        "Close": 782.0,
+        "Percent Change": -0.38,
+        "Volume": 28742.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-08-07",
+        "Open": 770.0,
+        "High": 787.0,
+        "Low": 760.0,
+        "Close": 785.0,
+        "Percent Change": 2.6,
+        "Volume": 30662.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-08-06",
+        "Open": 795.0,
+        "High": 816.0,
+        "Low": 765.0,
+        "Close": 765.1,
+        "Percent Change": -3.64,
+        "Volume": 40210.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-08-05",
+        "Open": 805.0,
+        "High": 818.0,
+        "Low": 786.0,
+        "Close": 794.0,
+        "Percent Change": -1.0,
+        "Volume": 33548.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-08-01",
+        "Open": 815.0,
+        "High": 832.3,
+        "Low": 802.0,
+        "Close": 802.0,
+        "Percent Change": -1.23,
+        "Volume": 50458.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-31",
+        "Open": 805.0,
+        "High": 822.0,
+        "Low": 800.0,
+        "Close": 812.0,
+        "Percent Change": 0.89,
+        "Volume": 39658.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-30",
+        "Open": 802.1,
+        "High": 812.7,
+        "Low": 782.2,
+        "Close": 804.8,
+        "Percent Change": 0.35,
+        "Volume": 46997.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-29",
+        "Open": 820.3,
+        "High": 847.0,
+        "Low": 801.0,
+        "Close": 802.0,
+        "Percent Change": -4.18,
+        "Volume": 68602.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-28",
+        "Open": 850.0,
+        "High": 862.9,
+        "Low": 815.0,
+        "Close": 837.0,
+        "Percent Change": -1.06,
+        "Volume": 59759.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-25",
+        "Open": 775.0,
+        "High": 848.0,
+        "Low": 774.0,
+        "Close": 846.0,
+        "Percent Change": 9.16,
+        "Volume": 107545.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-24",
+        "Open": 820.0,
+        "High": 820.0,
+        "Low": 772.0,
+        "Close": 775.0,
+        "Percent Change": -3.61,
+        "Volume": 50263.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-23",
+        "Open": 777.0,
+        "High": 805.0,
+        "Low": 775.0,
+        "Close": 804.0,
+        "Percent Change": 2.03,
+        "Volume": 37906.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-22",
+        "Open": 802.0,
+        "High": 805.0,
+        "Low": 778.0,
+        "Close": 788.0,
+        "Percent Change": -1.75,
+        "Volume": 52795.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-21",
+        "Open": 790.0,
+        "High": 809.9,
+        "Low": 775.0,
+        "Close": 802.0,
+        "Percent Change": 1.52,
+        "Volume": 38152.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-18",
+        "Open": 770.0,
+        "High": 800.0,
+        "Low": 760.2,
+        "Close": 790.0,
+        "Percent Change": 4.08,
+        "Volume": 68643.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-17",
+        "Open": 733.0,
+        "High": 760.0,
+        "Low": 733.0,
+        "Close": 759.0,
+        "Percent Change": 3.83,
+        "Volume": 56838.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-16",
+        "Open": 708.0,
+        "High": 731.9,
+        "Low": 704.1,
+        "Close": 731.0,
+        "Percent Change": 3.69,
+        "Volume": 24260.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-15",
+        "Open": 734.0,
+        "High": 734.0,
+        "Low": 702.2,
+        "Close": 705.0,
+        "Percent Change": -2.21,
+        "Volume": 29310.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-14",
+        "Open": 738.0,
+        "High": 738.0,
+        "Low": 709.0,
+        "Close": 720.9,
+        "Percent Change": -0.43,
+        "Volume": 31877.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-11",
+        "Open": 746.6,
+        "High": 746.6,
+        "Low": 710.5,
+        "Close": 724.0,
+        "Percent Change": -1.09,
+        "Volume": 41357.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-10",
+        "Open": 692.5,
+        "High": 738.0,
+        "Low": 684.1,
+        "Close": 732.0,
+        "Percent Change": 7.81,
+        "Volume": 98419.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-09",
+        "Open": 650.0,
+        "High": 686.5,
+        "Low": 643.0,
+        "Close": 679.0,
+        "Percent Change": 4.62,
+        "Volume": 43029.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-08",
+        "Open": 661.9,
+        "High": 661.9,
+        "Low": 645.1,
+        "Close": 649.0,
+        "Percent Change": 0.0,
+        "Volume": 12227.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-07",
+        "Open": 640.0,
+        "High": 651.9,
+        "Low": 640.0,
+        "Close": 649.0,
+        "Percent Change": 0.17,
+        "Volume": 12407.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-04",
+        "Open": 639.0,
+        "High": 655.9,
+        "Low": 639.0,
+        "Close": 647.9,
+        "Percent Change": 1.41,
+        "Volume": 7515.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-03",
+        "Open": 656.8,
+        "High": 656.8,
+        "Low": 632.0,
+        "Close": 638.9,
+        "Percent Change": -0.79,
+        "Volume": 4343.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-02",
+        "Open": 642.6,
+        "High": 668.1,
+        "Low": 636.3,
+        "Close": 644.0,
+        "Percent Change": 2.22,
+        "Volume": 20874.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-07-01",
+        "Open": 639.9,
+        "High": 640.0,
+        "Low": 624.0,
+        "Close": 630.0,
+        "Percent Change": 0.0,
+        "Volume": 12373.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-30",
+        "Open": 635.0,
+        "High": 640.0,
+        "Low": 625.1,
+        "Close": 630.0,
+        "Percent Change": -2.31,
+        "Volume": 9571.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-27",
+        "Open": 637.5,
+        "High": 649.5,
+        "Low": 632.0,
+        "Close": 644.9,
+        "Percent Change": -0.63,
+        "Volume": 15015.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-26",
+        "Open": 641.0,
+        "High": 655.0,
+        "Low": 639.0,
+        "Close": 649.0,
+        "Percent Change": 0.15,
+        "Volume": 20090.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-25",
+        "Open": 638.0,
+        "High": 652.0,
+        "Low": 638.0,
+        "Close": 648.0,
+        "Percent Change": 0.47,
+        "Volume": 10085.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-24",
+        "Open": 634.0,
+        "High": 655.0,
+        "Low": 634.0,
+        "Close": 645.0,
+        "Percent Change": 1.26,
+        "Volume": 10802.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-23",
+        "Open": 642.0,
+        "High": 645.0,
+        "Low": 635.1,
+        "Close": 637.0,
+        "Percent Change": -1.24,
+        "Volume": 10785.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-20",
+        "Open": 645.2,
+        "High": 650.0,
+        "Low": 642.0,
+        "Close": 645.0,
+        "Percent Change": -0.75,
+        "Volume": 11106.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-19",
+        "Open": 650.0,
+        "High": 663.9,
+        "Low": 643.0,
+        "Close": 649.9,
+        "Percent Change": -0.31,
+        "Volume": 12353.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-18",
+        "Open": 658.0,
+        "High": 669.0,
+        "Low": 650.0,
+        "Close": 651.9,
+        "Percent Change": -0.93,
+        "Volume": 8311.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-16",
+        "Open": 677.3,
+        "High": 677.3,
+        "Low": 656.7,
+        "Close": 658.0,
+        "Percent Change": -0.92,
+        "Volume": 12247.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-13",
+        "Open": 691.4,
+        "High": 691.4,
+        "Low": 664.1,
+        "Close": 664.1,
+        "Percent Change": -2.04,
+        "Volume": 20917.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-12",
+        "Open": 673.0,
+        "High": 684.4,
+        "Low": 662.1,
+        "Close": 677.9,
+        "Percent Change": 2.12,
+        "Volume": 22954.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-11",
+        "Open": 670.7,
+        "High": 670.7,
+        "Low": 659.0,
+        "Close": 663.8,
+        "Percent Change": 0.94,
+        "Volume": 13470.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-10",
+        "Open": 678.3,
+        "High": 678.3,
+        "Low": 653.0,
+        "Close": 657.6,
+        "Percent Change": -1.11,
+        "Volume": 10157.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-09",
+        "Open": 674.9,
+        "High": 680.0,
+        "Low": 660.1,
+        "Close": 665.0,
+        "Percent Change": -0.15,
+        "Volume": 23366.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-06",
+        "Open": 665.0,
+        "High": 679.0,
+        "Low": 660.9,
+        "Close": 666.0,
+        "Percent Change": -0.27,
+        "Volume": 28298.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-05",
+        "Open": 676.3,
+        "High": 676.3,
+        "Low": 652.2,
+        "Close": 667.8,
+        "Percent Change": 0.71,
+        "Volume": 12155.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-04",
+        "Open": 678.1,
+        "High": 678.1,
+        "Low": 656.0,
+        "Close": 663.1,
+        "Percent Change": -0.27,
+        "Volume": 16667.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-03",
+        "Open": 631.0,
+        "High": 668.5,
+        "Low": 631.0,
+        "Close": 664.9,
+        "Percent Change": 3.41,
+        "Volume": 16916.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-06-02",
+        "Open": 640.0,
+        "High": 654.8,
+        "Low": 640.0,
+        "Close": 643.0,
+        "Percent Change": -1.08,
+        "Volume": 14852.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-30",
+        "Open": 673.2,
+        "High": 673.2,
+        "Low": 640.2,
+        "Close": 650.0,
+        "Percent Change": -1.52,
+        "Volume": 14256.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-29",
+        "Open": 678.0,
+        "High": 678.0,
+        "Low": 655.1,
+        "Close": 660.0,
+        "Percent Change": -0.75,
+        "Volume": 13834.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-27",
+        "Open": 679.0,
+        "High": 679.0,
+        "Low": 661.2,
+        "Close": 665.0,
+        "Percent Change": -0.11,
+        "Volume": 19604.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-26",
+        "Open": 686.3,
+        "High": 686.3,
+        "Low": 660.8,
+        "Close": 665.7,
+        "Percent Change": -1.07,
+        "Volume": 23864.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-22",
+        "Open": 697.6,
+        "High": 697.6,
+        "Low": 671.0,
+        "Close": 672.9,
+        "Percent Change": -1.62,
+        "Volume": 23638.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-21",
+        "Open": 675.0,
+        "High": 685.0,
+        "Low": 670.0,
+        "Close": 684.0,
+        "Percent Change": 1.3,
+        "Volume": 16707.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-20",
+        "Open": 687.4,
+        "High": 699.7,
+        "Low": 675.0,
+        "Close": 675.2,
+        "Percent Change": 0.18,
+        "Volume": 54158.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-19",
+        "Open": 689.5,
+        "High": 689.5,
+        "Low": 670.0,
+        "Close": 674.0,
+        "Percent Change": -0.3,
+        "Volume": 36211.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-16",
+        "Open": 640.2,
+        "High": 695.0,
+        "Low": 640.2,
+        "Close": 676.0,
+        "Percent Change": 4.05,
+        "Volume": 72649.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-15",
+        "Open": 669.1,
+        "High": 669.1,
+        "Low": 641.0,
+        "Close": 649.7,
+        "Percent Change": -0.96,
+        "Volume": 26267.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-14",
+        "Open": 648.9,
+        "High": 668.9,
+        "Low": 638.0,
+        "Close": 656.0,
+        "Percent Change": 3.11,
+        "Volume": 22375.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-13",
+        "Open": 650.0,
+        "High": 650.0,
+        "Low": 631.0,
+        "Close": 636.2,
+        "Percent Change": -0.56,
+        "Volume": 7864.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-12",
+        "Open": 653.1,
+        "High": 653.1,
+        "Low": 635.0,
+        "Close": 639.8,
+        "Percent Change": -2.87,
+        "Volume": 29477.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-09",
+        "Open": 678.0,
+        "High": 678.0,
+        "Low": 658.3,
+        "Close": 658.7,
+        "Percent Change": -1.24,
+        "Volume": 21829.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-08",
+        "Open": 660.0,
+        "High": 677.3,
+        "Low": 652.1,
+        "Close": 667.0,
+        "Percent Change": 1.21,
+        "Volume": 34568.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-07",
+        "Open": 652.6,
+        "High": 670.0,
+        "Low": 650.0,
+        "Close": 659.0,
+        "Percent Change": 0.98,
+        "Volume": 16803.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-06",
+        "Open": 650.0,
+        "High": 665.0,
+        "Low": 650.0,
+        "Close": 652.6,
+        "Percent Change": -0.67,
+        "Volume": 17275.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-05",
+        "Open": 662.5,
+        "High": 692.0,
+        "Low": 657.0,
+        "Close": 657.0,
+        "Percent Change": -2.81,
+        "Volume": 41136.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-05-02",
+        "Open": 671.0,
+        "High": 687.0,
+        "Low": 661.0,
+        "Close": 676.0,
+        "Percent Change": 2.42,
+        "Volume": 43971.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-30",
+        "Open": 640.0,
+        "High": 671.0,
+        "Low": 640.0,
+        "Close": 660.0,
+        "Percent Change": 2.06,
+        "Volume": 19313.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-29",
+        "Open": 633.3,
+        "High": 653.0,
+        "Low": 633.3,
+        "Close": 646.7,
+        "Percent Change": 0.08,
+        "Volume": 4456.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-28",
+        "Open": 622.3,
+        "High": 656.0,
+        "Low": 622.3,
+        "Close": 646.2,
+        "Percent Change": 1.76,
+        "Volume": 13774.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-25",
+        "Open": 640.0,
+        "High": 650.0,
+        "Low": 630.0,
+        "Close": 635.0,
+        "Percent Change": -2.01,
+        "Volume": 9898.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-24",
+        "Open": 637.0,
+        "High": 657.0,
+        "Low": 637.0,
+        "Close": 648.0,
+        "Percent Change": -0.31,
+        "Volume": 12784.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-22",
+        "Open": 686.7,
+        "High": 686.7,
+        "Low": 640.0,
+        "Close": 650.0,
+        "Percent Change": -7.24,
+        "Volume": 51723.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-21",
+        "Open": 646.0,
+        "High": 710.0,
+        "Low": 636.0,
+        "Close": 700.7,
+        "Percent Change": 8.47,
+        "Volume": 29201.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-18",
+        "Open": 663.0,
+        "High": 663.0,
+        "Low": 645.0,
+        "Close": 646.0,
+        "Percent Change": -3.16,
+        "Volume": 24039.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-16",
+        "Open": 648.8,
+        "High": 671.7,
+        "Low": 648.8,
+        "Close": 667.1,
+        "Percent Change": 0.77,
+        "Volume": 22789.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-15",
+        "Open": 680.3,
+        "High": 693.8,
+        "Low": 661.5,
+        "Close": 662.0,
+        "Percent Change": -0.75,
+        "Volume": 61927.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-14",
+        "Open": 607.0,
+        "High": 667.9,
+        "Low": 603.3,
+        "Close": 667.0,
+        "Percent Change": 9.72,
+        "Volume": 90398.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-10",
+        "Open": 609.2,
+        "High": 621.3,
+        "Low": 603.1,
+        "Close": 607.9,
+        "Percent Change": -1.14,
+        "Volume": 13673.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-09",
+        "Open": 632.9,
+        "High": 632.9,
+        "Low": 609.0,
+        "Close": 614.9,
+        "Percent Change": -1.14,
+        "Volume": 14211.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-07",
+        "Open": 639.0,
+        "High": 642.0,
+        "Low": 621.2,
+        "Close": 622.0,
+        "Percent Change": -1.27,
+        "Volume": 20988.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-04",
+        "Open": 610.0,
+        "High": 635.0,
+        "Low": 601.0,
+        "Close": 630.0,
+        "Percent Change": 3.28,
+        "Volume": 27667.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-03",
+        "Open": 607.0,
+        "High": 615.0,
+        "Low": 588.0,
+        "Close": 610.0,
+        "Percent Change": 2.33,
+        "Volume": 12833.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-02",
+        "Open": 585.0,
+        "High": 620.0,
+        "Low": 585.0,
+        "Close": 596.1,
+        "Percent Change": 1.03,
+        "Volume": 12180.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-04-01",
+        "Open": 607.0,
+        "High": 608.0,
+        "Low": 588.0,
+        "Close": 590.0,
+        "Percent Change": -1.58,
+        "Volume": 4949.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-31",
+        "Open": 591.0,
+        "High": 605.0,
+        "Low": 591.0,
+        "Close": 599.5,
+        "Percent Change": 0.08,
+        "Volume": 5949.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-28",
+        "Open": 612.7,
+        "High": 612.7,
+        "Low": 595.0,
+        "Close": 599.0,
+        "Percent Change": -0.33,
+        "Volume": 8142.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-27",
+        "Open": 609.0,
+        "High": 616.3,
+        "Low": 600.0,
+        "Close": 601.0,
+        "Percent Change": -1.31,
+        "Volume": 13545.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-26",
+        "Open": 610.0,
+        "High": 619.0,
+        "Low": 608.0,
+        "Close": 609.0,
+        "Percent Change": 0.33,
+        "Volume": 9158.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-25",
+        "Open": 607.0,
+        "High": 616.0,
+        "Low": 603.1,
+        "Close": 607.0,
+        "Percent Change": -1.62,
+        "Volume": 18274.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-21",
+        "Open": 630.0,
+        "High": 638.0,
+        "Low": 611.0,
+        "Close": 617.0,
+        "Percent Change": -1.91,
+        "Volume": 20506.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-20",
+        "Open": 614.0,
+        "High": 640.0,
+        "Low": 607.1,
+        "Close": 629.0,
+        "Percent Change": 3.97,
+        "Volume": 62285.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-19",
+        "Open": 598.0,
+        "High": 617.0,
+        "Low": 590.0,
+        "Close": 605.0,
+        "Percent Change": 1.05,
+        "Volume": 20384.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-18",
+        "Open": 585.0,
+        "High": 599.6,
+        "Low": 577.0,
+        "Close": 598.7,
+        "Percent Change": 2.34,
+        "Volume": 6043.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-17",
+        "Open": 575.0,
+        "High": 590.0,
+        "Low": 575.0,
+        "Close": 585.0,
+        "Percent Change": 2.09,
+        "Volume": 7024.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-14",
+        "Open": 595.0,
+        "High": 595.0,
+        "Low": 573.0,
+        "Close": 573.0,
+        "Percent Change": -5.13,
+        "Volume": 13148.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-13",
+        "Open": 609.9,
+        "High": 613.0,
+        "Low": 591.0,
+        "Close": 604.0,
+        "Percent Change": -0.17,
+        "Volume": 16458.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-12",
+        "Open": 587.0,
+        "High": 608.0,
+        "Low": 572.0,
+        "Close": 605.0,
+        "Percent Change": 4.85,
+        "Volume": 12929.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-10",
+        "Open": 558.9,
+        "High": 584.9,
+        "Low": 552.0,
+        "Close": 577.0,
+        "Percent Change": 4.36,
+        "Volume": 13644.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-07",
+        "Open": 543.2,
+        "High": 561.0,
+        "Low": 543.0,
+        "Close": 552.9,
+        "Percent Change": 0.0,
+        "Volume": 3450.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-06",
+        "Open": 559.0,
+        "High": 559.0,
+        "Low": 540.0,
+        "Close": 552.9,
+        "Percent Change": 0.53,
+        "Volume": 3674.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-05",
+        "Open": 587.0,
+        "High": 587.0,
+        "Low": 539.1,
+        "Close": 550.0,
+        "Percent Change": -4.84,
+        "Volume": 5883.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-04",
+        "Open": 536.0,
+        "High": 578.0,
+        "Low": 536.0,
+        "Close": 578.0,
+        "Percent Change": 9.89,
+        "Volume": 70.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-03-03",
+        "Open": 544.9,
+        "High": 544.9,
+        "Low": 520.3,
+        "Close": 526.0,
+        "Percent Change": -1.66,
+        "Volume": 6088.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-29",
+        "Open": 547.5,
+        "High": 547.6,
+        "Low": 530.1,
+        "Close": 534.9,
+        "Percent Change": -0.39,
+        "Volume": 2140.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-28",
+        "Open": 546.0,
+        "High": 556.8,
+        "Low": 535.2,
+        "Close": 537.0,
+        "Percent Change": 0.17,
+        "Volume": 3358.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-27",
+        "Open": 540.0,
+        "High": 549.2,
+        "Low": 535.5,
+        "Close": 536.1,
+        "Percent Change": -0.35,
+        "Volume": 4297.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-26",
+        "Open": 534.0,
+        "High": 550.0,
+        "Low": 534.0,
+        "Close": 538.0,
+        "Percent Change": -0.33,
+        "Volume": 2632.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-25",
+        "Open": 545.0,
+        "High": 553.9,
+        "Low": 532.0,
+        "Close": 539.8,
+        "Percent Change": -0.77,
+        "Volume": 3777.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-22",
+        "Open": 556.0,
+        "High": 556.0,
+        "Low": 537.9,
+        "Close": 544.0,
+        "Percent Change": -0.37,
+        "Volume": 3373.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-21",
+        "Open": 534.3,
+        "High": 564.0,
+        "Low": 534.3,
+        "Close": 546.0,
+        "Percent Change": 0.53,
+        "Volume": 6388.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-20",
+        "Open": 547.2,
+        "High": 566.0,
+        "Low": 540.0,
+        "Close": 543.1,
+        "Percent Change": -2.67,
+        "Volume": 6081.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-18",
+        "Open": 569.0,
+        "High": 569.0,
+        "Low": 550.0,
+        "Close": 558.0,
+        "Percent Change": -0.36,
+        "Volume": 10581.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-15",
+        "Open": 566.09,
+        "High": 579.0,
+        "Low": 560.0,
+        "Close": 560.0,
+        "Percent Change": -1.5,
+        "Volume": 6777.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-14",
+        "Open": 570.0,
+        "High": 580.0,
+        "Low": 565.2,
+        "Close": 568.5,
+        "Percent Change": -0.28,
+        "Volume": 3594.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-13",
+        "Open": 593.9,
+        "High": 593.9,
+        "Low": 570.1,
+        "Close": 570.1,
+        "Percent Change": -2.21,
+        "Volume": 7131.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-12",
+        "Open": 575.0,
+        "High": 585.0,
+        "Low": 575.0,
+        "Close": 583.0,
+        "Percent Change": -0.17,
+        "Volume": 5421.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-11",
+        "Open": 604.7,
+        "High": 604.7,
+        "Low": 569.3,
+        "Close": 584.0,
+        "Percent Change": -1.58,
+        "Volume": 7774.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-08",
+        "Open": 604.0,
+        "High": 614.0,
+        "Low": 585.3,
+        "Close": 593.4,
+        "Percent Change": -0.27,
+        "Volume": 3237.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-07",
+        "Open": 587.3,
+        "High": 600.0,
+        "Low": 585.1,
+        "Close": 595.0,
+        "Percent Change": 0.0,
+        "Volume": 3786.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-06",
+        "Open": 605.4,
+        "High": 605.4,
+        "Low": 585.1,
+        "Close": 595.0,
+        "Percent Change": 0.24,
+        "Volume": 6141.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-05",
+        "Open": 581.0,
+        "High": 593.6,
+        "Low": 580.0,
+        "Close": 593.6,
+        "Percent Change": 0.68,
+        "Volume": 6304.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-04",
+        "Open": 585.1,
+        "High": 592.0,
+        "Low": 580.0,
+        "Close": 589.6,
+        "Percent Change": -0.07,
+        "Volume": 5850.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-02-01",
+        "Open": 610.0,
+        "High": 615.0,
+        "Low": 585.2,
+        "Close": 590.0,
+        "Percent Change": -3.28,
+        "Volume": 13077.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-31",
+        "Open": 620.0,
+        "High": 624.0,
+        "Low": 607.8,
+        "Close": 610.0,
+        "Percent Change": -1.61,
+        "Volume": 11267.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-30",
+        "Open": 611.1,
+        "High": 622.0,
+        "Low": 610.1,
+        "Close": 620.0,
+        "Percent Change": 0.16,
+        "Volume": 5094.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-29",
+        "Open": 620.1,
+        "High": 629.0,
+        "Low": 610.0,
+        "Close": 619.0,
+        "Percent Change": -0.16,
+        "Volume": 8016.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-28",
+        "Open": 610.0,
+        "High": 628.0,
+        "Low": 610.0,
+        "Close": 620.0,
+        "Percent Change": 0.32,
+        "Volume": 3515.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-25",
+        "Open": 608.0,
+        "High": 619.0,
+        "Low": 608.0,
+        "Close": 618.0,
+        "Percent Change": 0.18,
+        "Volume": 4799.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-24",
+        "Open": 611.2,
+        "High": 630.0,
+        "Low": 611.2,
+        "Close": 616.9,
+        "Percent Change": 0.13,
+        "Volume": 5222.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-23",
+        "Open": 606.2,
+        "High": 628.9,
+        "Low": 606.2,
+        "Close": 616.1,
+        "Percent Change": -0.15,
+        "Volume": 8813.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-22",
+        "Open": 621.0,
+        "High": 625.0,
+        "Low": 615.1,
+        "Close": 617.0,
+        "Percent Change": -1.63,
+        "Volume": 8280.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-21",
+        "Open": 628.2,
+        "High": 636.9,
+        "Low": 627.2,
+        "Close": 627.2,
+        "Percent Change": -1.98,
+        "Volume": 14941.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-18",
+        "Open": 640.0,
+        "High": 654.0,
+        "Low": 632.0,
+        "Close": 639.9,
+        "Percent Change": -1.81,
+        "Volume": 18012.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-17",
+        "Open": 661.0,
+        "High": 675.0,
+        "Low": 651.7,
+        "Close": 651.7,
+        "Percent Change": -1.41,
+        "Volume": 23240.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-16",
+        "Open": 659.0,
+        "High": 668.0,
+        "Low": 655.1,
+        "Close": 661.0,
+        "Percent Change": 1.4,
+        "Volume": 16162.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-14",
+        "Open": 635.0,
+        "High": 652.0,
+        "Low": 635.0,
+        "Close": 651.9,
+        "Percent Change": 2.66,
+        "Volume": 24908.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-11",
+        "Open": 644.0,
+        "High": 645.0,
+        "Low": 621.0,
+        "Close": 635.0,
+        "Percent Change": -1.4,
+        "Volume": 10938.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-10",
+        "Open": 625.0,
+        "High": 648.2,
+        "Low": 625.0,
+        "Close": 644.0,
+        "Percent Change": 3.37,
+        "Volume": 23168.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-09",
+        "Open": 615.0,
+        "High": 628.0,
+        "Low": 610.5,
+        "Close": 623.0,
+        "Percent Change": 0.81,
+        "Volume": 10637.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-08",
+        "Open": 602.1,
+        "High": 618.0,
+        "Low": 602.1,
+        "Close": 618.0,
+        "Percent Change": 1.31,
+        "Volume": 7586.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-07",
+        "Open": 610.0,
+        "High": 612.0,
+        "Low": 601.0,
+        "Close": 610.0,
+        "Percent Change": -1.61,
+        "Volume": 13112.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-04",
+        "Open": 604.1,
+        "High": 620.0,
+        "Low": 604.1,
+        "Close": 620.0,
+        "Percent Change": 0.98,
+        "Volume": 8025.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-03",
+        "Open": 603.9,
+        "High": 629.9,
+        "Low": 603.9,
+        "Close": 614.0,
+        "Percent Change": 0.49,
+        "Volume": 6759.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-02",
+        "Open": 613.1,
+        "High": 625.0,
+        "Low": 610.0,
+        "Close": 611.0,
+        "Percent Change": -1.45,
+        "Volume": 10805.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2024-01-01",
+        "Open": 615.7,
+        "High": 634.0,
+        "Low": 613.0,
+        "Close": 620.0,
+        "Percent Change": -1.27,
+        "Volume": 9883.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-28",
+        "Open": 616.0,
+        "High": 628.0,
+        "Low": 614.1,
+        "Close": 628.0,
+        "Percent Change": 0.03,
+        "Volume": 6722.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-27",
+        "Open": 620.0,
+        "High": 630.0,
+        "Low": 615.0,
+        "Close": 627.8,
+        "Percent Change": -0.35,
+        "Volume": 8042.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-24",
+        "Open": 637.0,
+        "High": 649.0,
+        "Low": 625.0,
+        "Close": 630.0,
+        "Percent Change": -2.93,
+        "Volume": 11964.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-21",
+        "Open": 660.0,
+        "High": 660.0,
+        "Low": 636.1,
+        "Close": 649.0,
+        "Percent Change": -2.26,
+        "Volume": 13513.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-20",
+        "Open": 679.3,
+        "High": 679.3,
+        "Low": 650.0,
+        "Close": 664.0,
+        "Percent Change": -0.3,
+        "Volume": 14819.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-19",
+        "Open": 670.0,
+        "High": 674.9,
+        "Low": 653.0,
+        "Close": 666.0,
+        "Percent Change": -1.77,
+        "Volume": 20028.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-18",
+        "Open": 643.0,
+        "High": 678.0,
+        "Low": 635.0,
+        "Close": 678.0,
+        "Percent Change": 5.51,
+        "Volume": 52989.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-17",
+        "Open": 630.0,
+        "High": 642.6,
+        "Low": 615.0,
+        "Close": 642.6,
+        "Percent Change": 0.25,
+        "Volume": 15411.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-14",
+        "Open": 613.5,
+        "High": 643.0,
+        "Low": 609.1,
+        "Close": 641.0,
+        "Percent Change": 2.4,
+        "Volume": 18293.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-13",
+        "Open": 622.0,
+        "High": 632.9,
+        "Low": 575.0,
+        "Close": 626.0,
+        "Percent Change": 2.64,
+        "Volume": 23291.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-12",
+        "Open": 605.0,
+        "High": 609.9,
+        "Low": 588.2,
+        "Close": 609.9,
+        "Percent Change": 0.81,
+        "Volume": 14270.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-11",
+        "Open": 606.7,
+        "High": 618.8,
+        "Low": 583.1,
+        "Close": 605.0,
+        "Percent Change": -2.26,
+        "Volume": 16312.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-10",
+        "Open": 595.6,
+        "High": 619.0,
+        "Low": 591.2,
+        "Close": 619.0,
+        "Percent Change": 5.99,
+        "Volume": 1018.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-07",
+        "Open": 563.5,
+        "High": 584.0,
+        "Low": 557.4,
+        "Close": 584.0,
+        "Percent Change": 1.57,
+        "Volume": 2606.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-06",
+        "Open": 566.5,
+        "High": 589.0,
+        "Low": 560.1,
+        "Close": 575.0,
+        "Percent Change": -0.52,
+        "Volume": 4545.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-05",
+        "Open": 581.2,
+        "High": 590.7,
+        "Low": 564.0,
+        "Close": 578.0,
+        "Percent Change": -2.53,
+        "Volume": 6798.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-04",
+        "Open": 593.9,
+        "High": 593.9,
+        "Low": 575.1,
+        "Close": 593.0,
+        "Percent Change": -2.15,
+        "Volume": 4177.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-12-03",
+        "Open": 573.5,
+        "High": 606.0,
+        "Low": 570.0,
+        "Close": 606.0,
+        "Percent Change": 3.61,
+        "Volume": 9869.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-30",
+        "Open": 576.3,
+        "High": 610.0,
+        "Low": 571.0,
+        "Close": 584.9,
+        "Percent Change": -0.53,
+        "Volume": 4847.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-29",
+        "Open": 614.5,
+        "High": 614.5,
+        "Low": 579.0,
+        "Close": 588.0,
+        "Percent Change": 1.2,
+        "Volume": 4182.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-28",
+        "Open": 590.0,
+        "High": 592.0,
+        "Low": 571.5,
+        "Close": 581.0,
+        "Percent Change": 0.17,
+        "Volume": 3796.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-27",
+        "Open": 581.7,
+        "High": 609.9,
+        "Low": 580.0,
+        "Close": 580.0,
+        "Percent Change": -2.27,
+        "Volume": 3538.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-26",
+        "Open": 568.4,
+        "High": 614.0,
+        "Low": 568.4,
+        "Close": 593.5,
+        "Percent Change": 2.35,
+        "Volume": 6029.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-23",
+        "Open": 566.5,
+        "High": 579.9,
+        "Low": 560.8,
+        "Close": 579.9,
+        "Percent Change": 0.33,
+        "Volume": 5006.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-22",
+        "Open": 563.0,
+        "High": 583.0,
+        "Low": 554.0,
+        "Close": 578.0,
+        "Percent Change": 0.7,
+        "Volume": 1276.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-21",
+        "Open": 573.0,
+        "High": 578.0,
+        "Low": 567.2,
+        "Close": 574.0,
+        "Percent Change": -1.7,
+        "Volume": 4125.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-20",
+        "Open": 580.0,
+        "High": 592.0,
+        "Low": 570.0,
+        "Close": 583.9,
+        "Percent Change": 0.5,
+        "Volume": 4266.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-09",
+        "Open": 590.0,
+        "High": 597.9,
+        "Low": 580.0,
+        "Close": 581.0,
+        "Percent Change": -2.84,
+        "Volume": 7586.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-08",
+        "Open": 594.2,
+        "High": 605.0,
+        "Low": 583.0,
+        "Close": 598.0,
+        "Percent Change": 0.0,
+        "Volume": 2644.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-07",
+        "Open": 581.4,
+        "High": 598.0,
+        "Low": 581.4,
+        "Close": 598.0,
+        "Percent Change": 1.36,
+        "Volume": 2780.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-06",
+        "Open": 601.8,
+        "High": 601.8,
+        "Low": 568.0,
+        "Close": 590.0,
+        "Percent Change": -3.91,
+        "Volume": 2210.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-05",
+        "Open": 570.0,
+        "High": 615.0,
+        "Low": 560.6,
+        "Close": 614.0,
+        "Percent Change": 6.97,
+        "Volume": 8506.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-02",
+        "Open": 573.3,
+        "High": 584.0,
+        "Low": 570.0,
+        "Close": 574.0,
+        "Percent Change": -1.88,
+        "Volume": 4159.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-11-01",
+        "Open": 585.1,
+        "High": 600.0,
+        "Low": 575.3,
+        "Close": 585.0,
+        "Percent Change": -1.68,
+        "Volume": 3386.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-31",
+        "Open": 588.0,
+        "High": 595.9,
+        "Low": 585.1,
+        "Close": 595.0,
+        "Percent Change": -0.83,
+        "Volume": 1723.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-30",
+        "Open": 596.7,
+        "High": 602.0,
+        "Low": 590.0,
+        "Close": 600.0,
+        "Percent Change": -1.43,
+        "Volume": 1048.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-29",
+        "Open": 596.0,
+        "High": 609.9,
+        "Low": 590.0,
+        "Close": 608.7,
+        "Percent Change": 0.36,
+        "Volume": 4160.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-19",
+        "Open": 615.0,
+        "High": 615.0,
+        "Low": 603.0,
+        "Close": 606.5,
+        "Percent Change": -1.38,
+        "Volume": 7312.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-18",
+        "Open": 600.9,
+        "High": 628.0,
+        "Low": 589.1,
+        "Close": 615.0,
+        "Percent Change": 1.82,
+        "Volume": 5391.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-17",
+        "Open": 615.0,
+        "High": 615.0,
+        "Low": 602.0,
+        "Close": 604.0,
+        "Percent Change": -0.71,
+        "Volume": 4577.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-16",
+        "Open": 615.1,
+        "High": 620.0,
+        "Low": 608.2,
+        "Close": 608.3,
+        "Percent Change": -1.25,
+        "Volume": 4049.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-12",
+        "Open": 615.1,
+        "High": 625.0,
+        "Low": 612.0,
+        "Close": 616.0,
+        "Percent Change": -1.44,
+        "Volume": 5508.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-11",
+        "Open": 610.1,
+        "High": 630.0,
+        "Low": 610.1,
+        "Close": 625.0,
+        "Percent Change": 0.81,
+        "Volume": 4301.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-10",
+        "Open": 615.0,
+        "High": 628.0,
+        "Low": 613.0,
+        "Close": 620.0,
+        "Percent Change": -0.8,
+        "Volume": 3815.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-09",
+        "Open": 628.1,
+        "High": 638.0,
+        "Low": 625.0,
+        "Close": 625.0,
+        "Percent Change": -2.19,
+        "Volume": 4714.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-08",
+        "Open": 654.0,
+        "High": 655.9,
+        "Low": 625.0,
+        "Close": 639.0,
+        "Percent Change": -2.29,
+        "Volume": 7837.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-05",
+        "Open": 647.3,
+        "High": 669.0,
+        "Low": 647.3,
+        "Close": 654.0,
+        "Percent Change": -0.91,
+        "Volume": 6255.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-04",
+        "Open": 647.0,
+        "High": 667.0,
+        "Low": 647.0,
+        "Close": 660.0,
+        "Percent Change": 0.46,
+        "Volume": 3049.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-03",
+        "Open": 652.7,
+        "High": 681.0,
+        "Low": 651.0,
+        "Close": 657.0,
+        "Percent Change": -1.35,
+        "Volume": 8256.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-02",
+        "Open": 642.3,
+        "High": 707.0,
+        "Low": 642.3,
+        "Close": 666.0,
+        "Percent Change": 1.68,
+        "Volume": 3261.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-10-01",
+        "Open": 653.7,
+        "High": 678.3,
+        "Low": 650.1,
+        "Close": 655.0,
+        "Percent Change": -1.8,
+        "Volume": 5463.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-27",
+        "Open": 669.9,
+        "High": 684.4,
+        "Low": 665.0,
+        "Close": 667.0,
+        "Percent Change": -2.41,
+        "Volume": 12648.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-26",
+        "Open": 665.5,
+        "High": 690.0,
+        "Low": 665.5,
+        "Close": 683.5,
+        "Percent Change": 0.66,
+        "Volume": 4775.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-25",
+        "Open": 681.2,
+        "High": 684.9,
+        "Low": 668.0,
+        "Close": 679.0,
+        "Percent Change": -2.3,
+        "Volume": 20840.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-24",
+        "Open": 677.7,
+        "High": 732.0,
+        "Low": 677.7,
+        "Close": 695.0,
+        "Percent Change": 0.51,
+        "Volume": 26935.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-21",
+        "Open": 659.0,
+        "High": 702.0,
+        "Low": 642.4,
+        "Close": 691.5,
+        "Percent Change": 6.42,
+        "Volume": 43423.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-19",
+        "Open": 640.0,
+        "High": 649.8,
+        "Low": 627.2,
+        "Close": 649.8,
+        "Percent Change": 2.49,
+        "Volume": 2233.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-18",
+        "Open": 630.0,
+        "High": 641.0,
+        "Low": 625.1,
+        "Close": 634.0,
+        "Percent Change": 0.79,
+        "Volume": 2285.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-17",
+        "Open": 643.5,
+        "High": 647.0,
+        "Low": 628.5,
+        "Close": 629.0,
+        "Percent Change": -4.12,
+        "Volume": 6446.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-13",
+        "Open": 653.0,
+        "High": 656.9,
+        "Low": 632.1,
+        "Close": 656.0,
+        "Percent Change": 2.34,
+        "Volume": 5010.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-12",
+        "Open": 644.9,
+        "High": 650.0,
+        "Low": 637.0,
+        "Close": 641.0,
+        "Percent Change": -2.58,
+        "Volume": 2225.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-11",
+        "Open": 629.1,
+        "High": 661.9,
+        "Low": 629.1,
+        "Close": 658.0,
+        "Percent Change": 2.51,
+        "Volume": 18424.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-10",
+        "Open": 636.1,
+        "High": 645.9,
+        "Low": 633.0,
+        "Close": 641.9,
+        "Percent Change": -1.09,
+        "Volume": 3580.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-07",
+        "Open": 625.3,
+        "High": 650.0,
+        "Low": 623.0,
+        "Close": 649.0,
+        "Percent Change": 1.72,
+        "Volume": 7190.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-05",
+        "Open": 635.1,
+        "High": 655.0,
+        "Low": 635.1,
+        "Close": 638.0,
+        "Percent Change": -1.54,
+        "Volume": 1878.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-04",
+        "Open": 633.9,
+        "High": 657.0,
+        "Low": 633.9,
+        "Close": 648.0,
+        "Percent Change": 0.47,
+        "Volume": 4525.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-09-03",
+        "Open": 665.9,
+        "High": 665.9,
+        "Low": 642.0,
+        "Close": 645.0,
+        "Percent Change": -1.23,
+        "Volume": 7552.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-30",
+        "Open": 644.7,
+        "High": 664.9,
+        "Low": 644.7,
+        "Close": 653.0,
+        "Percent Change": -0.67,
+        "Volume": 4183.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-29",
+        "Open": 660.0,
+        "High": 670.0,
+        "Low": 651.1,
+        "Close": 657.4,
+        "Percent Change": -0.98,
+        "Volume": 2309.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-28",
+        "Open": 647.0,
+        "High": 670.0,
+        "Low": 647.0,
+        "Close": 663.9,
+        "Percent Change": 0.59,
+        "Volume": 5655.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-27",
+        "Open": 652.0,
+        "High": 663.0,
+        "Low": 650.2,
+        "Close": 660.0,
+        "Percent Change": -0.45,
+        "Volume": 6231.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-24",
+        "Open": 661.0,
+        "High": 685.0,
+        "Low": 660.0,
+        "Close": 663.0,
+        "Percent Change": -1.34,
+        "Volume": 4810.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-23",
+        "Open": 664.8,
+        "High": 677.0,
+        "Low": 654.0,
+        "Close": 672.0,
+        "Percent Change": 1.66,
+        "Volume": 6455.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-22",
+        "Open": 655.0,
+        "High": 669.0,
+        "Low": 652.1,
+        "Close": 661.0,
+        "Percent Change": 0.0,
+        "Volume": 4118.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-21",
+        "Open": 656.0,
+        "High": 669.9,
+        "Low": 655.0,
+        "Close": 661.0,
+        "Percent Change": -0.32,
+        "Volume": 3922.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-20",
+        "Open": 665.0,
+        "High": 679.8,
+        "Low": 660.3,
+        "Close": 663.1,
+        "Percent Change": -2.0,
+        "Volume": 5270.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-17",
+        "Open": 653.0,
+        "High": 683.0,
+        "Low": 653.0,
+        "Close": 676.6,
+        "Percent Change": 2.36,
+        "Volume": 8700.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-16",
+        "Open": 656.7,
+        "High": 669.0,
+        "Low": 656.7,
+        "Close": 661.0,
+        "Percent Change": -1.34,
+        "Volume": 9639.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-15",
+        "Open": 656.1,
+        "High": 678.9,
+        "Low": 650.0,
+        "Close": 670.0,
+        "Percent Change": 0.42,
+        "Volume": 5604.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-14",
+        "Open": 680.0,
+        "High": 682.0,
+        "Low": 662.2,
+        "Close": 667.2,
+        "Percent Change": -1.14,
+        "Volume": 10373.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-13",
+        "Open": 667.0,
+        "High": 680.0,
+        "Low": 660.6,
+        "Close": 674.9,
+        "Percent Change": 0.13,
+        "Volume": 4599.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-10",
+        "Open": 654.6,
+        "High": 691.6,
+        "Low": 654.6,
+        "Close": 674.0,
+        "Percent Change": 0.91,
+        "Volume": 4947.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-09",
+        "Open": 649.6,
+        "High": 669.9,
+        "Low": 649.6,
+        "Close": 667.9,
+        "Percent Change": 0.77,
+        "Volume": 5112.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-08",
+        "Open": 679.8,
+        "High": 679.8,
+        "Low": 652.0,
+        "Close": 662.8,
+        "Percent Change": -0.6,
+        "Volume": 4463.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-07",
+        "Open": 656.0,
+        "High": 673.2,
+        "Low": 650.0,
+        "Close": 666.8,
+        "Percent Change": 1.65,
+        "Volume": 5257.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-06",
+        "Open": 675.0,
+        "High": 675.2,
+        "Low": 655.0,
+        "Close": 656.0,
+        "Percent Change": -4.37,
+        "Volume": 5928.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-03",
+        "Open": 677.0,
+        "High": 686.0,
+        "Low": 652.0,
+        "Close": 686.0,
+        "Percent Change": 3.19,
+        "Volume": 10637.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-02",
+        "Open": 667.0,
+        "High": 667.0,
+        "Low": 650.0,
+        "Close": 664.8,
+        "Percent Change": 0.42,
+        "Volume": 5423.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-08-01",
+        "Open": 679.0,
+        "High": 690.0,
+        "Low": 662.0,
+        "Close": 662.0,
+        "Percent Change": -2.32,
+        "Volume": 6707.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-31",
+        "Open": 680.0,
+        "High": 698.0,
+        "Low": 674.0,
+        "Close": 677.7,
+        "Percent Change": -1.04,
+        "Volume": 6236.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-30",
+        "Open": 692.0,
+        "High": 694.5,
+        "Low": 682.0,
+        "Close": 684.8,
+        "Percent Change": -2.73,
+        "Volume": 5524.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-27",
+        "Open": 705.0,
+        "High": 719.0,
+        "Low": 690.0,
+        "Close": 704.0,
+        "Percent Change": -2.09,
+        "Volume": 9206.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-26",
+        "Open": 715.0,
+        "High": 730.0,
+        "Low": 701.1,
+        "Close": 719.0,
+        "Percent Change": 0.14,
+        "Volume": 9427.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-25",
+        "Open": 725.0,
+        "High": 735.0,
+        "Low": 718.0,
+        "Close": 718.0,
+        "Percent Change": -2.05,
+        "Volume": 5067.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-24",
+        "Open": 739.1,
+        "High": 750.0,
+        "Low": 730.0,
+        "Close": 733.0,
+        "Percent Change": -2.79,
+        "Volume": 10723.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-23",
+        "Open": 739.0,
+        "High": 765.0,
+        "Low": 729.0,
+        "Close": 754.0,
+        "Percent Change": 2.17,
+        "Volume": 7895.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-20",
+        "Open": 728.1,
+        "High": 750.7,
+        "Low": 728.0,
+        "Close": 738.0,
+        "Percent Change": -0.54,
+        "Volume": 7564.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-19",
+        "Open": 745.0,
+        "High": 752.0,
+        "Low": 730.2,
+        "Close": 742.0,
+        "Percent Change": -0.13,
+        "Volume": 7312.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-18",
+        "Open": 739.0,
+        "High": 780.0,
+        "Low": 735.0,
+        "Close": 743.0,
+        "Percent Change": -1.46,
+        "Volume": 7290.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-17",
+        "Open": 714.8,
+        "High": 754.0,
+        "Low": 714.8,
+        "Close": 754.0,
+        "Percent Change": 3.43,
+        "Volume": 5329.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-16",
+        "Open": 725.0,
+        "High": 729.0,
+        "Low": 718.2,
+        "Close": 729.0,
+        "Percent Change": 0.54,
+        "Volume": 4638.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-13",
+        "Open": 749.7,
+        "High": 749.7,
+        "Low": 725.0,
+        "Close": 725.1,
+        "Percent Change": -1.35,
+        "Volume": 14696.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-12",
+        "Open": 710.0,
+        "High": 735.0,
+        "Low": 701.0,
+        "Close": 735.0,
+        "Percent Change": 3.38,
+        "Volume": 11546.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-11",
+        "Open": 725.0,
+        "High": 725.0,
+        "Low": 706.2,
+        "Close": 711.0,
+        "Percent Change": -1.25,
+        "Volume": 4155.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-10",
+        "Open": 715.0,
+        "High": 748.0,
+        "Low": 705.0,
+        "Close": 720.0,
+        "Percent Change": 2.13,
+        "Volume": 12468.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-09",
+        "Open": 707.0,
+        "High": 710.1,
+        "Low": 696.1,
+        "Close": 705.0,
+        "Percent Change": 1.59,
+        "Volume": 7834.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-06",
+        "Open": 695.0,
+        "High": 702.0,
+        "Low": 688.0,
+        "Close": 694.0,
+        "Percent Change": -0.87,
+        "Volume": 5527.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-05",
+        "Open": 710.0,
+        "High": 715.0,
+        "Low": 700.0,
+        "Close": 700.1,
+        "Percent Change": -2.49,
+        "Volume": 10295.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-04",
+        "Open": 720.0,
+        "High": 729.0,
+        "Low": 704.1,
+        "Close": 718.0,
+        "Percent Change": 0.42,
+        "Volume": 7574.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-03",
+        "Open": 708.0,
+        "High": 727.0,
+        "Low": 694.1,
+        "Close": 715.0,
+        "Percent Change": -0.96,
+        "Volume": 12233.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-07-02",
+        "Open": 748.0,
+        "High": 748.0,
+        "Low": 700.0,
+        "Close": 721.9,
+        "Percent Change": -3.49,
+        "Volume": 21058.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-28",
+        "Open": 788.7,
+        "High": 788.7,
+        "Low": 737.0,
+        "Close": 748.0,
+        "Percent Change": -3.27,
+        "Volume": 18919.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-27",
+        "Open": 703.0,
+        "High": 773.3,
+        "Low": 703.0,
+        "Close": 773.3,
+        "Percent Change": 10.0,
+        "Volume": 35822.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-26",
+        "Open": 666.0,
+        "High": 703.0,
+        "Low": 655.4,
+        "Close": 703.0,
+        "Percent Change": 5.57,
+        "Volume": 29205.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-25",
+        "Open": 662.9,
+        "High": 669.0,
+        "Low": 642.0,
+        "Close": 665.9,
+        "Percent Change": 2.45,
+        "Volume": 21439.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-22",
+        "Open": 650.1,
+        "High": 663.0,
+        "Low": 638.1,
+        "Close": 650.0,
+        "Percent Change": -1.95,
+        "Volume": 8740.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-21",
+        "Open": 646.8,
+        "High": 663.0,
+        "Low": 634.0,
+        "Close": 662.9,
+        "Percent Change": 0.44,
+        "Volume": 9347.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-20",
+        "Open": 662.9,
+        "High": 675.0,
+        "Low": 642.0,
+        "Close": 660.0,
+        "Percent Change": -0.6,
+        "Volume": 11773.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-19",
+        "Open": 666.0,
+        "High": 675.0,
+        "Low": 648.0,
+        "Close": 664.0,
+        "Percent Change": -0.45,
+        "Volume": 9400.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-18",
+        "Open": 630.0,
+        "High": 670.0,
+        "Low": 630.0,
+        "Close": 667.0,
+        "Percent Change": 5.29,
+        "Volume": 10745.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-15",
+        "Open": 660.0,
+        "High": 660.0,
+        "Low": 626.0,
+        "Close": 633.5,
+        "Percent Change": -2.54,
+        "Volume": 12072.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-14",
+        "Open": 637.0,
+        "High": 663.0,
+        "Low": 637.0,
+        "Close": 650.0,
+        "Percent Change": 0.46,
+        "Volume": 15172.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-13",
+        "Open": 621.4,
+        "High": 650.0,
+        "Low": 615.0,
+        "Close": 647.0,
+        "Percent Change": 2.05,
+        "Volume": 17608.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-12",
+        "Open": 615.3,
+        "High": 634.0,
+        "Low": 615.3,
+        "Close": 634.0,
+        "Percent Change": 1.44,
+        "Volume": 15005.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-11",
+        "Open": 609.0,
+        "High": 626.9,
+        "Low": 601.0,
+        "Close": 625.0,
+        "Percent Change": 4.18,
+        "Volume": 10734.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-08",
+        "Open": 595.0,
+        "High": 602.0,
+        "Low": 583.2,
+        "Close": 599.9,
+        "Percent Change": 0.99,
+        "Volume": 8421.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-07",
+        "Open": 567.0,
+        "High": 595.0,
+        "Low": 567.0,
+        "Close": 594.0,
+        "Percent Change": 3.85,
+        "Volume": 12455.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-06",
+        "Open": 561.2,
+        "High": 580.0,
+        "Low": 561.2,
+        "Close": 572.0,
+        "Percent Change": 0.0,
+        "Volume": 4443.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-05",
+        "Open": 570.0,
+        "High": 583.0,
+        "Low": 567.1,
+        "Close": 572.0,
+        "Percent Change": 0.18,
+        "Volume": 5109.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-04",
+        "Open": 576.3,
+        "High": 598.0,
+        "Low": 564.0,
+        "Close": 571.0,
+        "Percent Change": 1.06,
+        "Volume": 5920.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-06-01",
+        "Open": 579.0,
+        "High": 579.0,
+        "Low": 549.4,
+        "Close": 565.0,
+        "Percent Change": -1.21,
+        "Volume": 3854.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-31",
+        "Open": 551.0,
+        "High": 571.9,
+        "Low": 541.0,
+        "Close": 571.9,
+        "Percent Change": 2.13,
+        "Volume": 10709.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-30",
+        "Open": 582.0,
+        "High": 582.0,
+        "Low": 557.1,
+        "Close": 560.0,
+        "Percent Change": -3.78,
+        "Volume": 20577.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-28",
+        "Open": 597.0,
+        "High": 608.0,
+        "Low": 580.3,
+        "Close": 582.0,
+        "Percent Change": -2.51,
+        "Volume": 14744.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-24",
+        "Open": 572.9,
+        "High": 603.0,
+        "Low": 566.0,
+        "Close": 597.0,
+        "Percent Change": 4.21,
+        "Volume": 11027.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-23",
+        "Open": 550.0,
+        "High": 573.2,
+        "Low": 550.0,
+        "Close": 572.9,
+        "Percent Change": 3.24,
+        "Volume": 15348.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-22",
+        "Open": 537.0,
+        "High": 558.9,
+        "Low": 532.1,
+        "Close": 554.9,
+        "Percent Change": 2.32,
+        "Volume": 4997.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-21",
+        "Open": 555.0,
+        "High": 555.0,
+        "Low": 535.0,
+        "Close": 542.3,
+        "Percent Change": -0.68,
+        "Volume": 4437.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-18",
+        "Open": 520.0,
+        "High": 555.9,
+        "Low": 520.0,
+        "Close": 546.0,
+        "Percent Change": 3.62,
+        "Volume": 3391.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-17",
+        "Open": 525.0,
+        "High": 542.0,
+        "Low": 522.0,
+        "Close": 526.9,
+        "Percent Change": -0.96,
+        "Volume": 6316.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-16",
+        "Open": 526.0,
+        "High": 532.0,
+        "Low": 516.3,
+        "Close": 532.0,
+        "Percent Change": 1.08,
+        "Volume": 4305.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-15",
+        "Open": 516.0,
+        "High": 530.4,
+        "Low": 516.0,
+        "Close": 526.3,
+        "Percent Change": 0.01,
+        "Volume": 5800.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-14",
+        "Open": 535.1,
+        "High": 538.0,
+        "Low": 520.0,
+        "Close": 520.0,
+        "Percent Change": -2.8,
+        "Volume": 5902.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-11",
+        "Open": 536.0,
+        "High": 540.0,
+        "Low": 531.0,
+        "Close": 535.0,
+        "Percent Change": -0.93,
+        "Volume": 1305.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-10",
+        "Open": 538.1,
+        "High": 540.0,
+        "Low": 531.0,
+        "Close": 540.0,
+        "Percent Change": -0.74,
+        "Volume": 2202.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-09",
+        "Open": 530.0,
+        "High": 547.9,
+        "Low": 529.6,
+        "Close": 544.0,
+        "Percent Change": 0.93,
+        "Volume": 1930.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-08",
+        "Open": 536.0,
+        "High": 541.9,
+        "Low": 528.0,
+        "Close": 539.0,
+        "Percent Change": 0.37,
+        "Volume": 4752.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-07",
+        "Open": 536.0,
+        "High": 545.8,
+        "Low": 536.0,
+        "Close": 537.0,
+        "Percent Change": -1.47,
+        "Volume": 2312.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-04",
+        "Open": 540.0,
+        "High": 548.0,
+        "Low": 537.1,
+        "Close": 545.0,
+        "Percent Change": 0.65,
+        "Volume": 2626.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-03",
+        "Open": 561.0,
+        "High": 569.4,
+        "Low": 539.3,
+        "Close": 541.5,
+        "Percent Change": -1.55,
+        "Volume": 2901.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-05-02",
+        "Open": 547.0,
+        "High": 568.0,
+        "Low": 538.1,
+        "Close": 550.0,
+        "Percent Change": 0.55,
+        "Volume": 4571.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-30",
+        "Open": 555.0,
+        "High": 555.0,
+        "Low": 542.0,
+        "Close": 547.0,
+        "Percent Change": -1.44,
+        "Volume": 4905.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-27",
+        "Open": 555.0,
+        "High": 563.0,
+        "Low": 548.0,
+        "Close": 555.0,
+        "Percent Change": -0.72,
+        "Volume": 5324.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-26",
+        "Open": 555.0,
+        "High": 571.2,
+        "Low": 555.0,
+        "Close": 559.0,
+        "Percent Change": 0.36,
+        "Volume": 2542.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-25",
+        "Open": 556.0,
+        "High": 570.0,
+        "Low": 555.0,
+        "Close": 557.0,
+        "Percent Change": -0.89,
+        "Volume": 5066.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-24",
+        "Open": 563.0,
+        "High": 563.0,
+        "Low": 555.0,
+        "Close": 562.0,
+        "Percent Change": -0.18,
+        "Volume": 1833.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-23",
+        "Open": 549.0,
+        "High": 567.0,
+        "Low": 549.0,
+        "Close": 563.0,
+        "Percent Change": 0.54,
+        "Volume": 1784.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-20",
+        "Open": 568.1,
+        "High": 578.9,
+        "Low": 560.0,
+        "Close": 560.0,
+        "Percent Change": -3.33,
+        "Volume": 6391.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-19",
+        "Open": 584.3,
+        "High": 584.3,
+        "Low": 566.0,
+        "Close": 579.3,
+        "Percent Change": 1.12,
+        "Volume": 1525.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-18",
+        "Open": 580.0,
+        "High": 580.0,
+        "Low": 565.0,
+        "Close": 572.9,
+        "Percent Change": -0.02,
+        "Volume": 4016.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-17",
+        "Open": 575.0,
+        "High": 584.0,
+        "Low": 565.0,
+        "Close": 573.0,
+        "Percent Change": -1.88,
+        "Volume": 6106.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-16",
+        "Open": 588.8,
+        "High": 588.8,
+        "Low": 569.0,
+        "Close": 584.0,
+        "Percent Change": -1.35,
+        "Volume": 3924.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-13",
+        "Open": 601.0,
+        "High": 613.0,
+        "Low": 585.1,
+        "Close": 592.0,
+        "Percent Change": 0.34,
+        "Volume": 22541.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-12",
+        "Open": 585.0,
+        "High": 598.0,
+        "Low": 562.5,
+        "Close": 590.0,
+        "Percent Change": 2.81,
+        "Volume": 9766.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-11",
+        "Open": 550.0,
+        "High": 574.0,
+        "Low": 550.0,
+        "Close": 573.9,
+        "Percent Change": 2.74,
+        "Volume": 3076.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-10",
+        "Open": 567.0,
+        "High": 572.0,
+        "Low": 556.1,
+        "Close": 558.6,
+        "Percent Change": 0.29,
+        "Volume": 2463.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-09",
+        "Open": 563.0,
+        "High": 570.0,
+        "Low": 555.2,
+        "Close": 557.0,
+        "Percent Change": -2.28,
+        "Volume": 3736.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-06",
+        "Open": 584.0,
+        "High": 584.0,
+        "Low": 556.1,
+        "Close": 570.0,
+        "Percent Change": -1.04,
+        "Volume": 6289.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-05",
+        "Open": 558.0,
+        "High": 576.0,
+        "Low": 558.0,
+        "Close": 576.0,
+        "Percent Change": 1.77,
+        "Volume": 1749.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-04",
+        "Open": 570.0,
+        "High": 575.0,
+        "Low": 556.0,
+        "Close": 566.0,
+        "Percent Change": 0.35,
+        "Volume": 2569.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-03",
+        "Open": 560.0,
+        "High": 570.0,
+        "Low": 556.0,
+        "Close": 564.0,
+        "Percent Change": -1.05,
+        "Volume": 2712.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-04-02",
+        "Open": 578.0,
+        "High": 589.5,
+        "Low": 569.0,
+        "Close": 570.0,
+        "Percent Change": -1.38,
+        "Volume": 5932.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-30",
+        "Open": 580.0,
+        "High": 583.8,
+        "Low": 569.0,
+        "Close": 578.0,
+        "Percent Change": -0.33,
+        "Volume": 3843.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-29",
+        "Open": 590.0,
+        "High": 590.0,
+        "Low": 565.0,
+        "Close": 579.9,
+        "Percent Change": -0.09,
+        "Volume": 1775.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-28",
+        "Open": 560.0,
+        "High": 589.5,
+        "Low": 558.4,
+        "Close": 580.4,
+        "Percent Change": 2.73,
+        "Volume": 5967.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-27",
+        "Open": 544.0,
+        "High": 566.1,
+        "Low": 544.0,
+        "Close": 565.0,
+        "Percent Change": 1.8,
+        "Volume": 4326.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-26",
+        "Open": 555.0,
+        "High": 560.0,
+        "Low": 550.0,
+        "Close": 555.0,
+        "Percent Change": -1.6,
+        "Volume": 7212.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-23",
+        "Open": 572.0,
+        "High": 572.0,
+        "Low": 559.0,
+        "Close": 564.0,
+        "Percent Change": -1.02,
+        "Volume": 5277.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-22",
+        "Open": 574.0,
+        "High": 580.0,
+        "Low": 565.2,
+        "Close": 569.8,
+        "Percent Change": -0.21,
+        "Volume": 5419.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-20",
+        "Open": 560.0,
+        "High": 576.0,
+        "Low": 560.0,
+        "Close": 571.0,
+        "Percent Change": 0.37,
+        "Volume": 2908.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-19",
+        "Open": 566.1,
+        "High": 575.0,
+        "Low": 560.3,
+        "Close": 568.9,
+        "Percent Change": -0.45,
+        "Volume": 10424.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-16",
+        "Open": 566.0,
+        "High": 575.0,
+        "Low": 561.0,
+        "Close": 571.5,
+        "Percent Change": -0.09,
+        "Volume": 5752.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-15",
+        "Open": 572.4,
+        "High": 580.0,
+        "Low": 565.2,
+        "Close": 572.0,
+        "Percent Change": -2.05,
+        "Volume": 12401.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-14",
+        "Open": 577.2,
+        "High": 586.0,
+        "Low": 570.0,
+        "Close": 584.0,
+        "Percent Change": -0.68,
+        "Volume": 10829.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-13",
+        "Open": 595.0,
+        "High": 595.0,
+        "Low": 576.2,
+        "Close": 588.0,
+        "Percent Change": 0.0,
+        "Volume": 3941.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-12",
+        "Open": 610.8,
+        "High": 610.8,
+        "Low": 582.2,
+        "Close": 588.0,
+        "Percent Change": -1.82,
+        "Volume": 7450.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-09",
+        "Open": 588.0,
+        "High": 598.9,
+        "Low": 581.0,
+        "Close": 598.9,
+        "Percent Change": 3.44,
+        "Volume": 5850.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-07",
+        "Open": 590.0,
+        "High": 594.0,
+        "Low": 570.0,
+        "Close": 579.0,
+        "Percent Change": -1.86,
+        "Volume": 14029.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-05",
+        "Open": 610.0,
+        "High": 613.0,
+        "Low": 588.0,
+        "Close": 590.0,
+        "Percent Change": -1.83,
+        "Volume": 6242.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-02",
+        "Open": 600.5,
+        "High": 624.7,
+        "Low": 600.5,
+        "Close": 601.0,
+        "Percent Change": -1.91,
+        "Volume": 5096.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-03-01",
+        "Open": 646.0,
+        "High": 646.0,
+        "Low": 600.0,
+        "Close": 612.7,
+        "Percent Change": -5.15,
+        "Volume": 15303.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-28",
+        "Open": 640.2,
+        "High": 654.8,
+        "Low": 640.0,
+        "Close": 646.0,
+        "Percent Change": -0.77,
+        "Volume": 4600.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-27",
+        "Open": 663.9,
+        "High": 668.0,
+        "Low": 640.0,
+        "Close": 651.0,
+        "Percent Change": -0.61,
+        "Volume": 6219.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-26",
+        "Open": 616.6,
+        "High": 660.0,
+        "Low": 597.1,
+        "Close": 655.0,
+        "Percent Change": 4.12,
+        "Volume": 14919.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-23",
+        "Open": 685.2,
+        "High": 687.0,
+        "Low": 629.1,
+        "Close": 629.1,
+        "Percent Change": -10.0,
+        "Volume": 38612.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-22",
+        "Open": 706.0,
+        "High": 714.0,
+        "Low": 696.0,
+        "Close": 699.0,
+        "Percent Change": -0.99,
+        "Volume": 7920.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-20",
+        "Open": 710.0,
+        "High": 714.0,
+        "Low": 700.0,
+        "Close": 706.0,
+        "Percent Change": -1.67,
+        "Volume": 6031.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-16",
+        "Open": 714.0,
+        "High": 730.0,
+        "Low": 710.5,
+        "Close": 718.0,
+        "Percent Change": -0.97,
+        "Volume": 5624.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-15",
+        "Open": 721.1,
+        "High": 730.0,
+        "Low": 720.0,
+        "Close": 725.0,
+        "Percent Change": -1.23,
+        "Volume": 3976.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-14",
+        "Open": 740.0,
+        "High": 745.0,
+        "Low": 722.0,
+        "Close": 734.0,
+        "Percent Change": -1.48,
+        "Volume": 8017.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-12",
+        "Open": 752.8,
+        "High": 755.0,
+        "Low": 745.0,
+        "Close": 745.0,
+        "Percent Change": -2.99,
+        "Volume": 4265.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-09",
+        "Open": 770.0,
+        "High": 779.1,
+        "Low": 752.1,
+        "Close": 768.0,
+        "Percent Change": 0.52,
+        "Volume": 4572.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-08",
+        "Open": 775.0,
+        "High": 785.0,
+        "Low": 760.0,
+        "Close": 764.0,
+        "Percent Change": -1.16,
+        "Volume": 4213.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-07",
+        "Open": 746.0,
+        "High": 775.0,
+        "Low": 746.0,
+        "Close": 773.0,
+        "Percent Change": 3.54,
+        "Volume": 5157.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-06",
+        "Open": 750.0,
+        "High": 760.0,
+        "Low": 740.0,
+        "Close": 746.6,
+        "Percent Change": 0.08,
+        "Volume": 6606.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-05",
+        "Open": 735.1,
+        "High": 759.9,
+        "Low": 735.1,
+        "Close": 746.0,
+        "Percent Change": 0.13,
+        "Volume": 4630.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-02",
+        "Open": 758.0,
+        "High": 775.0,
+        "Low": 745.0,
+        "Close": 745.0,
+        "Percent Change": -2.49,
+        "Volume": 7424.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-02-01",
+        "Open": 765.0,
+        "High": 777.0,
+        "Low": 763.0,
+        "Close": 764.0,
+        "Percent Change": -1.8,
+        "Volume": 5149.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-31",
+        "Open": 775.0,
+        "High": 785.0,
+        "Low": 770.0,
+        "Close": 778.0,
+        "Percent Change": -1.52,
+        "Volume": 14252.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-30",
+        "Open": 790.3,
+        "High": 810.0,
+        "Low": 789.0,
+        "Close": 790.0,
+        "Percent Change": -1.86,
+        "Volume": 6259.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-29",
+        "Open": 806.9,
+        "High": 823.0,
+        "Low": 805.0,
+        "Close": 805.0,
+        "Percent Change": -2.19,
+        "Volume": 6204.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-26",
+        "Open": 811.0,
+        "High": 836.0,
+        "Low": 811.0,
+        "Close": 823.0,
+        "Percent Change": -0.35,
+        "Volume": 4193.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-25",
+        "Open": 808.0,
+        "High": 837.4,
+        "Low": 805.0,
+        "Close": 825.9,
+        "Percent Change": 2.22,
+        "Volume": 13107.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-24",
+        "Open": 801.0,
+        "High": 816.0,
+        "Low": 801.0,
+        "Close": 808.0,
+        "Percent Change": -0.86,
+        "Volume": 6286.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-23",
+        "Open": 822.0,
+        "High": 828.0,
+        "Low": 810.0,
+        "Close": 815.0,
+        "Percent Change": -1.81,
+        "Volume": 8974.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-19",
+        "Open": 822.0,
+        "High": 830.0,
+        "Low": 810.0,
+        "Close": 830.0,
+        "Percent Change": 1.1,
+        "Volume": 5919.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-18",
+        "Open": 821.0,
+        "High": 840.4,
+        "Low": 816.1,
+        "Close": 821.0,
+        "Percent Change": -0.36,
+        "Volume": 15629.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-17",
+        "Open": 820.0,
+        "High": 833.3,
+        "Low": 809.0,
+        "Close": 824.0,
+        "Percent Change": 0.49,
+        "Volume": 8482.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-12",
+        "Open": 856.0,
+        "High": 873.0,
+        "Low": 806.5,
+        "Close": 820.0,
+        "Percent Change": -2.38,
+        "Volume": 18556.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-10",
+        "Open": 852.0,
+        "High": 878.0,
+        "Low": 825.0,
+        "Close": 840.0,
+        "Percent Change": -1.41,
+        "Volume": 34734.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-09",
+        "Open": 840.0,
+        "High": 854.0,
+        "Low": 828.0,
+        "Close": 852.0,
+        "Percent Change": 1.43,
+        "Volume": 13176.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-08",
+        "Open": 859.0,
+        "High": 861.0,
+        "Low": 828.2,
+        "Close": 840.0,
+        "Percent Change": -0.59,
+        "Volume": 18815.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-05",
+        "Open": 856.8,
+        "High": 860.0,
+        "Low": 816.4,
+        "Close": 845.0,
+        "Percent Change": 0.6,
+        "Volume": 22895.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-04",
+        "Open": 800.0,
+        "High": 843.0,
+        "Low": 793.0,
+        "Close": 840.0,
+        "Percent Change": 6.46,
+        "Volume": 20309.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-03",
+        "Open": 753.0,
+        "High": 809.0,
+        "Low": 752.0,
+        "Close": 789.0,
+        "Percent Change": 4.34,
+        "Volume": 17283.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-02",
+        "Open": 750.0,
+        "High": 774.0,
+        "Low": 745.0,
+        "Close": 756.2,
+        "Percent Change": 0.03,
+        "Volume": 9771.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2023-01-01",
+        "Open": 755.0,
+        "High": 775.0,
+        "Low": 744.0,
+        "Close": 756.0,
+        "Percent Change": -1.16,
+        "Volume": 11130.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-29",
+        "Open": 727.0,
+        "High": 764.9,
+        "Low": 727.0,
+        "Close": 764.9,
+        "Percent Change": 4.49,
+        "Volume": 7211.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-28",
+        "Open": 744.0,
+        "High": 745.0,
+        "Low": 730.1,
+        "Close": 732.0,
+        "Percent Change": -1.74,
+        "Volume": 3263.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-27",
+        "Open": 748.0,
+        "High": 753.0,
+        "Low": 735.0,
+        "Close": 745.0,
+        "Percent Change": 1.44,
+        "Volume": 11593.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-26",
+        "Open": 710.0,
+        "High": 734.4,
+        "Low": 709.0,
+        "Close": 734.4,
+        "Percent Change": 4.45,
+        "Volume": 3639.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-22",
+        "Open": 700.0,
+        "High": 714.0,
+        "Low": 693.2,
+        "Close": 703.1,
+        "Percent Change": -0.11,
+        "Volume": 4262.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-21",
+        "Open": 705.6,
+        "High": 719.4,
+        "Low": 700.0,
+        "Close": 703.9,
+        "Percent Change": -2.24,
+        "Volume": 4167.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-20",
+        "Open": 710.0,
+        "High": 720.0,
+        "Low": 700.0,
+        "Close": 720.0,
+        "Percent Change": 1.41,
+        "Volume": 3588.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-19",
+        "Open": 688.0,
+        "High": 710.0,
+        "Low": 687.3,
+        "Close": 710.0,
+        "Percent Change": 1.87,
+        "Volume": 3273.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-18",
+        "Open": 702.0,
+        "High": 705.0,
+        "Low": 694.0,
+        "Close": 697.0,
+        "Percent Change": -1.33,
+        "Volume": 3962.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-15",
+        "Open": 710.0,
+        "High": 715.0,
+        "Low": 703.2,
+        "Close": 706.4,
+        "Percent Change": -0.65,
+        "Volume": 1417.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-14",
+        "Open": 702.2,
+        "High": 715.0,
+        "Low": 702.2,
+        "Close": 711.0,
+        "Percent Change": -0.56,
+        "Volume": 1530.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-13",
+        "Open": 711.0,
+        "High": 720.0,
+        "Low": 710.5,
+        "Close": 715.0,
+        "Percent Change": 0.35,
+        "Volume": 1360.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-12",
+        "Open": 717.0,
+        "High": 718.0,
+        "Low": 710.2,
+        "Close": 712.5,
+        "Percent Change": 0.35,
+        "Volume": 2619.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-11",
+        "Open": 710.0,
+        "High": 717.0,
+        "Low": 703.0,
+        "Close": 710.0,
+        "Percent Change": -1.39,
+        "Volume": 3439.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-07",
+        "Open": 723.0,
+        "High": 729.0,
+        "Low": 716.0,
+        "Close": 720.0,
+        "Percent Change": -1.23,
+        "Volume": 2288.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-06",
+        "Open": 730.0,
+        "High": 730.9,
+        "Low": 720.0,
+        "Close": 729.0,
+        "Percent Change": 0.4,
+        "Volume": 3692.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-05",
+        "Open": 743.0,
+        "High": 743.0,
+        "Low": 725.1,
+        "Close": 726.1,
+        "Percent Change": -2.27,
+        "Volume": 4128.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-04",
+        "Open": 735.0,
+        "High": 756.0,
+        "Low": 735.0,
+        "Close": 743.0,
+        "Percent Change": 0.13,
+        "Volume": 3561.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-12-01",
+        "Open": 745.0,
+        "High": 760.0,
+        "Low": 731.5,
+        "Close": 742.0,
+        "Percent Change": -0.2,
+        "Volume": 8869.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-30",
+        "Open": 733.7,
+        "High": 746.0,
+        "Low": 733.3,
+        "Close": 743.5,
+        "Percent Change": -0.6,
+        "Volume": 2816.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-29",
+        "Open": 723.2,
+        "High": 750.0,
+        "Low": 723.0,
+        "Close": 748.0,
+        "Percent Change": 1.91,
+        "Volume": 3745.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-28",
+        "Open": 725.5,
+        "High": 739.0,
+        "Low": 725.5,
+        "Close": 734.0,
+        "Percent Change": -0.41,
+        "Volume": 5479.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-27",
+        "Open": 711.0,
+        "High": 737.0,
+        "Low": 711.0,
+        "Close": 737.0,
+        "Percent Change": 3.66,
+        "Volume": 6941.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-24",
+        "Open": 702.0,
+        "High": 717.6,
+        "Low": 702.0,
+        "Close": 711.0,
+        "Percent Change": 0.14,
+        "Volume": 1912.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-23",
+        "Open": 728.0,
+        "High": 728.0,
+        "Low": 706.0,
+        "Close": 710.0,
+        "Percent Change": -1.39,
+        "Volume": 1462.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-22",
+        "Open": 729.0,
+        "High": 730.0,
+        "Low": 706.0,
+        "Close": 720.0,
+        "Percent Change": 0.15,
+        "Volume": 1760.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-17",
+        "Open": 723.0,
+        "High": 723.0,
+        "Low": 712.1,
+        "Close": 718.9,
+        "Percent Change": 1.25,
+        "Volume": 2325.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-16",
+        "Open": 704.1,
+        "High": 715.0,
+        "Low": 704.0,
+        "Close": 710.0,
+        "Percent Change": 0.55,
+        "Volume": 3311.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-15",
+        "Open": 703.0,
+        "High": 719.0,
+        "Low": 703.0,
+        "Close": 706.1,
+        "Percent Change": -0.69,
+        "Volume": 1735.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-14",
+        "Open": 704.0,
+        "High": 714.0,
+        "Low": 703.0,
+        "Close": 711.0,
+        "Percent Change": 0.42,
+        "Volume": 1736.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-13",
+        "Open": 720.0,
+        "High": 720.0,
+        "Low": 705.0,
+        "Close": 708.0,
+        "Percent Change": -1.67,
+        "Volume": 2770.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-10",
+        "Open": 720.0,
+        "High": 740.0,
+        "Low": 710.0,
+        "Close": 720.0,
+        "Percent Change": -0.96,
+        "Volume": 4400.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-09",
+        "Open": 735.1,
+        "High": 738.0,
+        "Low": 721.0,
+        "Close": 727.0,
+        "Percent Change": -2.15,
+        "Volume": 4758.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-08",
+        "Open": 739.0,
+        "High": 751.0,
+        "Low": 737.1,
+        "Close": 743.0,
+        "Percent Change": -0.13,
+        "Volume": 3025.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-07",
+        "Open": 793.5,
+        "High": 793.5,
+        "Low": 735.0,
+        "Close": 744.0,
+        "Percent Change": -4.37,
+        "Volume": 18217.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-06",
+        "Open": 731.1,
+        "High": 784.0,
+        "Low": 731.1,
+        "Close": 778.0,
+        "Percent Change": 5.41,
+        "Volume": 8451.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-03",
+        "Open": 760.0,
+        "High": 760.0,
+        "Low": 735.3,
+        "Close": 738.1,
+        "Percent Change": -2.75,
+        "Volume": 3485.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-02",
+        "Open": 742.0,
+        "High": 779.0,
+        "Low": 735.0,
+        "Close": 759.0,
+        "Percent Change": 1.23,
+        "Volume": 5252.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-11-01",
+        "Open": 715.0,
+        "High": 749.8,
+        "Low": 712.1,
+        "Close": 749.8,
+        "Percent Change": 4.14,
+        "Volume": 6421.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-10-31",
+        "Open": 706.0,
+        "High": 720.0,
+        "Low": 705.1,
+        "Close": 720.0,
+        "Percent Change": 0.84,
+        "Volume": 3278.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-10-23",
+        "Open": 710.0,
+        "High": 714.9,
+        "Low": 705.0,
+        "Close": 714.0,
+        "Percent Change": 1.13,
+        "Volume": 1939.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-10-20",
+        "Open": 697.0,
+        "High": 714.0,
+        "Low": 697.0,
+        "Close": 706.0,
+        "Percent Change": -0.55,
+        "Volume": 1658.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-10-19",
+        "Open": 718.0,
+        "High": 718.0,
+        "Low": 699.0,
+        "Close": 709.9,
+        "Percent Change": -1.13,
+        "Volume": 5735.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-10-17",
+        "Open": 706.0,
+        "High": 720.0,
+        "Low": 706.0,
+        "Close": 718.0,
+        "Percent Change": -0.28,
+        "Volume": 1132.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-10-16",
+        "Open": 714.2,
+        "High": 720.0,
+        "Low": 713.5,
+        "Close": 720.0,
+        "Percent Change": -1.1,
+        "Volume": 2671.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-10-13",
+        "Open": 698.0,
+        "High": 729.0,
+        "Low": 698.0,
+        "Close": 728.0,
+        "Percent Change": 1.07,
+        "Volume": 2622.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-10-12",
+        "Open": 710.0,
+        "High": 720.0,
+        "Low": 700.1,
+        "Close": 712.2,
+        "Percent Change": 0.03,
+        "Volume": 1560.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-10-11",
+        "Open": 715.0,
+        "High": 724.0,
+        "Low": 706.0,
+        "Close": 712.0,
+        "Percent Change": -0.71,
+        "Volume": 2027.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-10-10",
+        "Open": 730.0,
+        "High": 731.0,
+        "Low": 716.0,
+        "Close": 717.1,
+        "Percent Change": -1.77,
+        "Volume": 2790.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-10-09",
+        "Open": 715.0,
+        "High": 730.0,
+        "Low": 715.0,
+        "Close": 730.0,
+        "Percent Change": 1.39,
+        "Volume": 3594.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-29",
+        "Open": 705.5,
+        "High": 729.0,
+        "Low": 702.7,
+        "Close": 720.0,
+        "Percent Change": 2.13,
+        "Volume": 2884.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-28",
+        "Open": 710.0,
+        "High": 723.0,
+        "Low": 705.0,
+        "Close": 705.0,
+        "Percent Change": 1.0,
+        "Volume": 1475.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-27",
+        "Open": 710.0,
+        "High": 731.0,
+        "Low": 698.0,
+        "Close": 698.0,
+        "Percent Change": -0.99,
+        "Volume": 8992.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-25",
+        "Open": 710.0,
+        "High": 720.0,
+        "Low": 699.3,
+        "Close": 705.0,
+        "Percent Change": -1.18,
+        "Volume": 5405.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-22",
+        "Open": 723.0,
+        "High": 732.0,
+        "Low": 710.0,
+        "Close": 713.4,
+        "Percent Change": -1.6,
+        "Volume": 2690.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-21",
+        "Open": 722.0,
+        "High": 734.0,
+        "Low": 710.5,
+        "Close": 725.0,
+        "Percent Change": 2.31,
+        "Volume": 4794.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-20",
+        "Open": 735.0,
+        "High": 736.0,
+        "Low": 708.6,
+        "Close": 708.6,
+        "Percent Change": -4.91,
+        "Volume": 6809.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-18",
+        "Open": 765.0,
+        "High": 765.0,
+        "Low": 745.0,
+        "Close": 745.2,
+        "Percent Change": -2.59,
+        "Volume": 6421.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-16",
+        "Open": 755.0,
+        "High": 769.0,
+        "Low": 755.0,
+        "Close": 765.0,
+        "Percent Change": -0.66,
+        "Volume": 5456.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-15",
+        "Open": 815.9,
+        "High": 815.9,
+        "Low": 770.0,
+        "Close": 770.1,
+        "Percent Change": -3.74,
+        "Volume": 8070.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-14",
+        "Open": 786.0,
+        "High": 807.0,
+        "Low": 782.0,
+        "Close": 800.0,
+        "Percent Change": 2.7,
+        "Volume": 4975.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-13",
+        "Open": 768.0,
+        "High": 786.0,
+        "Low": 768.0,
+        "Close": 779.0,
+        "Percent Change": 1.43,
+        "Volume": 2407.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-12",
+        "Open": 779.0,
+        "High": 780.0,
+        "Low": 765.1,
+        "Close": 768.0,
+        "Percent Change": -0.65,
+        "Volume": 2100.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-11",
+        "Open": 768.1,
+        "High": 783.3,
+        "Low": 768.0,
+        "Close": 773.0,
+        "Percent Change": -1.21,
+        "Volume": 3084.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-08",
+        "Open": 781.0,
+        "High": 795.0,
+        "Low": 777.0,
+        "Close": 782.5,
+        "Percent Change": -0.7,
+        "Volume": 3786.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-07",
+        "Open": 790.0,
+        "High": 795.0,
+        "Low": 781.3,
+        "Close": 788.0,
+        "Percent Change": -0.88,
+        "Volume": 3801.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-06",
+        "Open": 800.0,
+        "High": 813.0,
+        "Low": 790.0,
+        "Close": 795.0,
+        "Percent Change": -1.85,
+        "Volume": 4289.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-05",
+        "Open": 801.0,
+        "High": 818.0,
+        "Low": 800.7,
+        "Close": 810.0,
+        "Percent Change": -0.12,
+        "Volume": 2465.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-04",
+        "Open": 812.0,
+        "High": 816.0,
+        "Low": 801.1,
+        "Close": 811.0,
+        "Percent Change": 0.5,
+        "Volume": 4747.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-02",
+        "Open": 798.0,
+        "High": 816.0,
+        "Low": 798.0,
+        "Close": 807.0,
+        "Percent Change": 1.13,
+        "Volume": 879.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-09-01",
+        "Open": 795.0,
+        "High": 823.6,
+        "Low": 795.0,
+        "Close": 798.0,
+        "Percent Change": -1.18,
+        "Volume": 5265.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-31",
+        "Open": 820.0,
+        "High": 820.0,
+        "Low": 806.1,
+        "Close": 807.5,
+        "Percent Change": -1.52,
+        "Volume": 2594.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-30",
+        "Open": 820.0,
+        "High": 847.0,
+        "Low": 815.0,
+        "Close": 820.0,
+        "Percent Change": 0.61,
+        "Volume": 2198.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-29",
+        "Open": 821.0,
+        "High": 821.0,
+        "Low": 804.1,
+        "Close": 815.0,
+        "Percent Change": -0.67,
+        "Volume": 4823.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-28",
+        "Open": 850.0,
+        "High": 860.0,
+        "Low": 820.0,
+        "Close": 820.5,
+        "Percent Change": -4.59,
+        "Volume": 7983.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-26",
+        "Open": 883.3,
+        "High": 883.3,
+        "Low": 849.0,
+        "Close": 860.0,
+        "Percent Change": -0.69,
+        "Volume": 4301.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-25",
+        "Open": 875.0,
+        "High": 887.0,
+        "Low": 862.5,
+        "Close": 866.0,
+        "Percent Change": -1.03,
+        "Volume": 6188.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-24",
+        "Open": 865.0,
+        "High": 887.4,
+        "Low": 863.1,
+        "Close": 875.0,
+        "Percent Change": 0.57,
+        "Volume": 955.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-23",
+        "Open": 864.4,
+        "High": 882.4,
+        "Low": 864.4,
+        "Close": 870.0,
+        "Percent Change": -0.23,
+        "Volume": 1994.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-22",
+        "Open": 880.0,
+        "High": 883.0,
+        "Low": 865.0,
+        "Close": 872.0,
+        "Percent Change": -1.47,
+        "Volume": 4124.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-21",
+        "Open": 885.5,
+        "High": 895.0,
+        "Low": 872.1,
+        "Close": 885.0,
+        "Percent Change": 0.34,
+        "Volume": 4179.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-18",
+        "Open": 870.0,
+        "High": 899.0,
+        "Low": 869.0,
+        "Close": 882.0,
+        "Percent Change": 0.23,
+        "Volume": 4239.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-17",
+        "Open": 871.0,
+        "High": 880.0,
+        "Low": 871.0,
+        "Close": 880.0,
+        "Percent Change": -0.45,
+        "Volume": 1360.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-16",
+        "Open": 909.0,
+        "High": 909.0,
+        "Low": 868.0,
+        "Close": 884.0,
+        "Percent Change": -1.23,
+        "Volume": 4100.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-15",
+        "Open": 865.0,
+        "High": 895.0,
+        "Low": 853.0,
+        "Close": 895.0,
+        "Percent Change": 4.56,
+        "Volume": 3779.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-14",
+        "Open": 853.0,
+        "High": 873.0,
+        "Low": 850.1,
+        "Close": 856.0,
+        "Percent Change": -1.17,
+        "Volume": 4431.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-11",
+        "Open": 877.0,
+        "High": 894.0,
+        "Low": 866.0,
+        "Close": 866.1,
+        "Percent Change": -1.69,
+        "Volume": 3874.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-10",
+        "Open": 871.0,
+        "High": 885.0,
+        "Low": 860.4,
+        "Close": 881.0,
+        "Percent Change": 0.0,
+        "Volume": 5575.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-09",
+        "Open": 900.0,
+        "High": 910.0,
+        "Low": 880.5,
+        "Close": 881.0,
+        "Percent Change": -4.03,
+        "Volume": 8227.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-08",
+        "Open": 900.0,
+        "High": 930.0,
+        "Low": 900.0,
+        "Close": 918.0,
+        "Percent Change": 2.23,
+        "Volume": 12460.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-07",
+        "Open": 900.0,
+        "High": 924.0,
+        "Low": 891.0,
+        "Close": 898.0,
+        "Percent Change": -0.22,
+        "Volume": 6578.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-05",
+        "Open": 930.0,
+        "High": 930.0,
+        "Low": 900.0,
+        "Close": 900.0,
+        "Percent Change": -2.4,
+        "Volume": 6110.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-04",
+        "Open": 940.0,
+        "High": 945.0,
+        "Low": 922.0,
+        "Close": 922.1,
+        "Percent Change": -3.41,
+        "Volume": 8731.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-03",
+        "Open": 965.0,
+        "High": 967.0,
+        "Low": 931.2,
+        "Close": 954.7,
+        "Percent Change": 0.62,
+        "Volume": 8692.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-02",
+        "Open": 947.0,
+        "High": 948.8,
+        "Low": 926.0,
+        "Close": 948.8,
+        "Percent Change": 2.13,
+        "Volume": 7096.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-08-01",
+        "Open": 950.0,
+        "High": 969.6,
+        "Low": 920.1,
+        "Close": 929.0,
+        "Percent Change": -0.32,
+        "Volume": 11516.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-31",
+        "Open": 915.0,
+        "High": 943.0,
+        "Low": 915.0,
+        "Close": 932.0,
+        "Percent Change": 0.76,
+        "Volume": 7369.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-29",
+        "Open": 944.0,
+        "High": 944.0,
+        "Low": 925.0,
+        "Close": 925.0,
+        "Percent Change": -2.01,
+        "Volume": 4879.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-28",
+        "Open": 938.0,
+        "High": 975.0,
+        "Low": 922.5,
+        "Close": 944.0,
+        "Percent Change": 2.61,
+        "Volume": 20486.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-27",
+        "Open": 927.1,
+        "High": 927.1,
+        "Low": 890.4,
+        "Close": 920.0,
+        "Percent Change": 1.21,
+        "Volume": 18076.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-26",
+        "Open": 935.0,
+        "High": 938.0,
+        "Low": 900.2,
+        "Close": 909.0,
+        "Percent Change": -2.68,
+        "Volume": 10135.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-25",
+        "Open": 915.0,
+        "High": 939.0,
+        "Low": 910.0,
+        "Close": 934.0,
+        "Percent Change": 3.32,
+        "Volume": 12540.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-24",
+        "Open": 880.0,
+        "High": 908.2,
+        "Low": 867.0,
+        "Close": 904.0,
+        "Percent Change": 3.91,
+        "Volume": 13417.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-22",
+        "Open": 897.6,
+        "High": 897.6,
+        "Low": 862.0,
+        "Close": 870.0,
+        "Percent Change": -1.14,
+        "Volume": 3114.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-21",
+        "Open": 881.0,
+        "High": 897.0,
+        "Low": 875.0,
+        "Close": 880.0,
+        "Percent Change": -1.12,
+        "Volume": 6022.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-20",
+        "Open": 885.0,
+        "High": 905.9,
+        "Low": 880.0,
+        "Close": 890.0,
+        "Percent Change": -0.78,
+        "Volume": 4001.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-19",
+        "Open": 884.0,
+        "High": 907.0,
+        "Low": 871.0,
+        "Close": 897.0,
+        "Percent Change": 3.1,
+        "Volume": 10995.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-18",
+        "Open": 855.0,
+        "High": 870.0,
+        "Low": 850.0,
+        "Close": 870.0,
+        "Percent Change": 1.05,
+        "Volume": 6105.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-17",
+        "Open": 859.9,
+        "High": 875.7,
+        "Low": 852.0,
+        "Close": 861.0,
+        "Percent Change": 0.13,
+        "Volume": 4978.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-15",
+        "Open": 850.0,
+        "High": 859.9,
+        "Low": 838.0,
+        "Close": 859.9,
+        "Percent Change": 0.1,
+        "Volume": 1496.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-14",
+        "Open": 858.8,
+        "High": 879.0,
+        "Low": 831.5,
+        "Close": 859.0,
+        "Percent Change": 2.02,
+        "Volume": 4597.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-13",
+        "Open": 810.0,
+        "High": 862.0,
+        "Low": 809.0,
+        "Close": 842.0,
+        "Percent Change": 3.44,
+        "Volume": 4196.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-12",
+        "Open": 814.0,
+        "High": 823.0,
+        "Low": 800.0,
+        "Close": 814.0,
+        "Percent Change": 0.84,
+        "Volume": 5066.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-11",
+        "Open": 826.0,
+        "High": 826.0,
+        "Low": 805.0,
+        "Close": 807.2,
+        "Percent Change": -4.13,
+        "Volume": 5784.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-08",
+        "Open": 860.0,
+        "High": 860.0,
+        "Low": 830.1,
+        "Close": 842.0,
+        "Percent Change": -2.32,
+        "Volume": 2591.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-07",
+        "Open": 893.5,
+        "High": 895.0,
+        "Low": 849.8,
+        "Close": 862.0,
+        "Percent Change": -1.6,
+        "Volume": 8193.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-06",
+        "Open": 867.3,
+        "High": 887.4,
+        "Low": 850.0,
+        "Close": 876.0,
+        "Percent Change": -1.02,
+        "Volume": 6008.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-05",
+        "Open": 904.0,
+        "High": 934.9,
+        "Low": 885.0,
+        "Close": 885.0,
+        "Percent Change": -4.01,
+        "Volume": 6381.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-04",
+        "Open": 955.0,
+        "High": 960.0,
+        "Low": 884.0,
+        "Close": 922.0,
+        "Percent Change": -1.71,
+        "Volume": 14477.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-03",
+        "Open": 887.0,
+        "High": 970.0,
+        "Low": 869.4,
+        "Close": 938.0,
+        "Percent Change": 5.75,
+        "Volume": 9281.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-07-01",
+        "Open": 880.0,
+        "High": 908.0,
+        "Low": 850.1,
+        "Close": 887.0,
+        "Percent Change": 2.65,
+        "Volume": 17359.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-30",
+        "Open": 820.0,
+        "High": 881.0,
+        "Low": 820.0,
+        "Close": 864.1,
+        "Percent Change": 5.38,
+        "Volume": 11228.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-29",
+        "Open": 800.0,
+        "High": 822.9,
+        "Low": 800.0,
+        "Close": 820.0,
+        "Percent Change": 2.12,
+        "Volume": 1476.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-28",
+        "Open": 815.0,
+        "High": 815.0,
+        "Low": 800.0,
+        "Close": 803.0,
+        "Percent Change": -2.55,
+        "Volume": 5594.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-27",
+        "Open": 840.0,
+        "High": 850.0,
+        "Low": 823.0,
+        "Close": 824.0,
+        "Percent Change": -1.9,
+        "Volume": 6099.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-26",
+        "Open": 790.6,
+        "High": 840.0,
+        "Low": 790.4,
+        "Close": 840.0,
+        "Percent Change": 8.37,
+        "Volume": 7511.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-24",
+        "Open": 757.1,
+        "High": 799.6,
+        "Low": 757.1,
+        "Close": 775.1,
+        "Percent Change": 0.68,
+        "Volume": 2360.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-23",
+        "Open": 772.0,
+        "High": 779.0,
+        "Low": 756.6,
+        "Close": 769.9,
+        "Percent Change": -2.17,
+        "Volume": 6462.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-22",
+        "Open": 780.0,
+        "High": 800.0,
+        "Low": 779.1,
+        "Close": 787.0,
+        "Percent Change": -1.01,
+        "Volume": 3706.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-21",
+        "Open": 761.0,
+        "High": 805.8,
+        "Low": 761.0,
+        "Close": 795.0,
+        "Percent Change": 2.45,
+        "Volume": 3960.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-20",
+        "Open": 794.0,
+        "High": 795.0,
+        "Low": 775.0,
+        "Close": 776.0,
+        "Percent Change": -4.08,
+        "Volume": 8314.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-19",
+        "Open": 812.1,
+        "High": 819.0,
+        "Low": 809.0,
+        "Close": 809.0,
+        "Percent Change": -1.94,
+        "Volume": 3965.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-17",
+        "Open": 825.0,
+        "High": 842.5,
+        "Low": 824.0,
+        "Close": 825.0,
+        "Percent Change": 0.12,
+        "Volume": 1390.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-16",
+        "Open": 806.0,
+        "High": 850.0,
+        "Low": 806.0,
+        "Close": 824.0,
+        "Percent Change": 0.49,
+        "Volume": 1850.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-15",
+        "Open": 820.0,
+        "High": 830.0,
+        "Low": 810.0,
+        "Close": 820.0,
+        "Percent Change": -1.8,
+        "Volume": 2674.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-14",
+        "Open": 840.0,
+        "High": 850.0,
+        "Low": 834.0,
+        "Close": 835.0,
+        "Percent Change": -1.76,
+        "Volume": 3579.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-13",
+        "Open": 860.0,
+        "High": 870.0,
+        "Low": 850.0,
+        "Close": 850.0,
+        "Percent Change": -1.85,
+        "Volume": 3699.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-10",
+        "Open": 860.0,
+        "High": 880.0,
+        "Low": 860.0,
+        "Close": 866.0,
+        "Percent Change": -1.04,
+        "Volume": 1694.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-09",
+        "Open": 884.0,
+        "High": 914.9,
+        "Low": 865.0,
+        "Close": 875.1,
+        "Percent Change": -2.77,
+        "Volume": 4668.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-08",
+        "Open": 870.0,
+        "High": 900.0,
+        "Low": 855.0,
+        "Close": 900.0,
+        "Percent Change": 4.29,
+        "Volume": 3934.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-07",
+        "Open": 859.0,
+        "High": 875.9,
+        "Low": 843.3,
+        "Close": 863.0,
+        "Percent Change": -1.48,
+        "Volume": 3997.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-06",
+        "Open": 867.0,
+        "High": 885.0,
+        "Low": 867.0,
+        "Close": 876.0,
+        "Percent Change": 0.0,
+        "Volume": 2920.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-03",
+        "Open": 872.3,
+        "High": 889.0,
+        "Low": 872.3,
+        "Close": 876.0,
+        "Percent Change": -1.57,
+        "Volume": 3583.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-02",
+        "Open": 900.0,
+        "High": 906.0,
+        "Low": 888.0,
+        "Close": 890.0,
+        "Percent Change": 0.11,
+        "Volume": 2612.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-06-01",
+        "Open": 890.0,
+        "High": 900.0,
+        "Low": 881.0,
+        "Close": 889.0,
+        "Percent Change": -0.24,
+        "Volume": 1652.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-31",
+        "Open": 925.0,
+        "High": 930.0,
+        "Low": 889.0,
+        "Close": 891.1,
+        "Percent Change": -4.39,
+        "Volume": 15919.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-30",
+        "Open": 940.0,
+        "High": 951.0,
+        "Low": 930.2,
+        "Close": 932.0,
+        "Percent Change": -1.06,
+        "Volume": 2416.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-27",
+        "Open": 945.0,
+        "High": 960.0,
+        "Low": 942.0,
+        "Close": 942.0,
+        "Percent Change": -0.32,
+        "Volume": 1003.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-26",
+        "Open": 930.0,
+        "High": 955.0,
+        "Low": 930.0,
+        "Close": 945.0,
+        "Percent Change": 0.0,
+        "Volume": 1640.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-25",
+        "Open": 942.1,
+        "High": 959.0,
+        "Low": 942.0,
+        "Close": 945.0,
+        "Percent Change": 0.21,
+        "Volume": 1797.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-24",
+        "Open": 945.0,
+        "High": 960.0,
+        "Low": 930.0,
+        "Close": 943.0,
+        "Percent Change": -0.21,
+        "Volume": 2243.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-23",
+        "Open": 953.1,
+        "High": 955.0,
+        "Low": 936.0,
+        "Close": 945.0,
+        "Percent Change": -2.07,
+        "Volume": 3814.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-20",
+        "Open": 963.0,
+        "High": 982.3,
+        "Low": 946.1,
+        "Close": 965.0,
+        "Percent Change": 0.2,
+        "Volume": 2027.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-19",
+        "Open": 961.0,
+        "High": 979.0,
+        "Low": 961.0,
+        "Close": 963.1,
+        "Percent Change": -1.02,
+        "Volume": 1866.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-18",
+        "Open": 960.0,
+        "High": 990.0,
+        "Low": 941.0,
+        "Close": 973.0,
+        "Percent Change": -0.01,
+        "Volume": 1579.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-17",
+        "Open": 976.6,
+        "High": 1000.0,
+        "Low": 966.0,
+        "Close": 979.0,
+        "Percent Change": -1.61,
+        "Volume": 2840.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-12",
+        "Open": 1020.0,
+        "High": 1035.0,
+        "Low": 995.0,
+        "Close": 995.0,
+        "Percent Change": -2.93,
+        "Volume": 2985.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-11",
+        "Open": 1006.0,
+        "High": 1040.0,
+        "Low": 998.0,
+        "Close": 1025.0,
+        "Percent Change": 1.69,
+        "Volume": 3824.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-10",
+        "Open": 950.1,
+        "High": 1014.9,
+        "Low": 950.1,
+        "Close": 1008.0,
+        "Percent Change": 4.34,
+        "Volume": 3801.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-09",
+        "Open": 946.0,
+        "High": 1010.0,
+        "Low": 946.0,
+        "Close": 966.1,
+        "Percent Change": 2.23,
+        "Volume": 6772.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-08",
+        "Open": 927.1,
+        "High": 964.0,
+        "Low": 911.0,
+        "Close": 945.0,
+        "Percent Change": -0.11,
+        "Volume": 4174.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-05",
+        "Open": 970.0,
+        "High": 973.0,
+        "Low": 946.0,
+        "Close": 946.0,
+        "Percent Change": -1.97,
+        "Volume": 6661.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-04",
+        "Open": 979.0,
+        "High": 983.0,
+        "Low": 960.0,
+        "Close": 965.0,
+        "Percent Change": -1.43,
+        "Volume": 2925.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-05-02",
+        "Open": 972.0,
+        "High": 984.0,
+        "Low": 955.0,
+        "Close": 979.0,
+        "Percent Change": -0.51,
+        "Volume": 7422.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-28",
+        "Open": 975.6,
+        "High": 990.0,
+        "Low": 975.0,
+        "Close": 984.0,
+        "Percent Change": -0.61,
+        "Volume": 2490.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-27",
+        "Open": 990.0,
+        "High": 994.0,
+        "Low": 971.0,
+        "Close": 990.0,
+        "Percent Change": -0.49,
+        "Volume": 2645.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-26",
+        "Open": 990.0,
+        "High": 1010.0,
+        "Low": 985.0,
+        "Close": 994.9,
+        "Percent Change": -0.51,
+        "Volume": 3976.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-25",
+        "Open": 1024.0,
+        "High": 1030.0,
+        "Low": 992.8,
+        "Close": 1000.0,
+        "Percent Change": -2.34,
+        "Volume": 4346.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-24",
+        "Open": 975.0,
+        "High": 1025.0,
+        "Low": 975.0,
+        "Close": 1024.0,
+        "Percent Change": 5.03,
+        "Volume": 4343.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-21",
+        "Open": 963.0,
+        "High": 991.0,
+        "Low": 963.0,
+        "Close": 975.0,
+        "Percent Change": -0.62,
+        "Volume": 4157.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-20",
+        "Open": 990.0,
+        "High": 1009.0,
+        "Low": 971.0,
+        "Close": 981.1,
+        "Percent Change": -1.79,
+        "Volume": 3759.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-19",
+        "Open": 965.1,
+        "High": 1007.0,
+        "Low": 965.1,
+        "Close": 999.0,
+        "Percent Change": 1.94,
+        "Volume": 3138.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-18",
+        "Open": 988.0,
+        "High": 990.0,
+        "Low": 972.0,
+        "Close": 980.0,
+        "Percent Change": -0.81,
+        "Volume": 3734.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-17",
+        "Open": 1000.0,
+        "High": 1005.0,
+        "Low": 981.0,
+        "Close": 988.0,
+        "Percent Change": -1.2,
+        "Volume": 4019.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-13",
+        "Open": 980.0,
+        "High": 1000.0,
+        "Low": 975.0,
+        "Close": 1000.0,
+        "Percent Change": 1.63,
+        "Volume": 3625.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-12",
+        "Open": 970.0,
+        "High": 1000.0,
+        "Low": 970.0,
+        "Close": 984.0,
+        "Percent Change": -0.3,
+        "Volume": 5933.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-11",
+        "Open": 1025.6,
+        "High": 1040.0,
+        "Low": 987.0,
+        "Close": 987.0,
+        "Percent Change": -1.84,
+        "Volume": 5169.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-07",
+        "Open": 1000.0,
+        "High": 1016.0,
+        "Low": 990.0,
+        "Close": 1005.5,
+        "Percent Change": 1.26,
+        "Volume": 4492.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-06",
+        "Open": 1001.0,
+        "High": 1010.0,
+        "Low": 990.0,
+        "Close": 993.0,
+        "Percent Change": -0.92,
+        "Volume": 5623.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-05",
+        "Open": 1015.0,
+        "High": 1015.0,
+        "Low": 996.0,
+        "Close": 1002.2,
+        "Percent Change": -1.16,
+        "Volume": 7339.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-04",
+        "Open": 1035.0,
+        "High": 1045.0,
+        "Low": 1006.0,
+        "Close": 1014.0,
+        "Percent Change": -0.59,
+        "Volume": 2973.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-04-03",
+        "Open": 1050.0,
+        "High": 1050.0,
+        "Low": 999.1,
+        "Close": 1020.0,
+        "Percent Change": -1.92,
+        "Volume": 4592.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-31",
+        "Open": 1060.0,
+        "High": 1060.0,
+        "Low": 1040.0,
+        "Close": 1040.0,
+        "Percent Change": -1.33,
+        "Volume": 3592.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-30",
+        "Open": 1012.1,
+        "High": 1080.0,
+        "Low": 1012.1,
+        "Close": 1054.0,
+        "Percent Change": 2.83,
+        "Volume": 6552.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-29",
+        "Open": 1035.0,
+        "High": 1043.0,
+        "Low": 1020.5,
+        "Close": 1025.0,
+        "Percent Change": -1.16,
+        "Volume": 3991.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-28",
+        "Open": 1030.1,
+        "High": 1050.0,
+        "Low": 1030.1,
+        "Close": 1037.0,
+        "Percent Change": -1.05,
+        "Volume": 3291.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-27",
+        "Open": 1050.0,
+        "High": 1066.0,
+        "Low": 1045.1,
+        "Close": 1048.0,
+        "Percent Change": -1.69,
+        "Volume": 4916.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-24",
+        "Open": 1061.0,
+        "High": 1073.0,
+        "Low": 1061.0,
+        "Close": 1066.0,
+        "Percent Change": -1.3,
+        "Volume": 2997.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-23",
+        "Open": 1080.0,
+        "High": 1085.0,
+        "Low": 1062.2,
+        "Close": 1080.0,
+        "Percent Change": 0.0,
+        "Volume": 3323.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-22",
+        "Open": 1100.0,
+        "High": 1100.0,
+        "Low": 1060.5,
+        "Close": 1080.0,
+        "Percent Change": 0.0,
+        "Volume": 4359.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-21",
+        "Open": 1055.0,
+        "High": 1083.0,
+        "Low": 1055.0,
+        "Close": 1080.0,
+        "Percent Change": 1.22,
+        "Volume": 2887.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-20",
+        "Open": 1071.0,
+        "High": 1071.1,
+        "Low": 1061.1,
+        "Close": 1067.0,
+        "Percent Change": -0.37,
+        "Volume": 4107.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-16",
+        "Open": 1060.0,
+        "High": 1090.0,
+        "Low": 1060.0,
+        "Close": 1071.0,
+        "Percent Change": -0.83,
+        "Volume": 5500.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-15",
+        "Open": 1081.0,
+        "High": 1105.0,
+        "Low": 1080.0,
+        "Close": 1080.0,
+        "Percent Change": -1.46,
+        "Volume": 4866.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-14",
+        "Open": 1095.0,
+        "High": 1100.0,
+        "Low": 1085.0,
+        "Close": 1096.0,
+        "Percent Change": 0.56,
+        "Volume": 2518.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-13",
+        "Open": 1069.9,
+        "High": 1090.0,
+        "Low": 1053.0,
+        "Close": 1089.9,
+        "Percent Change": 3.9,
+        "Volume": 8466.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-10",
+        "Open": 1020.0,
+        "High": 1049.0,
+        "Low": 1020.0,
+        "Close": 1049.0,
+        "Percent Change": 2.34,
+        "Volume": 8456.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-09",
+        "Open": 1021.0,
+        "High": 1040.0,
+        "Low": 1021.0,
+        "Close": 1025.0,
+        "Percent Change": -0.49,
+        "Volume": 4958.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-07",
+        "Open": 1031.0,
+        "High": 1052.0,
+        "Low": 1030.0,
+        "Close": 1030.0,
+        "Percent Change": -1.44,
+        "Volume": 8441.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-06",
+        "Open": 1040.0,
+        "High": 1070.0,
+        "Low": 1040.0,
+        "Close": 1045.0,
+        "Percent Change": -1.04,
+        "Volume": 5830.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-03-02",
+        "Open": 1054.1,
+        "High": 1070.0,
+        "Low": 1051.0,
+        "Close": 1056.0,
+        "Percent Change": -1.77,
+        "Volume": 4964.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-28",
+        "Open": 1090.0,
+        "High": 1111.0,
+        "Low": 1068.0,
+        "Close": 1075.0,
+        "Percent Change": -1.29,
+        "Volume": 5387.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-27",
+        "Open": 1100.0,
+        "High": 1105.0,
+        "Low": 1085.1,
+        "Close": 1089.0,
+        "Percent Change": -0.95,
+        "Volume": 4474.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-24",
+        "Open": 1101.0,
+        "High": 1110.0,
+        "Low": 1098.0,
+        "Close": 1099.5,
+        "Percent Change": -1.83,
+        "Volume": 9720.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-23",
+        "Open": 1115.0,
+        "High": 1125.0,
+        "Low": 1110.0,
+        "Close": 1120.0,
+        "Percent Change": -0.27,
+        "Volume": 6299.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-22",
+        "Open": 1148.5,
+        "High": 1148.5,
+        "Low": 1122.0,
+        "Close": 1123.0,
+        "Percent Change": -0.27,
+        "Volume": 6161.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-21",
+        "Open": 1103.0,
+        "High": 1130.0,
+        "Low": 1103.0,
+        "Close": 1126.0,
+        "Percent Change": 0.13,
+        "Volume": 5071.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-20",
+        "Open": 1135.0,
+        "High": 1135.0,
+        "Low": 1105.0,
+        "Close": 1124.5,
+        "Percent Change": -1.7,
+        "Volume": 8519.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-17",
+        "Open": 1145.0,
+        "High": 1163.0,
+        "Low": 1140.1,
+        "Close": 1144.0,
+        "Percent Change": -0.44,
+        "Volume": 3251.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-16",
+        "Open": 1178.0,
+        "High": 1178.0,
+        "Low": 1139.0,
+        "Close": 1149.0,
+        "Percent Change": -0.52,
+        "Volume": 5130.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-15",
+        "Open": 1126.0,
+        "High": 1161.0,
+        "Low": 1126.0,
+        "Close": 1155.0,
+        "Percent Change": 1.14,
+        "Volume": 5525.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-14",
+        "Open": 1155.0,
+        "High": 1163.0,
+        "Low": 1140.0,
+        "Close": 1142.0,
+        "Percent Change": 0.18,
+        "Volume": 6297.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-13",
+        "Open": 1180.0,
+        "High": 1180.0,
+        "Low": 1136.0,
+        "Close": 1140.0,
+        "Percent Change": -3.38,
+        "Volume": 10418.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-10",
+        "Open": 1170.0,
+        "High": 1194.0,
+        "Low": 1170.0,
+        "Close": 1179.9,
+        "Percent Change": 0.42,
+        "Volume": 10369.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-09",
+        "Open": 1196.0,
+        "High": 1200.0,
+        "Low": 1169.4,
+        "Close": 1175.0,
+        "Percent Change": -1.52,
+        "Volume": 13926.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-08",
+        "Open": 1231.0,
+        "High": 1255.0,
+        "Low": 1190.0,
+        "Close": 1193.1,
+        "Percent Change": 0.0,
+        "Volume": 11782.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-07",
+        "Open": 1191.0,
+        "High": 1222.0,
+        "Low": 1191.0,
+        "Close": 1206.9,
+        "Percent Change": -0.26,
+        "Volume": 10933.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-06",
+        "Open": 1211.0,
+        "High": 1225.0,
+        "Low": 1200.0,
+        "Close": 1210.0,
+        "Percent Change": -1.47,
+        "Volume": 15362.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-03",
+        "Open": 1245.0,
+        "High": 1250.0,
+        "Low": 1221.0,
+        "Close": 1228.0,
+        "Percent Change": -0.97,
+        "Volume": 9833.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-02-01",
+        "Open": 1232.0,
+        "High": 1250.0,
+        "Low": 1216.0,
+        "Close": 1240.0,
+        "Percent Change": 0.73,
+        "Volume": 16484.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-31",
+        "Open": 1250.0,
+        "High": 1250.0,
+        "Low": 1222.0,
+        "Close": 1231.0,
+        "Percent Change": -1.46,
+        "Volume": 16234.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-30",
+        "Open": 1220.9,
+        "High": 1254.5,
+        "Low": 1220.9,
+        "Close": 1249.2,
+        "Percent Change": 4.36,
+        "Volume": 14141.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-27",
+        "Open": 1200.0,
+        "High": 1220.0,
+        "Low": 1195.0,
+        "Close": 1197.0,
+        "Percent Change": -1.07,
+        "Volume": 8341.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-26",
+        "Open": 1235.0,
+        "High": 1235.0,
+        "Low": 1191.0,
+        "Close": 1210.0,
+        "Percent Change": -2.26,
+        "Volume": 24642.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-25",
+        "Open": 1245.0,
+        "High": 1265.0,
+        "Low": 1230.0,
+        "Close": 1238.0,
+        "Percent Change": -0.56,
+        "Volume": 15608.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-24",
+        "Open": 1290.0,
+        "High": 1290.0,
+        "Low": 1230.0,
+        "Close": 1245.0,
+        "Percent Change": -3.49,
+        "Volume": 31776.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-23",
+        "Open": 1264.8,
+        "High": 1300.0,
+        "Low": 1250.0,
+        "Close": 1290.0,
+        "Percent Change": 4.03,
+        "Volume": 48299.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-20",
+        "Open": 1268.0,
+        "High": 1268.0,
+        "Low": 1221.0,
+        "Close": 1240.0,
+        "Percent Change": -0.32,
+        "Volume": 19357.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-19",
+        "Open": 1290.0,
+        "High": 1290.0,
+        "Low": 1235.0,
+        "Close": 1244.0,
+        "Percent Change": -1.68,
+        "Volume": 20707.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-18",
+        "Open": 1300.0,
+        "High": 1315.0,
+        "Low": 1265.0,
+        "Close": 1265.2,
+        "Percent Change": -1.92,
+        "Volume": 27128.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-17",
+        "Open": 1305.0,
+        "High": 1305.0,
+        "Low": 1279.0,
+        "Close": 1290.0,
+        "Percent Change": -0.77,
+        "Volume": 17075.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-16",
+        "Open": 1290.0,
+        "High": 1330.0,
+        "Low": 1280.0,
+        "Close": 1300.0,
+        "Percent Change": 0.78,
+        "Volume": 29257.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-13",
+        "Open": 1243.0,
+        "High": 1331.0,
+        "Low": 1235.0,
+        "Close": 1290.0,
+        "Percent Change": 4.45,
+        "Volume": 33575.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-12",
+        "Open": 1260.0,
+        "High": 1290.0,
+        "Low": 1223.0,
+        "Close": 1235.0,
+        "Percent Change": -0.4,
+        "Volume": 21132.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-11",
+        "Open": 1205.0,
+        "High": 1275.0,
+        "Low": 1191.0,
+        "Close": 1240.0,
+        "Percent Change": 3.33,
+        "Volume": 30235.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-10",
+        "Open": 1190.1,
+        "High": 1234.0,
+        "Low": 1190.0,
+        "Close": 1200.0,
+        "Percent Change": -0.83,
+        "Volume": 11121.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-09",
+        "Open": 1230.0,
+        "High": 1230.0,
+        "Low": 1200.0,
+        "Close": 1210.0,
+        "Percent Change": 0.08,
+        "Volume": 21288.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-06",
+        "Open": 1200.0,
+        "High": 1211.0,
+        "Low": 1170.2,
+        "Close": 1209.0,
+        "Percent Change": 1.6,
+        "Volume": 17760.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-05",
+        "Open": 1249.0,
+        "High": 1260.0,
+        "Low": 1188.2,
+        "Close": 1190.0,
+        "Percent Change": -3.02,
+        "Volume": 17672.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-04",
+        "Open": 1227.0,
+        "High": 1259.0,
+        "Low": 1195.0,
+        "Close": 1227.0,
+        "Percent Change": 2.0,
+        "Volume": 17898.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-03",
+        "Open": 1132.0,
+        "High": 1207.0,
+        "Low": 1110.0,
+        "Close": 1203.0,
+        "Percent Change": 8.38,
+        "Volume": 42249.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2022-01-02",
+        "Open": 1045.0,
+        "High": 1142.0,
+        "Low": 1045.0,
+        "Close": 1110.0,
+        "Percent Change": 5.82,
+        "Volume": 15254.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-29",
+        "Open": 1060.0,
+        "High": 1060.0,
+        "Low": 1040.0,
+        "Close": 1049.0,
+        "Percent Change": 0.87,
+        "Volume": 5244.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-28",
+        "Open": 1043.0,
+        "High": 1055.0,
+        "Low": 1022.1,
+        "Close": 1040.0,
+        "Percent Change": -2.26,
+        "Volume": 6238.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-27",
+        "Open": 1109.0,
+        "High": 1130.0,
+        "Low": 1057.0,
+        "Close": 1064.0,
+        "Percent Change": -2.21,
+        "Volume": 11329.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-26",
+        "Open": 1065.9,
+        "High": 1108.9,
+        "Low": 1050.0,
+        "Close": 1088.0,
+        "Percent Change": 4.11,
+        "Volume": 11360.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-23",
+        "Open": 1065.0,
+        "High": 1065.0,
+        "Low": 1033.0,
+        "Close": 1045.0,
+        "Percent Change": -0.67,
+        "Volume": 5785.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-22",
+        "Open": 1033.3,
+        "High": 1057.0,
+        "Low": 1025.0,
+        "Close": 1052.0,
+        "Percent Change": 3.65,
+        "Volume": 9954.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-21",
+        "Open": 979.1,
+        "High": 1029.0,
+        "Low": 979.1,
+        "Close": 1015.0,
+        "Percent Change": 2.22,
+        "Volume": 9133.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-20",
+        "Open": 977.0,
+        "High": 1030.0,
+        "Low": 974.0,
+        "Close": 993.0,
+        "Percent Change": 0.1,
+        "Volume": 4570.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-16",
+        "Open": 990.0,
+        "High": 999.0,
+        "Low": 981.0,
+        "Close": 992.0,
+        "Percent Change": -0.51,
+        "Volume": 5203.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-15",
+        "Open": 1034.0,
+        "High": 1052.0,
+        "Low": 985.0,
+        "Close": 997.1,
+        "Percent Change": -1.67,
+        "Volume": 15433.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-14",
+        "Open": 971.0,
+        "High": 1040.0,
+        "Low": 952.0,
+        "Close": 1014.0,
+        "Percent Change": 6.51,
+        "Volume": 4899.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-13",
+        "Open": 981.0,
+        "High": 1012.0,
+        "Low": 946.0,
+        "Close": 952.0,
+        "Percent Change": -4.23,
+        "Volume": 18641.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-12",
+        "Open": 1025.0,
+        "High": 1030.0,
+        "Low": 994.1,
+        "Close": 994.1,
+        "Percent Change": -3.11,
+        "Volume": 16162.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-09",
+        "Open": 1050.0,
+        "High": 1061.0,
+        "Low": 1026.0,
+        "Close": 1026.0,
+        "Percent Change": -4.11,
+        "Volume": 17197.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-08",
+        "Open": 1110.0,
+        "High": 1110.0,
+        "Low": 1068.0,
+        "Close": 1070.0,
+        "Percent Change": -2.73,
+        "Volume": 6817.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-07",
+        "Open": 1103.1,
+        "High": 1140.0,
+        "Low": 1100.0,
+        "Close": 1100.0,
+        "Percent Change": 0.0,
+        "Volume": 7262.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-06",
+        "Open": 1071.0,
+        "High": 1150.0,
+        "Low": 1060.0,
+        "Close": 1100.0,
+        "Percent Change": 0.82,
+        "Volume": 11990.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-05",
+        "Open": 1114.6,
+        "High": 1114.6,
+        "Low": 1081.1,
+        "Close": 1091.0,
+        "Percent Change": -4.05,
+        "Volume": 13341.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-02",
+        "Open": 1173.0,
+        "High": 1188.8,
+        "Low": 1137.0,
+        "Close": 1137.0,
+        "Percent Change": -3.08,
+        "Volume": 11463.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-12-01",
+        "Open": 1182.0,
+        "High": 1191.0,
+        "Low": 1172.4,
+        "Close": 1173.1,
+        "Percent Change": -0.58,
+        "Volume": 4872.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-30",
+        "Open": 1212.1,
+        "High": 1212.5,
+        "Low": 1172.0,
+        "Close": 1180.0,
+        "Percent Change": -0.92,
+        "Volume": 8278.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-29",
+        "Open": 1175.0,
+        "High": 1231.1,
+        "Low": 1175.0,
+        "Close": 1191.0,
+        "Percent Change": 0.17,
+        "Volume": 8098.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-28",
+        "Open": 1196.0,
+        "High": 1244.0,
+        "Low": 1175.0,
+        "Close": 1189.0,
+        "Percent Change": -2.56,
+        "Volume": 21071.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-25",
+        "Open": 1250.0,
+        "High": 1250.0,
+        "Low": 1220.1,
+        "Close": 1220.2,
+        "Percent Change": -1.05,
+        "Volume": 5382.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-24",
+        "Open": 1235.0,
+        "High": 1245.0,
+        "Low": 1220.0,
+        "Close": 1233.1,
+        "Percent Change": -2.13,
+        "Volume": 9818.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-23",
+        "Open": 1276.0,
+        "High": 1299.9,
+        "Low": 1250.0,
+        "Close": 1260.0,
+        "Percent Change": -1.25,
+        "Volume": 22252.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-22",
+        "Open": 1293.3,
+        "High": 1300.0,
+        "Low": 1270.0,
+        "Close": 1276.0,
+        "Percent Change": 0.46,
+        "Volume": 14018.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-21",
+        "Open": 1252.1,
+        "High": 1276.0,
+        "Low": 1252.0,
+        "Close": 1270.2,
+        "Percent Change": -0.14,
+        "Volume": 11212.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-18",
+        "Open": 1290.0,
+        "High": 1316.0,
+        "Low": 1268.0,
+        "Close": 1272.0,
+        "Percent Change": -1.47,
+        "Volume": 15663.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-17",
+        "Open": 1280.0,
+        "High": 1327.5,
+        "Low": 1280.0,
+        "Close": 1291.0,
+        "Percent Change": 1.18,
+        "Volume": 31637.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-16",
+        "Open": 1177.0,
+        "High": 1306.4,
+        "Low": 1177.0,
+        "Close": 1276.0,
+        "Percent Change": 6.42,
+        "Volume": 16780.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-15",
+        "Open": 1204.0,
+        "High": 1210.0,
+        "Low": 1186.0,
+        "Close": 1199.0,
+        "Percent Change": 1.52,
+        "Volume": 8677.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-14",
+        "Open": 1185.0,
+        "High": 1199.0,
+        "Low": 1162.0,
+        "Close": 1181.0,
+        "Percent Change": -0.34,
+        "Volume": 9489.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-11",
+        "Open": 1207.0,
+        "High": 1233.0,
+        "Low": 1185.0,
+        "Close": 1185.0,
+        "Percent Change": -3.74,
+        "Volume": 13472.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-09",
+        "Open": 1301.0,
+        "High": 1301.0,
+        "Low": 1220.0,
+        "Close": 1231.0,
+        "Percent Change": -4.28,
+        "Volume": 15371.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-08",
+        "Open": 1311.0,
+        "High": 1337.0,
+        "Low": 1285.0,
+        "Close": 1286.0,
+        "Percent Change": -1.91,
+        "Volume": 14052.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-03",
+        "Open": 1300.0,
+        "High": 1369.9,
+        "Low": 1300.0,
+        "Close": 1311.0,
+        "Percent Change": 0.77,
+        "Volume": 17452.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-02",
+        "Open": 1310.0,
+        "High": 1340.2,
+        "Low": 1273.0,
+        "Close": 1301.0,
+        "Percent Change": -0.91,
+        "Volume": 20771.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-11-01",
+        "Open": 1330.0,
+        "High": 1389.0,
+        "Low": 1305.0,
+        "Close": 1313.0,
+        "Percent Change": 0.23,
+        "Volume": 33043.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-31",
+        "Open": 1235.0,
+        "High": 1320.0,
+        "Low": 1213.0,
+        "Close": 1310.0,
+        "Percent Change": 6.32,
+        "Volume": 38731.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-28",
+        "Open": 1223.0,
+        "High": 1241.0,
+        "Low": 1181.1,
+        "Close": 1232.1,
+        "Percent Change": 2.25,
+        "Volume": 29483.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-27",
+        "Open": 1146.4,
+        "High": 1235.0,
+        "Low": 1146.4,
+        "Close": 1205.0,
+        "Percent Change": 7.21,
+        "Volume": 81893.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-26",
+        "Open": 1125.0,
+        "High": 1130.9,
+        "Low": 1100.0,
+        "Close": 1124.0,
+        "Percent Change": 1.26,
+        "Volume": 26737.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-25",
+        "Open": 1065.1,
+        "High": 1116.0,
+        "Low": 1065.1,
+        "Close": 1110.0,
+        "Percent Change": 2.66,
+        "Volume": 18487.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-24",
+        "Open": 1051.0,
+        "High": 1088.0,
+        "Low": 1051.0,
+        "Close": 1081.2,
+        "Percent Change": 1.71,
+        "Volume": 13406.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-21",
+        "Open": 1090.0,
+        "High": 1091.2,
+        "Low": 1062.0,
+        "Close": 1063.0,
+        "Percent Change": -1.94,
+        "Volume": 10449.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-20",
+        "Open": 1118.0,
+        "High": 1130.0,
+        "Low": 1078.0,
+        "Close": 1084.0,
+        "Percent Change": -1.19,
+        "Volume": 18591.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-19",
+        "Open": 1076.0,
+        "High": 1097.0,
+        "Low": 1038.0,
+        "Close": 1097.0,
+        "Percent Change": 0.0,
+        "Volume": 20819.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-18",
+        "Open": 1108.0,
+        "High": 1128.0,
+        "Low": 1090.0,
+        "Close": 1097.0,
+        "Percent Change": -2.92,
+        "Volume": 15305.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-17",
+        "Open": 1134.0,
+        "High": 1148.0,
+        "Low": 1110.5,
+        "Close": 1130.0,
+        "Percent Change": -0.26,
+        "Volume": 10754.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-11",
+        "Open": 1138.0,
+        "High": 1140.0,
+        "Low": 1114.5,
+        "Close": 1133.0,
+        "Percent Change": -2.33,
+        "Volume": 36007.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-10",
+        "Open": 1160.0,
+        "High": 1200.0,
+        "Low": 1140.0,
+        "Close": 1160.0,
+        "Percent Change": 1.75,
+        "Volume": 25099.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-06",
+        "Open": 1119.3,
+        "High": 1190.0,
+        "Low": 1027.9,
+        "Close": 1140.0,
+        "Percent Change": -0.18,
+        "Volume": 153332.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-05",
+        "Open": 1243.7,
+        "High": 1243.7,
+        "Low": 1142.1,
+        "Close": 1142.1,
+        "Percent Change": -10.0,
+        "Volume": 14027.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-04",
+        "Open": 1279.0,
+        "High": 1280.0,
+        "Low": 1240.0,
+        "Close": 1269.0,
+        "Percent Change": 0.55,
+        "Volume": 9604.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-10-03",
+        "Open": 1265.0,
+        "High": 1295.0,
+        "Low": 1256.0,
+        "Close": 1262.0,
+        "Percent Change": -1.02,
+        "Volume": 9286.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-30",
+        "Open": 1292.0,
+        "High": 1292.0,
+        "Low": 1265.0,
+        "Close": 1275.0,
+        "Percent Change": 0.55,
+        "Volume": 11290.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-29",
+        "Open": 1265.0,
+        "High": 1278.0,
+        "Low": 1250.2,
+        "Close": 1268.0,
+        "Percent Change": 0.24,
+        "Volume": 8860.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-28",
+        "Open": 1250.0,
+        "High": 1287.0,
+        "Low": 1237.1,
+        "Close": 1265.0,
+        "Percent Change": 0.24,
+        "Volume": 17318.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-27",
+        "Open": 1305.0,
+        "High": 1305.0,
+        "Low": 1260.0,
+        "Close": 1262.0,
+        "Percent Change": -3.15,
+        "Volume": 10596.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-26",
+        "Open": 1325.0,
+        "High": 1325.0,
+        "Low": 1290.0,
+        "Close": 1303.0,
+        "Percent Change": -1.66,
+        "Volume": 10413.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-23",
+        "Open": 1360.0,
+        "High": 1380.0,
+        "Low": 1324.0,
+        "Close": 1325.0,
+        "Percent Change": -0.75,
+        "Volume": 13846.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-22",
+        "Open": 1310.0,
+        "High": 1341.0,
+        "Low": 1293.0,
+        "Close": 1335.0,
+        "Percent Change": 3.89,
+        "Volume": 10781.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-21",
+        "Open": 1271.0,
+        "High": 1356.0,
+        "Low": 1250.0,
+        "Close": 1285.0,
+        "Percent Change": -0.7,
+        "Volume": 18152.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-20",
+        "Open": 1340.0,
+        "High": 1364.0,
+        "Low": 1290.1,
+        "Close": 1294.0,
+        "Percent Change": -3.5,
+        "Volume": 17623.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-16",
+        "Open": 1390.0,
+        "High": 1391.0,
+        "Low": 1340.0,
+        "Close": 1341.0,
+        "Percent Change": -3.66,
+        "Volume": 22041.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-15",
+        "Open": 1406.0,
+        "High": 1409.0,
+        "Low": 1390.0,
+        "Close": 1392.0,
+        "Percent Change": -1.0,
+        "Volume": 10160.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-14",
+        "Open": 1405.0,
+        "High": 1420.0,
+        "Low": 1400.0,
+        "Close": 1406.0,
+        "Percent Change": -0.64,
+        "Volume": 12326.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-13",
+        "Open": 1421.0,
+        "High": 1446.0,
+        "Low": 1410.0,
+        "Close": 1415.0,
+        "Percent Change": -0.14,
+        "Volume": 11932.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-12",
+        "Open": 1432.0,
+        "High": 1432.0,
+        "Low": 1405.0,
+        "Close": 1417.0,
+        "Percent Change": 0.93,
+        "Volume": 11374.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-09",
+        "Open": 1402.0,
+        "High": 1434.0,
+        "Low": 1402.0,
+        "Close": 1404.0,
+        "Percent Change": -0.21,
+        "Volume": 9419.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-08",
+        "Open": 1440.0,
+        "High": 1444.0,
+        "Low": 1399.0,
+        "Close": 1407.0,
+        "Percent Change": -1.05,
+        "Volume": 12596.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-07",
+        "Open": 1455.0,
+        "High": 1456.1,
+        "Low": 1417.1,
+        "Close": 1422.0,
+        "Percent Change": -2.27,
+        "Volume": 10128.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-06",
+        "Open": 1387.3,
+        "High": 1458.0,
+        "Low": 1387.3,
+        "Close": 1455.0,
+        "Percent Change": 3.56,
+        "Volume": 13113.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-05",
+        "Open": 1445.0,
+        "High": 1450.0,
+        "Low": 1375.0,
+        "Close": 1405.0,
+        "Percent Change": -3.77,
+        "Volume": 22687.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-02",
+        "Open": 1475.0,
+        "High": 1498.0,
+        "Low": 1450.0,
+        "Close": 1460.0,
+        "Percent Change": -0.88,
+        "Volume": 17417.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-09-01",
+        "Open": 1455.1,
+        "High": 1500.0,
+        "Low": 1455.1,
+        "Close": 1473.0,
+        "Percent Change": 0.61,
+        "Volume": 13843.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-31",
+        "Open": 1492.0,
+        "High": 1510.0,
+        "Low": 1457.8,
+        "Close": 1464.0,
+        "Percent Change": -2.27,
+        "Volume": 21127.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-29",
+        "Open": 1520.0,
+        "High": 1545.0,
+        "Low": 1498.0,
+        "Close": 1498.0,
+        "Percent Change": -1.38,
+        "Volume": 20556.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-26",
+        "Open": 1540.0,
+        "High": 1560.0,
+        "Low": 1510.0,
+        "Close": 1519.0,
+        "Percent Change": -0.85,
+        "Volume": 21214.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-25",
+        "Open": 1530.0,
+        "High": 1555.0,
+        "Low": 1520.0,
+        "Close": 1532.0,
+        "Percent Change": -0.94,
+        "Volume": 9030.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-24",
+        "Open": 1570.1,
+        "High": 1575.0,
+        "Low": 1540.0,
+        "Close": 1546.6,
+        "Percent Change": -1.3,
+        "Volume": 16197.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-19",
+        "Open": 1562.0,
+        "High": 1605.0,
+        "Low": 1562.0,
+        "Close": 1567.0,
+        "Percent Change": -0.51,
+        "Volume": 16232.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-18",
+        "Open": 1581.0,
+        "High": 1581.0,
+        "Low": 1538.6,
+        "Close": 1575.0,
+        "Percent Change": -0.32,
+        "Volume": 22238.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-17",
+        "Open": 1595.0,
+        "High": 1610.0,
+        "Low": 1577.0,
+        "Close": 1580.0,
+        "Percent Change": -0.88,
+        "Volume": 21499.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-16",
+        "Open": 1608.0,
+        "High": 1620.0,
+        "Low": 1590.0,
+        "Close": 1594.0,
+        "Percent Change": -0.99,
+        "Volume": 19288.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-15",
+        "Open": 1634.2,
+        "High": 1634.2,
+        "Low": 1588.0,
+        "Close": 1610.0,
+        "Percent Change": 0.49,
+        "Volume": 25826.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-12",
+        "Open": 1610.0,
+        "High": 1633.0,
+        "Low": 1600.0,
+        "Close": 1602.2,
+        "Percent Change": -0.48,
+        "Volume": 20561.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-11",
+        "Open": 1620.0,
+        "High": 1630.0,
+        "Low": 1605.0,
+        "Close": 1610.0,
+        "Percent Change": -0.62,
+        "Volume": 20691.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-10",
+        "Open": 1610.0,
+        "High": 1651.0,
+        "Low": 1592.0,
+        "Close": 1620.0,
+        "Percent Change": 0.62,
+        "Volume": 19278.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-09",
+        "Open": 1620.0,
+        "High": 1625.0,
+        "Low": 1592.0,
+        "Close": 1610.0,
+        "Percent Change": -0.31,
+        "Volume": 20822.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-08",
+        "Open": 1674.0,
+        "High": 1674.0,
+        "Low": 1602.0,
+        "Close": 1615.0,
+        "Percent Change": -1.61,
+        "Volume": 29655.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-05",
+        "Open": 1650.0,
+        "High": 1680.0,
+        "Low": 1635.0,
+        "Close": 1641.5,
+        "Percent Change": -2.12,
+        "Volume": 28817.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-04",
+        "Open": 1725.0,
+        "High": 1780.0,
+        "Low": 1675.0,
+        "Close": 1677.0,
+        "Percent Change": -1.18,
+        "Volume": 50206.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-03",
+        "Open": 1650.0,
+        "High": 1711.0,
+        "Low": 1650.0,
+        "Close": 1697.0,
+        "Percent Change": 4.11,
+        "Volume": 68028.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-02",
+        "Open": 1640.0,
+        "High": 1640.0,
+        "Low": 1610.0,
+        "Close": 1630.0,
+        "Percent Change": 1.37,
+        "Volume": 21357.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-08-01",
+        "Open": 1620.0,
+        "High": 1649.9,
+        "Low": 1600.0,
+        "Close": 1608.0,
+        "Percent Change": 0.82,
+        "Volume": 16141.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-29",
+        "Open": 1610.0,
+        "High": 1630.0,
+        "Low": 1590.2,
+        "Close": 1595.0,
+        "Percent Change": -0.62,
+        "Volume": 13485.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-28",
+        "Open": 1590.0,
+        "High": 1635.0,
+        "Low": 1588.0,
+        "Close": 1605.0,
+        "Percent Change": 0.38,
+        "Volume": 17791.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-27",
+        "Open": 1605.3,
+        "High": 1611.0,
+        "Low": 1551.1,
+        "Close": 1599.0,
+        "Percent Change": -2.38,
+        "Volume": 42050.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-26",
+        "Open": 1585.1,
+        "High": 1642.0,
+        "Low": 1585.1,
+        "Close": 1638.0,
+        "Percent Change": 2.76,
+        "Volume": 31482.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-25",
+        "Open": 1600.0,
+        "High": 1601.0,
+        "Low": 1590.5,
+        "Close": 1594.0,
+        "Percent Change": -0.09,
+        "Volume": 15010.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-22",
+        "Open": 1605.0,
+        "High": 1620.0,
+        "Low": 1591.0,
+        "Close": 1595.4,
+        "Percent Change": -0.6,
+        "Volume": 16338.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-20",
+        "Open": 1615.0,
+        "High": 1636.0,
+        "Low": 1600.0,
+        "Close": 1600.0,
+        "Percent Change": -0.93,
+        "Volume": 11650.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-19",
+        "Open": 1619.0,
+        "High": 1669.0,
+        "Low": 1608.0,
+        "Close": 1615.0,
+        "Percent Change": 0.62,
+        "Volume": 19763.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-18",
+        "Open": 1575.0,
+        "High": 1612.0,
+        "Low": 1560.0,
+        "Close": 1605.0,
+        "Percent Change": 3.88,
+        "Volume": 27529.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-15",
+        "Open": 1536.0,
+        "High": 1545.0,
+        "Low": 1530.0,
+        "Close": 1545.0,
+        "Percent Change": 0.91,
+        "Volume": 17437.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-14",
+        "Open": 1530.0,
+        "High": 1548.0,
+        "Low": 1518.0,
+        "Close": 1531.0,
+        "Percent Change": -0.52,
+        "Volume": 7827.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-13",
+        "Open": 1550.0,
+        "High": 1555.0,
+        "Low": 1525.0,
+        "Close": 1539.0,
+        "Percent Change": 0.07,
+        "Volume": 7292.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-12",
+        "Open": 1570.0,
+        "High": 1570.0,
+        "Low": 1525.0,
+        "Close": 1538.0,
+        "Percent Change": -0.77,
+        "Volume": 19812.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-11",
+        "Open": 1530.0,
+        "High": 1550.0,
+        "Low": 1511.0,
+        "Close": 1550.0,
+        "Percent Change": 2.58,
+        "Volume": 16629.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-08",
+        "Open": 1500.0,
+        "High": 1528.0,
+        "Low": 1499.0,
+        "Close": 1511.0,
+        "Percent Change": 0.8,
+        "Volume": 13684.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-07",
+        "Open": 1495.0,
+        "High": 1520.0,
+        "Low": 1495.0,
+        "Close": 1499.0,
+        "Percent Change": -0.07,
+        "Volume": 14768.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-06",
+        "Open": 1525.0,
+        "High": 1525.0,
+        "Low": 1496.0,
+        "Close": 1500.0,
+        "Percent Change": 0.0,
+        "Volume": 17498.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-05",
+        "Open": 1538.0,
+        "High": 1539.0,
+        "Low": 1497.0,
+        "Close": 1500.0,
+        "Percent Change": -0.66,
+        "Volume": 21852.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-04",
+        "Open": 1509.0,
+        "High": 1530.0,
+        "Low": 1509.0,
+        "Close": 1510.0,
+        "Percent Change": -0.4,
+        "Volume": 12304.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-07-01",
+        "Open": 1524.0,
+        "High": 1538.0,
+        "Low": 1510.0,
+        "Close": 1516.0,
+        "Percent Change": 0.0,
+        "Volume": 15784.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-30",
+        "Open": 1520.0,
+        "High": 1555.0,
+        "Low": 1515.0,
+        "Close": 1516.0,
+        "Percent Change": -2.07,
+        "Volume": 12917.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-29",
+        "Open": 1570.0,
+        "High": 1610.0,
+        "Low": 1546.0,
+        "Close": 1548.0,
+        "Percent Change": 0.26,
+        "Volume": 24360.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-28",
+        "Open": 1525.0,
+        "High": 1566.0,
+        "Low": 1510.0,
+        "Close": 1544.0,
+        "Percent Change": 2.46,
+        "Volume": 25558.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-27",
+        "Open": 1520.0,
+        "High": 1540.0,
+        "Low": 1499.0,
+        "Close": 1507.0,
+        "Percent Change": -0.59,
+        "Volume": 20011.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-24",
+        "Open": 1500.0,
+        "High": 1566.0,
+        "Low": 1500.0,
+        "Close": 1516.0,
+        "Percent Change": -1.49,
+        "Volume": 23509.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-23",
+        "Open": 1589.0,
+        "High": 1589.0,
+        "Low": 1539.0,
+        "Close": 1539.0,
+        "Percent Change": -2.16,
+        "Volume": 20286.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-22",
+        "Open": 1580.0,
+        "High": 1598.0,
+        "Low": 1550.0,
+        "Close": 1573.0,
+        "Percent Change": 0.45,
+        "Volume": 23267.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-21",
+        "Open": 1520.0,
+        "High": 1620.0,
+        "Low": 1520.0,
+        "Close": 1566.0,
+        "Percent Change": -2.06,
+        "Volume": 27217.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-20",
+        "Open": 1628.0,
+        "High": 1640.0,
+        "Low": 1595.0,
+        "Close": 1599.0,
+        "Percent Change": -1.84,
+        "Volume": 27748.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-17",
+        "Open": 1690.0,
+        "High": 1723.0,
+        "Low": 1619.0,
+        "Close": 1629.0,
+        "Percent Change": -1.87,
+        "Volume": 24410.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-16",
+        "Open": 1603.0,
+        "High": 1709.0,
+        "Low": 1595.0,
+        "Close": 1660.0,
+        "Percent Change": 3.56,
+        "Volume": 61567.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-15",
+        "Open": 1606.0,
+        "High": 1622.0,
+        "Low": 1600.0,
+        "Close": 1603.0,
+        "Percent Change": -0.8,
+        "Volume": 29455.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-14",
+        "Open": 1620.0,
+        "High": 1635.0,
+        "Low": 1605.0,
+        "Close": 1616.0,
+        "Percent Change": 0.44,
+        "Volume": 28333.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-13",
+        "Open": 1625.0,
+        "High": 1628.0,
+        "Low": 1578.0,
+        "Close": 1609.0,
+        "Percent Change": -0.49,
+        "Volume": 36522.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-10",
+        "Open": 1650.0,
+        "High": 1650.0,
+        "Low": 1614.0,
+        "Close": 1617.0,
+        "Percent Change": -0.74,
+        "Volume": 29349.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-09",
+        "Open": 1628.0,
+        "High": 1651.0,
+        "Low": 1625.0,
+        "Close": 1629.0,
+        "Percent Change": 0.0,
+        "Volume": 34825.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-08",
+        "Open": 1705.0,
+        "High": 1705.0,
+        "Low": 1626.0,
+        "Close": 1628.0,
+        "Percent Change": -0.37,
+        "Volume": 34635.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-07",
+        "Open": 1644.0,
+        "High": 1660.0,
+        "Low": 1634.0,
+        "Close": 1634.0,
+        "Percent Change": -0.61,
+        "Volume": 21195.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-06",
+        "Open": 1650.0,
+        "High": 1681.0,
+        "Low": 1641.0,
+        "Close": 1644.0,
+        "Percent Change": -0.3,
+        "Volume": 25578.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-03",
+        "Open": 1725.0,
+        "High": 1725.0,
+        "Low": 1649.0,
+        "Close": 1649.0,
+        "Percent Change": 0.37,
+        "Volume": 25530.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-02",
+        "Open": 1670.0,
+        "High": 1670.0,
+        "Low": 1631.0,
+        "Close": 1643.0,
+        "Percent Change": 0.61,
+        "Volume": 20574.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-06-01",
+        "Open": 1650.0,
+        "High": 1666.0,
+        "Low": 1622.0,
+        "Close": 1633.0,
+        "Percent Change": -1.03,
+        "Volume": 26567.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-31",
+        "Open": 1655.0,
+        "High": 1683.0,
+        "Low": 1644.0,
+        "Close": 1650.0,
+        "Percent Change": -0.48,
+        "Volume": 43055.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-30",
+        "Open": 1670.0,
+        "High": 1700.0,
+        "Low": 1655.0,
+        "Close": 1658.0,
+        "Percent Change": -0.9,
+        "Volume": 41047.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-27",
+        "Open": 1671.0,
+        "High": 1733.0,
+        "Low": 1607.0,
+        "Close": 1673.0,
+        "Percent Change": -4.84,
+        "Volume": 111261.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-25",
+        "Open": 1780.0,
+        "High": 1785.0,
+        "Low": 1758.0,
+        "Close": 1758.0,
+        "Percent Change": -0.23,
+        "Volume": 23995.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-24",
+        "Open": 1780.0,
+        "High": 1790.0,
+        "Low": 1760.0,
+        "Close": 1762.0,
+        "Percent Change": -1.01,
+        "Volume": 35799.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-23",
+        "Open": 1750.0,
+        "High": 1793.0,
+        "Low": 1750.0,
+        "Close": 1780.0,
+        "Percent Change": -0.17,
+        "Volume": 33784.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-20",
+        "Open": 1800.0,
+        "High": 1820.0,
+        "Low": 1776.0,
+        "Close": 1783.0,
+        "Percent Change": -0.83,
+        "Volume": 31918.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-19",
+        "Open": 1800.0,
+        "High": 1836.0,
+        "Low": 1781.0,
+        "Close": 1798.0,
+        "Percent Change": 0.45,
+        "Volume": 66643.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-18",
+        "Open": 1800.0,
+        "High": 1800.0,
+        "Low": 1780.0,
+        "Close": 1790.0,
+        "Percent Change": 0.39,
+        "Volume": 39058.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-17",
+        "Open": 1790.0,
+        "High": 1810.0,
+        "Low": 1780.0,
+        "Close": 1783.0,
+        "Percent Change": -0.39,
+        "Volume": 29173.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-16",
+        "Open": 1775.0,
+        "High": 1795.0,
+        "Low": 1775.0,
+        "Close": 1790.0,
+        "Percent Change": 1.02,
+        "Volume": 29210.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-13",
+        "Open": 1750.0,
+        "High": 1800.0,
+        "Low": 1750.0,
+        "Close": 1772.0,
+        "Percent Change": -0.06,
+        "Volume": 19962.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-12",
+        "Open": 1786.0,
+        "High": 1795.0,
+        "Low": 1766.0,
+        "Close": 1773.0,
+        "Percent Change": -0.39,
+        "Volume": 21623.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-11",
+        "Open": 1780.0,
+        "High": 1805.0,
+        "Low": 1771.0,
+        "Close": 1780.0,
+        "Percent Change": 0.0,
+        "Volume": 25790.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-10",
+        "Open": 1750.0,
+        "High": 1800.0,
+        "Low": 1747.0,
+        "Close": 1780.0,
+        "Percent Change": 0.62,
+        "Volume": 21338.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-09",
+        "Open": 1821.0,
+        "High": 1821.0,
+        "Low": 1764.0,
+        "Close": 1769.0,
+        "Percent Change": -2.86,
+        "Volume": 36361.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-06",
+        "Open": 1880.0,
+        "High": 1885.0,
+        "Low": 1820.0,
+        "Close": 1821.0,
+        "Percent Change": -2.78,
+        "Volume": 48227.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-05",
+        "Open": 1850.0,
+        "High": 1910.0,
+        "Low": 1825.0,
+        "Close": 1873.0,
+        "Percent Change": 3.54,
+        "Volume": 119789.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-04",
+        "Open": 1738.0,
+        "High": 1830.0,
+        "Low": 1725.0,
+        "Close": 1809.0,
+        "Percent Change": 4.09,
+        "Volume": 62225.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-03",
+        "Open": 1744.0,
+        "High": 1765.0,
+        "Low": 1721.0,
+        "Close": 1738.0,
+        "Percent Change": 0.12,
+        "Volume": 28252.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-05-02",
+        "Open": 1730.0,
+        "High": 1748.0,
+        "Low": 1710.0,
+        "Close": 1736.0,
+        "Percent Change": 0.58,
+        "Volume": 39847.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-29",
+        "Open": 1730.0,
+        "High": 1750.0,
+        "Low": 1711.0,
+        "Close": 1726.0,
+        "Percent Change": -0.17,
+        "Volume": 20952.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-28",
+        "Open": 1760.0,
+        "High": 1806.0,
+        "Low": 1718.0,
+        "Close": 1729.0,
+        "Percent Change": -1.48,
+        "Volume": 28733.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-27",
+        "Open": 1701.0,
+        "High": 1760.0,
+        "Low": 1700.0,
+        "Close": 1755.0,
+        "Percent Change": 3.17,
+        "Volume": 38917.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-26",
+        "Open": 1750.0,
+        "High": 1794.0,
+        "Low": 1700.0,
+        "Close": 1701.0,
+        "Percent Change": -3.57,
+        "Volume": 73976.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-25",
+        "Open": 1900.0,
+        "High": 1900.0,
+        "Low": 1761.0,
+        "Close": 1764.0,
+        "Percent Change": -3.97,
+        "Volume": 71662.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-22",
+        "Open": 1882.0,
+        "High": 1885.0,
+        "Low": 1764.0,
+        "Close": 1837.0,
+        "Percent Change": 2.45,
+        "Volume": 116471.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-21",
+        "Open": 1900.0,
+        "High": 1900.0,
+        "Low": 1785.0,
+        "Close": 1793.0,
+        "Percent Change": -1.38,
+        "Volume": 77827.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-20",
+        "Open": 1900.0,
+        "High": 1900.0,
+        "Low": 1802.0,
+        "Close": 1818.0,
+        "Percent Change": -1.68,
+        "Volume": 85694.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-19",
+        "Open": 1918.0,
+        "High": 1940.0,
+        "Low": 1840.0,
+        "Close": 1849.0,
+        "Percent Change": -2.63,
+        "Volume": 123334.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-18",
+        "Open": 1961.0,
+        "High": 2037.0,
+        "Low": 1831.0,
+        "Close": 1899.0,
+        "Percent Change": 1.66,
+        "Volume": 288975.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-15",
+        "Open": 1783.0,
+        "High": 1868.0,
+        "Low": 1783.0,
+        "Close": 1868.0,
+        "Percent Change": 9.95,
+        "Volume": 269135.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-13",
+        "Open": 1622.0,
+        "High": 1699.0,
+        "Low": 1622.0,
+        "Close": 1699.0,
+        "Percent Change": 9.97,
+        "Volume": 10426.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-12",
+        "Open": 1545.0,
+        "High": 1545.0,
+        "Low": 1545.0,
+        "Close": 1545.0,
+        "Percent Change": 9.96,
+        "Volume": 2242.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-08",
+        "Open": 1297.0,
+        "High": 1405.0,
+        "Low": 1297.0,
+        "Close": 1405.0,
+        "Percent Change": 9.94,
+        "Volume": 721.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-07",
+        "Open": 1220.0,
+        "High": 1278.0,
+        "Low": 1220.0,
+        "Close": 1278.0,
+        "Percent Change": 9.98,
+        "Volume": 1359.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-06",
+        "Open": 1109.0,
+        "High": 1162.0,
+        "Low": 1109.0,
+        "Close": 1162.0,
+        "Percent Change": 9.93,
+        "Volume": 1052.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-05",
+        "Open": 980.0,
+        "High": 1057.0,
+        "Low": 980.0,
+        "Close": 1057.0,
+        "Percent Change": 9.99,
+        "Volume": 1217.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-04",
+        "Open": 917.0,
+        "High": 961.0,
+        "Low": 917.0,
+        "Close": 961.0,
+        "Percent Change": 9.95,
+        "Volume": 3440.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-04-01",
+        "Open": 834.0,
+        "High": 874.0,
+        "Low": 834.0,
+        "Close": 874.0,
+        "Percent Change": 9.94,
+        "Volume": 431.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2021-03-31",
+        "Open": 759.0,
+        "High": 795.0,
+        "Low": 759.0,
+        "Close": 795.0,
+        "Percent Change": 3.91,
+        "Volume": 239.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-08-13",
+        "Open": 753.0,
+        "High": 770.0,
+        "Low": 753.0,
+        "Close": 759.0,
+        "Percent Change": -1.04,
+        "Volume": 30385.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-08-12",
+        "Open": 775.0,
+        "High": 780.0,
+        "Low": 765.0,
+        "Close": 767.0,
+        "Percent Change": -1.41,
+        "Volume": 26710.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-08-11",
+        "Open": 793.0,
+        "High": 793.0,
+        "Low": 772.0,
+        "Close": 778.0,
+        "Percent Change": -1.89,
+        "Volume": 30656.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-08-10",
+        "Open": 742.0,
+        "High": 795.0,
+        "Low": 742.0,
+        "Close": 793.0,
+        "Percent Change": 4.89,
+        "Volume": 34851.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-08-09",
+        "Open": 755.0,
+        "High": 764.0,
+        "Low": 730.0,
+        "Close": 756.0,
+        "Percent Change": -0.92,
+        "Volume": 43385.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-08-06",
+        "Open": 775.0,
+        "High": 775.0,
+        "Low": 760.0,
+        "Close": 763.0,
+        "Percent Change": -0.91,
+        "Volume": 27895.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-08-05",
+        "Open": 785.0,
+        "High": 785.0,
+        "Low": 768.0,
+        "Close": 772.0,
+        "Percent Change": -1.91,
+        "Volume": 28956.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-08-03",
+        "Open": 775.0,
+        "High": 799.0,
+        "Low": 772.0,
+        "Close": 787.0,
+        "Percent Change": 0.0,
+        "Volume": 29520.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-08-02",
+        "Open": 810.0,
+        "High": 810.0,
+        "Low": 783.0,
+        "Close": 787.0,
+        "Percent Change": -2.36,
+        "Volume": 52090.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-30",
+        "Open": 812.0,
+        "High": 820.0,
+        "Low": 800.0,
+        "Close": 806.0,
+        "Percent Change": -0.74,
+        "Volume": 44120.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-29",
+        "Open": 840.0,
+        "High": 840.0,
+        "Low": 807.0,
+        "Close": 812.0,
+        "Percent Change": -2.17,
+        "Volume": 53350.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-28",
+        "Open": 811.0,
+        "High": 839.0,
+        "Low": 810.0,
+        "Close": 830.0,
+        "Percent Change": 1.1,
+        "Volume": 59825.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-27",
+        "Open": 780.0,
+        "High": 855.0,
+        "Low": 780.0,
+        "Close": 820.0,
+        "Percent Change": 4.99,
+        "Volume": 93959.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-26",
+        "Open": 795.0,
+        "High": 795.0,
+        "Low": 775.0,
+        "Close": 781.0,
+        "Percent Change": -1.51,
+        "Volume": 80655.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-23",
+        "Open": 820.0,
+        "High": 820.0,
+        "Low": 781.0,
+        "Close": 793.0,
+        "Percent Change": -1.49,
+        "Volume": 89223.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-22",
+        "Open": 793.0,
+        "High": 831.0,
+        "Low": 793.0,
+        "Close": 805.0,
+        "Percent Change": 6.48,
+        "Volume": 221826.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-21",
+        "Open": 722.0,
+        "High": 756.0,
+        "Low": 722.0,
+        "Close": 756.0,
+        "Percent Change": 9.88,
+        "Volume": 38948.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-20",
+        "Open": 657.0,
+        "High": 688.0,
+        "Low": 657.0,
+        "Close": 688.0,
+        "Percent Change": 9.9,
+        "Volume": 8160.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-19",
+        "Open": 614.0,
+        "High": 626.0,
+        "Low": 614.0,
+        "Close": 626.0,
+        "Percent Change": 7.01,
+        "Volume": 20.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-16",
+        "Open": 542.0,
+        "High": 585.0,
+        "Low": 542.0,
+        "Close": 585.0,
+        "Percent Change": 9.96,
+        "Volume": 1170.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-15",
+        "Open": 508.0,
+        "High": 532.0,
+        "Low": 508.0,
+        "Close": 532.0,
+        "Percent Change": 9.92,
+        "Volume": 1050.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-14",
+        "Open": 448.0,
+        "High": 484.0,
+        "Low": 448.0,
+        "Close": 484.0,
+        "Percent Change": 10.0,
+        "Volume": 250.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-13",
+        "Open": 408.0,
+        "High": 440.0,
+        "Low": 408.0,
+        "Close": 440.0,
+        "Percent Change": 10.0,
+        "Volume": 400.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-12",
+        "Open": 371.0,
+        "High": 400.0,
+        "Low": 371.0,
+        "Close": 400.0,
+        "Percent Change": 9.89,
+        "Volume": 260.0
+    },
+    {
+        "Symbol": "NICLBSL",
+        "Date": "2020-07-09",
+        "Open": 331.0,
+        "High": 364.0,
+        "Low": 331.0,
+        "Close": 364.0,
+        "Percent Change": 0.0,
+        "Volume": 230.0
+    }
+]

@@ -1,0 +1,6492 @@
+[
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-08-11",
+        "Open": 1015.0,
+        "High": 1050.0,
+        "Low": 998.0,
+        "Close": 1050.0,
+        "Percent Change": 5.21,
+        "Volume": 37591.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-08-08",
+        "Open": 1020.9,
+        "High": 1035.0,
+        "Low": 987.0,
+        "Close": 998.0,
+        "Percent Change": -0.3,
+        "Volume": 22846.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-08-07",
+        "Open": 991.4,
+        "High": 1030.0,
+        "Low": 955.8,
+        "Close": 1001.0,
+        "Percent Change": 2.98,
+        "Volume": 15809.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-08-06",
+        "Open": 995.7,
+        "High": 1015.6,
+        "Low": 961.0,
+        "Close": 972.0,
+        "Percent Change": -4.33,
+        "Volume": 52298.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-08-05",
+        "Open": 990.0,
+        "High": 1034.9,
+        "Low": 972.0,
+        "Close": 1016.0,
+        "Percent Change": 2.63,
+        "Volume": 29631.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-08-01",
+        "Open": 985.9,
+        "High": 1037.0,
+        "Low": 980.0,
+        "Close": 990.0,
+        "Percent Change": -1.59,
+        "Volume": 27715.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-31",
+        "Open": 971.0,
+        "High": 1044.9,
+        "Low": 971.0,
+        "Close": 1006.0,
+        "Percent Change": 1.62,
+        "Volume": 35271.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-30",
+        "Open": 983.0,
+        "High": 1001.0,
+        "Low": 965.0,
+        "Close": 990.0,
+        "Percent Change": 0.71,
+        "Volume": 34420.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-29",
+        "Open": 1000.0,
+        "High": 1001.0,
+        "Low": 965.0,
+        "Close": 983.0,
+        "Percent Change": -3.62,
+        "Volume": 25089.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-28",
+        "Open": 1081.0,
+        "High": 1081.0,
+        "Low": 975.0,
+        "Close": 1019.9,
+        "Percent Change": -3.77,
+        "Volume": 47725.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-25",
+        "Open": 960.0,
+        "High": 1060.0,
+        "Low": 960.0,
+        "Close": 1059.9,
+        "Percent Change": 9.72,
+        "Volume": 46519.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-24",
+        "Open": 950.0,
+        "High": 997.9,
+        "Low": 950.0,
+        "Close": 966.0,
+        "Percent Change": -0.31,
+        "Volume": 38443.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-23",
+        "Open": 922.1,
+        "High": 969.0,
+        "Low": 922.1,
+        "Close": 969.0,
+        "Percent Change": 3.65,
+        "Volume": 34490.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-22",
+        "Open": 925.0,
+        "High": 934.9,
+        "Low": 910.3,
+        "Close": 934.9,
+        "Percent Change": -0.01,
+        "Volume": 23527.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-21",
+        "Open": 922.0,
+        "High": 940.0,
+        "Low": 905.0,
+        "Close": 935.0,
+        "Percent Change": 1.41,
+        "Volume": 25048.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-18",
+        "Open": 915.0,
+        "High": 960.0,
+        "Low": 906.6,
+        "Close": 922.0,
+        "Percent Change": 1.73,
+        "Volume": 34685.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-17",
+        "Open": 885.3,
+        "High": 914.0,
+        "Low": 885.0,
+        "Close": 906.3,
+        "Percent Change": 2.52,
+        "Volume": 18928.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-16",
+        "Open": 887.4,
+        "High": 897.6,
+        "Low": 869.7,
+        "Close": 884.0,
+        "Percent Change": 1.61,
+        "Volume": 11789.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-15",
+        "Open": 909.5,
+        "High": 909.5,
+        "Low": 863.2,
+        "Close": 870.0,
+        "Percent Change": -2.43,
+        "Volume": 11660.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-14",
+        "Open": 901.6,
+        "High": 919.6,
+        "Low": 884.0,
+        "Close": 891.7,
+        "Percent Change": 0.87,
+        "Volume": 10142.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-11",
+        "Open": 921.7,
+        "High": 921.7,
+        "Low": 876.1,
+        "Close": 884.0,
+        "Percent Change": -2.18,
+        "Volume": 26806.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-10",
+        "Open": 852.6,
+        "High": 904.0,
+        "Low": 852.6,
+        "Close": 903.7,
+        "Percent Change": 3.87,
+        "Volume": 39254.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-09",
+        "Open": 856.0,
+        "High": 875.0,
+        "Low": 838.9,
+        "Close": 870.0,
+        "Percent Change": 3.57,
+        "Volume": 18759.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-08",
+        "Open": 850.6,
+        "High": 850.6,
+        "Low": 830.0,
+        "Close": 840.0,
+        "Percent Change": 0.72,
+        "Volume": 10911.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-07",
+        "Open": 834.3,
+        "High": 835.0,
+        "Low": 821.1,
+        "Close": 834.0,
+        "Percent Change": 1.96,
+        "Volume": 14991.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-04",
+        "Open": 839.3,
+        "High": 839.3,
+        "Low": 810.0,
+        "Close": 818.0,
+        "Percent Change": -0.6,
+        "Volume": 7125.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-03",
+        "Open": 840.4,
+        "High": 840.4,
+        "Low": 808.1,
+        "Close": 822.9,
+        "Percent Change": -0.13,
+        "Volume": 7970.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-02",
+        "Open": 825.2,
+        "High": 858.0,
+        "Low": 810.0,
+        "Close": 824.0,
+        "Percent Change": 1.84,
+        "Volume": 9058.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-07-01",
+        "Open": 810.0,
+        "High": 814.9,
+        "Low": 800.1,
+        "Close": 809.1,
+        "Percent Change": 1.12,
+        "Volume": 9155.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-30",
+        "Open": 797.8,
+        "High": 846.0,
+        "Low": 797.8,
+        "Close": 800.1,
+        "Percent Change": -1.71,
+        "Volume": 7163.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-27",
+        "Open": 808.1,
+        "High": 820.0,
+        "Low": 807.0,
+        "Close": 814.0,
+        "Percent Change": -1.21,
+        "Volume": 4820.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-26",
+        "Open": 851.0,
+        "High": 851.0,
+        "Low": 817.0,
+        "Close": 824.0,
+        "Percent Change": -1.25,
+        "Volume": 6317.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-25",
+        "Open": 828.0,
+        "High": 842.0,
+        "Low": 822.0,
+        "Close": 834.4,
+        "Percent Change": 0.89,
+        "Volume": 8826.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-24",
+        "Open": 810.0,
+        "High": 846.0,
+        "Low": 810.0,
+        "Close": 827.0,
+        "Percent Change": 2.61,
+        "Volume": 12374.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-23",
+        "Open": 811.1,
+        "High": 829.0,
+        "Low": 805.0,
+        "Close": 806.0,
+        "Percent Change": -2.3,
+        "Volume": 7408.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-20",
+        "Open": 851.0,
+        "High": 851.0,
+        "Low": 821.2,
+        "Close": 825.0,
+        "Percent Change": -1.2,
+        "Volume": 9510.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-19",
+        "Open": 842.0,
+        "High": 842.0,
+        "Low": 830.0,
+        "Close": 835.0,
+        "Percent Change": 1.09,
+        "Volume": 6817.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-18",
+        "Open": 855.0,
+        "High": 855.0,
+        "Low": 825.0,
+        "Close": 826.0,
+        "Percent Change": -2.48,
+        "Volume": 14389.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-16",
+        "Open": 892.5,
+        "High": 892.5,
+        "Low": 847.0,
+        "Close": 847.0,
+        "Percent Change": -3.2,
+        "Volume": 13578.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-13",
+        "Open": 878.2,
+        "High": 886.0,
+        "Low": 864.5,
+        "Close": 875.0,
+        "Percent Change": 1.63,
+        "Volume": 31421.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-12",
+        "Open": 853.5,
+        "High": 878.0,
+        "Low": 852.1,
+        "Close": 861.0,
+        "Percent Change": -0.46,
+        "Volume": 28684.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-11",
+        "Open": 871.0,
+        "High": 875.0,
+        "Low": 837.1,
+        "Close": 865.0,
+        "Percent Change": 1.29,
+        "Volume": 11112.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-10",
+        "Open": 863.9,
+        "High": 863.9,
+        "Low": 832.3,
+        "Close": 854.0,
+        "Percent Change": 0.83,
+        "Volume": 17695.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-09",
+        "Open": 892.5,
+        "High": 892.5,
+        "Low": 836.0,
+        "Close": 847.0,
+        "Percent Change": -3.2,
+        "Volume": 48678.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-06",
+        "Open": 865.0,
+        "High": 905.0,
+        "Low": 865.0,
+        "Close": 875.0,
+        "Percent Change": 1.16,
+        "Volume": 42021.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-05",
+        "Open": 822.1,
+        "High": 884.0,
+        "Low": 796.0,
+        "Close": 865.0,
+        "Percent Change": 7.32,
+        "Volume": 79532.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-04",
+        "Open": 811.9,
+        "High": 815.0,
+        "Low": 795.1,
+        "Close": 806.0,
+        "Percent Change": 1.26,
+        "Volume": 21792.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-03",
+        "Open": 790.5,
+        "High": 806.0,
+        "Low": 775.2,
+        "Close": 796.0,
+        "Percent Change": 2.71,
+        "Volume": 20302.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-06-02",
+        "Open": 744.0,
+        "High": 778.0,
+        "Low": 744.0,
+        "Close": 775.0,
+        "Percent Change": 2.11,
+        "Volume": 13906.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-30",
+        "Open": 793.5,
+        "High": 793.5,
+        "Low": 749.7,
+        "Close": 759.0,
+        "Percent Change": -2.44,
+        "Volume": 20260.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-29",
+        "Open": 780.0,
+        "High": 795.0,
+        "Low": 760.0,
+        "Close": 778.0,
+        "Percent Change": -0.64,
+        "Volume": 13830.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-27",
+        "Open": 808.8,
+        "High": 808.8,
+        "Low": 776.9,
+        "Close": 783.0,
+        "Percent Change": -1.26,
+        "Volume": 15907.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-26",
+        "Open": 847.6,
+        "High": 847.6,
+        "Low": 782.0,
+        "Close": 793.0,
+        "Percent Change": -4.57,
+        "Volume": 31810.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-22",
+        "Open": 840.0,
+        "High": 850.0,
+        "Low": 803.0,
+        "Close": 831.0,
+        "Percent Change": -0.48,
+        "Volume": 20662.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-21",
+        "Open": 800.0,
+        "High": 846.7,
+        "Low": 797.7,
+        "Close": 835.0,
+        "Percent Change": 4.11,
+        "Volume": 20536.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-20",
+        "Open": 827.0,
+        "High": 838.9,
+        "Low": 797.0,
+        "Close": 802.0,
+        "Percent Change": -1.23,
+        "Volume": 27330.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-19",
+        "Open": 810.9,
+        "High": 819.9,
+        "Low": 801.1,
+        "Close": 812.0,
+        "Percent Change": 2.14,
+        "Volume": 31935.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-16",
+        "Open": 765.0,
+        "High": 805.0,
+        "Low": 765.0,
+        "Close": 795.0,
+        "Percent Change": 2.36,
+        "Volume": 34350.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-15",
+        "Open": 800.0,
+        "High": 805.0,
+        "Low": 774.2,
+        "Close": 776.7,
+        "Percent Change": -1.66,
+        "Volume": 23071.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-14",
+        "Open": 765.0,
+        "High": 793.0,
+        "Low": 750.0,
+        "Close": 789.8,
+        "Percent Change": 5.31,
+        "Volume": 34058.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-13",
+        "Open": 779.0,
+        "High": 779.0,
+        "Low": 750.0,
+        "Close": 750.0,
+        "Percent Change": -1.81,
+        "Volume": 10019.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-12",
+        "Open": 765.5,
+        "High": 765.5,
+        "Low": 752.0,
+        "Close": 763.8,
+        "Percent Change": -2.2,
+        "Volume": 15521.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-09",
+        "Open": 783.1,
+        "High": 800.0,
+        "Low": 762.0,
+        "Close": 781.0,
+        "Percent Change": -2.25,
+        "Volume": 20920.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-08",
+        "Open": 774.4,
+        "High": 800.0,
+        "Low": 766.2,
+        "Close": 799.0,
+        "Percent Change": 5.13,
+        "Volume": 24498.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-07",
+        "Open": 734.0,
+        "High": 763.0,
+        "Low": 706.1,
+        "Close": 760.0,
+        "Percent Change": 5.56,
+        "Volume": 17178.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-06",
+        "Open": 780.1,
+        "High": 780.1,
+        "Low": 719.0,
+        "Close": 720.0,
+        "Percent Change": -5.87,
+        "Volume": 18915.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-05",
+        "Open": 760.0,
+        "High": 804.0,
+        "Low": 760.0,
+        "Close": 764.9,
+        "Percent Change": -0.66,
+        "Volume": 45862.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-05-02",
+        "Open": 739.8,
+        "High": 802.0,
+        "Low": 734.0,
+        "Close": 770.0,
+        "Percent Change": 5.48,
+        "Volume": 29004.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-30",
+        "Open": 700.0,
+        "High": 730.0,
+        "Low": 694.0,
+        "Close": 730.0,
+        "Percent Change": 5.05,
+        "Volume": 22423.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-29",
+        "Open": 698.0,
+        "High": 703.0,
+        "Low": 686.0,
+        "Close": 694.9,
+        "Percent Change": -0.44,
+        "Volume": 7022.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-28",
+        "Open": 683.4,
+        "High": 710.0,
+        "Low": 665.1,
+        "Close": 698.0,
+        "Percent Change": 4.18,
+        "Volume": 8062.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-25",
+        "Open": 690.0,
+        "High": 690.0,
+        "Low": 665.0,
+        "Close": 670.0,
+        "Percent Change": -1.18,
+        "Volume": 9106.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-24",
+        "Open": 693.0,
+        "High": 693.6,
+        "Low": 669.0,
+        "Close": 678.0,
+        "Percent Change": -0.29,
+        "Volume": 8332.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-22",
+        "Open": 701.5,
+        "High": 701.5,
+        "Low": 665.0,
+        "Close": 680.0,
+        "Percent Change": -1.16,
+        "Volume": 3030.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-21",
+        "Open": 690.0,
+        "High": 690.0,
+        "Low": 670.0,
+        "Close": 688.0,
+        "Percent Change": 1.33,
+        "Volume": 3927.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-18",
+        "Open": 686.3,
+        "High": 691.0,
+        "Low": 665.0,
+        "Close": 679.0,
+        "Percent Change": -1.06,
+        "Volume": 7207.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-16",
+        "Open": 700.3,
+        "High": 706.9,
+        "Low": 686.3,
+        "Close": 686.3,
+        "Percent Change": -3.95,
+        "Volume": 10481.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-15",
+        "Open": 730.0,
+        "High": 744.0,
+        "Low": 701.0,
+        "Close": 714.5,
+        "Percent Change": -0.35,
+        "Volume": 12575.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-14",
+        "Open": 700.0,
+        "High": 723.7,
+        "Low": 678.0,
+        "Close": 717.0,
+        "Percent Change": 3.91,
+        "Volume": 14459.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-10",
+        "Open": 718.5,
+        "High": 718.5,
+        "Low": 682.2,
+        "Close": 690.0,
+        "Percent Change": -2.06,
+        "Volume": 11735.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-09",
+        "Open": 710.0,
+        "High": 720.0,
+        "Low": 696.0,
+        "Close": 704.5,
+        "Percent Change": -0.07,
+        "Volume": 20185.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-07",
+        "Open": 713.0,
+        "High": 727.0,
+        "Low": 696.0,
+        "Close": 705.0,
+        "Percent Change": 0.84,
+        "Volume": 35576.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-04",
+        "Open": 681.0,
+        "High": 710.0,
+        "Low": 666.4,
+        "Close": 699.1,
+        "Percent Change": 4.2,
+        "Volume": 36631.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-03",
+        "Open": 666.0,
+        "High": 681.0,
+        "Low": 655.3,
+        "Close": 670.9,
+        "Percent Change": 1.99,
+        "Volume": 19864.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-02",
+        "Open": 629.5,
+        "High": 670.0,
+        "Low": 629.5,
+        "Close": 657.8,
+        "Percent Change": 2.6,
+        "Volume": 14709.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-04-01",
+        "Open": 654.7,
+        "High": 654.7,
+        "Low": 636.5,
+        "Close": 641.1,
+        "Percent Change": -2.08,
+        "Volume": 4609.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-31",
+        "Open": 655.0,
+        "High": 655.0,
+        "Low": 641.9,
+        "Close": 654.7,
+        "Percent Change": -1.25,
+        "Volume": 8252.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-28",
+        "Open": 654.9,
+        "High": 663.0,
+        "Low": 641.9,
+        "Close": 663.0,
+        "Percent Change": 1.22,
+        "Volume": 8936.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-27",
+        "Open": 672.0,
+        "High": 686.0,
+        "Low": 642.0,
+        "Close": 655.0,
+        "Percent Change": -0.71,
+        "Volume": 13088.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-26",
+        "Open": 645.0,
+        "High": 669.0,
+        "Low": 645.0,
+        "Close": 659.7,
+        "Percent Change": 2.92,
+        "Volume": 14438.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-25",
+        "Open": 662.0,
+        "High": 662.0,
+        "Low": 641.0,
+        "Close": 641.0,
+        "Percent Change": -5.02,
+        "Volume": 13935.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-21",
+        "Open": 700.0,
+        "High": 700.0,
+        "Low": 665.2,
+        "Close": 674.9,
+        "Percent Change": -1.9,
+        "Volume": 26045.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-20",
+        "Open": 670.0,
+        "High": 698.6,
+        "Low": 661.1,
+        "Close": 688.0,
+        "Percent Change": 4.24,
+        "Volume": 46497.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-19",
+        "Open": 658.0,
+        "High": 684.0,
+        "Low": 650.0,
+        "Close": 660.0,
+        "Percent Change": 2.25,
+        "Volume": 20330.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-18",
+        "Open": 617.0,
+        "High": 653.0,
+        "Low": 612.0,
+        "Close": 645.5,
+        "Percent Change": 4.28,
+        "Volume": 29997.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-17",
+        "Open": 615.0,
+        "High": 639.0,
+        "Low": 607.7,
+        "Close": 619.0,
+        "Percent Change": 2.65,
+        "Volume": 34991.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-14",
+        "Open": 590.0,
+        "High": 650.7,
+        "Low": 590.0,
+        "Close": 603.0,
+        "Percent Change": 1.28,
+        "Volume": 23618.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-13",
+        "Open": 615.0,
+        "High": 627.0,
+        "Low": 591.0,
+        "Close": 595.4,
+        "Percent Change": -2.49,
+        "Volume": 19333.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-12",
+        "Open": 576.2,
+        "High": 615.0,
+        "Low": 574.0,
+        "Close": 610.6,
+        "Percent Change": 8.07,
+        "Volume": 38526.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-10",
+        "Open": 542.0,
+        "High": 569.9,
+        "Low": 536.0,
+        "Close": 565.0,
+        "Percent Change": 6.2,
+        "Volume": 17688.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-07",
+        "Open": 530.4,
+        "High": 541.0,
+        "Low": 516.3,
+        "Close": 532.0,
+        "Percent Change": 2.31,
+        "Volume": 6822.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-06",
+        "Open": 518.0,
+        "High": 527.0,
+        "Low": 503.0,
+        "Close": 520.0,
+        "Percent Change": 0.39,
+        "Volume": 2199.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-05",
+        "Open": 528.3,
+        "High": 528.3,
+        "Low": 507.7,
+        "Close": 518.0,
+        "Percent Change": 0.0,
+        "Volume": 1366.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-04",
+        "Open": 518.0,
+        "High": 518.0,
+        "Low": 518.0,
+        "Close": 518.0,
+        "Percent Change": 1.99,
+        "Volume": 10.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-03-03",
+        "Open": 500.0,
+        "High": 510.0,
+        "Low": 500.0,
+        "Close": 507.9,
+        "Percent Change": 0.36,
+        "Volume": 1174.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-29",
+        "Open": 525.3,
+        "High": 525.3,
+        "Low": 506.1,
+        "Close": 506.1,
+        "Percent Change": -1.73,
+        "Volume": 2464.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-28",
+        "Open": 522.0,
+        "High": 522.0,
+        "Low": 507.0,
+        "Close": 515.0,
+        "Percent Change": -2.63,
+        "Volume": 2321.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-27",
+        "Open": 505.0,
+        "High": 528.9,
+        "Low": 505.0,
+        "Close": 528.9,
+        "Percent Change": 2.7,
+        "Volume": 1480.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-26",
+        "Open": 518.1,
+        "High": 518.1,
+        "Low": 500.3,
+        "Close": 515.0,
+        "Percent Change": 1.38,
+        "Volume": 1020.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-25",
+        "Open": 508.0,
+        "High": 524.0,
+        "Low": 507.0,
+        "Close": 508.0,
+        "Percent Change": -1.55,
+        "Volume": 3944.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-22",
+        "Open": 519.0,
+        "High": 530.4,
+        "Low": 511.5,
+        "Close": 516.0,
+        "Percent Change": -0.77,
+        "Volume": 4260.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-21",
+        "Open": 527.1,
+        "High": 531.0,
+        "Low": 517.0,
+        "Close": 520.0,
+        "Percent Change": -1.35,
+        "Volume": 2227.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-20",
+        "Open": 527.3,
+        "High": 530.0,
+        "Low": 512.1,
+        "Close": 527.1,
+        "Percent Change": -2.03,
+        "Volume": 944.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-18",
+        "Open": 538.0,
+        "High": 539.0,
+        "Low": 529.0,
+        "Close": 538.0,
+        "Percent Change": 0.0,
+        "Volume": 1390.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-15",
+        "Open": 535.0,
+        "High": 544.0,
+        "Low": 530.2,
+        "Close": 538.0,
+        "Percent Change": -0.19,
+        "Volume": 1556.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-14",
+        "Open": 540.0,
+        "High": 549.9,
+        "Low": 530.4,
+        "Close": 539.0,
+        "Percent Change": -0.19,
+        "Volume": 2343.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-13",
+        "Open": 556.0,
+        "High": 556.0,
+        "Low": 540.0,
+        "Close": 540.0,
+        "Percent Change": -2.88,
+        "Volume": 2241.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-12",
+        "Open": 541.0,
+        "High": 556.8,
+        "Low": 541.0,
+        "Close": 556.0,
+        "Percent Change": 1.81,
+        "Volume": 1842.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-11",
+        "Open": 555.0,
+        "High": 556.0,
+        "Low": 545.1,
+        "Close": 546.1,
+        "Percent Change": -1.07,
+        "Volume": 2988.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-08",
+        "Open": 547.1,
+        "High": 554.8,
+        "Low": 545.0,
+        "Close": 552.0,
+        "Percent Change": -0.72,
+        "Volume": 3372.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-07",
+        "Open": 545.0,
+        "High": 557.0,
+        "Low": 545.0,
+        "Close": 556.0,
+        "Percent Change": 0.18,
+        "Volume": 1879.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-06",
+        "Open": 532.0,
+        "High": 555.0,
+        "Low": 532.0,
+        "Close": 555.0,
+        "Percent Change": 2.78,
+        "Volume": 4668.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-05",
+        "Open": 542.0,
+        "High": 545.0,
+        "Low": 535.1,
+        "Close": 540.0,
+        "Percent Change": -1.64,
+        "Volume": 1081.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-04",
+        "Open": 541.0,
+        "High": 563.0,
+        "Low": 534.0,
+        "Close": 549.0,
+        "Percent Change": 1.31,
+        "Volume": 1108.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-02-01",
+        "Open": 542.0,
+        "High": 550.0,
+        "Low": 532.0,
+        "Close": 541.9,
+        "Percent Change": -1.83,
+        "Volume": 2795.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-31",
+        "Open": 560.0,
+        "High": 565.0,
+        "Low": 545.0,
+        "Close": 552.0,
+        "Percent Change": -1.43,
+        "Volume": 1769.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-30",
+        "Open": 565.0,
+        "High": 569.8,
+        "Low": 560.0,
+        "Close": 560.0,
+        "Percent Change": -0.02,
+        "Volume": 2122.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-29",
+        "Open": 556.0,
+        "High": 566.9,
+        "Low": 550.0,
+        "Close": 560.1,
+        "Percent Change": -0.87,
+        "Volume": 2020.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-28",
+        "Open": 554.0,
+        "High": 565.0,
+        "Low": 546.0,
+        "Close": 565.0,
+        "Percent Change": 0.89,
+        "Volume": 4804.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-25",
+        "Open": 566.0,
+        "High": 570.0,
+        "Low": 549.8,
+        "Close": 560.0,
+        "Percent Change": -2.44,
+        "Volume": 6068.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-24",
+        "Open": 569.0,
+        "High": 574.0,
+        "Low": 550.0,
+        "Close": 574.0,
+        "Percent Change": 2.68,
+        "Volume": 3582.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-23",
+        "Open": 565.0,
+        "High": 566.1,
+        "Low": 545.0,
+        "Close": 559.0,
+        "Percent Change": 0.72,
+        "Volume": 2853.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-22",
+        "Open": 562.6,
+        "High": 571.0,
+        "Low": 555.0,
+        "Close": 555.0,
+        "Percent Change": -3.31,
+        "Volume": 5788.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-21",
+        "Open": 568.5,
+        "High": 586.0,
+        "Low": 566.0,
+        "Close": 574.0,
+        "Percent Change": -1.03,
+        "Volume": 10381.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-18",
+        "Open": 590.0,
+        "High": 590.0,
+        "Low": 572.0,
+        "Close": 580.0,
+        "Percent Change": -1.53,
+        "Volume": 7396.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-17",
+        "Open": 580.0,
+        "High": 617.0,
+        "Low": 580.0,
+        "Close": 589.0,
+        "Percent Change": -0.17,
+        "Volume": 20399.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-16",
+        "Open": 585.0,
+        "High": 591.7,
+        "Low": 577.1,
+        "Close": 590.0,
+        "Percent Change": 2.79,
+        "Volume": 11156.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-14",
+        "Open": 569.0,
+        "High": 575.0,
+        "Low": 561.0,
+        "Close": 574.0,
+        "Percent Change": 2.87,
+        "Volume": 7516.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-11",
+        "Open": 558.0,
+        "High": 560.0,
+        "Low": 544.0,
+        "Close": 558.0,
+        "Percent Change": 0.0,
+        "Volume": 3017.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-10",
+        "Open": 550.0,
+        "High": 572.0,
+        "Low": 544.0,
+        "Close": 558.0,
+        "Percent Change": 3.33,
+        "Volume": 7553.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-09",
+        "Open": 542.0,
+        "High": 550.0,
+        "Low": 534.0,
+        "Close": 540.0,
+        "Percent Change": -0.37,
+        "Volume": 4204.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-08",
+        "Open": 517.0,
+        "High": 542.1,
+        "Low": 517.0,
+        "Close": 542.0,
+        "Percent Change": 4.23,
+        "Volume": 15905.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-07",
+        "Open": 525.0,
+        "High": 525.0,
+        "Low": 515.1,
+        "Close": 520.0,
+        "Percent Change": -0.95,
+        "Volume": 5246.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-04",
+        "Open": 529.0,
+        "High": 530.0,
+        "Low": 520.0,
+        "Close": 525.0,
+        "Percent Change": 0.19,
+        "Volume": 2790.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-03",
+        "Open": 525.0,
+        "High": 530.0,
+        "Low": 512.0,
+        "Close": 524.0,
+        "Percent Change": -0.74,
+        "Volume": 2797.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-02",
+        "Open": 536.0,
+        "High": 536.0,
+        "Low": 518.1,
+        "Close": 527.9,
+        "Percent Change": 0.0,
+        "Volume": 3708.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2024-01-01",
+        "Open": 530.0,
+        "High": 530.0,
+        "Low": 520.1,
+        "Close": 527.9,
+        "Percent Change": 0.73,
+        "Volume": 1657.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-28",
+        "Open": 530.0,
+        "High": 534.0,
+        "Low": 521.4,
+        "Close": 524.1,
+        "Percent Change": -1.11,
+        "Volume": 4926.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-27",
+        "Open": 530.1,
+        "High": 547.7,
+        "Low": 525.0,
+        "Close": 530.0,
+        "Percent Change": -1.67,
+        "Volume": 5792.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-24",
+        "Open": 554.6,
+        "High": 559.0,
+        "Low": 538.0,
+        "Close": 539.0,
+        "Percent Change": -0.9,
+        "Volume": 4998.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-21",
+        "Open": 573.0,
+        "High": 573.0,
+        "Low": 543.9,
+        "Close": 543.9,
+        "Percent Change": -5.21,
+        "Volume": 6187.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-20",
+        "Open": 555.0,
+        "High": 578.0,
+        "Low": 555.0,
+        "Close": 573.8,
+        "Percent Change": 4.14,
+        "Volume": 6811.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-19",
+        "Open": 574.9,
+        "High": 574.9,
+        "Low": 546.9,
+        "Close": 551.0,
+        "Percent Change": -2.48,
+        "Volume": 5421.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-18",
+        "Open": 520.0,
+        "High": 571.2,
+        "Low": 520.0,
+        "Close": 565.0,
+        "Percent Change": 7.62,
+        "Volume": 11094.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-17",
+        "Open": 521.0,
+        "High": 529.9,
+        "Low": 510.0,
+        "Close": 525.0,
+        "Percent Change": -0.94,
+        "Volume": 5689.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-14",
+        "Open": 529.2,
+        "High": 532.9,
+        "Low": 521.4,
+        "Close": 530.0,
+        "Percent Change": -1.85,
+        "Volume": 6600.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-13",
+        "Open": 533.0,
+        "High": 542.6,
+        "Low": 524.0,
+        "Close": 540.0,
+        "Percent Change": 3.05,
+        "Volume": 7601.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-12",
+        "Open": 506.0,
+        "High": 524.0,
+        "Low": 501.0,
+        "Close": 524.0,
+        "Percent Change": 2.95,
+        "Volume": 5897.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-11",
+        "Open": 502.0,
+        "High": 510.0,
+        "Low": 485.0,
+        "Close": 509.0,
+        "Percent Change": 3.41,
+        "Volume": 10061.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-10",
+        "Open": 482.6,
+        "High": 492.2,
+        "Low": 482.6,
+        "Close": 492.2,
+        "Percent Change": 4.02,
+        "Volume": 28.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-07",
+        "Open": 482.0,
+        "High": 489.6,
+        "Low": 470.1,
+        "Close": 473.2,
+        "Percent Change": -1.83,
+        "Volume": 1451.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-06",
+        "Open": 480.0,
+        "High": 482.3,
+        "Low": 471.0,
+        "Close": 482.0,
+        "Percent Change": 1.05,
+        "Volume": 1552.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-05",
+        "Open": 475.0,
+        "High": 483.0,
+        "Low": 466.2,
+        "Close": 477.0,
+        "Percent Change": -1.43,
+        "Volume": 838.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-04",
+        "Open": 479.0,
+        "High": 483.9,
+        "Low": 467.1,
+        "Close": 483.9,
+        "Percent Change": 1.02,
+        "Volume": 1581.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-12-03",
+        "Open": 462.0,
+        "High": 479.0,
+        "Low": 461.0,
+        "Close": 479.0,
+        "Percent Change": 2.75,
+        "Volume": 883.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-30",
+        "Open": 467.0,
+        "High": 475.0,
+        "Low": 466.2,
+        "Close": 466.2,
+        "Percent Change": -1.85,
+        "Volume": 447.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-29",
+        "Open": 485.9,
+        "High": 485.9,
+        "Low": 475.0,
+        "Close": 475.0,
+        "Percent Change": -2.24,
+        "Volume": 1115.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-28",
+        "Open": 477.1,
+        "High": 486.0,
+        "Low": 477.1,
+        "Close": 485.9,
+        "Percent Change": 0.0,
+        "Volume": 167.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-27",
+        "Open": 480.0,
+        "High": 488.9,
+        "Low": 479.4,
+        "Close": 485.9,
+        "Percent Change": -0.63,
+        "Volume": 1028.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-26",
+        "Open": 482.0,
+        "High": 489.0,
+        "Low": 468.2,
+        "Close": 489.0,
+        "Percent Change": 2.95,
+        "Volume": 2107.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-23",
+        "Open": 455.0,
+        "High": 478.0,
+        "Low": 455.0,
+        "Close": 475.0,
+        "Percent Change": 3.04,
+        "Volume": 522.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-22",
+        "Open": 467.0,
+        "High": 470.0,
+        "Low": 458.1,
+        "Close": 461.0,
+        "Percent Change": 0.66,
+        "Volume": 703.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-21",
+        "Open": 477.0,
+        "High": 477.0,
+        "Low": 458.0,
+        "Close": 458.0,
+        "Percent Change": -5.8,
+        "Volume": 1243.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-20",
+        "Open": 491.0,
+        "High": 491.0,
+        "Low": 473.1,
+        "Close": 486.2,
+        "Percent Change": -0.57,
+        "Volume": 2066.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-09",
+        "Open": 495.0,
+        "High": 495.0,
+        "Low": 481.0,
+        "Close": 489.0,
+        "Percent Change": -1.81,
+        "Volume": 1421.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-08",
+        "Open": 493.0,
+        "High": 499.9,
+        "Low": 486.0,
+        "Close": 498.0,
+        "Percent Change": -0.99,
+        "Volume": 2410.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-07",
+        "Open": 489.0,
+        "High": 505.0,
+        "Low": 489.0,
+        "Close": 503.0,
+        "Percent Change": 1.41,
+        "Volume": 677.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-06",
+        "Open": 486.0,
+        "High": 496.0,
+        "Low": 486.0,
+        "Close": 496.0,
+        "Percent Change": 0.26,
+        "Volume": 260.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-05",
+        "Open": 489.0,
+        "High": 494.7,
+        "Low": 480.0,
+        "Close": 494.7,
+        "Percent Change": 0.14,
+        "Volume": 2339.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-02",
+        "Open": 495.0,
+        "High": 496.2,
+        "Low": 488.0,
+        "Close": 494.0,
+        "Percent Change": -0.4,
+        "Volume": 1116.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-11-01",
+        "Open": 502.0,
+        "High": 503.0,
+        "Low": 496.0,
+        "Close": 496.0,
+        "Percent Change": -1.2,
+        "Volume": 259.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-31",
+        "Open": 518.0,
+        "High": 518.0,
+        "Low": 485.0,
+        "Close": 502.0,
+        "Percent Change": -1.18,
+        "Volume": 540.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-30",
+        "Open": 504.0,
+        "High": 508.0,
+        "Low": 500.0,
+        "Close": 508.0,
+        "Percent Change": 0.4,
+        "Volume": 158.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-29",
+        "Open": 496.0,
+        "High": 506.0,
+        "Low": 496.0,
+        "Close": 506.0,
+        "Percent Change": 1.0,
+        "Volume": 258.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-19",
+        "Open": 503.0,
+        "High": 510.0,
+        "Low": 501.0,
+        "Close": 501.0,
+        "Percent Change": -0.4,
+        "Volume": 1026.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-18",
+        "Open": 511.0,
+        "High": 511.0,
+        "Low": 500.8,
+        "Close": 503.0,
+        "Percent Change": 0.22,
+        "Volume": 1238.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-17",
+        "Open": 500.0,
+        "High": 510.0,
+        "Low": 493.0,
+        "Close": 501.9,
+        "Percent Change": 1.19,
+        "Volume": 1102.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-16",
+        "Open": 497.9,
+        "High": 508.0,
+        "Low": 496.0,
+        "Close": 496.0,
+        "Percent Change": -2.36,
+        "Volume": 1023.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-12",
+        "Open": 505.0,
+        "High": 515.0,
+        "Low": 496.2,
+        "Close": 508.0,
+        "Percent Change": 0.59,
+        "Volume": 2490.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-11",
+        "Open": 505.0,
+        "High": 515.0,
+        "Low": 504.7,
+        "Close": 505.0,
+        "Percent Change": -0.59,
+        "Volume": 1410.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-10",
+        "Open": 507.0,
+        "High": 509.9,
+        "Low": 501.5,
+        "Close": 508.0,
+        "Percent Change": 0.2,
+        "Volume": 1166.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-09",
+        "Open": 503.3,
+        "High": 518.0,
+        "Low": 503.3,
+        "Close": 507.0,
+        "Percent Change": -0.59,
+        "Volume": 704.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-08",
+        "Open": 525.0,
+        "High": 529.0,
+        "Low": 510.0,
+        "Close": 510.0,
+        "Percent Change": -3.79,
+        "Volume": 2181.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-05",
+        "Open": 527.3,
+        "High": 548.0,
+        "Low": 526.0,
+        "Close": 530.1,
+        "Percent Change": -1.47,
+        "Volume": 1270.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-04",
+        "Open": 543.4,
+        "High": 543.4,
+        "Low": 526.0,
+        "Close": 538.0,
+        "Percent Change": 0.96,
+        "Volume": 1779.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-03",
+        "Open": 531.0,
+        "High": 550.0,
+        "Low": 525.1,
+        "Close": 532.9,
+        "Percent Change": 0.55,
+        "Volume": 4308.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-02",
+        "Open": 521.0,
+        "High": 530.0,
+        "Low": 515.1,
+        "Close": 530.0,
+        "Percent Change": 0.0,
+        "Volume": 225.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-10-01",
+        "Open": 527.4,
+        "High": 531.7,
+        "Low": 514.6,
+        "Close": 530.0,
+        "Percent Change": -1.12,
+        "Volume": 2123.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-27",
+        "Open": 535.0,
+        "High": 538.1,
+        "Low": 530.0,
+        "Close": 536.0,
+        "Percent Change": -1.56,
+        "Volume": 3216.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-26",
+        "Open": 527.1,
+        "High": 545.0,
+        "Low": 527.1,
+        "Close": 544.5,
+        "Percent Change": 2.35,
+        "Volume": 1919.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-25",
+        "Open": 525.6,
+        "High": 536.0,
+        "Low": 525.6,
+        "Close": 532.0,
+        "Percent Change": -0.75,
+        "Volume": 1021.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-24",
+        "Open": 526.0,
+        "High": 540.0,
+        "Low": 526.0,
+        "Close": 536.0,
+        "Percent Change": 2.1,
+        "Volume": 4514.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-21",
+        "Open": 516.0,
+        "High": 531.0,
+        "Low": 512.0,
+        "Close": 525.0,
+        "Percent Change": 2.74,
+        "Volume": 3470.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-19",
+        "Open": 514.0,
+        "High": 514.0,
+        "Low": 502.0,
+        "Close": 511.0,
+        "Percent Change": 0.97,
+        "Volume": 1855.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-18",
+        "Open": 509.9,
+        "High": 511.0,
+        "Low": 504.1,
+        "Close": 506.1,
+        "Percent Change": -0.75,
+        "Volume": 113.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-17",
+        "Open": 503.0,
+        "High": 509.9,
+        "Low": 500.0,
+        "Close": 509.9,
+        "Percent Change": -0.22,
+        "Volume": 1121.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-13",
+        "Open": 500.1,
+        "High": 520.0,
+        "Low": 500.1,
+        "Close": 511.0,
+        "Percent Change": 0.89,
+        "Volume": 1861.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-12",
+        "Open": 509.0,
+        "High": 510.0,
+        "Low": 506.0,
+        "Close": 506.5,
+        "Percent Change": -2.41,
+        "Volume": 1085.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-11",
+        "Open": 500.0,
+        "High": 519.0,
+        "Low": 500.0,
+        "Close": 519.0,
+        "Percent Change": 2.73,
+        "Volume": 448.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-10",
+        "Open": 508.0,
+        "High": 512.0,
+        "Low": 501.3,
+        "Close": 505.2,
+        "Percent Change": -0.26,
+        "Volume": 427.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-07",
+        "Open": 508.0,
+        "High": 518.0,
+        "Low": 506.5,
+        "Close": 506.5,
+        "Percent Change": -1.07,
+        "Volume": 751.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-05",
+        "Open": 516.0,
+        "High": 516.0,
+        "Low": 510.0,
+        "Close": 512.0,
+        "Percent Change": -0.78,
+        "Volume": 234.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-04",
+        "Open": 512.0,
+        "High": 516.0,
+        "Low": 509.2,
+        "Close": 516.0,
+        "Percent Change": -0.39,
+        "Volume": 554.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-09-03",
+        "Open": 519.1,
+        "High": 520.0,
+        "Low": 509.0,
+        "Close": 518.0,
+        "Percent Change": -1.16,
+        "Volume": 682.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-30",
+        "Open": 530.0,
+        "High": 540.6,
+        "Low": 524.0,
+        "Close": 524.1,
+        "Percent Change": -2.49,
+        "Volume": 366.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-29",
+        "Open": 527.1,
+        "High": 537.5,
+        "Low": 518.0,
+        "Close": 537.5,
+        "Percent Change": 1.99,
+        "Volume": 1262.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-28",
+        "Open": 519.0,
+        "High": 530.0,
+        "Low": 513.1,
+        "Close": 527.0,
+        "Percent Change": -0.38,
+        "Volume": 929.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-27",
+        "Open": 518.5,
+        "High": 529.0,
+        "Low": 511.0,
+        "Close": 529.0,
+        "Percent Change": 0.0,
+        "Volume": 1212.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-24",
+        "Open": 548.0,
+        "High": 555.0,
+        "Low": 520.1,
+        "Close": 529.0,
+        "Percent Change": -1.67,
+        "Volume": 1703.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-23",
+        "Open": 543.0,
+        "High": 543.0,
+        "Low": 520.0,
+        "Close": 538.0,
+        "Percent Change": 0.94,
+        "Volume": 1797.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-22",
+        "Open": 516.5,
+        "High": 533.0,
+        "Low": 516.5,
+        "Close": 533.0,
+        "Percent Change": 1.91,
+        "Volume": 950.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-21",
+        "Open": 525.0,
+        "High": 527.9,
+        "Low": 521.1,
+        "Close": 523.0,
+        "Percent Change": -2.24,
+        "Volume": 1261.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-20",
+        "Open": 535.0,
+        "High": 538.0,
+        "Low": 525.0,
+        "Close": 535.0,
+        "Percent Change": -1.29,
+        "Volume": 888.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-17",
+        "Open": 531.9,
+        "High": 542.0,
+        "Low": 523.2,
+        "Close": 542.0,
+        "Percent Change": 1.88,
+        "Volume": 1125.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-16",
+        "Open": 529.6,
+        "High": 535.0,
+        "Low": 522.0,
+        "Close": 532.0,
+        "Percent Change": -1.55,
+        "Volume": 2382.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-15",
+        "Open": 550.2,
+        "High": 555.0,
+        "Low": 540.3,
+        "Close": 540.4,
+        "Percent Change": -3.5,
+        "Volume": 2212.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-14",
+        "Open": 561.6,
+        "High": 565.0,
+        "Low": 554.0,
+        "Close": 560.0,
+        "Percent Change": -2.27,
+        "Volume": 1996.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-13",
+        "Open": 554.0,
+        "High": 573.0,
+        "Low": 552.0,
+        "Close": 573.0,
+        "Percent Change": 3.45,
+        "Volume": 1182.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-10",
+        "Open": 546.0,
+        "High": 568.9,
+        "Low": 546.0,
+        "Close": 553.9,
+        "Percent Change": 0.38,
+        "Volume": 745.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-09",
+        "Open": 540.0,
+        "High": 551.8,
+        "Low": 537.0,
+        "Close": 551.8,
+        "Percent Change": 1.43,
+        "Volume": 2606.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-08",
+        "Open": 569.1,
+        "High": 569.1,
+        "Low": 539.0,
+        "Close": 544.0,
+        "Percent Change": -2.51,
+        "Volume": 3497.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-07",
+        "Open": 555.0,
+        "High": 568.0,
+        "Low": 552.1,
+        "Close": 558.0,
+        "Percent Change": -0.36,
+        "Volume": 951.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-06",
+        "Open": 569.1,
+        "High": 580.0,
+        "Low": 560.0,
+        "Close": 560.0,
+        "Percent Change": -3.45,
+        "Volume": 1475.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-03",
+        "Open": 582.0,
+        "High": 589.0,
+        "Low": 571.0,
+        "Close": 580.0,
+        "Percent Change": -0.34,
+        "Volume": 2049.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-02",
+        "Open": 592.0,
+        "High": 592.0,
+        "Low": 573.5,
+        "Close": 582.0,
+        "Percent Change": -0.51,
+        "Volume": 2002.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-08-01",
+        "Open": 597.0,
+        "High": 597.0,
+        "Low": 571.0,
+        "Close": 585.0,
+        "Percent Change": -0.2,
+        "Volume": 2962.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-31",
+        "Open": 583.1,
+        "High": 603.0,
+        "Low": 583.0,
+        "Close": 586.2,
+        "Percent Change": -1.43,
+        "Volume": 1335.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-30",
+        "Open": 591.0,
+        "High": 594.7,
+        "Low": 588.7,
+        "Close": 594.7,
+        "Percent Change": -0.22,
+        "Volume": 2163.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-27",
+        "Open": 600.0,
+        "High": 610.0,
+        "Low": 594.0,
+        "Close": 596.0,
+        "Percent Change": -1.16,
+        "Volume": 5450.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-26",
+        "Open": 602.0,
+        "High": 625.0,
+        "Low": 602.0,
+        "Close": 603.0,
+        "Percent Change": -1.63,
+        "Volume": 3935.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-25",
+        "Open": 617.0,
+        "High": 617.0,
+        "Low": 608.8,
+        "Close": 613.0,
+        "Percent Change": -1.61,
+        "Volume": 4252.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-24",
+        "Open": 620.0,
+        "High": 636.0,
+        "Low": 616.0,
+        "Close": 623.0,
+        "Percent Change": -1.11,
+        "Volume": 4763.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-23",
+        "Open": 631.0,
+        "High": 635.0,
+        "Low": 619.0,
+        "Close": 630.0,
+        "Percent Change": 1.61,
+        "Volume": 7074.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-20",
+        "Open": 630.0,
+        "High": 630.0,
+        "Low": 612.1,
+        "Close": 620.0,
+        "Percent Change": -1.26,
+        "Volume": 7003.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-19",
+        "Open": 622.5,
+        "High": 638.5,
+        "Low": 617.2,
+        "Close": 627.9,
+        "Percent Change": -0.81,
+        "Volume": 3894.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-18",
+        "Open": 616.0,
+        "High": 644.0,
+        "Low": 616.0,
+        "Close": 633.0,
+        "Percent Change": 0.96,
+        "Volume": 5238.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-17",
+        "Open": 600.1,
+        "High": 627.0,
+        "Low": 600.1,
+        "Close": 627.0,
+        "Percent Change": 3.09,
+        "Volume": 3120.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-16",
+        "Open": 610.0,
+        "High": 618.0,
+        "Low": 608.2,
+        "Close": 608.2,
+        "Percent Change": -1.11,
+        "Volume": 2322.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-13",
+        "Open": 630.0,
+        "High": 640.0,
+        "Low": 606.1,
+        "Close": 615.0,
+        "Percent Change": -1.6,
+        "Volume": 7338.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-12",
+        "Open": 600.0,
+        "High": 628.0,
+        "Low": 600.0,
+        "Close": 625.0,
+        "Percent Change": 4.17,
+        "Volume": 6663.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-11",
+        "Open": 600.0,
+        "High": 612.0,
+        "Low": 594.1,
+        "Close": 600.0,
+        "Percent Change": -0.37,
+        "Volume": 2981.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-10",
+        "Open": 585.0,
+        "High": 620.0,
+        "Low": 585.0,
+        "Close": 602.2,
+        "Percent Change": 3.45,
+        "Volume": 5372.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-09",
+        "Open": 600.0,
+        "High": 614.3,
+        "Low": 582.1,
+        "Close": 582.1,
+        "Percent Change": -2.98,
+        "Volume": 8063.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-06",
+        "Open": 587.1,
+        "High": 606.0,
+        "Low": 581.0,
+        "Close": 600.0,
+        "Percent Change": 0.17,
+        "Volume": 1965.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-05",
+        "Open": 608.0,
+        "High": 617.1,
+        "Low": 593.0,
+        "Close": 599.0,
+        "Percent Change": -1.48,
+        "Volume": 4071.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-04",
+        "Open": 617.1,
+        "High": 625.0,
+        "Low": 600.0,
+        "Close": 608.0,
+        "Percent Change": 0.5,
+        "Volume": 4983.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-03",
+        "Open": 602.1,
+        "High": 626.0,
+        "Low": 602.0,
+        "Close": 605.0,
+        "Percent Change": -1.47,
+        "Volume": 3128.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-07-02",
+        "Open": 640.0,
+        "High": 642.5,
+        "Low": 610.0,
+        "Close": 614.0,
+        "Percent Change": -5.25,
+        "Volume": 5197.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-28",
+        "Open": 693.0,
+        "High": 693.0,
+        "Low": 648.0,
+        "Close": 648.0,
+        "Percent Change": -4.85,
+        "Volume": 9437.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-27",
+        "Open": 629.0,
+        "High": 690.0,
+        "Low": 629.0,
+        "Close": 681.0,
+        "Percent Change": 8.27,
+        "Volume": 28653.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-26",
+        "Open": 590.0,
+        "High": 632.0,
+        "Low": 590.0,
+        "Close": 629.0,
+        "Percent Change": 4.85,
+        "Volume": 6530.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-25",
+        "Open": 575.3,
+        "High": 606.0,
+        "Low": 575.3,
+        "Close": 599.9,
+        "Percent Change": 2.2,
+        "Volume": 5010.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-22",
+        "Open": 610.8,
+        "High": 610.8,
+        "Low": 587.0,
+        "Close": 587.0,
+        "Percent Change": -1.99,
+        "Volume": 5756.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-21",
+        "Open": 614.9,
+        "High": 614.9,
+        "Low": 585.2,
+        "Close": 598.9,
+        "Percent Change": -1.17,
+        "Volume": 4111.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-20",
+        "Open": 627.1,
+        "High": 637.5,
+        "Low": 594.4,
+        "Close": 606.0,
+        "Percent Change": -1.45,
+        "Volume": 7755.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-19",
+        "Open": 639.0,
+        "High": 639.0,
+        "Low": 612.0,
+        "Close": 614.9,
+        "Percent Change": -4.3,
+        "Volume": 5227.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-18",
+        "Open": 649.0,
+        "High": 649.0,
+        "Low": 603.0,
+        "Close": 642.5,
+        "Percent Change": 0.39,
+        "Volume": 15180.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-15",
+        "Open": 642.0,
+        "High": 642.0,
+        "Low": 580.0,
+        "Close": 640.0,
+        "Percent Change": 1.59,
+        "Volume": 15074.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-14",
+        "Open": 625.0,
+        "High": 637.0,
+        "Low": 590.0,
+        "Close": 630.0,
+        "Percent Change": 2.62,
+        "Volume": 9230.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-13",
+        "Open": 591.0,
+        "High": 620.0,
+        "Low": 569.0,
+        "Close": 613.9,
+        "Percent Change": 5.59,
+        "Volume": 10277.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-12",
+        "Open": 577.0,
+        "High": 581.4,
+        "Low": 560.0,
+        "Close": 581.4,
+        "Percent Change": 2.72,
+        "Volume": 5844.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-11",
+        "Open": 564.0,
+        "High": 570.0,
+        "Low": 548.0,
+        "Close": 566.0,
+        "Percent Change": 1.82,
+        "Volume": 3487.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-08",
+        "Open": 540.0,
+        "High": 559.0,
+        "Low": 540.0,
+        "Close": 555.9,
+        "Percent Change": 1.44,
+        "Volume": 2847.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-07",
+        "Open": 540.0,
+        "High": 558.0,
+        "Low": 537.8,
+        "Close": 548.0,
+        "Percent Change": 1.84,
+        "Volume": 4966.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-06",
+        "Open": 529.9,
+        "High": 549.0,
+        "Low": 526.2,
+        "Close": 538.1,
+        "Percent Change": 0.39,
+        "Volume": 2063.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-05",
+        "Open": 519.0,
+        "High": 548.8,
+        "Low": 519.0,
+        "Close": 536.0,
+        "Percent Change": 1.32,
+        "Volume": 4301.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-04",
+        "Open": 529.0,
+        "High": 538.9,
+        "Low": 517.2,
+        "Close": 529.0,
+        "Percent Change": 1.93,
+        "Volume": 1972.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-06-01",
+        "Open": 519.0,
+        "High": 529.0,
+        "Low": 508.8,
+        "Close": 519.0,
+        "Percent Change": 1.76,
+        "Volume": 1051.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-31",
+        "Open": 512.1,
+        "High": 529.5,
+        "Low": 505.1,
+        "Close": 510.0,
+        "Percent Change": -2.3,
+        "Volume": 2415.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-30",
+        "Open": 538.5,
+        "High": 540.0,
+        "Low": 522.0,
+        "Close": 522.0,
+        "Percent Change": -4.92,
+        "Volume": 1427.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-28",
+        "Open": 577.0,
+        "High": 577.0,
+        "Low": 540.0,
+        "Close": 549.0,
+        "Percent Change": -3.26,
+        "Volume": 5925.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-24",
+        "Open": 560.0,
+        "High": 580.0,
+        "Low": 547.9,
+        "Close": 567.5,
+        "Percent Change": 3.18,
+        "Volume": 6506.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-23",
+        "Open": 540.9,
+        "High": 553.9,
+        "Low": 537.0,
+        "Close": 550.0,
+        "Percent Change": 3.58,
+        "Volume": 2611.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-22",
+        "Open": 545.0,
+        "High": 545.0,
+        "Low": 517.0,
+        "Close": 531.0,
+        "Percent Change": -0.75,
+        "Volume": 1204.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-21",
+        "Open": 532.3,
+        "High": 541.9,
+        "Low": 512.0,
+        "Close": 535.0,
+        "Percent Change": 2.49,
+        "Volume": 1624.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-18",
+        "Open": 505.9,
+        "High": 522.0,
+        "Low": 505.0,
+        "Close": 522.0,
+        "Percent Change": 3.16,
+        "Volume": 3505.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-17",
+        "Open": 508.0,
+        "High": 509.8,
+        "Low": 500.0,
+        "Close": 506.0,
+        "Percent Change": 1.22,
+        "Volume": 1077.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-16",
+        "Open": 504.9,
+        "High": 514.0,
+        "Low": 495.3,
+        "Close": 499.9,
+        "Percent Change": 0.99,
+        "Volume": 429.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-15",
+        "Open": 499.5,
+        "High": 499.5,
+        "Low": 487.0,
+        "Close": 495.0,
+        "Percent Change": 0.01,
+        "Volume": 1494.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-14",
+        "Open": 510.0,
+        "High": 510.0,
+        "Low": 481.1,
+        "Close": 490.0,
+        "Percent Change": -3.9,
+        "Volume": 1574.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-11",
+        "Open": 498.6,
+        "High": 509.9,
+        "Low": 498.6,
+        "Close": 509.9,
+        "Percent Change": 0.24,
+        "Volume": 958.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-10",
+        "Open": 522.0,
+        "High": 522.0,
+        "Low": 493.0,
+        "Close": 508.7,
+        "Percent Change": -0.63,
+        "Volume": 1912.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-09",
+        "Open": 507.9,
+        "High": 518.0,
+        "Low": 495.0,
+        "Close": 511.9,
+        "Percent Change": 2.79,
+        "Volume": 1686.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-08",
+        "Open": 523.0,
+        "High": 523.0,
+        "Low": 498.0,
+        "Close": 498.0,
+        "Percent Change": -3.02,
+        "Volume": 2423.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-07",
+        "Open": 527.9,
+        "High": 527.9,
+        "Low": 507.4,
+        "Close": 513.5,
+        "Percent Change": -1.25,
+        "Volume": 399.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-04",
+        "Open": 509.8,
+        "High": 520.0,
+        "Low": 508.0,
+        "Close": 520.0,
+        "Percent Change": 0.58,
+        "Volume": 540.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-03",
+        "Open": 527.0,
+        "High": 527.0,
+        "Low": 508.0,
+        "Close": 517.0,
+        "Percent Change": 0.0,
+        "Volume": 1246.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-05-02",
+        "Open": 512.0,
+        "High": 530.0,
+        "Low": 511.0,
+        "Close": 517.0,
+        "Percent Change": -0.58,
+        "Volume": 1077.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-30",
+        "Open": 545.4,
+        "High": 556.0,
+        "Low": 515.1,
+        "Close": 520.0,
+        "Percent Change": -2.77,
+        "Volume": 4430.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-27",
+        "Open": 540.6,
+        "High": 540.6,
+        "Low": 519.4,
+        "Close": 534.8,
+        "Percent Change": 0.91,
+        "Volume": 532.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-26",
+        "Open": 542.0,
+        "High": 542.0,
+        "Low": 522.0,
+        "Close": 530.0,
+        "Percent Change": -2.21,
+        "Volume": 3114.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-25",
+        "Open": 549.6,
+        "High": 549.6,
+        "Low": 518.0,
+        "Close": 542.0,
+        "Percent Change": 0.58,
+        "Volume": 3337.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-24",
+        "Open": 551.0,
+        "High": 552.0,
+        "Low": 524.3,
+        "Close": 538.9,
+        "Percent Change": -4.11,
+        "Volume": 1306.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-23",
+        "Open": 538.1,
+        "High": 565.0,
+        "Low": 518.2,
+        "Close": 562.0,
+        "Percent Change": 2.37,
+        "Volume": 2656.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-20",
+        "Open": 561.0,
+        "High": 561.0,
+        "Low": 531.0,
+        "Close": 549.0,
+        "Percent Change": -0.36,
+        "Volume": 1602.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-19",
+        "Open": 523.2,
+        "High": 551.0,
+        "Low": 523.1,
+        "Close": 551.0,
+        "Percent Change": 3.4,
+        "Volume": 1892.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-18",
+        "Open": 554.9,
+        "High": 554.9,
+        "Low": 518.7,
+        "Close": 532.9,
+        "Percent Change": -2.15,
+        "Volume": 1051.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-17",
+        "Open": 550.0,
+        "High": 556.8,
+        "Low": 529.1,
+        "Close": 544.6,
+        "Percent Change": -0.95,
+        "Volume": 1193.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-16",
+        "Open": 545.0,
+        "High": 557.9,
+        "Low": 531.0,
+        "Close": 549.8,
+        "Percent Change": 0.33,
+        "Volume": 1753.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-13",
+        "Open": 567.3,
+        "High": 567.3,
+        "Low": 534.0,
+        "Close": 548.0,
+        "Percent Change": -1.69,
+        "Volume": 4529.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-12",
+        "Open": 534.0,
+        "High": 560.9,
+        "Low": 530.0,
+        "Close": 557.4,
+        "Percent Change": 6.31,
+        "Volume": 2864.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-11",
+        "Open": 538.0,
+        "High": 538.0,
+        "Low": 514.5,
+        "Close": 524.3,
+        "Percent Change": -1.39,
+        "Volume": 5332.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-10",
+        "Open": 523.0,
+        "High": 538.9,
+        "Low": 515.0,
+        "Close": 531.7,
+        "Percent Change": -0.23,
+        "Volume": 5323.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-09",
+        "Open": 542.7,
+        "High": 549.0,
+        "Low": 532.2,
+        "Close": 532.9,
+        "Percent Change": -3.76,
+        "Volume": 4850.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-06",
+        "Open": 520.0,
+        "High": 561.0,
+        "Low": 520.0,
+        "Close": 553.7,
+        "Percent Change": 4.65,
+        "Volume": 8998.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-05",
+        "Open": 535.0,
+        "High": 577.4,
+        "Low": 505.0,
+        "Close": 529.1,
+        "Percent Change": 0.78,
+        "Volume": 5622.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-04",
+        "Open": 508.0,
+        "High": 530.4,
+        "Low": 507.0,
+        "Close": 525.0,
+        "Percent Change": 2.14,
+        "Volume": 2119.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-03",
+        "Open": 511.6,
+        "High": 515.0,
+        "Low": 503.0,
+        "Close": 514.0,
+        "Percent Change": -1.53,
+        "Volume": 3193.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-04-02",
+        "Open": 538.0,
+        "High": 547.3,
+        "Low": 512.0,
+        "Close": 522.0,
+        "Percent Change": -2.97,
+        "Volume": 4400.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-30",
+        "Open": 549.9,
+        "High": 549.9,
+        "Low": 525.0,
+        "Close": 538.0,
+        "Percent Change": -2.0,
+        "Volume": 4109.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-29",
+        "Open": 529.0,
+        "High": 550.0,
+        "Low": 525.3,
+        "Close": 549.0,
+        "Percent Change": 2.23,
+        "Volume": 2191.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-28",
+        "Open": 514.3,
+        "High": 543.0,
+        "Low": 514.3,
+        "Close": 537.0,
+        "Percent Change": 3.87,
+        "Volume": 2318.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-27",
+        "Open": 520.0,
+        "High": 520.0,
+        "Low": 504.1,
+        "Close": 517.0,
+        "Percent Change": 0.39,
+        "Volume": 1919.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-26",
+        "Open": 538.4,
+        "High": 554.0,
+        "Low": 508.1,
+        "Close": 515.0,
+        "Percent Change": -2.44,
+        "Volume": 1029.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-23",
+        "Open": 549.0,
+        "High": 549.0,
+        "Low": 521.0,
+        "Close": 527.9,
+        "Percent Change": -2.24,
+        "Volume": 1501.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-22",
+        "Open": 548.0,
+        "High": 550.0,
+        "Low": 530.0,
+        "Close": 540.0,
+        "Percent Change": -1.46,
+        "Volume": 2343.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-20",
+        "Open": 550.0,
+        "High": 550.0,
+        "Low": 534.2,
+        "Close": 548.0,
+        "Percent Change": 1.48,
+        "Volume": 2282.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-19",
+        "Open": 550.0,
+        "High": 550.0,
+        "Low": 534.1,
+        "Close": 540.0,
+        "Percent Change": -0.42,
+        "Volume": 4738.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-16",
+        "Open": 571.2,
+        "High": 571.2,
+        "Low": 542.1,
+        "Close": 542.3,
+        "Percent Change": -3.16,
+        "Volume": 2660.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-15",
+        "Open": 574.9,
+        "High": 584.9,
+        "Low": 551.1,
+        "Close": 560.0,
+        "Percent Change": -2.59,
+        "Volume": 5390.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-14",
+        "Open": 587.0,
+        "High": 587.0,
+        "Low": 563.9,
+        "Close": 574.9,
+        "Percent Change": -0.36,
+        "Volume": 4900.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-13",
+        "Open": 596.9,
+        "High": 596.9,
+        "Low": 565.4,
+        "Close": 577.0,
+        "Percent Change": -5.25,
+        "Volume": 11025.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-12",
+        "Open": 601.5,
+        "High": 613.5,
+        "Low": 567.0,
+        "Close": 609.0,
+        "Percent Change": 3.26,
+        "Volume": 6010.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-09",
+        "Open": 586.5,
+        "High": 596.3,
+        "Low": 567.1,
+        "Close": 589.8,
+        "Percent Change": 2.57,
+        "Volume": 4462.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-07",
+        "Open": 576.3,
+        "High": 587.0,
+        "Low": 557.0,
+        "Close": 575.0,
+        "Percent Change": 1.77,
+        "Volume": 1793.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-05",
+        "Open": 576.0,
+        "High": 606.0,
+        "Low": 555.3,
+        "Close": 565.0,
+        "Percent Change": -3.15,
+        "Volume": 4910.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-02",
+        "Open": 606.6,
+        "High": 610.0,
+        "Low": 583.0,
+        "Close": 583.4,
+        "Percent Change": -5.74,
+        "Volume": 9011.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-03-01",
+        "Open": 624.0,
+        "High": 646.3,
+        "Low": 602.0,
+        "Close": 618.9,
+        "Percent Change": -2.38,
+        "Volume": 10590.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-28",
+        "Open": 636.1,
+        "High": 645.0,
+        "Low": 615.0,
+        "Close": 634.0,
+        "Percent Change": -2.16,
+        "Volume": 1438.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-27",
+        "Open": 662.0,
+        "High": 662.0,
+        "Low": 615.0,
+        "Close": 648.0,
+        "Percent Change": -0.29,
+        "Volume": 5590.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-26",
+        "Open": 652.2,
+        "High": 656.0,
+        "Low": 607.6,
+        "Close": 649.9,
+        "Percent Change": -2.34,
+        "Volume": 8265.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-23",
+        "Open": 665.5,
+        "High": 665.5,
+        "Low": 611.1,
+        "Close": 665.5,
+        "Percent Change": -1.99,
+        "Volume": 20698.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-22",
+        "Open": 680.0,
+        "High": 690.0,
+        "Low": 666.8,
+        "Close": 679.0,
+        "Percent Change": -0.15,
+        "Volume": 4356.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-20",
+        "Open": 686.0,
+        "High": 699.0,
+        "Low": 680.0,
+        "Close": 680.0,
+        "Percent Change": -2.72,
+        "Volume": 2621.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-16",
+        "Open": 700.1,
+        "High": 709.9,
+        "Low": 691.2,
+        "Close": 699.0,
+        "Percent Change": -1.55,
+        "Volume": 2870.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-15",
+        "Open": 715.0,
+        "High": 725.0,
+        "Low": 701.0,
+        "Close": 710.0,
+        "Percent Change": -0.7,
+        "Volume": 3990.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-14",
+        "Open": 719.4,
+        "High": 720.0,
+        "Low": 705.0,
+        "Close": 715.0,
+        "Percent Change": -2.59,
+        "Volume": 6894.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-12",
+        "Open": 741.0,
+        "High": 744.0,
+        "Low": 725.2,
+        "Close": 734.0,
+        "Percent Change": -2.91,
+        "Volume": 9324.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-09",
+        "Open": 750.0,
+        "High": 760.0,
+        "Low": 742.0,
+        "Close": 756.0,
+        "Percent Change": -0.13,
+        "Volume": 2365.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-08",
+        "Open": 782.2,
+        "High": 782.2,
+        "Low": 745.0,
+        "Close": 757.0,
+        "Percent Change": -1.43,
+        "Volume": 2800.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-07",
+        "Open": 722.1,
+        "High": 768.0,
+        "Low": 722.1,
+        "Close": 768.0,
+        "Percent Change": 4.25,
+        "Volume": 4343.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-06",
+        "Open": 749.7,
+        "High": 749.7,
+        "Low": 722.1,
+        "Close": 736.7,
+        "Percent Change": 0.23,
+        "Volume": 3466.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-05",
+        "Open": 750.1,
+        "High": 759.9,
+        "Low": 735.0,
+        "Close": 735.0,
+        "Percent Change": -1.8,
+        "Volume": 2944.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-02",
+        "Open": 770.0,
+        "High": 775.1,
+        "Low": 748.3,
+        "Close": 748.5,
+        "Percent Change": -4.53,
+        "Volume": 10229.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-02-01",
+        "Open": 771.0,
+        "High": 793.0,
+        "Low": 767.1,
+        "Close": 784.0,
+        "Percent Change": 0.51,
+        "Volume": 2003.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-31",
+        "Open": 765.1,
+        "High": 788.0,
+        "Low": 765.1,
+        "Close": 780.0,
+        "Percent Change": 0.01,
+        "Volume": 8055.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-30",
+        "Open": 786.0,
+        "High": 796.0,
+        "Low": 772.0,
+        "Close": 779.9,
+        "Percent Change": -0.78,
+        "Volume": 11663.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-29",
+        "Open": 790.0,
+        "High": 800.0,
+        "Low": 782.0,
+        "Close": 786.0,
+        "Percent Change": -2.24,
+        "Volume": 7696.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-26",
+        "Open": 810.0,
+        "High": 816.0,
+        "Low": 795.0,
+        "Close": 804.0,
+        "Percent Change": 1.13,
+        "Volume": 13443.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-25",
+        "Open": 795.0,
+        "High": 808.0,
+        "Low": 779.5,
+        "Close": 795.0,
+        "Percent Change": 1.94,
+        "Volume": 16787.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-24",
+        "Open": 778.0,
+        "High": 791.0,
+        "Low": 767.0,
+        "Close": 779.9,
+        "Percent Change": 0.37,
+        "Volume": 12799.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-23",
+        "Open": 774.0,
+        "High": 803.0,
+        "Low": 774.0,
+        "Close": 777.0,
+        "Percent Change": 0.91,
+        "Volume": 11802.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-19",
+        "Open": 779.0,
+        "High": 785.4,
+        "Low": 770.0,
+        "Close": 770.0,
+        "Percent Change": 0.0,
+        "Volume": 9403.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-18",
+        "Open": 766.4,
+        "High": 804.0,
+        "Low": 766.4,
+        "Close": 770.0,
+        "Percent Change": -1.53,
+        "Volume": 9152.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-17",
+        "Open": 779.2,
+        "High": 790.0,
+        "Low": 762.0,
+        "Close": 782.0,
+        "Percent Change": 2.36,
+        "Volume": 8279.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-12",
+        "Open": 790.5,
+        "High": 806.3,
+        "Low": 755.0,
+        "Close": 764.0,
+        "Percent Change": -1.42,
+        "Volume": 12660.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-10",
+        "Open": 822.0,
+        "High": 822.9,
+        "Low": 761.0,
+        "Close": 775.0,
+        "Percent Change": -4.31,
+        "Volume": 25633.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-09",
+        "Open": 803.0,
+        "High": 818.9,
+        "Low": 792.0,
+        "Close": 809.9,
+        "Percent Change": 0.86,
+        "Volume": 17674.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-08",
+        "Open": 820.0,
+        "High": 820.0,
+        "Low": 791.0,
+        "Close": 803.0,
+        "Percent Change": -1.46,
+        "Volume": 25649.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-05",
+        "Open": 817.9,
+        "High": 835.0,
+        "Low": 787.0,
+        "Close": 814.9,
+        "Percent Change": 1.62,
+        "Volume": 31907.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-04",
+        "Open": 743.0,
+        "High": 801.9,
+        "Low": 730.0,
+        "Close": 801.9,
+        "Percent Change": 10.0,
+        "Volume": 22295.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-03",
+        "Open": 715.0,
+        "High": 742.0,
+        "Low": 700.1,
+        "Close": 729.0,
+        "Percent Change": 2.1,
+        "Volume": 22012.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-02",
+        "Open": 685.0,
+        "High": 720.0,
+        "Low": 685.0,
+        "Close": 714.0,
+        "Percent Change": 2.44,
+        "Volume": 14543.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2023-01-01",
+        "Open": 707.9,
+        "High": 708.0,
+        "Low": 680.0,
+        "Close": 697.0,
+        "Percent Change": 0.01,
+        "Volume": 14084.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2022-12-29",
+        "Open": 655.2,
+        "High": 697.0,
+        "Low": 648.1,
+        "Close": 696.9,
+        "Percent Change": 6.4,
+        "Volume": 12423.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2022-12-28",
+        "Open": 675.0,
+        "High": 675.0,
+        "Low": 655.0,
+        "Close": 655.0,
+        "Percent Change": -3.65,
+        "Volume": 13162.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2022-12-27",
+        "Open": 679.0,
+        "High": 682.0,
+        "Low": 655.2,
+        "Close": 679.8,
+        "Percent Change": 1.92,
+        "Volume": 12806.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2022-12-26",
+        "Open": 652.9,
+        "High": 667.0,
+        "Low": 641.1,
+        "Close": 667.0,
+        "Percent Change": 4.2,
+        "Volume": 9250.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2022-12-22",
+        "Open": 650.0,
+        "High": 650.0,
+        "Low": 638.0,
+        "Close": 640.1,
+        "Percent Change": -0.61,
+        "Volume": 4828.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2022-12-21",
+        "Open": 660.0,
+        "High": 660.0,
+        "Low": 644.0,
+        "Close": 644.0,
+        "Percent Change": -1.53,
+        "Volume": 2704.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2022-12-20",
+        "Open": 664.0,
+        "High": 664.0,
+        "Low": 650.0,
+        "Close": 654.0,
+        "Percent Change": 0.46,
+        "Volume": 2052.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2022-12-19",
+        "Open": 649.0,
+        "High": 658.0,
+        "Low": 643.0,
+        "Close": 651.0,
+        "Percent Change": -0.76,
+        "Volume": 6705.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2022-12-18",
+        "Open": 660.0,
+        "High": 670.0,
+        "Low": 650.1,
+        "Close": 656.0,
+        "Percent Change": -2.53,
+        "Volume": 4371.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2022-12-15",
+        "Open": 665.3,
+        "High": 690.0,
+        "Low": 662.1,
+        "Close": 673.0,
+        "Percent Change": -0.59,
+        "Volume": 4949.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2022-12-14",
+        "Open": 674.0,
+        "High": 683.0,
+        "Low": 667.1,
+        "Close": 677.0,
+        "Percent Change": -0.27,
+        "Volume": 4152.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2022-12-13",
+        "Open": 693.0,
+        "High": 702.0,
+        "Low": 678.5,
+        "Close": 678.8,
+        "Percent Change": -2.02,
+        "Volume": 1987.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2022-12-12",
+        "Open": 687.4,
+        "High": 694.0,
+        "Low": 650.0,
+        "Close": 692.8,
+        "Percent Change": -1.23,
+        "Volume": 24561.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2022-12-11",
+        "Open": 785.0,
+        "High": 785.0,
+        "Low": 701.4,
+        "Close": 701.4,
+        "Percent Change": -10.0,
+        "Volume": 6092.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2022-12-07",
+        "Open": 883.1,
+        "High": 883.1,
+        "Low": 779.3,
+        "Close": 779.3,
+        "Percent Change": -9.99,
+        "Volume": 1984.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-31",
+        "Open": 1039.0,
+        "High": 1039.0,
+        "Low": 1039.0,
+        "Close": 1039.0,
+        "Percent Change": 0.05,
+        "Volume": 100.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-30",
+        "Open": 1000.0,
+        "High": 1033.0,
+        "Low": 988.0,
+        "Close": 990.0,
+        "Percent Change": 0.01,
+        "Volume": 17221.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-29",
+        "Open": 954.0,
+        "High": 1004.0,
+        "Low": 954.0,
+        "Close": 985.0,
+        "Percent Change": 0.03,
+        "Volume": 20829.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-28",
+        "Open": 928.0,
+        "High": 969.0,
+        "Low": 928.0,
+        "Close": 953.0,
+        "Percent Change": 0.03,
+        "Volume": 7796.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-27",
+        "Open": 927.0,
+        "High": 953.0,
+        "Low": 927.0,
+        "Close": 928.0,
+        "Percent Change": -0.02,
+        "Volume": 6167.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-24",
+        "Open": 932.0,
+        "High": 955.0,
+        "Low": 932.0,
+        "Close": 945.0,
+        "Percent Change": -0.01,
+        "Volume": 4854.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-23",
+        "Open": 988.0,
+        "High": 990.0,
+        "Low": 950.0,
+        "Close": 950.0,
+        "Percent Change": -0.03,
+        "Volume": 3999.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-22",
+        "Open": 940.0,
+        "High": 990.0,
+        "Low": 940.0,
+        "Close": 981.0,
+        "Percent Change": 0.04,
+        "Volume": 3643.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-21",
+        "Open": 933.0,
+        "High": 966.0,
+        "Low": 880.0,
+        "Close": 940.0,
+        "Percent Change": -0.0,
+        "Volume": 11507.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-20",
+        "Open": 1000.0,
+        "High": 1000.0,
+        "Low": 941.0,
+        "Close": 941.0,
+        "Percent Change": -0.08,
+        "Volume": 13457.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-17",
+        "Open": 1025.0,
+        "High": 1048.0,
+        "Low": 995.0,
+        "Close": 1020.0,
+        "Percent Change": 0.01,
+        "Volume": 13820.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-16",
+        "Open": 975.0,
+        "High": 1030.0,
+        "Low": 975.0,
+        "Close": 1010.0,
+        "Percent Change": 0.03,
+        "Volume": 26901.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-15",
+        "Open": 971.0,
+        "High": 1029.0,
+        "Low": 971.0,
+        "Close": 976.0,
+        "Percent Change": -0.01,
+        "Volume": 8423.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-14",
+        "Open": 987.0,
+        "High": 999.0,
+        "Low": 965.0,
+        "Close": 990.0,
+        "Percent Change": 0.02,
+        "Volume": 16619.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-13",
+        "Open": 928.0,
+        "High": 1005.0,
+        "Low": 928.0,
+        "Close": 968.0,
+        "Percent Change": 0.03,
+        "Volume": 5704.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-10",
+        "Open": 922.0,
+        "High": 953.0,
+        "Low": 911.0,
+        "Close": 944.0,
+        "Percent Change": 0.0,
+        "Volume": 9126.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-09",
+        "Open": 995.0,
+        "High": 995.0,
+        "Low": 930.0,
+        "Close": 940.0,
+        "Percent Change": -0.04,
+        "Volume": 9063.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-08",
+        "Open": 1018.0,
+        "High": 1038.0,
+        "Low": 975.0,
+        "Close": 978.0,
+        "Percent Change": -0.02,
+        "Volume": 10260.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-07",
+        "Open": 921.0,
+        "High": 1008.0,
+        "Low": 888.0,
+        "Close": 999.0,
+        "Percent Change": 0.08,
+        "Volume": 13278.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-06",
+        "Open": 997.0,
+        "High": 997.0,
+        "Low": 920.0,
+        "Close": 921.0,
+        "Percent Change": -0.09,
+        "Volume": 20914.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-03",
+        "Open": 1034.0,
+        "High": 1083.0,
+        "Low": 995.0,
+        "Close": 1017.0,
+        "Percent Change": 0.03,
+        "Volume": 29529.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-02",
+        "Open": 879.0,
+        "High": 985.0,
+        "Low": 879.0,
+        "Close": 985.0,
+        "Percent Change": 0.1,
+        "Volume": 26802.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-12-01",
+        "Open": 890.0,
+        "High": 906.0,
+        "Low": 885.0,
+        "Close": 896.0,
+        "Percent Change": -0.0,
+        "Volume": 26425.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-30",
+        "Open": 860.0,
+        "High": 907.0,
+        "Low": 860.0,
+        "Close": 900.0,
+        "Percent Change": 0.05,
+        "Volume": 15698.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-29",
+        "Open": 870.0,
+        "High": 880.0,
+        "Low": 851.0,
+        "Close": 860.0,
+        "Percent Change": -0.01,
+        "Volume": 14238.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-26",
+        "Open": 894.0,
+        "High": 895.0,
+        "Low": 850.0,
+        "Close": 866.0,
+        "Percent Change": -0.01,
+        "Volume": 13178.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-25",
+        "Open": 840.0,
+        "High": 885.0,
+        "Low": 828.0,
+        "Close": 870.0,
+        "Percent Change": 0.05,
+        "Volume": 10775.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-24",
+        "Open": 820.0,
+        "High": 836.0,
+        "Low": 816.0,
+        "Close": 830.0,
+        "Percent Change": 0.01,
+        "Volume": 15051.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-23",
+        "Open": 810.0,
+        "High": 820.0,
+        "Low": 801.0,
+        "Close": 819.0,
+        "Percent Change": -0.0,
+        "Volume": 10063.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-22",
+        "Open": 825.0,
+        "High": 835.0,
+        "Low": 810.0,
+        "Close": 820.0,
+        "Percent Change": 0.01,
+        "Volume": 13165.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-19",
+        "Open": 820.0,
+        "High": 821.0,
+        "Low": 800.0,
+        "Close": 809.0,
+        "Percent Change": 0.0,
+        "Volume": 22930.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-18",
+        "Open": 810.0,
+        "High": 835.0,
+        "Low": 810.0,
+        "Close": 823.0,
+        "Percent Change": 0.0,
+        "Volume": 13359.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-12",
+        "Open": 732.0,
+        "High": 808.0,
+        "Low": 732.0,
+        "Close": 795.0,
+        "Percent Change": -0.0,
+        "Volume": 26258.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-11",
+        "Open": 725.0,
+        "High": 739.0,
+        "Low": 725.0,
+        "Close": 735.0,
+        "Percent Change": -0.54,
+        "Volume": 2394.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-10",
+        "Open": 722.0,
+        "High": 740.0,
+        "Low": 722.0,
+        "Close": 739.0,
+        "Percent Change": 0.54,
+        "Volume": 3429.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-09",
+        "Open": 700.0,
+        "High": 752.0,
+        "Low": 700.0,
+        "Close": 735.0,
+        "Percent Change": 3.52,
+        "Volume": 8505.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-08",
+        "Open": 712.0,
+        "High": 729.0,
+        "Low": 710.0,
+        "Close": 710.0,
+        "Percent Change": -0.42,
+        "Volume": 3655.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-05",
+        "Open": 726.0,
+        "High": 740.0,
+        "Low": 713.0,
+        "Close": 713.0,
+        "Percent Change": -3.52,
+        "Volume": 6060.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-04",
+        "Open": 740.0,
+        "High": 760.0,
+        "Low": 739.0,
+        "Close": 739.0,
+        "Percent Change": -0.81,
+        "Volume": 3820.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-03",
+        "Open": 750.0,
+        "High": 768.0,
+        "Low": 740.0,
+        "Close": 745.0,
+        "Percent Change": 0.68,
+        "Volume": 12219.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-02",
+        "Open": 715.0,
+        "High": 745.0,
+        "Low": 702.0,
+        "Close": 740.0,
+        "Percent Change": 4.23,
+        "Volume": 15708.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-11-01",
+        "Open": 676.0,
+        "High": 714.0,
+        "Low": 676.0,
+        "Close": 710.0,
+        "Percent Change": 4.57,
+        "Volume": 8095.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-29",
+        "Open": 655.0,
+        "High": 679.0,
+        "Low": 655.0,
+        "Close": 679.0,
+        "Percent Change": 3.35,
+        "Volume": 1571.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-28",
+        "Open": 666.0,
+        "High": 669.0,
+        "Low": 655.0,
+        "Close": 657.0,
+        "Percent Change": -1.35,
+        "Volume": 1017.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-22",
+        "Open": 660.0,
+        "High": 673.0,
+        "Low": 660.0,
+        "Close": 666.0,
+        "Percent Change": 0.91,
+        "Volume": 737.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-21",
+        "Open": 655.0,
+        "High": 678.0,
+        "Low": 655.0,
+        "Close": 660.0,
+        "Percent Change": -1.2,
+        "Volume": 1757.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-20",
+        "Open": 642.0,
+        "High": 681.0,
+        "Low": 630.0,
+        "Close": 668.0,
+        "Percent Change": 1.98,
+        "Volume": 739.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-19",
+        "Open": 640.0,
+        "High": 658.0,
+        "Low": 640.0,
+        "Close": 655.0,
+        "Percent Change": 0.46,
+        "Volume": 982.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-18",
+        "Open": 650.0,
+        "High": 655.0,
+        "Low": 650.0,
+        "Close": 652.0,
+        "Percent Change": -0.31,
+        "Volume": 1316.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-15",
+        "Open": 665.0,
+        "High": 665.0,
+        "Low": 652.0,
+        "Close": 654.0,
+        "Percent Change": -0.76,
+        "Volume": 1777.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-14",
+        "Open": 659.0,
+        "High": 660.0,
+        "Low": 656.0,
+        "Close": 659.0,
+        "Percent Change": -1.05,
+        "Volume": 1426.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-13",
+        "Open": 658.0,
+        "High": 692.0,
+        "Low": 656.0,
+        "Close": 666.0,
+        "Percent Change": 0.0,
+        "Volume": 2267.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-12",
+        "Open": 666.0,
+        "High": 675.0,
+        "Low": 662.0,
+        "Close": 666.0,
+        "Percent Change": 0.0,
+        "Volume": 1379.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-11",
+        "Open": 655.0,
+        "High": 683.0,
+        "Low": 655.0,
+        "Close": 666.0,
+        "Percent Change": -0.3,
+        "Volume": 2283.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-08",
+        "Open": 680.0,
+        "High": 680.0,
+        "Low": 667.0,
+        "Close": 668.0,
+        "Percent Change": 0.0,
+        "Volume": 10714.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-07",
+        "Open": 666.0,
+        "High": 669.0,
+        "Low": 665.0,
+        "Close": 668.0,
+        "Percent Change": -0.74,
+        "Volume": 2033.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-06",
+        "Open": 673.0,
+        "High": 676.0,
+        "Low": 670.0,
+        "Close": 673.0,
+        "Percent Change": -0.74,
+        "Volume": 3360.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-05",
+        "Open": 675.0,
+        "High": 681.0,
+        "Low": 672.0,
+        "Close": 678.0,
+        "Percent Change": -0.29,
+        "Volume": 1665.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-04",
+        "Open": 694.0,
+        "High": 694.0,
+        "Low": 675.0,
+        "Close": 680.0,
+        "Percent Change": -0.44,
+        "Volume": 2482.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-10-01",
+        "Open": 697.0,
+        "High": 698.0,
+        "Low": 681.0,
+        "Close": 683.0,
+        "Percent Change": -2.01,
+        "Volume": 4314.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-30",
+        "Open": 684.0,
+        "High": 715.0,
+        "Low": 684.0,
+        "Close": 697.0,
+        "Percent Change": 3.05,
+        "Volume": 10966.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-29",
+        "Open": 760.0,
+        "High": 761.0,
+        "Low": 741.0,
+        "Close": 744.0,
+        "Percent Change": -1.98,
+        "Volume": 29743.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-28",
+        "Open": 755.0,
+        "High": 765.0,
+        "Low": 752.0,
+        "Close": 759.0,
+        "Percent Change": -0.39,
+        "Volume": 18310.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-27",
+        "Open": 741.0,
+        "High": 767.0,
+        "Low": 741.0,
+        "Close": 762.0,
+        "Percent Change": 2.28,
+        "Volume": 21121.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-24",
+        "Open": 785.0,
+        "High": 785.0,
+        "Low": 737.0,
+        "Close": 745.0,
+        "Percent Change": -0.4,
+        "Volume": 5563.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-23",
+        "Open": 760.0,
+        "High": 760.0,
+        "Low": 740.0,
+        "Close": 748.0,
+        "Percent Change": -0.27,
+        "Volume": 4804.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-22",
+        "Open": 710.0,
+        "High": 782.0,
+        "Low": 710.0,
+        "Close": 750.0,
+        "Percent Change": 0.54,
+        "Volume": 10540.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-21",
+        "Open": 756.0,
+        "High": 756.0,
+        "Low": 727.0,
+        "Close": 746.0,
+        "Percent Change": 3.61,
+        "Volume": 22433.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-20",
+        "Open": 722.0,
+        "High": 726.0,
+        "Low": 718.0,
+        "Close": 720.0,
+        "Percent Change": -1.64,
+        "Volume": 2221.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-17",
+        "Open": 726.0,
+        "High": 752.0,
+        "Low": 726.0,
+        "Close": 732.0,
+        "Percent Change": -0.95,
+        "Volume": 5498.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-16",
+        "Open": 724.0,
+        "High": 745.0,
+        "Low": 724.0,
+        "Close": 739.0,
+        "Percent Change": 0.68,
+        "Volume": 7952.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-15",
+        "Open": 729.0,
+        "High": 743.0,
+        "Low": 716.0,
+        "Close": 734.0,
+        "Percent Change": -1.08,
+        "Volume": 7188.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-14",
+        "Open": 715.0,
+        "High": 750.0,
+        "Low": 701.0,
+        "Close": 742.0,
+        "Percent Change": 2.2,
+        "Volume": 21852.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-13",
+        "Open": 763.0,
+        "High": 763.0,
+        "Low": 702.0,
+        "Close": 726.0,
+        "Percent Change": -0.14,
+        "Volume": 11267.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-10",
+        "Open": 700.0,
+        "High": 735.0,
+        "Low": 700.0,
+        "Close": 727.0,
+        "Percent Change": 3.86,
+        "Volume": 12593.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-09",
+        "Open": 690.0,
+        "High": 709.0,
+        "Low": 680.0,
+        "Close": 700.0,
+        "Percent Change": 3.09,
+        "Volume": 16627.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-08",
+        "Open": 663.0,
+        "High": 690.0,
+        "Low": 663.0,
+        "Close": 679.0,
+        "Percent Change": 1.19,
+        "Volume": 9049.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-07",
+        "Open": 680.0,
+        "High": 699.0,
+        "Low": 666.0,
+        "Close": 671.0,
+        "Percent Change": -1.18,
+        "Volume": 9708.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-06",
+        "Open": 682.0,
+        "High": 707.0,
+        "Low": 645.0,
+        "Close": 679.0,
+        "Percent Change": 4.46,
+        "Volume": 19115.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-03",
+        "Open": 647.0,
+        "High": 658.0,
+        "Low": 635.0,
+        "Close": 650.0,
+        "Percent Change": 0.46,
+        "Volume": 10296.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-09-02",
+        "Open": 650.0,
+        "High": 661.0,
+        "Low": 636.0,
+        "Close": 647.0,
+        "Percent Change": 0.94,
+        "Volume": 12015.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-31",
+        "Open": 625.0,
+        "High": 651.0,
+        "Low": 620.0,
+        "Close": 641.0,
+        "Percent Change": 2.56,
+        "Volume": 11185.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-27",
+        "Open": 629.0,
+        "High": 630.0,
+        "Low": 612.0,
+        "Close": 622.0,
+        "Percent Change": -1.11,
+        "Volume": 4431.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-26",
+        "Open": 625.0,
+        "High": 634.0,
+        "Low": 616.0,
+        "Close": 629.0,
+        "Percent Change": 1.94,
+        "Volume": 12355.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-25",
+        "Open": 603.0,
+        "High": 625.0,
+        "Low": 612.0,
+        "Close": 617.0,
+        "Percent Change": 0.33,
+        "Volume": 4699.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-24",
+        "Open": 611.0,
+        "High": 619.0,
+        "Low": 602.0,
+        "Close": 615.0,
+        "Percent Change": 2.5,
+        "Volume": 5113.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-23",
+        "Open": 581.0,
+        "High": 600.0,
+        "Low": 574.0,
+        "Close": 600.0,
+        "Percent Change": 4.35,
+        "Volume": 4646.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-20",
+        "Open": 562.0,
+        "High": 584.0,
+        "Low": 573.0,
+        "Close": 575.0,
+        "Percent Change": 0.35,
+        "Volume": 3892.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-19",
+        "Open": 583.0,
+        "High": 589.0,
+        "Low": 573.0,
+        "Close": 573.0,
+        "Percent Change": -2.88,
+        "Volume": 5368.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-18",
+        "Open": 590.0,
+        "High": 599.0,
+        "Low": 582.0,
+        "Close": 590.0,
+        "Percent Change": 0.0,
+        "Volume": 2896.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-17",
+        "Open": 586.0,
+        "High": 601.0,
+        "Low": 583.0,
+        "Close": 590.0,
+        "Percent Change": -1.17,
+        "Volume": 6718.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-16",
+        "Open": 602.0,
+        "High": 602.0,
+        "Low": 590.0,
+        "Close": 597.0,
+        "Percent Change": -2.77,
+        "Volume": 4833.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-13",
+        "Open": 608.0,
+        "High": 625.0,
+        "Low": 604.0,
+        "Close": 614.0,
+        "Percent Change": -0.81,
+        "Volume": 3982.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-12",
+        "Open": 630.0,
+        "High": 630.0,
+        "Low": 618.0,
+        "Close": 620.0,
+        "Percent Change": -1.59,
+        "Volume": 2990.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-11",
+        "Open": 645.0,
+        "High": 645.0,
+        "Low": 624.0,
+        "Close": 630.0,
+        "Percent Change": -1.56,
+        "Volume": 2646.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-10",
+        "Open": 620.0,
+        "High": 640.0,
+        "Low": 610.0,
+        "Close": 640.0,
+        "Percent Change": 4.92,
+        "Volume": 3960.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-09",
+        "Open": 601.0,
+        "High": 615.0,
+        "Low": 590.0,
+        "Close": 610.0,
+        "Percent Change": -0.49,
+        "Volume": 3220.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-06",
+        "Open": 615.0,
+        "High": 615.0,
+        "Low": 599.0,
+        "Close": 613.0,
+        "Percent Change": 0.0,
+        "Volume": 2822.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-05",
+        "Open": 632.0,
+        "High": 632.0,
+        "Low": 608.0,
+        "Close": 613.0,
+        "Percent Change": -3.01,
+        "Volume": 3491.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-03",
+        "Open": 619.0,
+        "High": 642.0,
+        "Low": 610.0,
+        "Close": 632.0,
+        "Percent Change": 0.16,
+        "Volume": 2844.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-08-02",
+        "Open": 636.0,
+        "High": 648.0,
+        "Low": 616.0,
+        "Close": 631.0,
+        "Percent Change": -2.62,
+        "Volume": 2719.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-30",
+        "Open": 638.0,
+        "High": 650.0,
+        "Low": 618.0,
+        "Close": 648.0,
+        "Percent Change": 1.41,
+        "Volume": 3364.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-29",
+        "Open": 670.0,
+        "High": 670.0,
+        "Low": 637.0,
+        "Close": 639.0,
+        "Percent Change": -3.62,
+        "Volume": 7309.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-28",
+        "Open": 670.0,
+        "High": 683.0,
+        "Low": 647.0,
+        "Close": 663.0,
+        "Percent Change": 0.76,
+        "Volume": 4511.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-27",
+        "Open": 670.0,
+        "High": 683.0,
+        "Low": 657.0,
+        "Close": 658.0,
+        "Percent Change": -1.2,
+        "Volume": 6471.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-26",
+        "Open": 650.0,
+        "High": 707.0,
+        "Low": 643.0,
+        "Close": 666.0,
+        "Percent Change": 2.3,
+        "Volume": 4461.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-23",
+        "Open": 652.0,
+        "High": 675.0,
+        "Low": 645.0,
+        "Close": 651.0,
+        "Percent Change": -0.76,
+        "Volume": 2939.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-22",
+        "Open": 673.0,
+        "High": 675.0,
+        "Low": 644.0,
+        "Close": 656.0,
+        "Percent Change": -0.61,
+        "Volume": 5205.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-21",
+        "Open": 647.0,
+        "High": 685.0,
+        "Low": 647.0,
+        "Close": 660.0,
+        "Percent Change": 0.0,
+        "Volume": 3210.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-20",
+        "Open": 725.0,
+        "High": 725.0,
+        "Low": 657.0,
+        "Close": 660.0,
+        "Percent Change": -7.17,
+        "Volume": 5290.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-19",
+        "Open": 685.0,
+        "High": 711.0,
+        "Low": 685.0,
+        "Close": 711.0,
+        "Percent Change": 5.33,
+        "Volume": 53.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-16",
+        "Open": 675.0,
+        "High": 690.0,
+        "Low": 665.0,
+        "Close": 675.0,
+        "Percent Change": -1.6,
+        "Volume": 2569.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-15",
+        "Open": 695.0,
+        "High": 704.0,
+        "Low": 678.0,
+        "Close": 686.0,
+        "Percent Change": 0.0,
+        "Volume": 3882.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-14",
+        "Open": 650.0,
+        "High": 702.0,
+        "Low": 636.0,
+        "Close": 686.0,
+        "Percent Change": 3.78,
+        "Volume": 10896.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-13",
+        "Open": 610.0,
+        "High": 667.0,
+        "Low": 595.0,
+        "Close": 661.0,
+        "Percent Change": 8.9,
+        "Volume": 6396.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-12",
+        "Open": 604.0,
+        "High": 616.0,
+        "Low": 588.0,
+        "Close": 607.0,
+        "Percent Change": 2.36,
+        "Volume": 2296.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-09",
+        "Open": 579.0,
+        "High": 601.0,
+        "Low": 579.0,
+        "Close": 593.0,
+        "Percent Change": 0.51,
+        "Volume": 2936.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-08",
+        "Open": 590.0,
+        "High": 624.0,
+        "Low": 574.0,
+        "Close": 590.0,
+        "Percent Change": -1.67,
+        "Volume": 3380.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-07",
+        "Open": 583.0,
+        "High": 620.0,
+        "Low": 566.0,
+        "Close": 600.0,
+        "Percent Change": 4.9,
+        "Volume": 6485.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-06",
+        "Open": 531.0,
+        "High": 572.0,
+        "Low": 522.0,
+        "Close": 572.0,
+        "Percent Change": 5.93,
+        "Volume": 2290.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-05",
+        "Open": 558.0,
+        "High": 570.0,
+        "Low": 539.0,
+        "Close": 540.0,
+        "Percent Change": -3.57,
+        "Volume": 1281.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-02",
+        "Open": 560.0,
+        "High": 560.0,
+        "Low": 550.0,
+        "Close": 560.0,
+        "Percent Change": -0.18,
+        "Volume": 1190.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-07-01",
+        "Open": 539.0,
+        "High": 561.0,
+        "Low": 539.0,
+        "Close": 561.0,
+        "Percent Change": 5.85,
+        "Volume": 130.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-06-30",
+        "Open": 515.0,
+        "High": 530.0,
+        "Low": 506.0,
+        "Close": 530.0,
+        "Percent Change": 2.32,
+        "Volume": 916.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-06-29",
+        "Open": 508.0,
+        "High": 508.0,
+        "Low": 480.0,
+        "Close": 518.0,
+        "Percent Change": -6.37,
+        "Volume": 1952.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-05-13",
+        "Open": 524.0,
+        "High": 524.0,
+        "Low": 518.0,
+        "Close": 518.0,
+        "Percent Change": -3.0,
+        "Volume": 20.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-03-22",
+        "Open": 555.0,
+        "High": 560.0,
+        "Low": 534.0,
+        "Close": 534.0,
+        "Percent Change": -3.78,
+        "Volume": 1604.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-03-19",
+        "Open": 540.0,
+        "High": 577.0,
+        "Low": 540.0,
+        "Close": 555.0,
+        "Percent Change": 2.78,
+        "Volume": 4166.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-03-18",
+        "Open": 545.0,
+        "High": 577.0,
+        "Low": 534.0,
+        "Close": 540.0,
+        "Percent Change": -2.7,
+        "Volume": 4560.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-03-17",
+        "Open": 590.0,
+        "High": 590.0,
+        "Low": 544.0,
+        "Close": 555.0,
+        "Percent Change": -6.88,
+        "Volume": 6101.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-03-16",
+        "Open": 584.0,
+        "High": 612.0,
+        "Low": 575.0,
+        "Close": 596.0,
+        "Percent Change": 0.17,
+        "Volume": 4144.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-03-15",
+        "Open": 635.0,
+        "High": 639.0,
+        "Low": 595.0,
+        "Close": 595.0,
+        "Percent Change": -7.03,
+        "Volume": 4944.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-03-12",
+        "Open": 659.0,
+        "High": 672.0,
+        "Low": 628.0,
+        "Close": 640.0,
+        "Percent Change": -4.76,
+        "Volume": 4018.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-03-11",
+        "Open": 621.0,
+        "High": 672.0,
+        "Low": 609.0,
+        "Close": 672.0,
+        "Percent Change": 6.16,
+        "Volume": 4375.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-03-10",
+        "Open": 698.0,
+        "High": 698.0,
+        "Low": 633.0,
+        "Close": 633.0,
+        "Percent Change": -9.31,
+        "Volume": 2918.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-03-05",
+        "Open": 686.0,
+        "High": 759.0,
+        "Low": 654.0,
+        "Close": 698.0,
+        "Percent Change": -0.29,
+        "Volume": 6136.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-03-04",
+        "Open": 686.0,
+        "High": 700.0,
+        "Low": 642.0,
+        "Close": 700.0,
+        "Percent Change": 0.0,
+        "Volume": 9408.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-03-02",
+        "Open": 756.0,
+        "High": 785.0,
+        "Low": 722.0,
+        "Close": 730.0,
+        "Percent Change": -5.19,
+        "Volume": 3394.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-27",
+        "Open": 800.0,
+        "High": 825.0,
+        "Low": 784.0,
+        "Close": 799.0,
+        "Percent Change": -1.96,
+        "Volume": 11301.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-26",
+        "Open": 800.0,
+        "High": 844.0,
+        "Low": 800.0,
+        "Close": 815.0,
+        "Percent Change": -0.12,
+        "Volume": 17953.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-25",
+        "Open": 800.0,
+        "High": 839.0,
+        "Low": 793.0,
+        "Close": 816.0,
+        "Percent Change": 0.99,
+        "Volume": 11950.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-23",
+        "Open": 842.0,
+        "High": 857.0,
+        "Low": 818.0,
+        "Close": 824.0,
+        "Percent Change": -0.36,
+        "Volume": 29953.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-19",
+        "Open": 784.0,
+        "High": 790.0,
+        "Low": 760.0,
+        "Close": 789.0,
+        "Percent Change": 2.6,
+        "Volume": 16418.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-18",
+        "Open": 790.0,
+        "High": 800.0,
+        "Low": 756.0,
+        "Close": 769.0,
+        "Percent Change": -0.77,
+        "Volume": 21739.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-17",
+        "Open": 810.0,
+        "High": 821.0,
+        "Low": 775.0,
+        "Close": 775.0,
+        "Percent Change": -3.12,
+        "Volume": 20559.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-16",
+        "Open": 772.0,
+        "High": 800.0,
+        "Low": 763.0,
+        "Close": 800.0,
+        "Percent Change": 5.54,
+        "Volume": 27827.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-13",
+        "Open": 749.0,
+        "High": 773.0,
+        "Low": 730.0,
+        "Close": 758.0,
+        "Percent Change": 2.99,
+        "Volume": 45020.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-12",
+        "Open": 730.0,
+        "High": 736.0,
+        "Low": 716.0,
+        "Close": 736.0,
+        "Percent Change": 2.51,
+        "Volume": 20565.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-11",
+        "Open": 717.0,
+        "High": 730.0,
+        "Low": 705.0,
+        "Close": 718.0,
+        "Percent Change": 2.13,
+        "Volume": 10875.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-10",
+        "Open": 700.0,
+        "High": 724.0,
+        "Low": 682.0,
+        "Close": 703.0,
+        "Percent Change": 1.44,
+        "Volume": 9642.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-09",
+        "Open": 686.0,
+        "High": 703.0,
+        "Low": 686.0,
+        "Close": 693.0,
+        "Percent Change": -1.0,
+        "Volume": 5223.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-06",
+        "Open": 719.0,
+        "High": 723.0,
+        "Low": 699.0,
+        "Close": 700.0,
+        "Percent Change": -1.55,
+        "Volume": 8509.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-05",
+        "Open": 710.0,
+        "High": 720.0,
+        "Low": 704.0,
+        "Close": 711.0,
+        "Percent Change": 0.57,
+        "Volume": 5512.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-04",
+        "Open": 705.0,
+        "High": 725.0,
+        "Low": 693.0,
+        "Close": 707.0,
+        "Percent Change": 0.28,
+        "Volume": 12769.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-03",
+        "Open": 717.0,
+        "High": 730.0,
+        "Low": 705.0,
+        "Close": 705.0,
+        "Percent Change": -1.81,
+        "Volume": 11443.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-02-02",
+        "Open": 738.0,
+        "High": 763.0,
+        "Low": 687.0,
+        "Close": 718.0,
+        "Percent Change": -0.83,
+        "Volume": 20217.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-30",
+        "Open": 775.0,
+        "High": 775.0,
+        "Low": 717.0,
+        "Close": 724.0,
+        "Percent Change": -4.99,
+        "Volume": 73954.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-29",
+        "Open": 706.0,
+        "High": 762.0,
+        "Low": 685.0,
+        "Close": 762.0,
+        "Percent Change": 9.96,
+        "Volume": 87860.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-28",
+        "Open": 663.0,
+        "High": 704.0,
+        "Low": 655.0,
+        "Close": 693.0,
+        "Percent Change": 6.62,
+        "Volume": 35637.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-27",
+        "Open": 607.0,
+        "High": 656.0,
+        "Low": 607.0,
+        "Close": 650.0,
+        "Percent Change": 5.69,
+        "Volume": 20399.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-26",
+        "Open": 623.0,
+        "High": 647.0,
+        "Low": 610.0,
+        "Close": 615.0,
+        "Percent Change": -3.15,
+        "Volume": 5137.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-23",
+        "Open": 628.0,
+        "High": 652.0,
+        "Low": 623.0,
+        "Close": 635.0,
+        "Percent Change": 2.92,
+        "Volume": 17982.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-22",
+        "Open": 620.0,
+        "High": 627.0,
+        "Low": 613.0,
+        "Close": 617.0,
+        "Percent Change": -0.48,
+        "Volume": 5566.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-21",
+        "Open": 624.0,
+        "High": 633.0,
+        "Low": 599.0,
+        "Close": 620.0,
+        "Percent Change": -0.16,
+        "Volume": 8292.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-20",
+        "Open": 649.0,
+        "High": 649.0,
+        "Low": 612.0,
+        "Close": 612.0,
+        "Percent Change": -5.12,
+        "Volume": 8887.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-19",
+        "Open": 655.0,
+        "High": 666.0,
+        "Low": 635.0,
+        "Close": 636.0,
+        "Percent Change": -1.4,
+        "Volume": 17923.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-16",
+        "Open": 645.0,
+        "High": 663.0,
+        "Low": 618.0,
+        "Close": 645.0,
+        "Percent Change": 1.26,
+        "Volume": 17963.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-15",
+        "Open": 615.0,
+        "High": 637.0,
+        "Low": 611.0,
+        "Close": 637.0,
+        "Percent Change": 4.6,
+        "Volume": 6222.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-14",
+        "Open": 619.0,
+        "High": 624.0,
+        "Low": 604.0,
+        "Close": 609.0,
+        "Percent Change": -1.62,
+        "Volume": 12976.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-13",
+        "Open": 627.0,
+        "High": 651.0,
+        "Low": 604.0,
+        "Close": 619.0,
+        "Percent Change": 0.49,
+        "Volume": 21314.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-12",
+        "Open": 579.0,
+        "High": 623.0,
+        "Low": 589.0,
+        "Close": 616.0,
+        "Percent Change": 4.41,
+        "Volume": 18369.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-09",
+        "Open": 560.0,
+        "High": 599.0,
+        "Low": 555.0,
+        "Close": 590.0,
+        "Percent Change": 6.88,
+        "Volume": 17303.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-08",
+        "Open": 530.0,
+        "High": 565.0,
+        "Low": 526.0,
+        "Close": 552.0,
+        "Percent Change": 2.99,
+        "Volume": 9280.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-07",
+        "Open": 529.0,
+        "High": 550.0,
+        "Low": 519.0,
+        "Close": 536.0,
+        "Percent Change": 3.28,
+        "Volume": 17834.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-06",
+        "Open": 521.0,
+        "High": 532.0,
+        "Low": 515.0,
+        "Close": 519.0,
+        "Percent Change": 0.58,
+        "Volume": 6239.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-05",
+        "Open": 520.0,
+        "High": 548.0,
+        "Low": 512.0,
+        "Close": 516.0,
+        "Percent Change": -0.58,
+        "Volume": 11995.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-02",
+        "Open": 510.0,
+        "High": 535.0,
+        "Low": 507.0,
+        "Close": 519.0,
+        "Percent Change": 0.39,
+        "Volume": 19821.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2020-01-01",
+        "Open": 480.0,
+        "High": 518.0,
+        "Low": 480.0,
+        "Close": 517.0,
+        "Percent Change": 8.61,
+        "Volume": 8172.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-31",
+        "Open": 475.0,
+        "High": 486.0,
+        "Low": 475.0,
+        "Close": 476.0,
+        "Percent Change": -0.63,
+        "Volume": 2653.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-30",
+        "Open": 470.0,
+        "High": 486.0,
+        "Low": 467.0,
+        "Close": 479.0,
+        "Percent Change": 1.91,
+        "Volume": 9297.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-29",
+        "Open": 461.0,
+        "High": 470.0,
+        "Low": 456.0,
+        "Close": 470.0,
+        "Percent Change": 2.4,
+        "Volume": 4252.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-26",
+        "Open": 460.0,
+        "High": 461.0,
+        "Low": 457.0,
+        "Close": 459.0,
+        "Percent Change": -0.65,
+        "Volume": 160.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-25",
+        "Open": 465.0,
+        "High": 469.0,
+        "Low": 462.0,
+        "Close": 462.0,
+        "Percent Change": 0.0,
+        "Volume": 2447.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-24",
+        "Open": 468.0,
+        "High": 468.0,
+        "Low": 461.0,
+        "Close": 462.0,
+        "Percent Change": -1.07,
+        "Volume": 3673.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-23",
+        "Open": 455.0,
+        "High": 467.0,
+        "Low": 447.0,
+        "Close": 467.0,
+        "Percent Change": 4.24,
+        "Volume": 3672.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-22",
+        "Open": 451.0,
+        "High": 455.0,
+        "Low": 448.0,
+        "Close": 448.0,
+        "Percent Change": -2.4,
+        "Volume": 600.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-19",
+        "Open": 454.0,
+        "High": 463.0,
+        "Low": 454.0,
+        "Close": 459.0,
+        "Percent Change": -0.22,
+        "Volume": 2036.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-18",
+        "Open": 464.0,
+        "High": 473.0,
+        "Low": 454.0,
+        "Close": 460.0,
+        "Percent Change": 0.0,
+        "Volume": 635.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-17",
+        "Open": 456.0,
+        "High": 463.0,
+        "Low": 456.0,
+        "Close": 460.0,
+        "Percent Change": -0.43,
+        "Volume": 1320.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-16",
+        "Open": 464.0,
+        "High": 472.0,
+        "Low": 446.0,
+        "Close": 462.0,
+        "Percent Change": 1.54,
+        "Volume": 6112.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-15",
+        "Open": 470.0,
+        "High": 471.0,
+        "Low": 458.0,
+        "Close": 469.0,
+        "Percent Change": -1.88,
+        "Volume": 4015.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-12",
+        "Open": 488.0,
+        "High": 490.0,
+        "Low": 471.0,
+        "Close": 478.0,
+        "Percent Change": -1.85,
+        "Volume": 12872.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-11",
+        "Open": 455.0,
+        "High": 500.0,
+        "Low": 455.0,
+        "Close": 487.0,
+        "Percent Change": 7.03,
+        "Volume": 8430.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-10",
+        "Open": 448.0,
+        "High": 473.0,
+        "Low": 440.0,
+        "Close": 455.0,
+        "Percent Change": 3.41,
+        "Volume": 7012.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-09",
+        "Open": 402.0,
+        "High": 440.0,
+        "Low": 402.0,
+        "Close": 440.0,
+        "Percent Change": 10.0,
+        "Volume": 10122.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-08",
+        "Open": 400.0,
+        "High": 408.0,
+        "Low": 394.0,
+        "Close": 400.0,
+        "Percent Change": -0.5,
+        "Volume": 520.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-05",
+        "Open": 392.0,
+        "High": 404.0,
+        "Low": 390.0,
+        "Close": 402.0,
+        "Percent Change": 1.52,
+        "Volume": 880.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-04",
+        "Open": 390.0,
+        "High": 397.0,
+        "Low": 383.0,
+        "Close": 396.0,
+        "Percent Change": 2.86,
+        "Volume": 690.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-03",
+        "Open": 388.0,
+        "High": 389.0,
+        "Low": 385.0,
+        "Close": 385.0,
+        "Percent Change": 0.79,
+        "Volume": 210.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-02",
+        "Open": 391.0,
+        "High": 391.0,
+        "Low": 382.0,
+        "Close": 382.0,
+        "Percent Change": -0.52,
+        "Volume": 55.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-12-01",
+        "Open": 384.0,
+        "High": 385.0,
+        "Low": 384.0,
+        "Close": 384.0,
+        "Percent Change": -1.54,
+        "Volume": 290.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-28",
+        "Open": 390.0,
+        "High": 395.0,
+        "Low": 386.0,
+        "Close": 390.0,
+        "Percent Change": -1.76,
+        "Volume": 350.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-27",
+        "Open": 377.0,
+        "High": 397.0,
+        "Low": 377.0,
+        "Close": 397.0,
+        "Percent Change": 3.66,
+        "Volume": 300.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-26",
+        "Open": 382.0,
+        "High": 392.0,
+        "Low": 381.0,
+        "Close": 383.0,
+        "Percent Change": 0.52,
+        "Volume": 230.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-25",
+        "Open": 386.0,
+        "High": 386.0,
+        "Low": 379.0,
+        "Close": 381.0,
+        "Percent Change": -1.3,
+        "Volume": 1015.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-24",
+        "Open": 384.0,
+        "High": 392.0,
+        "Low": 384.0,
+        "Close": 386.0,
+        "Percent Change": -1.03,
+        "Volume": 240.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-21",
+        "Open": 397.0,
+        "High": 397.0,
+        "Low": 390.0,
+        "Close": 390.0,
+        "Percent Change": -1.27,
+        "Volume": 930.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-20",
+        "Open": 392.0,
+        "High": 404.0,
+        "Low": 390.0,
+        "Close": 395.0,
+        "Percent Change": 1.02,
+        "Volume": 540.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-19",
+        "Open": 389.0,
+        "High": 394.0,
+        "Low": 389.0,
+        "Close": 391.0,
+        "Percent Change": -1.01,
+        "Volume": 580.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-18",
+        "Open": 387.0,
+        "High": 397.0,
+        "Low": 384.0,
+        "Close": 395.0,
+        "Percent Change": 2.07,
+        "Volume": 310.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-17",
+        "Open": 399.0,
+        "High": 399.0,
+        "Low": 387.0,
+        "Close": 387.0,
+        "Percent Change": -4.68,
+        "Volume": 580.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-13",
+        "Open": 386.0,
+        "High": 398.0,
+        "Low": 386.0,
+        "Close": 390.0,
+        "Percent Change": -0.26,
+        "Volume": 871.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-12",
+        "Open": 396.0,
+        "High": 396.0,
+        "Low": 391.0,
+        "Close": 391.0,
+        "Percent Change": -2.98,
+        "Volume": 250.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-11",
+        "Open": 384.0,
+        "High": 405.0,
+        "Low": 384.0,
+        "Close": 403.0,
+        "Percent Change": 3.33,
+        "Volume": 1378.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-10",
+        "Open": 385.0,
+        "High": 397.0,
+        "Low": 383.0,
+        "Close": 390.0,
+        "Percent Change": 0.52,
+        "Volume": 400.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-07",
+        "Open": 387.0,
+        "High": 390.0,
+        "Low": 387.0,
+        "Close": 388.0,
+        "Percent Change": -0.77,
+        "Volume": 460.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-06",
+        "Open": 386.0,
+        "High": 391.0,
+        "Low": 386.0,
+        "Close": 391.0,
+        "Percent Change": 0.0,
+        "Volume": 80.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-05",
+        "Open": 389.0,
+        "High": 393.0,
+        "Low": 386.0,
+        "Close": 391.0,
+        "Percent Change": 1.3,
+        "Volume": 1030.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-04",
+        "Open": 384.0,
+        "High": 392.0,
+        "Low": 384.0,
+        "Close": 386.0,
+        "Percent Change": -1.28,
+        "Volume": 410.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-11-03",
+        "Open": 391.0,
+        "High": 395.0,
+        "Low": 389.0,
+        "Close": 391.0,
+        "Percent Change": -1.01,
+        "Volume": 560.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-10-31",
+        "Open": 400.0,
+        "High": 404.0,
+        "Low": 395.0,
+        "Close": 395.0,
+        "Percent Change": -1.25,
+        "Volume": 300.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-10-24",
+        "Open": 393.0,
+        "High": 400.0,
+        "Low": 393.0,
+        "Close": 400.0,
+        "Percent Change": -0.25,
+        "Volume": 258.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-10-23",
+        "Open": 390.0,
+        "High": 401.0,
+        "Low": 390.0,
+        "Close": 401.0,
+        "Percent Change": 3.62,
+        "Volume": 290.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-10-22",
+        "Open": 386.0,
+        "High": 390.0,
+        "Low": 385.0,
+        "Close": 387.0,
+        "Percent Change": -1.53,
+        "Volume": 100.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-10-21",
+        "Open": 393.0,
+        "High": 398.0,
+        "Low": 386.0,
+        "Close": 393.0,
+        "Percent Change": -1.26,
+        "Volume": 330.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-10-17",
+        "Open": 390.0,
+        "High": 398.0,
+        "Low": 390.0,
+        "Close": 398.0,
+        "Percent Change": 1.79,
+        "Volume": 421.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-10-16",
+        "Open": 394.0,
+        "High": 397.0,
+        "Low": 391.0,
+        "Close": 391.0,
+        "Percent Change": -2.25,
+        "Volume": 1128.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-10-15",
+        "Open": 396.0,
+        "High": 402.0,
+        "Low": 396.0,
+        "Close": 400.0,
+        "Percent Change": 1.01,
+        "Volume": 60.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-10-14",
+        "Open": 396.0,
+        "High": 401.0,
+        "Low": 396.0,
+        "Close": 396.0,
+        "Percent Change": -1.25,
+        "Volume": 2991.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-10-10",
+        "Open": 402.0,
+        "High": 402.0,
+        "Low": 401.0,
+        "Close": 401.0,
+        "Percent Change": -0.25,
+        "Volume": 51.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-10-03",
+        "Open": 405.0,
+        "High": 407.0,
+        "Low": 402.0,
+        "Close": 402.0,
+        "Percent Change": -0.25,
+        "Volume": 470.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-10-02",
+        "Open": 410.0,
+        "High": 410.0,
+        "Low": 402.0,
+        "Close": 403.0,
+        "Percent Change": -1.47,
+        "Volume": 755.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-10-01",
+        "Open": 399.0,
+        "High": 409.0,
+        "Low": 399.0,
+        "Close": 409.0,
+        "Percent Change": 0.99,
+        "Volume": 790.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-30",
+        "Open": 401.0,
+        "High": 406.0,
+        "Low": 398.0,
+        "Close": 402.0,
+        "Percent Change": 0.75,
+        "Volume": 1660.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-29",
+        "Open": 410.0,
+        "High": 410.0,
+        "Low": 399.0,
+        "Close": 399.0,
+        "Percent Change": -2.68,
+        "Volume": 1758.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-26",
+        "Open": 410.0,
+        "High": 413.0,
+        "Low": 402.0,
+        "Close": 410.0,
+        "Percent Change": 1.23,
+        "Volume": 6035.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-24",
+        "Open": 401.0,
+        "High": 414.0,
+        "Low": 401.0,
+        "Close": 410.0,
+        "Percent Change": 0.99,
+        "Volume": 1536.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-23",
+        "Open": 402.0,
+        "High": 410.0,
+        "Low": 402.0,
+        "Close": 406.0,
+        "Percent Change": -0.98,
+        "Volume": 651.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-22",
+        "Open": 407.0,
+        "High": 412.0,
+        "Low": 402.0,
+        "Close": 410.0,
+        "Percent Change": 0.74,
+        "Volume": 1210.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-19",
+        "Open": 430.0,
+        "High": 438.0,
+        "Low": 407.0,
+        "Close": 407.0,
+        "Percent Change": -3.55,
+        "Volume": 2696.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-18",
+        "Open": 421.0,
+        "High": 423.0,
+        "Low": 412.0,
+        "Close": 422.0,
+        "Percent Change": 1.93,
+        "Volume": 1375.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-17",
+        "Open": 408.0,
+        "High": 421.0,
+        "Low": 402.0,
+        "Close": 414.0,
+        "Percent Change": 0.98,
+        "Volume": 2715.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-16",
+        "Open": 415.0,
+        "High": 418.0,
+        "Low": 408.0,
+        "Close": 410.0,
+        "Percent Change": -3.07,
+        "Volume": 1565.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-15",
+        "Open": 412.0,
+        "High": 424.0,
+        "Low": 405.0,
+        "Close": 423.0,
+        "Percent Change": 0.95,
+        "Volume": 2665.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-12",
+        "Open": 426.0,
+        "High": 437.0,
+        "Low": 419.0,
+        "Close": 419.0,
+        "Percent Change": -2.1,
+        "Volume": 2848.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-11",
+        "Open": 440.0,
+        "High": 440.0,
+        "Low": 427.0,
+        "Close": 428.0,
+        "Percent Change": -1.61,
+        "Volume": 3060.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-10",
+        "Open": 451.0,
+        "High": 451.0,
+        "Low": 435.0,
+        "Close": 435.0,
+        "Percent Change": -3.55,
+        "Volume": 3682.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-09",
+        "Open": 455.0,
+        "High": 464.0,
+        "Low": 450.0,
+        "Close": 451.0,
+        "Percent Change": -2.8,
+        "Volume": 1575.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-08",
+        "Open": 452.0,
+        "High": 464.0,
+        "Low": 452.0,
+        "Close": 464.0,
+        "Percent Change": 1.31,
+        "Volume": 545.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-05",
+        "Open": 469.0,
+        "High": 473.0,
+        "Low": 456.0,
+        "Close": 458.0,
+        "Percent Change": -0.43,
+        "Volume": 840.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-04",
+        "Open": 465.0,
+        "High": 474.0,
+        "Low": 457.0,
+        "Close": 460.0,
+        "Percent Change": 0.88,
+        "Volume": 2349.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-03",
+        "Open": 446.0,
+        "High": 465.0,
+        "Low": 445.0,
+        "Close": 456.0,
+        "Percent Change": 0.22,
+        "Volume": 865.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-02",
+        "Open": 456.0,
+        "High": 457.0,
+        "Low": 450.0,
+        "Close": 455.0,
+        "Percent Change": -1.3,
+        "Volume": 2239.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-09-01",
+        "Open": 469.0,
+        "High": 470.0,
+        "Low": 461.0,
+        "Close": 461.0,
+        "Percent Change": -3.56,
+        "Volume": 1010.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-08-29",
+        "Open": 472.0,
+        "High": 478.0,
+        "Low": 465.0,
+        "Close": 478.0,
+        "Percent Change": 1.27,
+        "Volume": 1525.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-08-28",
+        "Open": 467.0,
+        "High": 477.0,
+        "Low": 467.0,
+        "Close": 472.0,
+        "Percent Change": -0.63,
+        "Volume": 850.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-08-27",
+        "Open": 465.0,
+        "High": 484.0,
+        "Low": 465.0,
+        "Close": 475.0,
+        "Percent Change": 0.21,
+        "Volume": 620.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-08-26",
+        "Open": 484.0,
+        "High": 490.0,
+        "Low": 465.0,
+        "Close": 474.0,
+        "Percent Change": -0.21,
+        "Volume": 1846.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-08-25",
+        "Open": 469.0,
+        "High": 475.0,
+        "Low": 458.0,
+        "Close": 475.0,
+        "Percent Change": 1.93,
+        "Volume": 4216.0
+    },
+    {
+        "Symbol": "NADEP",
+        "Date": "2019-08-22",
+        "Open": 474.0,
+        "High": 482.0,
+        "Low": 465.0,
+        "Close": 466.0,
+        "Percent Change": -0.64,
+        "Volume": 2606.0
+    }
+]

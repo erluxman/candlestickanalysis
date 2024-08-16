@@ -1,0 +1,1702 @@
+[
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-08-13",
+        "Open":800,
+        "High":817,
+        "Low":800,
+        "Close":800,
+        "Percent Change":"-0.50 %",
+        "Volume":"3,118.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-08-12",
+        "Open":813,
+        "High":820,
+        "Low":797,
+        "Close":804,
+        "Percent Change":"-2.90 %",
+        "Volume":"2,503.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-08-11",
+        "Open":840,
+        "High":863,
+        "Low":815,
+        "Close":828,
+        "Percent Change":"-0.36 %",
+        "Volume":"4,046.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-08-10",
+        "Open":828,
+        "High":841,
+        "Low":813,
+        "Close":831,
+        "Percent Change":"2.34 %",
+        "Volume":"1,541.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-08-09",
+        "Open":784,
+        "High":813,
+        "Low":760,
+        "Close":812,
+        "Percent Change":"1.50 %",
+        "Volume":"2,537.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-08-06",
+        "Open":811,
+        "High":811,
+        "Low":796,
+        "Close":800,
+        "Percent Change":"-3.03 %",
+        "Volume":"1,463.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-08-05",
+        "Open":856,
+        "High":856,
+        "Low":822,
+        "Close":830,
+        "Percent Change":"-1.19 %",
+        "Volume":"624.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-08-03",
+        "Open":840,
+        "High":850,
+        "Low":831,
+        "Close":840,
+        "Percent Change":"0.00 %",
+        "Volume":"1,299.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-08-02",
+        "Open":857,
+        "High":857,
+        "Low":825,
+        "Close":840,
+        "Percent Change":"-3.89 %",
+        "Volume":"1,405.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-30",
+        "Open":865,
+        "High":882,
+        "Low":835,
+        "Close":874,
+        "Percent Change":"0.34 %",
+        "Volume":"1,952.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-29",
+        "Open":882,
+        "High":882,
+        "Low":860,
+        "Close":871,
+        "Percent Change":"-3.22 %",
+        "Volume":"3,249.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-28",
+        "Open":891,
+        "High":918,
+        "Low":884,
+        "Close":900,
+        "Percent Change":"0.00 %",
+        "Volume":"1,874.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-27",
+        "Open":911,
+        "High":914,
+        "Low":895,
+        "Close":896,
+        "Percent Change":"-1.54 %",
+        "Volume":"2,283.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-26",
+        "Open":900,
+        "High":910,
+        "Low":895,
+        "Close":910,
+        "Percent Change":"0.22 %",
+        "Volume":"2,936.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-23",
+        "Open":880,
+        "High":910,
+        "Low":880,
+        "Close":908,
+        "Percent Change":"2.02 %",
+        "Volume":"2,180.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-22",
+        "Open":905,
+        "High":956,
+        "Low":880,
+        "Close":890,
+        "Percent Change":"-1.11 %",
+        "Volume":"1,685.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-21",
+        "Open":909,
+        "High":930,
+        "Low":893,
+        "Close":900,
+        "Percent Change":"-1.10 %",
+        "Volume":"2,305.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-20",
+        "Open":938,
+        "High":938,
+        "Low":892,
+        "Close":910,
+        "Percent Change":"-1.09 %",
+        "Volume":"3,159.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-19",
+        "Open":911,
+        "High":920,
+        "Low":911,
+        "Close":920,
+        "Percent Change":"0.99 %",
+        "Volume":"20.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-16",
+        "Open":934,
+        "High":943,
+        "Low":910,
+        "Close":911,
+        "Percent Change":"-1.62 %",
+        "Volume":"2,023.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-15",
+        "Open":950,
+        "High":955,
+        "Low":922,
+        "Close":926,
+        "Percent Change":"-3.04 %",
+        "Volume":"1,477.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-14",
+        "Open":960,
+        "High":974,
+        "Low":930,
+        "Close":955,
+        "Percent Change":"-0.83 %",
+        "Volume":"2,084.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-13",
+        "Open":985,
+        "High":1003,
+        "Low":914,
+        "Close":963,
+        "Percent Change":"-0.31 %",
+        "Volume":"2,578.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-12",
+        "Open":925,
+        "High":966,
+        "Low":904,
+        "Close":966,
+        "Percent Change":"6.15 %",
+        "Volume":"2,335.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-09",
+        "Open":882,
+        "High":910,
+        "Low":870,
+        "Close":910,
+        "Percent Change":"1.22 %",
+        "Volume":"1,225.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-08",
+        "Open":930,
+        "High":948,
+        "Low":880,
+        "Close":899,
+        "Percent Change":"-1.43 %",
+        "Volume":"3,671.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-07",
+        "Open":888,
+        "High":941,
+        "Low":888,
+        "Close":912,
+        "Percent Change":"4.71 %",
+        "Volume":"4,477.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-06",
+        "Open":795,
+        "High":873,
+        "Low":790,
+        "Close":871,
+        "Percent Change":"9.70 %",
+        "Volume":"1,756.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-05",
+        "Open":763,
+        "High":794,
+        "Low":763,
+        "Close":794,
+        "Percent Change":"3.93 %",
+        "Volume":"1,376.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-02",
+        "Open":800,
+        "High":816,
+        "Low":764,
+        "Close":764,
+        "Percent Change":"-3.29 %",
+        "Volume":"468.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-07-01",
+        "Open":760,
+        "High":790,
+        "Low":760,
+        "Close":790,
+        "Percent Change":"4.08 %",
+        "Volume":"309.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-06-30",
+        "Open":759,
+        "High":759,
+        "Low":759,
+        "Close":759,
+        "Percent Change":"1.88 %",
+        "Volume":"10.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-06-29",
+        "Open":745,
+        "High":745,
+        "Low":745,
+        "Close":745,
+        "Percent Change":"-1.97 %",
+        "Volume":"336.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-05-13",
+        "Open":760,
+        "High":760,
+        "Low":760,
+        "Close":760,
+        "Percent Change":"-1.94 %",
+        "Volume":"10.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-03-22",
+        "Open":775,
+        "High":775,
+        "Low":775,
+        "Close":775,
+        "Percent Change":"-1.65 %",
+        "Volume":"99.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-03-19",
+        "Open":769,
+        "High":818,
+        "Low":765,
+        "Close":788,
+        "Percent Change":"0.51 %",
+        "Volume":"2,599.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-03-18",
+        "Open":793,
+        "High":835,
+        "Low":729,
+        "Close":799,
+        "Percent Change":"-1.24 %",
+        "Volume":"1,868.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-03-17",
+        "Open":825,
+        "High":825,
+        "Low":777,
+        "Close":809,
+        "Percent Change":"-3.69 %",
+        "Volume":"3,234.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-03-16",
+        "Open":860,
+        "High":877,
+        "Low":840,
+        "Close":840,
+        "Percent Change":"-1.18 %",
+        "Volume":"3,667.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-03-15",
+        "Open":876,
+        "High":890,
+        "Low":840,
+        "Close":850,
+        "Percent Change":"-4.82 %",
+        "Volume":"3,062.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-03-12",
+        "Open":940,
+        "High":940,
+        "Low":890,
+        "Close":893,
+        "Percent Change":"-5.00 %",
+        "Volume":"4,967.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-03-11",
+        "Open":870,
+        "High":951,
+        "Low":832,
+        "Close":940,
+        "Percent Change":"8.67 %",
+        "Volume":"5,037.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-03-10",
+        "Open":918,
+        "High":918,
+        "Low":865,
+        "Close":865,
+        "Percent Change":"-7.59 %",
+        "Volume":"421.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-03-05",
+        "Open":953,
+        "High":1020,
+        "Low":898,
+        "Close":936,
+        "Percent Change":"-3.70 %",
+        "Volume":"6,716.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-03-04",
+        "Open":1060,
+        "High":1060,
+        "Low":972,
+        "Close":972,
+        "Percent Change":"-10.00 %",
+        "Volume":"6,216.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-03-03",
+        "Open":1200,
+        "High":1176,
+        "Low":1080,
+        "Close":1080,
+        "Percent Change":"-10.00 %",
+        "Volume":"5,564.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-03-01",
+        "Open":1190,
+        "High":1209,
+        "Low":1123,
+        "Close":1200,
+        "Percent Change":"0.84 %",
+        "Volume":"7,022.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-27",
+        "Open":1229,
+        "High":1230,
+        "Low":1176,
+        "Close":1190,
+        "Percent Change":"-3.49 %",
+        "Volume":"6,537.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-26",
+        "Open":1210,
+        "High":1247,
+        "Low":1199,
+        "Close":1233,
+        "Percent Change":"1.90 %",
+        "Volume":"4,706.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-25",
+        "Open":1078,
+        "High":1210,
+        "Low":1060,
+        "Close":1210,
+        "Percent Change":"10.00 %",
+        "Volume":"9,052.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-24",
+        "Open":1108,
+        "High":1179,
+        "Low":1086,
+        "Close":1100,
+        "Percent Change":"-0.72 %",
+        "Volume":"11,223.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-23",
+        "Open":1000,
+        "High":1108,
+        "Low":1000,
+        "Close":1108,
+        "Percent Change":"9.92 %",
+        "Volume":"16,198.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-20",
+        "Open":983,
+        "High":1008,
+        "Low":971,
+        "Close":1008,
+        "Percent Change":"2.54 %",
+        "Volume":"18,881.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-19",
+        "Open":985,
+        "High":1000,
+        "Low":928,
+        "Close":983,
+        "Percent Change":"0.92 %",
+        "Volume":"8,400.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-18",
+        "Open":998,
+        "High":1017,
+        "Low":940,
+        "Close":959,
+        "Percent Change":"-2.34 %",
+        "Volume":"10,323.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-17",
+        "Open":1013,
+        "High":1050,
+        "Low":963,
+        "Close":982,
+        "Percent Change":"-1.21 %",
+        "Volume":"874.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-16",
+        "Open":976,
+        "High":1015,
+        "Low":950,
+        "Close":994,
+        "Percent Change":"3.33 %",
+        "Volume":"5,723.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-13",
+        "Open":953,
+        "High":1010,
+        "Low":915,
+        "Close":962,
+        "Percent Change":"2.34 %",
+        "Volume":"10,432.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-12",
+        "Open":855,
+        "High":940,
+        "Low":855,
+        "Close":940,
+        "Percent Change":"8.92 %",
+        "Volume":"13,188.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-11",
+        "Open":850,
+        "High":866,
+        "Low":842,
+        "Close":863,
+        "Percent Change":"2.74 %",
+        "Volume":"6,218.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-10",
+        "Open":850,
+        "High":867,
+        "Low":833,
+        "Close":840,
+        "Percent Change":"0.00 %",
+        "Volume":"2,232.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-09",
+        "Open":850,
+        "High":850,
+        "Low":834,
+        "Close":840,
+        "Percent Change":"-0.12 %",
+        "Volume":"2,190.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-06",
+        "Open":880,
+        "High":880,
+        "Low":841,
+        "Close":841,
+        "Percent Change":"-2.66 %",
+        "Volume":"3,511.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-05",
+        "Open":880,
+        "High":880,
+        "Low":856,
+        "Close":864,
+        "Percent Change":"0.00 %",
+        "Volume":"1,601.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-04",
+        "Open":874,
+        "High":877,
+        "Low":846,
+        "Close":864,
+        "Percent Change":"-1.14 %",
+        "Volume":"5,725.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-03",
+        "Open":900,
+        "High":903,
+        "Low":860,
+        "Close":874,
+        "Percent Change":"-1.47 %",
+        "Volume":"2,626.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-02-02",
+        "Open":900,
+        "High":900,
+        "Low":855,
+        "Close":870,
+        "Percent Change":"-1.47 %",
+        "Volume":"8,640.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-30",
+        "Open":886,
+        "High":906,
+        "Low":870,
+        "Close":870,
+        "Percent Change":"0.12 %",
+        "Volume":"9,646.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-29",
+        "Open":821,
+        "High":869,
+        "Low":820,
+        "Close":869,
+        "Percent Change":"5.85 %",
+        "Volume":"11,584.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-28",
+        "Open":813,
+        "High":833,
+        "Low":799,
+        "Close":821,
+        "Percent Change":"2.88 %",
+        "Volume":"15,536.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-27",
+        "Open":779,
+        "High":800,
+        "Low":763,
+        "Close":798,
+        "Percent Change":"4.45 %",
+        "Volume":"4,098.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-26",
+        "Open":779,
+        "High":783,
+        "Low":746,
+        "Close":764,
+        "Percent Change":"-3.78 %",
+        "Volume":"6,890.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-23",
+        "Open":818,
+        "High":818,
+        "Low":771,
+        "Close":794,
+        "Percent Change":"-1.00 %",
+        "Volume":"3,612.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-22",
+        "Open":770,
+        "High":802,
+        "Low":763,
+        "Close":802,
+        "Percent Change":"3.89 %",
+        "Volume":"5,100.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-21",
+        "Open":790,
+        "High":800,
+        "Low":760,
+        "Close":772,
+        "Percent Change":"-0.39 %",
+        "Volume":"4,344.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-20",
+        "Open":851,
+        "High":851,
+        "Low":760,
+        "Close":760,
+        "Percent Change":"-8.98 %",
+        "Volume":"2,732.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-19",
+        "Open":820,
+        "High":860,
+        "Low":805,
+        "Close":835,
+        "Percent Change":"3.86 %",
+        "Volume":"4,352.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-16",
+        "Open":770,
+        "High":800,
+        "Low":741,
+        "Close":798,
+        "Percent Change":"5.70 %",
+        "Volume":"6,301.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-15",
+        "Open":750,
+        "High":760,
+        "Low":727,
+        "Close":745,
+        "Percent Change":"0.95 %",
+        "Volume":"1,878.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-14",
+        "Open":735,
+        "High":752,
+        "Low":707,
+        "Close":738,
+        "Percent Change":"-1.34 %",
+        "Volume":"2,437.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-13",
+        "Open":759,
+        "High":805,
+        "Low":747,
+        "Close":748,
+        "Percent Change":"-3.23 %",
+        "Volume":"7,698.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-12",
+        "Open":735,
+        "High":773,
+        "Low":725,
+        "Close":759,
+        "Percent Change":"3.55 %",
+        "Volume":"6,359.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-09",
+        "Open":687,
+        "High":741,
+        "Low":662,
+        "Close":733,
+        "Percent Change":"8.75 %",
+        "Volume":"9,496.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-08",
+        "Open":680,
+        "High":698,
+        "Low":654,
+        "Close":674,
+        "Percent Change":"-0.15 %",
+        "Volume":"6,227.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-07",
+        "Open":655,
+        "High":704,
+        "Low":633,
+        "Close":675,
+        "Percent Change":"4.65 %",
+        "Volume":"11,643.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-06",
+        "Open":620,
+        "High":650,
+        "Low":620,
+        "Close":645,
+        "Percent Change":"5.05 %",
+        "Volume":"8,872.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-05",
+        "Open":600,
+        "High":619,
+        "Low":600,
+        "Close":614,
+        "Percent Change":"4.07 %",
+        "Volume":"6,639.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-02",
+        "Open":577,
+        "High":590,
+        "Low":577,
+        "Close":590,
+        "Percent Change":"2.25 %",
+        "Volume":"1,635.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2020-01-01",
+        "Open":586,
+        "High":588,
+        "Low":570,
+        "Close":577,
+        "Percent Change":"0.35 %",
+        "Volume":"2,329.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-31",
+        "Open":603,
+        "High":603,
+        "Low":569,
+        "Close":575,
+        "Percent Change":"-3.52 %",
+        "Volume":"2,443.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-30",
+        "Open":560,
+        "High":596,
+        "Low":560,
+        "Close":596,
+        "Percent Change":"5.30 %",
+        "Volume":"874.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-29",
+        "Open":566,
+        "High":566,
+        "Low":566,
+        "Close":566,
+        "Percent Change":"-1.39 %",
+        "Volume":"34.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-26",
+        "Open":565,
+        "High":581,
+        "Low":564,
+        "Close":574,
+        "Percent Change":"0.35 %",
+        "Volume":"1,144.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-25",
+        "Open":576,
+        "High":576,
+        "Low":571,
+        "Close":572,
+        "Percent Change":"-0.69 %",
+        "Volume":"63.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-24",
+        "Open":597,
+        "High":597,
+        "Low":576,
+        "Close":576,
+        "Percent Change":"-1.71 %",
+        "Volume":"1,789.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-23",
+        "Open":584,
+        "High":586,
+        "Low":575,
+        "Close":586,
+        "Percent Change":"2.09 %",
+        "Volume":"1,195.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-22",
+        "Open":562,
+        "High":574,
+        "Low":560,
+        "Close":574,
+        "Percent Change":"2.14 %",
+        "Volume":"307.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-19",
+        "Open":565,
+        "High":568,
+        "Low":562,
+        "Close":562,
+        "Percent Change":"-1.58 %",
+        "Volume":"657.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-18",
+        "Open":591,
+        "High":591,
+        "Low":571,
+        "Close":571,
+        "Percent Change":"-1.55 %",
+        "Volume":"344.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-17",
+        "Open":570,
+        "High":580,
+        "Low":570,
+        "Close":580,
+        "Percent Change":"2.47 %",
+        "Volume":"2,065.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-16",
+        "Open":579,
+        "High":580,
+        "Low":566,
+        "Close":566,
+        "Percent Change":"-0.35 %",
+        "Volume":"3,033.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-15",
+        "Open":595,
+        "High":595,
+        "Low":584,
+        "Close":584,
+        "Percent Change":"-1.02 %",
+        "Volume":"1,396.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-12",
+        "Open":594,
+        "High":617,
+        "Low":586,
+        "Close":590,
+        "Percent Change":"1.20 %",
+        "Volume":"4,003.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-11",
+        "Open":575,
+        "High":605,
+        "Low":575,
+        "Close":583,
+        "Percent Change":"1.39 %",
+        "Volume":"4,564.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-10",
+        "Open":589,
+        "High":589,
+        "Low":569,
+        "Close":575,
+        "Percent Change":"-0.52 %",
+        "Volume":"522.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-09",
+        "Open":565,
+        "High":600,
+        "Low":565,
+        "Close":578,
+        "Percent Change":"3.77 %",
+        "Volume":"4,392.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-08",
+        "Open":545,
+        "High":557,
+        "Low":535,
+        "Close":557,
+        "Percent Change":"0.54 %",
+        "Volume":"477.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-05",
+        "Open":519,
+        "High":555,
+        "Low":529,
+        "Close":554,
+        "Percent Change":"4.73 %",
+        "Volume":"1,849.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-04",
+        "Open":525,
+        "High":535,
+        "Low":520,
+        "Close":529,
+        "Percent Change":"1.15 %",
+        "Volume":"1,349.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-03",
+        "Open":524,
+        "High":529,
+        "Low":523,
+        "Close":523,
+        "Percent Change":"0.58 %",
+        "Volume":"2,076.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-02",
+        "Open":520,
+        "High":520,
+        "Low":520,
+        "Close":520,
+        "Percent Change":"0.78 %",
+        "Volume":"50.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-12-01",
+        "Open":526,
+        "High":526,
+        "Low":516,
+        "Close":516,
+        "Percent Change":"-3.73 %",
+        "Volume":"578.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-28",
+        "Open":534,
+        "High":536,
+        "Low":534,
+        "Close":536,
+        "Percent Change":"1.71 %",
+        "Volume":"250.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-27",
+        "Open":524,
+        "High":534,
+        "Low":524,
+        "Close":527,
+        "Percent Change":"-1.31 %",
+        "Volume":"806.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-26",
+        "Open":548,
+        "High":548,
+        "Low":530,
+        "Close":534,
+        "Percent Change":"-0.65 %",
+        "Volume":"144.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-21",
+        "Open":629,
+        "High":645,
+        "Low":639,
+        "Close":645,
+        "Percent Change":"0.62 %",
+        "Volume":"9,824.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-20",
+        "Open":643,
+        "High":645,
+        "Low":634,
+        "Close":641,
+        "Percent Change":"1.26 %",
+        "Volume":"2,399.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-19",
+        "Open":631,
+        "High":635,
+        "Low":631,
+        "Close":633,
+        "Percent Change":"-0.31 %",
+        "Volume":"710.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-18",
+        "Open":631,
+        "High":639,
+        "Low":631,
+        "Close":635,
+        "Percent Change":"0.00 %",
+        "Volume":"318.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-17",
+        "Open":635,
+        "High":639,
+        "Low":635,
+        "Close":635,
+        "Percent Change":"-0.78 %",
+        "Volume":"898.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-14",
+        "Open":630,
+        "High":642,
+        "Low":626,
+        "Close":640,
+        "Percent Change":"1.59 %",
+        "Volume":"724.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-13",
+        "Open":652,
+        "High":652,
+        "Low":627,
+        "Close":630,
+        "Percent Change":"-3.37 %",
+        "Volume":"1,146.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-12",
+        "Open":658,
+        "High":668,
+        "Low":639,
+        "Close":652,
+        "Percent Change":"-0.91 %",
+        "Volume":"684.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-11",
+        "Open":639,
+        "High":668,
+        "Low":639,
+        "Close":658,
+        "Percent Change":"2.97 %",
+        "Volume":"1,867.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-10",
+        "Open":625,
+        "High":643,
+        "Low":625,
+        "Close":639,
+        "Percent Change":"2.90 %",
+        "Volume":"3,229.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-07",
+        "Open":630,
+        "High":630,
+        "Low":621,
+        "Close":621,
+        "Percent Change":"-0.80 %",
+        "Volume":"64.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-06",
+        "Open":635,
+        "High":635,
+        "Low":626,
+        "Close":626,
+        "Percent Change":"-0.63 %",
+        "Volume":"463.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-05",
+        "Open":623,
+        "High":630,
+        "Low":623,
+        "Close":630,
+        "Percent Change":"0.64 %",
+        "Volume":"927.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-04",
+        "Open":621,
+        "High":630,
+        "Low":615,
+        "Close":626,
+        "Percent Change":"1.13 %",
+        "Volume":"1,551.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-11-03",
+        "Open":620,
+        "High":622,
+        "Low":619,
+        "Close":619,
+        "Percent Change":"1.48 %",
+        "Volume":"280.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-10-31",
+        "Open":620,
+        "High":620,
+        "Low":610,
+        "Close":610,
+        "Percent Change":"-1.93 %",
+        "Volume":"135.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-10-24",
+        "Open":610,
+        "High":622,
+        "Low":610,
+        "Close":622,
+        "Percent Change":"1.14 %",
+        "Volume":"110.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-10-23",
+        "Open":608,
+        "High":615,
+        "Low":608,
+        "Close":615,
+        "Percent Change":"0.00 %",
+        "Volume":"74.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-10-22",
+        "Open":605,
+        "High":615,
+        "Low":605,
+        "Close":615,
+        "Percent Change":"0.99 %",
+        "Volume":"137.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-10-21",
+        "Open":605,
+        "High":609,
+        "Low":603,
+        "Close":609,
+        "Percent Change":"0.66 %",
+        "Volume":"413.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-10-20",
+        "Open":605,
+        "High":610,
+        "Low":601,
+        "Close":605,
+        "Percent Change":"-0.17 %",
+        "Volume":"411.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-10-17",
+        "Open":606,
+        "High":609,
+        "Low":606,
+        "Close":606,
+        "Percent Change":"0.17 %",
+        "Volume":"1,261.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-10-16",
+        "Open":607,
+        "High":607,
+        "Low":605,
+        "Close":605,
+        "Percent Change":"-0.17 %",
+        "Volume":"961.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-10-15",
+        "Open":601,
+        "High":610,
+        "Low":601,
+        "Close":606,
+        "Percent Change":"-0.16 %",
+        "Volume":"539.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-10-14",
+        "Open":604,
+        "High":609,
+        "Low":604,
+        "Close":607,
+        "Percent Change":"-1.14 %",
+        "Volume":"73.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-10-03",
+        "Open":603,
+        "High":614,
+        "Low":602,
+        "Close":614,
+        "Percent Change":"0.66 %",
+        "Volume":"534.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-10-02",
+        "Open":610,
+        "High":610,
+        "Low":610,
+        "Close":610,
+        "Percent Change":"0.00 %",
+        "Volume":"29.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-10-01",
+        "Open":622,
+        "High":625,
+        "Low":610,
+        "Close":610,
+        "Percent Change":"0.00 %",
+        "Volume":"877.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-30",
+        "Open":605,
+        "High":610,
+        "Low":605,
+        "Close":610,
+        "Percent Change":"2.18 %",
+        "Volume":"60.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-29",
+        "Open":596,
+        "High":607,
+        "Low":596,
+        "Close":597,
+        "Percent Change":"-1.16 %",
+        "Volume":"2,463.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-26",
+        "Open":577,
+        "High":604,
+        "Low":577,
+        "Close":604,
+        "Percent Change":"2.72 %",
+        "Volume":"498.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-24",
+        "Open":602,
+        "High":608,
+        "Low":597,
+        "Close":600,
+        "Percent Change":"-0.33 %",
+        "Volume":"801.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-23",
+        "Open":610,
+        "High":610,
+        "Low":601,
+        "Close":602,
+        "Percent Change":"0.00 %",
+        "Volume":"262.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-22",
+        "Open":615,
+        "High":610,
+        "Low":601,
+        "Close":602,
+        "Percent Change":"-1.15 %",
+        "Volume":"591.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-19",
+        "Open":617,
+        "High":635,
+        "Low":609,
+        "Close":609,
+        "Percent Change":"-3.03 %",
+        "Volume":"1,092.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-18",
+        "Open":630,
+        "High":630,
+        "Low":606,
+        "Close":628,
+        "Percent Change":"1.62 %",
+        "Volume":"260.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-17",
+        "Open":595,
+        "High":618,
+        "Low":595,
+        "Close":618,
+        "Percent Change":"3.86 %",
+        "Volume":"814.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-16",
+        "Open":590,
+        "High":596,
+        "Low":586,
+        "Close":595,
+        "Percent Change":"0.00 %",
+        "Volume":"542.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-15",
+        "Open":601,
+        "High":601,
+        "Low":590,
+        "Close":595,
+        "Percent Change":"-1.16 %",
+        "Volume":"837.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-12",
+        "Open":620,
+        "High":620,
+        "Low":602,
+        "Close":602,
+        "Percent Change":"-1.47 %",
+        "Volume":"1,378.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-11",
+        "Open":601,
+        "High":618,
+        "Low":601,
+        "Close":611,
+        "Percent Change":"1.16 %",
+        "Volume":"1,168.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-10",
+        "Open":612,
+        "High":627,
+        "Low":600,
+        "Close":604,
+        "Percent Change":"-2.58 %",
+        "Volume":"1,814.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-09",
+        "Open":634,
+        "High":634,
+        "Low":619,
+        "Close":620,
+        "Percent Change":"-0.32 %",
+        "Volume":"419.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-08",
+        "Open":627,
+        "High":635,
+        "Low":622,
+        "Close":622,
+        "Percent Change":"-0.80 %",
+        "Volume":"1,152.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-05",
+        "Open":635,
+        "High":645,
+        "Low":623,
+        "Close":627,
+        "Percent Change":"0.64 %",
+        "Volume":"7,592.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-04",
+        "Open":624,
+        "High":640,
+        "Low":620,
+        "Close":623,
+        "Percent Change":"-1.42 %",
+        "Volume":"578.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-03",
+        "Open":611,
+        "High":632,
+        "Low":611,
+        "Close":632,
+        "Percent Change":"2.93 %",
+        "Volume":"1,692.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-02",
+        "Open":622,
+        "High":633,
+        "Low":603,
+        "Close":614,
+        "Percent Change":"-0.81 %",
+        "Volume":"2,743.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-09-01",
+        "Open":629,
+        "High":629,
+        "Low":618,
+        "Close":619,
+        "Percent Change":"-2.52 %",
+        "Volume":"1,488.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-08-29",
+        "Open":645,
+        "High":650,
+        "Low":635,
+        "Close":635,
+        "Percent Change":"-1.55 %",
+        "Volume":"2,401.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-08-28",
+        "Open":640,
+        "High":653,
+        "Low":633,
+        "Close":645,
+        "Percent Change":"0.62 %",
+        "Volume":"1,168.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-08-27",
+        "Open":632,
+        "High":660,
+        "Low":632,
+        "Close":641,
+        "Percent Change":"1.10 %",
+        "Volume":"2,446.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-08-26",
+        "Open":624,
+        "High":635,
+        "Low":616,
+        "Close":634,
+        "Percent Change":"-0.16 %",
+        "Volume":"1,388.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-08-25",
+        "Open":625,
+        "High":635,
+        "Low":625,
+        "Close":635,
+        "Percent Change":"1.11 %",
+        "Volume":"608.00"
+    },
+    {
+        "Symbol":"SDESI",
+        "Date":"2019-08-22",
+        "Open":616,
+        "High":628,
+        "Low":616,
+        "Close":628,
+        "Percent Change":"0.96 %",
+        "Volume":"1,088.00"
+    }
+]

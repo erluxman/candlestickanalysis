@@ -1,0 +1,6382 @@
+[
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-08-11",
+        "Open": 362.0,
+        "High": 373.0,
+        "Low": 357.0,
+        "Close": 367.0,
+        "Percent Change": 1.66,
+        "Volume": 29121.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-08-08",
+        "Open": 370.0,
+        "High": 376.0,
+        "Low": 352.0,
+        "Close": 361.0,
+        "Percent Change": -2.43,
+        "Volume": 19933.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-08-07",
+        "Open": 360.0,
+        "High": 370.0,
+        "Low": 343.0,
+        "Close": 370.0,
+        "Percent Change": 4.23,
+        "Volume": 37351.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-08-06",
+        "Open": 382.5,
+        "High": 382.5,
+        "Low": 337.5,
+        "Close": 355.0,
+        "Percent Change": -5.33,
+        "Volume": 50175.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-08-05",
+        "Open": 365.0,
+        "High": 382.5,
+        "Low": 360.1,
+        "Close": 375.0,
+        "Percent Change": 0.81,
+        "Volume": 30281.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-08-01",
+        "Open": 387.4,
+        "High": 387.4,
+        "Low": 366.0,
+        "Close": 372.0,
+        "Percent Change": -2.11,
+        "Volume": 39247.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-31",
+        "Open": 370.0,
+        "High": 386.0,
+        "Low": 370.0,
+        "Close": 380.0,
+        "Percent Change": 0.82,
+        "Volume": 37259.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-30",
+        "Open": 372.0,
+        "High": 380.0,
+        "Low": 365.0,
+        "Close": 376.9,
+        "Percent Change": 1.32,
+        "Volume": 28794.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-29",
+        "Open": 375.0,
+        "High": 389.9,
+        "Low": 365.0,
+        "Close": 372.0,
+        "Percent Change": 1.09,
+        "Volume": 57362.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-28",
+        "Open": 370.0,
+        "High": 385.0,
+        "Low": 351.0,
+        "Close": 368.0,
+        "Percent Change": -1.87,
+        "Volume": 40422.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-25",
+        "Open": 387.5,
+        "High": 387.5,
+        "Low": 365.0,
+        "Close": 375.0,
+        "Percent Change": -1.32,
+        "Volume": 33758.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-24",
+        "Open": 377.0,
+        "High": 397.5,
+        "Low": 370.0,
+        "Close": 380.0,
+        "Percent Change": 0.8,
+        "Volume": 62599.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-23",
+        "Open": 362.0,
+        "High": 380.0,
+        "Low": 362.0,
+        "Close": 377.0,
+        "Percent Change": 3.29,
+        "Volume": 34583.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-22",
+        "Open": 359.9,
+        "High": 367.0,
+        "Low": 350.0,
+        "Close": 365.0,
+        "Percent Change": 1.42,
+        "Volume": 31203.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-21",
+        "Open": 365.4,
+        "High": 370.5,
+        "Low": 358.0,
+        "Close": 359.9,
+        "Percent Change": -0.3,
+        "Volume": 30945.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-18",
+        "Open": 370.0,
+        "High": 377.0,
+        "Low": 360.8,
+        "Close": 361.0,
+        "Percent Change": -2.43,
+        "Volume": 46571.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-17",
+        "Open": 368.0,
+        "High": 379.0,
+        "Low": 362.1,
+        "Close": 370.0,
+        "Percent Change": -1.33,
+        "Volume": 30485.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-16",
+        "Open": 350.0,
+        "High": 381.0,
+        "Low": 348.0,
+        "Close": 375.0,
+        "Percent Change": 7.14,
+        "Volume": 32405.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-15",
+        "Open": 360.0,
+        "High": 360.0,
+        "Low": 340.2,
+        "Close": 350.0,
+        "Percent Change": -2.51,
+        "Volume": 38250.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-14",
+        "Open": 369.1,
+        "High": 380.0,
+        "Low": 353.0,
+        "Close": 359.0,
+        "Percent Change": -0.8,
+        "Volume": 36288.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-11",
+        "Open": 358.0,
+        "High": 366.0,
+        "Low": 353.0,
+        "Close": 361.9,
+        "Percent Change": 2.81,
+        "Volume": 39766.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-10",
+        "Open": 339.0,
+        "High": 355.0,
+        "Low": 339.0,
+        "Close": 352.0,
+        "Percent Change": 3.65,
+        "Volume": 58861.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-09",
+        "Open": 323.0,
+        "High": 339.6,
+        "Low": 323.0,
+        "Close": 339.6,
+        "Percent Change": 3.54,
+        "Volume": 29092.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-08",
+        "Open": 318.8,
+        "High": 331.2,
+        "Low": 318.8,
+        "Close": 328.0,
+        "Percent Change": 0.92,
+        "Volume": 11729.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-07",
+        "Open": 333.2,
+        "High": 333.2,
+        "Low": 320.6,
+        "Close": 325.0,
+        "Percent Change": -0.61,
+        "Volume": 24504.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-04",
+        "Open": 333.0,
+        "High": 339.0,
+        "Low": 323.1,
+        "Close": 327.0,
+        "Percent Change": -3.25,
+        "Volume": 30300.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-03",
+        "Open": 335.0,
+        "High": 340.3,
+        "Low": 331.0,
+        "Close": 338.0,
+        "Percent Change": -0.88,
+        "Volume": 12884.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-02",
+        "Open": 336.6,
+        "High": 360.0,
+        "Low": 325.0,
+        "Close": 341.0,
+        "Percent Change": 3.33,
+        "Volume": 34040.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-07-01",
+        "Open": 333.0,
+        "High": 339.6,
+        "Low": 326.4,
+        "Close": 330.0,
+        "Percent Change": -0.9,
+        "Volume": 12118.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-30",
+        "Open": 321.0,
+        "High": 342.5,
+        "Low": 321.0,
+        "Close": 333.0,
+        "Percent Change": 4.36,
+        "Volume": 65344.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-27",
+        "Open": 330.0,
+        "High": 330.0,
+        "Low": 319.0,
+        "Close": 319.1,
+        "Percent Change": -2.39,
+        "Volume": 36214.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-26",
+        "Open": 340.0,
+        "High": 342.9,
+        "Low": 326.0,
+        "Close": 326.9,
+        "Percent Change": -2.94,
+        "Volume": 33150.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-25",
+        "Open": 316.2,
+        "High": 338.0,
+        "Low": 310.3,
+        "Close": 336.8,
+        "Percent Change": 8.65,
+        "Volume": 87428.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-24",
+        "Open": 308.0,
+        "High": 314.0,
+        "Low": 303.0,
+        "Close": 310.0,
+        "Percent Change": 2.65,
+        "Volume": 34937.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-23",
+        "Open": 296.1,
+        "High": 311.0,
+        "Low": 296.1,
+        "Close": 302.0,
+        "Percent Change": 0.67,
+        "Volume": 21540.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-20",
+        "Open": 304.0,
+        "High": 308.0,
+        "Low": 296.5,
+        "Close": 300.0,
+        "Percent Change": -1.32,
+        "Volume": 4488.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-19",
+        "Open": 298.1,
+        "High": 307.0,
+        "Low": 298.1,
+        "Close": 304.0,
+        "Percent Change": 0.16,
+        "Volume": 15249.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-18",
+        "Open": 300.6,
+        "High": 312.0,
+        "Low": 300.6,
+        "Close": 303.5,
+        "Percent Change": -1.04,
+        "Volume": 15301.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-16",
+        "Open": 301.0,
+        "High": 311.0,
+        "Low": 301.0,
+        "Close": 306.7,
+        "Percent Change": -0.1,
+        "Volume": 14591.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-13",
+        "Open": 302.0,
+        "High": 316.0,
+        "Low": 301.0,
+        "Close": 307.0,
+        "Percent Change": -0.32,
+        "Volume": 17399.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-12",
+        "Open": 311.1,
+        "High": 320.0,
+        "Low": 303.1,
+        "Close": 308.0,
+        "Percent Change": -1.91,
+        "Volume": 26266.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-11",
+        "Open": 297.1,
+        "High": 324.0,
+        "Low": 297.1,
+        "Close": 314.0,
+        "Percent Change": 3.63,
+        "Volume": 49088.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-10",
+        "Open": 290.0,
+        "High": 306.3,
+        "Low": 290.0,
+        "Close": 303.0,
+        "Percent Change": 3.06,
+        "Volume": 29516.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-09",
+        "Open": 285.0,
+        "High": 298.0,
+        "Low": 284.9,
+        "Close": 294.0,
+        "Percent Change": 3.16,
+        "Volume": 15475.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-06",
+        "Open": 285.2,
+        "High": 290.0,
+        "Low": 283.4,
+        "Close": 285.0,
+        "Percent Change": -2.06,
+        "Volume": 8812.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-05",
+        "Open": 283.3,
+        "High": 294.2,
+        "Low": 283.3,
+        "Close": 291.0,
+        "Percent Change": 0.83,
+        "Volume": 2911.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-04",
+        "Open": 290.0,
+        "High": 295.8,
+        "Low": 288.0,
+        "Close": 288.6,
+        "Percent Change": -2.04,
+        "Volume": 5073.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-03",
+        "Open": 300.0,
+        "High": 305.0,
+        "Low": 289.4,
+        "Close": 294.6,
+        "Percent Change": -0.14,
+        "Volume": 9385.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-06-02",
+        "Open": 284.1,
+        "High": 300.5,
+        "Low": 284.1,
+        "Close": 295.0,
+        "Percent Change": 4.24,
+        "Volume": 13517.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-30",
+        "Open": 287.0,
+        "High": 292.5,
+        "Low": 280.0,
+        "Close": 283.0,
+        "Percent Change": -2.75,
+        "Volume": 10978.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-29",
+        "Open": 298.8,
+        "High": 298.8,
+        "Low": 288.0,
+        "Close": 291.0,
+        "Percent Change": -0.68,
+        "Volume": 3900.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-27",
+        "Open": 288.0,
+        "High": 299.5,
+        "Low": 283.0,
+        "Close": 293.0,
+        "Percent Change": 1.74,
+        "Volume": 3810.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-26",
+        "Open": 295.0,
+        "High": 295.8,
+        "Low": 287.0,
+        "Close": 288.0,
+        "Percent Change": -3.68,
+        "Volume": 7203.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-22",
+        "Open": 300.0,
+        "High": 308.0,
+        "Low": 296.0,
+        "Close": 299.0,
+        "Percent Change": -0.99,
+        "Volume": 12560.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-21",
+        "Open": 288.4,
+        "High": 306.0,
+        "Low": 288.4,
+        "Close": 302.0,
+        "Percent Change": 2.65,
+        "Volume": 19869.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-20",
+        "Open": 285.0,
+        "High": 302.0,
+        "Low": 285.0,
+        "Close": 294.2,
+        "Percent Change": 2.87,
+        "Volume": 17773.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-19",
+        "Open": 292.8,
+        "High": 298.5,
+        "Low": 281.4,
+        "Close": 286.0,
+        "Percent Change": -0.38,
+        "Volume": 2888.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-16",
+        "Open": 285.0,
+        "High": 290.7,
+        "Low": 280.0,
+        "Close": 287.1,
+        "Percent Change": 0.74,
+        "Volume": 3610.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-15",
+        "Open": 285.2,
+        "High": 290.9,
+        "Low": 282.6,
+        "Close": 285.0,
+        "Percent Change": -2.06,
+        "Volume": 6278.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-14",
+        "Open": 281.0,
+        "High": 295.0,
+        "Low": 281.0,
+        "Close": 291.0,
+        "Percent Change": 2.46,
+        "Volume": 7296.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-13",
+        "Open": 276.0,
+        "High": 284.0,
+        "Low": 276.0,
+        "Close": 284.0,
+        "Percent Change": 1.07,
+        "Volume": 4436.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-12",
+        "Open": 282.0,
+        "High": 285.7,
+        "Low": 279.0,
+        "Close": 281.0,
+        "Percent Change": -0.35,
+        "Volume": 5148.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-09",
+        "Open": 284.0,
+        "High": 289.6,
+        "Low": 278.4,
+        "Close": 282.0,
+        "Percent Change": -1.4,
+        "Volume": 6865.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-08",
+        "Open": 283.0,
+        "High": 289.9,
+        "Low": 283.0,
+        "Close": 286.0,
+        "Percent Change": 0.03,
+        "Volume": 4910.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-07",
+        "Open": 285.0,
+        "High": 288.0,
+        "Low": 282.2,
+        "Close": 285.9,
+        "Percent Change": 0.32,
+        "Volume": 9048.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-06",
+        "Open": 280.0,
+        "High": 296.4,
+        "Low": 280.0,
+        "Close": 285.0,
+        "Percent Change": 0.74,
+        "Volume": 4585.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-05",
+        "Open": 291.1,
+        "High": 293.0,
+        "Low": 282.9,
+        "Close": 282.9,
+        "Percent Change": -3.08,
+        "Volume": 7995.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-05-02",
+        "Open": 289.0,
+        "High": 296.8,
+        "Low": 289.0,
+        "Close": 291.9,
+        "Percent Change": -0.07,
+        "Volume": 9715.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-30",
+        "Open": 290.0,
+        "High": 299.0,
+        "Low": 288.1,
+        "Close": 292.1,
+        "Percent Change": 0.86,
+        "Volume": 18346.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-29",
+        "Open": 295.0,
+        "High": 310.0,
+        "Low": 288.1,
+        "Close": 289.6,
+        "Percent Change": -1.4,
+        "Volume": 7567.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-28",
+        "Open": 305.8,
+        "High": 321.0,
+        "Low": 291.2,
+        "Close": 293.7,
+        "Percent Change": -2.07,
+        "Volume": 24599.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-25",
+        "Open": 293.1,
+        "High": 308.0,
+        "Low": 293.1,
+        "Close": 299.9,
+        "Percent Change": 0.94,
+        "Volume": 5075.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-24",
+        "Open": 301.9,
+        "High": 305.0,
+        "Low": 293.3,
+        "Close": 297.1,
+        "Percent Change": 0.37,
+        "Volume": 6918.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-22",
+        "Open": 297.0,
+        "High": 300.0,
+        "Low": 288.1,
+        "Close": 296.0,
+        "Percent Change": 1.58,
+        "Volume": 26472.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-21",
+        "Open": 280.0,
+        "High": 295.0,
+        "Low": 280.0,
+        "Close": 291.4,
+        "Percent Change": 2.25,
+        "Volume": 5721.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-18",
+        "Open": 295.0,
+        "High": 297.4,
+        "Low": 283.1,
+        "Close": 285.0,
+        "Percent Change": -3.39,
+        "Volume": 12978.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-16",
+        "Open": 292.0,
+        "High": 302.0,
+        "Low": 291.4,
+        "Close": 295.0,
+        "Percent Change": -0.67,
+        "Volume": 4010.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-15",
+        "Open": 301.0,
+        "High": 306.0,
+        "Low": 295.1,
+        "Close": 297.0,
+        "Percent Change": -2.62,
+        "Volume": 23202.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-14",
+        "Open": 299.0,
+        "High": 313.0,
+        "Low": 299.0,
+        "Close": 305.0,
+        "Percent Change": 0.66,
+        "Volume": 16063.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-10",
+        "Open": 319.0,
+        "High": 319.0,
+        "Low": 302.0,
+        "Close": 303.0,
+        "Percent Change": -3.81,
+        "Volume": 28508.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-09",
+        "Open": 318.0,
+        "High": 320.0,
+        "Low": 307.0,
+        "Close": 315.0,
+        "Percent Change": -1.56,
+        "Volume": 19008.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-07",
+        "Open": 305.0,
+        "High": 320.0,
+        "Low": 300.0,
+        "Close": 320.0,
+        "Percent Change": 3.56,
+        "Volume": 20972.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-04",
+        "Open": 322.0,
+        "High": 322.0,
+        "Low": 303.2,
+        "Close": 309.0,
+        "Percent Change": -2.83,
+        "Volume": 9468.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-03",
+        "Open": 302.0,
+        "High": 318.0,
+        "Low": 302.0,
+        "Close": 318.0,
+        "Percent Change": 3.58,
+        "Volume": 14295.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-02",
+        "Open": 312.1,
+        "High": 324.0,
+        "Low": 302.0,
+        "Close": 307.0,
+        "Percent Change": -3.52,
+        "Volume": 15420.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-04-01",
+        "Open": 315.0,
+        "High": 327.3,
+        "Low": 310.0,
+        "Close": 318.2,
+        "Percent Change": 1.02,
+        "Volume": 40803.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-31",
+        "Open": 299.0,
+        "High": 319.0,
+        "Low": 299.0,
+        "Close": 315.0,
+        "Percent Change": 5.04,
+        "Volume": 71517.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-28",
+        "Open": 298.0,
+        "High": 303.0,
+        "Low": 295.0,
+        "Close": 299.9,
+        "Percent Change": 0.64,
+        "Volume": 11698.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-27",
+        "Open": 301.0,
+        "High": 305.9,
+        "Low": 294.0,
+        "Close": 298.0,
+        "Percent Change": -0.17,
+        "Volume": 15901.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-26",
+        "Open": 282.0,
+        "High": 299.9,
+        "Low": 282.0,
+        "Close": 298.5,
+        "Percent Change": 4.74,
+        "Volume": 11453.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-25",
+        "Open": 285.5,
+        "High": 297.0,
+        "Low": 285.0,
+        "Close": 285.0,
+        "Percent Change": -2.13,
+        "Volume": 3623.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-21",
+        "Open": 296.0,
+        "High": 297.0,
+        "Low": 291.1,
+        "Close": 291.2,
+        "Percent Change": -0.95,
+        "Volume": 5038.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-20",
+        "Open": 299.9,
+        "High": 300.0,
+        "Low": 290.2,
+        "Close": 294.0,
+        "Percent Change": -0.68,
+        "Volume": 12788.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-19",
+        "Open": 295.0,
+        "High": 306.0,
+        "Low": 295.0,
+        "Close": 296.0,
+        "Percent Change": 0.24,
+        "Volume": 16453.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-18",
+        "Open": 291.0,
+        "High": 299.8,
+        "Low": 291.0,
+        "Close": 295.3,
+        "Percent Change": 0.44,
+        "Volume": 9101.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-17",
+        "Open": 297.0,
+        "High": 308.9,
+        "Low": 292.0,
+        "Close": 294.0,
+        "Percent Change": -1.01,
+        "Volume": 6399.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-14",
+        "Open": 289.1,
+        "High": 306.0,
+        "Low": 288.2,
+        "Close": 297.0,
+        "Percent Change": 1.02,
+        "Volume": 11512.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-13",
+        "Open": 308.0,
+        "High": 308.0,
+        "Low": 294.0,
+        "Close": 294.0,
+        "Percent Change": -2.65,
+        "Volume": 15122.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-12",
+        "Open": 310.0,
+        "High": 316.0,
+        "Low": 292.0,
+        "Close": 302.0,
+        "Percent Change": -2.42,
+        "Volume": 27555.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-10",
+        "Open": 316.5,
+        "High": 322.0,
+        "Low": 305.8,
+        "Close": 309.5,
+        "Percent Change": -0.26,
+        "Volume": 9906.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-07",
+        "Open": 297.8,
+        "High": 312.7,
+        "Low": 291.0,
+        "Close": 310.3,
+        "Percent Change": 4.51,
+        "Volume": 69448.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-06",
+        "Open": 279.3,
+        "High": 298.7,
+        "Low": 279.3,
+        "Close": 296.9,
+        "Percent Change": 4.18,
+        "Volume": 46898.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-05",
+        "Open": 296.0,
+        "High": 296.0,
+        "Low": 277.6,
+        "Close": 285.0,
+        "Percent Change": -3.72,
+        "Volume": 9047.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-04",
+        "Open": 272.0,
+        "High": 297.0,
+        "Low": 272.0,
+        "Close": 296.0,
+        "Percent Change": 9.1,
+        "Volume": 210.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-03-03",
+        "Open": 275.0,
+        "High": 280.4,
+        "Low": 260.3,
+        "Close": 271.3,
+        "Percent Change": -3.11,
+        "Volume": 6010.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-29",
+        "Open": 283.3,
+        "High": 294.0,
+        "Low": 265.1,
+        "Close": 280.0,
+        "Percent Change": -3.11,
+        "Volume": 5027.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-28",
+        "Open": 286.2,
+        "High": 294.7,
+        "Low": 281.6,
+        "Close": 289.0,
+        "Percent Change": -1.03,
+        "Volume": 7803.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-27",
+        "Open": 278.8,
+        "High": 294.9,
+        "Low": 278.8,
+        "Close": 292.0,
+        "Percent Change": 2.67,
+        "Volume": 12613.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-26",
+        "Open": 271.6,
+        "High": 284.5,
+        "Low": 271.6,
+        "Close": 284.4,
+        "Percent Change": 2.67,
+        "Volume": 6245.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-25",
+        "Open": 284.9,
+        "High": 285.0,
+        "Low": 273.8,
+        "Close": 277.0,
+        "Percent Change": -2.81,
+        "Volume": 12419.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-22",
+        "Open": 290.0,
+        "High": 292.0,
+        "Low": 280.0,
+        "Close": 285.0,
+        "Percent Change": -3.36,
+        "Volume": 18108.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-21",
+        "Open": 288.4,
+        "High": 299.7,
+        "Low": 288.4,
+        "Close": 294.9,
+        "Percent Change": 0.31,
+        "Volume": 7948.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-20",
+        "Open": 305.0,
+        "High": 305.0,
+        "Low": 290.1,
+        "Close": 294.0,
+        "Percent Change": -2.07,
+        "Volume": 10052.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-18",
+        "Open": 320.0,
+        "High": 320.0,
+        "Low": 300.1,
+        "Close": 300.2,
+        "Percent Change": -5.6,
+        "Volume": 34810.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-15",
+        "Open": 320.0,
+        "High": 328.0,
+        "Low": 311.0,
+        "Close": 318.0,
+        "Percent Change": 0.63,
+        "Volume": 30685.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-14",
+        "Open": 294.2,
+        "High": 324.0,
+        "Low": 294.2,
+        "Close": 316.0,
+        "Percent Change": 5.33,
+        "Volume": 64662.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-13",
+        "Open": 285.3,
+        "High": 307.0,
+        "Low": 282.2,
+        "Close": 300.0,
+        "Percent Change": 3.09,
+        "Volume": 64758.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-12",
+        "Open": 288.0,
+        "High": 293.7,
+        "Low": 285.0,
+        "Close": 291.0,
+        "Percent Change": 1.04,
+        "Volume": 15836.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-11",
+        "Open": 285.0,
+        "High": 293.7,
+        "Low": 285.0,
+        "Close": 288.0,
+        "Percent Change": 0.03,
+        "Volume": 17495.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-08",
+        "Open": 275.1,
+        "High": 290.0,
+        "Low": 275.1,
+        "Close": 287.9,
+        "Percent Change": 2.78,
+        "Volume": 16022.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-07",
+        "Open": 273.4,
+        "High": 280.1,
+        "Low": 273.4,
+        "Close": 280.1,
+        "Percent Change": 0.47,
+        "Volume": 9585.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-06",
+        "Open": 265.0,
+        "High": 278.8,
+        "Low": 265.0,
+        "Close": 278.8,
+        "Percent Change": 3.18,
+        "Volume": 3816.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-05",
+        "Open": 272.5,
+        "High": 278.4,
+        "Low": 268.0,
+        "Close": 270.2,
+        "Percent Change": -1.03,
+        "Volume": 4258.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-04",
+        "Open": 269.2,
+        "High": 273.0,
+        "Low": 265.1,
+        "Close": 273.0,
+        "Percent Change": -0.04,
+        "Volume": 4318.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-02-01",
+        "Open": 287.7,
+        "High": 287.7,
+        "Low": 269.9,
+        "Close": 273.1,
+        "Percent Change": -3.19,
+        "Volume": 9552.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-31",
+        "Open": 285.0,
+        "High": 293.7,
+        "Low": 280.0,
+        "Close": 282.1,
+        "Percent Change": -2.05,
+        "Volume": 9500.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-30",
+        "Open": 282.2,
+        "High": 291.0,
+        "Low": 278.0,
+        "Close": 288.0,
+        "Percent Change": 0.07,
+        "Volume": 7795.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-29",
+        "Open": 279.0,
+        "High": 289.5,
+        "Low": 279.0,
+        "Close": 287.8,
+        "Percent Change": 1.12,
+        "Volume": 7058.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-28",
+        "Open": 287.6,
+        "High": 292.8,
+        "Low": 276.0,
+        "Close": 284.6,
+        "Percent Change": 0.92,
+        "Volume": 5291.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-25",
+        "Open": 281.7,
+        "High": 287.0,
+        "Low": 276.0,
+        "Close": 282.0,
+        "Percent Change": -1.74,
+        "Volume": 10133.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-24",
+        "Open": 296.4,
+        "High": 300.9,
+        "Low": 282.0,
+        "Close": 287.0,
+        "Percent Change": -3.17,
+        "Volume": 10300.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-23",
+        "Open": 282.2,
+        "High": 296.4,
+        "Low": 276.0,
+        "Close": 296.4,
+        "Percent Change": 4.0,
+        "Volume": 13634.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-22",
+        "Open": 292.0,
+        "High": 295.8,
+        "Low": 285.0,
+        "Close": 285.0,
+        "Percent Change": -4.27,
+        "Volume": 14251.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-21",
+        "Open": 292.1,
+        "High": 315.0,
+        "Low": 285.1,
+        "Close": 297.7,
+        "Percent Change": -0.1,
+        "Volume": 39270.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-18",
+        "Open": 290.0,
+        "High": 301.5,
+        "Low": 283.0,
+        "Close": 298.0,
+        "Percent Change": 2.05,
+        "Volume": 9300.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-17",
+        "Open": 306.0,
+        "High": 307.0,
+        "Low": 292.0,
+        "Close": 292.0,
+        "Percent Change": -5.81,
+        "Volume": 22474.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-16",
+        "Open": 295.0,
+        "High": 321.2,
+        "Low": 292.0,
+        "Close": 310.0,
+        "Percent Change": 6.16,
+        "Volume": 39062.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-14",
+        "Open": 283.0,
+        "High": 300.6,
+        "Low": 283.0,
+        "Close": 292.0,
+        "Percent Change": 1.74,
+        "Volume": 21883.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-11",
+        "Open": 278.0,
+        "High": 287.6,
+        "Low": 275.0,
+        "Close": 287.0,
+        "Percent Change": 1.74,
+        "Volume": 9065.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-10",
+        "Open": 292.0,
+        "High": 292.0,
+        "Low": 280.0,
+        "Close": 282.1,
+        "Percent Change": -3.39,
+        "Volume": 14681.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-09",
+        "Open": 310.9,
+        "High": 310.9,
+        "Low": 289.1,
+        "Close": 292.0,
+        "Percent Change": -4.23,
+        "Volume": 65992.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-08",
+        "Open": 283.0,
+        "High": 311.1,
+        "Low": 283.0,
+        "Close": 304.9,
+        "Percent Change": 5.87,
+        "Volume": 15879.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-07",
+        "Open": 299.8,
+        "High": 299.8,
+        "Low": 280.0,
+        "Close": 288.0,
+        "Percent Change": -2.04,
+        "Volume": 23562.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-04",
+        "Open": 306.0,
+        "High": 308.0,
+        "Low": 290.2,
+        "Close": 294.0,
+        "Percent Change": -3.29,
+        "Volume": 29326.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-03",
+        "Open": 296.0,
+        "High": 304.0,
+        "Low": 285.0,
+        "Close": 304.0,
+        "Percent Change": 2.77,
+        "Volume": 35389.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-02",
+        "Open": 285.0,
+        "High": 300.0,
+        "Low": 274.0,
+        "Close": 295.8,
+        "Percent Change": 4.71,
+        "Volume": 47179.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2024-01-01",
+        "Open": 262.3,
+        "High": 288.5,
+        "Low": 262.0,
+        "Close": 282.5,
+        "Percent Change": 7.7,
+        "Volume": 59468.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-28",
+        "Open": 254.0,
+        "High": 265.2,
+        "Low": 252.0,
+        "Close": 262.3,
+        "Percent Change": 2.46,
+        "Volume": 12841.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-27",
+        "Open": 248.0,
+        "High": 260.0,
+        "Low": 245.3,
+        "Close": 256.0,
+        "Percent Change": 3.18,
+        "Volume": 15695.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-24",
+        "Open": 250.0,
+        "High": 264.9,
+        "Low": 245.0,
+        "Close": 248.1,
+        "Percent Change": -2.71,
+        "Volume": 8121.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-21",
+        "Open": 264.9,
+        "High": 265.0,
+        "Low": 255.0,
+        "Close": 255.0,
+        "Percent Change": -5.49,
+        "Volume": 8929.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-20",
+        "Open": 273.5,
+        "High": 273.5,
+        "Low": 256.1,
+        "Close": 269.8,
+        "Percent Change": -0.04,
+        "Volume": 14126.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-19",
+        "Open": 249.9,
+        "High": 275.0,
+        "Low": 248.0,
+        "Close": 269.9,
+        "Percent Change": 5.84,
+        "Volume": 12698.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-18",
+        "Open": 253.1,
+        "High": 260.1,
+        "Low": 250.1,
+        "Close": 255.0,
+        "Percent Change": 1.19,
+        "Volume": 19697.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-17",
+        "Open": 228.0,
+        "High": 252.5,
+        "Low": 224.0,
+        "Close": 252.0,
+        "Percent Change": 9.76,
+        "Volume": 20841.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-14",
+        "Open": 225.9,
+        "High": 229.6,
+        "Low": 219.6,
+        "Close": 229.6,
+        "Percent Change": 1.37,
+        "Volume": 9199.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-13",
+        "Open": 226.0,
+        "High": 234.6,
+        "Low": 221.5,
+        "Close": 226.5,
+        "Percent Change": 0.31,
+        "Volume": 11209.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-12",
+        "Open": 208.8,
+        "High": 229.0,
+        "Low": 208.8,
+        "Close": 225.8,
+        "Percent Change": 6.01,
+        "Volume": 13897.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-11",
+        "Open": 209.0,
+        "High": 221.0,
+        "Low": 206.0,
+        "Close": 213.0,
+        "Percent Change": 1.91,
+        "Volume": 10282.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-10",
+        "Open": 200.0,
+        "High": 209.0,
+        "Low": 197.1,
+        "Close": 209.0,
+        "Percent Change": 5.03,
+        "Volume": 50.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-07",
+        "Open": 193.0,
+        "High": 203.9,
+        "Low": 193.0,
+        "Close": 199.0,
+        "Percent Change": 1.07,
+        "Volume": 2209.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-06",
+        "Open": 200.0,
+        "High": 204.0,
+        "Low": 193.0,
+        "Close": 196.9,
+        "Percent Change": -1.55,
+        "Volume": 2280.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-05",
+        "Open": 197.1,
+        "High": 200.0,
+        "Low": 197.1,
+        "Close": 200.0,
+        "Percent Change": 0.55,
+        "Volume": 660.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-04",
+        "Open": 193.2,
+        "High": 208.9,
+        "Low": 193.2,
+        "Close": 198.9,
+        "Percent Change": 0.96,
+        "Volume": 1950.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-12-03",
+        "Open": 196.0,
+        "High": 204.0,
+        "Low": 193.0,
+        "Close": 197.0,
+        "Percent Change": -1.5,
+        "Volume": 1280.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-30",
+        "Open": 197.4,
+        "High": 205.0,
+        "Low": 194.5,
+        "Close": 200.0,
+        "Percent Change": -0.65,
+        "Volume": 2205.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-29",
+        "Open": 200.0,
+        "High": 204.0,
+        "Low": 195.1,
+        "Close": 201.3,
+        "Percent Change": 0.65,
+        "Volume": 1660.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-28",
+        "Open": 196.3,
+        "High": 204.0,
+        "Low": 196.3,
+        "Close": 200.0,
+        "Percent Change": 0.0,
+        "Volume": 2497.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-27",
+        "Open": 200.0,
+        "High": 208.0,
+        "Low": 197.0,
+        "Close": 200.0,
+        "Percent Change": -1.96,
+        "Volume": 2103.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-26",
+        "Open": 203.0,
+        "High": 204.0,
+        "Low": 196.1,
+        "Close": 204.0,
+        "Percent Change": 2.0,
+        "Volume": 2536.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-23",
+        "Open": 187.0,
+        "High": 200.0,
+        "Low": 184.1,
+        "Close": 200.0,
+        "Percent Change": 4.82,
+        "Volume": 1120.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-22",
+        "Open": 185.7,
+        "High": 195.8,
+        "Low": 183.0,
+        "Close": 190.8,
+        "Percent Change": 0.9,
+        "Volume": 1433.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-21",
+        "Open": 188.0,
+        "High": 190.0,
+        "Low": 187.2,
+        "Close": 189.1,
+        "Percent Change": -0.99,
+        "Volume": 1770.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-20",
+        "Open": 190.0,
+        "High": 194.8,
+        "Low": 190.0,
+        "Close": 191.0,
+        "Percent Change": -0.52,
+        "Volume": 1500.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-09",
+        "Open": 194.0,
+        "High": 200.0,
+        "Low": 191.0,
+        "Close": 192.0,
+        "Percent Change": -2.54,
+        "Volume": 860.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-08",
+        "Open": 196.0,
+        "High": 199.9,
+        "Low": 196.0,
+        "Close": 197.0,
+        "Percent Change": -1.5,
+        "Volume": 1020.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-07",
+        "Open": 194.4,
+        "High": 202.1,
+        "Low": 194.4,
+        "Close": 200.0,
+        "Percent Change": 0.91,
+        "Volume": 1770.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-06",
+        "Open": 189.0,
+        "High": 198.2,
+        "Low": 188.0,
+        "Close": 198.2,
+        "Percent Change": 3.23,
+        "Volume": 830.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-05",
+        "Open": 189.9,
+        "High": 196.8,
+        "Low": 189.9,
+        "Close": 192.0,
+        "Percent Change": -0.72,
+        "Volume": 990.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-02",
+        "Open": 194.1,
+        "High": 217.4,
+        "Low": 191.2,
+        "Close": 193.4,
+        "Percent Change": -2.32,
+        "Volume": 1977.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-11-01",
+        "Open": 190.0,
+        "High": 198.0,
+        "Low": 190.0,
+        "Close": 198.0,
+        "Percent Change": 2.59,
+        "Volume": 1860.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-31",
+        "Open": 192.1,
+        "High": 197.9,
+        "Low": 192.0,
+        "Close": 193.0,
+        "Percent Change": -0.57,
+        "Volume": 680.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-30",
+        "Open": 193.0,
+        "High": 196.0,
+        "Low": 189.6,
+        "Close": 194.1,
+        "Percent Change": -0.46,
+        "Volume": 2150.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-29",
+        "Open": 198.0,
+        "High": 198.0,
+        "Low": 194.2,
+        "Close": 195.0,
+        "Percent Change": -3.32,
+        "Volume": 540.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-19",
+        "Open": 199.1,
+        "High": 205.0,
+        "Low": 199.1,
+        "Close": 201.7,
+        "Percent Change": -0.15,
+        "Volume": 510.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-18",
+        "Open": 201.0,
+        "High": 208.0,
+        "Low": 199.2,
+        "Close": 202.0,
+        "Percent Change": 0.5,
+        "Volume": 3899.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-17",
+        "Open": 200.0,
+        "High": 206.0,
+        "Low": 200.0,
+        "Close": 201.0,
+        "Percent Change": 1.52,
+        "Volume": 6172.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-16",
+        "Open": 200.0,
+        "High": 201.0,
+        "Low": 197.0,
+        "Close": 198.0,
+        "Percent Change": -1.0,
+        "Volume": 2555.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-12",
+        "Open": 208.0,
+        "High": 208.0,
+        "Low": 197.5,
+        "Close": 200.0,
+        "Percent Change": -3.8,
+        "Volume": 3331.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-11",
+        "Open": 202.0,
+        "High": 213.0,
+        "Low": 200.0,
+        "Close": 207.9,
+        "Percent Change": 0.92,
+        "Volume": 3272.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-10",
+        "Open": 205.8,
+        "High": 208.0,
+        "Low": 196.0,
+        "Close": 206.0,
+        "Percent Change": -1.9,
+        "Volume": 5582.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-09",
+        "Open": 207.0,
+        "High": 212.0,
+        "Low": 205.1,
+        "Close": 210.0,
+        "Percent Change": -0.47,
+        "Volume": 2455.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-08",
+        "Open": 218.0,
+        "High": 218.0,
+        "Low": 209.6,
+        "Close": 211.0,
+        "Percent Change": -3.21,
+        "Volume": 3860.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-05",
+        "Open": 215.6,
+        "High": 222.3,
+        "Low": 213.9,
+        "Close": 218.0,
+        "Percent Change": -0.91,
+        "Volume": 2403.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-04",
+        "Open": 220.0,
+        "High": 220.0,
+        "Low": 212.0,
+        "Close": 220.0,
+        "Percent Change": 1.85,
+        "Volume": 4865.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-03",
+        "Open": 215.6,
+        "High": 216.0,
+        "Low": 211.5,
+        "Close": 216.0,
+        "Percent Change": -1.82,
+        "Volume": 1360.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-02",
+        "Open": 205.1,
+        "High": 220.5,
+        "Low": 205.1,
+        "Close": 220.0,
+        "Percent Change": 5.26,
+        "Volume": 6419.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-10-01",
+        "Open": 216.1,
+        "High": 224.0,
+        "Low": 208.0,
+        "Close": 209.0,
+        "Percent Change": -5.0,
+        "Volume": 6780.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-27",
+        "Open": 225.0,
+        "High": 228.0,
+        "Low": 218.3,
+        "Close": 220.0,
+        "Percent Change": -3.08,
+        "Volume": 2796.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-26",
+        "Open": 211.1,
+        "High": 231.5,
+        "Low": 211.1,
+        "Close": 227.0,
+        "Percent Change": 6.07,
+        "Volume": 7333.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-25",
+        "Open": 209.0,
+        "High": 222.3,
+        "Low": 209.0,
+        "Close": 214.0,
+        "Percent Change": 0.47,
+        "Volume": 7620.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-24",
+        "Open": 225.0,
+        "High": 226.0,
+        "Low": 213.0,
+        "Close": 213.0,
+        "Percent Change": -5.29,
+        "Volume": 5591.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-21",
+        "Open": 208.0,
+        "High": 224.9,
+        "Low": 206.1,
+        "Close": 224.9,
+        "Percent Change": 9.98,
+        "Volume": 15368.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-19",
+        "Open": 190.0,
+        "High": 207.9,
+        "Low": 185.5,
+        "Close": 204.5,
+        "Percent Change": 8.2,
+        "Volume": 6576.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-18",
+        "Open": 190.0,
+        "High": 197.6,
+        "Low": 188.1,
+        "Close": 189.0,
+        "Percent Change": -1.51,
+        "Volume": 3770.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-17",
+        "Open": 199.5,
+        "High": 199.5,
+        "Low": 188.2,
+        "Close": 191.9,
+        "Percent Change": -5.0,
+        "Volume": 6605.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-13",
+        "Open": 200.0,
+        "High": 203.8,
+        "Low": 191.5,
+        "Close": 202.0,
+        "Percent Change": 2.64,
+        "Volume": 6000.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-12",
+        "Open": 200.0,
+        "High": 200.0,
+        "Low": 190.0,
+        "Close": 196.8,
+        "Percent Change": -1.6,
+        "Volume": 1943.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-11",
+        "Open": 197.0,
+        "High": 203.9,
+        "Low": 188.0,
+        "Close": 200.0,
+        "Percent Change": 3.09,
+        "Volume": 10095.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-10",
+        "Open": 179.0,
+        "High": 194.0,
+        "Low": 179.0,
+        "Close": 194.0,
+        "Percent Change": 9.98,
+        "Volume": 8299.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-07",
+        "Open": 190.0,
+        "High": 205.0,
+        "Low": 176.4,
+        "Close": 176.4,
+        "Percent Change": -8.88,
+        "Volume": 18999.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-05",
+        "Open": 202.9,
+        "High": 202.9,
+        "Low": 191.0,
+        "Close": 193.6,
+        "Percent Change": -6.47,
+        "Volume": 9127.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-04",
+        "Open": 206.8,
+        "High": 207.0,
+        "Low": 193.0,
+        "Close": 207.0,
+        "Percent Change": -1.9,
+        "Volume": 9931.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-09-03",
+        "Open": 213.0,
+        "High": 215.7,
+        "Low": 194.4,
+        "Close": 211.0,
+        "Percent Change": -2.18,
+        "Volume": 9531.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-30",
+        "Open": 219.6,
+        "High": 224.0,
+        "Low": 212.0,
+        "Close": 215.7,
+        "Percent Change": -3.71,
+        "Volume": 5428.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-29",
+        "Open": 230.0,
+        "High": 230.0,
+        "Low": 218.0,
+        "Close": 224.0,
+        "Percent Change": -2.35,
+        "Volume": 3495.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-28",
+        "Open": 219.1,
+        "High": 229.5,
+        "Low": 219.1,
+        "Close": 229.4,
+        "Percent Change": 4.23,
+        "Volume": 6236.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-27",
+        "Open": 221.0,
+        "High": 221.5,
+        "Low": 220.1,
+        "Close": 220.1,
+        "Percent Change": -2.18,
+        "Volume": 780.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-24",
+        "Open": 232.0,
+        "High": 232.0,
+        "Low": 225.0,
+        "Close": 225.0,
+        "Percent Change": -4.09,
+        "Volume": 1320.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-23",
+        "Open": 223.5,
+        "High": 234.6,
+        "Low": 223.5,
+        "Close": 234.6,
+        "Percent Change": 2.89,
+        "Volume": 3000.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-22",
+        "Open": 220.0,
+        "High": 228.0,
+        "Low": 220.0,
+        "Close": 228.0,
+        "Percent Change": 2.2,
+        "Volume": 1123.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-21",
+        "Open": 219.0,
+        "High": 225.0,
+        "Low": 219.0,
+        "Close": 223.1,
+        "Percent Change": 0.5,
+        "Volume": 2076.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-20",
+        "Open": 229.0,
+        "High": 229.7,
+        "Low": 221.5,
+        "Close": 222.0,
+        "Percent Change": -4.72,
+        "Volume": 7281.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-17",
+        "Open": 228.7,
+        "High": 237.0,
+        "Low": 228.7,
+        "Close": 233.0,
+        "Percent Change": 0.0,
+        "Volume": 1165.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-16",
+        "Open": 238.0,
+        "High": 238.0,
+        "Low": 230.1,
+        "Close": 233.0,
+        "Percent Change": -1.23,
+        "Volume": 2045.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-15",
+        "Open": 242.0,
+        "High": 242.0,
+        "Low": 233.8,
+        "Close": 235.9,
+        "Percent Change": -1.71,
+        "Volume": 3417.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-14",
+        "Open": 242.4,
+        "High": 247.0,
+        "Low": 240.0,
+        "Close": 240.0,
+        "Percent Change": -2.64,
+        "Volume": 5810.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-13",
+        "Open": 246.0,
+        "High": 249.0,
+        "Low": 245.0,
+        "Close": 246.5,
+        "Percent Change": -1.79,
+        "Volume": 1421.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-10",
+        "Open": 257.0,
+        "High": 259.9,
+        "Low": 247.0,
+        "Close": 251.0,
+        "Percent Change": -0.4,
+        "Volume": 1055.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-09",
+        "Open": 244.3,
+        "High": 263.0,
+        "Low": 244.2,
+        "Close": 252.0,
+        "Percent Change": 1.2,
+        "Volume": 2709.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-08",
+        "Open": 245.0,
+        "High": 252.9,
+        "Low": 245.0,
+        "Close": 249.0,
+        "Percent Change": 0.2,
+        "Volume": 2568.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-07",
+        "Open": 245.8,
+        "High": 260.1,
+        "Low": 245.8,
+        "Close": 248.5,
+        "Percent Change": -0.68,
+        "Volume": 990.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-06",
+        "Open": 260.0,
+        "High": 260.0,
+        "Low": 247.0,
+        "Close": 250.2,
+        "Percent Change": -3.77,
+        "Volume": 4540.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-03",
+        "Open": 256.0,
+        "High": 268.0,
+        "Low": 253.1,
+        "Close": 260.0,
+        "Percent Change": 1.56,
+        "Volume": 955.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-02",
+        "Open": 254.1,
+        "High": 259.0,
+        "Low": 254.1,
+        "Close": 256.0,
+        "Percent Change": -0.39,
+        "Volume": 1209.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-08-01",
+        "Open": 257.0,
+        "High": 261.0,
+        "Low": 257.0,
+        "Close": 257.0,
+        "Percent Change": -1.53,
+        "Volume": 2585.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-31",
+        "Open": 260.1,
+        "High": 272.0,
+        "Low": 260.0,
+        "Close": 261.0,
+        "Percent Change": -0.11,
+        "Volume": 2802.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-30",
+        "Open": 259.0,
+        "High": 266.5,
+        "Low": 259.0,
+        "Close": 261.3,
+        "Percent Change": -1.02,
+        "Volume": 1190.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-27",
+        "Open": 266.0,
+        "High": 266.0,
+        "Low": 260.7,
+        "Close": 264.0,
+        "Percent Change": -0.75,
+        "Volume": 1691.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-26",
+        "Open": 268.4,
+        "High": 280.0,
+        "Low": 264.0,
+        "Close": 266.0,
+        "Percent Change": -0.89,
+        "Volume": 4225.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-25",
+        "Open": 268.0,
+        "High": 277.0,
+        "Low": 268.0,
+        "Close": 268.4,
+        "Percent Change": -1.32,
+        "Volume": 885.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-24",
+        "Open": 275.0,
+        "High": 283.0,
+        "Low": 269.0,
+        "Close": 272.0,
+        "Percent Change": -2.26,
+        "Volume": 3660.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-23",
+        "Open": 267.8,
+        "High": 278.4,
+        "Low": 266.1,
+        "Close": 278.3,
+        "Percent Change": 1.94,
+        "Volume": 4573.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-20",
+        "Open": 265.0,
+        "High": 293.0,
+        "Low": 262.0,
+        "Close": 273.0,
+        "Percent Change": 1.87,
+        "Volume": 7324.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-19",
+        "Open": 274.2,
+        "High": 276.9,
+        "Low": 262.0,
+        "Close": 268.0,
+        "Percent Change": -0.33,
+        "Volume": 2950.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-18",
+        "Open": 269.0,
+        "High": 269.0,
+        "Low": 264.0,
+        "Close": 268.9,
+        "Percent Change": 0.07,
+        "Volume": 3430.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-17",
+        "Open": 260.0,
+        "High": 268.7,
+        "Low": 260.0,
+        "Close": 268.7,
+        "Percent Change": 2.91,
+        "Volume": 2159.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-16",
+        "Open": 260.1,
+        "High": 265.0,
+        "Low": 260.1,
+        "Close": 261.1,
+        "Percent Change": -1.47,
+        "Volume": 1260.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-13",
+        "Open": 279.3,
+        "High": 279.3,
+        "Low": 265.0,
+        "Close": 265.0,
+        "Percent Change": -3.25,
+        "Volume": 7884.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-12",
+        "Open": 265.0,
+        "High": 274.0,
+        "Low": 259.1,
+        "Close": 273.9,
+        "Percent Change": 4.94,
+        "Volume": 4755.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-11",
+        "Open": 261.0,
+        "High": 264.0,
+        "Low": 258.0,
+        "Close": 261.0,
+        "Percent Change": -1.88,
+        "Volume": 4491.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-10",
+        "Open": 264.6,
+        "High": 275.0,
+        "Low": 261.0,
+        "Close": 266.0,
+        "Percent Change": -1.48,
+        "Volume": 2362.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-09",
+        "Open": 262.0,
+        "High": 272.0,
+        "Low": 262.0,
+        "Close": 270.0,
+        "Percent Change": 1.12,
+        "Volume": 1415.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-06",
+        "Open": 261.5,
+        "High": 267.0,
+        "Low": 259.7,
+        "Close": 267.0,
+        "Percent Change": 1.41,
+        "Volume": 4790.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-05",
+        "Open": 265.0,
+        "High": 271.0,
+        "Low": 261.1,
+        "Close": 263.3,
+        "Percent Change": -2.41,
+        "Volume": 5527.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-04",
+        "Open": 278.4,
+        "High": 283.9,
+        "Low": 268.0,
+        "Close": 269.8,
+        "Percent Change": -1.17,
+        "Volume": 2770.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-03",
+        "Open": 270.0,
+        "High": 285.0,
+        "Low": 265.1,
+        "Close": 273.0,
+        "Percent Change": -0.04,
+        "Volume": 3865.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-07-02",
+        "Open": 281.3,
+        "High": 291.5,
+        "Low": 270.5,
+        "Close": 273.1,
+        "Percent Change": -4.84,
+        "Volume": 8404.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-28",
+        "Open": 282.3,
+        "High": 288.0,
+        "Low": 277.0,
+        "Close": 287.0,
+        "Percent Change": -0.35,
+        "Volume": 2710.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-27",
+        "Open": 276.9,
+        "High": 292.9,
+        "Low": 272.0,
+        "Close": 288.0,
+        "Percent Change": 1.95,
+        "Volume": 4170.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-26",
+        "Open": 285.5,
+        "High": 297.5,
+        "Low": 280.1,
+        "Close": 282.5,
+        "Percent Change": -0.95,
+        "Volume": 1800.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-25",
+        "Open": 280.0,
+        "High": 301.9,
+        "Low": 270.0,
+        "Close": 285.2,
+        "Percent Change": 3.71,
+        "Volume": 17397.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-22",
+        "Open": 280.0,
+        "High": 290.0,
+        "Low": 275.0,
+        "Close": 275.0,
+        "Percent Change": -3.51,
+        "Volume": 6984.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-21",
+        "Open": 295.0,
+        "High": 306.0,
+        "Low": 279.6,
+        "Close": 285.0,
+        "Percent Change": -3.65,
+        "Volume": 25266.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-20",
+        "Open": 305.0,
+        "High": 305.0,
+        "Low": 290.0,
+        "Close": 295.8,
+        "Percent Change": -1.37,
+        "Volume": 7153.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-19",
+        "Open": 305.0,
+        "High": 311.1,
+        "Low": 298.0,
+        "Close": 299.9,
+        "Percent Change": -1.67,
+        "Volume": 7002.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-18",
+        "Open": 292.1,
+        "High": 312.0,
+        "Low": 288.1,
+        "Close": 305.0,
+        "Percent Change": 2.35,
+        "Volume": 7974.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-15",
+        "Open": 295.0,
+        "High": 300.0,
+        "Low": 290.0,
+        "Close": 298.0,
+        "Percent Change": -0.67,
+        "Volume": 4035.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-14",
+        "Open": 295.0,
+        "High": 309.0,
+        "Low": 295.0,
+        "Close": 300.0,
+        "Percent Change": 0.67,
+        "Volume": 8144.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-13",
+        "Open": 297.0,
+        "High": 310.0,
+        "Low": 291.5,
+        "Close": 298.0,
+        "Percent Change": -1.62,
+        "Volume": 13378.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-12",
+        "Open": 304.0,
+        "High": 309.9,
+        "Low": 294.0,
+        "Close": 302.9,
+        "Percent Change": -0.92,
+        "Volume": 13955.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-11",
+        "Open": 280.0,
+        "High": 305.7,
+        "Low": 280.0,
+        "Close": 305.7,
+        "Percent Change": 7.0,
+        "Volume": 8338.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-08",
+        "Open": 294.0,
+        "High": 294.0,
+        "Low": 285.3,
+        "Close": 285.7,
+        "Percent Change": -2.82,
+        "Volume": 3881.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-07",
+        "Open": 302.0,
+        "High": 307.0,
+        "Low": 290.0,
+        "Close": 294.0,
+        "Percent Change": -2.33,
+        "Volume": 17835.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-06",
+        "Open": 279.4,
+        "High": 301.0,
+        "Low": 268.6,
+        "Close": 301.0,
+        "Percent Change": 9.85,
+        "Volume": 27455.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-05",
+        "Open": 280.0,
+        "High": 285.6,
+        "Low": 270.0,
+        "Close": 274.0,
+        "Percent Change": -1.51,
+        "Volume": 3905.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-04",
+        "Open": 270.1,
+        "High": 285.0,
+        "Low": 270.0,
+        "Close": 278.2,
+        "Percent Change": 3.0,
+        "Volume": 1893.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-06-01",
+        "Open": 271.4,
+        "High": 276.8,
+        "Low": 262.0,
+        "Close": 270.1,
+        "Percent Change": 1.5,
+        "Volume": 1424.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-31",
+        "Open": 270.6,
+        "High": 280.5,
+        "Low": 265.0,
+        "Close": 266.1,
+        "Percent Change": -3.62,
+        "Volume": 5557.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-30",
+        "Open": 285.0,
+        "High": 296.2,
+        "Low": 270.0,
+        "Close": 276.1,
+        "Percent Change": -3.12,
+        "Volume": 3620.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-28",
+        "Open": 295.0,
+        "High": 299.9,
+        "Low": 283.0,
+        "Close": 285.0,
+        "Percent Change": -5.0,
+        "Volume": 14931.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-24",
+        "Open": 292.1,
+        "High": 300.0,
+        "Low": 286.4,
+        "Close": 300.0,
+        "Percent Change": 0.67,
+        "Volume": 1995.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-23",
+        "Open": 280.5,
+        "High": 300.9,
+        "Low": 280.5,
+        "Close": 298.0,
+        "Percent Change": 4.56,
+        "Volume": 3815.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-22",
+        "Open": 274.4,
+        "High": 287.6,
+        "Low": 269.1,
+        "Close": 285.0,
+        "Percent Change": 1.79,
+        "Volume": 983.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-21",
+        "Open": 285.0,
+        "High": 290.0,
+        "Low": 278.0,
+        "Close": 280.0,
+        "Percent Change": -2.78,
+        "Volume": 2544.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-18",
+        "Open": 285.0,
+        "High": 292.0,
+        "Low": 280.4,
+        "Close": 288.0,
+        "Percent Change": 0.03,
+        "Volume": 3005.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-17",
+        "Open": 270.3,
+        "High": 288.1,
+        "Low": 270.0,
+        "Close": 287.9,
+        "Percent Change": 4.69,
+        "Volume": 2495.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-16",
+        "Open": 265.0,
+        "High": 275.0,
+        "Low": 262.0,
+        "Close": 275.0,
+        "Percent Change": 4.09,
+        "Volume": 1080.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-15",
+        "Open": 260.3,
+        "High": 270.0,
+        "Low": 260.0,
+        "Close": 264.2,
+        "Percent Change": -0.01,
+        "Volume": 580.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-14",
+        "Open": 272.0,
+        "High": 272.0,
+        "Low": 265.6,
+        "Close": 265.6,
+        "Percent Change": -2.35,
+        "Volume": 2255.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-11",
+        "Open": 280.0,
+        "High": 283.0,
+        "Low": 266.0,
+        "Close": 272.0,
+        "Percent Change": -2.86,
+        "Volume": 1080.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-10",
+        "Open": 266.0,
+        "High": 282.0,
+        "Low": 266.0,
+        "Close": 280.0,
+        "Percent Change": 3.7,
+        "Volume": 1250.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-09",
+        "Open": 269.0,
+        "High": 278.9,
+        "Low": 265.0,
+        "Close": 270.0,
+        "Percent Change": -1.28,
+        "Volume": 1710.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-08",
+        "Open": 275.0,
+        "High": 278.0,
+        "Low": 268.2,
+        "Close": 273.5,
+        "Percent Change": 0.18,
+        "Volume": 2510.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-07",
+        "Open": 275.0,
+        "High": 280.0,
+        "Low": 273.0,
+        "Close": 273.0,
+        "Percent Change": -2.6,
+        "Volume": 1260.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-04",
+        "Open": 280.5,
+        "High": 286.0,
+        "Low": 278.1,
+        "Close": 280.3,
+        "Percent Change": -1.99,
+        "Volume": 1210.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-03",
+        "Open": 280.3,
+        "High": 291.7,
+        "Low": 275.0,
+        "Close": 286.0,
+        "Percent Change": 0.0,
+        "Volume": 1018.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-05-02",
+        "Open": 290.0,
+        "High": 296.0,
+        "Low": 285.0,
+        "Close": 286.0,
+        "Percent Change": -1.38,
+        "Volume": 1572.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-30",
+        "Open": 290.0,
+        "High": 290.3,
+        "Low": 288.0,
+        "Close": 290.0,
+        "Percent Change": -1.69,
+        "Volume": 2400.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-27",
+        "Open": 292.0,
+        "High": 300.0,
+        "Low": 292.0,
+        "Close": 295.0,
+        "Percent Change": -0.67,
+        "Volume": 1115.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-26",
+        "Open": 292.0,
+        "High": 301.0,
+        "Low": 292.0,
+        "Close": 297.0,
+        "Percent Change": -0.27,
+        "Volume": 1040.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-25",
+        "Open": 297.0,
+        "High": 303.9,
+        "Low": 296.0,
+        "Close": 297.8,
+        "Percent Change": -0.73,
+        "Volume": 2130.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-24",
+        "Open": 296.1,
+        "High": 302.0,
+        "Low": 296.0,
+        "Close": 300.0,
+        "Percent Change": 1.01,
+        "Volume": 1653.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-23",
+        "Open": 304.0,
+        "High": 306.0,
+        "Low": 295.0,
+        "Close": 297.0,
+        "Percent Change": -4.19,
+        "Volume": 5428.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-20",
+        "Open": 310.0,
+        "High": 318.2,
+        "Low": 305.6,
+        "Close": 310.0,
+        "Percent Change": 0.0,
+        "Volume": 1440.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-19",
+        "Open": 303.2,
+        "High": 315.0,
+        "Low": 303.2,
+        "Close": 310.0,
+        "Percent Change": 0.23,
+        "Volume": 1000.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-18",
+        "Open": 301.7,
+        "High": 309.3,
+        "Low": 301.6,
+        "Close": 309.3,
+        "Percent Change": 0.75,
+        "Volume": 3310.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-17",
+        "Open": 308.0,
+        "High": 312.0,
+        "Low": 307.0,
+        "Close": 307.0,
+        "Percent Change": -1.63,
+        "Volume": 1504.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-16",
+        "Open": 315.2,
+        "High": 319.9,
+        "Low": 309.1,
+        "Close": 312.1,
+        "Percent Change": -2.47,
+        "Volume": 960.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-13",
+        "Open": 322.4,
+        "High": 326.0,
+        "Low": 318.0,
+        "Close": 320.0,
+        "Percent Change": -2.71,
+        "Volume": 1460.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-12",
+        "Open": 308.0,
+        "High": 328.9,
+        "Low": 308.0,
+        "Close": 328.9,
+        "Percent Change": 6.79,
+        "Volume": 2675.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-11",
+        "Open": 295.0,
+        "High": 312.0,
+        "Low": 295.0,
+        "Close": 308.0,
+        "Percent Change": 2.63,
+        "Volume": 1460.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-10",
+        "Open": 300.0,
+        "High": 309.4,
+        "Low": 297.0,
+        "Close": 300.1,
+        "Percent Change": -0.63,
+        "Volume": 750.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-09",
+        "Open": 311.0,
+        "High": 311.0,
+        "Low": 302.0,
+        "Close": 302.0,
+        "Percent Change": -4.73,
+        "Volume": 4185.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-06",
+        "Open": 320.0,
+        "High": 321.0,
+        "Low": 317.0,
+        "Close": 317.0,
+        "Percent Change": -2.46,
+        "Volume": 2020.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-05",
+        "Open": 333.8,
+        "High": 333.8,
+        "Low": 315.0,
+        "Close": 325.0,
+        "Percent Change": -4.58,
+        "Volume": 2445.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-04",
+        "Open": 313.1,
+        "High": 340.6,
+        "Low": 312.5,
+        "Close": 340.6,
+        "Percent Change": 6.84,
+        "Volume": 1710.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-03",
+        "Open": 315.2,
+        "High": 322.0,
+        "Low": 315.2,
+        "Close": 318.8,
+        "Percent Change": -0.69,
+        "Volume": 4167.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-04-02",
+        "Open": 325.6,
+        "High": 323.0,
+        "Low": 320.0,
+        "Close": 321.0,
+        "Percent Change": -1.41,
+        "Volume": 3315.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-30",
+        "Open": 324.0,
+        "High": 326.1,
+        "Low": 324.0,
+        "Close": 325.6,
+        "Percent Change": -1.3,
+        "Volume": 2425.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-29",
+        "Open": 323.2,
+        "High": 330.0,
+        "Low": 323.2,
+        "Close": 329.9,
+        "Percent Change": 0.4,
+        "Volume": 620.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-28",
+        "Open": 325.0,
+        "High": 341.9,
+        "Low": 325.0,
+        "Close": 328.6,
+        "Percent Change": -0.42,
+        "Volume": 24273.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-27",
+        "Open": 322.0,
+        "High": 331.5,
+        "Low": 322.0,
+        "Close": 330.0,
+        "Percent Change": 1.23,
+        "Volume": 1270.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-26",
+        "Open": 326.1,
+        "High": 329.0,
+        "Low": 325.0,
+        "Close": 326.0,
+        "Percent Change": -1.51,
+        "Volume": 3900.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-23",
+        "Open": 332.0,
+        "High": 332.0,
+        "Low": 326.0,
+        "Close": 331.0,
+        "Percent Change": -2.07,
+        "Volume": 1625.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-22",
+        "Open": 345.8,
+        "High": 345.8,
+        "Low": 330.0,
+        "Close": 338.0,
+        "Percent Change": -4.14,
+        "Volume": 12810.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-20",
+        "Open": 325.1,
+        "High": 352.6,
+        "Low": 325.1,
+        "Close": 352.6,
+        "Percent Change": 7.73,
+        "Volume": 3445.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-19",
+        "Open": 325.4,
+        "High": 332.0,
+        "Low": 325.4,
+        "Close": 327.3,
+        "Percent Change": -1.42,
+        "Volume": 1985.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-16",
+        "Open": 323.0,
+        "High": 334.0,
+        "Low": 323.0,
+        "Close": 332.0,
+        "Percent Change": 1.16,
+        "Volume": 1845.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-15",
+        "Open": 329.1,
+        "High": 334.0,
+        "Low": 328.2,
+        "Close": 328.2,
+        "Percent Change": -1.68,
+        "Volume": 7960.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-14",
+        "Open": 329.0,
+        "High": 340.6,
+        "Low": 324.0,
+        "Close": 333.8,
+        "Percent Change": -0.06,
+        "Volume": 4420.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-13",
+        "Open": 340.0,
+        "High": 340.0,
+        "Low": 329.1,
+        "Close": 334.0,
+        "Percent Change": -1.76,
+        "Volume": 1090.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-12",
+        "Open": 341.0,
+        "High": 343.0,
+        "Low": 337.2,
+        "Close": 340.0,
+        "Percent Change": 0.0,
+        "Volume": 1470.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-09",
+        "Open": 330.0,
+        "High": 344.0,
+        "Low": 330.0,
+        "Close": 340.0,
+        "Percent Change": 2.75,
+        "Volume": 3111.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-07",
+        "Open": 325.1,
+        "High": 340.0,
+        "Low": 325.1,
+        "Close": 330.9,
+        "Percent Change": -0.03,
+        "Volume": 3955.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-05",
+        "Open": 326.6,
+        "High": 346.5,
+        "Low": 320.1,
+        "Close": 331.0,
+        "Percent Change": -0.66,
+        "Volume": 3310.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-02",
+        "Open": 334.3,
+        "High": 340.0,
+        "Low": 333.2,
+        "Close": 333.2,
+        "Percent Change": -2.29,
+        "Volume": 3719.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-03-01",
+        "Open": 342.1,
+        "High": 345.0,
+        "Low": 341.0,
+        "Close": 341.0,
+        "Percent Change": -2.29,
+        "Volume": 2751.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-28",
+        "Open": 338.1,
+        "High": 359.0,
+        "Low": 338.1,
+        "Close": 349.0,
+        "Percent Change": 2.2,
+        "Volume": 8980.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-27",
+        "Open": 341.1,
+        "High": 353.0,
+        "Low": 340.0,
+        "Close": 341.5,
+        "Percent Change": -1.87,
+        "Volume": 6934.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-26",
+        "Open": 342.0,
+        "High": 348.8,
+        "Low": 328.5,
+        "Close": 348.0,
+        "Percent Change": -0.26,
+        "Volume": 6192.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-23",
+        "Open": 349.4,
+        "High": 349.4,
+        "Low": 336.0,
+        "Close": 348.9,
+        "Percent Change": -2.13,
+        "Volume": 5170.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-22",
+        "Open": 348.0,
+        "High": 356.9,
+        "Low": 341.0,
+        "Close": 356.5,
+        "Percent Change": 3.66,
+        "Volume": 14766.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-20",
+        "Open": 335.0,
+        "High": 348.0,
+        "Low": 327.1,
+        "Close": 343.9,
+        "Percent Change": 1.45,
+        "Volume": 7939.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-16",
+        "Open": 346.0,
+        "High": 351.0,
+        "Low": 335.0,
+        "Close": 339.0,
+        "Percent Change": -3.97,
+        "Volume": 6775.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-15",
+        "Open": 347.0,
+        "High": 361.0,
+        "Low": 341.0,
+        "Close": 353.0,
+        "Percent Change": -0.28,
+        "Volume": 5070.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-14",
+        "Open": 353.0,
+        "High": 360.0,
+        "Low": 348.3,
+        "Close": 354.0,
+        "Percent Change": -1.67,
+        "Volume": 11541.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-12",
+        "Open": 364.6,
+        "High": 366.0,
+        "Low": 352.8,
+        "Close": 360.0,
+        "Percent Change": -3.23,
+        "Volume": 17207.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-09",
+        "Open": 347.0,
+        "High": 372.3,
+        "Low": 347.0,
+        "Close": 372.0,
+        "Percent Change": 5.35,
+        "Volume": 19056.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-08",
+        "Open": 350.0,
+        "High": 359.9,
+        "Low": 341.1,
+        "Close": 353.1,
+        "Percent Change": 2.35,
+        "Volume": 34526.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-07",
+        "Open": 320.0,
+        "High": 345.0,
+        "Low": 320.0,
+        "Close": 345.0,
+        "Percent Change": 6.15,
+        "Volume": 9785.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-06",
+        "Open": 323.1,
+        "High": 329.5,
+        "Low": 323.1,
+        "Close": 325.0,
+        "Percent Change": -1.16,
+        "Volume": 1990.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-05",
+        "Open": 333.0,
+        "High": 339.0,
+        "Low": 328.5,
+        "Close": 328.8,
+        "Percent Change": -1.26,
+        "Volume": 3300.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-02",
+        "Open": 331.4,
+        "High": 344.7,
+        "Low": 331.4,
+        "Close": 333.0,
+        "Percent Change": -1.48,
+        "Volume": 4267.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-02-01",
+        "Open": 329.0,
+        "High": 350.0,
+        "Low": 329.0,
+        "Close": 338.0,
+        "Percent Change": 0.9,
+        "Volume": 3770.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-31",
+        "Open": 330.3,
+        "High": 338.0,
+        "Low": 326.0,
+        "Close": 335.0,
+        "Percent Change": -0.59,
+        "Volume": 6627.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-30",
+        "Open": 348.0,
+        "High": 362.0,
+        "Low": 328.6,
+        "Close": 337.0,
+        "Percent Change": -5.07,
+        "Volume": 18883.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-29",
+        "Open": 344.0,
+        "High": 358.0,
+        "Low": 331.4,
+        "Close": 355.0,
+        "Percent Change": 3.2,
+        "Volume": 19300.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-26",
+        "Open": 342.0,
+        "High": 345.0,
+        "Low": 330.0,
+        "Close": 344.0,
+        "Percent Change": 2.38,
+        "Volume": 14825.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-25",
+        "Open": 324.5,
+        "High": 349.5,
+        "Low": 321.7,
+        "Close": 336.0,
+        "Percent Change": 1.51,
+        "Volume": 9416.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-24",
+        "Open": 320.0,
+        "High": 332.0,
+        "Low": 314.1,
+        "Close": 331.0,
+        "Percent Change": 1.41,
+        "Volume": 4355.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-23",
+        "Open": 338.0,
+        "High": 346.0,
+        "Low": 315.0,
+        "Close": 326.4,
+        "Percent Change": -3.43,
+        "Volume": 8845.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-19",
+        "Open": 330.2,
+        "High": 348.0,
+        "Low": 330.2,
+        "Close": 338.0,
+        "Percent Change": 0.6,
+        "Volume": 9377.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-18",
+        "Open": 329.0,
+        "High": 344.0,
+        "Low": 328.4,
+        "Close": 336.0,
+        "Percent Change": 0.9,
+        "Volume": 8167.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-17",
+        "Open": 308.1,
+        "High": 339.0,
+        "Low": 308.1,
+        "Close": 333.0,
+        "Percent Change": 6.05,
+        "Volume": 7080.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-12",
+        "Open": 336.0,
+        "High": 336.0,
+        "Low": 314.0,
+        "Close": 314.0,
+        "Percent Change": -4.85,
+        "Volume": 8918.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-10",
+        "Open": 354.0,
+        "High": 361.0,
+        "Low": 330.0,
+        "Close": 330.0,
+        "Percent Change": -5.44,
+        "Volume": 19416.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-09",
+        "Open": 333.0,
+        "High": 349.0,
+        "Low": 333.0,
+        "Close": 349.0,
+        "Percent Change": 4.18,
+        "Volume": 11210.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-08",
+        "Open": 317.3,
+        "High": 343.0,
+        "Low": 317.2,
+        "Close": 335.0,
+        "Percent Change": 3.84,
+        "Volume": 6060.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-05",
+        "Open": 320.2,
+        "High": 332.8,
+        "Low": 314.0,
+        "Close": 322.6,
+        "Percent Change": -1.16,
+        "Volume": 5650.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-04",
+        "Open": 318.0,
+        "High": 326.4,
+        "Low": 301.0,
+        "Close": 326.4,
+        "Percent Change": 4.62,
+        "Volume": 6128.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-03",
+        "Open": 298.0,
+        "High": 316.9,
+        "Low": 296.0,
+        "Close": 312.0,
+        "Percent Change": 4.98,
+        "Volume": 10016.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-02",
+        "Open": 289.3,
+        "High": 313.0,
+        "Low": 284.2,
+        "Close": 297.2,
+        "Percent Change": 0.68,
+        "Volume": 3558.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2023-01-01",
+        "Open": 295.1,
+        "High": 307.0,
+        "Low": 294.0,
+        "Close": 295.2,
+        "Percent Change": -1.53,
+        "Volume": 5342.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-29",
+        "Open": 272.0,
+        "High": 301.9,
+        "Low": 272.0,
+        "Close": 299.8,
+        "Percent Change": 8.11,
+        "Volume": 4942.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-28",
+        "Open": 288.0,
+        "High": 291.8,
+        "Low": 275.3,
+        "Close": 277.3,
+        "Percent Change": -3.08,
+        "Volume": 4443.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-27",
+        "Open": 280.5,
+        "High": 295.0,
+        "Low": 274.0,
+        "Close": 286.1,
+        "Percent Change": 4.04,
+        "Volume": 14881.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-26",
+        "Open": 262.1,
+        "High": 277.9,
+        "Low": 262.0,
+        "Close": 275.0,
+        "Percent Change": 5.73,
+        "Volume": 1531.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-22",
+        "Open": 259.3,
+        "High": 264.0,
+        "Low": 257.0,
+        "Close": 260.1,
+        "Percent Change": -1.66,
+        "Volume": 540.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-21",
+        "Open": 263.1,
+        "High": 268.0,
+        "Low": 263.1,
+        "Close": 264.5,
+        "Percent Change": -1.31,
+        "Volume": 730.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-20",
+        "Open": 258.6,
+        "High": 274.0,
+        "Low": 258.6,
+        "Close": 268.0,
+        "Percent Change": 1.82,
+        "Volume": 2000.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-19",
+        "Open": 260.1,
+        "High": 275.0,
+        "Low": 260.1,
+        "Close": 263.2,
+        "Percent Change": -0.3,
+        "Volume": 2120.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-18",
+        "Open": 266.0,
+        "High": 269.5,
+        "Low": 264.0,
+        "Close": 264.0,
+        "Percent Change": -2.58,
+        "Volume": 3570.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-15",
+        "Open": 275.4,
+        "High": 275.4,
+        "Low": 270.0,
+        "Close": 271.0,
+        "Percent Change": -3.56,
+        "Volume": 620.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-14",
+        "Open": 269.1,
+        "High": 281.0,
+        "Low": 269.1,
+        "Close": 281.0,
+        "Percent Change": 2.93,
+        "Volume": 1621.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-13",
+        "Open": 267.0,
+        "High": 273.6,
+        "Low": 267.0,
+        "Close": 273.0,
+        "Percent Change": 0.4,
+        "Volume": 1265.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-12",
+        "Open": 269.0,
+        "High": 271.9,
+        "Low": 266.1,
+        "Close": 271.9,
+        "Percent Change": 0.7,
+        "Volume": 1085.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-11",
+        "Open": 275.0,
+        "High": 277.0,
+        "Low": 270.0,
+        "Close": 270.0,
+        "Percent Change": -1.46,
+        "Volume": 1090.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-07",
+        "Open": 270.0,
+        "High": 280.5,
+        "Low": 270.0,
+        "Close": 274.0,
+        "Percent Change": 0.85,
+        "Volume": 1747.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-06",
+        "Open": 272.0,
+        "High": 275.0,
+        "Low": 270.1,
+        "Close": 271.7,
+        "Percent Change": -1.38,
+        "Volume": 1350.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-05",
+        "Open": 275.0,
+        "High": 280.5,
+        "Low": 275.0,
+        "Close": 275.5,
+        "Percent Change": -0.97,
+        "Volume": 2072.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-04",
+        "Open": 273.0,
+        "High": 295.0,
+        "Low": 273.0,
+        "Close": 278.2,
+        "Percent Change": 0.4,
+        "Volume": 1840.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-12-01",
+        "Open": 273.0,
+        "High": 288.0,
+        "Low": 273.0,
+        "Close": 277.1,
+        "Percent Change": -0.32,
+        "Volume": 3062.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-30",
+        "Open": 278.0,
+        "High": 278.0,
+        "Low": 272.0,
+        "Close": 278.0,
+        "Percent Change": -1.77,
+        "Volume": 2157.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-29",
+        "Open": 269.0,
+        "High": 290.0,
+        "Low": 268.7,
+        "Close": 283.0,
+        "Percent Change": 3.25,
+        "Volume": 1200.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-28",
+        "Open": 275.1,
+        "High": 277.5,
+        "Low": 272.1,
+        "Close": 274.1,
+        "Percent Change": -1.05,
+        "Volume": 570.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-27",
+        "Open": 270.0,
+        "High": 283.9,
+        "Low": 270.0,
+        "Close": 277.0,
+        "Percent Change": 1.09,
+        "Volume": 1775.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-24",
+        "Open": 284.9,
+        "High": 284.9,
+        "Low": 270.0,
+        "Close": 274.0,
+        "Percent Change": -1.93,
+        "Volume": 4990.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-23",
+        "Open": 285.0,
+        "High": 285.0,
+        "Low": 265.1,
+        "Close": 279.4,
+        "Percent Change": -0.21,
+        "Volume": 1524.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-22",
+        "Open": 280.0,
+        "High": 280.0,
+        "Low": 271.2,
+        "Close": 280.0,
+        "Percent Change": -0.67,
+        "Volume": 1608.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-17",
+        "Open": 275.0,
+        "High": 285.0,
+        "Low": 269.5,
+        "Close": 281.9,
+        "Percent Change": 4.41,
+        "Volume": 2198.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-16",
+        "Open": 265.1,
+        "High": 273.0,
+        "Low": 265.1,
+        "Close": 270.0,
+        "Percent Change": 0.0,
+        "Volume": 2580.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-15",
+        "Open": 270.0,
+        "High": 275.0,
+        "Low": 265.0,
+        "Close": 270.0,
+        "Percent Change": 0.0,
+        "Volume": 953.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-14",
+        "Open": 262.1,
+        "High": 275.0,
+        "Low": 262.1,
+        "Close": 270.0,
+        "Percent Change": 1.85,
+        "Volume": 375.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-13",
+        "Open": 263.0,
+        "High": 270.3,
+        "Low": 263.0,
+        "Close": 265.1,
+        "Percent Change": -1.16,
+        "Volume": 750.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-10",
+        "Open": 272.0,
+        "High": 276.5,
+        "Low": 266.6,
+        "Close": 268.2,
+        "Percent Change": -2.86,
+        "Volume": 1833.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-09",
+        "Open": 280.0,
+        "High": 284.0,
+        "Low": 276.0,
+        "Close": 276.1,
+        "Percent Change": -3.12,
+        "Volume": 2291.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-08",
+        "Open": 286.0,
+        "High": 292.7,
+        "Low": 281.1,
+        "Close": 285.0,
+        "Percent Change": -0.38,
+        "Volume": 1195.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-07",
+        "Open": 290.0,
+        "High": 300.0,
+        "Low": 286.0,
+        "Close": 286.1,
+        "Percent Change": -3.02,
+        "Volume": 3544.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-06",
+        "Open": 280.4,
+        "High": 301.7,
+        "Low": 276.0,
+        "Close": 295.0,
+        "Percent Change": 3.15,
+        "Volume": 1884.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-03",
+        "Open": 295.0,
+        "High": 297.0,
+        "Low": 285.0,
+        "Close": 286.0,
+        "Percent Change": -2.36,
+        "Volume": 1495.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-02",
+        "Open": 293.0,
+        "High": 297.0,
+        "Low": 279.0,
+        "Close": 292.9,
+        "Percent Change": 1.63,
+        "Volume": 2274.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-11-01",
+        "Open": 260.0,
+        "High": 288.2,
+        "Low": 260.0,
+        "Close": 288.2,
+        "Percent Change": 10.0,
+        "Volume": 1584.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-10-31",
+        "Open": 260.6,
+        "High": 265.8,
+        "Low": 260.6,
+        "Close": 262.0,
+        "Percent Change": 0.73,
+        "Volume": 1410.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-10-23",
+        "Open": 256.0,
+        "High": 260.1,
+        "Low": 253.0,
+        "Close": 260.1,
+        "Percent Change": 1.64,
+        "Volume": 2320.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-10-20",
+        "Open": 250.9,
+        "High": 256.0,
+        "Low": 250.1,
+        "Close": 255.9,
+        "Percent Change": -0.04,
+        "Volume": 1948.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-10-19",
+        "Open": 256.0,
+        "High": 258.0,
+        "Low": 252.0,
+        "Close": 256.0,
+        "Percent Change": -1.92,
+        "Volume": 1100.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-10-17",
+        "Open": 259.4,
+        "High": 264.0,
+        "Low": 251.0,
+        "Close": 261.0,
+        "Percent Change": -1.36,
+        "Volume": 500.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-10-16",
+        "Open": 270.0,
+        "High": 271.0,
+        "Low": 264.6,
+        "Close": 264.6,
+        "Percent Change": -3.78,
+        "Volume": 1611.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-10-13",
+        "Open": 275.0,
+        "High": 278.0,
+        "Low": 271.0,
+        "Close": 275.0,
+        "Percent Change": 0.4,
+        "Volume": 700.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-10-12",
+        "Open": 269.5,
+        "High": 282.9,
+        "Low": 264.3,
+        "Close": 280.0,
+        "Percent Change": 1.82,
+        "Volume": 1925.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-10-11",
+        "Open": 266.1,
+        "High": 276.0,
+        "Low": 262.1,
+        "Close": 275.0,
+        "Percent Change": 1.48,
+        "Volume": 946.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-10-10",
+        "Open": 285.0,
+        "High": 295.0,
+        "Low": 271.0,
+        "Close": 271.0,
+        "Percent Change": -4.75,
+        "Volume": 1726.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-10-09",
+        "Open": 275.0,
+        "High": 284.5,
+        "Low": 270.6,
+        "Close": 284.5,
+        "Percent Change": 3.83,
+        "Volume": 1835.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-29",
+        "Open": 270.4,
+        "High": 274.9,
+        "Low": 265.5,
+        "Close": 274.0,
+        "Percent Change": -0.69,
+        "Volume": 1855.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-28",
+        "Open": 256.6,
+        "High": 275.9,
+        "Low": 256.6,
+        "Close": 275.9,
+        "Percent Change": 5.39,
+        "Volume": 295.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-27",
+        "Open": 260.0,
+        "High": 266.4,
+        "Low": 260.0,
+        "Close": 261.8,
+        "Percent Change": 0.69,
+        "Volume": 623.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-25",
+        "Open": 261.7,
+        "High": 272.3,
+        "Low": 256.5,
+        "Close": 260.0,
+        "Percent Change": -2.62,
+        "Volume": 1320.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-22",
+        "Open": 271.0,
+        "High": 272.0,
+        "Low": 266.1,
+        "Close": 267.0,
+        "Percent Change": -3.26,
+        "Volume": 1213.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-21",
+        "Open": 271.0,
+        "High": 278.0,
+        "Low": 270.0,
+        "Close": 276.0,
+        "Percent Change": 1.85,
+        "Volume": 973.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-20",
+        "Open": 280.0,
+        "High": 280.5,
+        "Low": 270.7,
+        "Close": 271.0,
+        "Percent Change": -5.01,
+        "Volume": 4375.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-18",
+        "Open": 295.0,
+        "High": 295.0,
+        "Low": 285.0,
+        "Close": 285.3,
+        "Percent Change": -4.9,
+        "Volume": 3765.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-16",
+        "Open": 294.1,
+        "High": 300.0,
+        "Low": 289.0,
+        "Close": 300.0,
+        "Percent Change": -0.03,
+        "Volume": 6548.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-15",
+        "Open": 315.6,
+        "High": 315.6,
+        "Low": 299.0,
+        "Close": 300.1,
+        "Percent Change": -6.8,
+        "Volume": 6020.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-14",
+        "Open": 304.1,
+        "High": 322.3,
+        "Low": 304.0,
+        "Close": 322.0,
+        "Percent Change": 3.87,
+        "Volume": 3379.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-13",
+        "Open": 300.0,
+        "High": 311.1,
+        "Low": 298.9,
+        "Close": 310.0,
+        "Percent Change": 1.64,
+        "Volume": 2717.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-12",
+        "Open": 300.0,
+        "High": 305.0,
+        "Low": 300.0,
+        "Close": 305.0,
+        "Percent Change": 0.59,
+        "Volume": 2520.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-11",
+        "Open": 302.0,
+        "High": 307.9,
+        "Low": 302.0,
+        "Close": 303.2,
+        "Percent Change": -1.56,
+        "Volume": 1565.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-08",
+        "Open": 297.0,
+        "High": 310.0,
+        "Low": 296.0,
+        "Close": 308.0,
+        "Percent Change": 2.29,
+        "Volume": 2995.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-07",
+        "Open": 301.0,
+        "High": 306.2,
+        "Low": 300.0,
+        "Close": 301.1,
+        "Percent Change": -1.92,
+        "Volume": 5140.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-06",
+        "Open": 305.0,
+        "High": 310.0,
+        "Low": 305.0,
+        "Close": 307.0,
+        "Percent Change": -0.65,
+        "Volume": 1380.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-05",
+        "Open": 305.0,
+        "High": 322.9,
+        "Low": 303.2,
+        "Close": 309.0,
+        "Percent Change": 0.16,
+        "Volume": 1436.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-04",
+        "Open": 306.0,
+        "High": 318.0,
+        "Low": 306.0,
+        "Close": 308.5,
+        "Percent Change": -1.12,
+        "Volume": 3768.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-02",
+        "Open": 304.0,
+        "High": 312.0,
+        "Low": 304.0,
+        "Close": 312.0,
+        "Percent Change": 0.65,
+        "Volume": 430.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-09-01",
+        "Open": 303.0,
+        "High": 325.0,
+        "Low": 303.0,
+        "Close": 310.0,
+        "Percent Change": 0.32,
+        "Volume": 4073.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-31",
+        "Open": 309.1,
+        "High": 317.0,
+        "Low": 309.0,
+        "Close": 309.0,
+        "Percent Change": -1.9,
+        "Volume": 2505.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-30",
+        "Open": 315.0,
+        "High": 320.0,
+        "Low": 314.0,
+        "Close": 315.0,
+        "Percent Change": -0.94,
+        "Volume": 2565.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-29",
+        "Open": 312.1,
+        "High": 318.0,
+        "Low": 306.1,
+        "Close": 318.0,
+        "Percent Change": 1.89,
+        "Volume": 2224.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-28",
+        "Open": 325.0,
+        "High": 330.0,
+        "Low": 310.0,
+        "Close": 312.1,
+        "Percent Change": -5.42,
+        "Volume": 8035.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-26",
+        "Open": 334.0,
+        "High": 340.0,
+        "Low": 330.0,
+        "Close": 330.0,
+        "Percent Change": -2.97,
+        "Volume": 490.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-25",
+        "Open": 346.0,
+        "High": 348.1,
+        "Low": 333.0,
+        "Close": 340.1,
+        "Percent Change": -3.65,
+        "Volume": 4871.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-24",
+        "Open": 333.3,
+        "High": 353.0,
+        "Low": 333.3,
+        "Close": 353.0,
+        "Percent Change": 3.82,
+        "Volume": 5530.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-23",
+        "Open": 337.1,
+        "High": 343.0,
+        "Low": 336.4,
+        "Close": 340.0,
+        "Percent Change": -1.13,
+        "Volume": 2774.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-22",
+        "Open": 340.0,
+        "High": 347.0,
+        "Low": 338.0,
+        "Close": 343.9,
+        "Percent Change": -0.86,
+        "Volume": 3029.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-21",
+        "Open": 351.0,
+        "High": 355.0,
+        "Low": 340.1,
+        "Close": 346.9,
+        "Percent Change": -1.17,
+        "Volume": 2165.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-18",
+        "Open": 335.0,
+        "High": 355.0,
+        "Low": 335.0,
+        "Close": 351.0,
+        "Percent Change": 3.24,
+        "Volume": 3110.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-17",
+        "Open": 332.1,
+        "High": 353.0,
+        "Low": 332.1,
+        "Close": 340.0,
+        "Percent Change": 0.59,
+        "Volume": 2557.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-16",
+        "Open": 343.1,
+        "High": 357.0,
+        "Low": 336.2,
+        "Close": 338.0,
+        "Percent Change": -3.43,
+        "Volume": 8183.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-15",
+        "Open": 320.5,
+        "High": 351.0,
+        "Low": 320.0,
+        "Close": 350.0,
+        "Percent Change": 7.03,
+        "Volume": 2595.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-14",
+        "Open": 333.2,
+        "High": 347.0,
+        "Low": 327.0,
+        "Close": 327.0,
+        "Percent Change": -3.82,
+        "Volume": 3790.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-11",
+        "Open": 339.0,
+        "High": 362.1,
+        "Low": 338.3,
+        "Close": 340.0,
+        "Percent Change": -1.56,
+        "Volume": 4503.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-10",
+        "Open": 350.0,
+        "High": 356.0,
+        "Low": 344.0,
+        "Close": 345.4,
+        "Percent Change": -2.76,
+        "Volume": 10644.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-09",
+        "Open": 372.0,
+        "High": 375.0,
+        "Low": 355.2,
+        "Close": 355.2,
+        "Percent Change": -6.4,
+        "Volume": 15007.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-08",
+        "Open": 387.0,
+        "High": 400.0,
+        "Low": 378.0,
+        "Close": 379.5,
+        "Percent Change": -0.39,
+        "Volume": 16549.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-07",
+        "Open": 375.0,
+        "High": 382.5,
+        "Low": 367.0,
+        "Close": 381.0,
+        "Percent Change": 3.25,
+        "Volume": 10575.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-05",
+        "Open": 367.6,
+        "High": 373.0,
+        "Low": 367.6,
+        "Close": 369.0,
+        "Percent Change": -1.6,
+        "Volume": 15312.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-04",
+        "Open": 373.3,
+        "High": 387.0,
+        "Low": 370.0,
+        "Close": 375.0,
+        "Percent Change": 2.46,
+        "Volume": 46516.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-03",
+        "Open": 350.0,
+        "High": 367.2,
+        "Low": 346.0,
+        "Close": 366.0,
+        "Percent Change": 6.4,
+        "Volume": 17995.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-02",
+        "Open": 346.0,
+        "High": 350.8,
+        "Low": 339.2,
+        "Close": 344.0,
+        "Percent Change": 0.0,
+        "Volume": 8740.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-08-01",
+        "Open": 346.0,
+        "High": 355.9,
+        "Low": 339.1,
+        "Close": 344.0,
+        "Percent Change": -0.58,
+        "Volume": 17346.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-31",
+        "Open": 348.0,
+        "High": 354.0,
+        "Low": 345.0,
+        "Close": 346.0,
+        "Percent Change": -0.57,
+        "Volume": 6360.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-29",
+        "Open": 340.0,
+        "High": 353.7,
+        "Low": 336.0,
+        "Close": 348.0,
+        "Percent Change": 2.32,
+        "Volume": 6063.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-28",
+        "Open": 344.0,
+        "High": 365.0,
+        "Low": 340.1,
+        "Close": 340.1,
+        "Percent Change": 0.62,
+        "Volume": 21062.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-27",
+        "Open": 320.0,
+        "High": 340.0,
+        "Low": 314.0,
+        "Close": 338.0,
+        "Percent Change": 3.65,
+        "Volume": 6115.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-26",
+        "Open": 328.0,
+        "High": 345.0,
+        "Low": 321.5,
+        "Close": 326.1,
+        "Percent Change": -2.37,
+        "Volume": 5942.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-25",
+        "Open": 326.0,
+        "High": 342.0,
+        "Low": 320.2,
+        "Close": 334.0,
+        "Percent Change": 4.38,
+        "Volume": 8907.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-24",
+        "Open": 318.4,
+        "High": 320.0,
+        "Low": 310.0,
+        "Close": 320.0,
+        "Percent Change": 2.47,
+        "Volume": 4296.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-22",
+        "Open": 320.0,
+        "High": 320.0,
+        "Low": 309.0,
+        "Close": 312.3,
+        "Percent Change": -2.41,
+        "Volume": 2288.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-21",
+        "Open": 314.0,
+        "High": 321.3,
+        "Low": 311.1,
+        "Close": 320.0,
+        "Percent Change": 0.0,
+        "Volume": 2000.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-20",
+        "Open": 326.0,
+        "High": 326.0,
+        "Low": 315.1,
+        "Close": 320.0,
+        "Percent Change": 0.0,
+        "Volume": 2931.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-19",
+        "Open": 325.3,
+        "High": 328.0,
+        "Low": 315.0,
+        "Close": 320.0,
+        "Percent Change": 0.31,
+        "Volume": 3899.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-18",
+        "Open": 310.0,
+        "High": 320.0,
+        "Low": 310.0,
+        "Close": 319.0,
+        "Percent Change": 1.27,
+        "Volume": 1777.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-17",
+        "Open": 316.0,
+        "High": 322.0,
+        "Low": 312.0,
+        "Close": 315.0,
+        "Percent Change": -0.32,
+        "Volume": 2144.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-15",
+        "Open": 316.6,
+        "High": 321.0,
+        "Low": 315.0,
+        "Close": 316.0,
+        "Percent Change": -2.17,
+        "Volume": 2255.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-14",
+        "Open": 328.0,
+        "High": 334.0,
+        "Low": 309.2,
+        "Close": 323.0,
+        "Percent Change": -0.62,
+        "Volume": 4405.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-13",
+        "Open": 298.0,
+        "High": 325.0,
+        "Low": 298.0,
+        "Close": 325.0,
+        "Percent Change": 7.97,
+        "Volume": 2842.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-12",
+        "Open": 300.0,
+        "High": 323.3,
+        "Low": 289.2,
+        "Close": 301.0,
+        "Percent Change": -0.03,
+        "Volume": 4050.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-11",
+        "Open": 314.6,
+        "High": 314.6,
+        "Low": 300.0,
+        "Close": 301.1,
+        "Percent Change": -6.2,
+        "Volume": 7583.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-08",
+        "Open": 323.0,
+        "High": 328.0,
+        "Low": 319.1,
+        "Close": 321.0,
+        "Percent Change": -1.23,
+        "Volume": 2335.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-07",
+        "Open": 335.0,
+        "High": 336.0,
+        "Low": 322.0,
+        "Close": 325.0,
+        "Percent Change": -2.99,
+        "Volume": 6975.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-06",
+        "Open": 336.0,
+        "High": 337.0,
+        "Low": 315.0,
+        "Close": 335.0,
+        "Percent Change": 1.52,
+        "Volume": 7078.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-05",
+        "Open": 342.1,
+        "High": 350.0,
+        "Low": 325.4,
+        "Close": 330.0,
+        "Percent Change": -5.44,
+        "Volume": 9287.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-04",
+        "Open": 355.0,
+        "High": 369.3,
+        "Low": 348.0,
+        "Close": 349.0,
+        "Percent Change": -1.69,
+        "Volume": 14845.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-03",
+        "Open": 355.0,
+        "High": 368.0,
+        "Low": 341.0,
+        "Close": 355.0,
+        "Percent Change": 0.0,
+        "Volume": 12438.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-07-01",
+        "Open": 355.3,
+        "High": 370.0,
+        "Low": 350.0,
+        "Close": 355.0,
+        "Percent Change": -0.08,
+        "Volume": 5171.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-30",
+        "Open": 328.0,
+        "High": 355.3,
+        "Low": 319.0,
+        "Close": 355.3,
+        "Percent Change": 10.0,
+        "Volume": 9146.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-29",
+        "Open": 316.0,
+        "High": 325.0,
+        "Low": 311.2,
+        "Close": 323.0,
+        "Percent Change": 2.22,
+        "Volume": 3856.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-28",
+        "Open": 336.6,
+        "High": 336.6,
+        "Low": 304.1,
+        "Close": 316.0,
+        "Percent Change": -4.24,
+        "Volume": 12949.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-27",
+        "Open": 306.1,
+        "High": 330.1,
+        "Low": 306.1,
+        "Close": 330.0,
+        "Percent Change": 9.96,
+        "Volume": 26797.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-26",
+        "Open": 272.9,
+        "High": 300.1,
+        "Low": 272.9,
+        "Close": 300.1,
+        "Percent Change": 9.97,
+        "Volume": 11744.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-24",
+        "Open": 243.2,
+        "High": 272.9,
+        "Low": 241.0,
+        "Close": 272.9,
+        "Percent Change": 10.0,
+        "Volume": 10912.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-23",
+        "Open": 263.0,
+        "High": 263.0,
+        "Low": 248.1,
+        "Close": 248.1,
+        "Percent Change": -5.67,
+        "Volume": 3047.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-22",
+        "Open": 269.5,
+        "High": 269.5,
+        "Low": 262.1,
+        "Close": 263.0,
+        "Percent Change": -4.36,
+        "Volume": 1280.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-21",
+        "Open": 262.7,
+        "High": 277.0,
+        "Low": 258.0,
+        "Close": 275.0,
+        "Percent Change": 2.61,
+        "Volume": 5135.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-20",
+        "Open": 279.0,
+        "High": 279.0,
+        "Low": 261.5,
+        "Close": 268.0,
+        "Percent Change": -5.63,
+        "Volume": 5226.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-19",
+        "Open": 292.2,
+        "High": 303.8,
+        "Low": 284.0,
+        "Close": 284.0,
+        "Percent Change": -4.7,
+        "Volume": 3548.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-17",
+        "Open": 294.0,
+        "High": 306.0,
+        "Low": 290.0,
+        "Close": 298.0,
+        "Percent Change": -0.67,
+        "Volume": 400.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-16",
+        "Open": 294.0,
+        "High": 317.0,
+        "Low": 294.0,
+        "Close": 300.0,
+        "Percent Change": 0.0,
+        "Volume": 1385.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-15",
+        "Open": 303.0,
+        "High": 303.0,
+        "Low": 291.1,
+        "Close": 300.0,
+        "Percent Change": -2.91,
+        "Volume": 2194.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-14",
+        "Open": 311.0,
+        "High": 316.0,
+        "Low": 308.8,
+        "Close": 309.0,
+        "Percent Change": -1.9,
+        "Volume": 3340.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-13",
+        "Open": 310.8,
+        "High": 321.4,
+        "Low": 310.8,
+        "Close": 315.0,
+        "Percent Change": -0.63,
+        "Volume": 1581.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-10",
+        "Open": 324.3,
+        "High": 324.3,
+        "Low": 313.2,
+        "Close": 317.0,
+        "Percent Change": -0.31,
+        "Volume": 927.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-09",
+        "Open": 323.1,
+        "High": 340.0,
+        "Low": 317.0,
+        "Close": 318.0,
+        "Percent Change": -1.58,
+        "Volume": 3320.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-08",
+        "Open": 311.0,
+        "High": 332.4,
+        "Low": 311.0,
+        "Close": 323.1,
+        "Percent Change": 2.9,
+        "Volume": 2595.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-07",
+        "Open": 318.8,
+        "High": 322.0,
+        "Low": 313.7,
+        "Close": 314.0,
+        "Percent Change": -3.38,
+        "Volume": 2213.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-06",
+        "Open": 317.0,
+        "High": 331.5,
+        "Low": 315.1,
+        "Close": 325.0,
+        "Percent Change": 0.62,
+        "Volume": 2100.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-03",
+        "Open": 325.5,
+        "High": 331.0,
+        "Low": 321.0,
+        "Close": 323.0,
+        "Percent Change": -2.12,
+        "Volume": 3295.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-02",
+        "Open": 335.0,
+        "High": 340.0,
+        "Low": 330.0,
+        "Close": 330.0,
+        "Percent Change": -0.6,
+        "Volume": 1522.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-06-01",
+        "Open": 330.0,
+        "High": 341.0,
+        "Low": 330.0,
+        "Close": 332.0,
+        "Percent Change": -1.25,
+        "Volume": 5330.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-31",
+        "Open": 340.0,
+        "High": 347.8,
+        "Low": 336.0,
+        "Close": 336.2,
+        "Percent Change": -2.83,
+        "Volume": 2850.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-30",
+        "Open": 357.0,
+        "High": 357.0,
+        "Low": 343.0,
+        "Close": 346.0,
+        "Percent Change": -3.89,
+        "Volume": 4890.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-27",
+        "Open": 360.0,
+        "High": 360.0,
+        "Low": 348.0,
+        "Close": 360.0,
+        "Percent Change": 0.0,
+        "Volume": 2946.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-26",
+        "Open": 360.0,
+        "High": 370.0,
+        "Low": 355.1,
+        "Close": 360.0,
+        "Percent Change": 1.41,
+        "Volume": 3079.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-25",
+        "Open": 343.0,
+        "High": 362.1,
+        "Low": 343.0,
+        "Close": 355.0,
+        "Percent Change": 1.72,
+        "Volume": 1894.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-24",
+        "Open": 353.0,
+        "High": 367.2,
+        "Low": 347.1,
+        "Close": 349.0,
+        "Percent Change": -1.13,
+        "Volume": 6181.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-23",
+        "Open": 354.3,
+        "High": 360.0,
+        "Low": 341.4,
+        "Close": 353.0,
+        "Percent Change": -2.35,
+        "Volume": 4555.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-20",
+        "Open": 358.8,
+        "High": 373.4,
+        "Low": 352.3,
+        "Close": 361.5,
+        "Percent Change": -1.26,
+        "Volume": 2658.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-19",
+        "Open": 372.5,
+        "High": 381.0,
+        "Low": 366.1,
+        "Close": 366.1,
+        "Percent Change": -3.66,
+        "Volume": 3372.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-18",
+        "Open": 370.0,
+        "High": 384.0,
+        "Low": 351.3,
+        "Close": 380.0,
+        "Percent Change": 0.03,
+        "Volume": 4429.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-17",
+        "Open": 382.0,
+        "High": 382.0,
+        "Low": 365.6,
+        "Close": 369.0,
+        "Percent Change": -5.31,
+        "Volume": 5725.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-12",
+        "Open": 391.6,
+        "High": 401.8,
+        "Low": 377.0,
+        "Close": 389.7,
+        "Percent Change": 1.48,
+        "Volume": 15321.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-11",
+        "Open": 373.1,
+        "High": 388.0,
+        "Low": 360.0,
+        "Close": 384.0,
+        "Percent Change": 4.92,
+        "Volume": 11876.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-10",
+        "Open": 346.0,
+        "High": 367.2,
+        "Low": 346.0,
+        "Close": 366.0,
+        "Percent Change": 4.27,
+        "Volume": 5366.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-09",
+        "Open": 349.0,
+        "High": 362.0,
+        "Low": 349.0,
+        "Close": 351.0,
+        "Percent Change": -0.96,
+        "Volume": 4450.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-08",
+        "Open": 348.0,
+        "High": 360.0,
+        "Low": 336.0,
+        "Close": 354.4,
+        "Percent Change": 0.4,
+        "Volume": 7743.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-05",
+        "Open": 363.0,
+        "High": 363.0,
+        "Low": 344.2,
+        "Close": 353.0,
+        "Percent Change": -2.75,
+        "Volume": 7144.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-04",
+        "Open": 368.0,
+        "High": 380.0,
+        "Low": 361.0,
+        "Close": 363.0,
+        "Percent Change": -3.2,
+        "Volume": 4666.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-05-02",
+        "Open": 386.0,
+        "High": 393.0,
+        "Low": 374.1,
+        "Close": 375.0,
+        "Percent Change": -4.65,
+        "Volume": 5895.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-28",
+        "Open": 387.1,
+        "High": 402.9,
+        "Low": 387.1,
+        "Close": 393.3,
+        "Percent Change": -0.43,
+        "Volume": 8301.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-27",
+        "Open": 389.0,
+        "High": 403.9,
+        "Low": 386.1,
+        "Close": 395.0,
+        "Percent Change": -0.25,
+        "Volume": 3525.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-26",
+        "Open": 392.1,
+        "High": 408.0,
+        "Low": 390.3,
+        "Close": 396.0,
+        "Percent Change": -1.0,
+        "Volume": 5881.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-25",
+        "Open": 412.0,
+        "High": 424.3,
+        "Low": 398.0,
+        "Close": 400.0,
+        "Percent Change": -4.72,
+        "Volume": 11852.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-24",
+        "Open": 395.0,
+        "High": 419.8,
+        "Low": 374.6,
+        "Close": 419.8,
+        "Percent Change": 7.64,
+        "Volume": 12837.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-21",
+        "Open": 370.0,
+        "High": 399.8,
+        "Low": 360.0,
+        "Close": 390.0,
+        "Percent Change": 4.0,
+        "Volume": 5538.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-20",
+        "Open": 382.0,
+        "High": 401.0,
+        "Low": 368.0,
+        "Close": 375.0,
+        "Percent Change": -3.1,
+        "Volume": 5304.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-19",
+        "Open": 380.0,
+        "High": 390.0,
+        "Low": 361.2,
+        "Close": 387.0,
+        "Percent Change": 1.57,
+        "Volume": 7350.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-18",
+        "Open": 392.0,
+        "High": 400.0,
+        "Low": 381.0,
+        "Close": 381.0,
+        "Percent Change": -4.75,
+        "Volume": 4772.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-17",
+        "Open": 410.0,
+        "High": 417.0,
+        "Low": 397.0,
+        "Close": 400.0,
+        "Percent Change": -2.44,
+        "Volume": 4681.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-13",
+        "Open": 394.0,
+        "High": 411.9,
+        "Low": 394.0,
+        "Close": 410.0,
+        "Percent Change": 2.22,
+        "Volume": 5670.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-12",
+        "Open": 420.0,
+        "High": 422.0,
+        "Low": 397.1,
+        "Close": 401.1,
+        "Percent Change": -6.07,
+        "Volume": 9734.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-11",
+        "Open": 435.0,
+        "High": 443.7,
+        "Low": 421.5,
+        "Close": 427.0,
+        "Percent Change": -0.49,
+        "Volume": 11615.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-07",
+        "Open": 444.0,
+        "High": 444.0,
+        "Low": 425.0,
+        "Close": 429.1,
+        "Percent Change": -1.58,
+        "Volume": 10979.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-06",
+        "Open": 429.3,
+        "High": 441.0,
+        "Low": 419.9,
+        "Close": 436.0,
+        "Percent Change": -0.46,
+        "Volume": 6185.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-05",
+        "Open": 441.0,
+        "High": 441.0,
+        "Low": 425.0,
+        "Close": 438.0,
+        "Percent Change": -2.67,
+        "Volume": 10520.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-04",
+        "Open": 445.9,
+        "High": 450.0,
+        "Low": 439.0,
+        "Close": 450.0,
+        "Percent Change": -1.08,
+        "Volume": 4533.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-04-03",
+        "Open": 442.2,
+        "High": 454.9,
+        "Low": 442.0,
+        "Close": 454.9,
+        "Percent Change": 0.84,
+        "Volume": 4216.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-31",
+        "Open": 458.0,
+        "High": 470.0,
+        "Low": 451.1,
+        "Close": 451.1,
+        "Percent Change": -2.57,
+        "Volume": 8375.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-30",
+        "Open": 440.8,
+        "High": 464.2,
+        "Low": 440.8,
+        "Close": 463.0,
+        "Percent Change": 2.96,
+        "Volume": 7335.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-29",
+        "Open": 436.0,
+        "High": 459.0,
+        "Low": 436.0,
+        "Close": 449.7,
+        "Percent Change": 1.28,
+        "Volume": 9089.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-28",
+        "Open": 460.0,
+        "High": 469.1,
+        "Low": 442.0,
+        "Close": 444.0,
+        "Percent Change": -1.99,
+        "Volume": 5974.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-27",
+        "Open": 459.7,
+        "High": 470.0,
+        "Low": 447.0,
+        "Close": 453.0,
+        "Percent Change": -3.41,
+        "Volume": 13798.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-24",
+        "Open": 471.0,
+        "High": 475.0,
+        "Low": 467.0,
+        "Close": 469.0,
+        "Percent Change": -0.42,
+        "Volume": 7182.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-23",
+        "Open": 483.0,
+        "High": 483.0,
+        "Low": 470.0,
+        "Close": 471.0,
+        "Percent Change": -2.69,
+        "Volume": 12633.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-22",
+        "Open": 498.6,
+        "High": 498.6,
+        "Low": 478.0,
+        "Close": 484.0,
+        "Percent Change": -1.02,
+        "Volume": 7378.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-21",
+        "Open": 490.0,
+        "High": 496.0,
+        "Low": 475.1,
+        "Close": 489.0,
+        "Percent Change": 1.03,
+        "Volume": 9304.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-20",
+        "Open": 475.0,
+        "High": 493.1,
+        "Low": 475.0,
+        "Close": 484.0,
+        "Percent Change": 0.1,
+        "Volume": 6100.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-16",
+        "Open": 485.5,
+        "High": 489.2,
+        "Low": 470.5,
+        "Close": 483.5,
+        "Percent Change": 1.58,
+        "Volume": 8788.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-15",
+        "Open": 483.2,
+        "High": 499.7,
+        "Low": 467.0,
+        "Close": 476.0,
+        "Percent Change": -2.94,
+        "Volume": 19314.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-14",
+        "Open": 495.0,
+        "High": 504.9,
+        "Low": 486.1,
+        "Close": 490.4,
+        "Percent Change": -2.89,
+        "Volume": 6148.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-13",
+        "Open": 513.0,
+        "High": 517.0,
+        "Low": 491.1,
+        "Close": 505.0,
+        "Percent Change": 0.4,
+        "Volume": 27030.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-10",
+        "Open": 470.0,
+        "High": 517.0,
+        "Low": 447.0,
+        "Close": 503.0,
+        "Percent Change": 7.02,
+        "Volume": 16084.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-09",
+        "Open": 494.7,
+        "High": 494.7,
+        "Low": 464.0,
+        "Close": 470.0,
+        "Percent Change": -3.29,
+        "Volume": 10317.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-07",
+        "Open": 497.5,
+        "High": 497.5,
+        "Low": 478.3,
+        "Close": 486.0,
+        "Percent Change": -0.41,
+        "Volume": 8970.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-06",
+        "Open": 484.5,
+        "High": 488.0,
+        "Low": 470.0,
+        "Close": 488.0,
+        "Percent Change": 2.74,
+        "Volume": 16335.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-03-02",
+        "Open": 481.0,
+        "High": 490.0,
+        "Low": 472.6,
+        "Close": 475.0,
+        "Percent Change": -3.06,
+        "Volume": 11964.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-28",
+        "Open": 535.0,
+        "High": 545.0,
+        "Low": 490.0,
+        "Close": 490.0,
+        "Percent Change": -6.67,
+        "Volume": 25258.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-27",
+        "Open": 520.0,
+        "High": 535.0,
+        "Low": 510.0,
+        "Close": 525.0,
+        "Percent Change": 0.96,
+        "Volume": 30184.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-24",
+        "Open": 550.0,
+        "High": 550.8,
+        "Low": 518.0,
+        "Close": 520.0,
+        "Percent Change": -5.45,
+        "Volume": 37596.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-23",
+        "Open": 545.7,
+        "High": 566.0,
+        "Low": 530.0,
+        "Close": 550.0,
+        "Percent Change": 2.8,
+        "Volume": 44722.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-22",
+        "Open": 520.0,
+        "High": 555.0,
+        "Low": 512.0,
+        "Close": 535.0,
+        "Percent Change": 4.7,
+        "Volume": 68842.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-21",
+        "Open": 482.0,
+        "High": 516.0,
+        "Low": 482.0,
+        "Close": 511.0,
+        "Percent Change": 3.95,
+        "Volume": 28319.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-20",
+        "Open": 473.4,
+        "High": 507.0,
+        "Low": 464.0,
+        "Close": 491.6,
+        "Percent Change": 1.78,
+        "Volume": 30263.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-17",
+        "Open": 465.5,
+        "High": 483.0,
+        "Low": 460.0,
+        "Close": 483.0,
+        "Percent Change": 1.68,
+        "Volume": 7677.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-16",
+        "Open": 490.0,
+        "High": 490.0,
+        "Low": 457.7,
+        "Close": 475.0,
+        "Percent Change": -2.96,
+        "Volume": 17166.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-15",
+        "Open": 445.0,
+        "High": 489.5,
+        "Low": 437.0,
+        "Close": 489.5,
+        "Percent Change": 10.0,
+        "Volume": 11328.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-14",
+        "Open": 451.0,
+        "High": 459.0,
+        "Low": 444.0,
+        "Close": 445.0,
+        "Percent Change": -1.33,
+        "Volume": 7201.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-13",
+        "Open": 468.5,
+        "High": 469.0,
+        "Low": 448.0,
+        "Close": 451.0,
+        "Percent Change": -5.65,
+        "Volume": 21099.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-10",
+        "Open": 480.2,
+        "High": 499.8,
+        "Low": 475.0,
+        "Close": 478.0,
+        "Percent Change": -2.43,
+        "Volume": 13357.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-09",
+        "Open": 490.0,
+        "High": 500.0,
+        "Low": 480.2,
+        "Close": 489.9,
+        "Percent Change": -1.63,
+        "Volume": 13550.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-08",
+        "Open": 509.0,
+        "High": 529.2,
+        "Low": 495.1,
+        "Close": 498.0,
+        "Percent Change": 0.0,
+        "Volume": 18203.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-07",
+        "Open": 504.8,
+        "High": 515.0,
+        "Low": 499.1,
+        "Close": 509.0,
+        "Percent Change": -1.17,
+        "Volume": 11704.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-06",
+        "Open": 527.0,
+        "High": 527.0,
+        "Low": 503.0,
+        "Close": 515.0,
+        "Percent Change": -2.83,
+        "Volume": 34028.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-03",
+        "Open": 509.0,
+        "High": 530.2,
+        "Low": 503.0,
+        "Close": 530.0,
+        "Percent Change": 4.13,
+        "Volume": 56373.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-02-01",
+        "Open": 495.0,
+        "High": 524.0,
+        "Low": 481.0,
+        "Close": 509.0,
+        "Percent Change": 4.09,
+        "Volume": 21831.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-31",
+        "Open": 505.0,
+        "High": 505.0,
+        "Low": 488.0,
+        "Close": 489.0,
+        "Percent Change": -3.17,
+        "Volume": 9895.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-30",
+        "Open": 484.5,
+        "High": 510.0,
+        "Low": 484.5,
+        "Close": 505.0,
+        "Percent Change": 6.32,
+        "Volume": 25004.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-27",
+        "Open": 473.0,
+        "High": 481.0,
+        "Low": 465.0,
+        "Close": 475.0,
+        "Percent Change": 0.42,
+        "Volume": 9620.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-26",
+        "Open": 477.0,
+        "High": 485.0,
+        "Low": 463.0,
+        "Close": 473.0,
+        "Percent Change": -2.49,
+        "Volume": 11451.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-25",
+        "Open": 486.0,
+        "High": 503.0,
+        "Low": 472.0,
+        "Close": 485.1,
+        "Percent Change": -1.4,
+        "Volume": 18223.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-24",
+        "Open": 517.0,
+        "High": 520.0,
+        "Low": 480.0,
+        "Close": 492.0,
+        "Percent Change": -4.84,
+        "Volume": 37075.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-23",
+        "Open": 530.0,
+        "High": 545.0,
+        "Low": 510.0,
+        "Close": 517.0,
+        "Percent Change": -1.9,
+        "Volume": 31446.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-20",
+        "Open": 475.0,
+        "High": 529.0,
+        "Low": 474.6,
+        "Close": 527.0,
+        "Percent Change": 8.86,
+        "Volume": 34689.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-19",
+        "Open": 499.0,
+        "High": 499.0,
+        "Low": 481.0,
+        "Close": 484.1,
+        "Percent Change": -2.99,
+        "Volume": 13433.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-18",
+        "Open": 492.0,
+        "High": 505.0,
+        "Low": 490.0,
+        "Close": 499.0,
+        "Percent Change": 1.42,
+        "Volume": 30733.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-17",
+        "Open": 463.0,
+        "High": 492.0,
+        "Low": 460.0,
+        "Close": 492.0,
+        "Percent Change": 4.66,
+        "Volume": 28599.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-16",
+        "Open": 481.0,
+        "High": 489.6,
+        "Low": 469.0,
+        "Close": 470.1,
+        "Percent Change": -2.27,
+        "Volume": 32274.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-13",
+        "Open": 472.4,
+        "High": 485.0,
+        "Low": 463.0,
+        "Close": 481.0,
+        "Percent Change": -0.21,
+        "Volume": 20163.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-12",
+        "Open": 482.0,
+        "High": 486.0,
+        "Low": 460.0,
+        "Close": 482.0,
+        "Percent Change": 0.0,
+        "Volume": 25627.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-11",
+        "Open": 431.0,
+        "High": 482.0,
+        "Low": 431.0,
+        "Close": 482.0,
+        "Percent Change": 9.79,
+        "Volume": 31728.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-10",
+        "Open": 430.0,
+        "High": 439.9,
+        "Low": 420.0,
+        "Close": 439.0,
+        "Percent Change": 2.09,
+        "Volume": 20907.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-09",
+        "Open": 390.1,
+        "High": 432.3,
+        "Low": 390.1,
+        "Close": 430.0,
+        "Percent Change": 9.41,
+        "Volume": 24892.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-06",
+        "Open": 375.0,
+        "High": 393.0,
+        "Low": 369.1,
+        "Close": 393.0,
+        "Percent Change": 2.88,
+        "Volume": 11525.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-05",
+        "Open": 384.0,
+        "High": 397.8,
+        "Low": 371.0,
+        "Close": 382.0,
+        "Percent Change": -0.52,
+        "Volume": 14924.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-04",
+        "Open": 371.5,
+        "High": 388.0,
+        "Low": 367.1,
+        "Close": 384.0,
+        "Percent Change": 1.32,
+        "Volume": 7729.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-03",
+        "Open": 375.4,
+        "High": 390.0,
+        "Low": 362.0,
+        "Close": 379.0,
+        "Percent Change": -1.04,
+        "Volume": 13813.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2022-01-02",
+        "Open": 356.8,
+        "High": 386.1,
+        "Low": 353.0,
+        "Close": 383.0,
+        "Percent Change": 5.22,
+        "Volume": 11390.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-29",
+        "Open": 351.2,
+        "High": 372.0,
+        "Low": 351.2,
+        "Close": 364.0,
+        "Percent Change": 1.68,
+        "Volume": 4050.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-28",
+        "Open": 355.0,
+        "High": 362.4,
+        "Low": 351.0,
+        "Close": 358.0,
+        "Percent Change": -0.56,
+        "Volume": 4065.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-27",
+        "Open": 375.0,
+        "High": 375.0,
+        "Low": 358.0,
+        "Close": 360.0,
+        "Percent Change": -4.0,
+        "Volume": 11881.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-26",
+        "Open": 370.1,
+        "High": 377.0,
+        "Low": 362.6,
+        "Close": 375.0,
+        "Percent Change": 1.08,
+        "Volume": 8054.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-23",
+        "Open": 378.1,
+        "High": 380.0,
+        "Low": 365.1,
+        "Close": 371.0,
+        "Percent Change": -1.85,
+        "Volume": 8049.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-22",
+        "Open": 357.0,
+        "High": 378.0,
+        "Low": 357.0,
+        "Close": 378.0,
+        "Percent Change": 5.91,
+        "Volume": 7385.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-21",
+        "Open": 349.0,
+        "High": 356.9,
+        "Low": 344.0,
+        "Close": 356.9,
+        "Percent Change": 2.85,
+        "Volume": 5216.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-20",
+        "Open": 362.0,
+        "High": 362.0,
+        "Low": 343.0,
+        "Close": 347.0,
+        "Percent Change": -4.41,
+        "Volume": 4850.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-16",
+        "Open": 365.0,
+        "High": 385.5,
+        "Low": 360.0,
+        "Close": 363.0,
+        "Percent Change": -2.42,
+        "Volume": 5854.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-15",
+        "Open": 389.3,
+        "High": 412.0,
+        "Low": 363.0,
+        "Close": 372.0,
+        "Percent Change": -2.54,
+        "Volume": 17495.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-14",
+        "Open": 350.0,
+        "High": 381.7,
+        "Low": 350.0,
+        "Close": 381.7,
+        "Percent Change": 10.0,
+        "Volume": 4849.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-13",
+        "Open": 358.0,
+        "High": 386.0,
+        "Low": 332.0,
+        "Close": 347.0,
+        "Percent Change": -4.93,
+        "Volume": 10591.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-12",
+        "Open": 387.0,
+        "High": 392.0,
+        "Low": 364.0,
+        "Close": 365.0,
+        "Percent Change": -7.12,
+        "Volume": 17386.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-09",
+        "Open": 399.9,
+        "High": 404.0,
+        "Low": 385.0,
+        "Close": 393.0,
+        "Percent Change": -3.68,
+        "Volume": 12424.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-08",
+        "Open": 408.0,
+        "High": 410.0,
+        "Low": 400.0,
+        "Close": 408.0,
+        "Percent Change": -1.92,
+        "Volume": 10795.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-07",
+        "Open": 441.0,
+        "High": 459.0,
+        "Low": 414.0,
+        "Close": 416.0,
+        "Percent Change": -3.93,
+        "Volume": 30287.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-06",
+        "Open": 463.4,
+        "High": 499.8,
+        "Low": 409.0,
+        "Close": 433.0,
+        "Percent Change": -4.71,
+        "Volume": 81212.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-05",
+        "Open": 421.3,
+        "High": 454.4,
+        "Low": 421.3,
+        "Close": 454.4,
+        "Percent Change": 10.0,
+        "Volume": 1533.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-02",
+        "Open": 375.6,
+        "High": 413.1,
+        "Low": 375.6,
+        "Close": 413.1,
+        "Percent Change": 9.98,
+        "Volume": 390.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-12-01",
+        "Open": 348.3,
+        "High": 375.6,
+        "Low": 348.3,
+        "Close": 375.6,
+        "Percent Change": 9.99,
+        "Volume": 150.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-11-30",
+        "Open": 316.7,
+        "High": 341.5,
+        "Low": 316.7,
+        "Close": 341.5,
+        "Percent Change": 9.98,
+        "Volume": 171.0
+    },
+    {
+        "Symbol": "NYADI",
+        "Date": "2021-11-29",
+        "Open": 282.3,
+        "High": 310.5,
+        "Low": 282.3,
+        "Close": 310.5,
+        "Percent Change": 0.0,
+        "Volume": 194.0
+    }
+]

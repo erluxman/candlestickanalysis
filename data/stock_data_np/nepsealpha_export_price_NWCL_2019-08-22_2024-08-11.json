@@ -1,0 +1,1512 @@
+[
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-08-11",
+        "Open":1138.0,
+        "High":1238.5,
+        "Low":1138.0,
+        "Close":1230.0,
+        "Percent Change":"9.24 %",
+        "Volume":"51,666.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-08-08",
+        "Open":1154.0,
+        "High":1200.0,
+        "Low":1120.1,
+        "Close":1126.0,
+        "Percent Change":"-1.23 %",
+        "Volume":"34,845.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-08-07",
+        "Open":1100.0,
+        "High":1150.0,
+        "Low":1090.0,
+        "Close":1140.0,
+        "Percent Change":"3.64 %",
+        "Volume":"25,459.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-08-06",
+        "Open":1239.0,
+        "High":1260.0,
+        "Low":1098.0,
+        "Close":1100.0,
+        "Percent Change":"-9.84 %",
+        "Volume":"68,331.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-08-05",
+        "Open":1200.0,
+        "High":1250.0,
+        "Low":1130.0,
+        "Close":1220.0,
+        "Percent Change":"3.39 %",
+        "Volume":"66,946.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-08-01",
+        "Open":1242.6,
+        "High":1264.0,
+        "Low":1180.0,
+        "Close":1180.0,
+        "Percent Change":"-5.04 %",
+        "Volume":"64,637.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-31",
+        "Open":1140.0,
+        "High":1242.6,
+        "Low":1135.0,
+        "Close":1242.6,
+        "Percent Change":"9.99 %",
+        "Volume":"56,106.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-30",
+        "Open":1015.5,
+        "High":1129.7,
+        "Low":1015.5,
+        "Close":1129.7,
+        "Percent Change":"10.00 %",
+        "Volume":"71,369.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-29",
+        "Open":1050.0,
+        "High":1074.0,
+        "Low":1027.0,
+        "Close":1027.0,
+        "Percent Change":"-2.28 %",
+        "Volume":"45,425.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-28",
+        "Open":1045.0,
+        "High":1070.0,
+        "Low":1016.1,
+        "Close":1051.0,
+        "Percent Change":"2.54 %",
+        "Volume":"36,767.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-25",
+        "Open":1050.0,
+        "High":1050.0,
+        "Low":1023.2,
+        "Close":1025.0,
+        "Percent Change":"-2.94 %",
+        "Volume":"46,352.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-24",
+        "Open":1100.0,
+        "High":1120.0,
+        "Low":1029.0,
+        "Close":1056.0,
+        "Percent Change":"-2.14 %",
+        "Volume":"52,931.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-23",
+        "Open":1000.5,
+        "High":1079.1,
+        "Low":1000.0,
+        "Close":1079.1,
+        "Percent Change":"10.00 %",
+        "Volume":"49,983.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-22",
+        "Open":926.2,
+        "High":1000.0,
+        "Low":921.0,
+        "Close":981.0,
+        "Percent Change":"5.71 %",
+        "Volume":"68,451.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-21",
+        "Open":935.0,
+        "High":955.0,
+        "Low":919.0,
+        "Close":928.0,
+        "Percent Change":"0.19 %",
+        "Volume":"47,923.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-18",
+        "Open":921.2,
+        "High":965.0,
+        "Low":921.2,
+        "Close":926.2,
+        "Percent Change":"-1.46 %",
+        "Volume":"52,787.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-17",
+        "Open":923.0,
+        "High":948.6,
+        "Low":905.1,
+        "Close":939.9,
+        "Percent Change":"1.83 %",
+        "Volume":"38,971.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-16",
+        "Open":891.0,
+        "High":925.0,
+        "Low":891.0,
+        "Close":923.0,
+        "Percent Change":"2.78 %",
+        "Volume":"27,085.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-15",
+        "Open":940.0,
+        "High":950.0,
+        "Low":896.1,
+        "Close":898.0,
+        "Percent Change":"-4.16 %",
+        "Volume":"51,393.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-14",
+        "Open":930.2,
+        "High":965.0,
+        "Low":917.0,
+        "Close":937.0,
+        "Percent Change":"2.74 %",
+        "Volume":"38,136.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-11",
+        "Open":893.0,
+        "High":915.0,
+        "Low":882.1,
+        "Close":912.0,
+        "Percent Change":"3.64 %",
+        "Volume":"41,785.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-10",
+        "Open":877.0,
+        "High":905.0,
+        "Low":872.1,
+        "Close":880.0,
+        "Percent Change":"0.34 %",
+        "Volume":"40,173.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-09",
+        "Open":862.6,
+        "High":897.3,
+        "Low":862.6,
+        "Close":877.0,
+        "Percent Change":"-0.34 %",
+        "Volume":"27,619.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-08",
+        "Open":881.1,
+        "High":915.0,
+        "Low":872.1,
+        "Close":880.0,
+        "Percent Change":"-2.10 %",
+        "Volume":"25,146.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-07",
+        "Open":897.0,
+        "High":922.0,
+        "Low":882.1,
+        "Close":898.9,
+        "Percent Change":"0.21 %",
+        "Volume":"39,341.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-04",
+        "Open":892.0,
+        "High":920.0,
+        "Low":888.0,
+        "Close":897.0,
+        "Percent Change":"0.56 %",
+        "Volume":"39,218.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-03",
+        "Open":892.9,
+        "High":915.0,
+        "Low":857.7,
+        "Close":892.0,
+        "Percent Change":"-0.11 %",
+        "Volume":"38,473.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-02",
+        "Open":889.4,
+        "High":935.0,
+        "Low":872.0,
+        "Close":893.0,
+        "Percent Change":"2.41 %",
+        "Volume":"21,537.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-07-01",
+        "Open":895.0,
+        "High":895.0,
+        "Low":867.3,
+        "Close":872.0,
+        "Percent Change":"-1.91 %",
+        "Volume":"22,649.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-30",
+        "Open":837.9,
+        "High":915.0,
+        "Low":837.9,
+        "Close":889.0,
+        "Percent Change":"3.98 %",
+        "Volume":"70,248.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-27",
+        "Open":860.4,
+        "High":882.0,
+        "Low":855.0,
+        "Close":855.0,
+        "Percent Change":"-2.51 %",
+        "Volume":"10,221.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-26",
+        "Open":840.0,
+        "High":899.0,
+        "Low":831.0,
+        "Close":877.0,
+        "Percent Change":"4.97 %",
+        "Volume":"45,896.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-25",
+        "Open":855.0,
+        "High":867.0,
+        "Low":835.0,
+        "Close":835.5,
+        "Percent Change":"-1.01 %",
+        "Volume":"17,010.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-24",
+        "Open":832.0,
+        "High":855.0,
+        "Low":830.0,
+        "Close":844.0,
+        "Percent Change":"1.44 %",
+        "Volume":"17,512.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-23",
+        "Open":843.1,
+        "High":860.0,
+        "Low":832.0,
+        "Close":832.0,
+        "Percent Change":"-3.24 %",
+        "Volume":"17,684.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-20",
+        "Open":858.1,
+        "High":877.5,
+        "Low":841.0,
+        "Close":859.9,
+        "Percent Change":"-1.05 %",
+        "Volume":"19,303.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-19",
+        "Open":848.7,
+        "High":889.0,
+        "Low":848.7,
+        "Close":869.0,
+        "Percent Change":"0.35 %",
+        "Volume":"20,927.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-18",
+        "Open":870.0,
+        "High":892.5,
+        "Low":848.7,
+        "Close":866.0,
+        "Percent Change":"0.00 %",
+        "Volume":"45,589.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-16",
+        "Open":895.0,
+        "High":904.7,
+        "Low":855.0,
+        "Close":866.0,
+        "Percent Change":"-3.78 %",
+        "Volume":"29,695.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-13",
+        "Open":876.2,
+        "High":928.2,
+        "Low":875.0,
+        "Close":900.0,
+        "Percent Change":"3.21 %",
+        "Volume":"62,705.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-12",
+        "Open":835.0,
+        "High":877.0,
+        "Low":835.0,
+        "Close":872.0,
+        "Percent Change":"5.30 %",
+        "Volume":"47,288.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-11",
+        "Open":854.0,
+        "High":855.0,
+        "Low":826.0,
+        "Close":828.1,
+        "Percent Change":"-1.18 %",
+        "Volume":"23,547.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-10",
+        "Open":865.0,
+        "High":867.0,
+        "Low":838.0,
+        "Close":838.0,
+        "Percent Change":"-2.21 %",
+        "Volume":"40,317.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-09",
+        "Open":850.0,
+        "High":880.0,
+        "Low":836.2,
+        "Close":856.9,
+        "Percent Change":"2.49 %",
+        "Volume":"49,169.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-06",
+        "Open":815.0,
+        "High":849.9,
+        "Low":810.3,
+        "Close":836.1,
+        "Percent Change":"2.34 %",
+        "Volume":"32,146.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-05",
+        "Open":816.0,
+        "High":830.0,
+        "Low":805.0,
+        "Close":817.0,
+        "Percent Change":"-1.30 %",
+        "Volume":"24,215.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-04",
+        "Open":833.0,
+        "High":844.0,
+        "Low":815.0,
+        "Close":827.8,
+        "Percent Change":"-1.10 %",
+        "Volume":"33,909.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-03",
+        "Open":820.0,
+        "High":889.0,
+        "Low":816.0,
+        "Close":837.0,
+        "Percent Change":"2.07 %",
+        "Volume":"51,842.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-06-02",
+        "Open":785.0,
+        "High":834.0,
+        "Low":764.0,
+        "Close":820.0,
+        "Percent Change":"3.81 %",
+        "Volume":"62,857.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-30",
+        "Open":841.0,
+        "High":848.0,
+        "Low":780.0,
+        "Close":789.9,
+        "Percent Change":"-5.96 %",
+        "Volume":"32,061.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-29",
+        "Open":807.8,
+        "High":871.2,
+        "Low":800.0,
+        "Close":840.0,
+        "Percent Change":"6.06 %",
+        "Volume":"89,166.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-27",
+        "Open":734.0,
+        "High":792.0,
+        "Low":711.6,
+        "Close":792.0,
+        "Percent Change":"10.00 %",
+        "Volume":"83,520.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-26",
+        "Open":720.0,
+        "High":735.0,
+        "Low":711.0,
+        "Close":720.0,
+        "Percent Change":"-1.37 %",
+        "Volume":"8,980.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-22",
+        "Open":721.1,
+        "High":745.0,
+        "Low":721.1,
+        "Close":730.0,
+        "Percent Change":"-0.41 %",
+        "Volume":"7,662.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-21",
+        "Open":730.0,
+        "High":735.0,
+        "Low":720.3,
+        "Close":733.0,
+        "Percent Change":"0.41 %",
+        "Volume":"10,475.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-20",
+        "Open":730.0,
+        "High":758.4,
+        "Low":725.0,
+        "Close":730.0,
+        "Percent Change":"-0.30 %",
+        "Volume":"9,103.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-19",
+        "Open":722.0,
+        "High":750.0,
+        "Low":722.0,
+        "Close":732.2,
+        "Percent Change":"-0.44 %",
+        "Volume":"8,046.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-16",
+        "Open":712.0,
+        "High":735.4,
+        "Low":712.0,
+        "Close":735.4,
+        "Percent Change":"2.12 %",
+        "Volume":"11,091.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-15",
+        "Open":739.0,
+        "High":739.0,
+        "Low":719.6,
+        "Close":720.1,
+        "Percent Change":"-1.87 %",
+        "Volume":"9,011.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-14",
+        "Open":737.0,
+        "High":737.0,
+        "Low":721.0,
+        "Close":733.8,
+        "Percent Change":"-0.84 %",
+        "Volume":"14,660.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-13",
+        "Open":745.0,
+        "High":749.0,
+        "Low":734.1,
+        "Close":740.0,
+        "Percent Change":"-1.20 %",
+        "Volume":"23,392.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-12",
+        "Open":720.3,
+        "High":760.0,
+        "Low":720.2,
+        "Close":749.0,
+        "Percent Change":"3.45 %",
+        "Volume":"21,415.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-09",
+        "Open":700.0,
+        "High":734.4,
+        "Low":700.0,
+        "Close":724.0,
+        "Percent Change":"2.27 %",
+        "Volume":"11,953.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-08",
+        "Open":691.2,
+        "High":711.0,
+        "Low":691.2,
+        "Close":707.9,
+        "Percent Change":"0.41 %",
+        "Volume":"1,560.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-07",
+        "Open":678.0,
+        "High":715.0,
+        "Low":678.0,
+        "Close":705.0,
+        "Percent Change":"2.03 %",
+        "Volume":"10,423.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-06",
+        "Open":709.0,
+        "High":709.0,
+        "Low":688.0,
+        "Close":691.0,
+        "Percent Change":"-2.68 %",
+        "Volume":"7,473.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-05",
+        "Open":725.0,
+        "High":738.8,
+        "Low":708.0,
+        "Close":710.0,
+        "Percent Change":"-2.32 %",
+        "Volume":"8,762.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-05-02",
+        "Open":723.1,
+        "High":745.0,
+        "Low":721.0,
+        "Close":726.9,
+        "Percent Change":"-1.10 %",
+        "Volume":"4,902.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-30",
+        "Open":715.0,
+        "High":745.0,
+        "Low":715.0,
+        "Close":735.0,
+        "Percent Change":"0.96 %",
+        "Volume":"8,120.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-29",
+        "Open":722.0,
+        "High":733.0,
+        "Low":720.1,
+        "Close":728.0,
+        "Percent Change":"-0.82 %",
+        "Volume":"3,596.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-28",
+        "Open":729.0,
+        "High":742.0,
+        "Low":720.0,
+        "Close":734.0,
+        "Percent Change":"0.69 %",
+        "Volume":"2,819.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-25",
+        "Open":715.6,
+        "High":734.4,
+        "Low":715.6,
+        "Close":729.0,
+        "Percent Change":"1.67 %",
+        "Volume":"4,475.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-24",
+        "Open":708.0,
+        "High":730.0,
+        "Low":708.0,
+        "Close":717.0,
+        "Percent Change":"0.00 %",
+        "Volume":"3,593.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-22",
+        "Open":744.6,
+        "High":759.3,
+        "Low":716.0,
+        "Close":717.0,
+        "Percent Change":"-1.78 %",
+        "Volume":"5,194.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-21",
+        "Open":735.0,
+        "High":735.0,
+        "Low":712.1,
+        "Close":730.0,
+        "Percent Change":"0.83 %",
+        "Volume":"4,758.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-18",
+        "Open":735.0,
+        "High":735.0,
+        "Low":715.0,
+        "Close":724.0,
+        "Percent Change":"-2.29 %",
+        "Volume":"8,820.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-16",
+        "Open":735.1,
+        "High":755.0,
+        "Low":735.0,
+        "Close":741.0,
+        "Percent Change":"-0.94 %",
+        "Volume":"5,582.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-15",
+        "Open":740.1,
+        "High":759.9,
+        "Low":740.1,
+        "Close":748.0,
+        "Percent Change":"0.40 %",
+        "Volume":"9,947.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-14",
+        "Open":735.0,
+        "High":750.0,
+        "Low":730.0,
+        "Close":745.0,
+        "Percent Change":"-0.67 %",
+        "Volume":"8,990.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-10",
+        "Open":777.0,
+        "High":777.0,
+        "Low":750.0,
+        "Close":750.0,
+        "Percent Change":"-1.83 %",
+        "Volume":"11,010.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-09",
+        "Open":750.0,
+        "High":764.0,
+        "Low":735.0,
+        "Close":764.0,
+        "Percent Change":"2.55 %",
+        "Volume":"37,017.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-07",
+        "Open":723.0,
+        "High":745.0,
+        "Low":713.5,
+        "Close":745.0,
+        "Percent Change":"3.04 %",
+        "Volume":"9,953.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-04",
+        "Open":724.0,
+        "High":738.0,
+        "Low":718.0,
+        "Close":723.0,
+        "Percent Change":"-0.41 %",
+        "Volume":"12,066.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-03",
+        "Open":725.0,
+        "High":739.0,
+        "Low":720.0,
+        "Close":726.0,
+        "Percent Change":"-0.55 %",
+        "Volume":"9,702.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-02",
+        "Open":729.0,
+        "High":740.0,
+        "Low":723.5,
+        "Close":730.0,
+        "Percent Change":"-0.68 %",
+        "Volume":"8,969.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-04-01",
+        "Open":730.0,
+        "High":740.0,
+        "Low":723.8,
+        "Close":735.0,
+        "Percent Change":"-0.14 %",
+        "Volume":"6,128.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-31",
+        "Open":738.0,
+        "High":750.9,
+        "Low":726.0,
+        "Close":736.0,
+        "Percent Change":"-0.03 %",
+        "Volume":"6,541.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-28",
+        "Open":737.0,
+        "High":750.0,
+        "Low":735.1,
+        "Close":736.2,
+        "Percent Change":"-1.56 %",
+        "Volume":"9,991.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-27",
+        "Open":740.0,
+        "High":777.0,
+        "Low":735.5,
+        "Close":747.9,
+        "Percent Change":"-0.01 %",
+        "Volume":"7,374.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-26",
+        "Open":760.0,
+        "High":760.0,
+        "Low":738.0,
+        "Close":748.0,
+        "Percent Change":"-0.27 %",
+        "Volume":"5,756.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-25",
+        "Open":738.0,
+        "High":750.0,
+        "Low":738.0,
+        "Close":750.0,
+        "Percent Change":"0.00 %",
+        "Volume":"10,022.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-21",
+        "Open":776.2,
+        "High":776.2,
+        "Low":742.0,
+        "Close":750.0,
+        "Percent Change":"-1.45 %",
+        "Volume":"5,967.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-20",
+        "Open":777.9,
+        "High":777.9,
+        "Low":735.0,
+        "Close":761.0,
+        "Percent Change":"-0.52 %",
+        "Volume":"16,977.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-19",
+        "Open":766.0,
+        "High":780.0,
+        "Low":760.0,
+        "Close":765.0,
+        "Percent Change":"-0.20 %",
+        "Volume":"8,639.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-18",
+        "Open":763.0,
+        "High":780.0,
+        "Low":763.0,
+        "Close":766.5,
+        "Percent Change":"-0.96 %",
+        "Volume":"5,544.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-17",
+        "Open":761.0,
+        "High":779.0,
+        "Low":761.0,
+        "Close":773.9,
+        "Percent Change":"0.51 %",
+        "Volume":"8,849.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-14",
+        "Open":761.1,
+        "High":788.0,
+        "Low":761.1,
+        "Close":770.0,
+        "Percent Change":"-0.39 %",
+        "Volume":"12,839.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-13",
+        "Open":799.0,
+        "High":800.0,
+        "Low":770.1,
+        "Close":773.0,
+        "Percent Change":"-1.47 %",
+        "Volume":"16,308.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-12",
+        "Open":765.2,
+        "High":786.4,
+        "Low":765.2,
+        "Close":784.5,
+        "Percent Change":"1.36 %",
+        "Volume":"17,561.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-10",
+        "Open":769.0,
+        "High":780.0,
+        "Low":755.0,
+        "Close":774.0,
+        "Percent Change":"0.65 %",
+        "Volume":"11,430.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-07",
+        "Open":778.0,
+        "High":779.2,
+        "Low":751.5,
+        "Close":769.0,
+        "Percent Change":"0.65 %",
+        "Volume":"7,574.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-06",
+        "Open":741.0,
+        "High":775.2,
+        "Low":735.6,
+        "Close":764.0,
+        "Percent Change":"1.19 %",
+        "Volume":"19,053.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-05",
+        "Open":808.0,
+        "High":808.0,
+        "Low":746.5,
+        "Close":755.0,
+        "Percent Change":"-5.63 %",
+        "Volume":"26,085.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-04",
+        "Open":744.7,
+        "High":803.1,
+        "Low":744.7,
+        "Close":800.0,
+        "Percent Change":"9.57 %",
+        "Volume":"640.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-03-03",
+        "Open":740.0,
+        "High":750.0,
+        "Low":730.0,
+        "Close":730.1,
+        "Percent Change":"-1.32 %",
+        "Volume":"10,273.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-29",
+        "Open":764.0,
+        "High":775.0,
+        "Low":731.0,
+        "Close":739.9,
+        "Percent Change":"-4.53 %",
+        "Volume":"16,256.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-28",
+        "Open":801.0,
+        "High":803.9,
+        "Low":775.0,
+        "Close":775.0,
+        "Percent Change":"-3.13 %",
+        "Volume":"13,853.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-27",
+        "Open":786.0,
+        "High":815.0,
+        "Low":780.0,
+        "Close":800.0,
+        "Percent Change":"-0.25 %",
+        "Volume":"29,229.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-26",
+        "Open":754.2,
+        "High":815.0,
+        "Low":739.2,
+        "Close":802.0,
+        "Percent Change":"7.65 %",
+        "Volume":"31,862.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-25",
+        "Open":750.0,
+        "High":765.2,
+        "Low":739.0,
+        "Close":745.0,
+        "Percent Change":"-2.61 %",
+        "Volume":"26,116.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-22",
+        "Open":734.3,
+        "High":790.0,
+        "Low":734.3,
+        "Close":765.0,
+        "Percent Change":"2.18 %",
+        "Volume":"33,368.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-21",
+        "Open":695.8,
+        "High":748.7,
+        "Low":695.8,
+        "Close":748.7,
+        "Percent Change":"5.45 %",
+        "Volume":"23,600.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-20",
+        "Open":710.0,
+        "High":752.9,
+        "Low":687.0,
+        "Close":710.0,
+        "Percent Change":"1.57 %",
+        "Volume":"14,096.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-18",
+        "Open":712.0,
+        "High":717.0,
+        "Low":695.8,
+        "Close":699.0,
+        "Percent Change":"-3.37 %",
+        "Volume":"19,487.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-15",
+        "Open":722.4,
+        "High":768.0,
+        "Low":722.4,
+        "Close":723.4,
+        "Percent Change":"-1.44 %",
+        "Volume":"12,099.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-14",
+        "Open":742.0,
+        "High":751.0,
+        "Low":733.0,
+        "Close":734.0,
+        "Percent Change":"-2.13 %",
+        "Volume":"7,944.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-13",
+        "Open":760.1,
+        "High":767.0,
+        "Low":743.6,
+        "Close":750.0,
+        "Percent Change":"-3.23 %",
+        "Volume":"14,806.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-12",
+        "Open":760.0,
+        "High":777.0,
+        "Low":760.0,
+        "Close":775.0,
+        "Percent Change":"1.31 %",
+        "Volume":"8,881.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-11",
+        "Open":761.5,
+        "High":785.4,
+        "Low":761.5,
+        "Close":765.0,
+        "Percent Change":"-1.54 %",
+        "Volume":"11,267.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-08",
+        "Open":760.0,
+        "High":780.0,
+        "Low":760.0,
+        "Close":777.0,
+        "Percent Change":"0.54 %",
+        "Volume":"6,730.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-07",
+        "Open":787.0,
+        "High":787.0,
+        "Low":761.5,
+        "Close":772.8,
+        "Percent Change":"-0.92 %",
+        "Volume":"9,480.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-06",
+        "Open":755.5,
+        "High":785.5,
+        "Low":755.5,
+        "Close":780.0,
+        "Percent Change":"1.69 %",
+        "Volume":"13,235.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-05",
+        "Open":775.1,
+        "High":804.0,
+        "Low":767.0,
+        "Close":767.0,
+        "Percent Change":"-2.79 %",
+        "Volume":"15,739.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-04",
+        "Open":810.0,
+        "High":811.1,
+        "Low":780.0,
+        "Close":789.0,
+        "Percent Change":"-3.78 %",
+        "Volume":"18,624.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-02-01",
+        "Open":820.0,
+        "High":837.0,
+        "Low":815.0,
+        "Close":820.0,
+        "Percent Change":"-1.91 %",
+        "Volume":"19,467.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-31",
+        "Open":839.0,
+        "High":850.0,
+        "Low":798.0,
+        "Close":836.0,
+        "Percent Change":"-2.34 %",
+        "Volume":"56,229.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-30",
+        "Open":850.0,
+        "High":871.5,
+        "Low":847.3,
+        "Close":856.0,
+        "Percent Change":"-0.12 %",
+        "Volume":"19,619.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-29",
+        "Open":850.0,
+        "High":892.0,
+        "Low":850.0,
+        "Close":857.0,
+        "Percent Change":"-0.35 %",
+        "Volume":"15,019.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-28",
+        "Open":850.0,
+        "High":871.0,
+        "Low":849.0,
+        "Close":860.0,
+        "Percent Change":"-0.58 %",
+        "Volume":"21,274.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-25",
+        "Open":868.0,
+        "High":891.0,
+        "Low":858.0,
+        "Close":865.0,
+        "Percent Change":"-1.42 %",
+        "Volume":"27,013.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-24",
+        "Open":860.0,
+        "High":900.0,
+        "Low":860.0,
+        "Close":877.5,
+        "Percent Change":"0.29 %",
+        "Volume":"25,662.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-23",
+        "Open":838.0,
+        "High":876.0,
+        "Low":838.0,
+        "Close":875.0,
+        "Percent Change":"2.34 %",
+        "Volume":"32,691.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-22",
+        "Open":889.6,
+        "High":889.6,
+        "Low":836.6,
+        "Close":855.0,
+        "Percent Change":"-4.21 %",
+        "Volume":"57,058.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-21",
+        "Open":900.0,
+        "High":915.0,
+        "Low":885.0,
+        "Close":892.6,
+        "Percent Change":"-1.04 %",
+        "Volume":"47,406.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-18",
+        "Open":976.5,
+        "High":996.0,
+        "Low":861.7,
+        "Close":902.0,
+        "Percent Change":"-5.79 %",
+        "Volume":"170,936.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-17",
+        "Open":887.8,
+        "High":957.4,
+        "Low":887.8,
+        "Close":957.4,
+        "Percent Change":"10.00 %",
+        "Volume":"7,631.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-16",
+        "Open":791.0,
+        "High":870.4,
+        "Low":791.0,
+        "Close":870.4,
+        "Percent Change":"10.00 %",
+        "Volume":"2,120.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-14",
+        "Open":733.7,
+        "High":791.3,
+        "Low":733.7,
+        "Close":791.3,
+        "Percent Change":"9.99 %",
+        "Volume":"2,520.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-11",
+        "Open":655.4,
+        "High":719.4,
+        "Low":655.4,
+        "Close":719.4,
+        "Percent Change":"10.00 %",
+        "Volume":"2,180.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-10",
+        "Open":594.0,
+        "High":654.0,
+        "Low":594.0,
+        "Close":654.0,
+        "Percent Change":"9.99 %",
+        "Volume":"2,040.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-09",
+        "Open":551.2,
+        "High":594.6,
+        "Low":551.2,
+        "Close":594.6,
+        "Percent Change":"9.99 %",
+        "Volume":"2,170.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-08",
+        "Open":481.8,
+        "High":540.6,
+        "Low":481.8,
+        "Close":540.6,
+        "Percent Change":"9.99 %",
+        "Volume":"3,122.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-07",
+        "Open":455.8,
+        "High":491.5,
+        "Low":455.8,
+        "Close":491.5,
+        "Percent Change":"9.98 %",
+        "Volume":"2,290.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-04",
+        "Open":414.4,
+        "High":446.9,
+        "Low":414.4,
+        "Close":446.9,
+        "Percent Change":"9.99 %",
+        "Volume":"2,380.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-03",
+        "Open":376.7,
+        "High":406.3,
+        "Low":376.7,
+        "Close":406.3,
+        "Percent Change":"9.99 %",
+        "Volume":"2,558.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-02",
+        "Open":342.6,
+        "High":369.4,
+        "Low":342.6,
+        "Close":369.4,
+        "Percent Change":"9.97 %",
+        "Volume":"2,040.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2024-01-01",
+        "Open":311.5,
+        "High":335.9,
+        "Low":311.5,
+        "Close":335.9,
+        "Percent Change":"9.99 %",
+        "Volume":"2,381.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2023-12-28",
+        "Open":277.7,
+        "High":305.4,
+        "Low":277.7,
+        "Close":305.4,
+        "Percent Change":"9.97 %",
+        "Volume":"1,963.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2023-12-27",
+        "Open":252.0,
+        "High":277.7,
+        "Low":252.0,
+        "Close":277.7,
+        "Percent Change":"9.98 %",
+        "Volume":"1,382.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2023-12-24",
+        "Open":234.1,
+        "High":252.5,
+        "Low":234.1,
+        "Close":252.5,
+        "Percent Change":"9.97 %",
+        "Volume":"1,461.00"
+    },
+    {
+        "Symbol":"NWCL",
+        "Date":"2023-12-21",
+        "Open":208.8,
+        "High":229.6,
+        "Low":208.8,
+        "Close":229.6,
+        "Percent Change":"0.00 %",
+        "Volume":"995.00"
+    }
+]
