@@ -1,0 +1,1522 @@
+[
+    {
+        "Date": "2024-02-28",
+        "Open": 319.4,
+        "High": 327.5,
+        "Low": 319.4,
+        "Close": 327.5,
+        "Percent Change": 0.49,
+        "Volume": 42345,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2019-11-27",
+        "Open": 722.0,
+        "High": 765.0,
+        "Low": 722.0,
+        "Close": 764.0,
+        "Percent Change": 5.23,
+        "Volume": 477,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-07-01",
+        "Open": 1140.0,
+        "High": 1224.0,
+        "Low": 1140.0,
+        "Close": 1224.0,
+        "Percent Change": 7.84,
+        "Volume": 934,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-01-04",
+        "Open": 275.0,
+        "High": 291.0,
+        "Low": 273.1,
+        "Close": 291.0,
+        "Percent Change": 6.2,
+        "Volume": 59764,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-12-21",
+        "Open": 872.0,
+        "High": 901.0,
+        "Low": 872.0,
+        "Close": 901.0,
+        "Percent Change": 1.35,
+        "Volume": 325,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-04-30",
+        "Open": 965.0,
+        "High": 1079.0,
+        "Low": 965.0,
+        "Close": 1079.0,
+        "Percent Change": 9.99,
+        "Volume": 20363,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-05-02",
+        "Open": 1057.5,
+        "High": 1186.9,
+        "Low": 1037.0,
+        "Close": 1186.9,
+        "Percent Change": 10.0,
+        "Volume": 31933,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-03-10",
+        "Open": 10.1,
+        "High": 10.25,
+        "Low": 10.1,
+        "Close": 10.25,
+        "Percent Change": 0.1,
+        "Volume": 3100,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-09-27",
+        "Open": 124.0,
+        "High": 136.0,
+        "Low": 124.0,
+        "Close": 136.0,
+        "Percent Change": 9.68,
+        "Volume": 27277,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-10-07",
+        "Open": 147.0,
+        "High": 169.0,
+        "Low": 147.0,
+        "Close": 169.0,
+        "Percent Change": 9.74,
+        "Volume": 44247,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-10-20",
+        "Open": 176.0,
+        "High": 193.0,
+        "Low": 176.0,
+        "Close": 193.0,
+        "Percent Change": 9.66,
+        "Volume": 24995,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-07-08",
+        "Open": 1380.0,
+        "High": 1435.0,
+        "Low": 1370.0,
+        "Close": 1434.0,
+        "Percent Change": 3.91,
+        "Volume": 22647,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-12-14",
+        "Open": 981.0,
+        "High": 1072.0,
+        "Low": 981.0,
+        "Close": 1072.0,
+        "Percent Change": 0.1,
+        "Volume": 2939,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-02-28",
+        "Open": 949.9,
+        "High": 969.6,
+        "Low": 932.0,
+        "Close": 969.6,
+        "Percent Change": 2.39,
+        "Volume": 184,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-02-08",
+        "Open": 839.2,
+        "High": 923.2,
+        "Low": 839.2,
+        "Close": 923.2,
+        "Percent Change": 10.0,
+        "Volume": 110,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-06-13",
+        "Open": 640.0,
+        "High": 678.3,
+        "Low": 640.0,
+        "Close": 678.3,
+        "Percent Change": 5.65,
+        "Volume": 1491,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-01-11",
+        "Open": 655.4,
+        "High": 719.4,
+        "Low": 655.4,
+        "Close": 719.4,
+        "Percent Change": 10.0,
+        "Volume": 2180,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-06-09",
+        "Open": 1094.0,
+        "High": 1203.1,
+        "Low": 1000.0,
+        "Close": 1203.1,
+        "Percent Change": 9.99,
+        "Volume": 27952,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-11-01",
+        "Open": 353.0,
+        "High": 385.9,
+        "Low": 350.0,
+        "Close": 385.9,
+        "Percent Change": 7.82,
+        "Volume": 37852,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-04-07",
+        "Open": 1499.4,
+        "High": 1679.0,
+        "Low": 1384.0,
+        "Close": 1679.0,
+        "Percent Change": 9.74,
+        "Volume": 9744,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-01-19",
+        "Open": 640.0,
+        "High": 714.0,
+        "Low": 615.0,
+        "Close": 714.0,
+        "Percent Change": 9.96,
+        "Volume": 17399,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-02-27",
+        "Open": 519.8,
+        "High": 583.4,
+        "Low": 515.0,
+        "Close": 580.0,
+        "Percent Change": 9.35,
+        "Volume": 20866,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-06-04",
+        "Open": 399.8,
+        "High": 415.0,
+        "Low": 391.3,
+        "Close": 415.0,
+        "Percent Change": 3.98,
+        "Volume": 2843,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-05-10",
+        "Open": 392.0,
+        "High": 404.2,
+        "Low": 381.0,
+        "Close": 404.2,
+        "Percent Change": 3.11,
+        "Volume": 4595,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-05-11",
+        "Open": 396.2,
+        "High": 417.0,
+        "Low": 387.0,
+        "Close": 415.0,
+        "Percent Change": 2.67,
+        "Volume": 6680,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-04-24",
+        "Open": 696.2,
+        "High": 780.6,
+        "Low": 696.2,
+        "Close": 780.6,
+        "Percent Change": 9.99,
+        "Volume": 109,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-04-25",
+        "Open": 780.5,
+        "High": 858.6,
+        "Low": 780.5,
+        "Close": 858.6,
+        "Percent Change": 9.99,
+        "Volume": 77,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-05-05",
+        "Open": 1382.4,
+        "High": 1520.6,
+        "Low": 1382.4,
+        "Close": 1520.6,
+        "Percent Change": 10.0,
+        "Volume": 4241,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-12-30",
+        "Open": 843.0,
+        "High": 885.0,
+        "Low": 843.0,
+        "Close": 885.0,
+        "Percent Change": 0.03,
+        "Volume": 4715,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-07-15",
+        "Open": 1107.6,
+        "High": 1198.5,
+        "Low": 1064.0,
+        "Close": 1198.5,
+        "Percent Change": 6.05,
+        "Volume": 5812,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-11-27",
+        "Open": 367.8,
+        "High": 376.0,
+        "Low": 362.0,
+        "Close": 376.0,
+        "Percent Change": 0.19,
+        "Volume": 3780,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-07-18",
+        "Open": 309.9,
+        "High": 315.0,
+        "Low": 308.0,
+        "Close": 315.0,
+        "Percent Change": 1.65,
+        "Volume": 52175,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-01-01",
+        "Open": 8.59,
+        "High": 9.2,
+        "Low": 8.5,
+        "Close": 9.2,
+        "Percent Change": 7.1,
+        "Volume": 22920,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-01-02",
+        "Open": 641.0,
+        "High": 666.0,
+        "Low": 641.0,
+        "Close": 666.0,
+        "Percent Change": 2.15,
+        "Volume": 509,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-12-13",
+        "Open": 896.0,
+        "High": 930.0,
+        "Low": 890.0,
+        "Close": 930.0,
+        "Percent Change": 0.02,
+        "Volume": 1374,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-12-14",
+        "Open": 912.0,
+        "High": 965.0,
+        "Low": 912.0,
+        "Close": 964.0,
+        "Percent Change": 0.04,
+        "Volume": 5018,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-05-06",
+        "Open": 678.0,
+        "High": 731.0,
+        "Low": 678.0,
+        "Close": 731.0,
+        "Percent Change": 9.92,
+        "Volume": 51,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-05-09",
+        "Open": 731.0,
+        "High": 804.0,
+        "Low": 731.0,
+        "Close": 804.0,
+        "Percent Change": 9.99,
+        "Volume": 10,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-03-09",
+        "Open": 730.0,
+        "High": 750.0,
+        "Low": 730.0,
+        "Close": 750.0,
+        "Percent Change": 2.74,
+        "Volume": 389,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-12-18",
+        "Open": 643.0,
+        "High": 678.0,
+        "Low": 635.0,
+        "Close": 678.0,
+        "Percent Change": 5.51,
+        "Volume": 52989,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-09-14",
+        "Open": 9.56,
+        "High": 9.94,
+        "Low": 9.56,
+        "Close": 9.94,
+        "Percent Change": 1.95,
+        "Volume": 600,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-11-26",
+        "Open": 10.5,
+        "High": 10.81,
+        "Low": 10.5,
+        "Close": 10.81,
+        "Percent Change": 0.03,
+        "Volume": 7280,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-01-04",
+        "Open": 333.8,
+        "High": 374.0,
+        "Low": 327.2,
+        "Close": 374.0,
+        "Percent Change": 9.81,
+        "Volume": 10673,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-01-05",
+        "Open": 366.6,
+        "High": 411.4,
+        "Low": 352.2,
+        "Close": 411.0,
+        "Percent Change": 9.89,
+        "Volume": 7940,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-06-11",
+        "Open": 1345.0,
+        "High": 1509.3,
+        "Low": 1345.0,
+        "Close": 1509.3,
+        "Percent Change": 10.0,
+        "Volume": 9899,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-08-06",
+        "Open": 2011.0,
+        "High": 2254.0,
+        "Low": 1880.0,
+        "Close": 2254.0,
+        "Percent Change": 9.97,
+        "Volume": 11078,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-08-07",
+        "Open": 2209.0,
+        "High": 2479.0,
+        "Low": 2028.7,
+        "Close": 2479.0,
+        "Percent Change": 9.98,
+        "Volume": 14120,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-08-08",
+        "Open": 2429.5,
+        "High": 2726.0,
+        "Low": 2231.1,
+        "Close": 2726.0,
+        "Percent Change": 9.96,
+        "Volume": 15555,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-06-27",
+        "Open": 350.8,
+        "High": 382.5,
+        "Low": 350.8,
+        "Close": 382.5,
+        "Percent Change": 9.98,
+        "Volume": 1170,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-11-06",
+        "Open": 530.0,
+        "High": 560.0,
+        "Low": 521.3,
+        "Close": 559.9,
+        "Percent Change": 5.66,
+        "Volume": 18615,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-05-02",
+        "Open": 1270.0,
+        "High": 1318.0,
+        "Low": 1235.0,
+        "Close": 1318.0,
+        "Percent Change": 3.37,
+        "Volume": 4143,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-08-10",
+        "Open": 119.0,
+        "High": 122.0,
+        "Low": 118.0,
+        "Close": 122.0,
+        "Percent Change": 2.52,
+        "Volume": 16094,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-06-07",
+        "Open": 1050.0,
+        "High": 1160.0,
+        "Low": 1009.0,
+        "Close": 1160.0,
+        "Percent Change": 9.95,
+        "Volume": 147624,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-12-20",
+        "Open": 904.6,
+        "High": 1015.3,
+        "Low": 830.7,
+        "Close": 1015.3,
+        "Percent Change": 10.0,
+        "Volume": 227143,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-04-13",
+        "Open": 456.2,
+        "High": 501.8,
+        "Low": 456.2,
+        "Close": 501.8,
+        "Percent Change": 10.0,
+        "Volume": 1004,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-07-15",
+        "Open": 465.0,
+        "High": 492.6,
+        "Low": 443.1,
+        "Close": 492.6,
+        "Percent Change": 6.85,
+        "Volume": 2882,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-11-27",
+        "Open": 12900.0,
+        "High": 13260.0,
+        "Low": 12450.0,
+        "Close": 13260.0,
+        "Percent Change": 2.79,
+        "Volume": 710,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-09-11",
+        "Open": 336.9,
+        "High": 378.0,
+        "Low": 310.9,
+        "Close": 378.0,
+        "Percent Change": 9.98,
+        "Volume": 36763,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-09-21",
+        "Open": 400.4,
+        "High": 449.3,
+        "Low": 395.0,
+        "Close": 449.3,
+        "Percent Change": 9.99,
+        "Volume": 63479,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-09-24",
+        "Open": 440.4,
+        "High": 493.0,
+        "Low": 404.4,
+        "Close": 493.0,
+        "Percent Change": 9.73,
+        "Volume": 67281,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-09-16",
+        "Open": 820.0,
+        "High": 899.9,
+        "Low": 820.0,
+        "Close": 899.9,
+        "Percent Change": 10.0,
+        "Volume": 60,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-01-10",
+        "Open": 702.7,
+        "High": 788.7,
+        "Low": 665.1,
+        "Close": 788.7,
+        "Percent Change": 10.0,
+        "Volume": 4277,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-01-13",
+        "Open": 9.24,
+        "High": 9.35,
+        "Low": 9.15,
+        "Close": 9.35,
+        "Percent Change": 1.19,
+        "Volume": 20900,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-01-16",
+        "Open": 9.35,
+        "High": 9.5,
+        "Low": 9.18,
+        "Close": 9.5,
+        "Percent Change": 1.6,
+        "Volume": 18710,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-03-29",
+        "Open": 9.17,
+        "High": 9.47,
+        "Low": 9.12,
+        "Close": 9.47,
+        "Percent Change": 1.28,
+        "Volume": 5500,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2019-09-18",
+        "Open": 483.0,
+        "High": 502.0,
+        "Low": 472.0,
+        "Close": 502.0,
+        "Percent Change": 3.93,
+        "Volume": 847,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-12-14",
+        "Open": 884.0,
+        "High": 942.0,
+        "Low": 884.0,
+        "Close": 940.0,
+        "Percent Change": 0.06,
+        "Volume": 8723,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-06-13",
+        "Open": 738.7,
+        "High": 768.0,
+        "Low": 738.7,
+        "Close": 768.0,
+        "Percent Change": 3.94,
+        "Volume": 827,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-04-10",
+        "Open": 574.3,
+        "High": 626.0,
+        "Low": 553.0,
+        "Close": 626.0,
+        "Percent Change": 6.83,
+        "Volume": 82115,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2019-12-09",
+        "Open": 270.0,
+        "High": 286.0,
+        "Low": 265.0,
+        "Close": 286.0,
+        "Percent Change": 5.93,
+        "Volume": 15338,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-12-26",
+        "Open": 743.0,
+        "High": 817.3,
+        "Low": 743.0,
+        "Close": 817.0,
+        "Percent Change": 9.96,
+        "Volume": 55922,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-11-26",
+        "Open": 775.0,
+        "High": 800.3,
+        "Low": 753.7,
+        "Close": 800.0,
+        "Percent Change": 1.95,
+        "Volume": 42978,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-10-13",
+        "Open": 754.0,
+        "High": 775.0,
+        "Low": 754.0,
+        "Close": 774.0,
+        "Percent Change": 1.45,
+        "Volume": 457,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-12-14",
+        "Open": 783.3,
+        "High": 809.0,
+        "Low": 783.3,
+        "Close": 809.0,
+        "Percent Change": 1.23,
+        "Volume": 401,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-02-28",
+        "Open": 832.0,
+        "High": 860.0,
+        "Low": 832.0,
+        "Close": 860.0,
+        "Percent Change": 1.78,
+        "Volume": 174,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-12-01",
+        "Open": 930.1,
+        "High": 966.3,
+        "Low": 930.1,
+        "Close": 966.3,
+        "Percent Change": 1.98,
+        "Volume": 210,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-07-16",
+        "Open": 120.0,
+        "High": 125.0,
+        "Low": 120.0,
+        "Close": 125.0,
+        "Percent Change": 2.46,
+        "Volume": 140,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-09-17",
+        "Open": 197.0,
+        "High": 218.0,
+        "Low": 197.0,
+        "Close": 218.0,
+        "Percent Change": 9.55,
+        "Volume": 6185,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-08-23",
+        "Open": 353.0,
+        "High": 364.8,
+        "Low": 350.0,
+        "Close": 363.9,
+        "Percent Change": 1.65,
+        "Volume": 2629,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2019-12-02",
+        "Open": 728.0,
+        "High": 748.0,
+        "Low": 728.0,
+        "Close": 747.0,
+        "Percent Change": 1.22,
+        "Volume": 670,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2019-12-03",
+        "Open": 740.0,
+        "High": 751.0,
+        "Low": 740.0,
+        "Close": 751.0,
+        "Percent Change": 0.54,
+        "Volume": 2209,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-08-25",
+        "Open": 796.0,
+        "High": 835.0,
+        "Low": 796.0,
+        "Close": 834.0,
+        "Percent Change": 3.73,
+        "Volume": 685,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-08-26",
+        "Open": 826.0,
+        "High": 860.0,
+        "Low": 826.0,
+        "Close": 860.0,
+        "Percent Change": 3.12,
+        "Volume": 1380,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-05-26",
+        "Open": 1495.0,
+        "High": 1535.0,
+        "Low": 1493.0,
+        "Close": 1535.0,
+        "Percent Change": 1.66,
+        "Volume": 1574,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-07-16",
+        "Open": 916.3,
+        "High": 949.0,
+        "Low": 916.3,
+        "Close": 949.0,
+        "Percent Change": 1.5,
+        "Volume": 43,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-01-04",
+        "Open": 720.0,
+        "High": 775.0,
+        "Low": 706.0,
+        "Close": 775.0,
+        "Percent Change": 7.62,
+        "Volume": 76502,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-10-07",
+        "Open": 132.0,
+        "High": 145.0,
+        "Low": 128.0,
+        "Close": 145.0,
+        "Percent Change": 9.85,
+        "Volume": 25855,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-11-26",
+        "Open": 346.0,
+        "High": 375.0,
+        "Low": 339.1,
+        "Close": 375.0,
+        "Percent Change": 6.23,
+        "Volume": 10751,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-12-26",
+        "Open": 538.0,
+        "High": 600.6,
+        "Low": 538.0,
+        "Close": 600.6,
+        "Percent Change": 10.0,
+        "Volume": 32644,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-01-25",
+        "Open": 479.0,
+        "High": 526.0,
+        "Low": 461.0,
+        "Close": 526.0,
+        "Percent Change": 0.1,
+        "Volume": 47755,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-04-12",
+        "Open": 439.0,
+        "High": 455.0,
+        "Low": 435.0,
+        "Close": 455.0,
+        "Percent Change": 3.53,
+        "Volume": 6520,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-09-21",
+        "Open": 350.0,
+        "High": 386.0,
+        "Low": 350.0,
+        "Close": 385.0,
+        "Percent Change": 9.69,
+        "Volume": 5419,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-07-18",
+        "Open": 935.0,
+        "High": 972.0,
+        "Low": 861.0,
+        "Close": 972.0,
+        "Percent Change": 1.8900000000000001,
+        "Volume": 24516,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-05-17",
+        "Open": 566.0,
+        "High": 581.0,
+        "Low": 562.7,
+        "Close": 580.5,
+        "Percent Change": 1.13,
+        "Volume": 2173,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2019-12-05",
+        "Open": 214.0,
+        "High": 216.0,
+        "Low": 214.0,
+        "Close": 216.0,
+        "Percent Change": 0.93,
+        "Volume": 5486,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-12-27",
+        "Open": 400.8,
+        "High": 432.3,
+        "Low": 370.0,
+        "Close": 432.3,
+        "Percent Change": 10.0,
+        "Volume": 120977,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-01-11",
+        "Open": 477.2,
+        "High": 504.9,
+        "Low": 448.9,
+        "Close": 504.9,
+        "Percent Change": 3.7,
+        "Volume": 93371,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-02-06",
+        "Open": 490.0,
+        "High": 517.0,
+        "Low": 488.0,
+        "Close": 517.0,
+        "Percent Change": 3.42,
+        "Volume": 67827,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2019-12-01",
+        "Open": 138.0,
+        "High": 140.0,
+        "Low": 136.0,
+        "Close": 140.0,
+        "Percent Change": 1.45,
+        "Volume": 1348,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-03-11",
+        "Open": 178.0,
+        "High": 189.0,
+        "Low": 170.0,
+        "Close": 189.0,
+        "Percent Change": 4.42,
+        "Volume": 1767,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-12-14",
+        "Open": 294.5,
+        "High": 330.5,
+        "Low": 271.9,
+        "Close": 330.5,
+        "Percent Change": 9.98,
+        "Volume": 75235,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-11-12",
+        "Open": 1460.0,
+        "High": 1546.0,
+        "Low": 1435.0,
+        "Close": 1544.0,
+        "Percent Change": -0.0,
+        "Volume": 2274,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-05-04",
+        "Open": 452.1,
+        "High": 470.0,
+        "Low": 450.0,
+        "Close": 470.0,
+        "Percent Change": 1.97,
+        "Volume": 3253,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-03-23",
+        "Open": 690.1,
+        "High": 719.0,
+        "Low": 690.1,
+        "Close": 719.0,
+        "Percent Change": 2.71,
+        "Volume": 134,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-04-02",
+        "Open": 1456.0,
+        "High": 1633.5,
+        "Low": 1456.0,
+        "Close": 1633.5,
+        "Percent Change": 10.0,
+        "Volume": 16215,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-04-03",
+        "Open": 1600.9,
+        "High": 1796.8,
+        "Low": 1600.9,
+        "Close": 1796.8,
+        "Percent Change": 10.0,
+        "Volume": 15658,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-04-04",
+        "Open": 1760.9,
+        "High": 1976.0,
+        "Low": 1760.9,
+        "Close": 1976.0,
+        "Percent Change": 9.97,
+        "Volume": 9997,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-04-07",
+        "Open": 1936.5,
+        "High": 2173.6,
+        "Low": 1896.0,
+        "Close": 2173.6,
+        "Percent Change": 10.0,
+        "Volume": 18536,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-12-13",
+        "Open": 702.3,
+        "High": 771.9,
+        "Low": 674.6,
+        "Close": 771.0,
+        "Percent Change": 9.91,
+        "Volume": 2207,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-03-18",
+        "Open": 1435.0,
+        "High": 1505.0,
+        "Low": 1430.0,
+        "Close": 1504.0,
+        "Percent Change": 3.87,
+        "Volume": 34426,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-12-18",
+        "Open": 577.0,
+        "High": 647.3,
+        "Low": 577.0,
+        "Close": 647.3,
+        "Percent Change": 9.99,
+        "Volume": 21657,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-09-25",
+        "Open": 310.2,
+        "High": 348.0,
+        "Low": 310.2,
+        "Close": 348.0,
+        "Percent Change": 9.99,
+        "Volume": 36513,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-08-08",
+        "Open": 842.8,
+        "High": 940.0,
+        "Low": 806.6,
+        "Close": 940.0,
+        "Percent Change": 9.3,
+        "Volume": 60359,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2019-09-18",
+        "Open": 917.0,
+        "High": 944.0,
+        "Low": 917.0,
+        "Close": 944.0,
+        "Percent Change": 2.83,
+        "Volume": 1670,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-09-09",
+        "Open": 1260.0,
+        "High": 1272.0,
+        "Low": 1259.0,
+        "Close": 1272.0,
+        "Percent Change": 1.11,
+        "Volume": 5490,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-10-12",
+        "Open": 765.0,
+        "High": 795.5,
+        "Low": 752.0,
+        "Close": 795.5,
+        "Percent Change": 1.99,
+        "Volume": 4164,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-12-18",
+        "Open": 724.0,
+        "High": 765.0,
+        "Low": 723.0,
+        "Close": 765.0,
+        "Percent Change": 5.82,
+        "Volume": 23173,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-07-31",
+        "Open": 1755.9,
+        "High": 1970.8,
+        "Low": 1687.0,
+        "Close": 1958.9,
+        "Percent Change": 9.33,
+        "Volume": 215179,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-08-01",
+        "Open": 1919.8,
+        "High": 2154.7,
+        "Low": 1822.8,
+        "Close": 2154.0,
+        "Percent Change": 9.96,
+        "Volume": 213771,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-03-03",
+        "Open": 259.0,
+        "High": 267.0,
+        "Low": 245.0,
+        "Close": 267.0,
+        "Percent Change": 1.14,
+        "Volume": 14766,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-05-17",
+        "Open": 412.1,
+        "High": 428.7,
+        "Low": 412.1,
+        "Close": 428.6,
+        "Percent Change": 2.05,
+        "Volume": 479,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-06-13",
+        "Open": 640.0,
+        "High": 711.0,
+        "Low": 640.0,
+        "Close": 710.0,
+        "Percent Change": 9.74,
+        "Volume": 46608,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-01-06",
+        "Open": 144.0,
+        "High": 149.0,
+        "Low": 144.0,
+        "Close": 149.0,
+        "Percent Change": 2.7600000000000002,
+        "Volume": 21687,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-08-22",
+        "Open": 425.0,
+        "High": 442.0,
+        "Low": 420.7,
+        "Close": 441.0,
+        "Percent Change": 3.04,
+        "Volume": 5620,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-06-30",
+        "Open": 813.0,
+        "High": 862.0,
+        "Low": 812.6,
+        "Close": 862.0,
+        "Percent Change": 6.03,
+        "Volume": 1437,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-05-14",
+        "Open": 1275.0,
+        "High": 1320.0,
+        "Low": 1273.0,
+        "Close": 1320.0,
+        "Percent Change": 2.96,
+        "Volume": 6488,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-01-03",
+        "Open": 1265.2,
+        "High": 1391.7,
+        "Low": 1265.2,
+        "Close": 1391.7,
+        "Percent Change": 10.0,
+        "Volume": 1583,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-11-01",
+        "Open": 306.0,
+        "High": 325.0,
+        "Low": 306.0,
+        "Close": 325.0,
+        "Percent Change": 6.21,
+        "Volume": 10570,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-02-25",
+        "Open": 54.0,
+        "High": 56.0,
+        "Low": 52.0,
+        "Close": 56.0,
+        "Percent Change": 1.82,
+        "Volume": 542,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-02-26",
+        "Open": 55.0,
+        "High": 61.0,
+        "Low": 55.0,
+        "Close": 61.0,
+        "Percent Change": 8.93,
+        "Volume": 700,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-05-24",
+        "Open": 470.0,
+        "High": 511.0,
+        "Low": 470.0,
+        "Close": 511.0,
+        "Percent Change": 9.89,
+        "Volume": 55392,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-06-06",
+        "Open": 541.0,
+        "High": 572.0,
+        "Low": 499.0,
+        "Close": 572.0,
+        "Percent Change": 5.73,
+        "Volume": 17255,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-06-07",
+        "Open": 550.0,
+        "High": 579.0,
+        "Low": 519.0,
+        "Close": 579.0,
+        "Percent Change": 1.22,
+        "Volume": 73885,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-06-13",
+        "Open": 700.0,
+        "High": 783.0,
+        "Low": 686.0,
+        "Close": 780.0,
+        "Percent Change": 9.4,
+        "Volume": 115640,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-01-23",
+        "Open": 8.48,
+        "High": 8.8,
+        "Low": 8.48,
+        "Close": 8.8,
+        "Percent Change": 1.73,
+        "Volume": 25855,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-12-04",
+        "Open": 7.6,
+        "High": 7.85,
+        "Low": 7.6,
+        "Close": 7.85,
+        "Percent Change": 1.95,
+        "Volume": 2700,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-12-14",
+        "Open": 7.98,
+        "High": 8.28,
+        "Low": 7.85,
+        "Close": 8.28,
+        "Percent Change": 1.97,
+        "Volume": 92780,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-07-11",
+        "Open": 161.8,
+        "High": 164.9,
+        "Low": 161.0,
+        "Close": 164.5,
+        "Percent Change": 1.67,
+        "Volume": 182623,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-01-05",
+        "Open": 405.0,
+        "High": 415.0,
+        "Low": 392.0,
+        "Close": 415.0,
+        "Percent Change": 3.23,
+        "Volume": 21040,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-01-09",
+        "Open": 7.74,
+        "High": 8.02,
+        "Low": 7.74,
+        "Close": 8.01,
+        "Percent Change": 1.52,
+        "Volume": 5000,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-11-30",
+        "Open": 7.05,
+        "High": 7.2,
+        "Low": 7.05,
+        "Close": 7.2,
+        "Percent Change": 0.14,
+        "Volume": 500,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-05-11",
+        "Open": 24480.0,
+        "High": 24895.0,
+        "Low": 24480.0,
+        "Close": 24895.0,
+        "Percent Change": 1.7,
+        "Volume": 35,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-05-08",
+        "Open": 1026.0,
+        "High": 1079.9,
+        "Low": 1020.1,
+        "Close": 1079.9,
+        "Percent Change": 5.37,
+        "Volume": 14049,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-02-28",
+        "Open": 1075.0,
+        "High": 1101.0,
+        "Low": 1055.0,
+        "Close": 1101.0,
+        "Percent Change": 2.32,
+        "Volume": 772,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-05-30",
+        "Open": 338.0,
+        "High": 372.4,
+        "Low": 338.0,
+        "Close": 372.4,
+        "Percent Change": 9.98,
+        "Volume": 80,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2020-10-07",
+        "Open": 205.0,
+        "High": 225.0,
+        "Low": 205.0,
+        "Close": 225.0,
+        "Percent Change": 9.76,
+        "Volume": 22071,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2024-01-17",
+        "Open": 650.8,
+        "High": 700.0,
+        "Low": 597.6,
+        "Close": 700.0,
+        "Percent Change": 5.42,
+        "Volume": 50372,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-01-18",
+        "Open": 573.0,
+        "High": 618.0,
+        "Low": 573.0,
+        "Close": 618.0,
+        "Percent Change": 0.1,
+        "Volume": 5430,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2021-01-19",
+        "Open": 630.0,
+        "High": 679.0,
+        "Low": 630.0,
+        "Close": 679.0,
+        "Percent Change": 0.1,
+        "Volume": 29142,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-06-30",
+        "Open": 359.7,
+        "High": 395.7,
+        "Low": 359.7,
+        "Close": 395.7,
+        "Percent Change": 7.82,
+        "Volume": 7638,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2023-05-21",
+        "Open": 379.9,
+        "High": 387.4,
+        "Low": 376.2,
+        "Close": 387.4,
+        "Percent Change": 1.95,
+        "Volume": 1609,
+        "Stock": "NESDO"
+    },
+    {
+        "Date": "2022-04-13",
+        "Open": 2023.7,
+        "High": 2262.7,
+        "Low": 2023.7,
+        "Close": 2262.7,
+        "Percent Change": 10.0,
+        "Volume": 765,
+        "Stock": "NESDO"
+    }
+]

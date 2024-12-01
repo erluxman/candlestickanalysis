@@ -162,7 +162,8 @@ def calculate_candleSticks(input_directory, output_directory, market):
                 # Convert Timestamp objects to strings
                 for item in candle_data:
                     item["Stock"] = symbolName
-                    del item[key]
+                    if key in item:
+                        del item[key]
                     if 'Date' in item and isinstance(item['Date'], pd.Timestamp):
                         item['Date'] = item['Date'].strftime('%Y-%m-%d')
                 
