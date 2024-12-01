@@ -18,16 +18,9 @@ def transform_key_and_percentage_change(input_data, market):
             input_data = json.loads(input_data)
 
         # Sort timestamps to ensure chronological order
-        sorted_timestamps = sorted(input_data.keys())
 
-        for timestamp in sorted_timestamps:
+        for day_data in input_data:
             # Convert Unix timestamp (milliseconds) to datetime
-            date = datetime.fromtimestamp(int(timestamp) / 1000)
-            date_str = date.strftime("%Y-%m-%d")
-
-            # Copy existing data
-            day_data = input_data[timestamp].copy()
-            day_data["Date"] = date_str
 
             # Calculate percent change
             if previous_close is not None:
@@ -42,7 +35,7 @@ def transform_key_and_percentage_change(input_data, market):
             previous_close = float(day_data["Close"])
 
             # Add to transformed data
-            transformed_data[date_str] = day_data
+            transformed_data[day_data["Date"]] = day_data
 
     else:
 
@@ -137,21 +130,34 @@ def download_data_us():
         # save to a json file in the data/crude/us folder
         try:
             # Download historical data
-            stock_data = yf.download(stock, start="2019-12-31", end="2024-11-28")
+            ticker = yf.Ticker(stock)
+            stock_data = ticker.history(
+                start="2019-12-31", end="2024-11-28", interval="1d"
+            )
             stock_data.columns = stock_data.columns.to_flat_index()
 
             # Convert the data to JSON format with a more readable structure
-            stock_data_json = stock_data.to_json(orient="index", date_unit="ms")
+            stock_data_json = stock_data.to_json(orient="index")
 
             # Convert the data to JSON format
             # stock_data_json = stock_data.to_json(orient="index")
+            stock_dict = stock_data.reset_index().to_dict(orient="records")
+
+            for day_data in stock_dict:
+                # Convert Unix timestamp (milliseconds) to datetime
+                day_data["Date"] = (day_data["Date"]).strftime("%Y-%m-%d")
+                del day_data["Dividends"]
+                del day_data["Stock Splits"]
+
+            # Create filename with current timestamp
+            filename = f"{stock}.json"
 
             # Define the file path
             file_path = os.path.join(usDataPathCrude, f"{stock}.json")
 
             # Save the data to a JSON file
-            with open(file_path, "w") as file:
-                file.write(stock_data_json)
+            with open(file_path, "w") as f:
+                json.dump(stock_dict, f, indent=4, default=str)
 
             print(f"Data for {stock} saved successfully.")
         except Exception as e:
