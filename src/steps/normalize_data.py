@@ -150,10 +150,10 @@ def download_data_us():
         filename = f"{stock}.json"
 
         # Define the file path
-        file_path = os.path.join(usDataPathCrude, f"{stock}.json")
+        file_path = os.path.join(us_data_path_crude, f"{stock}.json")
 
         # Save the data to a JSON file
-        os.makedirs(usDataPathCrude, exist_ok=True)
+        os.makedirs(us_data_path_crude, exist_ok=True)
         with open(file_path, "w") as f:
             json.dump(stock_dict, f, indent=4, default=str)
 
@@ -162,13 +162,13 @@ def download_data_us():
 
 # Step 2 Normalize US Market Data
 def normalize_data_us():
-    read_and_transform_json_files(usDataPathCrude, usDataPathNormalized, "us")
+    read_and_transform_json_files(us_data_path_crude, us_data_path_normalized, "us")
     print("US data normalized")
 
 
 # Step 3 Normalize Nepali Market Data
 def normalize_data_np():
-    read_and_transform_json_files(npDataPathCrude, npDataPathNormalized, "np")
+    read_and_transform_json_files(np_data_path_crude, np_data_path_normalized, "np")
     print("NP data normalized")
 
 

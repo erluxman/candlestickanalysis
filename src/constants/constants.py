@@ -531,12 +531,19 @@ patterns = [
     # "CDL3OUTSIDE",  # Three Outside Up/Down
 ]
 
-usDataPathCrude = "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step1_crude_data/us"
-npDataPathCrude = "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step1_crude_data/np"
+us_data_path_crude = "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step1_crude_data/us"
+np_data_path_crude = "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step1_crude_data/np"
 
-usDataPathNormalized = (
+us_data_path_normalized = (
     "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step2_normalized_data/us"
 )
-npDataPathNormalized = (
+np_data_path_normalized = (
+    "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step2_normalized_data/np"
+)
+
+us_data_path_candles = (
+    "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step2_normalized_data/us"
+)
+np_data_path_candles = (
     "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step2_normalized_data/np"
 )
