@@ -1,0 +1,292 @@
+[
+    {
+        "Date": "2020-01-15",
+        "Open": 385.0,
+        "High": 386.0,
+        "Low": 378.0,
+        "Close": 386.0,
+        "Percent Change": 2.12,
+        "Volume": 22021,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2020-08-18",
+        "Open": 416.0,
+        "High": 418.0,
+        "Low": 411.0,
+        "Close": 417.0,
+        "Percent Change": 0.48,
+        "Volume": 16446,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2020-08-24",
+        "Open": 418.0,
+        "High": 420.0,
+        "Low": 415.0,
+        "Close": 420.0,
+        "Percent Change": 1.45,
+        "Volume": 30112,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2020-10-14",
+        "Open": 440.0,
+        "High": 440.0,
+        "Low": 436.0,
+        "Close": 439.0,
+        "Percent Change": 0.0,
+        "Volume": 19883,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2021-03-17",
+        "Open": 423.0,
+        "High": 424.0,
+        "Low": 415.0,
+        "Close": 423.0,
+        "Percent Change": 1.44,
+        "Volume": 18916,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2021-04-07",
+        "Open": 438.0,
+        "High": 439.0,
+        "Low": 432.0,
+        "Close": 437.0,
+        "Percent Change": 0.0,
+        "Volume": 30237,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2021-04-08",
+        "Open": 439.0,
+        "High": 439.0,
+        "Low": 434.0,
+        "Close": 437.0,
+        "Percent Change": 0.0,
+        "Volume": 42866,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2021-04-13",
+        "Open": 450.0,
+        "High": 450.0,
+        "Low": 437.0,
+        "Close": 445.0,
+        "Percent Change": 1.83,
+        "Volume": 102443,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2021-05-10",
+        "Open": 422.0,
+        "High": 422.0,
+        "Low": 416.0,
+        "Close": 420.0,
+        "Percent Change": 0.24,
+        "Volume": 34550,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2021-06-24",
+        "Open": 491.0,
+        "High": 491.0,
+        "Low": 465.0,
+        "Close": 482.0,
+        "Percent Change": 2.34,
+        "Volume": 168916,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2021-10-26",
+        "Open": 520.0,
+        "High": 525.0,
+        "Low": 513.0,
+        "Close": 525.0,
+        "Percent Change": 2.54,
+        "Volume": 60461,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2021-12-23",
+        "Open": 494.9,
+        "High": 497.0,
+        "Low": 481.0,
+        "Close": 496.0,
+        "Percent Change": 2.06,
+        "Volume": 77234,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2022-07-17",
+        "Open": 331.0,
+        "High": 333.0,
+        "Low": 328.2,
+        "Close": 333.0,
+        "Percent Change": 0.6000000000000001,
+        "Volume": 13768,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2022-07-18",
+        "Open": 331.1,
+        "High": 333.0,
+        "Low": 327.0,
+        "Close": 333.0,
+        "Percent Change": 0.0,
+        "Volume": 30494,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2022-07-28",
+        "Open": 330.0,
+        "High": 330.5,
+        "Low": 327.0,
+        "Close": 329.2,
+        "Percent Change": 0.06,
+        "Volume": 25355,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2022-07-31",
+        "Open": 335.5,
+        "High": 335.5,
+        "Low": 329.0,
+        "Close": 334.9,
+        "Percent Change": 1.79,
+        "Volume": 52879,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2022-10-23",
+        "Open": 320.0,
+        "High": 320.0,
+        "Low": 312.0,
+        "Close": 317.9,
+        "Percent Change": 0.6000000000000001,
+        "Volume": 17351,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2023-01-04",
+        "Open": 332.0,
+        "High": 335.0,
+        "Low": 329.0,
+        "Close": 334.5,
+        "Percent Change": 1.67,
+        "Volume": 47144,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2023-01-05",
+        "Open": 340.0,
+        "High": 342.0,
+        "Low": 333.5,
+        "Close": 342.0,
+        "Percent Change": 2.24,
+        "Volume": 53538,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2023-03-05",
+        "Open": 284.7,
+        "High": 284.8,
+        "Low": 281.3,
+        "Close": 283.9,
+        "Percent Change": 1.65,
+        "Volume": 37017,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2023-04-05",
+        "Open": 241.0,
+        "High": 241.0,
+        "Low": 237.0,
+        "Close": 240.0,
+        "Percent Change": 0.04,
+        "Volume": 16295,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2023-05-04",
+        "Open": 235.0,
+        "High": 235.0,
+        "Low": 228.0,
+        "Close": 233.9,
+        "Percent Change": 0.34,
+        "Volume": 41732,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2023-07-16",
+        "Open": 231.9,
+        "High": 234.0,
+        "Low": 228.0,
+        "Close": 233.9,
+        "Percent Change": 2.5,
+        "Volume": 46266,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2023-09-10",
+        "Open": 256.0,
+        "High": 256.0,
+        "Low": 252.0,
+        "Close": 254.9,
+        "Percent Change": 1.55,
+        "Volume": 12819,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2023-09-19",
+        "Open": 263.9,
+        "High": 263.9,
+        "Low": 258.0,
+        "Close": 261.0,
+        "Percent Change": 0.66,
+        "Volume": 14795,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2024-01-01",
+        "Open": 251.0,
+        "High": 251.0,
+        "Low": 246.2,
+        "Close": 248.9,
+        "Percent Change": 0.77,
+        "Volume": 33313,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2024-04-30",
+        "Open": 240.9,
+        "High": 240.9,
+        "Low": 235.0,
+        "Close": 240.0,
+        "Percent Change": 1.61,
+        "Volume": 35982,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2024-06-02",
+        "Open": 264.9,
+        "High": 265.6,
+        "Low": 258.1,
+        "Close": 265.0,
+        "Percent Change": 1.53,
+        "Volume": 36533,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2024-06-16",
+        "Open": 270.0,
+        "High": 270.0,
+        "Low": 261.2,
+        "Close": 268.0,
+        "Percent Change": 0.75,
+        "Volume": 33067,
+        "Stock": "ADBL"
+    }
+]

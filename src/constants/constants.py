@@ -494,7 +494,7 @@ pattern_with_names = {
     # "CDLHARAMI": "Harami Pattern",
     # "CDLDRAGONFLYDOJI": "Dragonfly Doji",
     # "CDLDOJI": "Doji",
-    # "CDLHANGINGMAN": "Hanging Man",
+    "CDLHANGINGMAN": "Hanging Man",
     # "CDLSHOOTINGSTAR": "Shooting Star",
     # "CDLEVENINGSTAR": "Evening Star",
     # "CDL3BLACKCROWS": "Three Black Crows",
@@ -542,8 +542,8 @@ np_data_path_normalized = (
 )
 
 us_data_path_candles = (
-    "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step2_normalized_data/us"
+    "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step3_candlesticks_data/us"
 )
 np_data_path_candles = (
-    "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step2_normalized_data/np"
+    "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step3_candlesticks_data/np"
 )
