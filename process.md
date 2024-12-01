@@ -48,3 +48,6 @@
 ]
 }
 ```
+
+
+The excel file shall be less than 100MB to not be considered for LFS
