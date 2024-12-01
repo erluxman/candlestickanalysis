@@ -184,4 +184,4 @@ def delete_output_directories():
     
 def normalize_data():
     normalize_data_us()
-    normalize_data_np()
+    # normalize_data_np()
