@@ -10,7 +10,8 @@ def calculate_additional_data(
 ):
     print(f"{pattern}  for {stock} in {market} market being computed")
 
-    file = input_directory + stock + ".json"
+    # file = input_directory + stock + ".json"
+    file = os.path.join(input_directory, f"{stock}.json")
     df = pd.read_json(file)
     open_prices = df["Open"].values
     high_prices = df["High"].values
@@ -37,7 +38,7 @@ def calculate_additional_data(
             next_day_close = None
             next_day_volume = None
 
-        if index + 5 < len(df):
+        if (index + 5) < len(df):
             next_week_close = df.iloc[index + 5]["Close"]
             next_week_volume = df.iloc[index + 5]["Volume"].sum()
             next_week_volume_cumulative = df.iloc[index + 1 : index + 6]["Volume"].sum()
@@ -45,7 +46,7 @@ def calculate_additional_data(
             next_week_close = None
             next_week_volume = None
             next_week_volume_cumulative = None
-        if index - 5 > 0:
+        if (index - 5) > 0:
             last_week_close = df.iloc[index - 5]["Close"]
             last_week_volume = df.iloc[index - 5]["Volume"].sum()
             last_week_volume_cumulative = df.iloc[index - 6 : index - 1]["Volume"].sum()
@@ -55,6 +56,10 @@ def calculate_additional_data(
             last_week_volume_cumulative = None
         # use correct conditional to  avoid None values error
 
+        if isinstance(last_week_close, (int, float)) != True:
+            continue
+        if isinstance(next_week_close, (int, float)) != True:
+            continue
         # Calculate percentage changes
 
         next_day_change_percentage = (
@@ -109,6 +114,8 @@ def calculate_additional_data(
                 "last_week_volume_cumulative": last_week_volume_cumulative,
                 "weekly_volume_change_percentage": weekly_volume_change_percentage,
                 "market": market,
+                "volume": row["Volume"],
+                "Percentage Change": row["Percent Change"],
             }
         )
 
@@ -130,20 +137,14 @@ def calculate_candleSticks(input_directory, output_directory, market):
                 snp_500_symbols if (market == "us") else nepse_symbols
             )
             if filename.endswith(".json") & containedInEnabledSymbols:
-                file_path = os.path.join(input_directory, filename)
                 print(f"Calculating Candlesticks for {symbolName}")
-                df = pd.read_json(file_path)
-                open_prices = df["Open"].values
-                high_prices = df["High"].values
-                low_prices = df["Low"].values
-                close_prices = df["Close"].values
-                percentage_change = df["Percent Change"].values
-                pattern_function = getattr(talib, key)
-                candle = pattern_function(
-                    open_prices, high_prices, low_prices, close_prices
+                patterns = calculate_additional_data(
+                    input_directory=input_directory,
+                    output_directory=output_directory,
+                    pattern=key,
+                    stock=symbolName,
+                    market=market,
                 )
-                df[key] = candle
-                patterns = df[df[key] != 0]
                 # append the data to the file
                 candle_data = []
 
@@ -153,16 +154,17 @@ def calculate_candleSticks(input_directory, output_directory, market):
                 else:
                     candle_data = []
 
-                new_patterns = patterns.to_dict(orient="records")
-                for pattern in new_patterns:
-                    pattern["Stock"] = symbolName
-                    # if key in pattern:
-                        # del pattern[key]
-                    if "Date" in pattern and isinstance(pattern["Date"], pd.Timestamp):
-                        pattern["Date"] = pattern["Date"].strftime("%Y-%m-%d")
+                new_patterns = pd.DataFrame(patterns).to_dict(orient="records")
+
                 candle_data += new_patterns
 
                 with open(candle_path, "w") as f:
+                    # Convert Timestamp objects to strings
+                    for pattern in candle_data:
+                        if "date" in pattern and isinstance(
+                            pattern["date"], pd.Timestamp
+                        ):
+                            pattern["date"] = pattern["date"].strftime("%Y-%m-%d")
                     json.dump(candle_data, f, indent=4)
 
 
