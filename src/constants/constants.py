@@ -487,9 +487,9 @@ snp_500_symbols = [
 pattern_with_names = {
     "CDLHAMMER": "Hammer",
     "CDLINVERTEDHAMMER": "Inverted Hammer",
-    # "CDLENGULFING": "Engulfing Pattern",
-    # "CDLPIERCING": "Piercing Pattern",
-    # "CDLMORNINGSTAR": "Morning Star",
+    "CDLENGULFING": "Engulfing Pattern",
+    "CDLPIERCING": "Piercing Pattern",
+    "CDLMORNINGSTAR": "Morning Star",
     # "CDL3WHITESOLDIERS": "Three White Soldiers",
     # "CDLHARAMI": "Harami Pattern",
     # "CDLDRAGONFLYDOJI": "Dragonfly Doji",

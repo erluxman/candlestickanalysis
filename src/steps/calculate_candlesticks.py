@@ -156,8 +156,8 @@ def calculate_candleSticks(input_directory, output_directory, market):
                 new_patterns = patterns.to_dict(orient="records")
                 for pattern in new_patterns:
                     pattern["Stock"] = symbolName
-                    if key in pattern:
-                        del pattern[key]
+                    # if key in pattern:
+                        # del pattern[key]
                     if "Date" in pattern and isinstance(pattern["Date"], pd.Timestamp):
                         pattern["Date"] = pattern["Date"].strftime("%Y-%m-%d")
                 candle_data += new_patterns

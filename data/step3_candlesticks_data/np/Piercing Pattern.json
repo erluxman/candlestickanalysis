@@ -1,0 +1,68 @@
+[
+    {
+        "Date": "2022-04-07",
+        "Open": 364.7,
+        "High": 375.0,
+        "Low": 364.7,
+        "Close": 373.0,
+        "Percent Change": 1.66,
+        "Volume": 22876,
+        "CDLPIERCING": 100,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2022-12-21",
+        "Open": 302.79,
+        "High": 308.7,
+        "Low": 301.1,
+        "Close": 307.7,
+        "Percent Change": 0.8200000000000001,
+        "Volume": 31483,
+        "CDLPIERCING": 100,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2020-02-19",
+        "Open": 1777.0,
+        "High": 1848.0,
+        "Low": 1777.0,
+        "Close": 1848.0,
+        "Percent Change": 2.5,
+        "Volume": 213,
+        "CDLPIERCING": 100,
+        "Stock": "BBC"
+    },
+    {
+        "Date": "2020-07-16",
+        "Open": 1550.0,
+        "High": 1585.0,
+        "Low": 1549.0,
+        "Close": 1585.0,
+        "Percent Change": 1.54,
+        "Volume": 333,
+        "CDLPIERCING": 100,
+        "Stock": "BBC"
+    },
+    {
+        "Date": "2023-07-03",
+        "Open": 3400.0,
+        "High": 3468.0,
+        "Low": 3340.0,
+        "Close": 3467.0,
+        "Percent Change": 1.08,
+        "Volume": 240,
+        "CDLPIERCING": 100,
+        "Stock": "BBC"
+    },
+    {
+        "Date": "2023-07-12",
+        "Open": 3341.0,
+        "High": 3475.1,
+        "Low": 3341.0,
+        "Close": 3470.0,
+        "Percent Change": 1.82,
+        "Volume": 230,
+        "CDLPIERCING": 100,
+        "Stock": "BBC"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "Date": "2020-02-16",
+        "Open": 385.0,
+        "High": 390.0,
+        "Low": 383.0,
+        "Close": 390.0,
+        "Percent Change": 1.56,
+        "Volume": 29836,
+        "CDLMORNINGSTAR": 100,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2020-08-09",
+        "Open": 401.0,
+        "High": 412.0,
+        "Low": 399.0,
+        "Close": 412.0,
+        "Percent Change": 1.48,
+        "Volume": 33276,
+        "CDLMORNINGSTAR": 100,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2021-08-18",
+        "Open": 582.0,
+        "High": 600.0,
+        "Low": 575.0,
+        "Close": 595.0,
+        "Percent Change": 1.9000000000000001,
+        "Volume": 203897,
+        "CDLMORNINGSTAR": 100,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2021-09-22",
+        "Open": 517.0,
+        "High": 535.0,
+        "Low": 510.0,
+        "Close": 529.0,
+        "Percent Change": 4.34,
+        "Volume": 61892,
+        "CDLMORNINGSTAR": 100,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2022-12-12",
+        "Open": 307.0,
+        "High": 313.0,
+        "Low": 307.0,
+        "Close": 310.0,
+        "Percent Change": 0.81,
+        "Volume": 9970,
+        "CDLMORNINGSTAR": 100,
+        "Stock": "ADBL"
+    },
+    {
+        "Date": "2021-09-22",
+        "Open": 5460.0,
+        "High": 5795.0,
+        "Low": 5460.0,
+        "Close": 5750.0,
+        "Percent Change": 7.34,
+        "Volume": 762,
+        "CDLMORNINGSTAR": 100,
+        "Stock": "BBC"
+    }
+]
