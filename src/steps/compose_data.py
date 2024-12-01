@@ -36,5 +36,37 @@ def export_to_excel_np():
     export_to_excel(np_data_path_candles, data_path_transformed, "np")
 
 
-def export_summary_to_json():
+def export_summary_to_json(input_dir, output_dir, market):
     print("Exporting summary to JSON")
+    os.makedirs(output_dir, exist_ok=True)
+    summary_data = {}
+    summary_data_merged = {}
+    summary_data_individual = {}
+
+    for key, value in pattern_with_names.items():
+        file_path = os.path.join(input_dir, value + ".json")
+        with open(file_path, "r") as f:
+            data = json.load(f)
+
+        summary_data_merged[value] = {
+            "next_day_change_percentage": [
+                item["next_day_change_percentage"] for item in data
+            ],
+            "next_week_change_percentage": [
+                item["next_week_change_percentage"] for item in data
+            ],
+        }
+    output_file = os.path.join(output_dir, f"{market}_summary.json")
+    summary_data["merged"] = summary_data_merged
+    with open(output_file, "w") as f:
+        json.dump(summary_data, f, indent=4)
+
+
+def export_summary_to_json_us():
+    print("Exporting US summary to JSON")
+    export_summary_to_json(us_data_path_candles, data_path_transformed, "us")
+
+
+def export_summary_to_json_np():
+    print("Exporting Nepali summary to JSON")
+    export_summary_to_json(np_data_path_candles, data_path_transformed, "np")

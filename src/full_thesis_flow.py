@@ -16,4 +16,6 @@ def calculate_candleSticks():
 def compose_transformation_result():
     export_to_excel_us()
     export_to_excel_np()
-    export_summary_to_json()
+    export_summary_to_json_us()
+    export_summary_to_json_np()
+    
