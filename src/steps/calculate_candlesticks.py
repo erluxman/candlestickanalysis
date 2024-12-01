@@ -131,41 +131,33 @@ def calculate_candleSticks(input_directory, output_directory, market):
         # read all files from the directory
         candle_path = os.path.join(output_directory, f"{value}.json")
 
-        for filename in os.listdir(input_directory):
-            symbolName = filename.split(".")[0]
-            containedInEnabledSymbols = symbolName in (
-                snp_500_symbols if (market == "us") else nepse_symbols
+        for symbol_name in snp_500_symbols if (market == "us") else nepse_symbols:
+            print(f"Calculating Candlesticks for {symbol_name}")
+            patterns = calculate_additional_data(
+                input_directory=input_directory,
+                output_directory=output_directory,
+                pattern=key,
+                stock=symbol_name,
+                market=market,
             )
-            if filename.endswith(".json") & containedInEnabledSymbols:
-                print(f"Calculating Candlesticks for {symbolName}")
-                patterns = calculate_additional_data(
-                    input_directory=input_directory,
-                    output_directory=output_directory,
-                    pattern=key,
-                    stock=symbolName,
-                    market=market,
-                )
-                # append the data to the file
+            # append the data to the file
+            candle_data = []
+
+            if os.path.exists(candle_path):
+                with open(candle_path, "r") as f:
+                    candle_data = json.load(f)
+            else:
                 candle_data = []
+            new_patterns = pd.DataFrame(patterns).to_dict(orient="records")
 
-                if os.path.exists(candle_path):
-                    with open(candle_path, "r") as f:
-                        candle_data = json.load(f)
-                else:
-                    candle_data = []
+            candle_data += new_patterns
 
-                new_patterns = pd.DataFrame(patterns).to_dict(orient="records")
-
-                candle_data += new_patterns
-
-                with open(candle_path, "w") as f:
-                    # Convert Timestamp objects to strings
-                    for pattern in candle_data:
-                        if "date" in pattern and isinstance(
-                            pattern["date"], pd.Timestamp
-                        ):
-                            pattern["date"] = pattern["date"].strftime("%Y-%m-%d")
-                    json.dump(candle_data, f, indent=4)
+            with open(candle_path, "w") as f:
+                # Convert Timestamp objects to strings
+                for pattern in candle_data:
+                    if "date" in pattern and isinstance(pattern["date"], pd.Timestamp):
+                        pattern["date"] = pattern["date"].strftime("%Y-%m-%d")
+                json.dump(candle_data, f, indent=4)
 
 
 def calculate_candleSticks_us():

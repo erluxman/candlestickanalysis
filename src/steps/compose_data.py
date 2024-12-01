@@ -9,8 +9,8 @@ def export_to_excel(input_dir, output_dir, market):
     # read every file from the directory
     os.makedirs(output_dir, exist_ok=True)
     full_data = []
-    for filename in os.listdir(input_dir):
-        file_path = os.path.join(input_dir, filename)
+    for key, value in pattern_with_names.items():
+        file_path = os.path.join(input_dir, value + ".json")
         with open(file_path, "r") as f:
             data = json.load(f)
 
