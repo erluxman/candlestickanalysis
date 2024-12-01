@@ -11,3 +11,6 @@ def prepareData():
 def calculate_candleSticks():
     calculate_candleSticks_us()
     calculate_candleSticks_np()
+    
+def compose_data():
+    export_to_excel()
