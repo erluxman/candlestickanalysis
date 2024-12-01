@@ -1,0 +1,24 @@
+[
+    {
+        "date": "2022-01-20",
+        "pattern": "Three Black Crows",
+        "stock": "AAPL",
+        "close_amount": 161.858642578125,
+        "next_day_close_amount": 159.79248046875,
+        "next_day_change_percentage": -1.2765225733174654,
+        "next_day_volume": 122848900,
+        "next_day_volume_change_percentage": 34.37784741934249,
+        "next_week_close_amount": 156.65390014648438,
+        "next_week_change_percentage": -3.2156098362980092,
+        "next_week_volume": 121954600,
+        "next_week_volume_cumulative": 631171800,
+        "last_week_close_amount": 172.70103454589844,
+        "change_from_last_week_percentage": -6.278127977798463,
+        "last_week_volume": 74805200,
+        "last_week_volume_cumulative": 406846800,
+        "weekly_volume_change_percentage": 55.13746206188669,
+        "market": "us",
+        "volume": 91420500,
+        "Percentage Change": -1.03
+    }
+]
