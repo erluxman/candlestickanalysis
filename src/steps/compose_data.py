@@ -36,6 +36,17 @@ def export_to_excel_np():
     export_to_excel(np_data_path_candles, data_path_transformed, "np")
 
 
+column_names = [
+    "next_day_change_percentage",
+    "next_day_volume_change_percentage",
+    "change_from_last_week_percentage",
+    "last_week_volume_cumulative",
+    "next_week_change_percentage",
+    "next_week_volume_cumulative",
+    "weekly_volume_change_percentage",
+]
+
+
 def export_summary_to_json(input_dir, output_dir, market):
     print("Exporting summary to JSON")
     os.makedirs(output_dir, exist_ok=True)
@@ -47,15 +58,11 @@ def export_summary_to_json(input_dir, output_dir, market):
         file_path = os.path.join(input_dir, value + ".json")
         with open(file_path, "r") as f:
             data = json.load(f)
+        summary_data_merged_data = {}
+        for column_name in column_names:
+            summary_data_merged_data[column_name] = [item[column_name] for item in data]
 
-        summary_data_merged[value] = {
-            "next_day_change_percentage": [
-                item["next_day_change_percentage"] for item in data
-            ],
-            "next_week_change_percentage": [
-                item["next_week_change_percentage"] for item in data
-            ],
-        }
+        summary_data_merged[value] = summary_data_merged_data
 
         for item in data:
             symbol = item["stock"]
