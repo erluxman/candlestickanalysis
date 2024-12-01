@@ -51,38 +51,35 @@ def export_summary_to_json(input_dir, output_dir, market):
     print("Exporting summary to JSON")
     os.makedirs(output_dir, exist_ok=True)
     summary_data = {}
-    summary_data_merged = {}
+    summary_merged = {}
     summary_data_individual = {}
 
     for key, value in pattern_with_names.items():
         file_path = os.path.join(input_dir, value + ".json")
         with open(file_path, "r") as f:
             data = json.load(f)
-        summary_data_merged_data = {}
+        summary_merged_data = {}
         for column_name in column_names:
-            summary_data_merged_data[column_name] = [item[column_name] for item in data]
+            summary_merged_data[column_name] = [item[column_name] for item in data]
 
-        summary_data_merged[value] = summary_data_merged_data
+        summary_merged[value] = summary_merged_data
 
         for item in data:
             symbol = item["stock"]
             stock_data_raw = [item for item in data if item["stock"] == symbol]
             # stock_data_raw = data.where(data["stock"] == symbol).dropna()
-            symbol_data_summary = {
-                "next_day_change_percentage": [
-                    item["next_day_change_percentage"] for item in stock_data_raw
-                ],
-                "next_week_change_percentage": [
-                    item["next_week_change_percentage"] for item in stock_data_raw
-                ],
-            }
+            symbol_summary_data = {}
+            for column_name in column_names:
+                symbol_summary_data[column_name] = [
+                    item[column_name] for item in stock_data_raw
+                ]
             if value not in summary_data_individual:
                 summary_data_individual[value] = {}
 
-            summary_data_individual[value][symbol] = symbol_data_summary
+            summary_data_individual[value][symbol] = symbol_summary_data
 
     summary_data["individual_trends"] = summary_data_individual
-    summary_data["merged_trends"] = summary_data_merged
+    summary_data["merged_trends"] = summary_merged
 
     output_file = os.path.join(output_dir, f"{market}_summary.json")
     with open(output_file, "w") as f:
