@@ -3,6 +3,7 @@ from src.steps.calculate_candlesticks import *
 
 
 def prepareData():
+    delete_output_directories()
     download_data()
     normalize_data()
 

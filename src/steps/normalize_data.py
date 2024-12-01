@@ -4,6 +4,7 @@ import os
 import pandas as pd
 from src.constants.constants import *
 import yfinance as yf
+import shutil
 
 # Step 1 Donload Data from Yahoo finance
 
@@ -174,8 +175,13 @@ def normalize_data_np():
 
 def download_data():
     download_data_us()
-
-
+def delete_output_directories():
+    
+    shutil.rmtree(us_data_path_normalized, ignore_errors=True)
+    shutil.rmtree(np_data_path_normalized, ignore_errors=True)
+    shutil.rmtree(us_data_path_candles, ignore_errors=True)
+    shutil.rmtree(np_data_path_candles, ignore_errors=True)
+    
 def normalize_data():
     normalize_data_us()
     normalize_data_np()

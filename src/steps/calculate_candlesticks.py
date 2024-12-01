@@ -123,9 +123,6 @@ def calculate_candleSticks(input_directory, output_directory, market):
         print(f"{key} -> {value}")
         # read all files from the directory
         candle_path = os.path.join(output_directory, f"{value}.json")
-        # creat a new file for each candle
-        with open(candle_path, "w") as f:
-            json.dump([], f, indent=4)
 
         for filename in os.listdir(input_directory):
             symbolName = filename.split(".")[0]
@@ -150,40 +147,23 @@ def calculate_candleSticks(input_directory, output_directory, market):
                 # append the data to the file
                 candle_data = []
 
-                with open(candle_path, "r") as f:
-                    candle_data = json.load(f)
+                if os.path.exists(candle_path):
+                    with open(candle_path, "r") as f:
+                        candle_data = json.load(f)
+                else:
+                    candle_data = []
 
-                    candle_data = (
-                        (candle_data + patterns.to_dict(orient="records"))
-                        if (len(candle_data) > 0)
-                        else patterns.to_dict(orient="records")
-                    )
-                    
-                # Convert Timestamp objects to strings
-                for item in candle_data:
-                    item["Stock"] = symbolName
-                    if key in item:
-                        del item[key]
-                    if 'Date' in item and isinstance(item['Date'], pd.Timestamp):
-                        item['Date'] = item['Date'].strftime('%Y-%m-%d')
-                
+                new_patterns = patterns.to_dict(orient="records")
+                for pattern in new_patterns:
+                    pattern["Stock"] = symbolName
+                    if key in pattern:
+                        del pattern[key]
+                    if "Date" in pattern and isinstance(pattern["Date"], pd.Timestamp):
+                        pattern["Date"] = pattern["Date"].strftime("%Y-%m-%d")
+                candle_data += new_patterns
+
                 with open(candle_path, "w") as f:
                     json.dump(candle_data, f, indent=4)
-
-                # Print all items from the patterns dataframe
-
-                print(
-                    patterns[
-                        ["Date", "Open", "High", "Low", "Close", "Percent Change", key]
-                    ]
-                )
-
-    # fetch all the symbol to calculate candle of
-    # save each data of each candles separately in which multiple symbols will be present
-    # save each candle data in $candle_name.json file inside
-    # fetch all the symbol to calculate candle of
-    # save each data of each candles separately in which multiple symbols will be present
-    # save each candle data in $candle_name.json file inside
 
 
 def calculate_candleSticks_us():
