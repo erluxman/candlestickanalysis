@@ -79,7 +79,6 @@ def transform_data(raw_data, market):
         if volume_str == "":
             volume_str = "0"
 
-        print(entry)
         volume = float(volume_str)
 
         # Create a new entry with the transformed data
@@ -128,40 +127,37 @@ def download_data_us():
 
     for stock in snp_500_symbols:
         # save to a json file in the data/crude/us folder
-        try:
-            # Download historical data
-            ticker = yf.Ticker(stock)
-            stock_data = ticker.history(
-                start="2019-12-31", end="2024-11-28", interval="1d"
-            )
-            stock_data.columns = stock_data.columns.to_flat_index()
 
-            # Convert the data to JSON format with a more readable structure
-            stock_data_json = stock_data.to_json(orient="index")
+        # Download historical data
+        ticker = yf.Ticker(stock)
+        stock_data = ticker.history(start="2019-12-31", end="2024-11-28", interval="1d")
+        stock_data.columns = stock_data.columns.to_flat_index()
 
-            # Convert the data to JSON format
-            # stock_data_json = stock_data.to_json(orient="index")
-            stock_dict = stock_data.reset_index().to_dict(orient="records")
+        # Convert the data to JSON format with a more readable structure
+        stock_data_json = stock_data.to_json(orient="index")
 
-            for day_data in stock_dict:
-                # Convert Unix timestamp (milliseconds) to datetime
-                day_data["Date"] = (day_data["Date"]).strftime("%Y-%m-%d")
-                del day_data["Dividends"]
-                del day_data["Stock Splits"]
+        # Convert the data to JSON format
+        # stock_data_json = stock_data.to_json(orient="index")
+        stock_dict = stock_data.reset_index().to_dict(orient="records")
 
-            # Create filename with current timestamp
-            filename = f"{stock}.json"
+        for day_data in stock_dict:
+            # Convert Unix timestamp (milliseconds) to datetime
+            day_data["Date"] = (day_data["Date"]).strftime("%Y-%m-%d")
+            del day_data["Dividends"]
+            del day_data["Stock Splits"]
 
-            # Define the file path
-            file_path = os.path.join(usDataPathCrude, f"{stock}.json")
+        # Create filename with current timestamp
+        filename = f"{stock}.json"
 
-            # Save the data to a JSON file
-            with open(file_path, "w") as f:
-                json.dump(stock_dict, f, indent=4, default=str)
+        # Define the file path
+        file_path = os.path.join(usDataPathCrude, f"{stock}.json")
 
-            print(f"Data for {stock} saved successfully.")
-        except Exception as e:
-            print(f"Failed to download data for {stock}: {e}")
+        # Save the data to a JSON file
+        os.makedirs(usDataPathCrude, exist_ok=True)
+        with open(file_path, "w") as f:
+            json.dump(stock_dict, f, indent=4, default=str)
+
+        print(f"Data for {stock} saved successfully.")
 
 
 # Step 2 Normalize US Market Data
@@ -173,7 +169,7 @@ def normalize_data_us():
 # Step 3 Normalize Nepali Market Data
 def normalize_data_np():
     read_and_transform_json_files(npDataPathCrude, npDataPathNormalized, "np")
-    print("normalize_data_np")
+    print("NP data normalized")
 
 
 def download_data():
