@@ -56,8 +56,28 @@ def export_summary_to_json(input_dir, output_dir, market):
                 item["next_week_change_percentage"] for item in data
             ],
         }
+
+        for item in data:
+            symbol = item["stock"]
+            stock_data_raw = [item for item in data if item["stock"] == symbol]
+            # stock_data_raw = data.where(data["stock"] == symbol).dropna()
+            symbol_data_summary = {
+                "next_day_change_percentage": [
+                    item["next_day_change_percentage"] for item in stock_data_raw
+                ],
+                "next_week_change_percentage": [
+                    item["next_week_change_percentage"] for item in stock_data_raw
+                ],
+            }
+            if value not in summary_data_individual:
+                summary_data_individual[value] = {}
+
+            summary_data_individual[value][symbol] = symbol_data_summary
+
+    summary_data["individual_trends"] = summary_data_individual
+    summary_data["merged_trends"] = summary_data_merged
+
     output_file = os.path.join(output_dir, f"{market}_summary.json")
-    summary_data["merged"] = summary_data_merged
     with open(output_file, "w") as f:
         json.dump(summary_data, f, indent=4)
 
