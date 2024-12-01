@@ -1,5 +1,6 @@
 from src.steps.normalize_data import *
 from src.steps.calculate_candlesticks import *
+from src.steps.compose_data import *
 
 
 def prepareData():
@@ -11,6 +12,8 @@ def prepareData():
 def calculate_candleSticks():
     calculate_candleSticks_us()
     calculate_candleSticks_np()
-    
-def compose_data():
-    export_to_excel()
+
+def compose_transformation_result():
+    export_to_excel_us()
+    export_to_excel_np()
+    export_summary_to_json()

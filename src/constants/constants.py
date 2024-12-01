@@ -546,3 +546,7 @@ us_data_path_candles = (
 np_data_path_candles = (
     "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step3_candlesticks_data/np"
 )
+
+data_path_transformed = (
+    "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step4_transformed_data"
+)
