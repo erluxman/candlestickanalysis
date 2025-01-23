@@ -1,10 +1,10 @@
 from docx import Document
 from docx.shared import Inches
 import requests
-# import packaging.version
+import packaging.version
 from io import BytesIO
 from docx.shared import RGBColor
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 dummy_img_url = "https://media.istockphoto.com/id/117247268/photo/growth-chart.jpg?s=612x612&w=0&k=20&c=DokCI-1Ury3g02MwsRY_4NLX6ytKCL7zdXviJD2rVxo="
 
@@ -52,38 +52,38 @@ def write_dummy_docx():
     img = BytesIO(response.content)
     doc.add_picture(img, width=Inches(4.0))
 
-    # # Generate and add a pie chart
-    # labels = 'A', 'B', 'C', 'D'
-    # sizes = [15, 30, 45, 10]
-    # fig1, ax1 = plt.subplots()
-    # ax1.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=90)
-    # ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
-    # pie_chart = BytesIO()
-    # plt.savefig(pie_chart, format='png')
-    # pie_chart.seek(0)
-    # doc.add_picture(pie_chart, width=Inches(4.0))
-    # plt.close(fig1)
+    # Generate and add a pie chart
+    labels = 'A', 'B', 'C', 'D'
+    sizes = [15, 30, 45, 10]
+    fig1, ax1 = plt.subplots()
+    ax1.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=90)
+    ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
+    pie_chart = BytesIO()
+    plt.savefig(pie_chart, format='png')
+    pie_chart.seek(0)
+    doc.add_picture(pie_chart, width=Inches(4.0))
+    plt.close(fig1)
 
-    # # Generate and add a scatter plot
-    # x = [1, 2, 3, 4, 5]
-    # y = [10, 20, 25, 30, 40]
-    # fig2, ax2 = plt.subplots()
-    # ax2.scatter(x, y)
-    # scatter_plot = BytesIO()
-    # plt.savefig(scatter_plot, format='png')
-    # scatter_plot.seek(0)
-    # doc.add_picture(scatter_plot, width=Inches(4.0))
-    # plt.close(fig2)
+    # Generate and add a scatter plot
+    x = [1, 2, 3, 4, 5]
+    y = [10, 20, 25, 30, 40]
+    fig2, ax2 = plt.subplots()
+    ax2.scatter(x, y)
+    scatter_plot = BytesIO()
+    plt.savefig(scatter_plot, format='png')
+    scatter_plot.seek(0)
+    doc.add_picture(scatter_plot, width=Inches(4.0))
+    plt.close(fig2)
 
-    # # Generate and add a box plot
-    # data = [20, 30, 40, 50, 60, 70, 80, 90, 100]
-    # fig3, ax3 = plt.subplots()
-    # ax3.boxplot(data)
-    # box_plot = BytesIO()
-    # plt.savefig(box_plot, format='png')
-    # box_plot.seek(0)
-    # doc.add_picture(box_plot, width=Inches(4.0))
-    # plt.close(fig3)
+    # Generate and add a box plot
+    data = [20, 30, 40, 50, 60, 70, 80, 90, 100]
+    fig3, ax3 = plt.subplots()
+    ax3.boxplot(data)
+    box_plot = BytesIO()
+    plt.savefig(box_plot, format='png')
+    box_plot.seek(0)
+    doc.add_picture(box_plot, width=Inches(4.0))
+    plt.close(fig3)
     # Save the document
     doc.save(
         "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/src/steps/docx_output/thesis_analysis.docx"
