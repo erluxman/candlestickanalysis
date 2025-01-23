@@ -9,138 +9,135 @@ import matplotlib.pyplot as plt
 
 dummy_img_url = "https://media.istockphoto.com/id/117247268/photo/growth-chart.jpg?s=612x612&w=0&k=20&c=DokCI-1Ury3g02MwsRY_4NLX6ytKCL7zdXviJD2rVxo="
 
+def add_heading(doc, text, level=1):
+    doc.add_heading(text, level)
+
+
+def add_paragraph(doc, text, style=None):
+    doc.add_paragraph(text, style=style)
+
+
+def add_table(doc, data, style="Table Grid"):
+    rows, cols = len(data), len(data[0])
+    table = doc.add_table(rows=rows, cols=cols)
+    table.style = style
+    for i, row in enumerate(data):
+        for j, cell_text in enumerate(row):
+            cell = table.cell(i, j)
+            cell.text = cell_text
+            if i == 0:  # Make the heading row bold and blue
+                run = cell.paragraphs[0].runs[0]
+                run.bold = True
+                run.font.color.rgb = RGBColor(0, 0, 255)  # Blue color
+
+
+def add_image(doc, image_path, width=Inches(4.0)):
+    doc.add_picture(image_path, width=width)
+
+
+def add_chart(doc, chart_func, *args, **kwargs):
+    fig, ax = plt.subplots()
+    chart_func(ax, *args, **kwargs)
+    chart_image = BytesIO()
+    plt.savefig(chart_image, format="png")
+    chart_image.seek(0)
+    doc.add_picture(chart_image, width=Inches(4.0))
+    plt.close(fig)
+
+
+def create_reference_doc():
+    ref_doc = Document()
+    add_heading(ref_doc, "References", level=1)
+    add_paragraph(
+        ref_doc,
+        "1. Author A. (Year). Title of the paper. Journal Name, Volume(Issue), pages.",
+    )
+    add_paragraph(ref_doc, "2. Author B. (Year). Title of the book. Publisher.")
+    return ref_doc
+
+
+def save_document(doc, path):
+    doc.save(path)
+
+
+def append_docs(main_doc, ref_doc_path):
+    with open(ref_doc_path, "rb") as ref_file:
+        ref_doc = Document(BytesIO(ref_file.read()))
+    for element in ref_doc.element.body:
+        main_doc.element.body.append(element)
+
+
+thesis_path = "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/src/steps/docx_output/thesis.docx"
+
+ref_path = "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/src/steps/docx_output/refs.docx"
+
+def open_thesis():
+    os.system(f"open {thesis_path}")
+
+def save_document(doc, path):
+    doc.save(path)
+
+def clear_thesis():
+    if os.path.exists(thesis_path):
+        os.remove(thesis_path)
+    if os.path.exists(ref_path):
+        os.remove(ref_path)
+
+def thesis_body():
+    path = thesis_path
+    if not os.path.exists(path):
+        return Document()
+    with open(path, "rb") as file:
+        return Document(BytesIO(file.read()))
+
+
+def thesis_ref():
+    path = ref_path
+    if not os.path.exists(path):
+        return Document()
+    with open(path, "rb") as file:
+        return Document(BytesIO(file.read()))
+
 
 def write_dummy_docx():
+    body = thesis_body()
+    add_heading(body, "Document Title", 0)
+    add_paragraph(body, "This is a simple paragraph.")
+    add_paragraph(body, "First item in the list", style="List Bullet")
+    add_paragraph(body, "Second item in the list", style="List Bullet")
+    add_paragraph(body, "First item in the numbered list", style="List Number")
+    add_paragraph(body, "Second item in the numbered list", style="List Number")
 
-    # Create a new Document object
-    doc = Document()
+    table_data = [["Name", "Age"], ["John Doe", "30"]]
+    add_table(body, table_data)
 
-    # Add a heading
-    doc.add_heading("Document Title", 0)
-
-    # Add a paragraph
-    doc.add_paragraph("This is a simple paragraph.")
-
-    # Add a bulleted list
-    doc.add_paragraph("First item in the list", style="List Bullet")
-    doc.add_paragraph("Second item in the list", style="List Bullet")
-
-    # Add a numbered list
-    doc.add_paragraph("First item in the numbered list", style="List Number")
-    doc.add_paragraph("Second item in the numbered list", style="List Number")
-
-    # Add a table
-    table = doc.add_table(rows=2, cols=2)
-    table.style = "Table Grid"  # Apply a style with borders
-    cell_00 = table.cell(0, 0)
-    cell_00.text = "Name"
-    run_00 = cell_00.paragraphs[0].runs[0]
-    run_00.bold = True
-    run_00.font.color.rgb = RGBColor(255, 0, 0)  # Set text color to red
-
-    cell_01 = table.cell(0, 1)
-    cell_01.text = "Age"
-    run_01 = cell_01.paragraphs[0].runs[0]
-    run_01.bold = True
-    run_01.font.color.rgb = RGBColor(255, 0, 0)  # Set text color to red
-
-    table.cell(1, 0).text = "John Doe"
-    table.cell(1, 1).text = "30"
-
-    # Add an image from URL
     response = requests.get(dummy_img_url)
     img = BytesIO(response.content)
-    doc.add_picture(img, width=Inches(4.0))
+    add_image(body, img)
 
-    # Generate and add a pie chart
-    labels = "A", "B", "C", "D"
-    sizes = [15, 30, 45, 10]
-    fig1, ax1 = plt.subplots()
-    ax1.pie(sizes, labels=labels, autopct="%1.1f%%", startangle=90)
-    ax1.axis("equal")  # Equal aspect ratio ensures that pie is drawn as a circle.
-    pie_chart = BytesIO()
-    plt.savefig(pie_chart, format="png")
-    pie_chart.seek(0)
-    doc.add_picture(pie_chart, width=Inches(4.0))
-    plt.close(fig1)
-
-    # Generate and add a scatter plot
-    x = [1, 2, 3, 4, 5]
-    y = [10, 20, 25, 30, 40]
-    fig2, ax2 = plt.subplots()
-    ax2.scatter(x, y)
-    scatter_plot = BytesIO()
-    plt.savefig(scatter_plot, format="png")
-    scatter_plot.seek(0)
-    doc.add_picture(scatter_plot, width=Inches(4.0))
-    plt.close(fig2)
-
-    # Generate and add a box plot
-    data = [20, 30, 40, 50, 60, 70, 80, 90, 100]
-    fig3, ax3 = plt.subplots()
-    ax3.boxplot(data)
-    box_plot = BytesIO()
-    plt.savefig(box_plot, format="png")
-    box_plot.seek(0)
-    doc.add_picture(box_plot, width=Inches(4.0))
-    plt.close(fig3)
-
-    # Add dummy text for references
-    # Create a new Document object for references
-    ref_doc = Document()
-
-    # Add a heading for references
-    ref_doc.add_heading("References", level=1)
-    ref_doc.add_paragraph(
-        "1. Author A. (Year). Title of the paper. Journal Name, Volume(Issue), pages."
+    add_chart(
+        body,
+        lambda ax: ax.pie(
+            [15, 30, 45, 10],
+            labels=["A", "B", "C", "D"],
+            autopct="%1.1f%%",
+            startangle=90,
+        ),
     )
-    ref_doc.add_paragraph("2. Author B. (Year). Title of the book. Publisher.")
-    
-    
-    
-    # Add a table to the main document
-    table = doc.add_table(rows=3, cols=3)
-    table.style = "Table Grid"
-    for i in range(3):
-        for j in range(3):
-            table.cell(i, j).text = f"Row {i+1}, Col {j+1}"
+    add_chart(body, lambda ax: ax.scatter([1, 2, 3, 4, 5], [10, 20, 25, 30, 40]))
+    add_chart(body, lambda ax: ax.boxplot([20, 30, 40, 50, 60, 70, 80, 90, 100]))
+    add_chart(body, lambda ax: ax.plot([1, 2, 3, 4, 5], [10, 20, 30, 40, 50]))
 
-    # Generate and add a line chart
-    x = [1, 2, 3, 4, 5]
-    y = [10, 20, 30, 40, 50]
-    fig4, ax4 = plt.subplots()
-    ax4.plot(x, y)
-    line_chart = BytesIO()
-    plt.savefig(line_chart, format="png")
-    line_chart.seek(0)
-    doc.add_picture(line_chart, width=Inches(4.0))
-    plt.close(fig4)
+    reference = thesis_ref()
+    long_table_data = [["Index", "Description"]] + [
+        [str(i), f"Description for item {i}"] for i in range(1, 21)
+    ]
+    add_table(reference, long_table_data)
 
-    # Add a long table to the references document
-    long_table = ref_doc.add_table(rows=21, cols=2)
-    long_table.style = "Table Grid"
-    long_table.cell(0, 0).text = "Index"
-    long_table.cell(0, 1).text = "Description"
-    for i in range(1, 21):
-        long_table.cell(i, 0).text = str(i)
-        long_table.cell(i, 1).text = f"Description for item {i}"
+    save_document(reference, ref_path)
 
-    # Save the references document
-    reference_path = "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/src/steps/docx_output/thesis_reference.docx"
-    ref_doc.save(reference_path)
+    save_document(body, thesis_path)
 
-        
-    output_path = "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/src/steps/docx_output/thesis_analysis.docx"
-    doc.save(output_path)
-    
-    # Read the references document
-    with open(reference_path, "rb") as ref_file:
-        ref_doc = Document(BytesIO(ref_file.read()))
-
-    # Append references to the main document
-    for element in ref_doc.element.body:
-        doc.element.body.append(element)
-
-    # Save the combined document
-    doc.save(output_path)
-    os.system(f"open {output_path}")
+    append_docs(body, ref_path)
+    save_document(body, thesis_path)
+    os.system(f"open {thesis_path}")
