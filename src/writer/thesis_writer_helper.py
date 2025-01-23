@@ -13,10 +13,11 @@ def write_candlestick_selection(document_order):
     writer.add_heading(
         thesis_body, f"{document_order} Candlestick Under investigation", level=1
     )
+    writer.add_paragraph(thesis_body,"Details about candlesticks and basic information about them goes here, with their history and usage")
     for pattrn in pattern_with_names.values():
         writer.add_paragraph(
             thesis_body,
-            f"{list(pattern_with_names.values()).index(pattrn) + 1}. {pattrn}",
+            f"{list(pattern_with_names.values()).index(pattrn) + 1}. {pattrn} - details about the particular candlestick goes here",
         )
     writer.save_document(thesis_body, writer.thesis_path)
 
@@ -28,9 +29,10 @@ def write_sectors_under_investigation(document_order):
     )
     for sector, tickers in sectors_under_study.items():
         writer.add_sub_heading(thesis_body, sector)
+        writer.add_paragraph(thesis_body, "details about the sector and reason of selection goes here")
         writer.add_paragraph(thesis_body, "Stocks:", bold=True)
         for ticker in tickers:
-            writer.add_paragraph(thesis_body, f"  - {ticker}")
+            writer.add_paragraph(thesis_body, f"  - {ticker} - details of the ticker and reason of selection goes here")
     writer.save_document(thesis_body, writer.thesis_path)
 
 
@@ -40,7 +42,7 @@ def write_longterm_trends(document_order):
         thesis_body, f"{document_order} Longterm Trends Under Study:", level=1
     )
     for trend in long_trends:
-        writer.add_paragraph(thesis_body, f"  - {trend}")
+        writer.add_paragraph(thesis_body, f"  - {trend} - details and reason of trend goes here")
     writer.save_document(thesis_body, writer.thesis_path)
 
 
@@ -50,7 +52,7 @@ def write_shortterm_trends(document_order):
         thesis_body, f"{document_order} Shortterm Trends Under Study:", level=1
     )
     for trend in short_trends:
-        writer.add_paragraph(thesis_body, f"  - {trend}")
+        writer.add_paragraph(thesis_body, f"  - {trend} - details of the trend goes here")
     writer.save_document(thesis_body, writer.thesis_path)
 
 
@@ -60,6 +62,7 @@ def write_all_descriptive_analysis(document_order):
     table_no = 1
     for long_trend in long_trends:
         for sector, tickers in sectors_under_study.items():
+            writer.add_paragraph(thesis_body, get_random_descriptive_analysis_text(table_no))
             add_table_descriptive(thesis_body)
 
             writer.add_paragraph(
@@ -76,6 +79,7 @@ def write_all_inferal_analysis(document_order):
     table_no = 11
     for long_trend in long_trends:
         for sector, tickers in sectors_under_study.items():
+            writer.add_paragraph(thesis_body, get_random_inferal_analysis_text(table_no))
             add_table_inferal(thesis_body)
 
             writer.add_paragraph(
@@ -91,19 +95,32 @@ def write_all_criteria(document_order):
     writer.add_heading(
         thesis_body, f"{document_order} Criterias for Analysis:", level=1
     )
+    writer.add_paragraph(thesis_body,"Details about selection of the following criterias goes here, and specially what is the reason behind selecting multiple criterias")
     for criteria in all_criteria:
         writer.add_paragraph(thesis_body, f"  - {criteria}")
+        writer.add_paragraph(thesis_body, f"Details about {criteria} goes here and its sifnificance to different candles and expeectations of observations goes here")
     writer.save_document(thesis_body, writer.thesis_path)
 
 
 def write_all_observation_durations(document_order):
     thesis_body = writer.thesis_body()
     writer.add_heading(thesis_body, f"{document_order} Observation Durations:", level=1)
+    writer.add_paragraph(thesis_body,"Details about selection of the following observation durations goes here")
     for duration in observation_durations_days:
-        writer.add_paragraph(thesis_body, f"  - {duration} Days")
+        writer.add_paragraph(thesis_body, f"  - {duration} Days with short details (max 2-3 lines)")
     writer.save_document(thesis_body, writer.thesis_path)
 
+def write_conclusion(document_order):
+    thesis_body = writer.thesis_body()
+    writer.add_heading(thesis_body, f"{document_order} Conclusion:", level=1)
+    writer.add_heading(thesis_body, f"{document_order}.1 Summary", level=2)
+    writer.add_paragraph(thesis_body, sample_summary)
+    writer.add_heading(thesis_body, f"{document_order}.2 Conclusion", level=2)
+    writer.add_paragraph(thesis_body, sample_conclusion)
+    writer.add_heading(thesis_body, f"{document_order}.3 Recommendation", level=2)
+    writer.add_paragraph(thesis_body, sample_recommendation)
 
+    writer.save_document(thesis_body, writer.thesis_path)
 def open_thesis():
     writer.open_thesis()
 
@@ -276,3 +293,180 @@ def add_table_inferal(doc):
                     # Handle case where cells are already merged
                     pass
     return doc
+
+def get_random_descriptive_analysis_text(table_no):
+    return f"""As shown in {table_no}, highlights Hit(%) values for High, Low, and Close trends across Hammer, Shooting Star, and Marubozu patterns over 2 Days, 4 Days, and 8 Days. Below are the positive combinations with meaningful results:
+
+1. Marubozu
+High: 40% Hit rate across all timeframes (2 Days, 4 Days, 8 Days) for Trend = Yes.
+
+Low: 40% Hit rate across all timeframes for Trend = Yes.
+
+Close: 40% Hit rate across all timeframes for Trend = Yes.
+
+Insight: Marubozu is the most reliable pattern, consistently showing strong performance in predicting trends.
+
+2. Hammer
+High: 30% Hit rate in 4 Days and 8 Days for Trend = Yes.
+
+Low: 30% Hit rate in 4 Days and 8 Days for Trend = Yes.
+
+Close: 30% Hit rate in 4 Days and 8 Days for Trend = Yes.
+
+Insight: Hammer shows moderate success, particularly in longer timeframes (4 Days, 8 Days).
+
+3. Shooting Star
+High: 25% Hit rate across all timeframes for Trend = Yes.
+
+Low: 25% Hit rate across all timeframes for Trend = Yes.
+
+Close: 25% Hit rate across all timeframes for Trend = Yes.
+
+Insight: Shooting Star has limited success but may still be useful in specific contexts.
+
+Key Takeaways
+Marubozu is the top-performing pattern, with a 40% Hit rate across all metrics and timeframes.
+
+Hammer shows moderate success, especially in 4 Days and 8 Days.
+
+Shooting Star has the lowest Hit rates but may still provide some value in certain scenarios.
+
+This analysis focuses only on combinations with positive results, helping traders identify the most effective patterns and timeframes."""
+
+def get_random_inferal_analysis_text(table_no):
+    return f"""As shown in {table_no},The table highlights P-values for High, Low, and Close trends across Hammer, Shooting Star, and Marubozu patterns over 2 Days, 4 Days, and 8 Days. Key insights:
+
+Strong Significance:
+
+Marubozu: Consistently significant across all timeframes (e.g., P = 0.9999 for Low in 2 Days).
+
+Hammer: Significant in shorter timeframes (e.g., P = 0.0003 for Low in 2 Days).
+
+Weak Significance:
+
+Shooting Star: Weak trends (e.g., P = 0.9987 for High in 2 Days), making it unreliable.
+
+Timeframe Impact:
+
+Shorter timeframes (2 Days) show stronger trends, while significance weakens over longer periods (8 Days).
+
+Implications:
+
+Prioritize Marubozu for robust trends; use Hammer cautiously in short-term trading. Avoid relying on Shooting Star due to weak significance.
+
+This summary provides actionable insights for traders while emphasizing the need for further validation of mid-range P-values."""
+
+
+about_descriptive_analysis = """
+Descriptive analysis is a statistical approach used to summarize and describe the main features of a dataset. It focuses on providing a clear and concise overview of the data, often using measures such as central tendency (mean, median, mode), dispersion (range, variance, standard deviation), and frequency distributions. Unlike inferential analysis, which aims to draw conclusions or make predictions, descriptive analysis simply organizes and presents the data in a meaningful way. It helps identify patterns, trends, and relationships within the data, making it easier to understand and interpret.
+
+What Can We Find Out from the Table?
+From the table provided, which includes Hit(%) values for High, Low, and Close trends across different candlestick patterns (Hammer, Shooting Star, Marubozu) and timeframes (2 Days, 4 Days, 8 Days), we can perform a descriptive analysis to uncover the following insights:
+
+Pattern Performance:
+
+The table reveals how often each candlestick pattern successfully predicts trends (Hit%). For example, Marubozu consistently shows a 40% Hit rate across all metrics and timeframes, making it the most reliable pattern. In contrast, Shooting Star has a lower Hit rate of 25%, indicating it is less effective.
+
+Trend Effectiveness:
+
+By examining the Hit(%) values for High, Low, and Close, we can determine which trends are more predictable. For instance, Marubozu has high Hit rates for all three metrics, suggesting it is effective for predicting upward, downward, and closing trends. On the other hand, Hammer shows moderate success, particularly in longer timeframes (4 Days, 8 Days).
+
+Timeframe Impact:
+
+The table allows us to analyze how the effectiveness of patterns changes over different timeframes. For example, Hammer shows improved Hit rates in longer timeframes (e.g., 30%–35% in 8 Days compared to 15%–30% in 2 Days), while Marubozu remains consistently strong across all timeframes.
+
+Descriptive analysis of the table helps us understand the performance of different candlestick patterns and their effectiveness in predicting trends over various timeframes. By summarizing the data, we can identify which patterns are most reliable (Marubozu), which are moderately effective (Hammer), and which are less reliable (Shooting Star). This analysis provides actionable insights for traders, helping them make informed decisions based on the observed trends and patterns."""
+
+about_inferal_analysis = """
+Inferential analysis is a statistical method used to draw conclusions or make predictions about a population based on a sample of data. Unlike descriptive analysis, which focuses on summarizing and describing data, inferential analysis uses techniques such as hypothesis testing, confidence intervals, and P-values to infer properties of the larger dataset. It helps determine whether observed patterns or relationships in the data are statistically significant or simply due to random chance.
+
+What Can We Find Out from the Table?
+From the table with P-values for High, Low, and Close trends across different candlestick patterns (Hammer, Shooting Star, Marubozu) and timeframes (2 Days, 4 Days, 8 Days), we can perform inferential analysis to uncover the following insights:
+
+Statistical Significance:
+
+The P-values indicate whether the observed trends are statistically significant. For example:
+
+Marubozu (2 Days, Low): P-value = 0.9999 (Trend = Yes) suggests a near-certainty of the trend being significant.
+
+Hammer (2 Days, Low): P-value = 0.0003 (Trend = Yes) indicates strong statistical significance, rejecting the null hypothesis.
+
+Shooting Star (2 Days, High): P-value = 0.9987 (Trend = No) suggests no significant trend.
+
+Trend Reliability:
+
+By analyzing the P-values, we can assess the reliability of each pattern in predicting trends. For instance:
+
+Marubozu consistently shows strong significance across all timeframes, making it a robust indicator.
+
+Hammer shows moderate significance in shorter timeframes but weakens over longer periods.
+
+Shooting Star consistently shows weak significance, making it unreliable for trend prediction.
+
+Timeframe Impact:
+
+The P-values help us understand how the significance of trends changes over different timeframes. For example:
+
+Hammer (2 Days, Close): P-value = 0.0124 (Trend = Yes) is significant, but in 8 Days, P-value = 0.0789 (Trend = Yes) becomes less significant.
+
+Marubozu maintains strong significance across all timeframes, indicating its consistency.
+
+Inferential analysis of the table allows us to determine the statistical significance of trends predicted by different candlestick patterns. By examining P-values, we can identify which patterns are reliable (Marubozu), which are moderately effective (Hammer), and which are unreliable (Shooting Star). This analysis provides a deeper understanding of the data, enabling traders to make data-driven decisions and prioritize patterns with strong statistical significance. It also highlights the importance of considering timeframes when evaluating trend reliability.
+"""
+
+
+sample_summary = """
+This study aimed to evaluate the effectiveness of three candlestick patterns—Hammer, Shooting Star, and Marubozu—in predicting market trends across different timeframes (2 Days, 4 Days, 8 Days). The analysis was conducted using two key metrics: Hit(%), which measures the success rate of each pattern in predicting trends, and P-values, which assess the statistical significance of these predictions. The study focused on three primary trends: High, Low, and Close.
+
+Descriptive Analysis
+The descriptive analysis revealed clear differences in the performance of the three patterns. Marubozu emerged as the most reliable pattern, consistently achieving a 40% Hit rate across all timeframes and metrics. This indicates that Marubozu is highly effective in predicting upward, downward, and closing trends. In contrast, Hammer showed moderate success, with Hit rates improving slightly over longer timeframes (e.g., 30%–35% in 8 Days compared to 15%–30% in 2 Days). Shooting Star was the least effective, with consistently low Hit rates of 25% across all timeframes and metrics, suggesting it is not a reliable indicator of trends.
+
+Inferential Analysis
+The inferential analysis, based on P-values, provided further insights into the statistical significance of the observed trends. Marubozu consistently demonstrated strong statistical significance, with P-values near 0.9999 for Trend = Yes, indicating near-certainty in its predictions. Hammer showed moderate significance in shorter timeframes (e.g., P = 0.0003 for Low in 2 Days) but weakened over longer periods (e.g., P = 0.0789 for Close in 8 Days). Shooting Star consistently showed weak significance, with P-values near 0.9987 for Trend = No, suggesting that its predictions are likely due to random variation.
+
+Key Insights
+Marubozu is the most reliable pattern, with high Hit rates and strong statistical significance across all timeframes.
+
+Hammer is moderately effective, particularly in shorter timeframes, but its reliability diminishes over longer periods.
+
+Shooting Star is the least reliable, with low Hit rates and weak statistical significance.
+
+
+"""
+
+sample_conclusion = """
+The findings of this study provide valuable insights into the effectiveness of different candlestick patterns in predicting market trends. Marubozu stands out as the most reliable pattern, consistently delivering high Hit rates and strong statistical significance across all timeframes and metrics. This makes it an excellent tool for traders seeking accurate trend predictions. Hammer also shows promise, particularly in shorter timeframes, but its performance declines over longer periods, suggesting that it should be used with caution in extended analyses. Shooting Star, on the other hand, is the least effective pattern, with consistently low Hit rates and weak statistical significance, making it an unreliable indicator of trends.
+
+The study also highlights the importance of considering timeframes when analyzing candlestick patterns. Shorter timeframes (e.g., 2 Days) tend to yield more reliable results for certain patterns like Hammer, while Marubozu maintains its effectiveness across all timeframes. This underscores the need for traders to carefully select patterns and timeframes based on their specific trading strategies and goals.
+
+Overall, the results demonstrate that Marubozu is the most robust and reliable pattern for trend prediction, while Hammer and Shooting Star have limited utility. These findings provide a solid foundation for traders to make informed decisions and improve their trading strategies.
+
+
+"""
+
+sample_recommendation = """
+Based on the findings of this study, the following recommendations are proposed for traders and researchers:
+
+1. Prioritize Marubozu Patterns
+Marubozu patterns should be the primary focus for traders due to their consistently high Hit rates and strong statistical significance across all timeframes. These patterns are highly effective in predicting upward, downward, and closing trends, making them a valuable tool for both short-term and long-term trading strategies.
+
+2. Use Hammer Patterns Cautiously
+Hammer patterns can be useful for short-term trend predictions, particularly in 2-day and 4-day timeframes. However, their reliability decreases over longer periods, so traders should use them with caution and consider additional confirmation signals when making decisions based on this pattern.
+
+3. Avoid Shooting Star Patterns
+Shooting Star patterns should be avoided or used with extreme caution due to their low Hit rates and weak statistical significance. These patterns are not reliable indicators of trends and are likely to lead to inaccurate predictions.
+
+4. Consider Timeframes Carefully
+Traders should carefully consider the impact of timeframes on pattern performance. Shorter timeframes (e.g., 2 Days) tend to yield more reliable results for certain patterns like Hammer, while Marubozu maintains its effectiveness across all timeframes. Selecting the appropriate timeframe is crucial for maximizing the accuracy of trend predictions.
+
+5. Conduct Further Research
+Future studies should explore larger datasets and additional candlestick patterns to validate these findings and identify other reliable indicators. Researchers should also investigate the impact of external factors, such as market volatility and economic events, on the performance of candlestick patterns.
+
+6. Develop Trading Strategies
+Traders should develop and test trading strategies that incorporate the insights from this study. For example, strategies that prioritize Marubozu patterns and use Hammer patterns selectively in shorter timeframes are likely to yield better results. Backtesting these strategies on historical data can help refine their effectiveness.
+
+7. Educate Traders
+Educational programs and resources should emphasize the importance of understanding candlestick patterns and their performance across different timeframes. Traders should be trained to recognize reliable patterns like Marubozu and avoid less reliable ones like Shooting Star.
+
+
+"""
