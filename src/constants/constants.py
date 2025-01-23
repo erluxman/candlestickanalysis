@@ -484,6 +484,19 @@ snp_500_symbols = [
     "JCI",
 ]
 
+nepali_banks = ["NABIL", "NIB", "NICA", "EBL", "GBIME"]
+nepali_hydro = ["NHPC", "BPCL", "AHPC", "CHCL", "SHPC"]
+nepali_microfinance = ["NMBMF", "CBBL", "DDBL", "SKBBL", "SWBBL"]
+nepali_expensive = highest_price_tickers = ["UNL", "BNT", "RBCL", "STC", "BBC"]
+floating_sensitive_stocks = ["SAMAJ", "DHPL", "SSHL", "NHPC", "AKJCL"]
+
+sectors_under_study = {
+    "Banks": nepali_banks,
+    "Hydro": nepali_hydro,
+    "Microfinance": nepali_microfinance,
+    "Expensive": nepali_expensive,
+    "Low Floating": floating_sensitive_stocks,
+}
 pattern_with_names = {
     "CDLHAMMER": "Hammer",
     # "CDLINVERTEDHAMMER": "Inverted Hammer",
@@ -505,6 +518,19 @@ pattern_with_names = {
     # "CDL3INSIDE": "Three Inside Up-Down",
     # "CDL3OUTSIDE": "Three Outside Up-Down",
 }
+
+long_trends = ["Bullish", "Bearish"]
+short_trends = ["Up", "Down", "Sideways"]
+
+
+def get_short_trend(current_value, old_value):
+    change_percentage = abs((current_value - old_value) / old_value) * 100
+    if change_percentage < 5:
+        return "Sideways"
+    elif current_value > old_value:
+        return "Up"
+    else:
+        return "Down"
 
 
 patterns = [

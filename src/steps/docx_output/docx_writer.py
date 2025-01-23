@@ -11,10 +11,16 @@ dummy_img_url = "https://media.istockphoto.com/id/117247268/photo/growth-chart.j
 
 def add_heading(doc, text, level=1):
     doc.add_heading(text, level)
+    
+def add_sub_heading(doc, text, level=2):
+    doc.add_heading(text, level)
 
 
-def add_paragraph(doc, text, style=None):
-    doc.add_paragraph(text, style=style)
+def add_paragraph(doc, text, style=None, bold=False):
+    paragraph = doc.add_paragraph(text, style=style)
+    if bold:
+        for run in paragraph.runs:
+            run.bold = True
 
 
 def add_table(doc, data, style="Table Grid"):
