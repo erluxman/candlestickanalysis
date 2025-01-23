@@ -488,7 +488,7 @@ nepali_banks = ["NABIL", "NIB", "NICA", "EBL", "GBIME"]
 nepali_hydro = ["NHPC", "BPCL", "AHPC", "CHCL", "SHPC"]
 nepali_microfinance = ["NMBMF", "CBBL", "DDBL", "SKBBL", "SWBBL"]
 nepali_expensive = highest_price_tickers = ["UNL", "BNT", "RBCL", "STC", "BBC"]
-floating_sensitive_stocks = ["SAMAJ", "DHPL", "SSHL", "NHPC", "AKJCL"]
+floating_sensitive_stocks = ["SAMAJ", "SMH", "SPL", "KBSH", "BHPL"]
 
 sectors_under_study = {
     "Banks": nepali_banks,
@@ -520,7 +520,9 @@ pattern_with_names = {
 }
 
 long_trends = ["Bullish", "Bearish"]
-short_trends = ["Up", "Down", "Sideways"]
+short_trends = ["yes", "no"]# basically means if there was a shortterm trend or not that is useful to test the effecacy of that candlestick theoritically
+all_criteria =["Low/High", "Close"]
+observation_durations_days =[2,4,8]
 
 
 def get_short_trend(current_value, old_value):
