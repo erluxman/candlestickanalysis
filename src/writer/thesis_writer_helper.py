@@ -13,7 +13,10 @@ def write_candlestick_selection(document_order):
     writer.add_heading(
         thesis_body, f"{document_order} Candlestick Under investigation", level=1
     )
-    writer.add_paragraph(thesis_body,"Details about candlesticks and basic information about them goes here, with their history and usage")
+    writer.add_paragraph(
+        thesis_body,
+        "Details about candlesticks and basic information about them goes here, with their history and usage",
+    )
     for pattrn in pattern_with_names.values():
         writer.add_paragraph(
             thesis_body,
@@ -29,10 +32,15 @@ def write_sectors_under_investigation(document_order):
     )
     for sector, tickers in sectors_under_study.items():
         writer.add_sub_heading(thesis_body, sector)
-        writer.add_paragraph(thesis_body, "details about the sector and reason of selection goes here")
+        writer.add_paragraph(
+            thesis_body, "details about the sector and reason of selection goes here"
+        )
         writer.add_paragraph(thesis_body, "Stocks:", bold=True)
         for ticker in tickers:
-            writer.add_paragraph(thesis_body, f"  - {ticker} - details of the ticker and reason of selection goes here")
+            writer.add_paragraph(
+                thesis_body,
+                f"  - {ticker} - details of the ticker and reason of selection goes here",
+            )
     writer.save_document(thesis_body, writer.thesis_path)
 
 
@@ -42,7 +50,9 @@ def write_longterm_trends(document_order):
         thesis_body, f"{document_order} Longterm Trends Under Study:", level=1
     )
     for trend in long_trends:
-        writer.add_paragraph(thesis_body, f"  - {trend} - details and reason of trend goes here")
+        writer.add_paragraph(
+            thesis_body, f"  - {trend} - details and reason of trend goes here"
+        )
     writer.save_document(thesis_body, writer.thesis_path)
 
 
@@ -52,7 +62,9 @@ def write_shortterm_trends(document_order):
         thesis_body, f"{document_order} Shortterm Trends Under Study:", level=1
     )
     for trend in short_trends:
-        writer.add_paragraph(thesis_body, f"  - {trend} - details of the trend goes here")
+        writer.add_paragraph(
+            thesis_body, f"  - {trend} - details of the trend goes here"
+        )
     writer.save_document(thesis_body, writer.thesis_path)
 
 
@@ -60,9 +72,11 @@ def write_all_descriptive_analysis(document_order):
     thesis_body = writer.thesis_body()
     writer.add_heading(thesis_body, f"{document_order} Descriptive Analysis:", level=1)
     table_no = 1
-    for long_trend in long_trends:
-        for sector, tickers in sectors_under_study.items():
-            writer.add_paragraph(thesis_body, get_random_descriptive_analysis_text(table_no))
+    for sector, tickers in sectors_under_study.items():
+        for long_trend in long_trends:
+            writer.add_paragraph(
+                thesis_body, get_random_descriptive_analysis_text(table_no)
+            )
             add_table_descriptive(thesis_body)
 
             writer.add_paragraph(
@@ -77,9 +91,12 @@ def write_all_inferal_analysis(document_order):
     thesis_body = writer.thesis_body()
     writer.add_heading(thesis_body, f"{document_order} Inferal Analysis:", level=1)
     table_no = 11
-    for long_trend in long_trends:
-        for sector, tickers in sectors_under_study.items():
-            writer.add_paragraph(thesis_body, get_random_inferal_analysis_text(table_no))
+
+    for sector, tickers in sectors_under_study.items():
+        for long_trend in long_trends:
+            writer.add_paragraph(
+                thesis_body, get_random_inferal_analysis_text(table_no)
+            )
             add_table_inferal(thesis_body)
 
             writer.add_paragraph(
@@ -95,20 +112,32 @@ def write_all_criteria(document_order):
     writer.add_heading(
         thesis_body, f"{document_order} Criterias for Analysis:", level=1
     )
-    writer.add_paragraph(thesis_body,"Details about selection of the following criterias goes here, and specially what is the reason behind selecting multiple criterias")
+    writer.add_paragraph(
+        thesis_body,
+        "Details about selection of the following criterias goes here, and specially what is the reason behind selecting multiple criterias",
+    )
     for criteria in all_criteria:
         writer.add_paragraph(thesis_body, f"  - {criteria}")
-        writer.add_paragraph(thesis_body, f"Details about {criteria} goes here and its sifnificance to different candles and expeectations of observations goes here")
+        writer.add_paragraph(
+            thesis_body,
+            f"Details about {criteria} goes here and its sifnificance to different candles and expeectations of observations goes here",
+        )
     writer.save_document(thesis_body, writer.thesis_path)
 
 
 def write_all_observation_durations(document_order):
     thesis_body = writer.thesis_body()
     writer.add_heading(thesis_body, f"{document_order} Observation Durations:", level=1)
-    writer.add_paragraph(thesis_body,"Details about selection of the following observation durations goes here")
+    writer.add_paragraph(
+        thesis_body,
+        "Details about selection of the following observation durations goes here",
+    )
     for duration in observation_durations_days:
-        writer.add_paragraph(thesis_body, f"  - {duration} Days with short details (max 2-3 lines)")
+        writer.add_paragraph(
+            thesis_body, f"  - {duration} Days with short details (max 2-3 lines)"
+        )
     writer.save_document(thesis_body, writer.thesis_path)
+
 
 def write_conclusion(document_order):
     thesis_body = writer.thesis_body()
@@ -121,6 +150,8 @@ def write_conclusion(document_order):
     writer.add_paragraph(thesis_body, sample_recommendation)
 
     writer.save_document(thesis_body, writer.thesis_path)
+
+
 def open_thesis():
     writer.open_thesis()
 
@@ -294,6 +325,7 @@ def add_table_inferal(doc):
                     pass
     return doc
 
+
 def get_random_descriptive_analysis_text(table_no):
     return f"""As shown in {table_no}, highlights Hit(%) values for High, Low, and Close trends across Hammer, Shooting Star, and Marubozu patterns over 2 Days, 4 Days, and 8 Days. Below are the positive combinations with meaningful results:
 
@@ -332,6 +364,7 @@ Hammer shows moderate success, especially in 4 Days and 8 Days.
 Shooting Star has the lowest Hit rates but may still provide some value in certain scenarios.
 
 This analysis focuses only on combinations with positive results, helping traders identify the most effective patterns and timeframes."""
+
 
 def get_random_inferal_analysis_text(table_no):
     return f"""As shown in {table_no},The table highlights P-values for High, Low, and Close trends across Hammer, Shooting Star, and Marubozu patterns over 2 Days, 4 Days, and 8 Days. Key insights:

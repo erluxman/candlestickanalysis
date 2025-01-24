@@ -183,5 +183,5 @@ def delete_output_directories():
     shutil.rmtree(np_data_path_candles, ignore_errors=True)
     
 def normalize_data():
-    normalize_data_us()
-    # normalize_data_np()
+    # normalize_data_us()
+    normalize_data_np()

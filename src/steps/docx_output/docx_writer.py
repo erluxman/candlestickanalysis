@@ -7,7 +7,6 @@ from docx.shared import RGBColor
 import os
 import matplotlib.pyplot as plt
 
-dummy_img_url = "https://media.istockphoto.com/id/117247268/photo/growth-chart.jpg?s=612x612&w=0&k=20&c=DokCI-1Ury3g02MwsRY_4NLX6ytKCL7zdXviJD2rVxo="
 
 def add_heading(doc, text, level=1):
     doc.add_heading(text, level)
@@ -116,10 +115,6 @@ def write_dummy_docx():
 
     table_data = [["Name", "Age"], ["John Doe", "30"]]
     add_table(body, table_data)
-
-    response = requests.get(dummy_img_url)
-    img = BytesIO(response.content)
-    add_image(body, img)
 
     add_chart(
         body,
