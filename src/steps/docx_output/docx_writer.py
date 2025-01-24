@@ -10,7 +10,8 @@ import matplotlib.pyplot as plt
 
 def add_heading(doc, text, level=1):
     doc.add_heading(text, level)
-    
+
+
 def add_sub_heading(doc, text, level=2):
     doc.add_heading(text, level)
 
@@ -76,17 +77,21 @@ thesis_path = "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/src/steps/
 
 ref_path = "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/src/steps/docx_output/refs.docx"
 
+
 def open_thesis():
     os.system(f"open {thesis_path}")
 
+
 def save_document(doc, path):
     doc.save(path)
+
 
 def clear_thesis():
     if os.path.exists(thesis_path):
         os.remove(thesis_path)
     if os.path.exists(ref_path):
         os.remove(ref_path)
+
 
 def thesis_body():
     path = thesis_path
@@ -141,4 +146,3 @@ def write_dummy_docx():
 
     append_docs(body, ref_path)
     save_document(body, thesis_path)
-    os.system(f"open {thesis_path}")

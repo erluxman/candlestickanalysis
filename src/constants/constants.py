@@ -1,3 +1,6 @@
+import os
+current_directory = os.path.dirname(os.path.abspath(__file__)).split("src")[0]
+
 # nepse_symbols_all = [
 #     "ACLBSL",
 #     "ADBL",
@@ -589,23 +592,13 @@ patterns = [
     # "CDL3OUTSIDE",  # Three Outside Up/Down
 ]
 
-us_data_path_crude = "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step1_crude_data/us"
-np_data_path_crude = "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step1_crude_data/np"
+us_data_path_crude = f"{current_directory}/data/step1_crude_data/us"
+np_data_path_crude = f"{current_directory}/data/step1_crude_data/np"
 
-us_data_path_normalized = (
-    "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step2_normalized_data/us"
-)
-np_data_path_normalized = (
-    "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step2_normalized_data/np"
-)
+us_data_path_normalized = f"{current_directory}data/step2_normalized_data/us"
+np_data_path_normalized = f"{current_directory}/data/step2_normalized_data/np"
 
-us_data_path_candles = (
-    "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step3_candlesticks_data/us"
-)
-np_data_path_candles = (
-    "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step3_candlesticks_data/np"
-)
+us_data_path_candles = f"{current_directory}/data/step3_candlesticks_data/us"
+np_data_path_candles = f"{current_directory}/data/step3_candlesticks_data/np"
 
-data_path_transformed = (
-    "/Users/laxmanbhattarai/Desktop/thesis_v2/data/step4_transformed_data"
-)
+data_path_transformed = f"{current_directory}/data/step4_transformed_data"
