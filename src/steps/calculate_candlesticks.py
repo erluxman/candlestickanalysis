@@ -82,40 +82,79 @@ def calculate_additional_data(
             )
             else None
         )
-        for interval in durations:  # interval are 2 days, 4 days and 8 days
-            for criteria in all_criteria:  # criteria are High, Close, Low
-                print(f"interval is {interval}")
-                # now what we need to do is Moving average of each criteria in row . moving average of Close is row["Close"] for last interval days
-                # and moving average of High is row["High"] for last interval days and so on
-                # and we will do interval days moving average of each criteria for each row before and after the row.
-                # for example if interval is 2 days and criteria is Close then we will calculate moving average of Close for 2 days before and 2 days after the row
-                # and we will do this for each criteria and for each interval
-                # sample_meta_data = {
-                #     "ma_past": {
-                #         {
-                #             "High": {"2": 23, "4": 24, "8": 25},
-                #             "Low": {"2": 26, "4": 27, "8": 28},
-                #             "Close": {"2": 29, "4": 30, "8": 31},
-                #             "Trend": {"2": -1, "4": 1, "8": -1},
-                #         }
-                #     },
-                #     "ma_future": {
-                #         {
-                #             "High": {"2": 32, "4": 33, "8": 34},
-                #             "Low": {"2": 35, "4": 36, "8": 37},
-                #             "Close": {"2": 38, "4": 39, "8": 40},
-                #             "Trend": {"2": 1, "4": 1, "8": 1},
-                #         }
-                #     },
-                # }
+        ma_past = {criteria: {} for criteria in all_criteria}
+        ma_future = {criteria: {} for criteria in all_criteria}
+        trend_past = {}
+        trend_future = {}
+        for criteria in all_criteria:
+            for interval in durations:
+                if index - interval >= 0:
+                    ma_past[criteria][interval] = df.iloc[index - interval : index][
+                        criteria
+                    ].mean()
+                else:
+                    ma_past[criteria][interval] = None
 
-                # and add this as meta_data into one dictionary and append this dictionary to pattern_data
+                if index + interval < len(df):
+                    ma_future[criteria][interval] = df.iloc[
+                        index + 1 : index + interval + 1
+                    ][criteria].mean()
+                else:
+                    ma_future[criteria][interval] = None
+
+                if (
+                    ma_past[criteria][interval] is not None
+                    and ma_future[criteria][interval] is not None
+                ):
+                    trend_past[interval] = (
+                        1 if ma_past[criteria][interval] < row[criteria] else -1
+                    )
+                    trend_future[interval] = (
+                        1 if ma_future[criteria][interval] > row[criteria] else -1
+                    )
+                else:
+                    trend_past[interval] = None
+                    trend_future[interval] = None
+
+        meta_data = {
+            "ma_past": ma_past,
+            "ma_future": ma_future,
+            "trend_past": trend_past,
+            "trend_future": trend_future,
+        }
+
+        # now what we need to do is Moving average of each criteria in row . moving average of Close is row["Close"] for last interval days
+        # and moving average of High is row["High"] for last interval days and so on
+        # and we will do interval days moving average of each criteria for each row before and after the row.
+        # for example if interval is 2 days and criteria is Close then we will calculate moving average of Close for 2 days before and 2 days after the row
+        # and we will do this for each criteria and for each interval
+        # sample_meta_data = {
+        #     "ma_past": {
+        #         {
+        #             "High": {"2": 23, "4": 24, "8": 25},
+        #             "Low": {"2": 26, "4": 27, "8": 28},
+        #             "Close": {"2": 29, "4": 30, "8": 31},
+        #             "Trend": {"2": -1, "4": 1, "8": -1},
+        #         }
+        #     },
+        #     "ma_future": {
+        #         {
+        #             "High": {"2": 32, "4": 33, "8": 34},
+        #             "Low": {"2": 35, "4": 36, "8": 37},
+        #             "Close": {"2": 38, "4": 39, "8": 40},
+        #             "Trend": {"2": 1, "4": 1, "8": 1},
+        #         }
+        #     },
+        # }
+
+        # and add this as meta_data into one dictionary and append this dictionary to pattern_data
 
         pattern_data.append(
             {
                 "date": dates[index],
                 "pattern": pattern_with_names[pattern],
                 "stock": stock,
+                "meta_data": meta_data,
                 "close_amount": row["Close"],
                 "next_day_close_amount": next_day_close,
                 "next_day_change_percentage": next_day_change_percentage,
