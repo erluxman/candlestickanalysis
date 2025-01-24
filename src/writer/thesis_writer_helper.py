@@ -36,10 +36,10 @@ def write_sectors_under_investigation(document_order):
             thesis_body, "details about the sector and reason of selection goes here"
         )
         writer.add_paragraph(thesis_body, "Stocks:", bold=True)
-        for ticker in tickers:
+        for ticker,name in tickers.items():
             writer.add_paragraph(
                 thesis_body,
-                f"  - {ticker} - details of the ticker and reason of selection goes here",
+                f"  - {ticker} : {name} - details of the ticker and reason of selection goes here",
             )
     writer.save_document(thesis_body, writer.thesis_path)
 

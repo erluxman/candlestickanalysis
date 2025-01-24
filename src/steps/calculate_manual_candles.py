@@ -47,12 +47,11 @@ def manual_shooting_star(df, intensity=2):
 
         body, upper_wick, lower_wick, candle_range = get_candle_components(o, h, l, c)
 
-        is_small_body = body < (0.3 * candle_range)
-        is_long_upper_wick = upper_wick >= (intensity * body) if body != 0 else False
+        is_long_upper_wick = upper_wick >= (2 * body) if body != 0 else False
         is_small_lower_wick = lower_wick <= (0.1 * candle_range)
         is_bearish = c < o
 
-        if is_small_body and is_long_upper_wick and is_small_lower_wick and is_bearish:
+        if  is_long_upper_wick and is_small_lower_wick and is_bearish:
             shooting_star_values.append(-100)
         else:
             shooting_star_values.append(0)

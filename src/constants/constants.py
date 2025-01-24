@@ -1,4 +1,5 @@
 import os
+
 current_directory = os.path.dirname(os.path.abspath(__file__)).split("src")[0]
 
 # nepse_symbols_all = [
@@ -486,12 +487,92 @@ snp_500_symbols = [
     "MCHP",
     "JCI",
 ]
-
-nepali_banks = ["NABIL", "NIB", "NICA", "EBL", "GBIME"]
-nepali_hydro = ["NHPC", "UPPER", "AHPC", "API", "SHPC"]
-nepali_microfinance = ["NMBMF", "CBBL", "DDBL", "SKBBL", "SWBBL"]
-nepali_expensive = highest_price_tickers = ["UNL", "BNT", "RBCL", "STC", "BBC"]
-floating_sensitive_stocks = ["SAMAJ", "SMH", "SPL", "KBSH", "BHPL"]
+nepali_banks = {
+    "NABIL": "Nabil Bank Limited",
+    "NICA": "NIC Asia Bank Limited",
+    "SCB": "Standard Chartered Bank Nepal",
+    "HBL": "Himalayan Bank Limited",
+    "EBL": "Everest Bank Limited",
+    "GBIME": "Global IME Bank Limited",
+    "MBL": "Machhapuchchhre Bank Limited",
+    "SBL": "Siddhartha Bank Limited",
+    "PRVU": "Prabhu Bank Limited",
+    "CZBIL": "Citizens Bank International Limited",
+    "LBL": "Laxmi Bank Limited",
+    "ADBL": "Agriculture Development Bank Limited",
+    "SBI": "State Bank of India Nepal",
+    "SANIMA": "Sanima Bank Limited",
+    "KBL": "Kumari Bank Limited",
+}
+nepali_hydro = {
+    "NHPC": "National Hydropower Company Ltd.",
+    "UPPER": "Upper Tamakoshi Hydropower Ltd.",
+    "AHPC": "Arun Valley Hydropower Development Co. Ltd.",
+    "API": "API Power Company Ltd.",
+    "SHPC": "Sanima Mai Hydropower Ltd.",
+    "NGPL": "Ngadi Group Power Ltd.",
+    "HPPL": "Himalayan Power Partner Ltd.",
+    "SIKLES": "Sikles Hydropower Ltd.",
+    "RADHI": "Radhi Bidyut Company Ltd.",
+    "AKJCL": "Ankhukhola Hydropower Ltd.",
+    "MKHC": "Mailung Khola Hydropower Ltd.",
+    "BARUN": "Barun Hydropower Company Ltd.",
+    "TVCL": "Trishuli Jal Vidhyut (Hydropower)",
+    "USHL": "Upper Syange Hydropower",
+    "KBSH": "Kutheli Bukhari Small Hydropower",
+    "SPL": "Shuvam Power Limited",
+}
+nepali_microfinance = {
+    "NMBMF": "NMB Microfinance Bittiya Sanstha Ltd.",
+    "CBBL": "Chhimek Laghubitta Bittiya Sanstha Ltd.",
+    "DDBL": "Deprosc Laghubitta Bittiya Sanstha Ltd.",
+    "SKBBL": "Sana Kisan Bikas Bank Ltd.",
+    "SWBBL": "Swabalamban Laghubitta Bittiya Sanstha Ltd.",
+    "GRDBL": "Grameen Bikas Laghubitta Ltd.",
+    "NUBL": "Nerude Laghubitta Bittiya Sanstha Ltd.",
+    "MLBS": "Manakamana Laghubitta Bittiya Sanstha Ltd.",
+    "FOWAD": "Forward Microfinance Laghubitta Ltd.",
+    "SADBL": "Siddhartha Laghubitta Bittiya Sanstha Ltd.",
+    "MERO": "Mero Microfinance Bittiya Sanstha Ltd.",
+    "KMCDB": "Kalika Microcredit Development Bank Ltd.",
+    "SLBBL": "Samudayik Laghubitta Bittiya Sanstha Ltd.",
+    "MLBSL": "Mahila Laghubitta Bittiya Sanstha Ltd.",
+    "JALPA": "Jalpa Samudayik Laghubitta Bittiya Sanstha Ltd.",
+}
+nepali_expensive = {
+    "UNL": "Unilever Nepal Ltd (Consumer Goods)",
+    "RBCL": "Rastriya Beema Company Ltd (Insurance)",
+    "BNT": "Bottlers Nepal (Terai) Ltd (Beverages)",
+    "STC": "Salt Trading Corporation (Trading)",
+    "BBC": "Bishal Bazar Company Ltd (Retail)",
+    "NLIC": "Nepal Life Insurance Co. Ltd (Insurance)",
+    "NLICL": "National Life Insurance Co. Ltd (Insurance)",
+    "SHIVM": "Shivam Cements Ltd (Manufacturing)",
+    "NRIC": "Nepal Reinsurance Company Ltd (Insurance)",
+    "SHL": "Soaltee Hotel Ltd (Tourism/Hospitality)",
+    "NTC": "Nepal Telecom (Telecom)",
+    "SICL": "Shikhar Insurance Co. Ltd (Insurance)",
+    "BNL": "Bottlers Nepal (Balaju) Ltd (Beverages)",
+    "ANLB": "Aatmanirbhar Laghubitta (Microfinance)",
+    "MLBSL": "Mahila Laghubitta Bittiya Sanstha (Microfinance)",
+}
+floating_sensitive_stocks = {
+    "SAMAJ": "Samaj Laghubitta (Microfinance, Paid-up: ₹2.28 crore)",
+    "SMH": "Supermai Hydropower (Hydropower, Price: ~₹643)",
+    "SPL": "Shuvam Power Limited (Hydropower, Paid-up: ₹20 crore)",
+    "KBSH": "Kutheli Bukhari Small Hydropower (Hydropower, Paid-up: ₹12.18 crore)",
+    "BHPL": "Barahi Hydropower (Hydropower, Paid-up: ₹25 crore)",
+    "ANLB": "Aatmanirbhar Laghubitta (Microfinance, Paid-up: ₹6.85 crore)",
+    "WNLB": "Wean Nepal Laghubitta (Microfinance, Paid-up: ₹7.92 crore)",
+    "DLBS": "Dhaulagiri Laghubitta (Microfinance, Paid-up: ₹10.31 crore)",
+    "SMB": "Support Laghubitta (Microfinance, Paid-up: ₹10.76 crore)",
+    "MLBS": "Manushi Laghubitta (Microfinance, Paid-up: ₹10.93 crore)",
+    "SHLB": "Shrijanshil Laghubitta (Microfinance, Paid-up: ₹10.93 crore)",
+    "SMFBS": "Swabhimaan Laghubitta (Microfinance, Paid-up: ₹14.61 crore)",
+    "UNLB": "Unique Nepal Laghubitta (Microfinance, Paid-up: ₹14.85 crore)",
+    "GMFBS": "Ganapati Laghubitta (Microfinance, Paid-up: ₹15.15 crore)",
+    "JSLBB": "Janautthan Samudayic Laghubitta (Microfinance, Paid-up: ₹17 crore)",
+}
 
 sectors_under_study = {
     "Banks": nepali_banks,
@@ -501,33 +582,13 @@ sectors_under_study = {
     "Low Floating": floating_sensitive_stocks,
 }
 
-nepse_symbols = [
-    "NABIL",
-    "NIB",
-    "NICA",
-    "EBL",
-    "GBIME",
-    "NHPC",
-    "UPPER",
-    "AHPC",
-    "API",
-    "SHPC",
-    "NMBMF",
-    "CBBL",
-    "DDBL",
-    "SKBBL",
-    "SWBBL",
-    "UNL",
-    "BNT",
-    "RBCL",
-    "STC",
-    "BBC",
-    "SAMAJ",
-    "SMH",
-    "SPL",
-    "KBSH",
-    "BHPL",
-]
+nepse_symbols = (
+    list(nepali_banks.keys())
+    + list(nepali_hydro.keys())
+    + list(nepali_microfinance.keys())
+    + list(nepali_expensive.keys())
+    + list(floating_sensitive_stocks.keys())
+)
 pattern_with_names = {
     "CDLHAMMER": "Hammer",
     # "CDLINVERTEDHAMMER": "Inverted Hammer",
