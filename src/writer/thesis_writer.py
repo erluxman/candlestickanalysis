@@ -13,4 +13,5 @@ def write_thesis():
     write_all_descriptive_analysis("4.7")
     write_all_inferal_analysis("4.8")
     write_conclusion("5.0")
+    # write /print a chart in scatter plot about the percentage change in stock after a candle is present ( to show if the data is normally distributed)
     open_thesis()
