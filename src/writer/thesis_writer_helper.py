@@ -162,8 +162,8 @@ def clear_thesis():
 
 def add_table_descriptive(doc):
     # Create a new Document
-    # Add a table with appropriate rows and columns
-    table = doc.add_table(rows=15, cols=10)  # 3 header rows + 12 data rows
+    # Add a table with appropriate rows and columns (now 15 data rows)
+    table = doc.add_table(rows=18, cols=10)  # 3 header rows + 15 data rows
 
     # Set table style
     table.style = "Table Grid"
@@ -199,17 +199,23 @@ def add_table_descriptive(doc):
 
     # ========== DATA SECTION ==========
     data = [
+        # 2 Days Period (5 patterns)
         ["2 Days", "Hammer", "2310", "2310", "15", "30", "15", "30", "15", "30"],
+        ["", "I. Hammer", "2050", "2050", "35", "25", "35", "25", "35", "25"],
         ["", "Shooting ✦", "1980", "1980", "25", "30", "25", "30", "25", "30"],
-        ["", "Marubozu", "2150", "2150", "40", "20", "40", "20", "40", "20"],
+        ["", "Hanging Man", "2150", "2150", "40", "20", "40", "20", "40", "20"],
         ["", "Random", "1850", "1850", "30", "36", "30", "36", "30", "36"],
+        # 4 Days Period (5 patterns)
         ["4 Days", "Hammer", "2450", "2450", "30", "35", "30", "35", "30", "35"],
+        ["", "I. Hammer", "2050", "2050", "35", "25", "35", "25", "35", "25"],
         ["", "Shooting ✦", "1980", "1980", "25", "30", "25", "30", "25", "30"],
-        ["", "Marubozu", "2150", "2150", "40", "20", "40", "20", "40", "20"],
+        ["", "Hanging Man", "2150", "2150", "40", "20", "40", "20", "40", "20"],
         ["", "Random", "1850", "1850", "30", "36", "30", "36", "30", "36"],
+        # 8 Days Period (5 patterns)
         ["8 Days", "Hammer", "2750", "2750", "30", "35", "30", "35", "30", "35"],
+        ["", "I. Hammer", "2050", "2050", "35", "25", "35", "25", "35", "25"],
         ["", "Shooting ✦", "1980", "1980", "25", "30", "25", "30", "25", "30"],
-        ["", "Marubozu", "2150", "2150", "40", "20", "40", "20", "40", "20"],
+        ["", "Hanging Man", "2150", "2150", "40", "20", "40", "20", "40", "20"],
         ["", "Random", "1850", "1850", "30", "36", "30", "36", "30", "36"],
     ]
 
@@ -221,10 +227,10 @@ def add_table_descriptive(doc):
                 continue
             table.cell(row_num, col_num).text = value
 
-    # Merge Period cells properly
-    for group_start in [0, 4, 8]:
+    # Merge Period cells properly (now 5 rows per group)
+    for group_start in [0, 5, 10]:  # Adjust group starts for 5-row blocks
         start_row = 3 + group_start
-        end_row = start_row + 3
+        end_row = start_row + 4  # Merge 5 rows (0-4, 5-9, 10-14)
         table.cell(start_row, 0).merge(table.cell(end_row, 0))
 
     return doc
