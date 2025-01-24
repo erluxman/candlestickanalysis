@@ -14,20 +14,8 @@ def calculate_additional_data(
     # file = input_directory + stock + ".json"
     file = os.path.join(input_directory, f"{stock}.json")
     df = pd.read_json(file)
-    open_prices = df["Open"].values
-    high_prices = df["High"].values
-    low_prices = df["Low"].values
-    close_prices = df["Close"].values
-    volume = df["Volume"].values
     dates = df["Date"].values
-    pattern_function = getattr(talib, pattern)
-    candle = pattern_function(open_prices, high_prices, low_prices, close_prices)
-    df[pattern] = candle
-
-    # Filter rows where pattern is detected
     patterns = manual_candle(candle_type=pattern, intensity=2, stock=stock)
-
-    # Prepare the data structure
     pattern_data = []
 
     for index, row in patterns.iterrows():
