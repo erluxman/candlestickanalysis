@@ -8,4 +8,4 @@ calculate_candleSticks()
 compose_transformation_result()
 
 
-write_thesis()
+# write_thesis()

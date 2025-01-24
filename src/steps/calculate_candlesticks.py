@@ -3,6 +3,7 @@ import os
 import pandas as pd
 import talib
 from src.constants.constants import *
+from src.steps.calculate_manual_candles import manual_candle
 
 
 def calculate_additional_data(
@@ -24,7 +25,7 @@ def calculate_additional_data(
     df[pattern] = candle
 
     # Filter rows where pattern is detected
-    patterns = df[df[pattern] != 0]
+    patterns = manual_candle(candle_type=pattern, intensity=2, stock=stock)
 
     # Prepare the data structure
     pattern_data = []
