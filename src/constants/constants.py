@@ -618,7 +618,7 @@ short_trends = [
     "no",
 ]  # basically means if there was a shortterm trend or not that is useful to test the effecacy of that candlestick theoritically
 all_criteria = ["Low", "High", "Close"]
-observation_durations_days = [2, 4, 8]
+durations = [2, 4, 8]
 
 
 def get_short_trend(current_value, old_value):

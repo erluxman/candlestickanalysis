@@ -36,7 +36,7 @@ def write_sectors_under_investigation(document_order):
             thesis_body, "details about the sector and reason of selection goes here"
         )
         writer.add_paragraph(thesis_body, "Stocks:", bold=True)
-        for ticker,name in tickers.items():
+        for ticker, name in tickers.items():
             writer.add_paragraph(
                 thesis_body,
                 f"  - {ticker} : {name} - details of the ticker and reason of selection goes here",
@@ -132,7 +132,7 @@ def write_all_observation_durations(document_order):
         thesis_body,
         "Details about selection of the following observation durations goes here",
     )
-    for duration in observation_durations_days:
+    for duration in durations:
         writer.add_paragraph(
             thesis_body, f"  - {duration} Days with short details (max 2-3 lines)"
         )

@@ -82,6 +82,34 @@ def calculate_additional_data(
             )
             else None
         )
+        for interval in durations:  # interval are 2 days, 4 days and 8 days
+            for criteria in all_criteria:  # criteria are High, Close, Low
+                print(f"interval is {interval}")
+                # now what we need to do is Moving average of each criteria in row . moving average of Close is row["Close"] for last interval days
+                # and moving average of High is row["High"] for last interval days and so on
+                # and we will do interval days moving average of each criteria for each row before and after the row.
+                # for example if interval is 2 days and criteria is Close then we will calculate moving average of Close for 2 days before and 2 days after the row
+                # and we will do this for each criteria and for each interval
+                # sample_meta_data = {
+                #     "ma_past": {
+                #         {
+                #             "High": {"2": 23, "4": 24, "8": 25},
+                #             "Low": {"2": 26, "4": 27, "8": 28},
+                #             "Close": {"2": 29, "4": 30, "8": 31},
+                #             "Trend": {"2": -1, "4": 1, "8": -1},
+                #         }
+                #     },
+                #     "ma_future": {
+                #         {
+                #             "High": {"2": 32, "4": 33, "8": 34},
+                #             "Low": {"2": 35, "4": 36, "8": 37},
+                #             "Close": {"2": 38, "4": 39, "8": 40},
+                #             "Trend": {"2": 1, "4": 1, "8": 1},
+                #         }
+                #     },
+                # }
+
+                # and add this as meta_data into one dictionary and append this dictionary to pattern_data
 
         pattern_data.append(
             {
