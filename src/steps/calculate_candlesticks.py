@@ -85,7 +85,6 @@ def calculate_additional_data(
         ma_past = {criteria: {} for criteria in all_criteria}
         ma_future = {criteria: {} for criteria in all_criteria}
         trend_past = {}
-        trend_future = {}
         for criteria in all_criteria:
             for interval in durations:
                 if index - interval >= 0:
@@ -109,18 +108,14 @@ def calculate_additional_data(
                     trend_past[interval] = (
                         1 if ma_past[criteria][interval] < row[criteria] else -1
                     )
-                    trend_future[interval] = (
-                        1 if ma_future[criteria][interval] > row[criteria] else -1
-                    )
+
                 else:
                     trend_past[interval] = None
-                    trend_future[interval] = None
 
         meta_data = {
             "ma_past": ma_past,
             "ma_future": ma_future,
             "trend_past": trend_past,
-            "trend_future": trend_future,
         }
 
         # now what we need to do is Moving average of each criteria in row . moving average of Close is row["Close"] for last interval days
