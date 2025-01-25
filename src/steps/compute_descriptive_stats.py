@@ -33,18 +33,24 @@ def save_result(result):
         json.dump(result, outfile)
 
 
+def save_analytics(result):
+    if not os.path.exists(np_data_path_descriptive_stats):
+        os.makedirs(np_data_path_descriptive_stats)
+    with open(
+        os.path.join(np_data_path_descriptive_stats, "descriptive_anylitics.json"),
+        "w",
+    ) as outfile:
+        json.dump(result, outfile)
+
+
 def categorize_candles():
     file_path = os.path.join(np_data_path_candles, "all_candles.json")
     with open(file_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
         result = {
-            "bullish": {
-                "data": [],
-            },
-            "bearish": {
-                "data": [],
-            },
+            "bullish": {},
+            "bearish": {},
         }
 
         for entry in data:
@@ -53,13 +59,59 @@ def categorize_candles():
             main_key = "bearish" if is_bearish else "bullish"
             sector = entry.get("sector")
             if sector not in result[main_key]:
-                result[main_key][sector] = {"data": []}
+                result[main_key][sector] = {}
 
-            result[main_key][sector]["data"].append(entry)
+            if "patterns" not in result[main_key][sector]:
+                result[main_key][sector]["patterns"] = {}
+
+            pattern = entry.get("pattern")
+            if pattern not in result[main_key][sector]["patterns"]:
+                result[main_key][sector]["patterns"][pattern] = []
+
+            result[main_key][sector]["patterns"][pattern].append(entry)
 
         save_result(result)
+
+
+def compute_category_stats():
+    file_path = os.path.join(np_data_path_descriptive_stats, "descriptive_stats.json")
+    with open(file_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+        analytics = {}
+
+        for trend, data in data.items():
+            analytics[trend] = {}
+            for sector, sector_data in data.items():
+                analytics[trend][sector] = {}
+                sector_analytics = {}
+                for pattern, pattern_data in sector_data["patterns"].items():
+                    for duration in durations:
+                        analytics[trend][sector][duration] = {}
+                        for candle_id, candle_name in pattern_with_names.items():
+                            occurance_trend = 100
+                            all_occurance = 190
+                            hit_percentage_high_trend = 60
+                            hit_percentage_high_all = 40
+                            hit_percentage_low_trend = 70
+                            hit_percentage_low_all = 50
+                            hit_percentage_close_trend = 60
+                            hit_percentage_close_all = 40
+
+                            analytics[trend][sector][duration][candle_name] = {
+                                "occurance_trend": occurance_trend,
+                                "all_occurance": all_occurance,
+                                "hit_percentage_high_trend": hit_percentage_high_trend,
+                                "hit_percentage_high_all": hit_percentage_high_all,
+                                "hit_percentage_low_trend": hit_percentage_low_trend,
+                                "hit_percentage_low_all": hit_percentage_low_all,
+                                "hit_percentage_close_trend": hit_percentage_close_trend,
+                                "hit_percentage_close_all": hit_percentage_close_all,
+                            }
+
+        save_analytics(analytics)
 
 
 def compute_descriptive_stats():
     merge_jsons()
     categorize_candles()
+    compute_category_stats()

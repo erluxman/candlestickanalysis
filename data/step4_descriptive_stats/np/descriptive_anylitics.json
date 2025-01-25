@@ -1,0 +1,1286 @@
+{
+  "bullish": {
+    "Banks": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      }
+    },
+    "Hydro": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      }
+    },
+    "Microfinance": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      }
+    },
+    "Expensive": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      }
+    },
+    "Low Floating": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      }
+    }
+  },
+  "bearish": {
+    "Banks": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      }
+    },
+    "Hydro": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      }
+    },
+    "Microfinance": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      }
+    },
+    "Expensive": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      }
+    },
+    "Low Floating": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Inverted Hammer": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Hanging Man": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        },
+        "Shooting Star": {
+          "occurance_trend": 100,
+          "all_occurance": 190,
+          "hit_percentage_high_trend": 60,
+          "hit_percentage_high_all": 40,
+          "hit_percentage_low_trend": 70,
+          "hit_percentage_low_all": 50,
+          "hit_percentage_close_trend": 60,
+          "hit_percentage_close_all": 40
+        }
+      }
+    }
+  }
+}
