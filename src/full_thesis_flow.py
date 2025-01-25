@@ -13,9 +13,9 @@ def calculate_candleSticks():
     # calculate_candleSticks_us()
     calculate_candleSticks_np()
 
-def compose_transformation_result():
+# def compose_transformation_result():
     # export_to_excel_us()
-    export_to_excel_np()
+    # export_to_excel_np()
     # export_summary_to_json_us()
-    export_summary_to_json_np()
+    # export_summary_to_json_np()
     

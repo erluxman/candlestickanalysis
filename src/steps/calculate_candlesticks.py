@@ -75,6 +75,11 @@ def calculate_additional_data(
 
     # file = input_directory + stock + ".json"
     file = os.path.join(input_directory, f"{stock}.json")
+    stock_sector = ""
+    for category,tickers in sectors_under_study.items():
+        if stock in tickers:
+            stock_sector = category
+            break
     df = pd.read_json(file)
     dates = df["Date"].values
     patterns = manual_candle(candle_type=pattern, intensity=2, stock=stock)
@@ -82,68 +87,68 @@ def calculate_additional_data(
 
     for index, row in patterns.iterrows():
         # Calculate next day and next week close amounts and volumes
-        if index + 1 < len(df):
-            next_day_close = df.iloc[index + 1]["Close"]
-            next_day_volume = df.iloc[index + 1]["Volume"]
-        else:
-            next_day_close = None
-            next_day_volume = None
+        # if index + 1 < len(df):
+        #     next_day_close = df.iloc[index + 1]["Close"]
+        #     next_day_volume = df.iloc[index + 1]["Volume"]
+        # else:
+        #     next_day_close = None
+        #     next_day_volume = None
 
-        if (index + 5) < len(df):
-            next_week_close = df.iloc[index + 5]["Close"]
-            next_week_volume = df.iloc[index + 5]["Volume"].sum()
-            next_week_volume_cumulative = df.iloc[index + 1 : index + 6]["Volume"].sum()
-        else:
-            next_week_close = None
-            next_week_volume = None
-            next_week_volume_cumulative = None
-        if (index - 5) > 0:
-            last_week_close = df.iloc[index - 5]["Close"]
-            last_week_volume = df.iloc[index - 5]["Volume"].sum()
-            last_week_volume_cumulative = df.iloc[index - 6 : index - 1]["Volume"].sum()
-        else:
-            last_week_close = None
-            last_week_volume = None
-            last_week_volume_cumulative = None
-        # use correct conditional to  avoid None values error
+        # if (index + 5) < len(df):
+        #     next_week_close = df.iloc[index + 5]["Close"]
+        #     next_week_volume = df.iloc[index + 5]["Volume"].sum()
+        #     next_week_volume_cumulative = df.iloc[index + 1 : index + 6]["Volume"].sum()
+        # else:
+        #     next_week_close = None
+        #     next_week_volume = None
+        #     next_week_volume_cumulative = None
+        # if (index - 5) > 0:
+        #     last_week_close = df.iloc[index - 5]["Close"]
+        #     last_week_volume = df.iloc[index - 5]["Volume"].sum()
+        #     last_week_volume_cumulative = df.iloc[index - 6 : index - 1]["Volume"].sum()
+        # else:
+        #     last_week_close = None
+        #     last_week_volume = None
+        #     last_week_volume_cumulative = None
+        # # use correct conditional to  avoid None values error
 
-        if isinstance(last_week_close, (int, float)) != True:
-            continue
-        if isinstance(next_week_close, (int, float)) != True:
-            continue
-        # Calculate percentage changes
+        # if isinstance(last_week_close, (int, float)) != True:
+        #     continue
+        # if isinstance(next_week_close, (int, float)) != True:
+        #     continue
+        # # Calculate percentage changes
 
-        next_day_change_percentage = (
-            (next_day_close - row["Close"]) / row["Close"] * 100
-            if next_day_close
-            else None
-        )
-        next_day_volume_change_percentage = (
-            (next_day_volume - row["Volume"]) / row["Volume"] * 100
-            if (next_day_volume and row["Volume"] != 0)
-            else 0
-        )
-        next_week_change_percentage = (
-            (next_week_close - row["Close"]) / row["Close"] * 100
-            if next_week_close
-            else None
-        )
-        change_from_last_week_percentage = (
-            (row["Close"] - last_week_close) / last_week_close * 100
-            if last_week_close
-            else None
-        )
-        weekly_volume_change_percentage = (
-            (next_week_volume_cumulative - last_week_volume_cumulative)
-            / last_week_volume_cumulative
-            * 100
-            if (
-                last_week_volume_cumulative is not None
-                and next_week_volume_cumulative is not None
-                and last_week_volume_cumulative != 0
-            )
-            else None
-        )
+        # next_day_change_percentage = (
+        #     (next_day_close - row["Close"]) / row["Close"] * 100
+        #     if next_day_close
+        #     else None
+        # )
+        # next_day_volume_change_percentage = (
+        #     (next_day_volume - row["Volume"]) / row["Volume"] * 100
+        #     if (next_day_volume and row["Volume"] != 0)
+        #     else 0
+        # )
+        # next_week_change_percentage = (
+        #     (next_week_close - row["Close"]) / row["Close"] * 100
+        #     if next_week_close
+        #     else None
+        # )
+        # change_from_last_week_percentage = (
+        #     (row["Close"] - last_week_close) / last_week_close * 100
+        #     if last_week_close
+        #     else None
+        # )
+        # weekly_volume_change_percentage = (
+        #     (next_week_volume_cumulative - last_week_volume_cumulative)
+        #     / last_week_volume_cumulative
+        #     * 100
+        #     if (
+        #         last_week_volume_cumulative is not None
+        #         and next_week_volume_cumulative is not None
+        #         and last_week_volume_cumulative != 0
+        #     )
+        #     else None
+        # )
         ma_past = {criteria: {} for criteria in all_criteria}
         ma_future = {criteria: {} for criteria in all_criteria}
         trend_past = {}
@@ -255,22 +260,23 @@ def calculate_additional_data(
                 "stock": stock,
                 "meta_data": meta_data,
                 "close_amount": row["Close"],
-                "next_day_close_amount": next_day_close,
-                "next_day_change_percentage": next_day_change_percentage,
-                "next_day_volume": next_day_volume,
-                "next_day_volume_change_percentage": next_day_volume_change_percentage,
-                "next_week_close_amount": next_week_close,
-                "next_week_change_percentage": next_week_change_percentage,
-                "next_week_volume": next_week_volume,
-                "next_week_volume_cumulative": next_week_volume_cumulative,
-                "last_week_close_amount": last_week_close,
-                "change_from_last_week_percentage": change_from_last_week_percentage,
-                "last_week_volume": last_week_volume,
-                "last_week_volume_cumulative": last_week_volume_cumulative,
-                "weekly_volume_change_percentage": weekly_volume_change_percentage,
-                "market": market,
-                "volume": row["Volume"],
-                "Percentage Change": row["Percent Change"],
+                "sector": stock_sector,
+                # "next_day_close_amount": next_day_close,
+                # "next_day_change_percentage": next_day_change_percentage,
+                # "next_day_volume": next_day_volume,
+                # "next_day_volume_change_percentage": next_day_volume_change_percentage,
+                # "next_week_close_amount": next_week_close,
+                # "next_week_change_percentage": next_week_change_percentage,
+                # "next_week_volume": next_week_volume,
+                # "next_week_volume_cumulative": next_week_volume_cumulative,
+                # "last_week_close_amount": last_week_close,
+                # "change_from_last_week_percentage": change_from_last_week_percentage,
+                # "last_week_volume": last_week_volume,
+                # "last_week_volume_cumulative": last_week_volume_cumulative,
+                # "weekly_volume_change_percentage": weekly_volume_change_percentage,
+                # "market": market,
+                # "volume": row["Volume"],
+                # "Percentage Change": row["Percent Change"],
             }
         )
 
