@@ -1,3 +1,4 @@
+from cmath import sqrt
 import json
 import os
 import pandas as pd
@@ -84,7 +85,7 @@ def calculate_additional_data(
         )
         ma_past = {criteria: {} for criteria in all_criteria}
         ma_future = {criteria: {} for criteria in all_criteria}
-        trend_past = {}
+        trend_past = {criteria: {} for criteria in all_criteria}
         for criteria in all_criteria:
             for interval in durations:
                 if index - interval >= 0:
@@ -101,16 +102,33 @@ def calculate_additional_data(
                 else:
                     ma_future[criteria][interval] = None
 
-                if (
-                    ma_past[criteria][interval] is not None
-                    and ma_future[criteria][interval] is not None
-                ):
-                    trend_past[interval] = (
-                        1 if ma_past[criteria][interval] < row[criteria] else -1
-                    )
+                # if (
+                #     ma_past[criteria][interval] is not None
+                #     and ma_future[criteria][interval] is not None
+                # ):
+                #     trend_past[interval] = (
+                #         1 if ma_past[criteria][interval] < row[criteria] else -1
+                #     )
+                # else:
+                #     trend_past[interval] = None
 
-                else:
-                    trend_past[interval] = None
+                # Calculate trend for past intervals
+                if index - interval >= 0:
+                    start_value = ma_past[criteria][interval]
+                    end_value = df.iloc[index - 1][criteria]
+                    if start_value is not None and end_value is not None:
+                        change_percentage = (
+                            (end_value - start_value) / start_value * 100
+                        )
+                        tolorance_percentage = 0.05 * interval
+                        if abs(change_percentage) < tolorance_percentage:
+                            trend_past[criteria][interval] = 0
+                        elif change_percentage > tolorance_percentage:
+                            trend_past[criteria][interval] = 1
+                        else:
+                            trend_past[criteria][interval] = -1
+                    else:
+                        trend_past[criteria][interval] = None
 
         meta_data = {
             "ma_past": ma_past,
