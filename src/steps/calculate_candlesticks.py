@@ -157,9 +157,15 @@ def calculate_additional_data(
                     mv_yesterday = get_moving_avg(df, "Close", interval, index)
                     trend_past[interval] = {}
 
-                    if mv_interval_ago > (mv_yesterday*(1 + 0.001 * interval)):
+                    trend_daily_threshold = 0.001 # this is used to determine how much portion the stock shall move in a day basis in order to be a up/down trend
+
+                    if mv_interval_ago > (
+                        mv_yesterday * (1 + trend_daily_threshold * interval)
+                    ):
                         trend_past[interval]["value"] = -1
-                    elif (mv_interval_ago*(1 + 0.001 * interval)) < mv_yesterday:
+                    elif (
+                        mv_interval_ago * (1 + trend_daily_threshold * interval)
+                    ) < mv_yesterday:
                         trend_past[interval]["value"] = 1
                     else:
                         trend_past[interval]["value"] = 0
