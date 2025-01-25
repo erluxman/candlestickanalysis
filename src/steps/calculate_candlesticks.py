@@ -55,6 +55,19 @@ def get_moving_avg_future(df, criteria, interval, index):
         return None
 
 
+def is_in_desired_trend(candle_type, trend_value):
+    if candle_type == "CDLHAMMER":
+        return trend_value == -1
+    elif candle_type == "CDLINVERTEDHAMMER":
+        return trend_value == -1
+    elif candle_type == "CDLHANGINGMAN":
+        return trend_value == 1
+    elif candle_type == "CDLSHOOTINGSTAR":
+        return trend_value == 1
+    else:
+        return False
+
+
 def calculate_additional_data(
     pattern, stock, input_directory, output_directory, market
 ):
@@ -157,7 +170,7 @@ def calculate_additional_data(
                     mv_yesterday = get_moving_avg(df, "Close", interval, index)
                     trend_past[interval] = {}
 
-                    trend_daily_threshold = 0.001 # this is used to determine how much portion the stock shall move in a day basis in order to be a up/down trend
+                    trend_daily_threshold = 0.001  # this is used to determine how much portion the stock shall move in a day basis in order to be a up/down trend
 
                     if mv_interval_ago > (
                         mv_yesterday * (1 + trend_daily_threshold * interval)
@@ -174,6 +187,10 @@ def calculate_additional_data(
                         "interval_ago": mv_interval_ago,
                         "yesterday": mv_yesterday,
                     }
+
+                    trend_past[interval]["trend_present"] = is_in_desired_trend(
+                        pattern, trend_past[interval]["value"]
+                    )
 
                     # moving_avgs_past = []
                     # moving_avgs_past.append(get_moving_avg(df, "Close", interval, (index-1-interval)))
