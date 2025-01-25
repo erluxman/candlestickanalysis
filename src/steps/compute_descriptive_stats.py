@@ -38,13 +38,24 @@ def categorize_candles():
     with open(file_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-        bullish_count = 0
-        bearish_count = 0
+        result = {
+            "bullish": {
+                "data": [],
+            },
+            "bearish": {
+                "data": [],
+            },
+        }
+
         for entry in data:
             date = entry.get("date")
-            bear_or_bull = "bearish" if bear_start <= date <= bear_end else "bullish"
+            is_bearish = bear_start <= date <= bear_end
+            main_key = "bearish" if is_bearish else "bullish"
+            sector = entry.get("sector")
+            if sector not in result[main_key]:
+                result[main_key][sector] = {"data": []}
 
-        result = {"bullish": bullish_count, "bearish": bearish_count}
+            result[main_key][sector]["data"].append(entry)
 
         save_result(result)
 
