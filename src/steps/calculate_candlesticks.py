@@ -68,7 +68,7 @@ def is_in_desired_trend(candle_type, trend_value):
         return False
 
 
-def calculate_random_candle(pattern, stock, input_directory, market, count):
+def calculate_random_candle(stock, input_directory, market, count):
     file = os.path.join(input_directory, f"{stock}.json")
     stock_sector = ""
     for category, tickers in sectors_under_study.items():
@@ -80,7 +80,16 @@ def calculate_random_candle(pattern, stock, input_directory, market, count):
     patterns = manual_candle(
         candle_type="random", intensity=2, stock=stock, count=count
     )
-    pattern_data = []
+    random_candles_lengh = len(patterns)
+
+    return calculate_meta_data(
+        patterns=patterns,
+        df=df,
+        stock_sector=stock_sector,
+        stock=stock,
+        pattern="random",
+        dates=dates,
+    )
 
 
 def calculate_additional_data(
@@ -317,6 +326,7 @@ def calculate_candleSticks(input_directory, output_directory, market):
         print(f"{key} -> {value}")
         # read all files from the directory
         candle_path = os.path.join(output_directory, f"{value}.json")
+        random_candle_path = os.path.join(output_directory, "random.json")
 
         for symbol_name in snp_500_symbols if (market == "us") else nepse_symbols:
             print(f"Calculating Candlesticks for {symbol_name}")
@@ -327,24 +337,38 @@ def calculate_candleSticks(input_directory, output_directory, market):
                 stock=symbol_name,
                 market=market,
             )
+
+            total_random_days_to_select = len(patterns)
+
+            random_patterns = calculate_random_candle(
+                stock=symbol_name,
+                input_directory=input_directory,
+                market=market,
+                count=len(patterns),
+            )
+            append_candle_data(candle_path, patterns)
+            append_candle_data(random_candle_path, random_patterns)
             # append the data to the file
-            candle_data = []
 
-            if os.path.exists(candle_path):
-                with open(candle_path, "r") as f:
-                    candle_data = json.load(f)
-            else:
-                candle_data = []
-            new_patterns = pd.DataFrame(patterns).to_dict(orient="records")
 
-            candle_data += new_patterns
+def append_candle_data(candle_path, candle_data):
+    candle_data = []
 
-            with open(candle_path, "w") as f:
-                # Convert Timestamp objects to strings
-                for pattern in candle_data:
-                    if "date" in pattern and isinstance(pattern["date"], pd.Timestamp):
-                        pattern["date"] = pattern["date"].strftime("%Y-%m-%d")
-                json.dump(candle_data, f, indent=4)
+    if os.path.exists(candle_path):
+        with open(candle_path, "r") as f:
+            candle_data = json.load(f)
+    else:
+        candle_data = []
+        new_patterns = pd.DataFrame(patterns).to_dict(orient="records")
+
+        candle_data += new_patterns
+
+        with open(candle_path, "w") as f:
+            # Convert Timestamp objects to strings
+            for pattern in candle_data:
+                if "date" in pattern and isinstance(pattern["date"], pd.Timestamp):
+                    pattern["date"] = pattern["date"].strftime("%Y-%m-%d")
+            json.dump(candle_data, f, indent=4)
 
 
 def calculate_candleSticks_us():

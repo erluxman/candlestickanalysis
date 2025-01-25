@@ -117,8 +117,8 @@ def manual_random_candle(df, count):
         else:
             random_candle_values.append(0)
 
-    df["CDLRANDOM"] = random_candle_values
-    return df[df["CDLRANDOM"] != 0]
+    df["random"] = random_candle_values
+    return df[df["random"] != 0]
 
 
 def manual_candle(candle_type, intensity, stock,count=0):
