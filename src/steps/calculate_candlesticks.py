@@ -4,6 +4,7 @@ import pandas as pd
 import talib
 from src.constants.constants import *
 from src.steps.calculate_manual_candles import manual_candle
+
 # 760+760+759+752+760+772+772+769+770+765+763+762+760+757+758+756+762+768+761+760+768+770<- days before 24th
 
 
@@ -16,6 +17,7 @@ from src.steps.calculate_manual_candles import manual_candle
 # 2d-mv-23 = (756+762)/2‎ = 759
 # 2d-mv-22 = (758+756)/2‎ = 757
 # 2d-mv-21 = (757+758)/2‎ = 757.5
+# 2d-mv-20 = (760+757)/2‎ = 758.5
 
 # 4d-mv-28 = (761+760+768+770)/4‎ = 764.75
 
@@ -45,11 +47,13 @@ def get_moving_avg(df, criteria, interval, index):
     else:
         return None
 
+
 def get_moving_avg_future(df, criteria, interval, index):
     if index + interval < len(df):
         return df.iloc[index + 1 : index + interval + 1][criteria].mean()
     else:
         return None
+
 
 def calculate_additional_data(
     pattern, stock, input_directory, output_directory, market
@@ -133,39 +137,61 @@ def calculate_additional_data(
         for criteria in all_criteria:
             for interval in durations:
                 if index - interval >= 0:
-                    ma_past[criteria][interval] = get_moving_avg(df, criteria, interval, (index))
+                    ma_past[criteria][interval] = get_moving_avg(
+                        df, criteria, interval, (index)
+                    )
                 else:
                     ma_past[criteria][interval] = None
 
                 if index + interval < len(df):
-                    ma_future[criteria][interval] = get_moving_avg_future(df, criteria, interval, index)
+                    ma_future[criteria][interval] = get_moving_avg_future(
+                        df, criteria, interval, index
+                    )
                 else:
                     ma_future[criteria][interval] = None
 
-                if criteria == "Close" and (index - 1) - (interval * 2) >= 0:
-                    moving_avgs_past = []
-                    moving_avgs_past.append(get_moving_avg(df, "Close", interval, (index-1-interval)))
-
-                    for i in range((index-1-interval), (index - 1)):
-                        temp_ma = get_moving_avg(df, "Close", interval, i)
-                        moving_avgs_past.append(temp_ma)
-
-                    increasing_trend_count = 0
-                    decreasing_trend_count = 0
+                if criteria == "Close" and index - (interval * 2) >= 0:
+                    mv_interval_ago = get_moving_avg(
+                        df, "Close", interval, index - (interval)
+                    )
+                    mv_yesterday = get_moving_avg(df, "Close", interval, index)
                     trend_past[interval] = {}
-                    trend_past[interval]["past_mas"] = moving_avgs_past
-                    for i in range(1, len(moving_avgs_past)):
-                        if moving_avgs_past[i] > moving_avgs_past[i - 1]:
-                            increasing_trend_count += 1
-                        elif moving_avgs_past[i] < moving_avgs_past[i - 1]:
-                            decreasing_trend_count += 1
 
-                    if increasing_trend_count / (len(moving_avgs_past)-1) >= 0.7:
-                        trend_past[interval]["value"] = 1
-                    elif decreasing_trend_count / (len(moving_avgs_past) - 1) >= 0.7:
+                    if mv_interval_ago > (mv_yesterday*(1 + 0.0005 * interval)):
                         trend_past[interval]["value"] = -1
+                    elif (mv_interval_ago*(1 + 0.0005 * interval)) < mv_yesterday:
+                        trend_past[interval]["value"] = 1
                     else:
                         trend_past[interval]["value"] = 0
+
+                    trend_past[interval]["data"] = {
+                        "interval_ago": mv_interval_ago,
+                        "yesterday": mv_yesterday,
+                    }
+
+                    # moving_avgs_past = []
+                    # moving_avgs_past.append(get_moving_avg(df, "Close", interval, (index-1-interval)))
+
+                    # for i in range((index-1-interval), (index - 1)):
+                    #     temp_ma = get_moving_avg(df, "Close", interval, i)
+                    #     moving_avgs_past.append(temp_ma)
+
+                    # increasing_trend_count = 0
+                    # decreasing_trend_count = 0
+                    # trend_past[interval] = {}
+                    # trend_past[interval]["past_mas"] = moving_avgs_past
+                    # for i in range(1, len(moving_avgs_past)):
+                    #     if moving_avgs_past[i] > moving_avgs_past[i - 1]:
+                    #         increasing_trend_count += 1
+                    #     elif moving_avgs_past[i] < moving_avgs_past[i - 1]:
+                    #         decreasing_trend_count += 1
+
+                    # if increasing_trend_count / (len(moving_avgs_past)-1) >= 0.7:
+                    #     trend_past[interval]["value"] = 1
+                    # elif decreasing_trend_count / (len(moving_avgs_past) - 1) >= 0.7:
+                    #     trend_past[interval]["value"] = -1
+                    # else:
+                    #     trend_past[interval]["value"] = 0
 
         meta_data = {
             "ma_past": ma_past,
