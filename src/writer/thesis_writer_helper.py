@@ -161,77 +161,126 @@ def clear_thesis():
 
 
 def add_table_descriptive(doc):
-    # Create a new Document
-    # Add a table with appropriate rows and columns (now 15 data rows)
-    table = doc.add_table(rows=18, cols=10)  # 3 header rows + 15 data rows
-
-    # Set table style
+    # Create table with 18 rows (3 header + 15 data) and 10 columns
+    table = doc.add_table(rows=18, cols=10)
     table.style = "Table Grid"
+    table.autofit = False
+
+    # ===== COLUMN WIDTH CONFIGURATION =====
+    column_widths = [
+        360000,  # 1cm - Period column
+        940000,  # 3cm - Candles column
+        420000,
+        420000,
+        360000,
+        360000,
+        360000,
+        360000,
+        360000,
+        360000,
+    ]
+
+    for idx, width in enumerate(column_widths):
+        table.columns[idx].width = width
 
     # ========== HEADER SECTION ==========
     def merge_cells(cell1, cell2):
         cell1.merge(cell2)
 
-    # Main headers (Period, Candles, etc.)
-    table.cell(0, 0).text = "Period"
-    table.cell(0, 1).text = "Candles"
+    # Main headers with proper font sizing
+    def set_header_cell(cell, text):
+        cell.text = text
+        for paragraph in cell.paragraphs:
+            for run in paragraph.runs:
+                run.font.size = Pt(10)  # Apply to runs instead of paragraph style
 
-    # Merge horizontal headers
-    for col_range in [(2, 3), (4, 5), (6, 7), (8, 9)]:
-        merge_cells(table.cell(0, col_range[0]), table.cell(0, col_range[1]))
+    set_header_cell(table.cell(0, 0), "Period")
+    set_header_cell(table.cell(0, 1), "Candles")
 
-    table.cell(0, 2).text = "Occurance"
-    table.cell(0, 4).text = "Hit(%) HIGH"
-    table.cell(0, 6).text = "Hit(%) LOW"
-    table.cell(0, 8).text = "Hit(%) Close"
+    # Merge and set header columns
+    header_data = {
+        (2, 3): "Occurance",
+        (4, 5): "Hit(%) HIGH",
+        (6, 7): "Hit(%) LOW",
+        (8, 9): "Hit(%) Close",
+    }
 
-    # Sub-headers (Trend/Yes/No)
+    for cols, text in header_data.items():
+        merge_cells(table.cell(0, cols[0]), table.cell(0, cols[1]))
+        set_header_cell(table.cell(0, cols[0]), text)
+
+    # Sub-headers with proper font sizing
     for row in [1, 2]:
         for col in [2, 3, 4, 5, 6, 7, 8, 9]:
-            table.cell(row, col).text = (
-                "Trend" if row == 1 else ("YES" if col % 2 == 0 else "No")
-            )
+            cell = table.cell(row, col)
+            cell.text = "Trend" if row == 1 else ("YES" if col % 2 == 0 else "No")
+            for paragraph in cell.paragraphs:
+                for run in paragraph.runs:
+                    run.font.size = Pt(10)  # Apply to runs
 
-    # Merge vertical cells for Period and Candles
+    # Merge vertical cells properly (merge row 0-2 sequentially)
     for col in [0, 1]:
-        for row in [0, 1]:
-            merge_cells(table.cell(row, col), table.cell(row + 1, col))
+        # First merge row 0 and 1
+        merge_cells(table.cell(0, col), table.cell(1, col))
+        # Then merge the result with row 2
+        merge_cells(table.cell(0, col), table.cell(2, col))
+        # Set font for merged cells
+        for paragraph in table.cell(0, col).paragraphs:
+            for run in paragraph.runs:
+                run.font.size = Pt(10)
 
     # ========== DATA SECTION ==========
     data = [
-        # 2 Days Period (5 patterns)
-        ["2 Days", "Hammer", "2310", "2310", "15", "30", "15", "30", "15", "30"],
+        ["2D", "Hammer", "2310", "2310", "15", "30", "15", "30", "15", "30"],
         ["", "I. Hammer", "2050", "2050", "35", "25", "35", "25", "35", "25"],
-        ["", "Shooting ✦", "1980", "1980", "25", "30", "25", "30", "25", "30"],
+        ["", "Shooting Star", "1980", "1980", "25", "30", "25", "30", "25", "30"],
         ["", "Hanging Man", "2150", "2150", "40", "20", "40", "20", "40", "20"],
         ["", "Random", "1850", "1850", "30", "36", "30", "36", "30", "36"],
-        # 4 Days Period (5 patterns)
-        ["4 Days", "Hammer", "2450", "2450", "30", "35", "30", "35", "30", "35"],
-        ["", "I. Hammer", "2050", "2050", "35", "25", "35", "25", "35", "25"],
-        ["", "Shooting ✦", "1980", "1980", "25", "30", "25", "30", "25", "30"],
+        ["4D", "Hammer", "2450", "2450", "30", "35", "30", "35", "30", "35"],
+        ["", "I. Hammer", "2100", "2100", "38", "22", "38", "22", "38", "22"],
+        ["", "Shooting Star", "1980", "1980", "25", "30", "25", "30", "25", "30"],
         ["", "Hanging Man", "2150", "2150", "40", "20", "40", "20", "40", "20"],
         ["", "Random", "1850", "1850", "30", "36", "30", "36", "30", "36"],
-        # 8 Days Period (5 patterns)
-        ["8 Days", "Hammer", "2750", "2750", "30", "35", "30", "35", "30", "35"],
-        ["", "I. Hammer", "2050", "2050", "35", "25", "35", "25", "35", "25"],
-        ["", "Shooting ✦", "1980", "1980", "25", "30", "25", "30", "25", "30"],
+        ["8D", "Hammer", "2750", "2750", "30", "35", "30", "35", "30", "35"],
+        ["", "I. Hammer", "2250", "2250", "42", "18", "42", "18", "42", "18"],
+        ["", "Shooting Star", "1980", "1980", "25", "30", "25", "30", "25", "30"],
         ["", "Hanging Man", "2150", "2150", "40", "20", "40", "20", "40", "20"],
         ["", "Random", "1850", "1850", "30", "36", "30", "36", "30", "36"],
     ]
 
-    # Populate data
-    for idx, row_data in enumerate(data):
-        row_num = 3 + idx
-        for col_num, value in enumerate(row_data):
-            if col_num == 0 and not value:  # Skip empty Period cells
+    # Populate data with proper font sizing
+    for row_idx, row_data in enumerate(data):
+        table_row = table.rows[3 + row_idx]
+        for col_idx, value in enumerate(row_data):
+            if col_idx == 0 and not value:
                 continue
-            table.cell(row_num, col_num).text = value
 
-    # Merge Period cells properly (now 5 rows per group)
-    for group_start in [0, 5, 10]:  # Adjust group starts for 5-row blocks
+            cell = table_row.cells[col_idx]
+            cell.text = str(value)
+
+            # Set font size on runs
+            for paragraph in cell.paragraphs:
+                for run in paragraph.runs:
+                    run.font.size = Pt(10)
+
+            # Special formatting for candle names
+            if col_idx == 1:
+                paragraph = cell.paragraphs[0]
+                paragraph.paragraph_format.keep_lines_together = True
+                paragraph.paragraph_format.widow_control = False
+
+    # Merge period cells properly
+    for group_start in [0, 5, 10]:
         start_row = 3 + group_start
-        end_row = start_row + 4  # Merge 5 rows (0-4, 5-9, 10-14)
-        table.cell(start_row, 0).merge(table.cell(end_row, 0))
+        end_row = start_row + 4
+        start_cell = table.cell(start_row, 0)
+        end_cell = table.cell(end_row, 0)
+        start_cell.merge(end_cell)
+
+        # Set font for merged cell
+        for paragraph in start_cell.paragraphs:
+            for run in paragraph.runs:
+                run.font.size = Pt(10)
 
     return doc
 
@@ -272,7 +321,7 @@ def add_table_inferal(doc):
     # ===== DATA =====
     data = [
         [
-            "2 Days",
+            "2D",
             "Hammer",
             "0.0343",
             "0.9987",
@@ -284,7 +333,7 @@ def add_table_inferal(doc):
         ["", "Shooting ✦", "0.2499", "0.9987", "0.0001", "0.9567", "0.2499", "0.9995"],
         ["", "Marubozu", "0.9987", "0.0003", "0.9999", "0.0343", "0.9987", "0.0012"],
         [
-            "4 Days",
+            "4D",
             "Hammer",
             "0.1234",
             "0.9990",
@@ -296,7 +345,7 @@ def add_table_inferal(doc):
         ["", "Shooting ✦", "0.2999", "0.9972", "0.0021", "0.9782", "0.1999", "0.9977"],
         ["", "Marubozu", "0.9999", "0.0009", "0.9987", "0.0213", "0.9995", "0.0045"],
         [
-            "8 Days",
+            "8D",
             "Hammer",
             "0.0678",
             "0.9954",
