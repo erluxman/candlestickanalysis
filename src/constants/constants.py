@@ -591,7 +591,7 @@ nepse_symbols = (
 )
 pattern_with_names = {
     "CDLHAMMER": "Hammer",
-    ####### "CDLINVERTEDHAMMER": "Inverted Hammer",
+    "CDLINVERTEDHAMMER": "Inverted Hammer",
     # "CDLENGULFING": "Engulfing Pattern",
     # "CDLPIERCING": "Piercing Pattern",
     # "CDLMORNINGSTAR": "Morning Star",
@@ -599,8 +599,8 @@ pattern_with_names = {
     # "CDLHARAMI": "Harami Pattern",
     # "CDLDRAGONFLYDOJI": "Dragonfly Doji",
     # "CDLDOJI": "Doji",
-    ####### "CDLHANGINGMAN": "Hanging Man",
-    ####### "CDLSHOOTINGSTAR": "Shooting Star",
+    "CDLHANGINGMAN": "Hanging Man",
+    "CDLSHOOTINGSTAR": "Shooting Star",
     # "CDLBULLISHENGULFING": "Bullish Engulfing",
     # "CDLEVENINGSTAR": "Evening Star",
     # "CDL3BLACKCROWS": "Three Black Crows",
