@@ -157,9 +157,9 @@ def calculate_additional_data(
                     mv_yesterday = get_moving_avg(df, "Close", interval, index)
                     trend_past[interval] = {}
 
-                    if mv_interval_ago > (mv_yesterday*(1 + 0.0005 * interval)):
+                    if mv_interval_ago > (mv_yesterday*(1 + 0.001 * interval)):
                         trend_past[interval]["value"] = -1
-                    elif (mv_interval_ago*(1 + 0.0005 * interval)) < mv_yesterday:
+                    elif (mv_interval_ago*(1 + 0.001 * interval)) < mv_yesterday:
                         trend_past[interval]["value"] = 1
                     else:
                         trend_past[interval]["value"] = 0

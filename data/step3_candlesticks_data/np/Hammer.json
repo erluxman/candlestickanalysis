@@ -40,7 +40,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 757.5,
                         "yesterday": 759.0
@@ -54,7 +54,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 764.25,
                         "yesterday": 760.375
@@ -135,7 +135,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 761.25,
                         "yesterday": 756.25
@@ -445,7 +445,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 967.0,
                         "yesterday": 965.5
@@ -1093,7 +1093,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 475.05,
                         "yesterday": 475.75
@@ -1593,7 +1593,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 570.125,
                         "yesterday": 573.5
@@ -2241,7 +2241,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 680.7249999999999,
                         "yesterday": 677.625
@@ -2484,7 +2484,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 529.6125,
                         "yesterday": 531.975
@@ -2565,7 +2565,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 440.675,
                         "yesterday": 438.8875
@@ -2639,7 +2639,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 411.97499999999997,
                         "yesterday": 410.775
@@ -2970,7 +2970,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 522.175,
                         "yesterday": 524.95
@@ -3132,7 +3132,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 563.7,
                         "yesterday": 561.2875
@@ -3442,7 +3442,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 558.5,
                         "yesterday": 559.5
@@ -4252,7 +4252,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 185.7,
                         "yesterday": 186.05
@@ -4583,7 +4583,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 727.25,
                         "yesterday": 725.0
@@ -4752,7 +4752,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 492.725,
                         "yesterday": 490.1125
@@ -5143,7 +5143,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 271.5,
                         "yesterday": 272.0
@@ -5562,7 +5562,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 320.625,
                         "yesterday": 318.6
@@ -6203,7 +6203,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 229.25,
                         "yesterday": 228.75
@@ -6534,7 +6534,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 274.6125,
                         "yesterday": 275.76250000000005
@@ -7411,7 +7411,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 336.5,
                         "yesterday": 337.0
@@ -7425,7 +7425,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 339.25,
                         "yesterday": 337.0
@@ -9207,7 +9207,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 302.3875,
                         "yesterday": 301.075
@@ -9355,7 +9355,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 157.7,
                         "yesterday": 158.0
@@ -10172,7 +10172,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 397.775,
                         "yesterday": 396.22499999999997
@@ -10739,7 +10739,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 163.8,
                         "yesterday": 163.175
@@ -10989,7 +10989,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 213.375,
                         "yesterday": 212.25
@@ -11070,7 +11070,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 229.5,
                         "yesterday": 227.75
@@ -11475,7 +11475,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 198.77499999999998,
                         "yesterday": 197.92499999999998
@@ -12028,7 +12028,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 412.5,
                         "yesterday": 413.0
@@ -12771,7 +12771,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 315.9875,
                         "yesterday": 318.1125
@@ -13405,14 +13405,14 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 405.0,
                         "yesterday": 405.5
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 406.25,
                         "yesterday": 405.25
@@ -13581,7 +13581,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 447.5,
                         "yesterday": 444.25
@@ -13662,7 +13662,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 430.0,
                         "yesterday": 427.25
@@ -13972,7 +13972,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 407.5,
                         "yesterday": 408.0
@@ -14053,7 +14053,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 413.0,
                         "yesterday": 412.5
@@ -14863,7 +14863,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 292.0,
                         "yesterday": 291.45
@@ -15120,7 +15120,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 335.325,
                         "yesterday": 333.5375
@@ -15444,7 +15444,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 313.075,
                         "yesterday": 311.4875
@@ -15599,14 +15599,14 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 342.25,
                         "yesterday": 343.5
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 345.25,
                         "yesterday": 342.875
@@ -15680,7 +15680,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 378.25,
                         "yesterday": 377.25
@@ -15849,7 +15849,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 500.025,
                         "yesterday": 497.7875
@@ -16004,7 +16004,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 241.0,
                         "yesterday": 240.3
@@ -16733,7 +16733,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 202.75,
                         "yesterday": 202.25
@@ -16888,7 +16888,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 181.0,
                         "yesterday": 180.5
@@ -17286,7 +17286,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 315.0,
                         "yesterday": 315.5
@@ -17624,7 +17624,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 219.1125,
                         "yesterday": 220.0625
@@ -17705,7 +17705,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 219.9875,
                         "yesterday": 218.25
@@ -18670,7 +18670,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 198.575,
                         "yesterday": 199.175
@@ -18839,7 +18839,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 95.0,
                         "yesterday": 94.5
@@ -19392,7 +19392,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 213.15,
                         "yesterday": 213.5
@@ -20519,7 +20519,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 165.7,
                         "yesterday": 166.2
@@ -20917,7 +20917,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 260.0,
                         "yesterday": 260.5
@@ -22456,7 +22456,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 596.75,
                         "yesterday": 599.25
@@ -23826,7 +23826,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 337.6,
                         "yesterday": 338.79999999999995
@@ -24069,7 +24069,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 221.72500000000002,
                         "yesterday": 221.0
@@ -24622,7 +24622,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 389.0,
                         "yesterday": 388.4
@@ -24703,7 +24703,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 397.6,
                         "yesterday": 396.95
@@ -24791,14 +24791,14 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 395.8,
                         "yesterday": 396.95
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 394.3375,
                         "yesterday": 396.375
@@ -25520,7 +25520,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 500.625,
                         "yesterday": 499.025
@@ -26809,7 +26809,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 291.5,
                         "yesterday": 291.0
@@ -26904,7 +26904,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 300.5,
                         "yesterday": 298.125
@@ -27471,7 +27471,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 260.5875,
                         "yesterday": 262.25
@@ -27869,7 +27869,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 149.75,
                         "yesterday": 150.25
@@ -28443,7 +28443,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 149.325,
                         "yesterday": 148.5125
@@ -29975,7 +29975,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 307.7,
                         "yesterday": 308.45
@@ -30225,7 +30225,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 887.625,
                         "yesterday": 893.5875
@@ -30866,7 +30866,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1045.0,
                         "yesterday": 1047.5
@@ -31352,7 +31352,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1052.3,
                         "yesterday": 1054.75
@@ -31919,7 +31919,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 649.25,
                         "yesterday": 650.575
@@ -32243,14 +32243,14 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 514.0,
                         "yesterday": 512.25
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 516.8625,
                         "yesterday": 513.125
@@ -32331,7 +32331,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 511.25,
                         "yesterday": 508.3375
@@ -32810,7 +32810,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 529.2750000000001,
                         "yesterday": 528.0
@@ -33194,7 +33194,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 977.0,
                         "yesterday": 976.0
@@ -33208,7 +33208,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 967.75,
                         "yesterday": 971.875
@@ -33289,7 +33289,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 969.25,
                         "yesterday": 973.875
@@ -33525,7 +33525,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1051.5,
                         "yesterday": 1049.25
@@ -36124,7 +36124,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1145.375,
                         "yesterday": 1154.475
@@ -36441,7 +36441,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 800.75,
                         "yesterday": 798.25
@@ -36684,7 +36684,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 874.25,
                         "yesterday": 871.25
@@ -36846,7 +36846,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 910.75,
                         "yesterday": 913.75
@@ -37163,7 +37163,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1322.0,
                         "yesterday": 1323.5
@@ -38709,7 +38709,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 772.25,
                         "yesterday": 774.625
@@ -39269,7 +39269,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 99.75,
                         "yesterday": 100.0
@@ -39431,7 +39431,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 102.75,
                         "yesterday": 103.0
@@ -39755,14 +39755,14 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 114.5,
                         "yesterday": 114.25
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 113.875,
                         "yesterday": 114.375
@@ -40329,7 +40329,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 435.225,
                         "yesterday": 433.05
@@ -40403,7 +40403,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 860.0,
                         "yesterday": 862.0
@@ -40653,7 +40653,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1469.25,
                         "yesterday": 1460.5
@@ -41692,7 +41692,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1149.55,
                         "yesterday": 1147.5
@@ -42678,7 +42678,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 769.5,
                         "yesterday": 773.7125000000001
@@ -43400,7 +43400,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 709.55,
                         "yesterday": 711.25
@@ -43474,7 +43474,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 640.3,
                         "yesterday": 641.55
@@ -44122,7 +44122,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 2673.0,
                         "yesterday": 2668.5
@@ -44946,7 +44946,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 157.5,
                         "yesterday": 158.375
@@ -45513,7 +45513,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 339.3875,
                         "yesterday": 337.325
@@ -45661,7 +45661,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 300.05,
                         "yesterday": 299.5
@@ -45749,7 +45749,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 446.0,
                         "yesterday": 444.25
@@ -46647,7 +46647,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 769.45,
                         "yesterday": 774.6875
@@ -47126,7 +47126,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 548.625,
                         "yesterday": 550.5
@@ -47619,7 +47619,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 774.75,
                         "yesterday": 769.5
@@ -48496,7 +48496,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1032.95,
                         "yesterday": 1034.0
@@ -49644,7 +49644,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1490.75,
                         "yesterday": 1480.375
@@ -49799,7 +49799,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1445.75,
                         "yesterday": 1450.75
@@ -50042,7 +50042,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 948.25,
                         "yesterday": 945.475
@@ -50940,7 +50940,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 666.3875,
                         "yesterday": 661.6375
@@ -51257,7 +51257,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 5032.5,
                         "yesterday": 5021.525
@@ -51588,7 +51588,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 3502.3625,
                         "yesterday": 3480.875
@@ -52553,7 +52553,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 995.5,
                         "yesterday": 992.75
@@ -52803,7 +52803,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 19096.0875,
                         "yesterday": 19247.7375
@@ -52884,7 +52884,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 19212.9875,
                         "yesterday": 19119.8625
@@ -52965,7 +52965,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 19043.875,
                         "yesterday": 18893.5
@@ -53451,7 +53451,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 39674.0,
                         "yesterday": 39485.125
@@ -53525,7 +53525,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 45219.0,
                         "yesterday": 45337.5
@@ -54983,7 +54983,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 13258.75,
                         "yesterday": 13293.7
@@ -55462,7 +55462,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 9267.0,
                         "yesterday": 9303.0
@@ -56434,7 +56434,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 13805.0,
                         "yesterday": 13852.5
@@ -56994,7 +56994,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 14283.5,
                         "yesterday": 14263.0
@@ -57406,7 +57406,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 2692.5,
                         "yesterday": 2686.75
@@ -57487,7 +57487,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 3457.5,
                         "yesterday": 3469.75
@@ -57737,7 +57737,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 9797.375,
                         "yesterday": 9865.625
@@ -58216,7 +58216,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 3580.0,
                         "yesterday": 3591.1
@@ -58621,7 +58621,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1624.25,
                         "yesterday": 1620.75
@@ -58776,7 +58776,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 2755.5,
                         "yesterday": 2759.0
@@ -59600,7 +59600,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 3256.775,
                         "yesterday": 3274.375
@@ -59843,7 +59843,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 3503.4875,
                         "yesterday": 3481.325
@@ -59917,7 +59917,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 3601.0,
                         "yesterday": 3589.475
@@ -60734,7 +60734,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1947.25,
                         "yesterday": 1937.5
@@ -61618,7 +61618,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1271.875,
                         "yesterday": 1263.0
@@ -63791,7 +63791,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 430.0,
                         "yesterday": 429.5
@@ -63953,7 +63953,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 637.0,
                         "yesterday": 638.0
@@ -64696,7 +64696,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1012.2375,
                         "yesterday": 1007.8125
@@ -65633,7 +65633,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1342.5,
                         "yesterday": 1344.0
@@ -67017,7 +67017,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 5032.5,
                         "yesterday": 5021.525
@@ -67348,7 +67348,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 3502.3625,
                         "yesterday": 3480.875
@@ -69616,7 +69616,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 887.625,
                         "yesterday": 893.5875
@@ -70176,7 +70176,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 424.75,
                         "yesterday": 423.65
@@ -71465,7 +71465,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 871.0,
                         "yesterday": 870.0
@@ -72046,7 +72046,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 733.4875,
                         "yesterday": 728.9875
@@ -72282,7 +72282,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 813.3,
                         "yesterday": 811.35
@@ -73004,7 +73004,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1237.0,
                         "yesterday": 1238.6
@@ -73254,7 +73254,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 416.25,
                         "yesterday": 417.5
@@ -73335,7 +73335,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 416.5,
                         "yesterday": 417.75
@@ -73652,7 +73652,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1210.5,
                         "yesterday": 1212.5
@@ -74064,7 +74064,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 2657.5,
                         "yesterday": 2649.475
@@ -75758,7 +75758,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1149.55,
                         "yesterday": 1147.5
@@ -76744,7 +76744,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 769.5,
                         "yesterday": 773.7125000000001
@@ -77466,7 +77466,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 709.55,
                         "yesterday": 711.25
@@ -77540,7 +77540,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 640.3,
                         "yesterday": 641.55
@@ -78579,7 +78579,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 802.5,
                         "yesterday": 800.75
@@ -78741,7 +78741,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 794.25,
                         "yesterday": 792.0
@@ -79639,7 +79639,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 2463.125,
                         "yesterday": 2445.95
@@ -79956,7 +79956,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1531.25,
                         "yesterday": 1525.225
@@ -80111,7 +80111,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1527.5,
                         "yesterday": 1530.5
@@ -80435,7 +80435,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 986.9,
                         "yesterday": 987.9
@@ -80759,14 +80759,14 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1099.0,
                         "yesterday": 1097.0
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1094.375,
                         "yesterday": 1098.0
@@ -81745,7 +81745,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1185.725,
                         "yesterday": 1180.625
@@ -82467,7 +82467,7 @@
                     }
                 },
                 "4": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1303.825,
                         "yesterday": 1308.525
@@ -82879,7 +82879,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 572.25,
                         "yesterday": 569.625
@@ -83196,7 +83196,7 @@
                     }
                 },
                 "4": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 864.25,
                         "yesterday": 862.0
@@ -84013,7 +84013,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1084.75,
                         "yesterday": 1089.65
@@ -86834,7 +86834,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1048.5,
                         "yesterday": 1047.3
@@ -86929,7 +86929,7 @@
                     }
                 },
                 "8": {
-                    "value": -1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 1032.6375,
                         "yesterday": 1028.5
@@ -87482,7 +87482,7 @@
             },
             "trend_past": {
                 "2": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 878.5,
                         "yesterday": 879.95
@@ -87496,7 +87496,7 @@
                     }
                 },
                 "8": {
-                    "value": 1,
+                    "value": 0,
                     "data": {
                         "interval_ago": 871.9125,
                         "yesterday": 876.9125
