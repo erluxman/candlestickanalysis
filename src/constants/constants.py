@@ -663,4 +663,7 @@ np_data_path_normalized = f"{current_directory}/data/step2_normalized_data/np"
 us_data_path_candles = f"{current_directory}/data/step3_candlesticks_data/us"
 np_data_path_candles = f"{current_directory}/data/step3_candlesticks_data/np"
 
+np_data_path_descriptive_stats = f"{current_directory}/data/step4_descriptive_stats/np"
+us_data_path_descriptive_stats = f"{current_directory}/data/step4_descriptive_stats/us"
+
 data_path_transformed = f"{current_directory}/data/step4_transformed_data"
