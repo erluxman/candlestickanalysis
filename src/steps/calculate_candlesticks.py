@@ -68,6 +68,21 @@ def is_in_desired_trend(candle_type, trend_value):
         return False
 
 
+def calculate_random_candle(pattern, stock, input_directory, market, count):
+    file = os.path.join(input_directory, f"{stock}.json")
+    stock_sector = ""
+    for category, tickers in sectors_under_study.items():
+        if stock in tickers:
+            stock_sector = category
+            break
+    df = pd.read_json(file)
+    dates = df["Date"].values
+    patterns = manual_candle(
+        candle_type="random", intensity=2, stock=stock, count=count
+    )
+    pattern_data = []
+
+
 def calculate_additional_data(
     pattern, stock, input_directory, output_directory, market
 ):
@@ -76,13 +91,24 @@ def calculate_additional_data(
     # file = input_directory + stock + ".json"
     file = os.path.join(input_directory, f"{stock}.json")
     stock_sector = ""
-    for category,tickers in sectors_under_study.items():
+    for category, tickers in sectors_under_study.items():
         if stock in tickers:
             stock_sector = category
             break
     df = pd.read_json(file)
     dates = df["Date"].values
     patterns = manual_candle(candle_type=pattern, intensity=2, stock=stock)
+    return calculate_meta_data(
+        patterns=patterns,
+        df=df,
+        stock_sector=stock_sector,
+        stock=stock,
+        pattern=pattern,
+        dates=dates,
+    )
+
+
+def calculate_meta_data(patterns, df, stock_sector, stock, pattern, dates):
     pattern_data = []
 
     for index, row in patterns.iterrows():

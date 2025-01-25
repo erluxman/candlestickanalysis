@@ -108,7 +108,20 @@ def manual_hanging_man(df, intensity=2):
     return df[df["CDLHANGINGMAN"] != 0]
 
 
-def manual_candle(candle_type, intensity, stock):
+def manual_random_candle(df, count):
+    random_candle_values = []
+    selected_indices = df.sample(n=count).index
+    for i in range(len(df)):
+        if i in selected_indices:
+            random_candle_values.append(100)
+        else:
+            random_candle_values.append(0)
+
+    df["CDLRANDOM"] = random_candle_values
+    return df[df["CDLRANDOM"] != 0]
+
+
+def manual_candle(candle_type, intensity, stock,count=0):
     file = os.path.join(np_data_path_normalized, f"{stock}.json")
     df = pd.read_json(file, orient="records")  # Critical fix here
     df["Date"] = pd.to_datetime(df["Date"])
@@ -122,5 +135,7 @@ def manual_candle(candle_type, intensity, stock):
         return manual_shooting_star(df, intensity)
     elif candle_type == "CDLHANGINGMAN":
         return manual_hanging_man(df, intensity)
+    elif candle_type == "random":
+        return manual_random_candle(df, count)
     else:
         raise ValueError(f"Unsupported pattern: {candle_type}")
