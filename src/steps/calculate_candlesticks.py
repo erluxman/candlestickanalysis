@@ -1,10 +1,41 @@
-from cmath import sqrt
 import json
 import os
 import pandas as pd
 import talib
 from src.constants.constants import *
 from src.steps.calculate_manual_candles import manual_candle
+# 760+760+759+752+760+772+772+769+770+765+763+762+760+757+758+756+762+768 <- days before 24th
+
+# 2d-mv-24 = (762+768)/2 = 765
+# 2d-mv-23 = (756+762)/2 = 759
+# 2d-mv-22 = (758+756)/2 = 757
+# 2d-mv-21 = (757+758)/2 = 757.5
+#
+# 4d-mv-24 = (758+756+762+768)/4 = 761
+# 4d-mv-23 = (757+758+756+762)/4 = 758.25
+# 4d-mv-22 = (760+757+758+756)/4 = 757.75
+# 4d-mv-21 = (762+760+757+758)/4 = 759.25
+# 4d-mv-20 = (763+762+760+757)/4 = 760.5
+# 4d-mv-19 = (765+763+762+760)/4 = 762.5
+
+# 8d-mv-24 = (763+762+760+757+758+756+762+768)/8 = 760.5
+# 8d-mv-23 = (765+763+762+760+757+758+756+762)/8 = 761.5
+# 8d-mv-22 = (770+765+763+762+760+757+758+756)/8 = 760.5
+# 8d-mv-21 = (769+770+765+763+762+760+757+758)/8 = 762.5
+# 8d-mv-20 = (772+769+770+765+763+762+760+757)/8 = 763.5
+# 8d-mv-19 = (772+772+769+770+765+763+762+760)/8 = 764.5
+# 8d-mv-18 = (760+772+772+769+770+765+763+762)/8 = 766.5
+# 8d-mv-17 = (752+760+772+772+769+770+765+763)/8 = 767.5
+# 8d-mv-16 = (759+752+760+772+772+769+770+765)/8 = 766.5
+# 8d-mv-15 = (760+759+752+760+772+772+769+770)/8 = 766.5
+# 8d-mv-14 = (760+760+759+752+760+772+772+769)/8 = 764.5
+
+
+def get_moving_avg(df, criteria, interval, index):
+    if index - interval >= 0:
+        return df.iloc[index - interval : index][criteria].mean()
+    else:
+        return None
 
 
 def calculate_additional_data(
@@ -85,7 +116,7 @@ def calculate_additional_data(
         )
         ma_past = {criteria: {} for criteria in all_criteria}
         ma_future = {criteria: {} for criteria in all_criteria}
-        trend_past = {criteria: {} for criteria in all_criteria}
+        trend_past = {}
         for criteria in all_criteria:
             for interval in durations:
                 if index - interval >= 0:
@@ -102,33 +133,30 @@ def calculate_additional_data(
                 else:
                     ma_future[criteria][interval] = None
 
-                # if (
-                #     ma_past[criteria][interval] is not None
-                #     and ma_future[criteria][interval] is not None
-                # ):
-                #     trend_past[interval] = (
-                #         1 if ma_past[criteria][interval] < row[criteria] else -1
-                #     )
-                # else:
-                #     trend_past[interval] = None
+                if criteria == "Close" and (index - 1) - (interval * 2) >= 0:
+                    moving_avgs_past = []
+                    moving_avgs_past.append(get_moving_avg(df, "Close", interval, (index-1-interval)))
 
-                # Calculate trend for past intervals
-                if index - interval >= 0:
-                    start_value = ma_past[criteria][interval]
-                    end_value = df.iloc[index - 1][criteria]
-                    if start_value is not None and end_value is not None:
-                        change_percentage = (
-                            (end_value - start_value) / start_value * 100
-                        )
-                        tolorance_percentage = 0.05 * interval
-                        if abs(change_percentage) < tolorance_percentage:
-                            trend_past[criteria][interval] = 0
-                        elif change_percentage > tolorance_percentage:
-                            trend_past[criteria][interval] = 1
-                        else:
-                            trend_past[criteria][interval] = -1
+                    for i in range((index-1-interval), (index - 1)):
+                        temp_ma = get_moving_avg(df, "Close", interval, i)
+                        moving_avgs_past.append(temp_ma)
+
+                    increasing_trend_count = 0
+                    decreasing_trend_count = 0
+                    trend_past[interval] = {}
+                    trend_past[interval]["past_mas"] = moving_avgs_past
+                    for i in range(1, len(moving_avgs_past)):
+                        if moving_avgs_past[i] > moving_avgs_past[i - 1]:
+                            increasing_trend_count += 1
+                        elif moving_avgs_past[i] < moving_avgs_past[i - 1]:
+                            decreasing_trend_count += 1
+
+                    if increasing_trend_count / (len(moving_avgs_past)-1) >= 0.7:
+                        trend_past[interval]["value"] = 1
+                    elif decreasing_trend_count / (len(moving_avgs_past) - 1) >= 0.7:
+                        trend_past[interval]["value"] = -1
                     else:
-                        trend_past[criteria][interval] = None
+                        trend_past[interval]["value"] = 0
 
         meta_data = {
             "ma_past": ma_past,
