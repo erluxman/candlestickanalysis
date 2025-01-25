@@ -4,17 +4,25 @@ import pandas as pd
 import talib
 from src.constants.constants import *
 from src.steps.calculate_manual_candles import manual_candle
-# 760+760+759+752+760+772+772+769+770+765+763+762+760+757+758+756+762+768 <- days before 24th
+# 760+760+759+752+760+772+772+769+770+765+763+762+760+757+758+756+762+768+761+760+768+770<- days before 24th
+
+
+# 2d-mv-28 = (768+770)/2 ‎ = 769
+# 2d-mv-27 = (760+768)/2 ‎ = 764
+# 2d-mv-26 = (761+760)/2 ‎ = 760.5
+# 2d-mv-25 = (768+761)/2 ‎ = 764.5
 
 # 2d-mv-24 = (762+768)/2 ‎ = 765
 # 2d-mv-23 = (756+762)/2‎ = 759
 # 2d-mv-22 = (758+756)/2‎ = 757
 # 2d-mv-21 = (757+758)/2‎ = 757.5
 
-# 4d-mv-24 = (758+756+762+768)/4‎ = 761 
+# 4d-mv-28 = (761+760+768+770)/4‎ = 764.75
+
+# 4d-mv-24 = (758+756+762+768)/4‎ = 761
 # 4d-mv-23 = (757+758+756+762)/4‎ = 758.25
 # 4d-mv-22 = (760+757+758+756)/4‎ = 757.75
-# 4d-mv-21 = (762+760+757+758)/4‎ = 759.25 
+# 4d-mv-21 = (762+760+757+758)/4‎ = 759.25
 # 4d-mv-20 = (763+762+760+757)/4‎ = 760.5
 # 4d-mv-19 = (765+763+762+760)/4‎ = 762.5
 
@@ -37,6 +45,11 @@ def get_moving_avg(df, criteria, interval, index):
     else:
         return None
 
+def get_moving_avg_future(df, criteria, interval, index):
+    if index + interval < len(df):
+        return df.iloc[index + 1 : index + interval + 1][criteria].mean()
+    else:
+        return None
 
 def calculate_additional_data(
     pattern, stock, input_directory, output_directory, market
@@ -120,16 +133,12 @@ def calculate_additional_data(
         for criteria in all_criteria:
             for interval in durations:
                 if index - interval >= 0:
-                    ma_past[criteria][interval] = df.iloc[index - interval : index][
-                        criteria
-                    ].mean()
+                    ma_past[criteria][interval] = get_moving_avg(df, criteria, interval, (index))
                 else:
                     ma_past[criteria][interval] = None
 
                 if index + interval < len(df):
-                    ma_future[criteria][interval] = df.iloc[
-                        index + 1 : index + interval + 1
-                    ][criteria].mean()
+                    ma_future[criteria][interval] = get_moving_avg_future(df, criteria, interval, index)
                 else:
                     ma_future[criteria][interval] = None
 
