@@ -203,8 +203,8 @@ def add_table_descriptive(doc, table_data):
 
     # Main headers
     headers = [
-        ("Period", 0, 0),
-        ("Candles", 0, 1),
+        ("Period", 0, 0, 0),
+        ("Candles", 0, 1, 1),
         ("Occurance", 0, 2, 3),
         ("Hit(%) HIGH", 0, 4, 5),
         ("Hit(%) LOW", 0, 6, 7),
@@ -236,7 +236,7 @@ def add_table_descriptive(doc, table_data):
 
     # ========== DATA SECTION ==========
     table_cells = []
-    periods = ["2", "4", "8"]  # Maintain order
+    periods = [f"{d}" for d in durations]
 
     for period in periods:
         candles = table_data.get(period, {})
