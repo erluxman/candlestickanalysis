@@ -297,12 +297,12 @@ def add_table_descriptive(doc, table_data):
         for paragraph in cell.paragraphs:
             paragraph.alignment = 1  # Center alignment
             for run in paragraph.runs:
-                run.font.size = Pt(10)
+                run.font.size = Pt(9)  # Reduced font size by 1
                 run.font.bold = True
 
     # Main headers
     headers = [
-        ("Period", 0, 0, 0),
+        ("Time", 0, 0, 0),
         ("Candles", 0, 1, 1),
         ("Occurance", 0, 2, 3),
         ("Hit(%) HIGH", 0, 4, 5),
@@ -326,7 +326,7 @@ def add_table_descriptive(doc, table_data):
         for paragraph in cell.paragraphs:
             paragraph.alignment = 1
             for run in paragraph.runs:
-                run.font.size = Pt(10)
+                run.font.size = Pt(9)  # Reduced font size by 1
 
     for col in [0, 1]:
         main_cell = table.cell(0, col).merge(
@@ -369,7 +369,7 @@ def add_table_descriptive(doc, table_data):
 
                 # Configure font properties
                 for run in paragraph.runs:
-                    run.font.size = Pt(10)
+                    run.font.size = Pt(9)  # Reduced font size by 1
 
                     # Apply formatting to percentage columns
                     if col_idx in [4, 5, 6, 7, 8, 9]:  # Percentage columns
