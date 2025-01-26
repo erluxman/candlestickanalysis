@@ -210,8 +210,8 @@ def calculate_meta_data(patterns, df, stock_sector, stock, pattern, dates):
                         candle_approved_from_point_random_boolish = is_candle_approved(
                             ma, point_value, "random'"
                         )
-                        meta["candle_approved_from_ma_random_boolish"] = candle_approved_from_ma_random_boolish
-                        meta["candle_approved_from_point_random_boolish"] = candle_approved_from_point_random_boolish
+                        meta["candle_approved_from_ma_random_bearish"] = candle_approved_from_ma_random_boolish
+                        meta["candle_approved_from_point_random_bearish"] = candle_approved_from_point_random_boolish
                     ma_future[criteria][interval] = meta
                 else:
                     ma_future[criteria][interval] = None
@@ -244,6 +244,10 @@ def calculate_meta_data(patterns, df, stock_sector, stock, pattern, dates):
                     trend_past[interval]["trend_present"] = is_in_desired_trend(
                         pattern, trend_past[interval]["value"]
                     )
+                    if pattern == "random":
+                        trend_past[interval]["trend_present_random_bearish"] = is_in_desired_trend(
+                            "random'", trend_past[interval]["value"]
+                        )
 
         meta_data = {
             "ma_past": ma_past,
