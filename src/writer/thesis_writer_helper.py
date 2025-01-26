@@ -395,13 +395,73 @@ def add_table_descriptive(doc, table_data):
 
     return doc
 
-def get_chi_square(table_data):
-    return []
+import json
+from scipy.stats import chi2_contingency
+
+
+def calculate_chi_squared_tests(data):
+    results = {}
+    for period in data:
+        period_data = data[period]
+        period_results = {}
+        for candle in period_data:
+            if candle in ["Random", "Random*"]:
+                continue
+            # Determine which random counterpart to use
+            if candle in ["Hammer", "I. Hammer"]:
+                random_key = "Random"
+            else:
+                random_key = "Random*"
+            if random_key not in period_data:
+                continue
+            candle_data = period_data[candle]
+            random_data = period_data[random_key]
+            candle_results = {}
+            # Process each hit percentage metric
+            for metric in candle_data:
+                if not metric.startswith("hit_percentage_"):
+                    continue
+                # Determine occurrence type (trend or all)
+                occurrence_type = metric.split("_")[-1]
+                if occurrence_type == "trend":
+                    c_occurrence = candle_data["occurance_trend"]
+                    r_occurrence = random_data["occurance_trend"]
+                elif occurrence_type == "all":
+                    c_occurrence = candle_data["all_occurance"]
+                    r_occurrence = random_data["all_occurance"]
+                else:
+                    continue
+                # Calculate successes and failures
+                c_hit = candle_data[metric]
+                r_hit = random_data[metric]
+                c_success = (c_occurrence * c_hit) / 100
+                c_failure = c_occurrence - c_success
+                r_success = (r_occurrence * r_hit) / 100
+                r_failure = r_occurrence - r_success
+                # Contingency table
+                contingency = [[c_success, c_failure], [r_success, r_failure]]
+                # Chi-squared test
+                try:
+                    chi2, p, _, _ = chi2_contingency(contingency)
+                except:
+                    chi2, p = 0.0, 1.0  # In case of error
+                significant = p < 0.05
+                # Extract metric part (e.g., high_trend)
+                metric_part = "_".join(metric.split("_")[2:])
+                candle_results[metric_part] = {
+                    "chi2": chi2,
+                    "p_value": p,
+                    "significant": significant,
+                }
+            period_results[candle] = candle_results
+        results[period] = period_results
+    return results
+
 
 def add_table_inferal(doc,table_data):
     # Create table with 11 rows (2 header + 9 data) and 8 columns
     # Create table with 11 rows (2 header + 9 data) and 8 columns
-    chi_square_table = get_chi_square(table_data)
+    chi_square_table = calculate_chi_squared_tests(table_data)
     table = doc.add_table(rows=11, cols=8)
     table.style = "Table Grid"
 

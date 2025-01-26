@@ -7,7 +7,7 @@ def merge_jsons():
     # merge all the candle data into one file  and call it all_candles.json
     all_candles = []
     for candle_id, candle_name in pattern_with_names.items():
-        if(candle_name == "Random*"):
+        if candle_name == "Random*":
             file_path = os.path.join(np_data_path_candles, "Random.json")
         else:
             file_path = os.path.join(np_data_path_candles, f"{candle_name}.json")
@@ -267,9 +267,6 @@ def compute_category_analytics():
                                     hit_percentage_close_all, 2
                                 ),
                             }
-            analytics[sector][trend]["commentry"] = get_analytics_commentry(
-                analytics[sector][trend]
-            )
 
         save_analytics(analytics)
 
