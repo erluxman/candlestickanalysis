@@ -187,7 +187,7 @@ def write_all_inferal_analysis(document_order):
                 writer.add_paragraph(
                     thesis_body, get_random_inferal_analysis_text(table_no)
                 )
-                add_table_inferal(thesis_body, table_data)
+                add_table_inferal(thesis_body, table_data, sector, long_trend)
 
                 writer.add_paragraph(
                     thesis_body,
@@ -397,6 +397,7 @@ def add_table_descriptive(doc, table_data):
 
 import json
 from scipy.stats import chi2_contingency
+import os
 
 
 def calculate_chi_squared_tests(data):
@@ -451,17 +452,33 @@ def calculate_chi_squared_tests(data):
                 candle_results[metric_part] = {
                     "chi2": chi2,
                     "p_value": p,
-                    "significant": significant,
+                    "significant": str(significant),
                 }
             period_results[candle] = candle_results
         results[period] = period_results
+    print(results)
     return results
 
 
-def add_table_inferal(doc,table_data):
+def add_table_inferal(doc,table_data,sector,long_term_trend):
     # Create table with 11 rows (2 header + 9 data) and 8 columns
     # Create table with 11 rows (2 header + 9 data) and 8 columns
     chi_square_table = calculate_chi_squared_tests(table_data)
+    # Save chi_squared_table to inferal_analysis.json
+    inferal_analysis_file = f"{np_data_path_descriptive_stats}/inferal_analysis.json"
+    if os.path.exists(inferal_analysis_file):
+        with open(inferal_analysis_file, "r") as file:
+            inferal_data = json.load(file)
+    else:
+        inferal_data = {}
+
+    if sector not in inferal_data:
+        inferal_data[sector] = {}
+
+    inferal_data[sector][long_term_trend] = chi_square_table
+
+    with open(inferal_analysis_file, "w") as file:
+        json.dump(inferal_data, file, indent=4)
     table = doc.add_table(rows=11, cols=8)
     table.style = "Table Grid"
 

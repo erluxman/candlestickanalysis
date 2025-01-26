@@ -1,0 +1,3932 @@
+{
+    "Banking": {
+        "Bullish": {
+            "2": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 20.79327967930453,
+                        "p_value": 5.116217724271489e-06,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 45.85356003234864,
+                        "p_value": 1.274313359593273e-11,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 9.118874092588694,
+                        "p_value": 0.002529856189870384,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 21.575038348901916,
+                        "p_value": 3.4025144998404903e-06,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.01344064288271747,
+                        "p_value": 0.9077050183706804,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.40582823420680086,
+                        "p_value": 0.524094559871711,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.5720788960060563,
+                        "p_value": 0.4494339990991366,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 6.221903126337774,
+                        "p_value": 0.01261794106407615,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 3.2695103231581557,
+                        "p_value": 0.07057868776765705,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 10.105078199684797,
+                        "p_value": 0.0014786131863001532,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 4.348791864346367,
+                        "p_value": 0.03703520964971846,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 2.7916709273870914,
+                        "p_value": 0.09475537707605289,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 15.283333677702307,
+                        "p_value": 9.252930548761628e-05,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 40.833433693676795,
+                        "p_value": 1.657725827894194e-10,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 5.150567471895963,
+                        "p_value": 0.023238777363357634,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 19.26749142415402,
+                        "p_value": 1.1362460079408667e-05,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.9585403012581692,
+                        "p_value": 0.3275549220332057,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 1.1700856660824608,
+                        "p_value": 0.2793836391372195,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 10.595396025214177,
+                        "p_value": 0.0011336961288735614,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 22.199629645309493,
+                        "p_value": 2.4572119061432398e-06,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 7.334079777284,
+                        "p_value": 0.006765930855457895,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 16.40057113524152,
+                        "p_value": 5.1269778997553075e-05,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 1.7499971534406071,
+                        "p_value": 0.18587709021841298,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 3.1668872546265656,
+                        "p_value": 0.07514553721453211,
+                        "significant": "False"
+                    }
+                }
+            },
+            "4": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 4.585102154755858,
+                        "p_value": 0.03225104877383013,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 22.227914485321854,
+                        "p_value": 2.421278590793872e-06,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 6.53851163066186,
+                        "p_value": 0.010556363172060062,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 13.722307628888178,
+                        "p_value": 0.00021192233383689486,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.11848840437064473,
+                        "p_value": 0.7306797545893966,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.7771896989327965,
+                        "p_value": 0.3780020101007098,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.0027698155077072266,
+                        "p_value": 0.958027481054943,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 0.07520789948251148,
+                        "p_value": 0.783899739455857,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 0.0039688952294403565,
+                        "p_value": 0.9497671664626168,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 6.23852860923573,
+                        "p_value": 0.012500028427815517,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 5.728357102721017,
+                        "p_value": 0.01669309248463536,
+                        "significant": "True"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 16.607367184827904,
+                        "p_value": 4.597209863464258e-05,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 14.78591199925706,
+                        "p_value": 0.00012043186373608168,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 19.745485957596625,
+                        "p_value": 8.84704070528298e-06,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 6.157098391409642,
+                        "p_value": 0.013088574314378954,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 2.813953057242408,
+                        "p_value": 0.09344784726691724,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.21360333382979754,
+                        "p_value": 0.6439576889923224,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 3.439199532104478,
+                        "p_value": 0.06366653172052865,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 0.016251677072214265,
+                        "p_value": 0.8985588668705841,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 8.323697304055367,
+                        "p_value": 0.003913119051011284,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 4.266320513274531,
+                        "p_value": 0.03887502309423574,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 1.5071667058108573,
+                        "p_value": 0.2195719314678137,
+                        "significant": "False"
+                    }
+                }
+            },
+            "8": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 9.265103224837253,
+                        "p_value": 0.0023356131511383213,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 17.866349497010617,
+                        "p_value": 2.3697450185610538e-05,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 6.733448489915216,
+                        "p_value": 0.009462149470635,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 11.844354299728883,
+                        "p_value": 0.0005783642660081676,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.4494014603201678,
+                        "p_value": 0.5026193284192427,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.5953982772439528,
+                        "p_value": 0.4403391977987584,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 2.2470506596287176,
+                        "p_value": 0.13386933497342568,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.07610255407466401,
+                        "p_value": 0.7826502871983962,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 3.2646710604572275,
+                        "p_value": 0.07078721805426859,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 0.29214783573071634,
+                        "p_value": 0.5888474229367207,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 8.520541343730239,
+                        "p_value": 0.0035116001655930693,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 1.724731484563177,
+                        "p_value": 0.1890851365445183,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 20.80377690389339,
+                        "p_value": 5.0882520195527235e-06,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 14.593264915066134,
+                        "p_value": 0.00013339043613980618,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 5.592536300688132,
+                        "p_value": 0.018037160883689687,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 3.6691376160112785,
+                        "p_value": 0.05542885674293968,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 1.7304052581599394,
+                        "p_value": 0.18835915061966518,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.8589518345897081,
+                        "p_value": 0.3540321795099428,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 0.24925540226312673,
+                        "p_value": 0.6175998602199283,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 0.0006462800680135318,
+                        "p_value": 0.9797183321903746,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 1.6886358175896967,
+                        "p_value": 0.19378089608157606,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 0.9574249181884884,
+                        "p_value": 0.32783652164800603,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 2.26162582133055,
+                        "p_value": 0.13261477057151158,
+                        "significant": "False"
+                    }
+                }
+            }
+        },
+        "Bearish": {
+            "2": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 35.15440589424647,
+                        "p_value": 3.045715425478485e-09,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 62.98478220158878,
+                        "p_value": 2.0830980873636038e-15,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 18.944852003703524,
+                        "p_value": 1.3455185008635518e-05,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 36.707053743230546,
+                        "p_value": 1.3728180908067133e-09,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.40583901992343707,
+                        "p_value": 0.5240890459651159,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 4.009391117675416,
+                        "p_value": 0.04524748857181258,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 17.779569045671323,
+                        "p_value": 2.4803243206487094e-05,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 9.43457412250147,
+                        "p_value": 0.0021293253080448653,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 21.165735426499,
+                        "p_value": 4.212284434998075e-06,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.7005287808752766,
+                        "p_value": 0.4026060732442125,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.3609422096904058,
+                        "p_value": 0.5479834214904891,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 39.92675204336956,
+                        "p_value": 2.636671359491905e-10,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 5.542341521304118e-05,
+                        "p_value": 0.9940600513353612,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 31.041015830894246,
+                        "p_value": 2.5263298198930523e-08,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 9.656767513781048,
+                        "p_value": 0.0018865528821527312,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.14887162070280338,
+                        "p_value": 0.6996160184025232,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 25.624809741915527,
+                        "p_value": 4.1467344174017194e-07,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 19.16575462535494,
+                        "p_value": 1.1984423731548548e-05,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 26.26932454689133,
+                        "p_value": 2.9696831704500416e-07,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 26.60581403318045,
+                        "p_value": 2.494918270173683e-07,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 3.4111541642285474,
+                        "p_value": 0.06475713939764037,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 6.693567642654104,
+                        "p_value": 0.009676137632592306,
+                        "significant": "True"
+                    }
+                }
+            },
+            "4": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 8.755176379682181,
+                        "p_value": 0.003087245133844618,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 31.104018056589332,
+                        "p_value": 2.4456461608393473e-08,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 10.540567009924404,
+                        "p_value": 0.0011678258704051808,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 18.795970086278867,
+                        "p_value": 1.4547418245612978e-05,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.24287991450621071,
+                        "p_value": 0.6221337826997584,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.10820974396922006,
+                        "p_value": 0.7421915949830216,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 7.095925898001965,
+                        "p_value": 0.007725936902598704,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 12.87159787158943,
+                        "p_value": 0.0003336066448606647,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 4.500171202806695,
+                        "p_value": 0.0338914601689857,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 13.920101406157936,
+                        "p_value": 0.00019074756520234097,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 2.6796684761188008,
+                        "p_value": 0.10163688522405033,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.12749501395896215,
+                        "p_value": 0.7210435652058826,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 0.17870544931306762,
+                        "p_value": 0.6724881253187585,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 12.12142747436983,
+                        "p_value": 0.0004984573263621683,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 0.10580020716173201,
+                        "p_value": 0.7449771594158787,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 10.296406691522836,
+                        "p_value": 0.0013328950604812437,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 10.769733449532191,
+                        "p_value": 0.0010317336680173551,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.29784495631178104,
+                        "p_value": 0.5852366043183334,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 20.244696460321496,
+                        "p_value": 6.814210351982079e-06,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 5.039188404552251,
+                        "p_value": 0.02478009695394114,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 22.3854142977926,
+                        "p_value": 2.230616164692592e-06,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 10.217139213817406,
+                        "p_value": 0.0013914150937370578,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 6.946327687765566,
+                        "p_value": 0.008399147559347465,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 3.241590686621307,
+                        "p_value": 0.07179090509801753,
+                        "significant": "False"
+                    }
+                }
+            },
+            "8": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 7.092575977993259,
+                        "p_value": 0.007740391109925339,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 15.839303509855828,
+                        "p_value": 6.895521292813467e-05,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 0.4736595894225042,
+                        "p_value": 0.49130838638977214,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 7.39627695552355,
+                        "p_value": 0.006535901017926686,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 1.5609851112801425,
+                        "p_value": 0.2115210393235407,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 1.087970541082744,
+                        "p_value": 0.29692130914525533,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.596719369544707,
+                        "p_value": 0.4398324799072818,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 2.898918603848164,
+                        "p_value": 0.08863899914961475,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 11.01642905495037,
+                        "p_value": 0.0009030787620454357,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 9.140549865508126,
+                        "p_value": 0.0025000595686121663,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.22123418291055943,
+                        "p_value": 0.6381011377452752,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.05265395025962439,
+                        "p_value": 0.8185079204455656,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 4.194873495198887,
+                        "p_value": 0.04054637830067182,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 5.052873730375933,
+                        "p_value": 0.024585130538821894,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 7.2611142259221735,
+                        "p_value": 0.00704635602044252,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 3.221775022329015,
+                        "p_value": 0.07266479496835265,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 12.295421286410374,
+                        "p_value": 0.00045407086453744586,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.24992453886657662,
+                        "p_value": 0.6171282169618728,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 16.073057896785198,
+                        "p_value": 6.0944967919603853e-05,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 0.16385930337149535,
+                        "p_value": 0.6856279216866791,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 18.70148666453597,
+                        "p_value": 1.52863259066135e-05,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 5.803009104141777,
+                        "p_value": 0.015998771661133063,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 2.1953722300893563,
+                        "p_value": 0.13842576591557615,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 4.96889969733577,
+                        "p_value": 0.025807059632271794,
+                        "significant": "True"
+                    }
+                }
+            }
+        }
+    },
+    "Hydropower": {
+        "Bullish": {
+            "2": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 17.830401195436245,
+                        "p_value": 2.4149379165540906e-05,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 22.908970033262634,
+                        "p_value": 1.6985734534225107e-06,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 9.00443662930054,
+                        "p_value": 0.0026932499776447824,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 17.163302653611556,
+                        "p_value": 3.4299887843396273e-05,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.0428052771373667,
+                        "p_value": 0.8360923595238068,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 1.929011729897909,
+                        "p_value": 0.16486660716799276,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.5768872005738648,
+                        "p_value": 0.447535032017913,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.3509379834146183,
+                        "p_value": 0.5535826401021774,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 0.8385922138475728,
+                        "p_value": 0.35979970896764535,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 1.9141432153895577,
+                        "p_value": 0.16650374899586237,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 2.7417856148486437,
+                        "p_value": 0.09775547829307808,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 7.158604429808087,
+                        "p_value": 0.007460522023443368,
+                        "significant": "True"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 7.301806212259031,
+                        "p_value": 0.006888532876436925,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 6.934279743651101,
+                        "p_value": 0.008455910757391778,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 3.9035034997485965,
+                        "p_value": 0.04818552393037906,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 9.930880297513642,
+                        "p_value": 0.0016252878646699652,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 1.3758648872454498,
+                        "p_value": 0.24080676515783486,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 2.8950532579852424,
+                        "p_value": 0.08885183896275158,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 4.266623907222289,
+                        "p_value": 0.038868081969485525,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 14.882256051136276,
+                        "p_value": 0.00011443433396820897,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 13.701372261036518,
+                        "p_value": 0.0002142978439608295,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 38.41464760996664,
+                        "p_value": 5.720144673062876e-10,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.3692188228073485,
+                        "p_value": 0.5434303848087636,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 1.2443317541495995,
+                        "p_value": 0.2646378494093439,
+                        "significant": "False"
+                    }
+                }
+            },
+            "4": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 5.237879967051395,
+                        "p_value": 0.02210018991624108,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 9.085980164102205,
+                        "p_value": 0.002575763982910386,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 4.856980424825509,
+                        "p_value": 0.02753448625265661,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 8.019585442297162,
+                        "p_value": 0.004627416135284615,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.20065702974579208,
+                        "p_value": 0.6541910324271727,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 2.463295974231459,
+                        "p_value": 0.11653402182146165,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 2.1557874126009793,
+                        "p_value": 0.14203361318831137,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.32312791416900266,
+                        "p_value": 0.569733918929618,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 0.0002842791527777433,
+                        "p_value": 0.9865478410182913,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 0.05308638022033461,
+                        "p_value": 0.8177772175330291,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 6.826282784630314,
+                        "p_value": 0.008982601695915549,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 9.230477522004556,
+                        "p_value": 0.002380195638752793,
+                        "significant": "True"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 9.68226707444329,
+                        "p_value": 0.0018605491904088813,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 1.5326156745020785,
+                        "p_value": 0.21572030274824033,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 9.251801223872517,
+                        "p_value": 0.002352639106533716,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 3.181483974362686,
+                        "p_value": 0.07447706188273445,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 1.4680431747861205,
+                        "p_value": 0.2256546905807057,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 1.3420899026488367,
+                        "p_value": 0.2466657457107809,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 0.6007986689141854,
+                        "p_value": 0.4382734598678879,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 9.68143288989758,
+                        "p_value": 0.0018613940917977059,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 3.0146065218896534,
+                        "p_value": 0.08251747884479571,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 18.879601402065454,
+                        "p_value": 1.3923358548034e-05,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 3.0744732840814333,
+                        "p_value": 0.07953035193708843,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 1.1188059033813187,
+                        "p_value": 0.2901757191649811,
+                        "significant": "False"
+                    }
+                }
+            },
+            "8": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 7.531915030574584,
+                        "p_value": 0.00606154410669628,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 1.4099539310733675,
+                        "p_value": 0.23506404109252987,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 5.274067683836686,
+                        "p_value": 0.02164537650867261,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 1.9259001081667837,
+                        "p_value": 0.1652076924848665,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 2.8680430088353313,
+                        "p_value": 0.09035467732872483,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 7.6838942853539685,
+                        "p_value": 0.005571580627247104,
+                        "significant": "True"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.00021802695650155192,
+                        "p_value": 0.9882190753957543,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 0.03263786538029391,
+                        "p_value": 0.8566348272581571,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 0.06189538301051719,
+                        "p_value": 0.8035249075314251,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 5.781088212433435,
+                        "p_value": 0.01619950888554092,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 5.3763546892912695,
+                        "p_value": 0.02041148404875015,
+                        "significant": "True"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 29.346087347158516,
+                        "p_value": 6.05386249921194e-08,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 0.0008676318378863391,
+                        "p_value": 0.9765012368510739,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 26.44584972355307,
+                        "p_value": 2.71030176717697e-07,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 1.039992056537663,
+                        "p_value": 0.30782331935503116,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 16.326286951105043,
+                        "p_value": 5.331916652918005e-05,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 7.501488780191969,
+                        "p_value": 0.006164801054100437,
+                        "significant": "True"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 5.538684808232828,
+                        "p_value": 0.018600556587353073,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 7.585213437127654,
+                        "p_value": 0.005884899576379269,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 2.1873915554936123,
+                        "p_value": 0.13914478237779654,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 18.181520804828267,
+                        "p_value": 2.008179158366485e-05,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 25.362181579455488,
+                        "p_value": 4.7514237655815087e-07,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 2.8070598910763507,
+                        "p_value": 0.09385023361841137,
+                        "significant": "False"
+                    }
+                }
+            }
+        },
+        "Bearish": {
+            "2": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 6.176492952755877,
+                        "p_value": 0.012945862486113555,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 7.541204698738975,
+                        "p_value": 0.006030370932683608,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 1.9066385587266803,
+                        "p_value": 0.16733713153264324,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 2.5525831447309852,
+                        "p_value": 0.1101140892180322,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 5.766713572413283e-05,
+                        "p_value": 0.9939410122021434,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.8357004248364781,
+                        "p_value": 0.36062935388983675,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 1.465966675548205,
+                        "p_value": 0.22598314117896773,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 3.351868010710396,
+                        "p_value": 0.06712879490666546,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 4.465102812977911,
+                        "p_value": 0.03459400771825958,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 7.823573864971347,
+                        "p_value": 0.0051569121692473015,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.3351143744586686,
+                        "p_value": 0.562662965453511,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.9653891940990408,
+                        "p_value": 0.32583279886694505,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 2.004468106628377,
+                        "p_value": 0.1568362967754963,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 18.105784997210506,
+                        "p_value": 2.0896559349958442e-05,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 7.291564204764699,
+                        "p_value": 0.006927913076678597,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 4.691005515836277,
+                        "p_value": 0.030320898979746543,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 21.123588282894723,
+                        "p_value": 4.30595037764814e-06,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.05501259563444555,
+                        "p_value": 0.814559852721479,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 20.51479768827452,
+                        "p_value": 5.91720272796591e-06,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 12.355821997910661,
+                        "p_value": 0.00043961338854677293,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 21.600205389663802,
+                        "p_value": 3.3581586975692014e-06,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 28.630471416411954,
+                        "p_value": 8.759290567208598e-08,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 6.087059831698256,
+                        "p_value": 0.013617550880392645,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.010062570832284594,
+                        "p_value": 0.9200963401277109,
+                        "significant": "False"
+                    }
+                }
+            },
+            "4": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 1.4988943698361437,
+                        "p_value": 0.22084155956972837,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 4.297037882607051,
+                        "p_value": 0.03817881485384453,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 0.2840761027672083,
+                        "p_value": 0.59404195553391,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 4.234855033800927,
+                        "p_value": 0.03960200541273981,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.7409647327748984,
+                        "p_value": 0.3893520149803328,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.47013238187735545,
+                        "p_value": 0.4929262730007822,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 2.4217504609208214,
+                        "p_value": 0.11966115081228357,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.8530550069074067,
+                        "p_value": 0.35568952534227627,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 4.433000076023932,
+                        "p_value": 0.0352504954748803,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 4.036450517225905,
+                        "p_value": 0.044527381798165025,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.2973276744384301,
+                        "p_value": 0.58556259925213,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.48373101106235755,
+                        "p_value": 0.4867371647149893,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 2.338633311522625,
+                        "p_value": 0.12620023135430505,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 8.285282503979523,
+                        "p_value": 0.003996768612052449,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 2.2747617668842466,
+                        "p_value": 0.13149532952691814,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 0.7652908443718509,
+                        "p_value": 0.3816778213921258,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 9.685123616984113,
+                        "p_value": 0.0018576588930754032,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.32963708753398363,
+                        "p_value": 0.5658728622550029,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 26.958101215697663,
+                        "p_value": 2.0791387466265638e-07,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 7.694128880076815,
+                        "p_value": 0.005540074252929968,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 33.12891478892541,
+                        "p_value": 8.624657361946535e-09,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 21.923546682949087,
+                        "p_value": 2.8373106423430303e-06,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 10.326509950269378,
+                        "p_value": 0.00131132934765192,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    }
+                }
+            },
+            "8": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 2.1336251674021254,
+                        "p_value": 0.14409960501149946,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 6.454245157324554,
+                        "p_value": 0.011068755807790381,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 0.00015723378317473996,
+                        "p_value": 0.9899953566192409,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 3.404260640934247,
+                        "p_value": 0.06502824987438566,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 0.3419194648880948,
+                        "p_value": 0.5587233603330395,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.00021499919493301253,
+                        "p_value": 0.9883011569010717,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.18891197074503746,
+                        "p_value": 0.6638237216341363,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.3530312375961633,
+                        "p_value": 0.5524022153139372,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 2.520176401062186,
+                        "p_value": 0.11239801066301168,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 3.7808204694217733,
+                        "p_value": 0.05184323352133541,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 0.5148689224676289,
+                        "p_value": 0.47303869898644013,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.12863605708506093,
+                        "p_value": 0.7198504343219231,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 5.625183696672315,
+                        "p_value": 0.017704210254334534,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 3.7825736529109717,
+                        "p_value": 0.051788944875229344,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 8.247147664335069,
+                        "p_value": 0.00408160873722863,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 4.073841062590808,
+                        "p_value": 0.043552132812918476,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 13.448011204878881,
+                        "p_value": 0.0002452660425682627,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.5677126138073857,
+                        "p_value": 0.45116929703789244,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 43.782562619337035,
+                        "p_value": 3.6695997147685695e-11,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 5.197634283874054,
+                        "p_value": 0.022617649958513317,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 48.16672494337149,
+                        "p_value": 3.914755554529489e-12,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 9.44733187923188,
+                        "p_value": 0.002114564827876815,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 43.82015392903789,
+                        "p_value": 3.5997899251446047e-11,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.1453612038473334,
+                        "p_value": 0.7030083696466072,
+                        "significant": "False"
+                    }
+                }
+            }
+        }
+    },
+    "Micro Finance": {
+        "Bullish": {
+            "2": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 11.733657325496381,
+                        "p_value": 0.0006137985101928915,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 35.123489615966584,
+                        "p_value": 3.0944550212627117e-09,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 8.143233053082342,
+                        "p_value": 0.004322215116179242,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 30.56337260599075,
+                        "p_value": 3.231368904671794e-08,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.07251844243745403,
+                        "p_value": 0.7877046148140444,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.022808448114692584,
+                        "p_value": 0.879956262654336,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 1.3593565795008147,
+                        "p_value": 0.2436490230937051,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 8.612112753089086,
+                        "p_value": 0.0033393472046341862,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 0.5852505117895549,
+                        "p_value": 0.444261615703596,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 2.168863157583812,
+                        "p_value": 0.14083031015958766,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 2.1774599873573353,
+                        "p_value": 0.14004542304473144,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.7957273233892515,
+                        "p_value": 0.3723739077041486,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 54.556314840933595,
+                        "p_value": 1.5105647135473363e-13,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 15.392645726495712,
+                        "p_value": 8.732750696964642e-05,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 59.69939183128198,
+                        "p_value": 1.1051068818077514e-14,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 21.049572372601258,
+                        "p_value": 4.4755272554926674e-06,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 14.748853937599053,
+                        "p_value": 0.00012282215964606712,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.5773872350771483,
+                        "p_value": 0.4473382675124973,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 2.6110183394563022,
+                        "p_value": 0.10612359523734988,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 11.112119786404254,
+                        "p_value": 0.0008576540970326253,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 1.162093641065684,
+                        "p_value": 0.28103176054503537,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 33.84004451530528,
+                        "p_value": 5.9834494140046896e-09,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 15.193298640378986,
+                        "p_value": 9.704720713629672e-05,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.8678773301274566,
+                        "p_value": 0.35154362438980613,
+                        "significant": "False"
+                    }
+                }
+            },
+            "4": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 7.270793645820804,
+                        "p_value": 0.007008482838827896,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 26.203893649030615,
+                        "p_value": 3.072024898094987e-07,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 6.985584359586334,
+                        "p_value": 0.00821688206736128,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 26.453398438406126,
+                        "p_value": 2.6997308974824345e-07,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 4.599026364736253e-05,
+                        "p_value": 0.9945890978256817,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 1.8903465050261672,
+                        "p_value": 0.16916284450823657,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.7415942703195667,
+                        "p_value": 0.3891506546457484,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 1.3031474181337532,
+                        "p_value": 0.25363911087238555,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 1.283200162363909,
+                        "p_value": 0.2573048661441474,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 0.864127235017625,
+                        "p_value": 0.35258628577216244,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 0.28141344820024977,
+                        "p_value": 0.595776285843481,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 2.8425272652256455,
+                        "p_value": 0.09179972560274673,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 26.3036552176263,
+                        "p_value": 2.9173601189665815e-07,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 15.459935376105994,
+                        "p_value": 8.427276490497643e-05,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 17.38201651446709,
+                        "p_value": 3.057047892608431e-05,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 7.0336332911572805,
+                        "p_value": 0.007999289651065115,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 6.665844755081804,
+                        "p_value": 0.0098278059362345,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.0016486751941335379,
+                        "p_value": 0.9676116897084249,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 1.1050534396033234,
+                        "p_value": 0.29315975425804713,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 4.890201263304807,
+                        "p_value": 0.02700953740171113,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 0.4468512677289407,
+                        "p_value": 0.5038340423013619,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 8.40184207519061,
+                        "p_value": 0.003748409807164229,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 10.981950419416743,
+                        "p_value": 0.0009200355103785443,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 1.708803977745111,
+                        "p_value": 0.19114062182611655,
+                        "significant": "False"
+                    }
+                }
+            },
+            "8": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 8.495928012920613,
+                        "p_value": 0.0035594218134496337,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 25.9810159500381,
+                        "p_value": 3.4479121118987086e-07,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 11.074086842896818,
+                        "p_value": 0.0008754252080544453,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 33.489994372132166,
+                        "p_value": 7.163154306662684e-09,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.08525005993639144,
+                        "p_value": 0.7703048753791374,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.1487780502454419,
+                        "p_value": 0.6997058427800051,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 2.7483820532613246,
+                        "p_value": 0.09735289586986506,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 1.3683116882308306,
+                        "p_value": 0.24210217092017167,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 0.030272064009898514,
+                        "p_value": 0.8618743512736067,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 3.667310321251793,
+                        "p_value": 0.055489662691128795,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.5270478497232166,
+                        "p_value": 0.46785065590005925,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 52.54348706360268,
+                        "p_value": 4.20826013889254e-13,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 12.421526052634263,
+                        "p_value": 0.0004244132864528295,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 40.32049707706334,
+                        "p_value": 2.1553578097252455e-10,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 5.4331521884565666,
+                        "p_value": 0.019757984138763455,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 28.15228122177876,
+                        "p_value": 1.1213542258697598e-07,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.0034797661772001686,
+                        "p_value": 0.9529604371271353,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 11.62335202468849,
+                        "p_value": 0.0006512892007466537,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 4.321658436430556,
+                        "p_value": 0.037630230411410164,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 22.713017241169055,
+                        "p_value": 1.880893746508202e-06,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 2.5410528383936946,
+                        "p_value": 0.11092080175979216,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 33.30225995980406,
+                        "p_value": 7.889090472532645e-09,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.5412934217684038,
+                        "p_value": 0.4618971843461632,
+                        "significant": "False"
+                    }
+                }
+            }
+        },
+        "Bearish": {
+            "2": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 21.768779407808413,
+                        "p_value": 3.0756449387219728e-06,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 39.491884222292,
+                        "p_value": 3.294256683898013e-10,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 11.907153946014747,
+                        "p_value": 0.0005591877084594861,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 20.949094731257762,
+                        "p_value": 4.716506551102879e-06,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 18.00819855708145,
+                        "p_value": 2.1995563027551822e-05,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 7.229590627647046,
+                        "p_value": 0.007171155793855841,
+                        "significant": "True"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 4.7954896347532365,
+                        "p_value": 0.02853434507091384,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 3.496514495226264,
+                        "p_value": 0.06149813346896104,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 5.891057281055041,
+                        "p_value": 0.01521796110990991,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 10.809938586920321,
+                        "p_value": 0.0010095665144981589,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.07765432925210247,
+                        "p_value": 0.7805017223655399,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.5537046432370119,
+                        "p_value": 0.45680791746480087,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 1.5290242456126852,
+                        "p_value": 0.2162589471593556,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 18.97701703214063,
+                        "p_value": 1.3230251202015503e-05,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 5.532092324069425,
+                        "p_value": 0.018670765304392215,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 5.778430053160791,
+                        "p_value": 0.01622402645940282,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 23.92972967490281,
+                        "p_value": 9.991678542960293e-07,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 2.632702442472103,
+                        "p_value": 0.10468339899194996,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 39.084712922006744,
+                        "p_value": 4.0580913080934036e-10,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 29.20865180007852,
+                        "p_value": 6.498836535376982e-08,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 62.518020940279996,
+                        "p_value": 2.640177016018358e-15,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 50.673420651050556,
+                        "p_value": 1.090869026856216e-12,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 7.572646751550338,
+                        "p_value": 0.0059260698776574024,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 1.7482281477151962,
+                        "p_value": 0.18609963400430196,
+                        "significant": "False"
+                    }
+                }
+            },
+            "4": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 12.096798033970188,
+                        "p_value": 0.0005050848498780133,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 16.56100987133724,
+                        "p_value": 4.710967727880486e-05,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 8.550382581981674,
+                        "p_value": 0.0034544961678937935,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 4.6126046868288695,
+                        "p_value": 0.03173779160344134,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 2.089114561645471,
+                        "p_value": 0.14835203091768384,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 3.4040868556200095,
+                        "p_value": 0.06503510018624781,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.5264841368757901,
+                        "p_value": 0.4680887635638269,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.5580799906189877,
+                        "p_value": 0.4550348795375162,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 0.3543238952170087,
+                        "p_value": 0.5516756244315977,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 8.468347089752951,
+                        "p_value": 0.0036137966342198098,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 3.185927043513582,
+                        "p_value": 0.07427485590119752,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.49556137803858796,
+                        "p_value": 0.4814569338323985,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 13.441049728779502,
+                        "p_value": 0.000246177835331935,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 7.1503044516976,
+                        "p_value": 0.007495126248374865,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 10.370792398448355,
+                        "p_value": 0.0012802458702519024,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 0.8099273432072928,
+                        "p_value": 0.3681417325663905,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 36.108703844369025,
+                        "p_value": 1.8661147025613004e-09,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 2.8655783760634583,
+                        "p_value": 0.09049317510532932,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 33.73839414314535,
+                        "p_value": 6.3044041893332996e-09,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 11.082273194269355,
+                        "p_value": 0.0008715689119143337,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 35.89415832805804,
+                        "p_value": 2.0833240234492566e-09,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 27.207308625054054,
+                        "p_value": 1.8276647084717913e-07,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 5.452061965826268,
+                        "p_value": 0.019545244579026972,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.42043642304848233,
+                        "p_value": 0.5167193579614782,
+                        "significant": "False"
+                    }
+                }
+            },
+            "8": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 0.5387739269597963,
+                        "p_value": 0.4629412954657596,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 4.3094588500677,
+                        "p_value": 0.03790101634569943,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 0.0009683282987448531,
+                        "p_value": 0.9751754555226754,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 3.9988940018445542,
+                        "p_value": 0.04553013117290676,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 1.3145359985643885,
+                        "p_value": 0.25157502747211424,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.557848849915778,
+                        "p_value": 0.4551282743623688,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.6336125215597487,
+                        "p_value": 0.42603330537745154,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 2.619697386343803,
+                        "p_value": 0.10554456726314936,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 1.3050239573643643,
+                        "p_value": 0.2532975751701867,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 0.0235044241396154,
+                        "p_value": 0.87815261134746,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 1.9270354486180516,
+                        "p_value": 0.1650831469516012,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 6.483437714572345,
+                        "p_value": 0.010888419486117932,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 4.338291550301946,
+                        "p_value": 0.03726429803232379,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 10.401641275720365,
+                        "p_value": 0.0012590335751780245,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 0.2145757504746488,
+                        "p_value": 0.6432043748963279,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 14.043543381472913,
+                        "p_value": 0.00017862605497487478,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 1.7173598088437558,
+                        "p_value": 0.19003325054641806,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 45.89560803367543,
+                        "p_value": 1.2472527011730967e-11,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 2.6018088719855483,
+                        "p_value": 0.10674182262614887,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 49.009180257507325,
+                        "p_value": 2.547673230298368e-12,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 6.631559733705232,
+                        "p_value": 0.010018749919594006,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 21.632960813326907,
+                        "p_value": 3.301296489764582e-06,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.5890297196667501,
+                        "p_value": 0.44279456555155594,
+                        "significant": "False"
+                    }
+                }
+            }
+        }
+    },
+    "Expensive Stocks": {
+        "Bullish": {
+            "2": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 6.804581178371689,
+                        "p_value": 0.009092427879988846,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 17.44308134376473,
+                        "p_value": 2.9603978490681785e-05,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 2.5231851070202636,
+                        "p_value": 0.11218378631269364,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 10.120957077331232,
+                        "p_value": 0.0014659285795545428,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.12661365400576768,
+                        "p_value": 0.7219692856414691,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.004194976945807928,
+                        "p_value": 0.9483582093166751,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 9.250496786186126,
+                        "p_value": 0.0023543154927945756,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 4.86222263320434,
+                        "p_value": 0.02745094997042076,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 7.066570453465196,
+                        "p_value": 0.007853544211043617,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 8.945154116756097,
+                        "p_value": 0.002782066214983543,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 1.2753375766121966,
+                        "p_value": 0.25876773727429053,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 11.08349003845854,
+                        "p_value": 0.0008709971680212387,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 0.05293538205311866,
+                        "p_value": 0.8180320109351689,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 3.4388732727065285,
+                        "p_value": 0.06367910583600353,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 5.308575977384105,
+                        "p_value": 0.021220694830259478,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 4.006186103748691,
+                        "p_value": 0.04533358941859032,
+                        "significant": "True"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 15.81826259138897,
+                        "p_value": 6.972625257270163e-05,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 7.218850403839714,
+                        "p_value": 0.007214189529080543,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 21.299771056821488,
+                        "p_value": 3.927784053236856e-06,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 25.722729942653647,
+                        "p_value": 3.94157275691459e-07,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.07519906899869905,
+                        "p_value": 0.7839121116109208,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 1.7678169066345264,
+                        "p_value": 0.18365248494433348,
+                        "significant": "False"
+                    }
+                }
+            },
+            "4": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 5.876770896121223,
+                        "p_value": 0.015341933467083747,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 13.619193980322281,
+                        "p_value": 0.0002238847835553728,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 4.370051834882222,
+                        "p_value": 0.036575879286487874,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 8.842416996088353,
+                        "p_value": 0.002943091260432956,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.6287353208908228,
+                        "p_value": 0.42781958626177563,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.016923353802657946,
+                        "p_value": 0.8964953868405671,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 3.3316635513064226,
+                        "p_value": 0.06795810609721553,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.8301766062115874,
+                        "p_value": 0.3622214664533271,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 1.439651718289829,
+                        "p_value": 0.23019570830233485,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 3.633346566119541,
+                        "p_value": 0.05663283132053636,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 0.06305481357252643,
+                        "p_value": 0.8017312483882678,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 1.497252620311352,
+                        "p_value": 0.2210945755335781,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 8.64683509007056,
+                        "p_value": 0.0032762997818882593,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 7.107871799645779,
+                        "p_value": 0.007674617110949939,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 2.731507738808922,
+                        "p_value": 0.09838636273773035,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 1.3159423857883297,
+                        "p_value": 0.25132156592366167,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 0.2562547731307956,
+                        "p_value": 0.6127049308213504,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 4.095045805333231,
+                        "p_value": 0.043009064573676405,
+                        "significant": "True"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 0.647117824885451,
+                        "p_value": 0.42114502098117856,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 4.260886506893698,
+                        "p_value": 0.0389995640756923,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 0.2388528224652783,
+                        "p_value": 0.6250358972333551,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 12.751374582303637,
+                        "p_value": 0.0003557476236117897,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 1.338272533671284,
+                        "p_value": 0.2473388402428157,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 1.148425368048059,
+                        "p_value": 0.28387901794199766,
+                        "significant": "False"
+                    }
+                }
+            },
+            "8": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 6.864809927772599,
+                        "p_value": 0.008790959818346081,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 7.951846468689101,
+                        "p_value": 0.004803833973047328,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 5.486330179895063,
+                        "p_value": 0.019165731505713133,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 4.031332469627822,
+                        "p_value": 0.044662652602166016,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.9402806532891056,
+                        "p_value": 0.33220567526602585,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.030893461781318018,
+                        "p_value": 0.8604782846158969,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.07657468319938841,
+                        "p_value": 0.7819941078839339,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.3849341692133563,
+                        "p_value": 0.5349743104491311,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 1.038933780019062,
+                        "p_value": 0.30806957616507075,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 4.245591659735274,
+                        "p_value": 0.039352355409773034,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.9970906272667484,
+                        "p_value": 0.31801551645782616,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.09397463222073098,
+                        "p_value": 0.7591837687303539,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 17.689580082484216,
+                        "p_value": 2.600472198765337e-05,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 1.9324188378495872,
+                        "p_value": 0.16449405465701866,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 14.203129048567044,
+                        "p_value": 0.0001640974116733893,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 1.2457712131758762,
+                        "p_value": 0.264361692275819,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 7.829517665026664,
+                        "p_value": 0.005139981404220875,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 3.3334323336793816,
+                        "p_value": 0.06788506913528668,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 2.6592352130358607,
+                        "p_value": 0.10295022392873784,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 4.389067447535102,
+                        "p_value": 0.03617009192959763,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 0.0014921535938574424,
+                        "p_value": 0.9691866560886176,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 15.74448510047473,
+                        "p_value": 7.249898393737055e-05,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 10.84359735388188,
+                        "p_value": 0.0009913794643964724,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.2583850425592101,
+                        "p_value": 0.6112318291939819,
+                        "significant": "False"
+                    }
+                }
+            }
+        },
+        "Bearish": {
+            "2": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 20.322427952141062,
+                        "p_value": 6.542912963639558e-06,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 37.816616000636465,
+                        "p_value": 7.771699871434744e-10,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 26.449634202340675,
+                        "p_value": 2.7049969830559155e-07,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 33.6089818045279,
+                        "p_value": 6.738087225857426e-09,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 1.0304718324654987,
+                        "p_value": 0.3100478735632872,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 2.650315155269011,
+                        "p_value": 0.10352936922818955,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 2.391157014028867,
+                        "p_value": 0.12202328668527972,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 4.650252439373005,
+                        "p_value": 0.031048981070207364,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 8.55955006199305,
+                        "p_value": 0.0034371435886311713,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.30168283057838846,
+                        "p_value": 0.5828293555040147,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.3540107703693764,
+                        "p_value": 0.5518514641184633,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 3.8283512405726974,
+                        "p_value": 0.05039248003956866,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 19.06294016676385,
+                        "p_value": 1.2647723641099167e-05,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 0.41903906242504174,
+                        "p_value": 0.5174169232540264,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 11.995074019388404,
+                        "p_value": 0.0005334135768890336,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 5.163520690400089,
+                        "p_value": 0.023066093967359685,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.7320360491063779,
+                        "p_value": 0.39222402081957297,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 29.593916478063303,
+                        "p_value": 5.327187259377148e-08,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 9.768067768061389,
+                        "p_value": 0.0017756897318314017,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 30.202611198569787,
+                        "p_value": 3.8918513467388254e-08,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 23.889473504630896,
+                        "p_value": 1.0202813584458169e-06,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 3.1609901805824423,
+                        "p_value": 0.07541742666440866,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 4.2259087650971665,
+                        "p_value": 0.039811294725881574,
+                        "significant": "True"
+                    }
+                }
+            },
+            "4": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 14.00956451318676,
+                        "p_value": 0.00018188308708673475,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 19.63142398019417,
+                        "p_value": 9.391188354969803e-06,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 0.5806623419801658,
+                        "p_value": 0.44605282108100286,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 5.94077297277581,
+                        "p_value": 0.014794528932941588,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.9789302588230843,
+                        "p_value": 0.3224630507929814,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.838833285777349,
+                        "p_value": 0.359730664969829,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 5.765635158174471,
+                        "p_value": 0.01634257671990965,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 4.09291747111157,
+                        "p_value": 0.043063249709414414,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 27.742875177536853,
+                        "p_value": 1.3855755528722542e-07,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 19.61311107024017,
+                        "p_value": 9.481631000801517e-06,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.042306850120947356,
+                        "p_value": 0.8370359681434955,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 0.10339584980695328,
+                        "p_value": 0.747791922569047,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 11.142471318019924,
+                        "p_value": 0.0008437340932037001,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 4.473103052127364,
+                        "p_value": 0.034432404521390195,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 2.4182063785270023,
+                        "p_value": 0.11993218035045246,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 5.971310902448518,
+                        "p_value": 0.014540467524466085,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 17.885826350002375,
+                        "p_value": 2.34561534960419e-05,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 5.8043858396054535,
+                        "p_value": 0.01598625030691725,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 27.841120970443697,
+                        "p_value": 1.3169706084668e-07,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 13.776676798931588,
+                        "p_value": 0.00020587629864386842,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 1.9744014184974912,
+                        "p_value": 0.1599814502218212,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 2.5159121580894173,
+                        "p_value": 0.11270240330171574,
+                        "significant": "False"
+                    }
+                }
+            },
+            "8": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 0.7031922879967749,
+                        "p_value": 0.4017131137541412,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 9.989936483116102,
+                        "p_value": 0.001573980334654066,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 4.141993962475815,
+                        "p_value": 0.041831866943333254,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 4.965447936507224,
+                        "p_value": 0.02585861668412519,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.957743100654667,
+                        "p_value": 0.3277561577221777,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 15.064089608379627,
+                        "p_value": 0.00010392160283234671,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 5.8609592752701785,
+                        "p_value": 0.015480354838805345,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 20.929461843843228,
+                        "p_value": 4.76509228890132e-06,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 12.459275990220943,
+                        "p_value": 0.00041592113044925684,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 5.792382748050106,
+                        "p_value": 0.016095758716161944,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 1.3396269663981053,
+                        "p_value": 0.24709976414641002,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 1.9654130769617726,
+                        "p_value": 0.16093558085254223,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 7.6265045386581765,
+                        "p_value": 0.005751666748225518,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 0.8970191856860972,
+                        "p_value": 0.3435822363884483,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 1.8021836781716722,
+                        "p_value": 0.17944872286740113,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 8.97081171112977,
+                        "p_value": 0.002743266961818435,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.7183407368867082,
+                        "p_value": 0.39668871742021494,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 45.95930730297238,
+                        "p_value": 1.2073495881384656e-11,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 4.556051618573747,
+                        "p_value": 0.03280261362803681,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 43.133500582514415,
+                        "p_value": 5.1129254027889375e-11,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 9.384948027080922,
+                        "p_value": 0.002187742557579654,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 22.835466373685797,
+                        "p_value": 1.7647878653967614e-06,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.5443060252340639,
+                        "p_value": 0.4606536282628404,
+                        "significant": "False"
+                    }
+                }
+            }
+        }
+    },
+    "Low Floating Stocks": {
+        "Bullish": {
+            "2": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 8.86014715966711,
+                        "p_value": 0.002914640751906472,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 10.518568002242752,
+                        "p_value": 0.001181810276360335,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 9.309052351114444,
+                        "p_value": 0.0022802439349905988,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 12.167309426548762,
+                        "p_value": 0.00048634410455504175,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.28698941696438246,
+                        "p_value": 0.5921562733895542,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 2.422950729143593,
+                        "p_value": 0.11956951544163212,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.12874704993392816,
+                        "p_value": 0.7197346939062079,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 3.902561049623603,
+                        "p_value": 0.04821255944793919,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 3.1506555795683515,
+                        "p_value": 0.07589646489409446,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 12.939895947613289,
+                        "p_value": 0.00032165288899276375,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 4.956249824261791,
+                        "p_value": 0.025996526985839614,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 1.7747594592245768,
+                        "p_value": 0.1827941536196934,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 0.8646548427540292,
+                        "p_value": 0.35243933699617813,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 10.48865742390464,
+                        "p_value": 0.001201096177378261,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 1.753698122692506,
+                        "p_value": 0.1854125014687113,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 6.842431073075867,
+                        "p_value": 0.00890176145747006,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 1.5030251081307302,
+                        "p_value": 0.22020648570304416,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.10891964480815876,
+                        "p_value": 0.7413774728741965,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 10.915025213461139,
+                        "p_value": 0.0009538741785220688,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 4.887496860254671,
+                        "p_value": 0.02705188006138708,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 17.60967916020221,
+                        "p_value": 2.7120449431592868e-05,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 13.014921053211442,
+                        "p_value": 0.00030901879555613116,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.0331721803957727,
+                        "p_value": 0.8554788886489961,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 1.7919962051219214,
+                        "p_value": 0.18068313430636104,
+                        "significant": "False"
+                    }
+                }
+            },
+            "4": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 4.229567176116454,
+                        "p_value": 0.03972556982440934,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 7.164303304589855,
+                        "p_value": 0.007436856897005242,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 3.6838223816432674,
+                        "p_value": 0.054942757196094906,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 6.378215287916747,
+                        "p_value": 0.011552954774290093,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 3.3694446071144846,
+                        "p_value": 0.06641614185082284,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 4.956370808458848,
+                        "p_value": 0.025994708079414758,
+                        "significant": "True"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.1273346611136744,
+                        "p_value": 0.7212117198928342,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 2.944284777280643,
+                        "p_value": 0.08618184206624874,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 0.02308818816284884,
+                        "p_value": 0.879227966252865,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 3.664742283419106,
+                        "p_value": 0.05557523756171768,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 4.510014840701087,
+                        "p_value": 0.03369694835154082,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 1.8321384909120975,
+                        "p_value": 0.1758751663081415,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 16.957109484888782,
+                        "p_value": 3.823386986214927e-05,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 12.426836703471238,
+                        "p_value": 0.00042320811907859996,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 13.227055181390137,
+                        "p_value": 0.0002759369976600702,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 5.176983008625775,
+                        "p_value": 0.02288803273544595,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 3.351737471619261,
+                        "p_value": 0.06713411815475925,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 1.2234388198100725,
+                        "p_value": 0.2686868365142398,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 0.6009386574862511,
+                        "p_value": 0.43822010968646596,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 12.000504256990165,
+                        "p_value": 0.0005318615771796589,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 6.588292197098772,
+                        "p_value": 0.010265159940093145,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 4.997302734730491,
+                        "p_value": 0.025386852062242952,
+                        "significant": "True"
+                    }
+                }
+            },
+            "8": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 1.1725508995265954,
+                        "p_value": 0.27887771866129313,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 5.821251596194585,
+                        "p_value": 0.015833674104357407,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 0.9115848758522344,
+                        "p_value": 0.339694253963749,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 1.8338341673242267,
+                        "p_value": 0.17567534327516976,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 3.6808957195245937,
+                        "p_value": 0.05503927458097564,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 2.0882714944002405,
+                        "p_value": 0.14843393038065295,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.007085174368815749,
+                        "p_value": 0.9329185049675626,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 0.7924495249037753,
+                        "p_value": 0.37336046923143684,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 2.3724103453655982,
+                        "p_value": 0.1234962401384244,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 0.13445019428828417,
+                        "p_value": 0.7138618242924238,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 2.0812950268435095,
+                        "p_value": 0.14911362031664302,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 42.15070676842878,
+                        "p_value": 8.450339973674277e-11,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 7.055643649348905,
+                        "p_value": 0.00790159136160098,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 34.76430652399658,
+                        "p_value": 3.721339511916655e-09,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 4.298064412581513,
+                        "p_value": 0.0381557755258709,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 19.074618577676574,
+                        "p_value": 1.2570562218003876e-05,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.008953916295350202,
+                        "p_value": 0.9246125840585737,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 9.453456429704513,
+                        "p_value": 0.0021075157466101152,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 0.1948439702890638,
+                        "p_value": 0.6589152347387257,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 5.547060657209091,
+                        "p_value": 0.01851174852545455,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 1.8006296875774261,
+                        "p_value": 0.17963638736004361,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 31.412683762227076,
+                        "p_value": 2.0861364920590166e-08,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 7.892082977190901,
+                        "p_value": 0.004965164964417612,
+                        "significant": "True"
+                    }
+                }
+            }
+        },
+        "Bearish": {
+            "2": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 6.036021303050094,
+                        "p_value": 0.014016839128745297,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 5.862266489565113,
+                        "p_value": 0.015468862319715304,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 8.52567413451415,
+                        "p_value": 0.003501710184500335,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 13.569074261072316,
+                        "p_value": 0.00022994275780630497,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.00969081527529153,
+                        "p_value": 0.9215813741967046,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.326979847967586,
+                        "p_value": 0.5674428981147246,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.5151666947594129,
+                        "p_value": 0.4729107465569963,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 1.0947715305483092,
+                        "p_value": 0.2954164049026873,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 6.234525120460202,
+                        "p_value": 0.012528318417027182,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 8.14821407436222,
+                        "p_value": 0.004310359001904378,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 1.8466576817854805,
+                        "p_value": 0.17417262666917865,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 3.868973714541861,
+                        "p_value": 0.04918658935487171,
+                        "significant": "True"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 5.4723644440027615,
+                        "p_value": 0.019319471059950227,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 3.0547574464095715,
+                        "p_value": 0.08050101389459331,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 1.7212528843739774,
+                        "p_value": 0.18953185109937573,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 5.98143277520054,
+                        "p_value": 0.014457252808424557,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 16.228320848869796,
+                        "p_value": 5.6148422687013434e-05,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.9109372853945371,
+                        "p_value": 0.33986585159121613,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 11.6430100303467,
+                        "p_value": 0.0006444423761481494,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 11.980924438909922,
+                        "p_value": 0.0005374791370769484,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 24.224514350152322,
+                        "p_value": 8.573405686508568e-07,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 30.46949039051247,
+                        "p_value": 3.3915865085459984e-08,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.8869959805740268,
+                        "p_value": 0.34629266898665534,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.8888709524206205,
+                        "p_value": 0.3457834525492074,
+                        "significant": "False"
+                    }
+                }
+            },
+            "4": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 10.918398221431017,
+                        "p_value": 0.0009521389856909312,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 8.13144859304507,
+                        "p_value": 0.004350397531020885,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 13.917177985549976,
+                        "p_value": 0.00019104446425417844,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 10.90994761436197,
+                        "p_value": 0.0009564923038995176,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.44996973961135056,
+                        "p_value": 0.5023493248856441,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.3013947962735336,
+                        "p_value": 0.5830093272641882,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.019439924942655354,
+                        "p_value": 0.8891126340686684,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 0.4153169592959699,
+                        "p_value": 0.5192830887390167,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 4.881589408974966,
+                        "p_value": 0.027144612870785997,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 2.210406228144589,
+                        "p_value": 0.13708256960408563,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 4.1387241167887865,
+                        "p_value": 0.041912748753034135,
+                        "significant": "True"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 1.6311437431876814,
+                        "p_value": 0.20154492576914573,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 2.026270316306256,
+                        "p_value": 0.1545995991486613,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 1.4893199131185928,
+                        "p_value": 0.2223220091422903,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 1.0133344526427006,
+                        "p_value": 0.31410533049565464,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 10.040361475541525,
+                        "p_value": 0.0015314714827255821,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 2.4147557627408247,
+                        "p_value": 0.12019671520432199,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 5.480597143444204,
+                        "p_value": 0.019228689153952344,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 2.933829222096056,
+                        "p_value": 0.08674153012919589,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 12.694507368455902,
+                        "p_value": 0.00036673120396285466,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 15.13683375101109,
+                        "p_value": 9.999319275660274e-05,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 2.0024331989174513,
+                        "p_value": 0.15704692750321478,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.9509418811440727,
+                        "p_value": 0.32947966541323065,
+                        "significant": "False"
+                    }
+                }
+            },
+            "8": {
+                "Hammer": {
+                    "high_trend": {
+                        "chi2": 2.9239266249324407,
+                        "p_value": 0.08727524792581741,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 5.578919178991773,
+                        "p_value": 0.018177937770008784,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 3.031441254916045,
+                        "p_value": 0.08166544516080919,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 9.890830618302711,
+                        "p_value": 0.001661043752028151,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 0.23036287430448726,
+                        "p_value": 0.631254893129698,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 0.01137241988683174,
+                        "p_value": 0.9150733554985732,
+                        "significant": "False"
+                    }
+                },
+                "I. Hammer": {
+                    "high_trend": {
+                        "chi2": 0.6900154728929317,
+                        "p_value": 0.4061591178592321,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 0.0,
+                        "p_value": 1.0,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 0.23526626483442536,
+                        "p_value": 0.6276461705715017,
+                        "significant": "False"
+                    },
+                    "low_all": {
+                        "chi2": 1.5331526519320553,
+                        "p_value": 0.21563990389263724,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 3.216870196081866,
+                        "p_value": 0.07288285929703435,
+                        "significant": "False"
+                    },
+                    "close_all": {
+                        "chi2": 1.3619633893263037,
+                        "p_value": 0.24319749874701888,
+                        "significant": "False"
+                    }
+                },
+                "Hanging Man": {
+                    "high_trend": {
+                        "chi2": 3.0383744713765375,
+                        "p_value": 0.08131730780021074,
+                        "significant": "False"
+                    },
+                    "high_all": {
+                        "chi2": 1.538653027458027,
+                        "p_value": 0.2148184107164368,
+                        "significant": "False"
+                    },
+                    "low_trend": {
+                        "chi2": 3.894336682866136,
+                        "p_value": 0.048449167609893526,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 0.08156295442375969,
+                        "p_value": 0.7751904115689624,
+                        "significant": "False"
+                    },
+                    "close_trend": {
+                        "chi2": 7.594180069595576,
+                        "p_value": 0.005855702054565601,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 1.6863783401522596,
+                        "p_value": 0.1940790724705532,
+                        "significant": "False"
+                    }
+                },
+                "Shooting Star": {
+                    "high_trend": {
+                        "chi2": 21.63242913179381,
+                        "p_value": 3.3022117114514035e-06,
+                        "significant": "True"
+                    },
+                    "high_all": {
+                        "chi2": 4.543328040688138,
+                        "p_value": 0.03304728152564399,
+                        "significant": "True"
+                    },
+                    "low_trend": {
+                        "chi2": 20.480401425860315,
+                        "p_value": 6.024497494695959e-06,
+                        "significant": "True"
+                    },
+                    "low_all": {
+                        "chi2": 9.24484136233151,
+                        "p_value": 0.0023615975391872448,
+                        "significant": "True"
+                    },
+                    "close_trend": {
+                        "chi2": 7.970912142513901,
+                        "p_value": 0.00475349797873571,
+                        "significant": "True"
+                    },
+                    "close_all": {
+                        "chi2": 0.005151870889849135,
+                        "p_value": 0.9427797474829827,
+                        "significant": "False"
+                    }
+                }
+            }
+        }
+    }
+}
