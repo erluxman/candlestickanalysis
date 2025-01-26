@@ -303,11 +303,9 @@ def add_table_descriptive(doc, table_data):
     def format_header_cell(cell, text):
         cell.text = text
         paragraph = cell.paragraphs[0]
-        paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
         run = paragraph.runs[0]
         run.font.size = Pt(9)
         run.font.bold = True
-        cell.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
 
     # Main headers
     headers = [
@@ -345,13 +343,11 @@ def add_table_descriptive(doc, table_data):
     for col, text in enumerate(sub_headers):
         sub_hdr[col].text = text
         paragraph = sub_hdr[col].paragraphs[0]
-        paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
         paragraph.runs[0].font.size = Pt(9)
 
     # Merge vertical headers
     for col in [0, 1]:
         main_cell = table.cell(0, col).merge(table.cell(1, col))
-        main_cell.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
 
     # ========== DATA POPULATION ==========
     periods = sorted(
@@ -383,12 +379,6 @@ def add_table_descriptive(doc, table_data):
             cell = row_cells[col_idx]
             cell.text = value
             cell.width = column_widths[col_idx]
-
-            # Alignment
-            alignment = (
-                WD_ALIGN_PARAGRAPH.LEFT if col_idx < 2 else WD_ALIGN_PARAGRAPH.CENTER
-            )
-            cell.paragraphs[0].alignment = alignment
 
             # Format percentages
             if col_idx >= 4:
