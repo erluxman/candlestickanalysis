@@ -351,7 +351,7 @@ def calculate_candleSticks(input_directory, output_directory, market):
             # append the data to the file
 
 
-def append_candle_data(candle_path, candle_data):
+def append_candle_data(candle_path, patterns):
     candle_data = []
 
     if os.path.exists(candle_path):
@@ -359,16 +359,16 @@ def append_candle_data(candle_path, candle_data):
             candle_data = json.load(f)
     else:
         candle_data = []
-        new_patterns = pd.DataFrame(patterns).to_dict(orient="records")
+    new_patterns = pd.DataFrame(patterns).to_dict(orient="records")
 
-        candle_data += new_patterns
+    candle_data += new_patterns
 
-        with open(candle_path, "w") as f:
-            # Convert Timestamp objects to strings
-            for pattern in candle_data:
-                if "date" in pattern and isinstance(pattern["date"], pd.Timestamp):
-                    pattern["date"] = pattern["date"].strftime("%Y-%m-%d")
-            json.dump(candle_data, f, indent=4)
+    with open(candle_path, "w") as f:
+        # Convert Timestamp objects to strings
+        for pattern in candle_data:
+            if "date" in pattern and isinstance(pattern["date"], pd.Timestamp):
+                pattern["date"] = pattern["date"].strftime("%Y-%m-%d")
+        json.dump(candle_data, f, indent=4)
 
 
 def calculate_candleSticks_us():
