@@ -1,9 +1,9 @@
 import src.steps.docx_output.docx_writer as writer
 from src.constants.constants import *
 from docx import Document
-from docx.shared import Pt
-from docx.enum.table import WD_ALIGN_VERTICAL
 import json
+from docx.shared import Pt, RGBColor, Inches
+from docx.enum.table import WD_ALIGN_VERTICAL
 
 
 def write_dummy_thesis():
@@ -267,11 +267,6 @@ def open_thesis():
 
 def clear_thesis():
     writer.clear_thesis()
-
-
-from docx.shared import Pt, RGBColor, Inches
-from docx.enum.text import WD_ALIGN_PARAGRAPH
-from docx.enum.table import WD_ALIGN_VERTICAL
 
 
 def add_table_descriptive(doc, table_data):
