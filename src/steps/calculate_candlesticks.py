@@ -5,7 +5,7 @@ import talib
 from src.constants.constants import *
 from src.steps.calculate_manual_candles import manual_candle
 
-#candle count 1089+1910+2225+1466  = 6690
+# candle count 1089+1910+2225+1466  = 6690
 
 # 760+760+759+752+760+772+772+769+770+765+763+762+760+757+758+756+762+768+761+760+768+770<- days before 24th
 
@@ -71,6 +71,32 @@ def is_in_desired_trend(candle_type, trend_value):
     else:
         return False
 
+def predicts_up_trend(candle_type):
+    if candle_type == "CDLHAMMER":
+        return True
+    elif candle_type == "CDLINVERTEDHAMMER":
+        return True
+    elif candle_type == "CDLHANGINGMAN":
+        return False
+    elif candle_type == "CDLSHOOTINGSTAR":
+        return False
+    elif candle_type == "random":
+        return True
+    else:
+        return False
+
+def is_candle_approved(new_value, old_value, trend):
+    if old_value is None or new_value is None:
+        return False
+    market_increased = new_value > old_value
+    market_decreased = new_value < old_value
+    needs_up_trend = predicts_up_trend(trend)
+    if needs_up_trend and market_increased:
+        return True
+    if (not needs_up_trend) and market_decreased:
+        return True
+    return False
+
 
 def calculate_random_candle(stock, input_directory, market, count):
     file = os.path.join(input_directory, f"{stock}.json")
@@ -125,69 +151,6 @@ def calculate_meta_data(patterns, df, stock_sector, stock, pattern, dates):
     pattern_data = []
 
     for index, row in patterns.iterrows():
-        # Calculate next day and next week close amounts and volumes
-        # if index + 1 < len(df):
-        #     next_day_close = df.iloc[index + 1]["Close"]
-        #     next_day_volume = df.iloc[index + 1]["Volume"]
-        # else:
-        #     next_day_close = None
-        #     next_day_volume = None
-
-        # if (index + 5) < len(df):
-        #     next_week_close = df.iloc[index + 5]["Close"]
-        #     next_week_volume = df.iloc[index + 5]["Volume"].sum()
-        #     next_week_volume_cumulative = df.iloc[index + 1 : index + 6]["Volume"].sum()
-        # else:
-        #     next_week_close = None
-        #     next_week_volume = None
-        #     next_week_volume_cumulative = None
-        # if (index - 5) > 0:
-        #     last_week_close = df.iloc[index - 5]["Close"]
-        #     last_week_volume = df.iloc[index - 5]["Volume"].sum()
-        #     last_week_volume_cumulative = df.iloc[index - 6 : index - 1]["Volume"].sum()
-        # else:
-        #     last_week_close = None
-        #     last_week_volume = None
-        #     last_week_volume_cumulative = None
-        # # use correct conditional to  avoid None values error
-
-        # if isinstance(last_week_close, (int, float)) != True:
-        #     continue
-        # if isinstance(next_week_close, (int, float)) != True:
-        #     continue
-        # # Calculate percentage changes
-
-        # next_day_change_percentage = (
-        #     (next_day_close - row["Close"]) / row["Close"] * 100
-        #     if next_day_close
-        #     else None
-        # )
-        # next_day_volume_change_percentage = (
-        #     (next_day_volume - row["Volume"]) / row["Volume"] * 100
-        #     if (next_day_volume and row["Volume"] != 0)
-        #     else 0
-        # )
-        # next_week_change_percentage = (
-        #     (next_week_close - row["Close"]) / row["Close"] * 100
-        #     if next_week_close
-        #     else None
-        # )
-        # change_from_last_week_percentage = (
-        #     (row["Close"] - last_week_close) / last_week_close * 100
-        #     if last_week_close
-        #     else None
-        # )
-        # weekly_volume_change_percentage = (
-        #     (next_week_volume_cumulative - last_week_volume_cumulative)
-        #     / last_week_volume_cumulative
-        #     * 100
-        #     if (
-        #         last_week_volume_cumulative is not None
-        #         and next_week_volume_cumulative is not None
-        #         and last_week_volume_cumulative != 0
-        #     )
-        #     else None
-        # )
         ma_past = {criteria: {} for criteria in all_criteria}
         ma_future = {criteria: {} for criteria in all_criteria}
         trend_past = {}
@@ -201,9 +164,32 @@ def calculate_meta_data(patterns, df, stock_sector, stock, pattern, dates):
                     ma_past[criteria][interval] = None
 
                 if index + interval < len(df):
-                    ma_future[criteria][interval] = get_moving_avg_future(
-                        df, criteria, interval, index
-                    )
+                    ma = get_moving_avg_future(df, criteria, interval, index)
+                    percentage_change_from_past_ma = (
+                        (ma - ma_past[criteria][interval]) / ma_past[criteria][interval]
+                        if ma_past[criteria][interval]
+                        else 0
+                    )*100
+
+                    percentage_change_from_today = (
+                        (ma - df.iloc[index][criteria]) / df.iloc[index][criteria]
+                        if df.iloc[index][criteria]
+                        else 0
+                    )*100
+                    
+                    percentage_change_from_past_ma = round(percentage_change_from_past_ma, 2)
+                    percentage_change_from_today = round(percentage_change_from_today, 2)
+                    
+                    candle_approved_from_ma = is_candle_approved(ma, ma_past[criteria][interval], pattern)
+                    candle_approved_from_point = is_candle_approved(df.iloc[index][criteria], ma_past[criteria][interval], pattern)
+
+                    ma_future[criteria][interval] = {
+                        "ma_value": ma,
+                        "change_percent_from_past_ma": percentage_change_from_past_ma,
+                        "change_percent_from_today": percentage_change_from_today,
+                        "candle_approved_from_ma": candle_approved_from_ma,
+                        "candle_approved_from_point": candle_approved_from_point
+                    }
                 else:
                     ma_future[criteria][interval] = None
 
@@ -236,61 +222,11 @@ def calculate_meta_data(patterns, df, stock_sector, stock, pattern, dates):
                         pattern, trend_past[interval]["value"]
                     )
 
-                    # moving_avgs_past = []
-                    # moving_avgs_past.append(get_moving_avg(df, "Close", interval, (index-1-interval)))
-
-                    # for i in range((index-1-interval), (index - 1)):
-                    #     temp_ma = get_moving_avg(df, "Close", interval, i)
-                    #     moving_avgs_past.append(temp_ma)
-
-                    # increasing_trend_count = 0
-                    # decreasing_trend_count = 0
-                    # trend_past[interval] = {}
-                    # trend_past[interval]["past_mas"] = moving_avgs_past
-                    # for i in range(1, len(moving_avgs_past)):
-                    #     if moving_avgs_past[i] > moving_avgs_past[i - 1]:
-                    #         increasing_trend_count += 1
-                    #     elif moving_avgs_past[i] < moving_avgs_past[i - 1]:
-                    #         decreasing_trend_count += 1
-
-                    # if increasing_trend_count / (len(moving_avgs_past)-1) >= 0.7:
-                    #     trend_past[interval]["value"] = 1
-                    # elif decreasing_trend_count / (len(moving_avgs_past) - 1) >= 0.7:
-                    #     trend_past[interval]["value"] = -1
-                    # else:
-                    #     trend_past[interval]["value"] = 0
-
         meta_data = {
             "ma_past": ma_past,
             "ma_future": ma_future,
             "trend_past": trend_past,
         }
-
-        # now what we need to do is Moving average of each criteria in row . moving average of Close is row["Close"] for last interval days
-        # and moving average of High is row["High"] for last interval days and so on
-        # and we will do interval days moving average of each criteria for each row before and after the row.
-        # for example if interval is 2 days and criteria is Close then we will calculate moving average of Close for 2 days before and 2 days after the row
-        # and we will do this for each criteria and for each interval
-        # sample_meta_data = {
-        #     "ma_past": {
-        #         {
-        #             "High": {"2": 23, "4": 24, "8": 25},
-        #             "Low": {"2": 26, "4": 27, "8": 28},
-        #             "Close": {"2": 29, "4": 30, "8": 31},
-        #             "Trend": {"2": -1, "4": 1, "8": -1},
-        #         }
-        #     },
-        #     "ma_future": {
-        #         {
-        #             "High": {"2": 32, "4": 33, "8": 34},
-        #             "Low": {"2": 35, "4": 36, "8": 37},
-        #             "Close": {"2": 38, "4": 39, "8": 40},
-        #             "Trend": {"2": 1, "4": 1, "8": 1},
-        #         }
-        #     },
-        # }
-
-        # and add this as meta_data into one dictionary and append this dictionary to pattern_data
 
         pattern_data.append(
             {
@@ -298,24 +234,10 @@ def calculate_meta_data(patterns, df, stock_sector, stock, pattern, dates):
                 "pattern": pattern_with_names[pattern],
                 "stock": stock,
                 "meta_data": meta_data,
-                "close_amount": row["Close"],
+                "Close": row["Close"],
+                "High": row["High"],
+                "Low": row["Low"],
                 "sector": stock_sector,
-                # "next_day_close_amount": next_day_close,
-                # "next_day_change_percentage": next_day_change_percentage,
-                # "next_day_volume": next_day_volume,
-                # "next_day_volume_change_percentage": next_day_volume_change_percentage,
-                # "next_week_close_amount": next_week_close,
-                # "next_week_change_percentage": next_week_change_percentage,
-                # "next_week_volume": next_week_volume,
-                # "next_week_volume_cumulative": next_week_volume_cumulative,
-                # "last_week_close_amount": last_week_close,
-                # "change_from_last_week_percentage": change_from_last_week_percentage,
-                # "last_week_volume": last_week_volume,
-                # "last_week_volume_cumulative": last_week_volume_cumulative,
-                # "weekly_volume_change_percentage": weekly_volume_change_percentage,
-                # "market": market,
-                # "volume": row["Volume"],
-                # "Percentage Change": row["Percent Change"],
             }
         )
 
@@ -328,7 +250,7 @@ def calculate_candleSticks(input_directory, output_directory, market):
     # fetch all the candles to calculate
     for key, value in pattern_with_names.items():
         print(f"{key} -> {value}")
-        if(key=="random"):
+        if key == "random":
             continue
         # read all files from the directory
         candle_path = os.path.join(output_directory, f"{value}.json")

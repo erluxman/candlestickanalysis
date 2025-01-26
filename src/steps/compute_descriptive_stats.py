@@ -129,6 +129,6 @@ def get_analytics_commentry(data):
 
 
 def compute_descriptive_stats():
-    # merge_jsons()
-    # categorize_stats()
+    merge_jsons()
+    categorize_stats()
     compute_category_analytics()
