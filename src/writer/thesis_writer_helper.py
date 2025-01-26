@@ -170,6 +170,12 @@ def clear_thesis():
     writer.clear_thesis()
 
 
+from docx import Document
+from docx.shared import Pt, RGBColor
+from docx.enum.table import WD_ALIGN_VERTICAL
+from docx.oxml.shared import qn
+
+
 def add_table_descriptive(doc, table_data):
     # Create table with appropriate dimensions
     table = doc.add_table(rows=21, cols=10)
@@ -236,12 +242,13 @@ def add_table_descriptive(doc, table_data):
 
     # ========== DATA SECTION ==========
     table_cells = []
-    periods = [f"{d}" for d in durations]
+    periods = [
+        f"{d}" for d in durations
+    ]  # Make sure 'durations' is defined in your code
 
     for period in periods:
         candles = table_data.get(period, {})
         for i, (candle, data) in enumerate(candles.items()):
-            # Format values with proper string conversion
             row = [
                 f"{period}D" if i == 0 else "",
                 candle.replace("Inverted", "I."),
@@ -256,20 +263,32 @@ def add_table_descriptive(doc, table_data):
             ]
             table_cells.append(row)
 
-    # Populate table data
+    # Populate table data with conditional formatting
     for row_idx, row_data in enumerate(table_cells):
-        target_row = 3 + row_idx  # Start after headers
+        target_row = 3 + row_idx
         if target_row >= len(table.rows):
             table.add_row()
 
         for col_idx, value in enumerate(row_data):
             cell = table.cell(target_row, col_idx)
             cell.text = value
-            # Formatting
+
+            # Configure paragraph alignment
             for paragraph in cell.paragraphs:
-                paragraph.alignment = 1 if col_idx > 1 else 0  # Center-align numbers
+                paragraph.alignment = 1 if col_idx > 1 else 0
+
+                # Configure font properties
                 for run in paragraph.runs:
                     run.font.size = Pt(10)
+
+                    # Apply green color to percentage columns where value > 60
+                    if col_idx in [4, 5, 6, 7, 8, 9]:  # Percentage columns
+                        try:
+                            numeric_value = float(value.strip().rstrip("%"))
+                            if numeric_value > 60:
+                                run.font.color.rgb = RGBColor(0x00, 0x80, 0x00)  # Green
+                        except (ValueError, AttributeError):
+                            pass  # Handle non-numeric values gracefully
 
     # Merge period cells vertically
     current_row = 3
