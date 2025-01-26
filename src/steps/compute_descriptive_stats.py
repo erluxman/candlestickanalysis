@@ -86,8 +86,30 @@ def compute_category_analytics():
                     for duration in durations:
                         analytics[sector][trend][duration] = {}
                         for candle_id, candle_name in pattern_with_names.items():
-                            occurance_trend = 100
-                            all_occurance = 190
+                            data_of_candle = pattern_data[candle_name]
+                            data_of_candle_with_corrent_trend = data_of_candle
+
+                            data_following_trend = []
+                            for item in data_of_candle:
+                                meta_data = item.get("meta_data")
+                                past_trend = meta_data.get("trend_past")
+                                if (
+                                    past_trend is None
+                                    or len(past_trend.keys()) == 0
+                                    or past_trend.get(str(duration)) is None
+                                ):
+                                    data_following_trend.append(item)
+                                    continue
+                                trend_of_duration = past_trend[str(duration)]
+                                trend_is_correct = (
+                                    trend_of_duration["trend_present"] == True
+                                )
+                                print("trend_is_correct", trend_is_correct)
+                                if trend_is_correct:
+                                    data_following_trend.append(item)
+
+                            occurance_trend = len(data_following_trend)
+                            all_occurance = len(data_of_candle)
                             hit_percentage_high_trend = 60
                             hit_percentage_high_all = 40
                             hit_percentage_low_trend = 70
@@ -111,9 +133,12 @@ def compute_category_analytics():
 
         save_analytics(analytics)
 
+
 def get_analytics_commentry(data):
     return "This is a commentry on the following data " + str(data)
+
+
 def compute_descriptive_stats():
-    merge_jsons()
-    categorize_stats()
+    # merge_jsons()
+    # categorize_stats()
     compute_category_analytics()
