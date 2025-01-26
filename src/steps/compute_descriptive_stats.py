@@ -43,37 +43,36 @@ def save_analytics(result):
         json.dump(result, outfile)
 
 
-def categorize_candles():
+def categorize_stats():
     file_path = os.path.join(np_data_path_candles, "all_candles.json")
     with open(file_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-        result = {
-            "bullish": {},
-            "bearish": {},
-        }
+        result = {}
 
         for entry in data:
             date = entry.get("date")
             is_bearish = bear_start <= date <= bear_end
-            main_key = "bearish" if is_bearish else "bullish"
+            trend_key = "bearish" if is_bearish else "bullish"
             sector = entry.get("sector")
-            if sector not in result[main_key]:
-                result[main_key][sector] = {}
+            if sector not in result:
+                result[sector] = {}
+            if trend_key not in result[sector]:
+                result[sector][trend_key] = {}
 
-            if "patterns" not in result[main_key][sector]:
-                result[main_key][sector]["patterns"] = {}
+            if "patterns" not in result[sector][trend_key]:
+                result[sector][trend_key]["patterns"] = {}
 
             pattern = entry.get("pattern")
-            if pattern not in result[main_key][sector]["patterns"]:
-                result[main_key][sector]["patterns"][pattern] = []
+            if pattern not in result[sector][trend_key]["patterns"]:
+                result[sector][trend_key]["patterns"][pattern] = []
 
-            result[main_key][sector]["patterns"][pattern].append(entry)
+            result[sector][trend_key]["patterns"][pattern].append(entry)
 
         save_result(result)
 
 
-def compute_category_stats():
+def compute_category_analytics():
     file_path = os.path.join(np_data_path_descriptive_stats, "descriptive_stats.json")
     with open(file_path, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -113,5 +112,5 @@ def compute_category_stats():
 
 def compute_descriptive_stats():
     merge_jsons()
-    categorize_candles()
-    compute_category_stats()
+    categorize_stats()
+    # compute_category_analytics()
