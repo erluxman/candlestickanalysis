@@ -591,9 +591,9 @@ nepse_symbols = (
 )
 pattern_with_names = {
     "CDLHAMMER": "Hammer",
-    "CDLINVERTEDHAMMER": "Inverted Hammer",
+    "CDLINVERTEDHAMMER": "I. Hammer",
     "random": "Random",
-    "random'": "Random'",
+    "random*": "Random*",
     # "CDLENGULFING": "Engulfing Pattern",
     # "CDLPIERCING": "Piercing Pattern",
     # "CDLMORNINGSTAR": "Morning Star",

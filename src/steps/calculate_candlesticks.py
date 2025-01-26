@@ -68,7 +68,7 @@ def is_in_desired_trend(candle_type, trend_value):
         return trend_value == 1
     elif candle_type == "random":
         return trend_value == 1
-    elif candle_type == "random'":
+    elif candle_type == "random*":
         return trend_value == -1
     else:
         return False
@@ -85,7 +85,7 @@ def predicts_up_trend(candle_type):
         return False
     elif candle_type == "random":
         return True
-    elif candle_type == "random'":
+    elif candle_type == "random*":
         return False
     else:
         return False
@@ -205,10 +205,10 @@ def calculate_meta_data(patterns, df, stock_sector, stock, pattern, dates):
                     
                     if pattern == "random":
                         candle_approved_from_ma_random_boolish = is_candle_approved(
-                            ma, ma_past_value, "random'"
+                            ma, ma_past_value, "random*"
                         )
                         candle_approved_from_point_random_boolish = is_candle_approved(
-                            ma, point_value, "random'"
+                            ma, point_value, "random*"
                         )
                         meta["candle_approved_from_ma_random_bearish"] = candle_approved_from_ma_random_boolish
                         meta["candle_approved_from_point_random_bearish"] = candle_approved_from_point_random_boolish
@@ -246,7 +246,7 @@ def calculate_meta_data(patterns, df, stock_sector, stock, pattern, dates):
                     )
                     if pattern == "random":
                         trend_past[interval]["trend_present_random_bearish"] = is_in_desired_trend(
-                            "random'", trend_past[interval]["value"]
+                            "random*", trend_past[interval]["value"]
                         )
 
         meta_data = {
@@ -277,7 +277,7 @@ def calculate_candleSticks(input_directory, output_directory, market):
     # fetch all the candles to calculate
     for key, value in pattern_with_names.items():
         print(f"{key} -> {value}")
-        if key == "random" or key == "random'":
+        if key == "random" or key == "random*":
             continue
         # read all files from the directory
         candle_path = os.path.join(output_directory, f"{value}.json")

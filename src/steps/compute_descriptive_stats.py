@@ -7,7 +7,7 @@ def merge_jsons():
     # merge all the candle data into one file  and call it all_candles.json
     all_candles = []
     for candle_id, candle_name in pattern_with_names.items():
-        if(candle_name == "Random'"):
+        if(candle_name == "Random*"):
             file_path = os.path.join(np_data_path_candles, "Random.json")
         else:
             file_path = os.path.join(np_data_path_candles, f"{candle_name}.json")
@@ -89,22 +89,22 @@ def compute_category_analytics():
                     for duration in durations:
                         analytics[sector][trend][duration] = {}
                         for candle_id, candle_name in pattern_with_names.items():
-                            all_data = pattern_data[candle_name.replace("'", "")]
+                            all_data = pattern_data[candle_name.replace("*", "")]
                             trend_present_key = (
                                 "trend_present_random_bearish"
-                                if "'" in candle_name
+                                if "*" in candle_name
                                 else "trend_present"
                             )
 
                             candle_approved_from_point_key = (
                                 "candle_approved_from_point_random_bearish"
-                                if "'" in candle_name
+                                if "*" in candle_name
                                 else "candle_approved_from_point"
                             )
 
                             candle_approved_from_ma_key = (
                                 "candle_approved_from_ma_random_bearish"
-                                if "'" in candle_name
+                                if "*" in candle_name
                                 else "candle_approved_from_ma"
                             )
 
