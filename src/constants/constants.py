@@ -575,11 +575,11 @@ floating_sensitive_stocks = {
 }
 
 sectors_under_study = {
-    "Banks": nepali_banks,
-    "Hydro": nepali_hydro,
-    "Microfinance": nepali_microfinance,
-    "Expensive": nepali_expensive,
-    "Low Floating": floating_sensitive_stocks,
+    "Banking": nepali_banks,
+    "Hydropower": nepali_hydro,
+    "Micro Finance": nepali_microfinance,
+    "Expensive Stocks": nepali_expensive,
+    "Low Floating Stocks": floating_sensitive_stocks,
 }
 
 nepse_symbols = (
