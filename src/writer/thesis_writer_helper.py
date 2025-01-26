@@ -84,7 +84,10 @@ def write_all_descriptive_analysis(document_order):
         for sector, tickers in sectors_under_study.items():
             for long_trend in long_trends:
                 table_data = descriptive_data[sector][long_trend.lower()]
-                writer.add_paragraph(thesis_body, analyze_candle_patterns(table_data, sector, long_trend, table_no))
+                writer.add_paragraph(
+                    thesis_body,
+                    analyze_candle_patterns(table_data, sector, long_trend, table_no),
+                )
                 add_table_descriptive(thesis_body, table_data)
 
                 writer.add_paragraph(
@@ -95,7 +98,9 @@ def write_all_descriptive_analysis(document_order):
     writer.save_document(thesis_body, writer.thesis_path)
 
 
-def analyze_candle_patterns(data, sector="technology", market_trend="bullish", table_no=1):
+def analyze_candle_patterns(
+    data, sector="technology", market_trend="bullish", table_no=1
+):
     analysis = f"""The table no {table_no} examines candlestick pattern predictive capabilities in the {sector.capitalize()} sector 
 during a long-term {market_trend} market. \n\n"""
 
@@ -264,142 +269,163 @@ def clear_thesis():
     writer.clear_thesis()
 
 
-from docx import Document
-from docx.shared import Pt, RGBColor
+from docx.shared import Pt, RGBColor, Inches
+from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.enum.table import WD_ALIGN_VERTICAL
 
 
 def add_table_descriptive(doc, table_data):
-    # Create table with appropriate dimensions
-    table = doc.add_table(rows=20, cols=10)
+    # Create table structure
+    table = doc.add_table(rows=1, cols=10)
     table.style = "Table Grid"
     table.autofit = False
+    table.allow_autofit = False
 
     # ===== COLUMN WIDTH CONFIGURATION =====
     column_widths = [
-        360000,  # Period column
-        940000,  # Candles column
-        420000,
-        420000,
-        360000,
-        360000,
-        360000,
-        360000,
-        360000,
-        360000,
+        Inches(0.1).emu,  # Period column
+        Inches(1.1).emu,  # Widened Candles column (2 inches)
+        Inches(0.5).emu,
+        Inches(0.5).emu,
+        Inches(0.5).emu,
+        Inches(0.5).emu,
+        Inches(0.5).emu,
+        Inches(0.5).emu,
+        Inches(0.5).emu,
+        Inches(0.5).emu,
     ]
-    for idx, width in enumerate(column_widths):
-        table.columns[idx].width = width
 
-    # ========== HEADER SECTION ==========
-    def set_header_cell(cell, text):
+    for idx, width in enumerate(column_widths):
+        col = table.columns[idx]
+        col.width = width
+
+    # ========== HEADER CONSTRUCTION ==========
+    def format_header_cell(cell, text):
         cell.text = text
-        for paragraph in cell.paragraphs:
-            paragraph.alignment = 1  # Center alignment
-            for run in paragraph.runs:
-                run.font.size = Pt(9)  # Reduced font size by 1
-                run.font.bold = True
+        paragraph = cell.paragraphs[0]
+        paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        run = paragraph.runs[0]
+        run.font.size = Pt(9)
+        run.font.bold = True
+        cell.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
 
     # Main headers
     headers = [
-        ("Time", 0, 0, 0),
-        ("Candles", 0, 1, 1),
-        ("Occurance", 0, 2, 3),
-        ("Hit(%) HIGH", 0, 4, 5),
-        ("Hit(%) LOW", 0, 6, 7),
-        ("Hit(%) Close", 0, 8, 9),
+        (0, 0, "Time"),
+        (1, 1, "Candles"),
+        (2, 3, "Occurance"),
+        (4, 5, "Hit(%) HIGH"),
+        (6, 7, "Hit(%) LOW"),
+        (8, 9, "Hit(%) Close"),
     ]
 
-    # Create merged headers
-    for header in headers:
-        if len(header) == 3:
-            set_header_cell(table.cell(0, header[1]), header[0])
+    # Create header row
+    hdr_row = table.rows[0]
+    for start_col, end_col, text in headers:
+        if start_col == end_col:
+            format_header_cell(hdr_row.cells[start_col], text)
         else:
-            cell = table.cell(0, header[2]).merge(table.cell(0, header[3]))
-            set_header_cell(cell, header[0])
+            merged = hdr_row.cells[start_col].merge(hdr_row.cells[end_col])
+            format_header_cell(merged, text)
 
-    # Sub-headers
-    sub_headers = [("Trend", "All", "Trend", "All", "Trend", "All", "Trend", "All")]
-    for col, text in enumerate(sub_headers[0], start=2):
-        cell = table.cell(1, col)
-        cell.text = text
-        for paragraph in cell.paragraphs:
-            paragraph.alignment = 1
-            for run in paragraph.runs:
-                run.font.size = Pt(9)  # Reduced font size by 1
+    # Sub-header row
+    sub_hdr = table.add_row().cells
+    sub_headers = [
+        "",
+        "",
+        "Trend",
+        "All",
+        "Trend",
+        "All",
+        "Trend",
+        "All",
+        "Trend",
+        "All",
+    ]
+    for col, text in enumerate(sub_headers):
+        sub_hdr[col].text = text
+        paragraph = sub_hdr[col].paragraphs[0]
+        paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        paragraph.runs[0].font.size = Pt(9)
 
+    # Merge vertical headers
     for col in [0, 1]:
-        main_cell = table.cell(0, col).merge(
-            table.cell(1, col)
-        )  
+        main_cell = table.cell(0, col).merge(table.cell(1, col))
         main_cell.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
 
-    table_cells = []
-    periods = [f"{d}" for d in durations]  # Make sure 'durations' is defined
+    # ========== DATA POPULATION ==========
+    periods = sorted(
+        (k for k in table_data.keys() if k.isdigit()), key=lambda x: int(x)
+    )
 
+    table_cells = []
     for period in periods:
         candles = table_data.get(period, {})
-        for i, (candle, data) in enumerate(candles.items()):
+        for candle, data in candles.items():
             row = [
-                f"{period}D" if i == 0 else "",
+                f"{period}D",
                 candle.replace("Inverted", "I."),
-                str(data["occurance_trend"]),
-                str(data["all_occurance"]),
-                f"{data['hit_percentage_high_trend']:.1f}",
-                f"{data['hit_percentage_high_all']:.1f}",
-                f"{data['hit_percentage_low_trend']:.1f}",
-                f"{data['hit_percentage_low_all']:.1f}",
-                f"{data['hit_percentage_close_trend']:.1f}",
-                f"{data['hit_percentage_close_all']:.1f}",
+                str(data.get("occurance_trend", "")),
+                str(data.get("all_occurance", "")),
+                f"{data.get('hit_percentage_high_trend', 0):.1f}",
+                f"{data.get('hit_percentage_high_all', 0):.1f}",
+                f"{data.get('hit_percentage_low_trend', 0):.1f}",
+                f"{data.get('hit_percentage_low_all', 0):.1f}",
+                f"{data.get('hit_percentage_close_trend', 0):.1f}",
+                f"{data.get('hit_percentage_close_all', 0):.1f}",
             ]
             table_cells.append(row)
 
-    for row_idx, row_data in enumerate(table_cells):
-        target_row = 2 + row_idx  
-        if target_row >= len(table.rows):
-            table.add_row()
-
+    # Add data rows with formatting
+    for row_data in table_cells:
+        row_cells = table.add_row().cells
         for col_idx, value in enumerate(row_data):
-            cell = table.cell(target_row, col_idx)
+            cell = row_cells[col_idx]
             cell.text = value
+            cell.width = column_widths[col_idx]
 
-            # Configure paragraph alignment
-            for paragraph in cell.paragraphs:
-                paragraph.alignment = 1 if col_idx > 1 else 0
+            # Alignment
+            alignment = (
+                WD_ALIGN_PARAGRAPH.LEFT if col_idx < 2 else WD_ALIGN_PARAGRAPH.CENTER
+            )
+            cell.paragraphs[0].alignment = alignment
 
-                # Configure font properties
-                for run in paragraph.runs:
-                    run.font.size = Pt(9)  # Reduced font size by 1
+            # Format percentages
+            if col_idx >= 4:
+                try:
+                    pct_value = float(value.strip("%"))
+                    run = cell.paragraphs[0].runs[0]
+                    run.font.color.rgb = (
+                        RGBColor(0x00, 0x88, 0x00)
+                        if pct_value > 60
+                        else (
+                            RGBColor(0xCC, 0x00, 0x00)
+                            if pct_value < 40
+                            else RGBColor(0x00, 0x00, 0x00)
+                        )
+                    )
+                    run.font.bold = pct_value > 60
+                except ValueError:
+                    pass
 
-                    # Apply formatting to percentage columns
-                    if col_idx in [4, 5, 6, 7, 8, 9]:  # Percentage columns
-                        try:
-                            numeric_value = float(value.strip().rstrip("%"))
-                            if numeric_value > 60:
-                                run.font.color.rgb = RGBColor(
-                                    0x00, 0xAA, 0x22
-                                )  # Dark green
-                                run.font.bold = True
-                                run.font.size = Pt(run.font.size.pt - 1)
-                            elif numeric_value < 40:
-                                run.font.color.rgb = RGBColor(0xFF, 0x00, 0x00)  # Red
-                                run.font.bold = False
-                            else:  # Reset formatting
-                                run.font.color.rgb = RGBColor(0x00, 0x00, 0x00)  # Black
-                                run.font.bold = False
-                        except (ValueError, AttributeError):
-                            pass
-
-    # Merge period cells vertically (FIXED: Start at row 2)
-    current_row = 2  # Changed from 3
+    # ========== CELL MERGING ==========
+    current_row = 2  # Start after headers
     for period in periods:
-        period_rows = sum(1 for row in table_cells if row[0].startswith(period))
+        # Count rows for this period
+        period_rows = sum(1 for row in table_cells if row[0] == f"{period}D")
+
         if period_rows > 1:
             start_cell = table.cell(current_row, 0)
             end_cell = table.cell(current_row + period_rows - 1, 0)
-            start_cell.merge(end_cell)
-            start_cell.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
+            merged = start_cell.merge(end_cell)
+            merged.text = f"{period}D"
+            merged.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
+
         current_row += period_rows
+
+    # Remove empty rows
+    while len(table.rows) > current_row:
+        table._tbl.remove(table.rows[-1]._tr)
 
     return doc
 
