@@ -242,9 +242,7 @@ def add_table_descriptive(doc, table_data):
 
     # ========== DATA SECTION ==========
     table_cells = []
-    periods = [
-        f"{d}" for d in durations
-    ]  # Make sure 'durations' is defined in your code
+    periods = [f"{d}" for d in durations]  # Make sure 'durations' is defined
 
     for period in periods:
         candles = table_data.get(period, {})
@@ -281,14 +279,24 @@ def add_table_descriptive(doc, table_data):
                 for run in paragraph.runs:
                     run.font.size = Pt(10)
 
-                    # Apply green color to percentage columns where value > 60
+                    # Apply formatting to percentage columns
                     if col_idx in [4, 5, 6, 7, 8, 9]:  # Percentage columns
                         try:
                             numeric_value = float(value.strip().rstrip("%"))
                             if numeric_value > 60:
-                                run.font.color.rgb = RGBColor(0x00, 0x80, 0x00)  # Green
+                                run.font.color.rgb = RGBColor(
+                                    0x00, 0xAA, 0x22
+                                )  # Dark green
+                                run.font.bold = True
+                                run.font.size = Pt(run.font.size.pt - 1)
+                            elif numeric_value < 40:
+                                run.font.color.rgb = RGBColor(0xFF, 0x00, 0x00)  # Red
+                                run.font.bold = False
+                            else:  # Reset formatting for values between 40-60
+                                run.font.color.rgb = RGBColor(0x00, 0x00, 0x00)  # Black
+                                run.font.bold = False
                         except (ValueError, AttributeError):
-                            pass  # Handle non-numeric values gracefully
+                            pass  # Handle non-numeric values
 
     # Merge period cells vertically
     current_row = 3
