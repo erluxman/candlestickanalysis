@@ -177,7 +177,7 @@ from docx.enum.table import WD_ALIGN_VERTICAL
 
 def add_table_descriptive(doc, table_data):
     # Create table with appropriate dimensions
-    table = doc.add_table(rows=21, cols=10)
+    table = doc.add_table(rows=20, cols=10)
     table.style = "Table Grid"
     table.autofit = False
 
