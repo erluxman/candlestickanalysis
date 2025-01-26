@@ -90,6 +90,26 @@ def compute_category_analytics():
                         analytics[sector][trend][duration] = {}
                         for candle_id, candle_name in pattern_with_names.items():
                             all_data = pattern_data[candle_name.replace("'", "")]
+                            trend_present_key = (
+                                "trend_present_random_bearish"
+                                if "'" in candle_name
+                                else "trend_present"
+                            )
+
+                            candle_approved_from_point_key = (
+                                "candle_approved_from_point_random_bearish"
+                                if "'" in candle_name
+                                else "candle_approved_from_point"
+                            )
+
+                            candle_approved_from_ma_key = (
+                                "candle_approved_from_ma_random_bearish"
+                                if "'" in candle_name
+                                else "candle_approved_from_ma"
+                            )
+
+                            candle_approved_signal = candle_approved_from_point_key
+
                             data_following_trend = [
                                 item
                                 for item in all_data
@@ -97,7 +117,7 @@ def compute_category_analytics():
                                     item.get("meta_data", {})
                                     .get("trend_past", {})
                                     .get(str(duration), {})
-                                    .get("trend_present", False)
+                                    .get(trend_present_key, False)
                                 )
                             ]
 
@@ -114,7 +134,7 @@ def compute_category_analytics():
                                     continue
                                 candle_approved_from_point = (
                                     ma_future_high_duration.get(
-                                        "candle_approved_from_point", False
+                                        candle_approved_signal, False
                                     )
                                 )
                                 if candle_approved_from_point:
@@ -133,7 +153,7 @@ def compute_category_analytics():
                                     continue
                                 candle_approved_from_point = (
                                     ma_future_high_duration.get(
-                                        "candle_approved_from_point", False
+                                        candle_approved_signal, False
                                     )
                                 )
                                 if candle_approved_from_point:
@@ -152,7 +172,7 @@ def compute_category_analytics():
                                     continue
                                 candle_approved_from_point = (
                                     ma_future_high_duration.get(
-                                        "candle_approved_from_point", False
+                                        candle_approved_signal, False
                                     )
                                 )
                                 if candle_approved_from_point:
