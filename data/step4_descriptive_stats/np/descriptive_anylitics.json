@@ -23,14 +23,24 @@
           "hit_percentage_close_all": 53.45
         },
         "Random": {
-          "occurance_trend": 748,
-          "all_occurance": 755,
-          "hit_percentage_high_trend": 47.19,
-          "hit_percentage_high_all": 46.89,
-          "hit_percentage_low_trend": 47.19,
-          "hit_percentage_low_all": 47.15,
-          "hit_percentage_close_trend": 45.99,
-          "hit_percentage_close_all": 45.83
+          "occurance_trend": 684,
+          "all_occurance": 1540,
+          "hit_percentage_high_trend": 49.12,
+          "hit_percentage_high_all": 48.18,
+          "hit_percentage_low_trend": 51.75,
+          "hit_percentage_low_all": 51.17,
+          "hit_percentage_close_trend": 47.66,
+          "hit_percentage_close_all": 47.27
+        },
+        "Random'": {
+          "occurance_trend": 684,
+          "all_occurance": 1540,
+          "hit_percentage_high_trend": 49.12,
+          "hit_percentage_high_all": 48.18,
+          "hit_percentage_low_trend": 51.75,
+          "hit_percentage_low_all": 51.17,
+          "hit_percentage_close_trend": 47.66,
+          "hit_percentage_close_all": 47.27
         },
         "Hanging Man": {
           "occurance_trend": 101,
@@ -75,14 +85,24 @@
           "hit_percentage_close_all": 59.91
         },
         "Random": {
-          "occurance_trend": 740,
-          "all_occurance": 755,
-          "hit_percentage_high_trend": 47.97,
-          "hit_percentage_high_all": 47.68,
-          "hit_percentage_low_trend": 50.0,
-          "hit_percentage_low_all": 49.8,
-          "hit_percentage_close_trend": 48.38,
-          "hit_percentage_close_all": 48.08
+          "occurance_trend": 650,
+          "all_occurance": 1540,
+          "hit_percentage_high_trend": 49.54,
+          "hit_percentage_high_all": 49.61,
+          "hit_percentage_low_trend": 51.69,
+          "hit_percentage_low_all": 52.08,
+          "hit_percentage_close_trend": 49.54,
+          "hit_percentage_close_all": 51.04
+        },
+        "Random'": {
+          "occurance_trend": 650,
+          "all_occurance": 1540,
+          "hit_percentage_high_trend": 49.54,
+          "hit_percentage_high_all": 49.61,
+          "hit_percentage_low_trend": 51.69,
+          "hit_percentage_low_all": 52.08,
+          "hit_percentage_close_trend": 49.54,
+          "hit_percentage_close_all": 51.04
         },
         "Hanging Man": {
           "occurance_trend": 97,
@@ -127,14 +147,24 @@
           "hit_percentage_close_all": 58.19
         },
         "Random": {
-          "occurance_trend": 726,
-          "all_occurance": 755,
-          "hit_percentage_high_trend": 49.59,
-          "hit_percentage_high_all": 48.48,
-          "hit_percentage_low_trend": 51.79,
-          "hit_percentage_low_all": 50.86,
-          "hit_percentage_close_trend": 52.34,
-          "hit_percentage_close_all": 51.39
+          "occurance_trend": 690,
+          "all_occurance": 1540,
+          "hit_percentage_high_trend": 44.06,
+          "hit_percentage_high_all": 50.52,
+          "hit_percentage_low_trend": 46.09,
+          "hit_percentage_low_all": 52.08,
+          "hit_percentage_close_trend": 46.67,
+          "hit_percentage_close_all": 52.73
+        },
+        "Random'": {
+          "occurance_trend": 690,
+          "all_occurance": 1540,
+          "hit_percentage_high_trend": 44.06,
+          "hit_percentage_high_all": 50.52,
+          "hit_percentage_low_trend": 46.09,
+          "hit_percentage_low_all": 52.08,
+          "hit_percentage_close_trend": 46.67,
+          "hit_percentage_close_all": 52.73
         },
         "Hanging Man": {
           "occurance_trend": 83,
@@ -181,14 +211,24 @@
           "hit_percentage_close_all": 37.27
         },
         "Random": {
-          "occurance_trend": 678,
-          "all_occurance": 678,
-          "hit_percentage_high_trend": 38.79,
-          "hit_percentage_high_all": 38.79,
-          "hit_percentage_low_trend": 41.0,
-          "hit_percentage_low_all": 41.0,
-          "hit_percentage_close_trend": 36.28,
-          "hit_percentage_close_all": 36.28
+          "occurance_trend": 424,
+          "all_occurance": 1326,
+          "hit_percentage_high_trend": 35.85,
+          "hit_percentage_high_all": 38.01,
+          "hit_percentage_low_trend": 39.15,
+          "hit_percentage_low_all": 39.52,
+          "hit_percentage_close_trend": 36.32,
+          "hit_percentage_close_all": 37.41
+        },
+        "Random'": {
+          "occurance_trend": 424,
+          "all_occurance": 1326,
+          "hit_percentage_high_trend": 35.85,
+          "hit_percentage_high_all": 38.01,
+          "hit_percentage_low_trend": 39.15,
+          "hit_percentage_low_all": 39.52,
+          "hit_percentage_close_trend": 36.32,
+          "hit_percentage_close_all": 37.41
         },
         "Hanging Man": {
           "occurance_trend": 92,
@@ -233,14 +273,24 @@
           "hit_percentage_close_all": 40.0
         },
         "Random": {
-          "occurance_trend": 678,
-          "all_occurance": 678,
-          "hit_percentage_high_trend": 35.99,
-          "hit_percentage_high_all": 35.99,
-          "hit_percentage_low_trend": 38.79,
-          "hit_percentage_low_all": 38.79,
-          "hit_percentage_close_trend": 36.58,
-          "hit_percentage_close_all": 36.58
+          "occurance_trend": 378,
+          "all_occurance": 1326,
+          "hit_percentage_high_trend": 30.69,
+          "hit_percentage_high_all": 38.61,
+          "hit_percentage_low_trend": 33.33,
+          "hit_percentage_low_all": 39.67,
+          "hit_percentage_close_trend": 31.75,
+          "hit_percentage_close_all": 38.31
+        },
+        "Random'": {
+          "occurance_trend": 378,
+          "all_occurance": 1326,
+          "hit_percentage_high_trend": 30.69,
+          "hit_percentage_high_all": 38.61,
+          "hit_percentage_low_trend": 33.33,
+          "hit_percentage_low_all": 39.67,
+          "hit_percentage_close_trend": 31.75,
+          "hit_percentage_close_all": 38.31
         },
         "Hanging Man": {
           "occurance_trend": 76,
@@ -285,14 +335,24 @@
           "hit_percentage_close_all": 35.91
         },
         "Random": {
-          "occurance_trend": 678,
-          "all_occurance": 678,
-          "hit_percentage_high_trend": 33.78,
-          "hit_percentage_high_all": 33.78,
-          "hit_percentage_low_trend": 36.14,
-          "hit_percentage_low_all": 36.14,
-          "hit_percentage_close_trend": 35.25,
-          "hit_percentage_close_all": 35.25
+          "occurance_trend": 326,
+          "all_occurance": 1326,
+          "hit_percentage_high_trend": 38.65,
+          "hit_percentage_high_all": 38.61,
+          "hit_percentage_low_trend": 43.56,
+          "hit_percentage_low_all": 38.61,
+          "hit_percentage_close_trend": 41.1,
+          "hit_percentage_close_all": 38.31
+        },
+        "Random'": {
+          "occurance_trend": 326,
+          "all_occurance": 1326,
+          "hit_percentage_high_trend": 38.65,
+          "hit_percentage_high_all": 38.61,
+          "hit_percentage_low_trend": 43.56,
+          "hit_percentage_low_all": 38.61,
+          "hit_percentage_close_trend": 41.1,
+          "hit_percentage_close_all": 38.31
         },
         "Hanging Man": {
           "occurance_trend": 44,
@@ -315,7 +375,7 @@
           "hit_percentage_close_all": 52.86
         }
       },
-      "commentry": "This is a commentry on the following data {2: {'Hammer': {'occurance_trend': 46, 'all_occurance': 111, 'hit_percentage_high_trend': 86.96, 'hit_percentage_high_all': 81.08, 'hit_percentage_low_trend': 80.43, 'hit_percentage_low_all': 73.87, 'hit_percentage_close_trend': 39.13, 'hit_percentage_close_all': 43.24}, 'Inverted Hammer': {'occurance_trend': 132, 'all_occurance': 220, 'hit_percentage_high_trend': 30.3, 'hit_percentage_high_all': 26.36, 'hit_percentage_low_trend': 30.3, 'hit_percentage_low_all': 26.82, 'hit_percentage_close_trend': 43.18, 'hit_percentage_close_all': 37.27}, 'Random': {'occurance_trend': 678, 'all_occurance': 678, 'hit_percentage_high_trend': 38.79, 'hit_percentage_high_all': 38.79, 'hit_percentage_low_trend': 41.0, 'hit_percentage_low_all': 41.0, 'hit_percentage_close_trend': 36.28, 'hit_percentage_close_all': 36.28}, 'Hanging Man': {'occurance_trend': 92, 'all_occurance': 247, 'hit_percentage_high_trend': 38.04, 'hit_percentage_high_all': 34.82, 'hit_percentage_low_trend': 35.87, 'hit_percentage_low_all': 36.03, 'hit_percentage_close_trend': 57.61, 'hit_percentage_close_all': 61.13}, 'Shooting Star': {'occurance_trend': 37, 'all_occurance': 140, 'hit_percentage_high_trend': 81.08, 'hit_percentage_high_all': 76.43, 'hit_percentage_low_trend': 78.38, 'hit_percentage_low_all': 78.57, 'hit_percentage_close_trend': 56.76, 'hit_percentage_close_all': 47.86}}, 4: {'Hammer': {'occurance_trend': 57, 'all_occurance': 111, 'hit_percentage_high_trend': 63.16, 'hit_percentage_high_all': 68.47, 'hit_percentage_low_trend': 63.16, 'hit_percentage_low_all': 63.96, 'hit_percentage_close_trend': 38.6, 'hit_percentage_close_all': 40.54}, 'Inverted Hammer': {'occurance_trend': 144, 'all_occurance': 220, 'hit_percentage_high_trend': 28.47, 'hit_percentage_high_all': 27.73, 'hit_percentage_low_trend': 29.17, 'hit_percentage_low_all': 28.64, 'hit_percentage_close_trend': 42.36, 'hit_percentage_close_all': 40.0}, 'Random': {'occurance_trend': 678, 'all_occurance': 678, 'hit_percentage_high_trend': 35.99, 'hit_percentage_high_all': 35.99, 'hit_percentage_low_trend': 38.79, 'hit_percentage_low_all': 38.79, 'hit_percentage_close_trend': 36.58, 'hit_percentage_close_all': 36.58}, 'Hanging Man': {'occurance_trend': 76, 'all_occurance': 247, 'hit_percentage_high_trend': 36.84, 'hit_percentage_high_all': 46.96, 'hit_percentage_low_trend': 36.84, 'hit_percentage_low_all': 45.75, 'hit_percentage_close_trend': 57.89, 'hit_percentage_close_all': 63.16}, 'Shooting Star': {'occurance_trend': 40, 'all_occurance': 140, 'hit_percentage_high_trend': 70.0, 'hit_percentage_high_all': 69.29, 'hit_percentage_low_trend': 72.5, 'hit_percentage_low_all': 71.43, 'hit_percentage_close_trend': 60.0, 'hit_percentage_close_all': 52.86}}, 8: {'Hammer': {'occurance_trend': 65, 'all_occurance': 111, 'hit_percentage_high_trend': 53.85, 'hit_percentage_high_all': 56.76, 'hit_percentage_low_trend': 49.23, 'hit_percentage_low_all': 52.25, 'hit_percentage_close_trend': 29.23, 'hit_percentage_close_all': 31.53}, 'Inverted Hammer': {'occurance_trend': 119, 'all_occurance': 220, 'hit_percentage_high_trend': 31.09, 'hit_percentage_high_all': 30.91, 'hit_percentage_low_trend': 26.05, 'hit_percentage_low_all': 27.73, 'hit_percentage_close_trend': 35.29, 'hit_percentage_close_all': 35.91}, 'Random': {'occurance_trend': 678, 'all_occurance': 678, 'hit_percentage_high_trend': 33.78, 'hit_percentage_high_all': 33.78, 'hit_percentage_low_trend': 36.14, 'hit_percentage_low_all': 36.14, 'hit_percentage_close_trend': 35.25, 'hit_percentage_close_all': 35.25}, 'Hanging Man': {'occurance_trend': 44, 'all_occurance': 247, 'hit_percentage_high_trend': 47.73, 'hit_percentage_high_all': 55.06, 'hit_percentage_low_trend': 47.73, 'hit_percentage_low_all': 55.06, 'hit_percentage_close_trend': 56.82, 'hit_percentage_close_all': 64.78}, 'Shooting Star': {'occurance_trend': 37, 'all_occurance': 140, 'hit_percentage_high_trend': 64.86, 'hit_percentage_high_all': 65.0, 'hit_percentage_low_trend': 62.16, 'hit_percentage_low_all': 72.14, 'hit_percentage_close_trend': 43.24, 'hit_percentage_close_all': 52.86}}}"
+      "commentry": "This is a commentry on the following data {2: {'Hammer': {'occurance_trend': 46, 'all_occurance': 111, 'hit_percentage_high_trend': 86.96, 'hit_percentage_high_all': 81.08, 'hit_percentage_low_trend': 80.43, 'hit_percentage_low_all': 73.87, 'hit_percentage_close_trend': 39.13, 'hit_percentage_close_all': 43.24}, 'Inverted Hammer': {'occurance_trend': 132, 'all_occurance': 220, 'hit_percentage_high_trend': 30.3, 'hit_percentage_high_all': 26.36, 'hit_percentage_low_trend': 30.3, 'hit_percentage_low_all': 26.82, 'hit_percentage_close_trend': 43.18, 'hit_percentage_close_all': 37.27}, 'Random': {'occurance_trend': 424, 'all_occurance': 1326, 'hit_percentage_high_trend': 35.85, 'hit_percentage_high_all': 38.01, 'hit_percentage_low_trend': 39.15, 'hit_percentage_low_all': 39.52, 'hit_percentage_close_trend': 36.32, 'hit_percentage_close_all': 37.41}, \"Random'\": {'occurance_trend': 424, 'all_occurance': 1326, 'hit_percentage_high_trend': 35.85, 'hit_percentage_high_all': 38.01, 'hit_percentage_low_trend': 39.15, 'hit_percentage_low_all': 39.52, 'hit_percentage_close_trend': 36.32, 'hit_percentage_close_all': 37.41}, 'Hanging Man': {'occurance_trend': 92, 'all_occurance': 247, 'hit_percentage_high_trend': 38.04, 'hit_percentage_high_all': 34.82, 'hit_percentage_low_trend': 35.87, 'hit_percentage_low_all': 36.03, 'hit_percentage_close_trend': 57.61, 'hit_percentage_close_all': 61.13}, 'Shooting Star': {'occurance_trend': 37, 'all_occurance': 140, 'hit_percentage_high_trend': 81.08, 'hit_percentage_high_all': 76.43, 'hit_percentage_low_trend': 78.38, 'hit_percentage_low_all': 78.57, 'hit_percentage_close_trend': 56.76, 'hit_percentage_close_all': 47.86}}, 4: {'Hammer': {'occurance_trend': 57, 'all_occurance': 111, 'hit_percentage_high_trend': 63.16, 'hit_percentage_high_all': 68.47, 'hit_percentage_low_trend': 63.16, 'hit_percentage_low_all': 63.96, 'hit_percentage_close_trend': 38.6, 'hit_percentage_close_all': 40.54}, 'Inverted Hammer': {'occurance_trend': 144, 'all_occurance': 220, 'hit_percentage_high_trend': 28.47, 'hit_percentage_high_all': 27.73, 'hit_percentage_low_trend': 29.17, 'hit_percentage_low_all': 28.64, 'hit_percentage_close_trend': 42.36, 'hit_percentage_close_all': 40.0}, 'Random': {'occurance_trend': 378, 'all_occurance': 1326, 'hit_percentage_high_trend': 30.69, 'hit_percentage_high_all': 38.61, 'hit_percentage_low_trend': 33.33, 'hit_percentage_low_all': 39.67, 'hit_percentage_close_trend': 31.75, 'hit_percentage_close_all': 38.31}, \"Random'\": {'occurance_trend': 378, 'all_occurance': 1326, 'hit_percentage_high_trend': 30.69, 'hit_percentage_high_all': 38.61, 'hit_percentage_low_trend': 33.33, 'hit_percentage_low_all': 39.67, 'hit_percentage_close_trend': 31.75, 'hit_percentage_close_all': 38.31}, 'Hanging Man': {'occurance_trend': 76, 'all_occurance': 247, 'hit_percentage_high_trend': 36.84, 'hit_percentage_high_all': 46.96, 'hit_percentage_low_trend': 36.84, 'hit_percentage_low_all': 45.75, 'hit_percentage_close_trend': 57.89, 'hit_percentage_close_all': 63.16}, 'Shooting Star': {'occurance_trend': 40, 'all_occurance': 140, 'hit_percentage_high_trend': 70.0, 'hit_percentage_high_all': 69.29, 'hit_percentage_low_trend': 72.5, 'hit_percentage_low_all': 71.43, 'hit_percentage_close_trend': 60.0, 'hit_percentage_close_all': 52.86}}, 8: {'Hammer': {'occurance_trend': 65, 'all_occurance': 111, 'hit_percentage_high_trend': 53.85, 'hit_percentage_high_all': 56.76, 'hit_percentage_low_trend': 49.23, 'hit_percentage_low_all': 52.25, 'hit_percentage_close_trend': 29.23, 'hit_percentage_close_all': 31.53}, 'Inverted Hammer': {'occurance_trend': 119, 'all_occurance': 220, 'hit_percentage_high_trend': 31.09, 'hit_percentage_high_all': 30.91, 'hit_percentage_low_trend': 26.05, 'hit_percentage_low_all': 27.73, 'hit_percentage_close_trend': 35.29, 'hit_percentage_close_all': 35.91}, 'Random': {'occurance_trend': 326, 'all_occurance': 1326, 'hit_percentage_high_trend': 38.65, 'hit_percentage_high_all': 38.61, 'hit_percentage_low_trend': 43.56, 'hit_percentage_low_all': 38.61, 'hit_percentage_close_trend': 41.1, 'hit_percentage_close_all': 38.31}, \"Random'\": {'occurance_trend': 326, 'all_occurance': 1326, 'hit_percentage_high_trend': 38.65, 'hit_percentage_high_all': 38.61, 'hit_percentage_low_trend': 43.56, 'hit_percentage_low_all': 38.61, 'hit_percentage_close_trend': 41.1, 'hit_percentage_close_all': 38.31}, 'Hanging Man': {'occurance_trend': 44, 'all_occurance': 247, 'hit_percentage_high_trend': 47.73, 'hit_percentage_high_all': 55.06, 'hit_percentage_low_trend': 47.73, 'hit_percentage_low_all': 55.06, 'hit_percentage_close_trend': 56.82, 'hit_percentage_close_all': 64.78}, 'Shooting Star': {'occurance_trend': 37, 'all_occurance': 140, 'hit_percentage_high_trend': 64.86, 'hit_percentage_high_all': 65.0, 'hit_percentage_low_trend': 62.16, 'hit_percentage_low_all': 72.14, 'hit_percentage_close_trend': 43.24, 'hit_percentage_close_all': 52.86}}}"
     }
   },
   "Hydro": {
@@ -342,14 +402,24 @@
           "hit_percentage_close_all": 45.61
         },
         "Random": {
-          "occurance_trend": 488,
-          "all_occurance": 490,
-          "hit_percentage_high_trend": 45.49,
-          "hit_percentage_high_all": 45.71,
-          "hit_percentage_low_trend": 43.44,
-          "hit_percentage_low_all": 43.67,
-          "hit_percentage_close_trend": 44.06,
-          "hit_percentage_close_all": 44.29
+          "occurance_trend": 362,
+          "all_occurance": 1004,
+          "hit_percentage_high_trend": 42.54,
+          "hit_percentage_high_all": 44.22,
+          "hit_percentage_low_trend": 40.88,
+          "hit_percentage_low_all": 45.22,
+          "hit_percentage_close_trend": 43.65,
+          "hit_percentage_close_all": 43.82
+        },
+        "Random'": {
+          "occurance_trend": 362,
+          "all_occurance": 1004,
+          "hit_percentage_high_trend": 42.54,
+          "hit_percentage_high_all": 44.22,
+          "hit_percentage_low_trend": 40.88,
+          "hit_percentage_low_all": 45.22,
+          "hit_percentage_close_trend": 43.65,
+          "hit_percentage_close_all": 43.82
         },
         "Hanging Man": {
           "occurance_trend": 50,
@@ -394,14 +464,24 @@
           "hit_percentage_close_all": 44.44
         },
         "Random": {
-          "occurance_trend": 485,
-          "all_occurance": 490,
-          "hit_percentage_high_trend": 42.89,
-          "hit_percentage_high_all": 43.27,
-          "hit_percentage_low_trend": 43.51,
-          "hit_percentage_low_all": 43.88,
-          "hit_percentage_close_trend": 41.86,
-          "hit_percentage_close_all": 42.04
+          "occurance_trend": 320,
+          "all_occurance": 1004,
+          "hit_percentage_high_trend": 47.5,
+          "hit_percentage_high_all": 42.63,
+          "hit_percentage_low_trend": 48.12,
+          "hit_percentage_low_all": 45.62,
+          "hit_percentage_close_trend": 48.75,
+          "hit_percentage_close_all": 42.23
+        },
+        "Random'": {
+          "occurance_trend": 320,
+          "all_occurance": 1004,
+          "hit_percentage_high_trend": 47.5,
+          "hit_percentage_high_all": 42.63,
+          "hit_percentage_low_trend": 48.12,
+          "hit_percentage_low_all": 45.62,
+          "hit_percentage_close_trend": 48.75,
+          "hit_percentage_close_all": 42.23
         },
         "Hanging Man": {
           "occurance_trend": 51,
@@ -446,14 +526,24 @@
           "hit_percentage_close_all": 41.52
         },
         "Random": {
-          "occurance_trend": 476,
-          "all_occurance": 490,
-          "hit_percentage_high_trend": 39.5,
-          "hit_percentage_high_all": 40.2,
-          "hit_percentage_low_trend": 39.29,
-          "hit_percentage_low_all": 40.2,
-          "hit_percentage_close_trend": 40.97,
-          "hit_percentage_close_all": 41.63
+          "occurance_trend": 280,
+          "all_occurance": 1004,
+          "hit_percentage_high_trend": 42.14,
+          "hit_percentage_high_all": 41.04,
+          "hit_percentage_low_trend": 45.71,
+          "hit_percentage_low_all": 40.84,
+          "hit_percentage_close_trend": 44.29,
+          "hit_percentage_close_all": 42.43
+        },
+        "Random'": {
+          "occurance_trend": 280,
+          "all_occurance": 1004,
+          "hit_percentage_high_trend": 42.14,
+          "hit_percentage_high_all": 41.04,
+          "hit_percentage_low_trend": 45.71,
+          "hit_percentage_low_all": 40.84,
+          "hit_percentage_close_trend": 44.29,
+          "hit_percentage_close_all": 42.43
         },
         "Hanging Man": {
           "occurance_trend": 36,
@@ -500,14 +590,24 @@
           "hit_percentage_close_all": 59.67
         },
         "Random": {
-          "occurance_trend": 614,
-          "all_occurance": 619,
-          "hit_percentage_high_trend": 50.81,
-          "hit_percentage_high_all": 50.89,
-          "hit_percentage_low_trend": 55.21,
-          "hit_percentage_low_all": 55.09,
-          "hit_percentage_close_trend": 52.77,
-          "hit_percentage_close_all": 52.83
+          "occurance_trend": 572,
+          "all_occurance": 1214,
+          "hit_percentage_high_trend": 53.85,
+          "hit_percentage_high_all": 51.57,
+          "hit_percentage_low_trend": 53.5,
+          "hit_percentage_low_all": 50.91,
+          "hit_percentage_close_trend": 50.7,
+          "hit_percentage_close_all": 47.28
+        },
+        "Random'": {
+          "occurance_trend": 572,
+          "all_occurance": 1214,
+          "hit_percentage_high_trend": 53.85,
+          "hit_percentage_high_all": 51.57,
+          "hit_percentage_low_trend": 53.5,
+          "hit_percentage_low_all": 50.91,
+          "hit_percentage_close_trend": 50.7,
+          "hit_percentage_close_all": 47.28
         },
         "Hanging Man": {
           "occurance_trend": 77,
@@ -552,14 +652,24 @@
           "hit_percentage_close_all": 62.96
         },
         "Random": {
-          "occurance_trend": 609,
-          "all_occurance": 619,
-          "hit_percentage_high_trend": 56.16,
-          "hit_percentage_high_all": 56.06,
-          "hit_percentage_low_trend": 58.78,
-          "hit_percentage_low_all": 58.48,
-          "hit_percentage_close_trend": 56.32,
-          "hit_percentage_close_all": 56.06
+          "occurance_trend": 610,
+          "all_occurance": 1214,
+          "hit_percentage_high_trend": 54.1,
+          "hit_percentage_high_all": 53.38,
+          "hit_percentage_low_trend": 52.79,
+          "hit_percentage_low_all": 53.38,
+          "hit_percentage_close_trend": 53.44,
+          "hit_percentage_close_all": 51.24
+        },
+        "Random'": {
+          "occurance_trend": 610,
+          "all_occurance": 1214,
+          "hit_percentage_high_trend": 54.1,
+          "hit_percentage_high_all": 53.38,
+          "hit_percentage_low_trend": 52.79,
+          "hit_percentage_low_all": 53.38,
+          "hit_percentage_close_trend": 53.44,
+          "hit_percentage_close_all": 51.24
         },
         "Hanging Man": {
           "occurance_trend": 73,
@@ -604,14 +714,24 @@
           "hit_percentage_close_all": 64.61
         },
         "Random": {
-          "occurance_trend": 598,
-          "all_occurance": 619,
-          "hit_percentage_high_trend": 60.87,
-          "hit_percentage_high_all": 60.26,
-          "hit_percentage_low_trend": 63.21,
-          "hit_percentage_low_all": 61.87,
-          "hit_percentage_close_trend": 60.2,
-          "hit_percentage_close_all": 59.13
+          "occurance_trend": 638,
+          "all_occurance": 1214,
+          "hit_percentage_high_trend": 56.74,
+          "hit_percentage_high_all": 55.85,
+          "hit_percentage_low_trend": 56.74,
+          "hit_percentage_low_all": 55.85,
+          "hit_percentage_close_trend": 53.92,
+          "hit_percentage_close_all": 55.19
+        },
+        "Random'": {
+          "occurance_trend": 638,
+          "all_occurance": 1214,
+          "hit_percentage_high_trend": 56.74,
+          "hit_percentage_high_all": 55.85,
+          "hit_percentage_low_trend": 56.74,
+          "hit_percentage_low_all": 55.85,
+          "hit_percentage_close_trend": 53.92,
+          "hit_percentage_close_all": 55.19
         },
         "Hanging Man": {
           "occurance_trend": 75,
@@ -634,7 +754,7 @@
           "hit_percentage_close_all": 33.58
         }
       },
-      "commentry": "This is a commentry on the following data {2: {'Hammer': {'occurance_trend': 38, 'all_occurance': 93, 'hit_percentage_high_trend': 84.21, 'hit_percentage_high_all': 73.12, 'hit_percentage_low_trend': 76.32, 'hit_percentage_low_all': 72.04, 'hit_percentage_close_trend': 47.37, 'hit_percentage_close_all': 41.94}, 'Inverted Hammer': {'occurance_trend': 127, 'all_occurance': 243, 'hit_percentage_high_trend': 43.31, 'hit_percentage_high_all': 44.44, 'hit_percentage_low_trend': 44.88, 'hit_percentage_low_all': 44.03, 'hit_percentage_close_trend': 59.06, 'hit_percentage_close_all': 59.67}, 'Random': {'occurance_trend': 614, 'all_occurance': 619, 'hit_percentage_high_trend': 50.81, 'hit_percentage_high_all': 50.89, 'hit_percentage_low_trend': 55.21, 'hit_percentage_low_all': 55.09, 'hit_percentage_close_trend': 52.77, 'hit_percentage_close_all': 52.83}, 'Hanging Man': {'occurance_trend': 77, 'all_occurance': 147, 'hit_percentage_high_trend': 42.86, 'hit_percentage_high_all': 38.78, 'hit_percentage_low_trend': 42.86, 'hit_percentage_low_all': 33.33, 'hit_percentage_close_trend': 62.34, 'hit_percentage_close_all': 55.1}, 'Shooting Star': {'occurance_trend': 53, 'all_occurance': 134, 'hit_percentage_high_trend': 75.47, 'hit_percentage_high_all': 68.66, 'hit_percentage_low_trend': 83.02, 'hit_percentage_low_all': 76.12, 'hit_percentage_close_trend': 49.06, 'hit_percentage_close_all': 41.79}}, 4: {'Hammer': {'occurance_trend': 37, 'all_occurance': 93, 'hit_percentage_high_trend': 72.97, 'hit_percentage_high_all': 68.82, 'hit_percentage_low_trend': 70.27, 'hit_percentage_low_all': 66.67, 'hit_percentage_close_trend': 45.95, 'hit_percentage_close_all': 43.01}, 'Inverted Hammer': {'occurance_trend': 107, 'all_occurance': 243, 'hit_percentage_high_trend': 43.93, 'hit_percentage_high_all': 49.79, 'hit_percentage_low_trend': 49.53, 'hit_percentage_low_all': 49.79, 'hit_percentage_close_trend': 65.42, 'hit_percentage_close_all': 62.96}, 'Random': {'occurance_trend': 609, 'all_occurance': 619, 'hit_percentage_high_trend': 56.16, 'hit_percentage_high_all': 56.06, 'hit_percentage_low_trend': 58.78, 'hit_percentage_low_all': 58.48, 'hit_percentage_close_trend': 56.32, 'hit_percentage_close_all': 56.06}, 'Hanging Man': {'occurance_trend': 73, 'all_occurance': 147, 'hit_percentage_high_trend': 39.73, 'hit_percentage_high_all': 40.82, 'hit_percentage_low_trend': 42.47, 'hit_percentage_low_all': 38.78, 'hit_percentage_close_trend': 52.05, 'hit_percentage_close_all': 51.7}, 'Shooting Star': {'occurance_trend': 59, 'all_occurance': 134, 'hit_percentage_high_trend': 66.1, 'hit_percentage_high_all': 61.19, 'hit_percentage_low_trend': 74.58, 'hit_percentage_low_all': 67.16, 'hit_percentage_close_trend': 47.46, 'hit_percentage_close_all': 41.04}}, 8: {'Hammer': {'occurance_trend': 32, 'all_occurance': 93, 'hit_percentage_high_trend': 84.38, 'hit_percentage_high_all': 62.37, 'hit_percentage_low_trend': 81.25, 'hit_percentage_low_all': 63.44, 'hit_percentage_close_trend': 40.62, 'hit_percentage_close_all': 40.86}, 'Inverted Hammer': {'occurance_trend': 102, 'all_occurance': 243, 'hit_percentage_high_trend': 57.84, 'hit_percentage_high_all': 55.14, 'hit_percentage_low_trend': 60.78, 'hit_percentage_low_all': 54.32, 'hit_percentage_close_trend': 70.59, 'hit_percentage_close_all': 64.61}, 'Random': {'occurance_trend': 598, 'all_occurance': 619, 'hit_percentage_high_trend': 60.87, 'hit_percentage_high_all': 60.26, 'hit_percentage_low_trend': 63.21, 'hit_percentage_low_all': 61.87, 'hit_percentage_close_trend': 60.2, 'hit_percentage_close_all': 59.13}, 'Hanging Man': {'occurance_trend': 75, 'all_occurance': 147, 'hit_percentage_high_trend': 41.33, 'hit_percentage_high_all': 42.86, 'hit_percentage_low_trend': 38.67, 'hit_percentage_low_all': 36.73, 'hit_percentage_close_trend': 52.0, 'hit_percentage_close_all': 53.74}, 'Shooting Star': {'occurance_trend': 69, 'all_occurance': 134, 'hit_percentage_high_trend': 59.42, 'hit_percentage_high_all': 55.22, 'hit_percentage_low_trend': 60.87, 'hit_percentage_low_all': 61.19, 'hit_percentage_close_trend': 44.93, 'hit_percentage_close_all': 33.58}}}"
+      "commentry": "This is a commentry on the following data {2: {'Hammer': {'occurance_trend': 38, 'all_occurance': 93, 'hit_percentage_high_trend': 84.21, 'hit_percentage_high_all': 73.12, 'hit_percentage_low_trend': 76.32, 'hit_percentage_low_all': 72.04, 'hit_percentage_close_trend': 47.37, 'hit_percentage_close_all': 41.94}, 'Inverted Hammer': {'occurance_trend': 127, 'all_occurance': 243, 'hit_percentage_high_trend': 43.31, 'hit_percentage_high_all': 44.44, 'hit_percentage_low_trend': 44.88, 'hit_percentage_low_all': 44.03, 'hit_percentage_close_trend': 59.06, 'hit_percentage_close_all': 59.67}, 'Random': {'occurance_trend': 572, 'all_occurance': 1214, 'hit_percentage_high_trend': 53.85, 'hit_percentage_high_all': 51.57, 'hit_percentage_low_trend': 53.5, 'hit_percentage_low_all': 50.91, 'hit_percentage_close_trend': 50.7, 'hit_percentage_close_all': 47.28}, \"Random'\": {'occurance_trend': 572, 'all_occurance': 1214, 'hit_percentage_high_trend': 53.85, 'hit_percentage_high_all': 51.57, 'hit_percentage_low_trend': 53.5, 'hit_percentage_low_all': 50.91, 'hit_percentage_close_trend': 50.7, 'hit_percentage_close_all': 47.28}, 'Hanging Man': {'occurance_trend': 77, 'all_occurance': 147, 'hit_percentage_high_trend': 42.86, 'hit_percentage_high_all': 38.78, 'hit_percentage_low_trend': 42.86, 'hit_percentage_low_all': 33.33, 'hit_percentage_close_trend': 62.34, 'hit_percentage_close_all': 55.1}, 'Shooting Star': {'occurance_trend': 53, 'all_occurance': 134, 'hit_percentage_high_trend': 75.47, 'hit_percentage_high_all': 68.66, 'hit_percentage_low_trend': 83.02, 'hit_percentage_low_all': 76.12, 'hit_percentage_close_trend': 49.06, 'hit_percentage_close_all': 41.79}}, 4: {'Hammer': {'occurance_trend': 37, 'all_occurance': 93, 'hit_percentage_high_trend': 72.97, 'hit_percentage_high_all': 68.82, 'hit_percentage_low_trend': 70.27, 'hit_percentage_low_all': 66.67, 'hit_percentage_close_trend': 45.95, 'hit_percentage_close_all': 43.01}, 'Inverted Hammer': {'occurance_trend': 107, 'all_occurance': 243, 'hit_percentage_high_trend': 43.93, 'hit_percentage_high_all': 49.79, 'hit_percentage_low_trend': 49.53, 'hit_percentage_low_all': 49.79, 'hit_percentage_close_trend': 65.42, 'hit_percentage_close_all': 62.96}, 'Random': {'occurance_trend': 610, 'all_occurance': 1214, 'hit_percentage_high_trend': 54.1, 'hit_percentage_high_all': 53.38, 'hit_percentage_low_trend': 52.79, 'hit_percentage_low_all': 53.38, 'hit_percentage_close_trend': 53.44, 'hit_percentage_close_all': 51.24}, \"Random'\": {'occurance_trend': 610, 'all_occurance': 1214, 'hit_percentage_high_trend': 54.1, 'hit_percentage_high_all': 53.38, 'hit_percentage_low_trend': 52.79, 'hit_percentage_low_all': 53.38, 'hit_percentage_close_trend': 53.44, 'hit_percentage_close_all': 51.24}, 'Hanging Man': {'occurance_trend': 73, 'all_occurance': 147, 'hit_percentage_high_trend': 39.73, 'hit_percentage_high_all': 40.82, 'hit_percentage_low_trend': 42.47, 'hit_percentage_low_all': 38.78, 'hit_percentage_close_trend': 52.05, 'hit_percentage_close_all': 51.7}, 'Shooting Star': {'occurance_trend': 59, 'all_occurance': 134, 'hit_percentage_high_trend': 66.1, 'hit_percentage_high_all': 61.19, 'hit_percentage_low_trend': 74.58, 'hit_percentage_low_all': 67.16, 'hit_percentage_close_trend': 47.46, 'hit_percentage_close_all': 41.04}}, 8: {'Hammer': {'occurance_trend': 32, 'all_occurance': 93, 'hit_percentage_high_trend': 84.38, 'hit_percentage_high_all': 62.37, 'hit_percentage_low_trend': 81.25, 'hit_percentage_low_all': 63.44, 'hit_percentage_close_trend': 40.62, 'hit_percentage_close_all': 40.86}, 'Inverted Hammer': {'occurance_trend': 102, 'all_occurance': 243, 'hit_percentage_high_trend': 57.84, 'hit_percentage_high_all': 55.14, 'hit_percentage_low_trend': 60.78, 'hit_percentage_low_all': 54.32, 'hit_percentage_close_trend': 70.59, 'hit_percentage_close_all': 64.61}, 'Random': {'occurance_trend': 638, 'all_occurance': 1214, 'hit_percentage_high_trend': 56.74, 'hit_percentage_high_all': 55.85, 'hit_percentage_low_trend': 56.74, 'hit_percentage_low_all': 55.85, 'hit_percentage_close_trend': 53.92, 'hit_percentage_close_all': 55.19}, \"Random'\": {'occurance_trend': 638, 'all_occurance': 1214, 'hit_percentage_high_trend': 56.74, 'hit_percentage_high_all': 55.85, 'hit_percentage_low_trend': 56.74, 'hit_percentage_low_all': 55.85, 'hit_percentage_close_trend': 53.92, 'hit_percentage_close_all': 55.19}, 'Hanging Man': {'occurance_trend': 75, 'all_occurance': 147, 'hit_percentage_high_trend': 41.33, 'hit_percentage_high_all': 42.86, 'hit_percentage_low_trend': 38.67, 'hit_percentage_low_all': 36.73, 'hit_percentage_close_trend': 52.0, 'hit_percentage_close_all': 53.74}, 'Shooting Star': {'occurance_trend': 69, 'all_occurance': 134, 'hit_percentage_high_trend': 59.42, 'hit_percentage_high_all': 55.22, 'hit_percentage_low_trend': 60.87, 'hit_percentage_low_all': 61.19, 'hit_percentage_close_trend': 44.93, 'hit_percentage_close_all': 33.58}}}"
     }
   },
   "Microfinance": {
@@ -661,14 +781,24 @@
           "hit_percentage_close_all": 51.23
         },
         "Random": {
-          "occurance_trend": 880,
-          "all_occurance": 893,
-          "hit_percentage_high_trend": 52.39,
-          "hit_percentage_high_all": 52.3,
-          "hit_percentage_low_trend": 53.07,
-          "hit_percentage_low_all": 53.08,
-          "hit_percentage_close_trend": 50.91,
-          "hit_percentage_close_all": 50.95
+          "occurance_trend": 840,
+          "all_occurance": 1736,
+          "hit_percentage_high_trend": 52.62,
+          "hit_percentage_high_all": 53.69,
+          "hit_percentage_low_trend": 51.19,
+          "hit_percentage_low_all": 53.34,
+          "hit_percentage_close_trend": 50.48,
+          "hit_percentage_close_all": 50.92
+        },
+        "Random'": {
+          "occurance_trend": 840,
+          "all_occurance": 1736,
+          "hit_percentage_high_trend": 52.62,
+          "hit_percentage_high_all": 53.69,
+          "hit_percentage_low_trend": 51.19,
+          "hit_percentage_low_all": 53.34,
+          "hit_percentage_close_trend": 50.48,
+          "hit_percentage_close_all": 50.92
         },
         "Hanging Man": {
           "occurance_trend": 118,
@@ -713,14 +843,24 @@
           "hit_percentage_close_all": 56.49
         },
         "Random": {
-          "occurance_trend": 874,
-          "all_occurance": 893,
-          "hit_percentage_high_trend": 53.55,
-          "hit_percentage_high_all": 53.3,
-          "hit_percentage_low_trend": 54.81,
-          "hit_percentage_low_all": 54.76,
-          "hit_percentage_close_trend": 54.69,
-          "hit_percentage_close_all": 54.87
+          "occurance_trend": 840,
+          "all_occurance": 1736,
+          "hit_percentage_high_trend": 55.0,
+          "hit_percentage_high_all": 54.26,
+          "hit_percentage_low_trend": 50.0,
+          "hit_percentage_low_all": 52.65,
+          "hit_percentage_close_trend": 49.52,
+          "hit_percentage_close_all": 52.07
+        },
+        "Random'": {
+          "occurance_trend": 840,
+          "all_occurance": 1736,
+          "hit_percentage_high_trend": 55.0,
+          "hit_percentage_high_all": 54.26,
+          "hit_percentage_low_trend": 50.0,
+          "hit_percentage_low_all": 52.65,
+          "hit_percentage_close_trend": 49.52,
+          "hit_percentage_close_all": 52.07
         },
         "Hanging Man": {
           "occurance_trend": 105,
@@ -765,14 +905,24 @@
           "hit_percentage_close_all": 58.6
         },
         "Random": {
-          "occurance_trend": 865,
-          "all_occurance": 893,
-          "hit_percentage_high_trend": 56.88,
-          "hit_percentage_high_all": 56.44,
-          "hit_percentage_low_trend": 57.8,
-          "hit_percentage_low_all": 57.67,
-          "hit_percentage_close_trend": 55.38,
-          "hit_percentage_close_all": 55.32
+          "occurance_trend": 874,
+          "all_occurance": 1736,
+          "hit_percentage_high_trend": 56.75,
+          "hit_percentage_high_all": 56.34,
+          "hit_percentage_low_trend": 56.29,
+          "hit_percentage_low_all": 58.18,
+          "hit_percentage_close_trend": 55.15,
+          "hit_percentage_close_all": 55.3
+        },
+        "Random'": {
+          "occurance_trend": 874,
+          "all_occurance": 1736,
+          "hit_percentage_high_trend": 56.75,
+          "hit_percentage_high_all": 56.34,
+          "hit_percentage_low_trend": 56.29,
+          "hit_percentage_low_all": 58.18,
+          "hit_percentage_close_trend": 55.15,
+          "hit_percentage_close_all": 55.3
         },
         "Hanging Man": {
           "occurance_trend": 102,
@@ -819,14 +969,24 @@
           "hit_percentage_close_all": 46.11
         },
         "Random": {
-          "occurance_trend": 1000,
-          "all_occurance": 1001,
-          "hit_percentage_high_trend": 42.1,
-          "hit_percentage_high_all": 42.16,
-          "hit_percentage_low_trend": 42.5,
-          "hit_percentage_low_all": 42.56,
-          "hit_percentage_close_trend": 43.0,
-          "hit_percentage_close_all": 43.06
+          "occurance_trend": 838,
+          "all_occurance": 2052,
+          "hit_percentage_high_trend": 43.91,
+          "hit_percentage_high_all": 43.86,
+          "hit_percentage_low_trend": 42.96,
+          "hit_percentage_low_all": 43.37,
+          "hit_percentage_close_trend": 45.11,
+          "hit_percentage_close_all": 41.62
+        },
+        "Random'": {
+          "occurance_trend": 838,
+          "all_occurance": 2052,
+          "hit_percentage_high_trend": 43.91,
+          "hit_percentage_high_all": 43.86,
+          "hit_percentage_low_trend": 42.96,
+          "hit_percentage_low_all": 43.37,
+          "hit_percentage_close_trend": 45.11,
+          "hit_percentage_close_all": 41.62
         },
         "Hanging Man": {
           "occurance_trend": 127,
@@ -871,14 +1031,24 @@
           "hit_percentage_close_all": 45.51
         },
         "Random": {
-          "occurance_trend": 999,
-          "all_occurance": 1001,
-          "hit_percentage_high_trend": 41.54,
-          "hit_percentage_high_all": 41.66,
-          "hit_percentage_low_trend": 41.34,
-          "hit_percentage_low_all": 41.46,
-          "hit_percentage_close_trend": 41.54,
-          "hit_percentage_close_all": 41.66
+          "occurance_trend": 692,
+          "all_occurance": 2052,
+          "hit_percentage_high_trend": 41.62,
+          "hit_percentage_high_all": 43.47,
+          "hit_percentage_low_trend": 43.64,
+          "hit_percentage_low_all": 43.27,
+          "hit_percentage_close_trend": 43.06,
+          "hit_percentage_close_all": 44.93
+        },
+        "Random'": {
+          "occurance_trend": 692,
+          "all_occurance": 2052,
+          "hit_percentage_high_trend": 41.62,
+          "hit_percentage_high_all": 43.47,
+          "hit_percentage_low_trend": 43.64,
+          "hit_percentage_low_all": 43.27,
+          "hit_percentage_close_trend": 43.06,
+          "hit_percentage_close_all": 44.93
         },
         "Hanging Man": {
           "occurance_trend": 91,
@@ -923,14 +1093,24 @@
           "hit_percentage_close_all": 44.91
         },
         "Random": {
-          "occurance_trend": 994,
-          "all_occurance": 1001,
-          "hit_percentage_high_trend": 36.62,
-          "hit_percentage_high_all": 37.06,
-          "hit_percentage_low_trend": 39.34,
-          "hit_percentage_low_all": 39.76,
-          "hit_percentage_close_trend": 39.24,
-          "hit_percentage_close_all": 39.66
+          "occurance_trend": 688,
+          "all_occurance": 2052,
+          "hit_percentage_high_trend": 39.83,
+          "hit_percentage_high_all": 40.25,
+          "hit_percentage_low_trend": 45.64,
+          "hit_percentage_low_all": 43.37,
+          "hit_percentage_close_trend": 44.19,
+          "hit_percentage_close_all": 42.69
+        },
+        "Random'": {
+          "occurance_trend": 688,
+          "all_occurance": 2052,
+          "hit_percentage_high_trend": 39.83,
+          "hit_percentage_high_all": 40.25,
+          "hit_percentage_low_trend": 45.64,
+          "hit_percentage_low_all": 43.37,
+          "hit_percentage_close_trend": 44.19,
+          "hit_percentage_close_all": 42.69
         },
         "Hanging Man": {
           "occurance_trend": 70,
@@ -953,7 +1133,7 @@
           "hit_percentage_close_all": 56.33
         }
       },
-      "commentry": "This is a commentry on the following data {2: {'Hammer': {'occurance_trend': 102, 'all_occurance': 181, 'hit_percentage_high_trend': 68.63, 'hit_percentage_high_all': 68.51, 'hit_percentage_low_trend': 61.76, 'hit_percentage_low_all': 60.22, 'hit_percentage_close_trend': 25.49, 'hit_percentage_close_all': 33.15}, 'Inverted Hammer': {'occurance_trend': 224, 'all_occurance': 334, 'hit_percentage_high_trend': 35.27, 'hit_percentage_high_all': 38.32, 'hit_percentage_low_trend': 33.93, 'hit_percentage_low_all': 32.63, 'hit_percentage_close_trend': 46.88, 'hit_percentage_close_all': 46.11}, 'Random': {'occurance_trend': 1000, 'all_occurance': 1001, 'hit_percentage_high_trend': 42.1, 'hit_percentage_high_all': 42.16, 'hit_percentage_low_trend': 42.5, 'hit_percentage_low_all': 42.56, 'hit_percentage_close_trend': 43.0, 'hit_percentage_close_all': 43.06}, 'Hanging Man': {'occurance_trend': 127, 'all_occurance': 295, 'hit_percentage_high_trend': 46.46, 'hit_percentage_high_all': 41.69, 'hit_percentage_low_trend': 51.97, 'hit_percentage_low_all': 49.49, 'hit_percentage_close_trend': 59.84, 'hit_percentage_close_all': 60.68}, 'Shooting Star': {'occurance_trend': 81, 'all_occurance': 229, 'hit_percentage_high_trend': 76.54, 'hit_percentage_high_all': 74.24, 'hit_percentage_low_trend': 86.42, 'hit_percentage_low_all': 81.66, 'hit_percentage_close_trend': 53.09, 'hit_percentage_close_all': 50.66}}, 4: {'Hammer': {'occurance_trend': 104, 'all_occurance': 181, 'hit_percentage_high_trend': 57.69, 'hit_percentage_high_all': 57.46, 'hit_percentage_low_trend': 54.81, 'hit_percentage_low_all': 51.93, 'hit_percentage_close_trend': 33.65, 'hit_percentage_close_all': 35.91}, 'Inverted Hammer': {'occurance_trend': 213, 'all_occurance': 334, 'hit_percentage_high_trend': 42.25, 'hit_percentage_high_all': 39.22, 'hit_percentage_low_trend': 36.62, 'hit_percentage_low_all': 34.73, 'hit_percentage_close_trend': 48.83, 'hit_percentage_close_all': 45.51}, 'Random': {'occurance_trend': 999, 'all_occurance': 1001, 'hit_percentage_high_trend': 41.54, 'hit_percentage_high_all': 41.66, 'hit_percentage_low_trend': 41.34, 'hit_percentage_low_all': 41.46, 'hit_percentage_close_trend': 41.54, 'hit_percentage_close_all': 41.66}, 'Hanging Man': {'occurance_trend': 91, 'all_occurance': 295, 'hit_percentage_high_trend': 57.14, 'hit_percentage_high_all': 49.83, 'hit_percentage_low_trend': 54.95, 'hit_percentage_low_all': 53.56, 'hit_percentage_close_trend': 68.13, 'hit_percentage_close_all': 62.03}, 'Shooting Star': {'occurance_trend': 81, 'all_occurance': 229, 'hit_percentage_high_trend': 70.37, 'hit_percentage_high_all': 69.87, 'hit_percentage_low_trend': 71.6, 'hit_percentage_low_all': 74.67, 'hit_percentage_close_trend': 49.38, 'hit_percentage_close_all': 54.15}}, 8: {'Hammer': {'occurance_trend': 118, 'all_occurance': 181, 'hit_percentage_high_trend': 44.92, 'hit_percentage_high_all': 46.96, 'hit_percentage_low_trend': 43.22, 'hit_percentage_low_all': 46.96, 'hit_percentage_close_trend': 36.44, 'hit_percentage_close_all': 37.57}, 'Inverted Hammer': {'occurance_trend': 193, 'all_occurance': 334, 'hit_percentage_high_trend': 37.31, 'hit_percentage_high_all': 38.92, 'hit_percentage_low_trend': 35.75, 'hit_percentage_low_all': 35.63, 'hit_percentage_close_trend': 43.52, 'hit_percentage_close_all': 44.91}, 'Random': {'occurance_trend': 994, 'all_occurance': 1001, 'hit_percentage_high_trend': 36.62, 'hit_percentage_high_all': 37.06, 'hit_percentage_low_trend': 39.34, 'hit_percentage_low_all': 39.76, 'hit_percentage_close_trend': 39.24, 'hit_percentage_close_all': 39.66}, 'Hanging Man': {'occurance_trend': 70, 'all_occurance': 295, 'hit_percentage_high_trend': 48.57, 'hit_percentage_high_all': 54.58, 'hit_percentage_low_trend': 51.43, 'hit_percentage_low_all': 59.32, 'hit_percentage_close_trend': 54.29, 'hit_percentage_close_all': 63.39}, 'Shooting Star': {'occurance_trend': 86, 'all_occurance': 229, 'hit_percentage_high_trend': 69.77, 'hit_percentage_high_all': 66.81, 'hit_percentage_low_trend': 69.77, 'hit_percentage_low_all': 69.87, 'hit_percentage_close_trend': 56.98, 'hit_percentage_close_all': 56.33}}}"
+      "commentry": "This is a commentry on the following data {2: {'Hammer': {'occurance_trend': 102, 'all_occurance': 181, 'hit_percentage_high_trend': 68.63, 'hit_percentage_high_all': 68.51, 'hit_percentage_low_trend': 61.76, 'hit_percentage_low_all': 60.22, 'hit_percentage_close_trend': 25.49, 'hit_percentage_close_all': 33.15}, 'Inverted Hammer': {'occurance_trend': 224, 'all_occurance': 334, 'hit_percentage_high_trend': 35.27, 'hit_percentage_high_all': 38.32, 'hit_percentage_low_trend': 33.93, 'hit_percentage_low_all': 32.63, 'hit_percentage_close_trend': 46.88, 'hit_percentage_close_all': 46.11}, 'Random': {'occurance_trend': 838, 'all_occurance': 2052, 'hit_percentage_high_trend': 43.91, 'hit_percentage_high_all': 43.86, 'hit_percentage_low_trend': 42.96, 'hit_percentage_low_all': 43.37, 'hit_percentage_close_trend': 45.11, 'hit_percentage_close_all': 41.62}, \"Random'\": {'occurance_trend': 838, 'all_occurance': 2052, 'hit_percentage_high_trend': 43.91, 'hit_percentage_high_all': 43.86, 'hit_percentage_low_trend': 42.96, 'hit_percentage_low_all': 43.37, 'hit_percentage_close_trend': 45.11, 'hit_percentage_close_all': 41.62}, 'Hanging Man': {'occurance_trend': 127, 'all_occurance': 295, 'hit_percentage_high_trend': 46.46, 'hit_percentage_high_all': 41.69, 'hit_percentage_low_trend': 51.97, 'hit_percentage_low_all': 49.49, 'hit_percentage_close_trend': 59.84, 'hit_percentage_close_all': 60.68}, 'Shooting Star': {'occurance_trend': 81, 'all_occurance': 229, 'hit_percentage_high_trend': 76.54, 'hit_percentage_high_all': 74.24, 'hit_percentage_low_trend': 86.42, 'hit_percentage_low_all': 81.66, 'hit_percentage_close_trend': 53.09, 'hit_percentage_close_all': 50.66}}, 4: {'Hammer': {'occurance_trend': 104, 'all_occurance': 181, 'hit_percentage_high_trend': 57.69, 'hit_percentage_high_all': 57.46, 'hit_percentage_low_trend': 54.81, 'hit_percentage_low_all': 51.93, 'hit_percentage_close_trend': 33.65, 'hit_percentage_close_all': 35.91}, 'Inverted Hammer': {'occurance_trend': 213, 'all_occurance': 334, 'hit_percentage_high_trend': 42.25, 'hit_percentage_high_all': 39.22, 'hit_percentage_low_trend': 36.62, 'hit_percentage_low_all': 34.73, 'hit_percentage_close_trend': 48.83, 'hit_percentage_close_all': 45.51}, 'Random': {'occurance_trend': 692, 'all_occurance': 2052, 'hit_percentage_high_trend': 41.62, 'hit_percentage_high_all': 43.47, 'hit_percentage_low_trend': 43.64, 'hit_percentage_low_all': 43.27, 'hit_percentage_close_trend': 43.06, 'hit_percentage_close_all': 44.93}, \"Random'\": {'occurance_trend': 692, 'all_occurance': 2052, 'hit_percentage_high_trend': 41.62, 'hit_percentage_high_all': 43.47, 'hit_percentage_low_trend': 43.64, 'hit_percentage_low_all': 43.27, 'hit_percentage_close_trend': 43.06, 'hit_percentage_close_all': 44.93}, 'Hanging Man': {'occurance_trend': 91, 'all_occurance': 295, 'hit_percentage_high_trend': 57.14, 'hit_percentage_high_all': 49.83, 'hit_percentage_low_trend': 54.95, 'hit_percentage_low_all': 53.56, 'hit_percentage_close_trend': 68.13, 'hit_percentage_close_all': 62.03}, 'Shooting Star': {'occurance_trend': 81, 'all_occurance': 229, 'hit_percentage_high_trend': 70.37, 'hit_percentage_high_all': 69.87, 'hit_percentage_low_trend': 71.6, 'hit_percentage_low_all': 74.67, 'hit_percentage_close_trend': 49.38, 'hit_percentage_close_all': 54.15}}, 8: {'Hammer': {'occurance_trend': 118, 'all_occurance': 181, 'hit_percentage_high_trend': 44.92, 'hit_percentage_high_all': 46.96, 'hit_percentage_low_trend': 43.22, 'hit_percentage_low_all': 46.96, 'hit_percentage_close_trend': 36.44, 'hit_percentage_close_all': 37.57}, 'Inverted Hammer': {'occurance_trend': 193, 'all_occurance': 334, 'hit_percentage_high_trend': 37.31, 'hit_percentage_high_all': 38.92, 'hit_percentage_low_trend': 35.75, 'hit_percentage_low_all': 35.63, 'hit_percentage_close_trend': 43.52, 'hit_percentage_close_all': 44.91}, 'Random': {'occurance_trend': 688, 'all_occurance': 2052, 'hit_percentage_high_trend': 39.83, 'hit_percentage_high_all': 40.25, 'hit_percentage_low_trend': 45.64, 'hit_percentage_low_all': 43.37, 'hit_percentage_close_trend': 44.19, 'hit_percentage_close_all': 42.69}, \"Random'\": {'occurance_trend': 688, 'all_occurance': 2052, 'hit_percentage_high_trend': 39.83, 'hit_percentage_high_all': 40.25, 'hit_percentage_low_trend': 45.64, 'hit_percentage_low_all': 43.37, 'hit_percentage_close_trend': 44.19, 'hit_percentage_close_all': 42.69}, 'Hanging Man': {'occurance_trend': 70, 'all_occurance': 295, 'hit_percentage_high_trend': 48.57, 'hit_percentage_high_all': 54.58, 'hit_percentage_low_trend': 51.43, 'hit_percentage_low_all': 59.32, 'hit_percentage_close_trend': 54.29, 'hit_percentage_close_all': 63.39}, 'Shooting Star': {'occurance_trend': 86, 'all_occurance': 229, 'hit_percentage_high_trend': 69.77, 'hit_percentage_high_all': 66.81, 'hit_percentage_low_trend': 69.77, 'hit_percentage_low_all': 69.87, 'hit_percentage_close_trend': 56.98, 'hit_percentage_close_all': 56.33}}}"
     }
   },
   "Expensive": {
@@ -980,14 +1160,24 @@
           "hit_percentage_close_all": 50.64
         },
         "Random": {
-          "occurance_trend": 654,
-          "all_occurance": 657,
-          "hit_percentage_high_trend": 48.93,
-          "hit_percentage_high_all": 49.01,
-          "hit_percentage_low_trend": 48.78,
-          "hit_percentage_low_all": 48.86,
-          "hit_percentage_close_trend": 45.26,
-          "hit_percentage_close_all": 45.36
+          "occurance_trend": 622,
+          "all_occurance": 1378,
+          "hit_percentage_high_trend": 43.73,
+          "hit_percentage_high_all": 45.86,
+          "hit_percentage_low_trend": 47.27,
+          "hit_percentage_low_all": 48.77,
+          "hit_percentage_close_trend": 44.37,
+          "hit_percentage_close_all": 46.59
+        },
+        "Random'": {
+          "occurance_trend": 622,
+          "all_occurance": 1378,
+          "hit_percentage_high_trend": 43.73,
+          "hit_percentage_high_all": 45.86,
+          "hit_percentage_low_trend": 47.27,
+          "hit_percentage_low_all": 48.77,
+          "hit_percentage_close_trend": 44.37,
+          "hit_percentage_close_all": 46.59
         },
         "Hanging Man": {
           "occurance_trend": 82,
@@ -1032,14 +1222,24 @@
           "hit_percentage_close_all": 53.62
         },
         "Random": {
-          "occurance_trend": 649,
-          "all_occurance": 657,
-          "hit_percentage_high_trend": 51.16,
-          "hit_percentage_high_all": 51.29,
-          "hit_percentage_low_trend": 53.0,
-          "hit_percentage_low_all": 52.97,
-          "hit_percentage_close_trend": 49.61,
-          "hit_percentage_close_all": 49.77
+          "occurance_trend": 622,
+          "all_occurance": 1378,
+          "hit_percentage_high_trend": 45.66,
+          "hit_percentage_high_all": 45.72,
+          "hit_percentage_low_trend": 48.23,
+          "hit_percentage_low_all": 46.59,
+          "hit_percentage_close_trend": 45.34,
+          "hit_percentage_close_all": 47.46
+        },
+        "Random'": {
+          "occurance_trend": 622,
+          "all_occurance": 1378,
+          "hit_percentage_high_trend": 45.66,
+          "hit_percentage_high_all": 45.72,
+          "hit_percentage_low_trend": 48.23,
+          "hit_percentage_low_all": 46.59,
+          "hit_percentage_close_trend": 45.34,
+          "hit_percentage_close_all": 47.46
         },
         "Hanging Man": {
           "occurance_trend": 76,
@@ -1084,14 +1284,24 @@
           "hit_percentage_close_all": 54.04
         },
         "Random": {
-          "occurance_trend": 641,
-          "all_occurance": 657,
-          "hit_percentage_high_trend": 53.67,
-          "hit_percentage_high_all": 53.73,
-          "hit_percentage_low_trend": 55.38,
-          "hit_percentage_low_all": 55.1,
-          "hit_percentage_close_trend": 51.79,
-          "hit_percentage_close_all": 51.45
+          "occurance_trend": 696,
+          "all_occurance": 1378,
+          "hit_percentage_high_trend": 49.43,
+          "hit_percentage_high_all": 49.2,
+          "hit_percentage_low_trend": 54.02,
+          "hit_percentage_low_all": 52.1,
+          "hit_percentage_close_trend": 50.29,
+          "hit_percentage_close_all": 50.51
+        },
+        "Random'": {
+          "occurance_trend": 696,
+          "all_occurance": 1378,
+          "hit_percentage_high_trend": 49.43,
+          "hit_percentage_high_all": 49.2,
+          "hit_percentage_low_trend": 54.02,
+          "hit_percentage_low_all": 52.1,
+          "hit_percentage_close_trend": 50.29,
+          "hit_percentage_close_all": 50.51
         },
         "Hanging Man": {
           "occurance_trend": 77,
@@ -1138,14 +1348,24 @@
           "hit_percentage_close_all": 44.5
         },
         "Random": {
-          "occurance_trend": 640,
-          "all_occurance": 640,
-          "hit_percentage_high_trend": 40.47,
-          "hit_percentage_high_all": 40.47,
-          "hit_percentage_low_trend": 44.53,
-          "hit_percentage_low_all": 44.53,
-          "hit_percentage_close_trend": 44.53,
-          "hit_percentage_close_all": 44.53
+          "occurance_trend": 478,
+          "all_occurance": 1216,
+          "hit_percentage_high_trend": 46.86,
+          "hit_percentage_high_all": 42.27,
+          "hit_percentage_low_trend": 46.03,
+          "hit_percentage_low_all": 45.07,
+          "hit_percentage_close_trend": 46.86,
+          "hit_percentage_close_all": 42.43
+        },
+        "Random'": {
+          "occurance_trend": 478,
+          "all_occurance": 1216,
+          "hit_percentage_high_trend": 46.86,
+          "hit_percentage_high_all": 42.27,
+          "hit_percentage_low_trend": 46.03,
+          "hit_percentage_low_all": 45.07,
+          "hit_percentage_close_trend": 46.86,
+          "hit_percentage_close_all": 42.43
         },
         "Hanging Man": {
           "occurance_trend": 62,
@@ -1190,14 +1410,24 @@
           "hit_percentage_close_all": 43.06
         },
         "Random": {
-          "occurance_trend": 640,
-          "all_occurance": 640,
-          "hit_percentage_high_trend": 42.03,
-          "hit_percentage_high_all": 42.03,
-          "hit_percentage_low_trend": 44.84,
-          "hit_percentage_low_all": 44.84,
-          "hit_percentage_close_trend": 44.22,
-          "hit_percentage_close_all": 44.22
+          "occurance_trend": 438,
+          "all_occurance": 1216,
+          "hit_percentage_high_trend": 43.38,
+          "hit_percentage_high_all": 39.31,
+          "hit_percentage_low_trend": 44.29,
+          "hit_percentage_low_all": 42.27,
+          "hit_percentage_close_trend": 42.01,
+          "hit_percentage_close_all": 40.46
+        },
+        "Random'": {
+          "occurance_trend": 438,
+          "all_occurance": 1216,
+          "hit_percentage_high_trend": 43.38,
+          "hit_percentage_high_all": 39.31,
+          "hit_percentage_low_trend": 44.29,
+          "hit_percentage_low_all": 42.27,
+          "hit_percentage_close_trend": 42.01,
+          "hit_percentage_close_all": 40.46
         },
         "Hanging Man": {
           "occurance_trend": 58,
@@ -1242,14 +1472,24 @@
           "hit_percentage_close_all": 37.8
         },
         "Random": {
-          "occurance_trend": 639,
-          "all_occurance": 640,
-          "hit_percentage_high_trend": 41.94,
-          "hit_percentage_high_all": 42.03,
-          "hit_percentage_low_trend": 43.66,
-          "hit_percentage_low_all": 43.75,
-          "hit_percentage_close_trend": 41.47,
-          "hit_percentage_close_all": 41.56
+          "occurance_trend": 416,
+          "all_occurance": 1216,
+          "hit_percentage_high_trend": 39.42,
+          "hit_percentage_high_all": 37.01,
+          "hit_percentage_low_trend": 47.6,
+          "hit_percentage_low_all": 39.97,
+          "hit_percentage_close_trend": 40.38,
+          "hit_percentage_close_all": 38.16
+        },
+        "Random'": {
+          "occurance_trend": 416,
+          "all_occurance": 1216,
+          "hit_percentage_high_trend": 39.42,
+          "hit_percentage_high_all": 37.01,
+          "hit_percentage_low_trend": 47.6,
+          "hit_percentage_low_all": 39.97,
+          "hit_percentage_close_trend": 40.38,
+          "hit_percentage_close_all": 38.16
         },
         "Hanging Man": {
           "occurance_trend": 51,
@@ -1272,7 +1512,7 @@
           "hit_percentage_close_all": 54.27
         }
       },
-      "commentry": "This is a commentry on the following data {2: {'Hammer': {'occurance_trend': 53, 'all_occurance': 98, 'hit_percentage_high_trend': 77.36, 'hit_percentage_high_all': 75.51, 'hit_percentage_low_trend': 81.13, 'hit_percentage_low_all': 77.55, 'hit_percentage_close_trend': 50.94, 'hit_percentage_close_all': 41.84}, 'Inverted Hammer': {'occurance_trend': 117, 'all_occurance': 209, 'hit_percentage_high_trend': 35.04, 'hit_percentage_high_all': 36.84, 'hit_percentage_low_trend': 31.62, 'hit_percentage_low_all': 35.41, 'hit_percentage_close_trend': 39.32, 'hit_percentage_close_all': 44.5}, 'Random': {'occurance_trend': 640, 'all_occurance': 640, 'hit_percentage_high_trend': 40.47, 'hit_percentage_high_all': 40.47, 'hit_percentage_low_trend': 44.53, 'hit_percentage_low_all': 44.53, 'hit_percentage_close_trend': 44.53, 'hit_percentage_close_all': 44.53}, 'Hanging Man': {'occurance_trend': 62, 'all_occurance': 166, 'hit_percentage_high_trend': 27.42, 'hit_percentage_high_all': 37.35, 'hit_percentage_low_trend': 37.1, 'hit_percentage_low_all': 37.95, 'hit_percentage_close_trend': 58.06, 'hit_percentage_close_all': 60.84}, 'Shooting Star': {'occurance_trend': 60, 'all_occurance': 164, 'hit_percentage_high_trend': 78.33, 'hit_percentage_high_all': 68.9, 'hit_percentage_low_trend': 80.0, 'hit_percentage_low_all': 73.17, 'hit_percentage_close_trend': 55.0, 'hit_percentage_close_all': 48.17}}, 4: {'Hammer': {'occurance_trend': 53, 'all_occurance': 98, 'hit_percentage_high_trend': 67.92, 'hit_percentage_high_all': 66.33, 'hit_percentage_low_trend': 56.6, 'hit_percentage_low_all': 61.22, 'hit_percentage_close_trend': 28.3, 'hit_percentage_close_all': 36.73}, 'Inverted Hammer': {'occurance_trend': 108, 'all_occurance': 209, 'hit_percentage_high_trend': 26.85, 'hit_percentage_high_all': 34.93, 'hit_percentage_low_trend': 21.3, 'hit_percentage_low_all': 31.1, 'hit_percentage_close_trend': 36.11, 'hit_percentage_close_all': 43.06}, 'Random': {'occurance_trend': 640, 'all_occurance': 640, 'hit_percentage_high_trend': 42.03, 'hit_percentage_high_all': 42.03, 'hit_percentage_low_trend': 44.84, 'hit_percentage_low_all': 44.84, 'hit_percentage_close_trend': 44.22, 'hit_percentage_close_all': 44.22}, 'Hanging Man': {'occurance_trend': 58, 'all_occurance': 166, 'hit_percentage_high_trend': 43.1, 'hit_percentage_high_all': 42.77, 'hit_percentage_low_trend': 48.28, 'hit_percentage_low_all': 45.18, 'hit_percentage_close_trend': 60.34, 'hit_percentage_close_all': 57.83}, 'Shooting Star': {'occurance_trend': 52, 'all_occurance': 164, 'hit_percentage_high_trend': 71.15, 'hit_percentage_high_all': 67.07, 'hit_percentage_low_trend': 71.15, 'hit_percentage_low_all': 67.68, 'hit_percentage_close_trend': 53.85, 'hit_percentage_close_all': 50.61}}, 8: {'Hammer': {'occurance_trend': 54, 'all_occurance': 98, 'hit_percentage_high_trend': 55.56, 'hit_percentage_high_all': 58.16, 'hit_percentage_low_trend': 53.7, 'hit_percentage_low_all': 57.14, 'hit_percentage_close_trend': 29.63, 'hit_percentage_close_all': 36.73}, 'Inverted Hammer': {'occurance_trend': 111, 'all_occurance': 209, 'hit_percentage_high_trend': 27.03, 'hit_percentage_high_all': 32.06, 'hit_percentage_low_trend': 27.93, 'hit_percentage_low_all': 32.54, 'hit_percentage_close_trend': 33.33, 'hit_percentage_close_all': 37.8}, 'Random': {'occurance_trend': 639, 'all_occurance': 640, 'hit_percentage_high_trend': 41.94, 'hit_percentage_high_all': 42.03, 'hit_percentage_low_trend': 43.66, 'hit_percentage_low_all': 43.75, 'hit_percentage_close_trend': 41.47, 'hit_percentage_close_all': 41.56}, 'Hanging Man': {'occurance_trend': 51, 'all_occurance': 166, 'hit_percentage_high_trend': 39.22, 'hit_percentage_high_all': 46.99, 'hit_percentage_low_trend': 33.33, 'hit_percentage_low_all': 48.19, 'hit_percentage_close_trend': 50.98, 'hit_percentage_close_all': 61.45}, 'Shooting Star': {'occurance_trend': 59, 'all_occurance': 164, 'hit_percentage_high_trend': 72.88, 'hit_percentage_high_all': 67.68, 'hit_percentage_low_trend': 67.8, 'hit_percentage_low_all': 67.07, 'hit_percentage_close_trend': 61.02, 'hit_percentage_close_all': 54.27}}}"
+      "commentry": "This is a commentry on the following data {2: {'Hammer': {'occurance_trend': 53, 'all_occurance': 98, 'hit_percentage_high_trend': 77.36, 'hit_percentage_high_all': 75.51, 'hit_percentage_low_trend': 81.13, 'hit_percentage_low_all': 77.55, 'hit_percentage_close_trend': 50.94, 'hit_percentage_close_all': 41.84}, 'Inverted Hammer': {'occurance_trend': 117, 'all_occurance': 209, 'hit_percentage_high_trend': 35.04, 'hit_percentage_high_all': 36.84, 'hit_percentage_low_trend': 31.62, 'hit_percentage_low_all': 35.41, 'hit_percentage_close_trend': 39.32, 'hit_percentage_close_all': 44.5}, 'Random': {'occurance_trend': 478, 'all_occurance': 1216, 'hit_percentage_high_trend': 46.86, 'hit_percentage_high_all': 42.27, 'hit_percentage_low_trend': 46.03, 'hit_percentage_low_all': 45.07, 'hit_percentage_close_trend': 46.86, 'hit_percentage_close_all': 42.43}, \"Random'\": {'occurance_trend': 478, 'all_occurance': 1216, 'hit_percentage_high_trend': 46.86, 'hit_percentage_high_all': 42.27, 'hit_percentage_low_trend': 46.03, 'hit_percentage_low_all': 45.07, 'hit_percentage_close_trend': 46.86, 'hit_percentage_close_all': 42.43}, 'Hanging Man': {'occurance_trend': 62, 'all_occurance': 166, 'hit_percentage_high_trend': 27.42, 'hit_percentage_high_all': 37.35, 'hit_percentage_low_trend': 37.1, 'hit_percentage_low_all': 37.95, 'hit_percentage_close_trend': 58.06, 'hit_percentage_close_all': 60.84}, 'Shooting Star': {'occurance_trend': 60, 'all_occurance': 164, 'hit_percentage_high_trend': 78.33, 'hit_percentage_high_all': 68.9, 'hit_percentage_low_trend': 80.0, 'hit_percentage_low_all': 73.17, 'hit_percentage_close_trend': 55.0, 'hit_percentage_close_all': 48.17}}, 4: {'Hammer': {'occurance_trend': 53, 'all_occurance': 98, 'hit_percentage_high_trend': 67.92, 'hit_percentage_high_all': 66.33, 'hit_percentage_low_trend': 56.6, 'hit_percentage_low_all': 61.22, 'hit_percentage_close_trend': 28.3, 'hit_percentage_close_all': 36.73}, 'Inverted Hammer': {'occurance_trend': 108, 'all_occurance': 209, 'hit_percentage_high_trend': 26.85, 'hit_percentage_high_all': 34.93, 'hit_percentage_low_trend': 21.3, 'hit_percentage_low_all': 31.1, 'hit_percentage_close_trend': 36.11, 'hit_percentage_close_all': 43.06}, 'Random': {'occurance_trend': 438, 'all_occurance': 1216, 'hit_percentage_high_trend': 43.38, 'hit_percentage_high_all': 39.31, 'hit_percentage_low_trend': 44.29, 'hit_percentage_low_all': 42.27, 'hit_percentage_close_trend': 42.01, 'hit_percentage_close_all': 40.46}, \"Random'\": {'occurance_trend': 438, 'all_occurance': 1216, 'hit_percentage_high_trend': 43.38, 'hit_percentage_high_all': 39.31, 'hit_percentage_low_trend': 44.29, 'hit_percentage_low_all': 42.27, 'hit_percentage_close_trend': 42.01, 'hit_percentage_close_all': 40.46}, 'Hanging Man': {'occurance_trend': 58, 'all_occurance': 166, 'hit_percentage_high_trend': 43.1, 'hit_percentage_high_all': 42.77, 'hit_percentage_low_trend': 48.28, 'hit_percentage_low_all': 45.18, 'hit_percentage_close_trend': 60.34, 'hit_percentage_close_all': 57.83}, 'Shooting Star': {'occurance_trend': 52, 'all_occurance': 164, 'hit_percentage_high_trend': 71.15, 'hit_percentage_high_all': 67.07, 'hit_percentage_low_trend': 71.15, 'hit_percentage_low_all': 67.68, 'hit_percentage_close_trend': 53.85, 'hit_percentage_close_all': 50.61}}, 8: {'Hammer': {'occurance_trend': 54, 'all_occurance': 98, 'hit_percentage_high_trend': 55.56, 'hit_percentage_high_all': 58.16, 'hit_percentage_low_trend': 53.7, 'hit_percentage_low_all': 57.14, 'hit_percentage_close_trend': 29.63, 'hit_percentage_close_all': 36.73}, 'Inverted Hammer': {'occurance_trend': 111, 'all_occurance': 209, 'hit_percentage_high_trend': 27.03, 'hit_percentage_high_all': 32.06, 'hit_percentage_low_trend': 27.93, 'hit_percentage_low_all': 32.54, 'hit_percentage_close_trend': 33.33, 'hit_percentage_close_all': 37.8}, 'Random': {'occurance_trend': 416, 'all_occurance': 1216, 'hit_percentage_high_trend': 39.42, 'hit_percentage_high_all': 37.01, 'hit_percentage_low_trend': 47.6, 'hit_percentage_low_all': 39.97, 'hit_percentage_close_trend': 40.38, 'hit_percentage_close_all': 38.16}, \"Random'\": {'occurance_trend': 416, 'all_occurance': 1216, 'hit_percentage_high_trend': 39.42, 'hit_percentage_high_all': 37.01, 'hit_percentage_low_trend': 47.6, 'hit_percentage_low_all': 39.97, 'hit_percentage_close_trend': 40.38, 'hit_percentage_close_all': 38.16}, 'Hanging Man': {'occurance_trend': 51, 'all_occurance': 166, 'hit_percentage_high_trend': 39.22, 'hit_percentage_high_all': 46.99, 'hit_percentage_low_trend': 33.33, 'hit_percentage_low_all': 48.19, 'hit_percentage_close_trend': 50.98, 'hit_percentage_close_all': 61.45}, 'Shooting Star': {'occurance_trend': 59, 'all_occurance': 164, 'hit_percentage_high_trend': 72.88, 'hit_percentage_high_all': 67.68, 'hit_percentage_low_trend': 67.8, 'hit_percentage_low_all': 67.07, 'hit_percentage_close_trend': 61.02, 'hit_percentage_close_all': 54.27}}}"
     }
   },
   "Low Floating": {
@@ -1299,14 +1539,24 @@
           "hit_percentage_close_all": 56.38
         },
         "Random": {
-          "occurance_trend": 477,
-          "all_occurance": 480,
-          "hit_percentage_high_trend": 53.25,
-          "hit_percentage_high_all": 52.92,
-          "hit_percentage_low_trend": 57.65,
-          "hit_percentage_low_all": 57.29,
-          "hit_percentage_close_trend": 56.39,
-          "hit_percentage_close_all": 56.46
+          "occurance_trend": 512,
+          "all_occurance": 964,
+          "hit_percentage_high_trend": 46.88,
+          "hit_percentage_high_all": 50.21,
+          "hit_percentage_low_trend": 48.44,
+          "hit_percentage_low_all": 50.83,
+          "hit_percentage_close_trend": 46.48,
+          "hit_percentage_close_all": 51.04
+        },
+        "Random'": {
+          "occurance_trend": 512,
+          "all_occurance": 964,
+          "hit_percentage_high_trend": 46.88,
+          "hit_percentage_high_all": 50.21,
+          "hit_percentage_low_trend": 48.44,
+          "hit_percentage_low_all": 50.83,
+          "hit_percentage_close_trend": 46.48,
+          "hit_percentage_close_all": 51.04
         },
         "Hanging Man": {
           "occurance_trend": 58,
@@ -1351,14 +1601,24 @@
           "hit_percentage_close_all": 59.06
         },
         "Random": {
-          "occurance_trend": 474,
-          "all_occurance": 480,
-          "hit_percentage_high_trend": 55.7,
-          "hit_percentage_high_all": 55.42,
-          "hit_percentage_low_trend": 58.44,
-          "hit_percentage_low_all": 58.13,
-          "hit_percentage_close_trend": 56.96,
-          "hit_percentage_close_all": 57.08
+          "occurance_trend": 446,
+          "all_occurance": 964,
+          "hit_percentage_high_trend": 52.47,
+          "hit_percentage_high_all": 55.81,
+          "hit_percentage_low_trend": 48.43,
+          "hit_percentage_low_all": 53.73,
+          "hit_percentage_close_trend": 48.43,
+          "hit_percentage_close_all": 54.36
+        },
+        "Random'": {
+          "occurance_trend": 446,
+          "all_occurance": 964,
+          "hit_percentage_high_trend": 52.47,
+          "hit_percentage_high_all": 55.81,
+          "hit_percentage_low_trend": 48.43,
+          "hit_percentage_low_all": 53.73,
+          "hit_percentage_close_trend": 48.43,
+          "hit_percentage_close_all": 54.36
         },
         "Hanging Man": {
           "occurance_trend": 65,
@@ -1403,14 +1663,24 @@
           "hit_percentage_close_all": 63.09
         },
         "Random": {
-          "occurance_trend": 472,
-          "all_occurance": 480,
-          "hit_percentage_high_trend": 56.99,
-          "hit_percentage_high_all": 56.88,
-          "hit_percentage_low_trend": 60.59,
-          "hit_percentage_low_all": 60.0,
-          "hit_percentage_close_trend": 58.9,
-          "hit_percentage_close_all": 59.17
+          "occurance_trend": 518,
+          "all_occurance": 964,
+          "hit_percentage_high_trend": 57.92,
+          "hit_percentage_high_all": 59.34,
+          "hit_percentage_low_trend": 60.23,
+          "hit_percentage_low_all": 59.34,
+          "hit_percentage_close_trend": 54.83,
+          "hit_percentage_close_all": 58.3
+        },
+        "Random'": {
+          "occurance_trend": 518,
+          "all_occurance": 964,
+          "hit_percentage_high_trend": 57.92,
+          "hit_percentage_high_all": 59.34,
+          "hit_percentage_low_trend": 60.23,
+          "hit_percentage_low_all": 59.34,
+          "hit_percentage_close_trend": 54.83,
+          "hit_percentage_close_all": 58.3
         },
         "Hanging Man": {
           "occurance_trend": 70,
@@ -1457,14 +1727,24 @@
           "hit_percentage_close_all": 52.38
         },
         "Random": {
-          "occurance_trend": 471,
-          "all_occurance": 477,
-          "hit_percentage_high_trend": 43.95,
-          "hit_percentage_high_all": 44.65,
-          "hit_percentage_low_trend": 46.07,
-          "hit_percentage_low_all": 46.75,
-          "hit_percentage_close_trend": 43.74,
-          "hit_percentage_close_all": 44.44
+          "occurance_trend": 374,
+          "all_occurance": 950,
+          "hit_percentage_high_trend": 48.66,
+          "hit_percentage_high_all": 43.58,
+          "hit_percentage_low_trend": 42.78,
+          "hit_percentage_low_all": 40.21,
+          "hit_percentage_close_trend": 44.92,
+          "hit_percentage_close_all": 42.32
+        },
+        "Random'": {
+          "occurance_trend": 374,
+          "all_occurance": 950,
+          "hit_percentage_high_trend": 48.66,
+          "hit_percentage_high_all": 43.58,
+          "hit_percentage_low_trend": 42.78,
+          "hit_percentage_low_all": 40.21,
+          "hit_percentage_close_trend": 44.92,
+          "hit_percentage_close_all": 42.32
         },
         "Hanging Man": {
           "occurance_trend": 73,
@@ -1509,14 +1789,24 @@
           "hit_percentage_close_all": 51.02
         },
         "Random": {
-          "occurance_trend": 466,
-          "all_occurance": 477,
-          "hit_percentage_high_trend": 44.21,
-          "hit_percentage_high_all": 44.86,
-          "hit_percentage_low_trend": 42.92,
-          "hit_percentage_low_all": 43.82,
-          "hit_percentage_close_trend": 41.2,
-          "hit_percentage_close_all": 42.14
+          "occurance_trend": 338,
+          "all_occurance": 950,
+          "hit_percentage_high_trend": 33.14,
+          "hit_percentage_high_all": 39.58,
+          "hit_percentage_low_trend": 34.91,
+          "hit_percentage_low_all": 38.95,
+          "hit_percentage_close_trend": 33.73,
+          "hit_percentage_close_all": 40.42
+        },
+        "Random'": {
+          "occurance_trend": 338,
+          "all_occurance": 950,
+          "hit_percentage_high_trend": 33.14,
+          "hit_percentage_high_all": 39.58,
+          "hit_percentage_low_trend": 34.91,
+          "hit_percentage_low_all": 38.95,
+          "hit_percentage_close_trend": 33.73,
+          "hit_percentage_close_all": 40.42
         },
         "Hanging Man": {
           "occurance_trend": 65,
@@ -1561,14 +1851,24 @@
           "hit_percentage_close_all": 45.58
         },
         "Random": {
-          "occurance_trend": 459,
-          "all_occurance": 477,
-          "hit_percentage_high_trend": 42.27,
-          "hit_percentage_high_all": 43.19,
-          "hit_percentage_low_trend": 39.87,
-          "hit_percentage_low_all": 41.09,
-          "hit_percentage_close_trend": 42.27,
-          "hit_percentage_close_all": 43.4
+          "occurance_trend": 258,
+          "all_occurance": 950,
+          "hit_percentage_high_trend": 31.78,
+          "hit_percentage_high_all": 36.0,
+          "hit_percentage_low_trend": 36.43,
+          "hit_percentage_low_all": 37.47,
+          "hit_percentage_close_trend": 37.21,
+          "hit_percentage_close_all": 37.68
+        },
+        "Random'": {
+          "occurance_trend": 258,
+          "all_occurance": 950,
+          "hit_percentage_high_trend": 31.78,
+          "hit_percentage_high_all": 36.0,
+          "hit_percentage_low_trend": 36.43,
+          "hit_percentage_low_all": 37.47,
+          "hit_percentage_close_trend": 37.21,
+          "hit_percentage_close_all": 37.68
         },
         "Hanging Man": {
           "occurance_trend": 50,
@@ -1591,7 +1891,7 @@
           "hit_percentage_close_all": 60.82
         }
       },
-      "commentry": "This is a commentry on the following data {2: {'Hammer': {'occurance_trend': 62, 'all_occurance': 110, 'hit_percentage_high_trend': 61.29, 'hit_percentage_high_all': 56.36, 'hit_percentage_low_trend': 69.35, 'hit_percentage_low_all': 64.55, 'hit_percentage_close_trend': 41.94, 'hit_percentage_close_all': 40.0}, 'Inverted Hammer': {'occurance_trend': 88, 'all_occurance': 147, 'hit_percentage_high_trend': 38.64, 'hit_percentage_high_all': 38.78, 'hit_percentage_low_trend': 32.95, 'hit_percentage_low_all': 32.65, 'hit_percentage_close_trend': 52.27, 'hit_percentage_close_all': 52.38}, 'Random': {'occurance_trend': 471, 'all_occurance': 477, 'hit_percentage_high_trend': 43.95, 'hit_percentage_high_all': 44.65, 'hit_percentage_low_trend': 46.07, 'hit_percentage_low_all': 46.75, 'hit_percentage_close_trend': 43.74, 'hit_percentage_close_all': 44.44}, 'Hanging Man': {'occurance_trend': 73, 'all_occurance': 179, 'hit_percentage_high_trend': 52.05, 'hit_percentage_high_all': 48.04, 'hit_percentage_low_trend': 42.47, 'hit_percentage_low_all': 43.58, 'hit_percentage_close_trend': 61.64, 'hit_percentage_close_all': 59.22}, 'Shooting Star': {'occurance_trend': 30, 'all_occurance': 97, 'hit_percentage_high_trend': 70.0, 'hit_percentage_high_all': 74.23, 'hit_percentage_low_trend': 80.0, 'hit_percentage_low_all': 83.51, 'hit_percentage_close_trend': 46.67, 'hit_percentage_close_all': 49.48}}, 4: {'Hammer': {'occurance_trend': 65, 'all_occurance': 110, 'hit_percentage_high_trend': 63.08, 'hit_percentage_high_all': 57.27, 'hit_percentage_low_trend': 67.69, 'hit_percentage_low_all': 61.82, 'hit_percentage_close_trend': 47.69, 'hit_percentage_close_all': 41.82}, 'Inverted Hammer': {'occurance_trend': 91, 'all_occurance': 147, 'hit_percentage_high_trend': 43.96, 'hit_percentage_high_all': 43.54, 'hit_percentage_low_trend': 37.36, 'hit_percentage_low_all': 34.69, 'hit_percentage_close_trend': 51.65, 'hit_percentage_close_all': 51.02}, 'Random': {'occurance_trend': 466, 'all_occurance': 477, 'hit_percentage_high_trend': 44.21, 'hit_percentage_high_all': 44.86, 'hit_percentage_low_trend': 42.92, 'hit_percentage_low_all': 43.82, 'hit_percentage_close_trend': 41.2, 'hit_percentage_close_all': 42.14}, 'Hanging Man': {'occurance_trend': 65, 'all_occurance': 179, 'hit_percentage_high_trend': 50.77, 'hit_percentage_high_all': 51.4, 'hit_percentage_low_trend': 49.23, 'hit_percentage_low_all': 50.84, 'hit_percentage_close_trend': 61.54, 'hit_percentage_close_all': 64.8}, 'Shooting Star': {'occurance_trend': 29, 'all_occurance': 97, 'hit_percentage_high_trend': 65.52, 'hit_percentage_high_all': 67.01, 'hit_percentage_low_trend': 75.86, 'hit_percentage_low_all': 76.29, 'hit_percentage_close_trend': 55.17, 'hit_percentage_close_all': 52.58}}, 8: {'Hammer': {'occurance_trend': 68, 'all_occurance': 110, 'hit_percentage_high_trend': 52.94, 'hit_percentage_high_all': 52.73, 'hit_percentage_low_trend': 55.88, 'hit_percentage_low_all': 57.27, 'hit_percentage_close_trend': 35.29, 'hit_percentage_close_all': 39.09}, 'Inverted Hammer': {'occurance_trend': 93, 'all_occurance': 147, 'hit_percentage_high_trend': 46.24, 'hit_percentage_high_all': 40.82, 'hit_percentage_low_trend': 39.78, 'hit_percentage_low_all': 35.37, 'hit_percentage_close_trend': 50.54, 'hit_percentage_close_all': 45.58}, 'Random': {'occurance_trend': 459, 'all_occurance': 477, 'hit_percentage_high_trend': 42.27, 'hit_percentage_high_all': 43.19, 'hit_percentage_low_trend': 39.87, 'hit_percentage_low_all': 41.09, 'hit_percentage_close_trend': 42.27, 'hit_percentage_close_all': 43.4}, 'Hanging Man': {'occurance_trend': 50, 'all_occurance': 179, 'hit_percentage_high_trend': 46.0, 'hit_percentage_high_all': 54.19, 'hit_percentage_low_trend': 46.0, 'hit_percentage_low_all': 60.34, 'hit_percentage_close_trend': 54.0, 'hit_percentage_close_all': 65.36}, 'Shooting Star': {'occurance_trend': 34, 'all_occurance': 97, 'hit_percentage_high_trend': 73.53, 'hit_percentage_high_all': 71.13, 'hit_percentage_low_trend': 70.59, 'hit_percentage_low_all': 75.26, 'hit_percentage_close_trend': 58.82, 'hit_percentage_close_all': 60.82}}}"
+      "commentry": "This is a commentry on the following data {2: {'Hammer': {'occurance_trend': 62, 'all_occurance': 110, 'hit_percentage_high_trend': 61.29, 'hit_percentage_high_all': 56.36, 'hit_percentage_low_trend': 69.35, 'hit_percentage_low_all': 64.55, 'hit_percentage_close_trend': 41.94, 'hit_percentage_close_all': 40.0}, 'Inverted Hammer': {'occurance_trend': 88, 'all_occurance': 147, 'hit_percentage_high_trend': 38.64, 'hit_percentage_high_all': 38.78, 'hit_percentage_low_trend': 32.95, 'hit_percentage_low_all': 32.65, 'hit_percentage_close_trend': 52.27, 'hit_percentage_close_all': 52.38}, 'Random': {'occurance_trend': 374, 'all_occurance': 950, 'hit_percentage_high_trend': 48.66, 'hit_percentage_high_all': 43.58, 'hit_percentage_low_trend': 42.78, 'hit_percentage_low_all': 40.21, 'hit_percentage_close_trend': 44.92, 'hit_percentage_close_all': 42.32}, \"Random'\": {'occurance_trend': 374, 'all_occurance': 950, 'hit_percentage_high_trend': 48.66, 'hit_percentage_high_all': 43.58, 'hit_percentage_low_trend': 42.78, 'hit_percentage_low_all': 40.21, 'hit_percentage_close_trend': 44.92, 'hit_percentage_close_all': 42.32}, 'Hanging Man': {'occurance_trend': 73, 'all_occurance': 179, 'hit_percentage_high_trend': 52.05, 'hit_percentage_high_all': 48.04, 'hit_percentage_low_trend': 42.47, 'hit_percentage_low_all': 43.58, 'hit_percentage_close_trend': 61.64, 'hit_percentage_close_all': 59.22}, 'Shooting Star': {'occurance_trend': 30, 'all_occurance': 97, 'hit_percentage_high_trend': 70.0, 'hit_percentage_high_all': 74.23, 'hit_percentage_low_trend': 80.0, 'hit_percentage_low_all': 83.51, 'hit_percentage_close_trend': 46.67, 'hit_percentage_close_all': 49.48}}, 4: {'Hammer': {'occurance_trend': 65, 'all_occurance': 110, 'hit_percentage_high_trend': 63.08, 'hit_percentage_high_all': 57.27, 'hit_percentage_low_trend': 67.69, 'hit_percentage_low_all': 61.82, 'hit_percentage_close_trend': 47.69, 'hit_percentage_close_all': 41.82}, 'Inverted Hammer': {'occurance_trend': 91, 'all_occurance': 147, 'hit_percentage_high_trend': 43.96, 'hit_percentage_high_all': 43.54, 'hit_percentage_low_trend': 37.36, 'hit_percentage_low_all': 34.69, 'hit_percentage_close_trend': 51.65, 'hit_percentage_close_all': 51.02}, 'Random': {'occurance_trend': 338, 'all_occurance': 950, 'hit_percentage_high_trend': 33.14, 'hit_percentage_high_all': 39.58, 'hit_percentage_low_trend': 34.91, 'hit_percentage_low_all': 38.95, 'hit_percentage_close_trend': 33.73, 'hit_percentage_close_all': 40.42}, \"Random'\": {'occurance_trend': 338, 'all_occurance': 950, 'hit_percentage_high_trend': 33.14, 'hit_percentage_high_all': 39.58, 'hit_percentage_low_trend': 34.91, 'hit_percentage_low_all': 38.95, 'hit_percentage_close_trend': 33.73, 'hit_percentage_close_all': 40.42}, 'Hanging Man': {'occurance_trend': 65, 'all_occurance': 179, 'hit_percentage_high_trend': 50.77, 'hit_percentage_high_all': 51.4, 'hit_percentage_low_trend': 49.23, 'hit_percentage_low_all': 50.84, 'hit_percentage_close_trend': 61.54, 'hit_percentage_close_all': 64.8}, 'Shooting Star': {'occurance_trend': 29, 'all_occurance': 97, 'hit_percentage_high_trend': 65.52, 'hit_percentage_high_all': 67.01, 'hit_percentage_low_trend': 75.86, 'hit_percentage_low_all': 76.29, 'hit_percentage_close_trend': 55.17, 'hit_percentage_close_all': 52.58}}, 8: {'Hammer': {'occurance_trend': 68, 'all_occurance': 110, 'hit_percentage_high_trend': 52.94, 'hit_percentage_high_all': 52.73, 'hit_percentage_low_trend': 55.88, 'hit_percentage_low_all': 57.27, 'hit_percentage_close_trend': 35.29, 'hit_percentage_close_all': 39.09}, 'Inverted Hammer': {'occurance_trend': 93, 'all_occurance': 147, 'hit_percentage_high_trend': 46.24, 'hit_percentage_high_all': 40.82, 'hit_percentage_low_trend': 39.78, 'hit_percentage_low_all': 35.37, 'hit_percentage_close_trend': 50.54, 'hit_percentage_close_all': 45.58}, 'Random': {'occurance_trend': 258, 'all_occurance': 950, 'hit_percentage_high_trend': 31.78, 'hit_percentage_high_all': 36.0, 'hit_percentage_low_trend': 36.43, 'hit_percentage_low_all': 37.47, 'hit_percentage_close_trend': 37.21, 'hit_percentage_close_all': 37.68}, \"Random'\": {'occurance_trend': 258, 'all_occurance': 950, 'hit_percentage_high_trend': 31.78, 'hit_percentage_high_all': 36.0, 'hit_percentage_low_trend': 36.43, 'hit_percentage_low_all': 37.47, 'hit_percentage_close_trend': 37.21, 'hit_percentage_close_all': 37.68}, 'Hanging Man': {'occurance_trend': 50, 'all_occurance': 179, 'hit_percentage_high_trend': 46.0, 'hit_percentage_high_all': 54.19, 'hit_percentage_low_trend': 46.0, 'hit_percentage_low_all': 60.34, 'hit_percentage_close_trend': 54.0, 'hit_percentage_close_all': 65.36}, 'Shooting Star': {'occurance_trend': 34, 'all_occurance': 97, 'hit_percentage_high_trend': 73.53, 'hit_percentage_high_all': 71.13, 'hit_percentage_low_trend': 70.59, 'hit_percentage_low_all': 75.26, 'hit_percentage_close_trend': 58.82, 'hit_percentage_close_all': 60.82}}}"
     }
   }
 }

@@ -593,6 +593,7 @@ pattern_with_names = {
     "CDLHAMMER": "Hammer",
     "CDLINVERTEDHAMMER": "Inverted Hammer",
     "random": "Random",
+    "random'": "Random'",
     # "CDLENGULFING": "Engulfing Pattern",
     # "CDLPIERCING": "Piercing Pattern",
     # "CDLMORNINGSTAR": "Morning Star",

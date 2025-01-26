@@ -7,7 +7,10 @@ def merge_jsons():
     # merge all the candle data into one file  and call it all_candles.json
     all_candles = []
     for candle_id, candle_name in pattern_with_names.items():
-        file_path = os.path.join(np_data_path_candles, f"{candle_name}.json")
+        if(candle_name == "Random'"):
+            file_path = os.path.join(np_data_path_candles, "Random.json")
+        else:
+            file_path = os.path.join(np_data_path_candles, f"{candle_name}.json")
         with open(file_path, "r", encoding="utf-8") as f:
             data = json.load(f)
             if isinstance(data, list):
@@ -86,7 +89,7 @@ def compute_category_analytics():
                     for duration in durations:
                         analytics[sector][trend][duration] = {}
                         for candle_id, candle_name in pattern_with_names.items():
-                            all_data = pattern_data[candle_name]
+                            all_data = pattern_data[candle_name.replace("'", "")]
                             data_following_trend = [
                                 item
                                 for item in all_data
@@ -256,6 +259,6 @@ def get_analytics_commentry(data):
 
 
 def compute_descriptive_stats():
-    # merge_jsons()
-    # categorize_stats()
+    merge_jsons()
+    categorize_stats()
     compute_category_analytics()
