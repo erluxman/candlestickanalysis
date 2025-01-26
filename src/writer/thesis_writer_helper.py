@@ -1,3 +1,4 @@
+import random
 import src.steps.docx_output.docx_writer as writer
 from src.constants.constants import *
 from docx import Document
@@ -93,106 +94,78 @@ def write_all_descriptive_analysis(document_order):
                 writer.add_paragraph(
                     thesis_body,
                     f"Table {table_no}. Candles Observation for {sector} Stocks in {long_trend} Market",
+                    small_font=True,
                 )
                 table_no += 1
     writer.save_document(thesis_body, writer.thesis_path)
 
 
 def analyze_candle_patterns(
-    data, sector="technology", market_trend="bullish", table_no=1
+    table_data, sector="technology", market_trend="bullish", table_no=1
 ):
-    analysis = f"""The table no {table_no} examines candlestick pattern predictive capabilities in the {sector.capitalize()} sector 
+    analysis = f"""The Table no. {table_no} examines candlestick pattern predictive capabilities in the {sector.capitalize()} sector 
 during a long-term {market_trend} market. \n\n"""
-
-    # Comparative analysis framework
-    horizon_observations = []
-    cross_horizon_trends = {
-        "high_predictors": {},
-        "low_predictors": {},
-        "close_predictors": {},
+    random_connective_words_negative = [
+        "however",
+        "on the other hand",
+        "conversely",
+        "in contrast",
+    ]
+    random_connective_words_positive = [
+        "Furthermore, ",
+        "Additionally, ",
+        "Likewise, ",
+        "Similarly, ",
+        "And, ",
+    ]
+    stats_description = ""
+    used_connectives = True
+    is_positive_explanation = True
+    explanations = {
+        "hit_percentage_high_trend": "High criteria with trend",
+        "hit_percentage_high_all": "High criteria regardless of trend",
+        "hit_percentage_low_trend": "Low criteria with trend",
+        "hit_percentage_low_all": "Low criteria regardless of trend",
+        "hit_percentage_close_trend": "Close criteria with trend",
+        "hit_percentage_close_all": "Close criteria regardless of trend",
     }
+    for period, candles in table_data.items():
+        if period == "commentry":
+            continue
+        random_performance = candles.get("Random", {})
+        random_bearish_performance = candles.get("Random*", {})
 
-    for horizon in sorted([key for key in data.keys() if key.isdigit()], key=int):
-        horizon_data = data[horizon]
-        random_baseline = horizon_data.get("Random", {})
-
-        # Find outperforming patterns
-        top_high = max(
-            horizon_data.items(), key=lambda x: x[1].get("hit_percentage_high_trend", 0)
-        )
-        top_low = max(
-            horizon_data.items(), key=lambda x: x[1].get("hit_percentage_low_trend", 0)
-        )
-        top_close = max(
-            horizon_data.items(),
-            key=lambda x: x[1].get("hit_percentage_close_trend", 0),
-        )
-
-        horizon_text = f"{horizon}-Day Horizon:\n"
-        horizon_text += f"- Top high predictor: {top_high[0]} ({top_high[1]['hit_percentage_high_trend']}% trend)"
-        if top_high[1]["hit_percentage_high_trend"] > random_baseline.get(
-            "hit_percentage_high_trend", 0
-        ):
-            diff = (
-                top_high[1]["hit_percentage_high_trend"]
-                - random_baseline["hit_percentage_high_trend"]
+        for candle, candle_data in candles.items():
+            criteria_success = []
+            if candle == "Random" or candle == "Random*":
+                continue
+            is_bullish = (
+                True if (candle == "Hammer") or (candle == "I. Hammer") else False
             )
-            horizon_text += f" outperforming random by {diff:.1f}pp\n"
-
-        horizon_text += f"- Top close predictor: {top_close[0]} ({top_close[1]['hit_percentage_close_trend']}% trend)"
-        if top_close[1]["hit_percentage_close_trend"] > random_baseline.get(
-            "hit_percentage_close_trend", 0
-        ):
-            diff = (
-                top_close[1]["hit_percentage_close_trend"]
-                - random_baseline["hit_percentage_close_trend"]
+            random_to_compare = (
+                random_performance if is_bullish else random_bearish_performance
             )
-            horizon_text += f", {diff:.1f}pp above random baseline\n"
-
-        # Track cross-horizon performance
-        for metric in cross_horizon_trends:
-            pattern_name = locals()[f"top_{metric.split('_')[0]}"][0]
-            cross_horizon_trends[metric][horizon] = {
-                "pattern": pattern_name,
-                "value": locals()[f"top_{metric.split('_')[0]}"][1][
-                    f'hit_percentage_{metric.split("_")[0]}_trend'
-                ],
-            }
-
-        horizon_observations.append(horizon_text)
-
-    # Build cross-horizon analysis
-    analysis += "Temporal Performance Dynamics:\n"
-    for metric, trends in cross_horizon_trends.items():
-        analysis += f"{metric.replace('_', ' ').title()}:\n"
-        for horizon, values in trends.items():
-            analysis += f"- {horizon}D: {values['pattern']} ({values['value']}%)"
-            if int(horizon) > min(map(int, trends.keys())):
-                prev_horizon = str(int(horizon) - 2)
-                if prev_horizon in trends:
-                    prev = trends[prev_horizon]["value"]
-                    change = ((values["value"] - prev) / prev) * 100
-                    analysis += f" ({change:+.1f}% change from previous horizon)\n"
+            for key, value in candle_data.items():
+                if key not in explanations.keys():
+                    continue
+                random_value = random_to_compare.get(key, 0)
+                candle_value = value
+                if random_value + 20 < candle_value:
+                    criteria_success.append(explanations[key])
+            if len(criteria_success) > 0:
+                if not used_connectives:
+                    stats_description += random.choice(random_connective_words_positive)
+                    used_connectives = True
                 else:
-                    analysis += "\n"
-            else:
-                analysis += "\n"
+                    connector = random.choice(random_connective_words_positive)
+                    if len(stats_description) > 0:
+                        stats_description += (
+                            f"\n\n{connector if random.choice([True, False]) else ''}"
+                        )
+                        used_connectives = False
+                stats_description += f"{candle.replace("I.","Inverted")} shows strong performance when {', '.join(criteria_success)} is used instead of picking stocks randomly when we want to pick and hold for {period} Days in average. "
 
-    # Market context analysis
-    analysis += f"\nMarket Context Considerations:\n"
-    analysis += f"In the observed {market_trend} market environment:\n"
-    analysis += (
-        "- Reversal patterns show amplified performance during market extremes\n"
-        if market_trend == "bearish"
-        else "- Continuation patterns demonstrate enhanced reliability during sustained trends\n"
-    )
-    analysis += f"Sector characteristics ({sector}) may influence pattern prevalence, though exact sector-specific effects require further study\n"
-
-    # Final conclusions
-    analysis += "\nConclusion:\n"
-    analysis += "Significant temporal dependence observed in pattern efficacy, with most predictive value concentrated in shorter horizons. "
-    analysis += "Market context and sector dynamics appear to modulate pattern reliability, though controlled studies are needed to quantify these effects."
-
+    analysis += stats_description
     return analysis
 
 

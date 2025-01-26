@@ -17,11 +17,19 @@ def add_sub_heading(doc, text, level=2):
     doc.add_heading(text, level)
 
 
-def add_paragraph(doc, text, style=None, bold=False):
-    paragraph = doc.add_paragraph(text, style=style)
+from docx.shared import Pt  # Make sure to import Pt
+
+
+def add_paragraph(doc, text, style=None, bold=False, small_font=False):
+    paragraph = doc.add_paragraph(style=style)
+    run = paragraph.add_run(text)
+
     if bold:
-        for run in paragraph.runs:
-            run.bold = True
+        run.bold = True
+    if small_font:
+        run.font.size = Pt(8)  # Use Pt() for point measurements
+
+    return paragraph
 
 
 def add_table(doc, data, style="Table Grid"):
