@@ -244,7 +244,7 @@ def add_table_descriptive(doc, table_data):
             # Format values with proper string conversion
             row = [
                 f"{period}D" if i == 0 else "",
-                candle,
+                candle.replace("Inverted", "I."),
                 str(data["occurance_trend"]),
                 str(data["all_occurance"]),
                 f"{data['hit_percentage_high_trend']:.1f}",
