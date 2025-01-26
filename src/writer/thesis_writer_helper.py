@@ -173,7 +173,6 @@ def clear_thesis():
 from docx import Document
 from docx.shared import Pt, RGBColor
 from docx.enum.table import WD_ALIGN_VERTICAL
-from docx.oxml.shared import qn
 
 
 def add_table_descriptive(doc, table_data):
@@ -235,12 +234,12 @@ def add_table_descriptive(doc, table_data):
             for run in paragraph.runs:
                 run.font.size = Pt(10)
 
-    # Merge vertical headers
     for col in [0, 1]:
-        main_cell = table.cell(0, col).merge(table.cell(2, col))
+        main_cell = table.cell(0, col).merge(
+            table.cell(1, col)
+        )  
         main_cell.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
 
-    # ========== DATA SECTION ==========
     table_cells = []
     periods = [f"{d}" for d in durations]  # Make sure 'durations' is defined
 
@@ -261,9 +260,8 @@ def add_table_descriptive(doc, table_data):
             ]
             table_cells.append(row)
 
-    # Populate table data with conditional formatting
     for row_idx, row_data in enumerate(table_cells):
-        target_row = 3 + row_idx
+        target_row = 2 + row_idx  
         if target_row >= len(table.rows):
             table.add_row()
 
@@ -292,14 +290,14 @@ def add_table_descriptive(doc, table_data):
                             elif numeric_value < 40:
                                 run.font.color.rgb = RGBColor(0xFF, 0x00, 0x00)  # Red
                                 run.font.bold = False
-                            else:  # Reset formatting for values between 40-60
+                            else:  # Reset formatting
                                 run.font.color.rgb = RGBColor(0x00, 0x00, 0x00)  # Black
                                 run.font.bold = False
                         except (ValueError, AttributeError):
-                            pass  # Handle non-numeric values
+                            pass
 
-    # Merge period cells vertically
-    current_row = 3
+    # Merge period cells vertically (FIXED: Start at row 2)
+    current_row = 2  # Changed from 3
     for period in periods:
         period_rows = sum(1 for row in table_cells if row[0].startswith(period))
         if period_rows > 1:
