@@ -5,6 +5,8 @@ import talib
 from src.constants.constants import *
 from src.steps.calculate_manual_candles import manual_candle
 
+#candle count 1089+1910+2225+1466  = 6690
+
 # 760+760+759+752+760+772+772+769+770+765+763+762+760+757+758+756+762+768+761+760+768+770<- days before 24th
 
 
@@ -64,6 +66,8 @@ def is_in_desired_trend(candle_type, trend_value):
         return trend_value == 1
     elif candle_type == "CDLSHOOTINGSTAR":
         return trend_value == 1
+    elif candle_type == "random":
+        return True
     else:
         return False
 
@@ -324,6 +328,8 @@ def calculate_candleSticks(input_directory, output_directory, market):
     # fetch all the candles to calculate
     for key, value in pattern_with_names.items():
         print(f"{key} -> {value}")
+        if(key=="random"):
+            continue
         # read all files from the directory
         candle_path = os.path.join(output_directory, f"{value}.json")
         random_candle_path = os.path.join(output_directory, "random.json")
