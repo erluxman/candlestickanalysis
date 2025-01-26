@@ -6,6 +6,6 @@ from src.steps.compute_descriptive_stats import *
 # prepareData()
 # calculate_candleSticks()
 ##### compose_transformation_result()
-compute_descriptive_stats()
+# compute_descriptive_stats()
 
-# write_thesis()
+write_thesis()

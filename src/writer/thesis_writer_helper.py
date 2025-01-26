@@ -2,6 +2,8 @@ import src.steps.docx_output.docx_writer as writer
 from src.constants.constants import *
 from docx import Document
 from docx.shared import Pt
+from docx.enum.table import WD_ALIGN_VERTICAL
+import json
 
 
 def write_dummy_thesis():
@@ -69,21 +71,29 @@ def write_shortterm_trends(document_order):
 
 
 def write_all_descriptive_analysis(document_order):
+    descriptive_analysis_file = (
+        f"{np_data_path_descriptive_stats}/descriptive_analytics.json"
+    )
     thesis_body = writer.thesis_body()
-    writer.add_heading(thesis_body, f"{document_order} Descriptive Analysis:", level=1)
-    table_no = 1
-    for sector, tickers in sectors_under_study.items():
-        for long_trend in long_trends:
-            writer.add_paragraph(
-                thesis_body, get_random_descriptive_analysis_text(table_no)
-            )
-            add_table_descriptive(thesis_body)
+    with open(descriptive_analysis_file, "r") as file:
+        descriptive_data = json.load(file)
+        writer.add_heading(
+            thesis_body, f"{document_order} Descriptive Analysis:", level=1
+        )
+        table_no = 1
+        for sector, tickers in sectors_under_study.items():
+            for long_trend in long_trends:
+                table_data = descriptive_data[sector][long_trend.lower()]
+                writer.add_paragraph(
+                    thesis_body, get_random_descriptive_analysis_text(table_no)
+                )
+                add_table_descriptive(thesis_body, table_data)
 
-            writer.add_paragraph(
-                thesis_body,
-                f"Table {table_no}. Candles Observation for {sector} Stocks in {long_trend} Market",
-            )
-            table_no += 1
+                writer.add_paragraph(
+                    thesis_body,
+                    f"Table {table_no}. Candles Observation for {sector} Stocks in {long_trend} Market",
+                )
+                table_no += 1
     writer.save_document(thesis_body, writer.thesis_path)
 
 
@@ -160,16 +170,16 @@ def clear_thesis():
     writer.clear_thesis()
 
 
-def add_table_descriptive(doc):
-    # Create table with 18 rows (3 header + 15 data) and 10 columns
-    table = doc.add_table(rows=18, cols=10)
+def add_table_descriptive(doc, table_data):
+    # Create table with appropriate dimensions
+    table = doc.add_table(rows=21, cols=10)
     table.style = "Table Grid"
     table.autofit = False
 
     # ===== COLUMN WIDTH CONFIGURATION =====
     column_widths = [
-        360000,  # 1cm - Period column
-        940000,  # 3cm - Candles column
+        360000,  # Period column
+        940000,  # Candles column
         420000,
         420000,
         360000,
@@ -179,108 +189,98 @@ def add_table_descriptive(doc):
         360000,
         360000,
     ]
-
     for idx, width in enumerate(column_widths):
         table.columns[idx].width = width
 
     # ========== HEADER SECTION ==========
-    def merge_cells(cell1, cell2):
-        cell1.merge(cell2)
-
-    # Main headers with proper font sizing
     def set_header_cell(cell, text):
         cell.text = text
         for paragraph in cell.paragraphs:
+            paragraph.alignment = 1  # Center alignment
             for run in paragraph.runs:
-                run.font.size = Pt(10)  # Apply to runs instead of paragraph style
+                run.font.size = Pt(10)
+                run.font.bold = True
 
-    set_header_cell(table.cell(0, 0), "Period")
-    set_header_cell(table.cell(0, 1), "Candles")
+    # Main headers
+    headers = [
+        ("Period", 0, 0),
+        ("Candles", 0, 1),
+        ("Occurance", 0, 2, 3),
+        ("Hit(%) HIGH", 0, 4, 5),
+        ("Hit(%) LOW", 0, 6, 7),
+        ("Hit(%) Close", 0, 8, 9),
+    ]
 
-    # Merge and set header columns
-    header_data = {
-        (2, 3): "Occurance",
-        (4, 5): "Hit(%) HIGH",
-        (6, 7): "Hit(%) LOW",
-        (8, 9): "Hit(%) Close",
-    }
+    # Create merged headers
+    for header in headers:
+        if len(header) == 3:
+            set_header_cell(table.cell(0, header[1]), header[0])
+        else:
+            cell = table.cell(0, header[2]).merge(table.cell(0, header[3]))
+            set_header_cell(cell, header[0])
 
-    for cols, text in header_data.items():
-        merge_cells(table.cell(0, cols[0]), table.cell(0, cols[1]))
-        set_header_cell(table.cell(0, cols[0]), text)
-
-    # Sub-headers with proper font sizing
-    for row in [1, 2]:
-        for col in [2, 3, 4, 5, 6, 7, 8, 9]:
-            cell = table.cell(row, col)
-            cell.text = "Trend" if row == 1 else ("YES" if col % 2 == 0 else "No")
-            for paragraph in cell.paragraphs:
-                for run in paragraph.runs:
-                    run.font.size = Pt(10)  # Apply to runs
-
-    # Merge vertical cells properly (merge row 0-2 sequentially)
-    for col in [0, 1]:
-        # First merge row 0 and 1
-        merge_cells(table.cell(0, col), table.cell(1, col))
-        # Then merge the result with row 2
-        merge_cells(table.cell(0, col), table.cell(2, col))
-        # Set font for merged cells
-        for paragraph in table.cell(0, col).paragraphs:
+    # Sub-headers
+    sub_headers = [("Trend", "All", "Trend", "All", "Trend", "All", "Trend", "All")]
+    for col, text in enumerate(sub_headers[0], start=2):
+        cell = table.cell(1, col)
+        cell.text = text
+        for paragraph in cell.paragraphs:
+            paragraph.alignment = 1
             for run in paragraph.runs:
                 run.font.size = Pt(10)
 
+    # Merge vertical headers
+    for col in [0, 1]:
+        main_cell = table.cell(0, col).merge(table.cell(2, col))
+        main_cell.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
+
     # ========== DATA SECTION ==========
-    data = [
-        ["2D", "Hammer", "2310", "2310", "15", "30", "15", "30", "15", "30"],
-        ["", "I. Hammer", "2050", "2050", "35", "25", "35", "25", "35", "25"],
-        ["", "Shooting Star", "1980", "1980", "25", "30", "25", "30", "25", "30"],
-        ["", "Hanging Man", "2150", "2150", "40", "20", "40", "20", "40", "20"],
-        ["", "Random", "1850", "1850", "30", "36", "30", "36", "30", "36"],
-        ["4D", "Hammer", "2450", "2450", "30", "35", "30", "35", "30", "35"],
-        ["", "I. Hammer", "2100", "2100", "38", "22", "38", "22", "38", "22"],
-        ["", "Shooting Star", "1980", "1980", "25", "30", "25", "30", "25", "30"],
-        ["", "Hanging Man", "2150", "2150", "40", "20", "40", "20", "40", "20"],
-        ["", "Random", "1850", "1850", "30", "36", "30", "36", "30", "36"],
-        ["8D", "Hammer", "2750", "2750", "30", "35", "30", "35", "30", "35"],
-        ["", "I. Hammer", "2250", "2250", "42", "18", "42", "18", "42", "18"],
-        ["", "Shooting Star", "1980", "1980", "25", "30", "25", "30", "25", "30"],
-        ["", "Hanging Man", "2150", "2150", "40", "20", "40", "20", "40", "20"],
-        ["", "Random", "1850", "1850", "30", "36", "30", "36", "30", "36"],
-    ]
+    table_cells = []
+    periods = ["2", "4", "8"]  # Maintain order
 
-    # Populate data with proper font sizing
-    for row_idx, row_data in enumerate(data):
-        table_row = table.rows[3 + row_idx]
+    for period in periods:
+        candles = table_data.get(period, {})
+        for i, (candle, data) in enumerate(candles.items()):
+            # Format values with proper string conversion
+            row = [
+                f"{period}D" if i == 0 else "",
+                candle,
+                str(data["occurance_trend"]),
+                str(data["all_occurance"]),
+                f"{data['hit_percentage_high_trend']:.1f}",
+                f"{data['hit_percentage_high_all']:.1f}",
+                f"{data['hit_percentage_low_trend']:.1f}",
+                f"{data['hit_percentage_low_all']:.1f}",
+                f"{data['hit_percentage_close_trend']:.1f}",
+                f"{data['hit_percentage_close_all']:.1f}",
+            ]
+            table_cells.append(row)
+
+    # Populate table data
+    for row_idx, row_data in enumerate(table_cells):
+        target_row = 3 + row_idx  # Start after headers
+        if target_row >= len(table.rows):
+            table.add_row()
+
         for col_idx, value in enumerate(row_data):
-            if col_idx == 0 and not value:
-                continue
-
-            cell = table_row.cells[col_idx]
-            cell.text = str(value)
-
-            # Set font size on runs
+            cell = table.cell(target_row, col_idx)
+            cell.text = value
+            # Formatting
             for paragraph in cell.paragraphs:
+                paragraph.alignment = 1 if col_idx > 1 else 0  # Center-align numbers
                 for run in paragraph.runs:
                     run.font.size = Pt(10)
 
-            # Special formatting for candle names
-            if col_idx == 1:
-                paragraph = cell.paragraphs[0]
-                paragraph.paragraph_format.keep_lines_together = True
-                paragraph.paragraph_format.widow_control = False
-
-    # Merge period cells properly
-    for group_start in [0, 5, 10]:
-        start_row = 3 + group_start
-        end_row = start_row + 4
-        start_cell = table.cell(start_row, 0)
-        end_cell = table.cell(end_row, 0)
-        start_cell.merge(end_cell)
-
-        # Set font for merged cell
-        for paragraph in start_cell.paragraphs:
-            for run in paragraph.runs:
-                run.font.size = Pt(10)
+    # Merge period cells vertically
+    current_row = 3
+    for period in periods:
+        period_rows = sum(1 for row in table_cells if row[0].startswith(period))
+        if period_rows > 1:
+            start_cell = table.cell(current_row, 0)
+            end_cell = table.cell(current_row + period_rows - 1, 0)
+            start_cell.merge(end_cell)
+            start_cell.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
+        current_row += period_rows
 
     return doc
 

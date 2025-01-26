@@ -40,7 +40,7 @@ def save_analytics(result):
     if not os.path.exists(np_data_path_descriptive_stats):
         os.makedirs(np_data_path_descriptive_stats)
     with open(
-        os.path.join(np_data_path_descriptive_stats, "descriptive_anylitics.json"),
+        os.path.join(np_data_path_descriptive_stats, "descriptive_analytics.json"),
         "w",
     ) as outfile:
         json.dump(result, outfile)
