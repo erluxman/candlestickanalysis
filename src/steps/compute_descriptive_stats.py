@@ -78,14 +78,13 @@ def compute_category_analytics():
         data = json.load(f)
         analytics = {}
 
-        for trend, data in data.items():
-            analytics[trend] = {}
-            for sector, sector_data in data.items():
-                analytics[trend][sector] = {}
-                sector_analytics = {}
-                for pattern, pattern_data in sector_data["patterns"].items():
+        for sector, trend_data in data.items():
+            analytics[sector] = {}
+            for trend, patterns in trend_data.items():
+                analytics[sector][trend] = {}
+                for pattern, pattern_data in patterns.items():
                     for duration in durations:
-                        analytics[trend][sector][duration] = {}
+                        analytics[sector][trend][duration] = {}
                         for candle_id, candle_name in pattern_with_names.items():
                             occurance_trend = 100
                             all_occurance = 190
@@ -96,7 +95,7 @@ def compute_category_analytics():
                             hit_percentage_close_trend = 60
                             hit_percentage_close_all = 40
 
-                            analytics[trend][sector][duration][candle_name] = {
+                            analytics[sector][trend][duration][candle_name] = {
                                 "occurance_trend": occurance_trend,
                                 "all_occurance": all_occurance,
                                 "hit_percentage_high_trend": hit_percentage_high_trend,
@@ -113,4 +112,4 @@ def compute_category_analytics():
 def compute_descriptive_stats():
     merge_jsons()
     categorize_stats()
-    # compute_category_analytics()
+    compute_category_analytics()
