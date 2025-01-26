@@ -87,26 +87,16 @@ def compute_category_analytics():
                         analytics[sector][trend][duration] = {}
                         for candle_id, candle_name in pattern_with_names.items():
                             data_of_candle = pattern_data[candle_name]
-                            data_of_candle_with_corrent_trend = data_of_candle
-
-                            data_following_trend = []
-                            for item in data_of_candle:
-                                meta_data = item.get("meta_data")
-                                past_trend = meta_data.get("trend_past")
+                            data_following_trend = data_following_trend = [
+                                item
+                                for item in data_of_candle
                                 if (
-                                    past_trend is None
-                                    or len(past_trend.keys()) == 0
-                                    or past_trend.get(str(duration)) is None
-                                ):
-                                    data_following_trend.append(item)
-                                    continue
-                                trend_of_duration = past_trend[str(duration)]
-                                trend_is_correct = (
-                                    trend_of_duration["trend_present"] == True
+                                    item.get("meta_data", {})
+                                    .get("trend_past", {})
+                                    .get(str(duration), {})
+                                    .get("trend_present", False)
                                 )
-                                print("trend_is_correct", trend_is_correct)
-                                if trend_is_correct:
-                                    data_following_trend.append(item)
+                            ]
 
                             occurance_trend = len(data_following_trend)
                             all_occurance = len(data_of_candle)
