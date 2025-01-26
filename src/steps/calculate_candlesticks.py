@@ -71,6 +71,7 @@ def is_in_desired_trend(candle_type, trend_value):
     else:
         return False
 
+
 def predicts_up_trend(candle_type):
     if candle_type == "CDLHAMMER":
         return True
@@ -84,6 +85,7 @@ def predicts_up_trend(candle_type):
         return True
     else:
         return False
+
 
 def is_candle_approved(new_value, old_value, trend):
     if old_value is None or new_value is None:
@@ -165,30 +167,36 @@ def calculate_meta_data(patterns, df, stock_sector, stock, pattern, dates):
 
                 if index + interval < len(df):
                     ma = get_moving_avg_future(df, criteria, interval, index)
+                    ma_past_value = ma_past[criteria][interval]
+                    point_value = df.iloc[index][criteria]
                     percentage_change_from_past_ma = (
-                        (ma - ma_past[criteria][interval]) / ma_past[criteria][interval]
-                        if ma_past[criteria][interval]
-                        else 0
-                    )*100
+                        (ma - ma_past_value) / ma_past_value if ma_past_value else 0
+                    ) * 100
 
                     percentage_change_from_today = (
-                        (ma - df.iloc[index][criteria]) / df.iloc[index][criteria]
-                        if df.iloc[index][criteria]
-                        else 0
-                    )*100
-                    
-                    percentage_change_from_past_ma = round(percentage_change_from_past_ma, 2)
-                    percentage_change_from_today = round(percentage_change_from_today, 2)
-                    
-                    candle_approved_from_ma = is_candle_approved(ma, ma_past[criteria][interval], pattern)
-                    candle_approved_from_point = is_candle_approved(df.iloc[index][criteria], ma_past[criteria][interval], pattern)
+                        (ma - point_value) / point_value if point_value else 0
+                    ) * 100
+
+                    percentage_change_from_past_ma = round(
+                        percentage_change_from_past_ma, 2
+                    )
+                    percentage_change_from_today = round(
+                        percentage_change_from_today, 2
+                    )
+
+                    candle_approved_from_ma = is_candle_approved(
+                        ma, ma_past_value, pattern
+                    )
+                    candle_approved_from_point = is_candle_approved(
+                        ma, point_value, pattern
+                    )
 
                     ma_future[criteria][interval] = {
                         "ma_value": ma,
                         "change_percent_from_past_ma": percentage_change_from_past_ma,
                         "change_percent_from_today": percentage_change_from_today,
                         "candle_approved_from_ma": candle_approved_from_ma,
-                        "candle_approved_from_point": candle_approved_from_point
+                        "candle_approved_from_point": candle_approved_from_point,
                     }
                 else:
                     ma_future[criteria][interval] = None
