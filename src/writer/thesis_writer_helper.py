@@ -173,19 +173,27 @@ def write_all_inferal_analysis(document_order):
     thesis_body = writer.thesis_body()
     writer.add_heading(thesis_body, f"{document_order} Inferal Analysis:", level=1)
     table_no = 11
+    
+    descriptive_analysis_file = (
+        f"{np_data_path_descriptive_stats}/descriptive_analytics.json"
+    )
+    thesis_body = writer.thesis_body()
+    with open(descriptive_analysis_file, "r") as file:
+        descriptive_data = json.load(file)
 
-    for sector, tickers in sectors_under_study.items():
-        for long_trend in long_trends:
-            writer.add_paragraph(
-                thesis_body, get_random_inferal_analysis_text(table_no)
-            )
-            add_table_inferal(thesis_body)
+        for sector, tickers in sectors_under_study.items():
+            for long_trend in long_trends:
+                table_data = descriptive_data[sector][long_trend.lower()]
+                writer.add_paragraph(
+                    thesis_body, get_random_inferal_analysis_text(table_no)
+                )
+                add_table_inferal(thesis_body, table_data)
 
-            writer.add_paragraph(
-                thesis_body,
-                f"Table {table_no}. Chi-square test for {sector} Stocks  in {long_trend} Market",
-            )
-            table_no += 1
+                writer.add_paragraph(
+                    thesis_body,
+                    f"Table {table_no}. Chi-square test for {sector} Stocks  in {long_trend} Market",
+                )
+                table_no += 1
     writer.save_document(thesis_body, writer.thesis_path)
 
 
@@ -387,10 +395,13 @@ def add_table_descriptive(doc, table_data):
 
     return doc
 
+def get_chi_square(table_data):
+    return []
 
-def add_table_inferal(doc):
+def add_table_inferal(doc,table_data):
     # Create table with 11 rows (2 header + 9 data) and 8 columns
     # Create table with 11 rows (2 header + 9 data) and 8 columns
+    chi_square_table = get_chi_square(table_data)
     table = doc.add_table(rows=11, cols=8)
     table.style = "Table Grid"
 
