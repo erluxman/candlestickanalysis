@@ -105,10 +105,14 @@ def compute_category_analytics():
                                 "hit_percentage_close_trend": hit_percentage_close_trend,
                                 "hit_percentage_close_all": hit_percentage_close_all,
                             }
+            analytics[sector][trend]["commentry"] = get_analytics_commentry(
+                analytics[sector][trend]
+            )
 
         save_analytics(analytics)
 
-
+def get_analytics_commentry(data):
+    return "This is a commentry on the following data " + str(data)
 def compute_descriptive_stats():
     merge_jsons()
     categorize_stats()
