@@ -16,5 +16,6 @@ def write_thesis():
     # write /print a chart in scatter plot about the percentage change in stock after a candle is present ( to show if the data is normally distributed)
     # may be boxplot or whisker plot will also be good one for this
     # may be scatter plot and box plots will be best
+    apply_apa_guidelines()
     open_thesis()
     

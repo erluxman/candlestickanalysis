@@ -5,6 +5,90 @@ from docx import Document
 import json
 from docx.shared import Pt, RGBColor, Inches
 from docx.enum.table import WD_ALIGN_VERTICAL
+from docx import Document
+from docx.shared import Pt, Inches
+from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.oxml.ns import qn
+from docx.oxml import OxmlElement
+
+
+def apply_apa_guidelines():
+    doc = writer.thesis_body()
+    style = doc.styles["Normal"]
+    font = style.font
+    font.name = "Times New Roman"
+    font.size = Pt(12)
+    style.paragraph_format.line_spacing = 2.0  # Double-spaced
+    style.paragraph_format.space_after = Pt(0)
+
+    # Set margins
+    sections = doc.sections
+    for section in sections:
+        section.top_margin = Inches(1)
+        section.bottom_margin = Inches(1)
+        section.left_margin = Inches(1)
+        section.right_margin = Inches(1)
+
+    # Add running head and page numbers
+    def add_running_head(doc, title):
+        for section in doc.sections:
+            header = section.header
+            paragraph = header.paragraphs[0]
+            paragraph.alignment = WD_ALIGN_PARAGRAPH.LEFT
+            run = paragraph.add_run(title.upper())
+            run.font.size = Pt(12)
+            run.font.name = "Times New Roman"
+
+            # Add page number
+            paragraph = header.add_paragraph()
+            paragraph.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+            run = paragraph.add_run()
+            fldChar = OxmlElement("w:fldChar")
+            fldChar.set(qn("w:fldCharType"), "begin")
+            run._r.append(fldChar)
+            instrText = OxmlElement("w:instrText")
+            instrText.set(qn("xml:space"), "preserve")
+            instrText.text = "PAGE"
+            run._r.append(instrText)
+            fldChar = OxmlElement("w:fldChar")
+            fldChar.set(qn("w:fldCharType"), "end")
+            run._r.append(fldChar)
+
+    # Example running head
+    add_running_head(doc, "Running Head: SHORTENED TITLE")
+
+    # Set paragraph formatting
+    for paragraph in doc.paragraphs:
+        paragraph.paragraph_format.first_line_indent = Inches(0.5)
+
+    # Format headings
+    def format_heading(paragraph, level):
+        if level == 1:
+            paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            paragraph.style = doc.styles["Heading 1"]
+        elif level == 2:
+            paragraph.alignment = WD_ALIGN_PARAGRAPH.LEFT
+            paragraph.style = doc.styles["Heading 2"]
+
+    # Example headings
+    doc.add_heading("Level 1 Heading", level=1)
+    doc.add_paragraph("This is a sample paragraph under the Level 1 heading.")
+    doc.add_heading("Level 2 Heading", level=2)
+    doc.add_paragraph("This is a sample paragraph under the Level 2 heading.")
+
+    # Add references section
+    doc.add_page_break()
+    doc.add_heading("References", level=1)
+    references = [
+        "Author, A. A. (2020). Title of the work. Publisher.",
+        "Author, B. B. (2019). Title of the article. Journal Name, 12(3), 45-67. https://doi.org/xxxx",
+    ]
+    for ref in references:
+        p = doc.add_paragraph(ref, style="List Paragraph")
+        p.paragraph_format.left_indent = Inches(0.5)
+        p.paragraph_format.hanging_indent = Inches(0.5)
+    print("APA guidelines applied successfully.")
+    writer.save_document(doc, writer.thesis_path)
 
 
 def write_dummy_thesis():
@@ -446,7 +530,7 @@ def calculate_chi_squared_tests(data):
                 try:
                     chi2, p, _, _ = chi2_contingency(contingency)
                 except:
-                    chi2, p = 0.0, 1.0  # In case of error
+                    chi2, p = 1.0, 1000.0  # In case of error
                 significant = p < 0.05
                 # Extract metric part (e.g., high_trend)
                 metric_part = "_".join(metric.split("_")[2:])
