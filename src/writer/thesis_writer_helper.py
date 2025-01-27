@@ -4,6 +4,7 @@ from src.constants.constants import *
 from docx import Document
 import json
 from docx.shared import Pt, RGBColor, Inches
+from docx.enum.table import WD_ALIGN_VERTICAL
 
 
 def write_dummy_thesis():
