@@ -4,7 +4,6 @@ from src.constants.constants import *
 from docx import Document
 import json
 from docx.shared import Pt, RGBColor, Inches
-from docx.enum.table import WD_ALIGN_VERTICAL
 
 
 def write_dummy_thesis():
@@ -173,7 +172,7 @@ def write_all_inferal_analysis(document_order):
     thesis_body = writer.thesis_body()
     writer.add_heading(thesis_body, f"{document_order} Inferal Analysis:", level=1)
     table_no = 11
-    
+
     descriptive_analysis_file = (
         f"{np_data_path_descriptive_stats}/descriptive_analytics.json"
     )
@@ -184,9 +183,9 @@ def write_all_inferal_analysis(document_order):
         for sector, tickers in sectors_under_study.items():
             for long_trend in long_trends:
                 table_data = descriptive_data[sector][long_trend.lower()]
-                writer.add_paragraph(
-                    thesis_body, get_random_inferal_analysis_text(table_no)
-                )
+                # writer.add_paragraph(
+                #     thesis_body, get_random_inferal_analysis_text(table_no)
+                # )
                 add_table_inferal(thesis_body, table_data, sector, long_trend)
 
                 writer.add_paragraph(
@@ -395,6 +394,7 @@ def add_table_descriptive(doc, table_data):
 
     return doc
 
+
 import json
 from scipy.stats import chi2_contingency
 import os
@@ -460,9 +460,8 @@ def calculate_chi_squared_tests(data):
     return results
 
 
-def add_table_inferal(doc,table_data,sector,long_term_trend):
-    # Create table with 11 rows (2 header + 9 data) and 8 columns
-    # Create table with 11 rows (2 header + 9 data) and 8 columns
+def add_table_inferal(doc, table_data, sector, long_term_trend):
+    # Generate chi-squared data
     chi_square_table = calculate_chi_squared_tests(table_data)
     # Save chi_squared_table to inferal_analysis.json
     inferal_analysis_file = f"{np_data_path_descriptive_stats}/inferal_analysis.json"
@@ -472,103 +471,106 @@ def add_table_inferal(doc,table_data,sector,long_term_trend):
     else:
         inferal_data = {}
 
-    if sector not in inferal_data:
-        inferal_data[sector] = {}
+    # [Keep your existing code for saving to inferal_analysis.json]
 
-    inferal_data[sector][long_term_trend] = chi_square_table
+    # Create table with dynamic sizing
+    raw_data = []
+    selected_table_data_raw = inferal_data[sector][long_term_trend]
 
-    with open(inferal_analysis_file, "w") as file:
-        json.dump(inferal_data, file, indent=4)
-    table = doc.add_table(rows=11, cols=8)
+    for duration, duration_data in selected_table_data_raw.items():
+        for candle, candle_data in duration_data.items():
+            # Format p-values with scientific notation
+            def format_pval(key):
+                p = candle_data[key]["p_value"]
+                return f"{p:.2e}" if p < 0.001 else f"{p:.4f}"
+
+            raw_data.append(
+                [
+                    f"{duration}D" if candle == "Hammer" else "",
+                    candle,
+                    format_pval("high_trend"),
+                    format_pval("high_all"),
+                    format_pval("low_trend"),
+                    format_pval("low_all"),
+                    format_pval("close_trend"),
+                    format_pval("close_all"),
+                ]
+            )
+
+    # Create table with exact needed size: 2 header rows + data rows
+    num_rows = 2 + len(raw_data)
+    table = doc.add_table(rows=num_rows, cols=8)
     table.style = "Table Grid"
 
-    def merge_cells(cell1, cell2):
-        cell1.merge(cell2)
-
-    # ===== HEADERS =====
-    # Merge vertical headers (Period and Candles)
-    merge_cells(table.cell(0, 0), table.cell(1, 0))  # Period
-    merge_cells(table.cell(0, 1), table.cell(1, 1))  # Candles
+    # ===== HEADER CONSTRUCTION =====
+    # Merge header cells
+    def merge_cells(row, start_col, end_col):
+        table.cell(row, start_col).merge(table.cell(row, end_col))
 
     # Main headers
+    merge_cells(0, 0, 0)  # Period
+    merge_cells(0, 1, 1)  # Candles
+    merge_cells(0, 2, 3)  # P-value (HIGH)
+    merge_cells(0, 4, 5)  # P-value (LOW)
+    merge_cells(0, 6, 7)  # P-value (Close)
+    
+
+    # Set header texts
     table.cell(0, 0).text = "Period"
     table.cell(0, 1).text = "Candles"
+    table.cell(0, 2).text = "P-value (HIGH)"
+    table.cell(0, 4).text = "P-value (LOW)"
+    table.cell(0, 6).text = "P-value (Close)"
 
-    # P-value headers (merge horizontal)
-    pvalue_headers = [
-        (2, 3, "P-value (HIGH)"),
-        (4, 5, "P-value (LOW)"),
-        (6, 7, "P-value (Close)"),
-    ]
-    for start_col, end_col, text in pvalue_headers:
-        merge_cells(table.cell(0, start_col), table.cell(0, end_col))
-        table.cell(0, start_col).text = text
+    # Subheaders
+    subheaders = ["", "", "Trend", "All", "Trend", "All", "Trend", "All"]
+    for col in range(8):
+        table.cell(1, col).text = subheaders[col]
 
-    # Subheaders (Yes/No)
-    subheaders = ["Yes", "No", "Yes", "No", "Yes", "No"]
-    for col, text in enumerate(subheaders, start=2):
-        table.cell(1, col).text = text
+    # ===== DATA POPULATION =====
+    for row_idx, row_data in enumerate(raw_data, start=2):
+        # Ensure we don't exceed table bounds
+        if row_idx >= num_rows:
+            break
 
-    # ===== DATA =====
-    data = [
-        [
-            "2D",
-            "Hammer",
-            "0.0343",
-            "0.9987",
-            "0.0003",
-            "0.9875",
-            "0.0124",
-            "0.9999",
-        ],
-        ["", "Shooting ✦", "0.2499", "0.9987", "0.0001", "0.9567", "0.2499", "0.9995"],
-        ["", "Marubozu", "0.9987", "0.0003", "0.9999", "0.0343", "0.9987", "0.0012"],
-        [
-            "4D",
-            "Hammer",
-            "0.1234",
-            "0.9990",
-            "0.0032",
-            "0.9945",
-            "0.0456",
-            "0.9998",
-        ],
-        ["", "Shooting ✦", "0.2999", "0.9972", "0.0021", "0.9782", "0.1999", "0.9977"],
-        ["", "Marubozu", "0.9999", "0.0009", "0.9987", "0.0213", "0.9995", "0.0045"],
-        [
-            "8D",
-            "Hammer",
-            "0.0678",
-            "0.9954",
-            "0.0054",
-            "0.9899",
-            "0.0789",
-            "0.9993",
-        ],
-        ["", "Shooting ✦", "0.1999", "0.9966", "0.0019", "0.9654", "0.1776", "0.9921"],
-        ["", "Marubozu", "0.9988", "0.0007", "0.9994", "0.0198", "0.9991", "0.0023"],
-    ]
+        for col_idx in range(8):
+            cell = table.cell(row_idx, col_idx)
+            cell.text = row_data[col_idx]
 
-    # Populate data and merge period cells
-    for row_idx, row_data in enumerate(data, start=2):
-        # Only write Period if it's not empty
-        if row_data[0]:  # First column (Period) has value
-            table.cell(row_idx, 0).text = row_data[0]
-
-        # Write other columns normally
-        for col_idx in range(1, 8):
-            table.cell(row_idx, col_idx).text = row_data[col_idx]
-
-        # Merge period cells for first row of each group
-        if row_data[0]:
-            start_row = row_idx
-            end_row = start_row + 2
-            for merge_row in range(start_row + 1, end_row + 1):
+            # Format numeric cells
+            if col_idx >= 2:
                 try:
-                    merge_cells(table.cell(start_row, 0), table.cell(merge_row, 0))
+                    p_value = float(row_data[col_idx])
+                    run = cell.paragraphs[0].runs[0]
+                    run.font.color.rgb = (
+                        RGBColor(0x00, 0x66, 0x00)
+                        if p_value < 0.05
+                        else RGBColor(0x99, 0x00, 0x00)
+                    )
                 except:
-                    # Handle case where cells are already merged
                     pass
+
+    # ===== CELL MERGING =====
+    current_row = 2
+    while current_row < num_rows:
+        if table.cell(current_row, 0).text:
+            # Find how many rows to merge
+            merge_count = 1
+            while (
+                current_row + merge_count < num_rows
+                and not table.cell(current_row + merge_count, 0).text
+            ):
+                merge_count += 1
+
+            if merge_count > 1:
+                start = table.cell(current_row, 0)
+                end = table.cell(current_row + merge_count - 1, 0)
+                merged = start.merge(end)
+
+            current_row += merge_count
+        else:
+            current_row += 1
+
     return doc
 
 
