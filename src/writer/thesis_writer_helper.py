@@ -459,6 +459,7 @@ def calculate_chi_squared_tests(data):
     print(results)
     return results
 
+from docx.oxml import parse_xml
 
 def add_table_inferal(doc, table_data, sector, long_term_trend):
     # Generate chi-squared data
@@ -470,8 +471,6 @@ def add_table_inferal(doc, table_data, sector, long_term_trend):
             inferal_data = json.load(file)
     else:
         inferal_data = {}
-
-    # [Keep your existing code for saving to inferal_analysis.json]
 
     # Create table with dynamic sizing
     raw_data = []
@@ -503,17 +502,25 @@ def add_table_inferal(doc, table_data, sector, long_term_trend):
     table.style = "Table Grid"
 
     # ===== HEADER CONSTRUCTION =====
-    # Merge header cells
-    def merge_cells(row, start_col, end_col):
+    # Merge header cells horizontally for p-value columns
+    def merge_cells_horizontal(row, start_col, end_col):
         table.cell(row, start_col).merge(table.cell(row, end_col))
 
-    # Main headers
-    merge_cells(0, 0, 0)  # Period
-    merge_cells(0, 1, 1)  # Candles
-    merge_cells(0, 2, 3)  # P-value (HIGH)
-    merge_cells(0, 4, 5)  # P-value (LOW)
-    merge_cells(0, 6, 7)  # P-value (Close)
-    
+    # Merge header cells vertically for Period and Candles
+    def merge_cells_vertical(col):
+        cell_range = table.cell(0, col)._tc
+        below_cell = table.cell(1, col)._tc
+        cell_range.tcPr.append(parse_xml(f'<w:vMerge xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:val="restart"/>'))
+        below_cell.tcPr.append(parse_xml(f'<w:vMerge xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:val="continue"/>'))
+
+    # Merge Period and Candles columns vertically (first two rows)
+    merge_cells_vertical(0)  # Period
+    merge_cells_vertical(1)  # Candles
+
+    # Merge p-value columns horizontally
+    merge_cells_horizontal(0, 2, 3)  # P-value (HIGH)
+    merge_cells_horizontal(0, 4, 5)  # P-value (LOW)
+    merge_cells_horizontal(0, 6, 7)  # P-value (Close)
 
     # Set header texts
     table.cell(0, 0).text = "Period"
@@ -522,9 +529,9 @@ def add_table_inferal(doc, table_data, sector, long_term_trend):
     table.cell(0, 4).text = "P-value (LOW)"
     table.cell(0, 6).text = "P-value (Close)"
 
-    # Subheaders
+    # Subheaders (only for p-value columns)
     subheaders = ["", "", "Trend", "All", "Trend", "All", "Trend", "All"]
-    for col in range(8):
+    for col in range(2, 8):  # Start from column 2 (skip Period and Candles)
         table.cell(1, col).text = subheaders[col]
 
     # ===== DATA POPULATION =====
