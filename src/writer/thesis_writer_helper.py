@@ -503,7 +503,7 @@ def add_table_inferal(doc, table_data, sector, long_term_trend):
                 if p == "❌":
                     return p
                 else:
-                    return f"{p:.2e}" if p < 0.001 else f"{p:.4f}"
+                    return f"{p:.3f}"  if p > 0.001 else f"{p:.1e}"
 
             raw_data.append(
                 [
