@@ -480,76 +480,10 @@ def add_table_descriptive(doc, table_data):
     return doc
 
 
-import json
-from scipy.stats import chi2_contingency
-import os
-
-
-def calculate_chi_squared_tests(data):
-    results = {}
-    for period in data:
-        period_data = data[period]
-        period_results = {}
-        for candle in period_data:
-            if candle in ["Random", "Random*"]:
-                continue
-            # Determine which random counterpart to use
-            if candle in ["Hammer", "I. Hammer"]:
-                random_key = "Random"
-            else:
-                random_key = "Random*"
-            if random_key not in period_data:
-                continue
-            candle_data = period_data[candle]
-            random_data = period_data[random_key]
-            candle_results = {}
-            # Process each hit percentage metric
-            for metric in candle_data:
-                if not metric.startswith("hit_percentage_"):
-                    continue
-                # Determine occurrence type (trend or all)
-                occurrence_type = metric.split("_")[-1]
-                if occurrence_type == "trend":
-                    c_occurrence = candle_data["occurance_trend"]
-                    r_occurrence = random_data["occurance_trend"]
-                elif occurrence_type == "all":
-                    c_occurrence = candle_data["all_occurance"]
-                    r_occurrence = random_data["all_occurance"]
-                else:
-                    continue
-                # Calculate successes and failures
-                c_hit = candle_data[metric]
-                r_hit = random_data[metric]
-                c_success = (c_occurrence * c_hit) / 100
-                c_failure = c_occurrence - c_success
-                r_success = (r_occurrence * r_hit) / 100
-                r_failure = r_occurrence - r_success
-                # Contingency table
-                contingency = [[c_success, c_failure], [r_success, r_failure]]
-                # Chi-squared test
-                try:
-                    chi2, p, _, _ = chi2_contingency(contingency)
-                except:
-                    chi2, p = 1.0, 1000.0  # In case of error
-                significant = p < 0.05
-                # Extract metric part (e.g., high_trend)
-                metric_part = "_".join(metric.split("_")[2:])
-                candle_results[metric_part] = {
-                    "chi2": chi2,
-                    "p_value": p,
-                    "significant": str(significant),
-                }
-            period_results[candle] = candle_results
-        results[period] = period_results
-    print(results)
-    return results
-
 from docx.oxml import parse_xml
 
+
 def add_table_inferal(doc, table_data, sector, long_term_trend):
-    # Generate chi-squared data
-    chi_square_table = calculate_chi_squared_tests(table_data)
-    # Save chi_squared_table to inferal_analysis.json
     inferal_analysis_file = f"{np_data_path_descriptive_stats}/inferal_analysis.json"
     if os.path.exists(inferal_analysis_file):
         with open(inferal_analysis_file, "r") as file:
@@ -559,14 +493,17 @@ def add_table_inferal(doc, table_data, sector, long_term_trend):
 
     # Create table with dynamic sizing
     raw_data = []
-    selected_table_data_raw = inferal_data[sector][long_term_trend]
+    selected_table_data_raw = inferal_data[sector][long_term_trend.lower()]
 
     for duration, duration_data in selected_table_data_raw.items():
         for candle, candle_data in duration_data.items():
             # Format p-values with scientific notation
             def format_pval(key):
                 p = candle_data[key]["p_value"]
-                return f"{p:.2e}" if p < 0.001 else f"{p:.4f}"
+                if p == "❌":
+                    return p
+                else:
+                    return f"{p:.2e}" if p < 0.001 else f"{p:.4f}"
 
             raw_data.append(
                 [
@@ -595,8 +532,16 @@ def add_table_inferal(doc, table_data, sector, long_term_trend):
     def merge_cells_vertical(col):
         cell_range = table.cell(0, col)._tc
         below_cell = table.cell(1, col)._tc
-        cell_range.tcPr.append(parse_xml(f'<w:vMerge xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:val="restart"/>'))
-        below_cell.tcPr.append(parse_xml(f'<w:vMerge xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:val="continue"/>'))
+        cell_range.tcPr.append(
+            parse_xml(
+                f'<w:vMerge xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:val="restart"/>'
+            )
+        )
+        below_cell.tcPr.append(
+            parse_xml(
+                f'<w:vMerge xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:val="continue"/>'
+            )
+        )
 
     # Merge Period and Candles columns vertically (first two rows)
     merge_cells_vertical(0)  # Period

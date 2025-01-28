@@ -46,6 +46,93 @@ def save_analytics(result):
         json.dump(result, outfile)
 
 
+import json
+from scipy.stats import chi2_contingency
+import os
+
+
+def calculate_chi_squared_tests(data):
+    results = {}
+    for period in data:
+        period_data = data[period]
+        period_results = {}
+        for candle in period_data:
+            if candle in ["Random", "Random*"]:
+                continue
+            # Determine which random counterpart to use
+            if candle in ["Hammer", "I. Hammer"]:
+                random_key = "Random"
+            else:
+                random_key = "Random*"
+            if random_key not in period_data:
+                continue
+            candle_data = period_data[candle]
+            random_data = period_data[random_key]
+            candle_results = {}
+            # Process each hit percentage metric
+            for metric in candle_data:
+                if not metric.startswith("hit_percentage_"):
+                    continue
+                # Determine occurrence type (trend or all)
+                occurrence_type = metric.split("_")[-1]
+                if occurrence_type == "trend":
+                    c_occurrence = candle_data["occurance_trend"]
+                    r_occurrence = random_data["occurance_trend"]
+                elif occurrence_type == "all":
+                    c_occurrence = candle_data["all_occurance"]
+                    r_occurrence = random_data["all_occurance"]
+                else:
+                    continue
+                # Calculate successes and failures
+                c_hit = candle_data[metric]
+                r_hit = random_data[metric]
+
+                c_success = (c_occurrence * c_hit) / 100
+                c_failure = c_occurrence - c_success
+                r_success = (r_occurrence * r_hit) / 100
+                r_failure = r_occurrence - r_success
+                # Contingency table
+                contingency = [[c_success, c_failure], [r_success, r_failure]]
+                # Chi-squared test
+                try:
+                    chi2, p, _, _ = chi2_contingency(contingency)
+                except:
+                    chi2, p = 1.0, 1000.0  # In case of error
+                significant = p < 0.05
+                # Extract metric part (e.g., high_trend)
+                metric_part = "_".join(metric.split("_")[2:])
+                candle_results[metric_part] = {
+                    "chi2": chi2,
+                    "p_value": p,
+                    "significant": str(significant),
+                }
+                if r_hit > c_hit:
+                    candle_results[metric_part] = {
+                        "chi2": "❌",
+                        "p_value": "❌",
+                        "significant": False,
+                    }
+            period_results[candle] = candle_results
+        results[period] = period_results
+    print(results)
+    return results
+
+
+def compute_inferal_analysis():
+    file_to_read = f"{np_data_path_descriptive_stats}/descriptive_analytics.json"
+    file_to_write = f"{np_data_path_descriptive_stats}/inferal_analysis.json"
+    inferal_data = {}
+    with open(file_to_read, "r", encoding="utf-8") as infile:
+        data = json.load(infile)
+        for sector, sector_data in data.items():
+            inferal_data[sector] = {}
+            for trend, trend_data in sector_data.items():
+                inferal_data[sector][trend] = calculate_chi_squared_tests(trend_data)
+
+    with open(file_to_write, "w") as outfile:
+        json.dump(inferal_data, outfile)
+
+
 def categorize_stats():
     file_path = os.path.join(np_data_path_candles, "all_candles.json")
     with open(file_path, "r", encoding="utf-8") as f:
@@ -279,3 +366,4 @@ def compute_descriptive_stats():
     merge_jsons()
     categorize_stats()
     compute_category_analytics()
+    compute_inferal_analysis()
