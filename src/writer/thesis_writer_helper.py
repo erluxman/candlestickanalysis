@@ -503,7 +503,7 @@ def add_table_inferal(doc, table_data, sector, long_term_trend):
                 if p == "❌":
                     return p
                 else:
-                    return f"{p:.3f}"  if p > 0.001 else f"{p:.1e}"
+                    return f"{p:.3f}" if p > 0.001 else f"{p:.1e}"
 
             raw_data.append(
                 [
@@ -522,6 +522,8 @@ def add_table_inferal(doc, table_data, sector, long_term_trend):
     num_rows = 2 + len(raw_data)
     table = doc.add_table(rows=num_rows, cols=8)
     table.style = "Table Grid"
+    for cell in table.columns[1].cells:
+        cell.width = Inches(2)
 
     # ===== HEADER CONSTRUCTION =====
     # Merge header cells horizontally for p-value columns
