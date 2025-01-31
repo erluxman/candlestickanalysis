@@ -189,7 +189,7 @@ def analyze_candle_patterns(
 ):
 
     analysis = f"""Table {table_no} examines the predictive capabilities of candlestick patterns in the {sector.capitalize()} sector 
-during a sustained {market_trend} market phase.\n\n"""
+during a sustained {market_trend} market phase.\n"""
 
     random_connective_words_positive = [
         "Furthermore, ",
@@ -292,50 +292,75 @@ during a sustained {market_trend} market phase.\n\n"""
                 stats_description += f"{candle.replace("I.","Inverted")} shows strong performance when {', '.join(criteria_success)} is used instead of picking stocks randomly when we want to pick and hold for {period} Days in average. "
 
     for candle, key_point in key_points.items():
+        candle_text = ""
         if candle == "Random" or candle == "Random*":
             continue
-        if candle in key_points and  len(key_points[candle].keys())>0:
-            new_explanations += f"\n\n{candle} shows "
-            
+        if candle in key_points and len(key_points[candle].keys()) > 0:
+            candle_text += "\n"
+
         if ("significantly_positive" in key_point) and len(
             key_point["significantly_positive"]
         ) > 0:
-            new_explanations += f"significantly positive results for "
-            for point,data in key_point.get("significantly_positive").items():
+            significantly_positive_text = ""
+            significantly_positive_text += (
+                f"{candle} shows significantly positive results for "
+            )
+            for point, data in key_point.get("significantly_positive").items():
                 for period, period_data in data.items():
-                    new_explanations += f"\n  - {period_data} for {period} Days"
-
-            if len(key_points[candle]["significantly_positive"]) > 2:
-                new_explanations = new_explanations.rsplit(", ", 1)
-                new_explanations = " and ".join(new_explanations)
-            new_explanations+=". "
-        if("positive"  in key_point)and  len(key_point["positive"])>0:
-            new_explanations += f"\n\n{candle} shows positive results for "
-            for point,data in key_point.get("positive").items():
+                    for item in period_data:
+                        significantly_positive_text += f", {explanations[item]}"
+                    significantly_positive_text += f" for {period} Days"
+            significantly_positive_text += ". "
+            significantly_positive_text = replace_first_commafrom_text(
+                significantly_positive_text
+            )
+            significantly_positive_text = replace_last_comma_with_and(
+                significantly_positive_text
+            )
+            candle_text += significantly_positive_text
+        if ("positive" in key_point) and len(key_point["positive"]) > 0:
+            positive_text = ""
+            positive_text += f"{candle} shows positive results for "
+            for point, data in key_point.get("positive").items():
                 for period, period_data in data.items():
-                    new_explanations += f"\n  - {period_data} for {period} Days"
+                    for item in period_data:
+                        positive_text += f", {explanations[item]}"
+                    positive_text += f" for {period} Days"
 
-            if len(key_points[candle]["positive"]) > 2:
-                new_explanations = new_explanations.rsplit(", ", 1)
-                new_explanations = " and ".join(new_explanations)
-            new_explanations+=". "
+            positive_text += ". "
+            positive_text = replace_first_commafrom_text(positive_text)
+            positive_text = replace_last_comma_with_and(positive_text)
+            candle_text += positive_text
 
-        if ("negative"  in key_point) and   len(key_point["negative"])>0:
-            new_explanations += f" shows negative results for "
-            for point,data in key_point.get("negative").items():
+        if ("negative" in key_point) and len(key_point["negative"]) > 0:
+            negative_text = ""
+            negative_text += f"{candle} shows negative results for "
+            for point, data in key_point.get("negative").items():
                 for period, period_data in data.items():
-                    new_explanations += f"\n  - {period_data} for {period} Days"
+                    for item in period_data:
+                        negative_text += f", {explanations[item]}"
+                    negative_text += f" for {period} Days"
 
-            if len(key_points[candle]["negative"]) > 2:
-                new_explanations = new_explanations.rsplit(", ", 1)
-                new_explanations = " and ".join(new_explanations)
-            new_explanations += ". "
-        if len(key_points[candle]) > 0:
-            new_explanations += "\n\n"
+            negative_text += ". "
+            negative_text = replace_first_commafrom_text(negative_text)
+            negative_text = replace_last_comma_with_and(negative_text)
+            candle_text += negative_text
+
+        new_explanations += candle_text
+
     new_explanations = new_explanations.replace("I. ", "Inverted ")
-    analysis += stats_description
+    # analysis += stats_description
     analysis += new_explanations
     return analysis
+
+
+def replace_first_commafrom_text(text):
+    return text.replace(",", "", 1)
+
+
+def replace_last_comma_with_and(text):
+    parts = text.rsplit(", ", 1)
+    return " and ".join(parts) if len(parts) > 1 else text
 
 
 def write_all_inferal_analysis(document_order):
