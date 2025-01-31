@@ -294,7 +294,9 @@ during a sustained {market_trend} market phase.\n\n"""
     for candle, key_point in key_points.items():
         if candle == "Random" or candle == "Random*":
             continue
-        new_explanations += f"\n\n{candle} shows "
+        if candle in key_points and  len(key_points[candle].keys())>0:
+            new_explanations += f"\n\n{candle} shows "
+            
         if ("significantly_positive" in key_point) and len(
             key_point["significantly_positive"]
         ) > 0:
