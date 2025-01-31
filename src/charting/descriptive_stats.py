@@ -81,6 +81,7 @@ def create_whisker_plot(data_rows):
                         alignmentgroup=pattern,
                         x0=pos_mapping[pattern][0 if trend == "bullish" else 1],
                         showlegend=False,  # Disable legend for each trace
+                        marker_color="orange" if trend == "bullish" else "blue",
                     )
                 )
 
@@ -88,10 +89,10 @@ def create_whisker_plot(data_rows):
         fig.update_layout(
             # title=f"{duration}-Day Return Rate Distribution",
             xaxis=dict(
-                tickvals=[np.mean(v) for v in pos_mapping.values()],
-                ticktext=patterns,
-                title="Candlestick Patterns",
-                showgrid=False,
+            tickvals=[np.mean(v) for v in pos_mapping.values()],
+            ticktext=patterns,
+            title="Candlestick Patterns",
+            showgrid=False,
             ),
             yaxis=dict(title="Return Rate (%)", range=[-5, 5], gridcolor="lightgrey"),
             boxmode="group",
@@ -101,35 +102,57 @@ def create_whisker_plot(data_rows):
             height=600,
             width=1200,
             legend=dict(
-                orientation="h",
-                yanchor="bottom",
-                y=1.02,
-                xanchor="center",
-                x=0.5,
-                itemsizing="constant",
+            orientation="h",
+            yanchor="bottom",
+            y=1.02,
+            xanchor="center",
+            x=0.5,
+            itemsizing="constant",
             ),
         )
 
         # Create custom legend
         fig.add_trace(
             go.Scatter(
-                x=[None],
-                y=[None],
-                mode="markers",
-                marker=dict(size=10, color="blue"),
-                name="Bullish",
-                legendgroup="bullish",
+            x=[None],
+            y=[None],
+            mode="markers",
+            marker=dict(
+                size=10,
+                symbol="square",
+                color="blue",
+                line=dict(width=2, color="darkblue")  # Darker border around the rectangle
+            ),
+            name="Bullish",
+            legendgroup="bullish",
             )
         )
 
         fig.add_trace(
             go.Scatter(
-                x=[None],
-                y=[None],
-                mode="markers",
-                marker=dict(size=10, color="orange"),
-                name="Bearish",
-                legendgroup="bearish",
+            x=[None],
+            y=[None],
+            mode="markers",
+            marker=dict(
+                size=10,
+                symbol="square",
+                color="orange",
+                line=dict(width=2, color="darkorange")  # Darker border around the rectangle
+            ),
+            name="Bearish",
+            legendgroup="bearish",
+            )
+        )
+
+        # Update legend to show in top right
+        fig.update_layout(
+            legend=dict(
+            orientation="v",
+            yanchor="top",
+            y=1,
+            xanchor="right",
+            x=1.1,  # Adjust x to create a gap between chart and legend
+            itemsizing="constant",
             )
         )
 
