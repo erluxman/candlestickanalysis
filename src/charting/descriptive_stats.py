@@ -44,39 +44,87 @@ def process_return_rate_data(data):
 import matplotlib.pyplot as plt
 
 
+import matplotlib.pyplot as plt
+import numpy as np
+
+
 def plot_boxplots(data_rows):
-    # Iterate over each observation duration to create a separate boxplot
-    for observation_duration, trends_data in data_rows.items():
-        box_data = []  # List to hold data for each box (trend-pattern pair)
-        labels = []  # List to hold labels for each box
-
-        # Sort trends and patterns to ensure consistent order across plots
-        for trend in sorted(trends_data.keys()):
-            patterns = trends_data[trend]
-            for pattern in sorted(patterns.keys()):
-                data = patterns[pattern]
-                if data:  # Only include if there is data
-                    box_data.append(data)
-                    labels.append(f"{trend}\n{pattern}")  # Newline for readability
-
-        # Create the boxplot
-        plt.figure(figsize=(14, 8))
-        plt.boxplot(box_data, patch_artist=True)
-
-        # Customize the plot
-        plt.title(
-            f"Return Rate Distribution (Observation Duration: {observation_duration})"
+    """Create matplotlib boxplots with side-by-side bullish/bearish comparison"""
+    for duration, trends_data in data_rows.items():
+        # Get sorted unique patterns
+        patterns = sorted(
+            set(
+                pattern
+                for trend_data in trends_data.values()
+                for pattern in trend_data.keys()
+            )
         )
-        plt.xlabel("Trend and Pattern Combinations")
-        plt.ylabel("Return Rate")
-        plt.ylim(top=5)  # Set the maximum value for the y-axis to 5
-        plt.ylim(bottom=-5)  # Set the maximum value for the y-axis to 5
-        plt.xticks(range(1, len(labels) + 1), labels, rotation=45, ha="right")
-        plt.grid(True, linestyle="--", alpha=0.7)
+
+        # Prepare data and positions
+        box_data = []
+        positions = []
+        colors = []
+
+        for idx, pattern in enumerate(patterns):
+            # Calculate x positions for side-by-side boxes
+            base_pos = idx * 2
+            positions.extend([base_pos - 0.3, base_pos + 0.3])
+
+            # Get data for both trends
+            bullish_data = trends_data["bullish"].get(pattern, [])
+            bearish_data = trends_data["bearish"].get(pattern, [])
+
+            box_data.extend([bullish_data, bearish_data])
+            colors.extend(
+                ["#1f77b4", "#ff7f0e"]
+            )  # Blue for bullish, orange for bearish
+
+        # Create figure
+        fig, ax = plt.subplots(figsize=(14, 8))
+
+        # Create boxplots
+        boxprops = dict(linewidth=1.5, facecolor="white")
+        bp = ax.boxplot(
+            box_data,
+            positions=positions,
+            widths=0.4,
+            patch_artist=True,
+            showfliers=False,
+            boxprops=boxprops,
+            medianprops=dict(color="black", linewidth=1.5),
+        )
+
+        # Color the boxes
+        for patch, color in zip(bp["boxes"], colors):
+            patch.set_facecolor(color)
+            patch.set_alpha(0.7)
+
+        # Configure axes
+        ax.set_title(f"Return Rate Distribution ({duration}-Day Observation)", pad=20)
+        ax.set_xlabel("Candlestick Patterns", labelpad=15)
+        ax.set_ylabel("Return Rate (%)", labelpad=15)
+        ax.set_ylim(-5, 5)
+
+        # Set x-ticks at pattern centers
+        ax.set_xticks(np.arange(0, len(patterns) * 2, 2))
+        ax.set_xticklabels(patterns, rotation=45, ha="right")
+
+        # Add grid and legend
+        ax.yaxis.grid(True, linestyle="--", alpha=0.7)
+        ax.legend(
+            [bp["boxes"][0], bp["boxes"][1]],
+            ["Bullish", "Bearish"],
+            loc="upper right",
+            framealpha=0.9,
+        )
+
+        # Adjust layout
         plt.tight_layout()
         plt.show()
 
 
+# Usage example:
+# plot_boxplots(processed_data)
 # Assuming `data_rows` is the output from `process_return_rate_data`
 # Call the function to generate plots
 # duration, candle, return_rate
