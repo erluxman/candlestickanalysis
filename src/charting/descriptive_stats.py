@@ -46,81 +46,95 @@ import matplotlib.pyplot as plt
 
 import matplotlib.pyplot as plt
 import numpy as np
+import plotly.graph_objects as go
 
 
-def plot_boxplots(data_rows):
-    """Create matplotlib boxplots with side-by-side bullish/bearish comparison"""
-    for duration, trends_data in data_rows.items():
-        # Get sorted unique patterns
+def create_whisker_plot(data_rows):
+    """Create whisker plots for each observation duration with side-by-side trends"""
+    for duration, trends in data_rows.items():
+        fig = go.Figure()
         patterns = sorted(
-            set(
-                pattern
-                for trend_data in trends_data.values()
-                for pattern in trend_data.keys()
+            {p for trend_data in trends.values() for p in trend_data.keys()}
+        )
+
+        # Create custom x-axis positions for grouping
+        x_positions = []
+        current_pos = 0
+        pos_mapping = {}
+
+        for pattern in patterns:
+            pos_mapping[pattern] = (current_pos - 0.2, current_pos + 0.2)
+            current_pos += 1
+
+        # Add traces for each trend and pattern
+        for trend, trend_color in [("bullish", "blue"), ("bearish", "orange")]:
+            for pattern in patterns:
+                data = trends[trend].get(pattern, [])
+                if data:  # Only add if data exists
+                    fig.add_trace(
+                        go.Box(
+                            y=data,
+                            name=f"{trend.capitalize()} {pattern}",
+                            marker_color=trend_color,
+                            boxpoints=False,
+                            showlegend=False,
+                            xaxis="x",  # Use primary x-axis
+                            offsetgroup=pattern,
+                            alignmentgroup=pattern,
+                            x0=pos_mapping[pattern][0 if trend == "bullish" else 1],
+                        )
+                    )
+
+        # Update layout for cleaner presentation
+        fig.update_layout(
+            title=f"{duration}-Day Return Rate Distribution",
+            xaxis=dict(
+                tickvals=[np.mean(v) for v in pos_mapping.values()],
+                ticktext=patterns,
+                title="Candlestick Patterns",
+                showgrid=False,
+            ),
+            yaxis=dict(title="Return Rate (%)", range=[-5, 5], gridcolor="lightgrey"),
+            boxmode="group",
+            plot_bgcolor="white",
+            paper_bgcolor="white",
+            margin=dict(t=40, b=60, l=40, r=40),
+            height=600,
+            width=1200,
+            legend=dict(
+                orientation="h",
+                yanchor="bottom",
+                y=1.02,
+                xanchor="center",
+                x=0.5,
+                itemsizing="constant",
+            ),
+        )
+
+        # Create custom legend
+        fig.add_trace(
+            go.Scatter(
+                x=[None],
+                y=[None],
+                mode="markers",
+                marker=dict(size=10, color="blue"),
+                name="Bullish",
+                legendgroup="bullish",
             )
         )
 
-        # Prepare data and positions
-        box_data = []
-        positions = []
-        colors = []
-
-        for idx, pattern in enumerate(patterns):
-            # Calculate x positions for side-by-side boxes
-            base_pos = idx * 2
-            positions.extend([base_pos - 0.3, base_pos + 0.3])
-
-            # Get data for both trends
-            bullish_data = trends_data["bullish"].get(pattern, [])
-            bearish_data = trends_data["bearish"].get(pattern, [])
-
-            box_data.extend([bullish_data, bearish_data])
-            colors.extend(
-                ["#1f77b4", "#ff7f0e"]
-            )  # Blue for bullish, orange for bearish
-
-        # Create figure
-        fig, ax = plt.subplots(figsize=(14, 8))
-
-        # Create boxplots
-        boxprops = dict(linewidth=1.5, facecolor="white")
-        bp = ax.boxplot(
-            box_data,
-            positions=positions,
-            widths=0.4,
-            patch_artist=True,
-            showfliers=False,
-            boxprops=boxprops,
-            medianprops=dict(color="black", linewidth=1.5),
+        fig.add_trace(
+            go.Scatter(
+                x=[None],
+                y=[None],
+                mode="markers",
+                marker=dict(size=10, color="orange"),
+                name="Bearish",
+                legendgroup="bearish",
+            )
         )
 
-        # Color the boxes
-        for patch, color in zip(bp["boxes"], colors):
-            patch.set_facecolor(color)
-            patch.set_alpha(0.7)
-
-        # Configure axes
-        ax.set_title(f"Return Rate Distribution ({duration}-Day Observation)", pad=20)
-        ax.set_xlabel("Candlestick Patterns", labelpad=15)
-        ax.set_ylabel("Return Rate (%)", labelpad=15)
-        ax.set_ylim(-5, 5)
-
-        # Set x-ticks at pattern centers
-        ax.set_xticks(np.arange(0, len(patterns) * 2, 2))
-        ax.set_xticklabels(patterns, rotation=45, ha="right")
-
-        # Add grid and legend
-        ax.yaxis.grid(True, linestyle="--", alpha=0.7)
-        ax.legend(
-            [bp["boxes"][0], bp["boxes"][1]],
-            ["Bullish", "Bearish"],
-            loc="upper right",
-            framealpha=0.9,
-        )
-
-        # Adjust layout
-        plt.tight_layout()
-        plt.show()
+        fig.show()
 
 
 # Usage example:
@@ -134,4 +148,4 @@ def show_stastical_chart():
     with open(data_path) as f:
         data = json.load(f)
         df = process_return_rate_data(data)
-        plot_boxplots(df)
+        create_whisker_plot(df)
