@@ -41,28 +41,44 @@ def process_return_rate_data(data):
     return data_rows
 
 
-def plot_boxplots(data):
-    for trend, trend_data in data.items():
-        for observation_duration, duration_data in trend_data.items():
-            fig = go.Figure()
-            for pattern, pattern_data in duration_data.items():
-                df = pd.DataFrame(pattern_data)
-                fig.add_trace(
-                    go.Box(
-                        y=df.values.flatten(),
-                        name=f"{pattern} ({trend})",
-                        boxmean="sd",  # Shows mean and standard deviation
-                    )
-                )
-            fig.update_layout(
-                title=f"Boxplot for {observation_duration} ({trend})",
-                yaxis_title="Return Rate",
-                xaxis_title="Patterns",
-                boxmode='group'  # Group boxes together
-            )
-            fig.show()
+import matplotlib.pyplot as plt
 
 
+def plot_boxplots(data_rows):
+    # Iterate over each observation duration to create a separate boxplot
+    for observation_duration, trends_data in data_rows.items():
+        box_data = []  # List to hold data for each box (trend-pattern pair)
+        labels = []  # List to hold labels for each box
+
+        # Sort trends and patterns to ensure consistent order across plots
+        for trend in sorted(trends_data.keys()):
+            patterns = trends_data[trend]
+            for pattern in sorted(patterns.keys()):
+                data = patterns[pattern]
+                if data:  # Only include if there is data
+                    box_data.append(data)
+                    labels.append(f"{trend}\n{pattern}")  # Newline for readability
+
+        # Create the boxplot
+        plt.figure(figsize=(14, 8))
+        plt.boxplot(box_data, patch_artist=True)
+
+        # Customize the plot
+        plt.title(
+            f"Return Rate Distribution (Observation Duration: {observation_duration})"
+        )
+        plt.xlabel("Trend and Pattern Combinations")
+        plt.ylabel("Return Rate")
+        plt.ylim(top=5)  # Set the maximum value for the y-axis to 5
+        plt.ylim(bottom=-5)  # Set the maximum value for the y-axis to 5
+        plt.xticks(range(1, len(labels) + 1), labels, rotation=45, ha="right")
+        plt.grid(True, linestyle="--", alpha=0.7)
+        plt.tight_layout()
+        plt.show()
+
+
+# Assuming `data_rows` is the output from `process_return_rate_data`
+# Call the function to generate plots
 # duration, candle, return_rate
 def show_stastical_chart():
     # Your JSON data (replace this with actual data loading if needed)
