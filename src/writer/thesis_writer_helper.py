@@ -197,10 +197,9 @@ during a sustained {market_trend} market phase.\n"""
         "Moreover, ",
         "Likewise, ",
         "Similarly, ",
-        "Importantly, ",
         "And, ",
     ]
-    shows_alternatives = ["shows","displays","yields","renders"]
+    shows_alternatives = ["shows", "displays", "yields", "renders"]
     stats_description = ""
     used_connectives = True
     is_positive_explanation = True
@@ -307,6 +306,16 @@ during a sustained {market_trend} market phase.\n"""
             for point, data in key_point.get("significantly_positive").items():
                 for period, period_data in data.items():
                     period_text = ""
+                    period_keys = list(data.keys())
+                    period_is_first = period_keys.index(period) == 0
+                    period_is_last = period_keys.index(period) == len(period_keys) - 1
+                    if period_is_first != True and period_is_last != True:
+                        period_text += (
+                            f". {random.choice(random_connective_words_positive)}"
+                        )
+                    elif period_is_first != True and period_is_last == True:
+                        period_text += f", and"
+
                     for item in period_data:
                         pure_key = item.replace("_trend", "").replace("_all", "")
                         contains_all = f"{pure_key}_all" in period_data
@@ -323,19 +332,31 @@ during a sustained {market_trend} market phase.\n"""
         if ("positive" in key_point) and len(key_point["positive"]) > 0:
             positive_text = ""
             candle_is_empty = (candle_text == "") or (candle_text == "\n")
-            positive_text += "" if candle_is_empty else  random.choice(random_connective_words_positive)
+            positive_text += (
+                ""
+                if candle_is_empty
+                else random.choice(random_connective_words_positive)
+            )
             sentence_begin = candle if candle_is_empty else "It "
             positive_text += f"{sentence_begin} {random.choice(shows_alternatives)} slightly better results at forecasting"
             for point, data in key_point.get("positive").items():
                 for period, period_data in data.items():
                     period_text = ""
+                    period_keys = list(data.keys())
+                    period_is_first = period_keys.index(period) == 0
+                    period_is_last = period_keys.index(period) == len(period_keys) - 1
+                    if period_is_first != True and period_is_last != True:
+                        period_text += f". { random.choice(random_connective_words_positive)} it {random.choice(shows_alternatives)} slightly better at "
+                    elif period_is_first != True and period_is_last == True:
+                        period_text += f", and"
+
                     for item in period_data:
                         pure_key = item.replace("_trend", "").replace("_all", "")
                         contains_all = f"{pure_key}_all" in period_data
 
                         if ("_trend" in item) and contains_all:
                             continue
-                        period_text += f", {explanations[item]}"
+                        period_text += f" {explanations[item]}"
                     period_text += f" for {period} Days"
                     period_text = replace_first_commafrom_text(period_text)
                     positive_text += period_text
@@ -356,6 +377,16 @@ during a sustained {market_trend} market phase.\n"""
             for point, data in key_point.get("negative").items():
                 for period, period_data in data.items():
                     period_text = ""
+                    period_keys = list(data.keys())
+                    period_is_first = period_keys.index(period) == 0
+                    period_is_last = period_keys.index(period) == len(period_keys) - 1
+                    if period_is_first != True and period_is_last != True:
+                        period_text += (
+                            f", { random.choice(random_connective_words_positive)}"
+                        )
+                    elif period_is_first != True and period_is_last == True:
+                        period_text += f", and"
+
                     for item in period_data:
                         pure_key = item.replace("_trend", "").replace("_all", "")
                         contains_all = f"{pure_key}_all" in period_data
@@ -391,7 +422,7 @@ def replace_last_comma(text):
     return "".join(parts) if len(parts) > 1 else text
 
 
-def replace_last_text(main_text,text_to_replace,replace_with):
+def replace_last_text(main_text, text_to_replace, replace_with):
     parts = main_text.rsplit(text_to_replace, 1)
     return f" {replace_with} ".join(parts) if len(parts) > 1 else main_text
 

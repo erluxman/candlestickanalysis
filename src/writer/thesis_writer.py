@@ -10,7 +10,7 @@ def write_thesis():
     # write_shortterm_trends("4.4")
     # write_all_criteria("4.5")
     # write_all_observation_durations("4.6")
-    write_all_descriptive_analysis("4.7")
+    # write_all_descriptive_analysis("4.7")
     write_all_inferal_analysis("4.8")
     # write_conclusion("5.0")
     # write /print a chart in scatter plot about the percentage change in stock after a candle is present ( to show if the data is normally distributed)
