@@ -1,5 +1,6 @@
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
 import numpy as np
 import json
 
@@ -30,7 +31,7 @@ def process_data(data):
                                 "Sector": sector,
                                 "Trend": trend,
                                 "Timeframe": timeframe,
-                                "Pattern": pattern,
+                                "Pattern": f"{pattern} ({trend})",  # Include trend in pattern name
                                 "Metric": metric,
                                 "PValue": p_value,
                                 "Significant": significant,
@@ -44,8 +45,11 @@ def process_data(data):
     return df
 
 
-def create_pvalue_plot(df, output_file="candlestick_pvalue_plot.html"):
+def create_pvalue_plot(df, y_max, output_file):
     """Create a scatter plot of p-values for candlestick patterns"""
+    # Define the order for the patterns
+    pattern_order = sorted(df["Pattern"].unique())
+
     # Create the scatter plot
     fig = px.scatter(
         df,
@@ -54,32 +58,33 @@ def create_pvalue_plot(df, output_file="candlestick_pvalue_plot.html"):
         color="Trend",
         hover_name="Metric",
         hover_data=["Trend", "Timeframe", "Sector"],
-        title="Candlestick Pattern P-Values",
         labels={
-            "PValue": "P-Value",
+            "PValue": f"P-Value ({y_max} threshold)",
             "Pattern": "Candlestick Pattern",
             "Trend": "Market Trend",
         },
-        category_orders={"Trend": ["bullish", "bearish"], "Timeframe": ["2", "4", "8"]},
+        category_orders={"Pattern": pattern_order, "Trend": ["bullish", "bearish"], "Timeframe": ["2", "4", "8"]},
     )
 
-    # Add a significance threshold line (p=0.05)
+    # Add a significance threshold line
     fig.add_hline(
-        y=0.05,
+        y=y_max,
         line_dash="dash",
         line_color="red",
-        annotation_text="Significance Threshold (p=0.05)",
+        annotation_text=f"Significance Threshold (p={y_max})",
         annotation_position="bottom right",
     )
 
     # Update layout
     fig.update_layout(
         plot_bgcolor="white",
-        xaxis_title="Candlestick Pattern",
-        yaxis_title="P-Value",
         height=600,
         width=1000,
+        title_text=f"Candlestick Pattern P-Values (y_max={y_max})"
     )
+
+    # Update y-axis range
+    fig.update_yaxes(range=[0, y_max])
 
     # Save and show
     fig.write_html(output_file)
@@ -92,6 +97,8 @@ def show_chart():
     path_of_file = "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/data/step4_descriptive_stats/np/inferal_analysis.json"
     with open(path_of_file) as f:
         data = json.load(f)
-    # Process data and create visualization
+    # Process data and create visualizations
     df = process_data(data)
-    create_pvalue_plot(df)
+    create_pvalue_plot(df, 0.05, "candlestick_pvalue_plot_0_05.html")
+    create_pvalue_plot(df, 0.02, "candlestick_pvalue_plot_0_02.html")
+    create_pvalue_plot(df, 0.01, "candlestick_pvalue_plot_0_01.html")
