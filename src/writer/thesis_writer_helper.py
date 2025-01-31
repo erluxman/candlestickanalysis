@@ -203,6 +203,8 @@ during a sustained {market_trend} market phase.\n\n"""
     stats_description = ""
     used_connectives = True
     is_positive_explanation = True
+    key_points = {}
+    new_explanations = ""
     explanations = {
         "hit_percentage_high_trend": "High criteria with trend",
         "hit_percentage_high_all": "High criteria regardless of trend",
@@ -218,6 +220,9 @@ during a sustained {market_trend} market phase.\n\n"""
         random_bearish_performance = candles.get("Random*", {})
 
         for candle, candle_data in candles.items():
+            if candle not in key_points:
+                key_points[candle] = {}
+
             criteria_success = []
             if candle == "Random" or candle == "Random*":
                 continue
@@ -227,6 +232,45 @@ during a sustained {market_trend} market phase.\n\n"""
             random_to_compare = (
                 random_performance if is_bullish else random_bearish_performance
             )
+            for key, value in candle_data.items():
+                if key not in explanations.keys():
+                    continue
+                random_value = random_to_compare.get(key, 0)
+                candle_value = value
+                if (random_value + 25) < candle_value:
+                    if "significantly_positive" not in key_points[candle]:
+                        key_points[candle]["significantly_positive"] = {"periods": {}}
+
+                    if (
+                        period
+                        not in key_points[candle]["significantly_positive"]["periods"]
+                    ):
+                        key_points[candle]["significantly_positive"]["periods"][
+                            period
+                        ] = []
+
+                    key_points[candle]["significantly_positive"]["periods"][
+                        period
+                    ].append(key)
+
+                elif (random_value + 15) < candle_value:
+                    if "positive" not in key_points[candle]:
+                        key_points[candle]["positive"] = {"periods": {}}
+
+                    if period not in key_points[candle]["positive"]["periods"]:
+                        key_points[candle]["positive"]["periods"][period] = []
+
+                    key_points[candle]["positive"]["periods"][period].append(key)
+
+                elif (random_value - 15) > candle_value:
+                    if "negative" not in key_points[candle]:
+                        key_points[candle]["negative"] = {"periods": {}}
+
+                    if period not in key_points[candle]["negative"]["periods"]:
+                        key_points[candle]["negative"]["periods"][period] = []
+
+                    key_points[candle]["negative"]["periods"][period].append(key)
+
             for key, value in candle_data.items():
                 if key not in explanations.keys():
                     continue
@@ -247,7 +291,48 @@ during a sustained {market_trend} market phase.\n\n"""
                         used_connectives = False
                 stats_description += f"{candle.replace("I.","Inverted")} shows strong performance when {', '.join(criteria_success)} is used instead of picking stocks randomly when we want to pick and hold for {period} Days in average. "
 
+    for candle, key_point in key_points.items():
+        if candle == "Random" or candle == "Random*":
+            continue
+        new_explanations += f"\n\n{candle} shows "
+        if ("significantly_positive" in key_point) and len(
+            key_point["significantly_positive"]
+        ) > 0:
+            new_explanations += f"significantly positive results for "
+            for point,data in key_point.get("significantly_positive").items():
+                for period, period_data in data.items():
+                    new_explanations += f"\n  - {period_data} for {period} Days"
+
+            if len(key_points[candle]["significantly_positive"]) > 2:
+                new_explanations = new_explanations.rsplit(", ", 1)
+                new_explanations = " and ".join(new_explanations)
+            new_explanations+=". "
+        if("positive"  in key_point)and  len(key_point["positive"])>0:
+            new_explanations += f"\n\n{candle} shows positive results for "
+            for point,data in key_point.get("positive").items():
+                for period, period_data in data.items():
+                    new_explanations += f"\n  - {period_data} for {period} Days"
+
+            if len(key_points[candle]["positive"]) > 2:
+                new_explanations = new_explanations.rsplit(", ", 1)
+                new_explanations = " and ".join(new_explanations)
+            new_explanations+=". "
+
+        if ("negative"  in key_point) and   len(key_point["negative"])>0:
+            new_explanations += f" shows negative results for "
+            for point,data in key_point.get("negative").items():
+                for period, period_data in data.items():
+                    new_explanations += f"\n  - {period_data} for {period} Days"
+
+            if len(key_points[candle]["negative"]) > 2:
+                new_explanations = new_explanations.rsplit(", ", 1)
+                new_explanations = " and ".join(new_explanations)
+            new_explanations += ". "
+        if len(key_points[candle]) > 0:
+            new_explanations += "\n\n"
+    new_explanations = new_explanations.replace("I. ", "Inverted ")
     analysis += stats_description
+    analysis += new_explanations
     return analysis
 
 
