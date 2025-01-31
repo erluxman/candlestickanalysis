@@ -200,6 +200,7 @@ during a sustained {market_trend} market phase.\n"""
         "Importantly, ",
         "And, ",
     ]
+    shows_alternatives = ["shows","displays","yields","renders"]
     stats_description = ""
     used_connectives = True
     is_positive_explanation = True
@@ -302,75 +303,72 @@ during a sustained {market_trend} market phase.\n"""
             key_point["significantly_positive"]
         ) > 0:
             significantly_positive_text = ""
-            significantly_positive_text += (
-                f"{candle} shows significantly better results at forecasting"
-            )
+            significantly_positive_text += f"{candle} {random.choice(shows_alternatives)} significantly better results at forecasting"
             for point, data in key_point.get("significantly_positive").items():
                 for period, period_data in data.items():
-
+                    period_text = ""
                     for item in period_data:
-                        pure_key = item.replace("_trend","").replace("_all","")
+                        pure_key = item.replace("_trend", "").replace("_all", "")
                         contains_all = f"{pure_key}_all" in period_data
 
                         if ("_trend" in item) and contains_all:
                             continue
-                        significantly_positive_text += f", {explanations[item]}"
-                    significantly_positive_text += f" for {period} Days"
-            significantly_positive_text = replace_first_commafrom_text(
-                significantly_positive_text
-            )
-            significantly_positive_text = replace_last_comma_with_and(
-                significantly_positive_text
-            )
-            significantly_positive_text += (
-                " when compared to random selection of stocks"
-            )
+                        period_text += f", {explanations[item]}"
+                    period_text += f" for {period} Days"
+                    period_text = replace_first_commafrom_text(period_text)
+                    significantly_positive_text += period_text
+
             significantly_positive_text += ". "
             candle_text += significantly_positive_text
         if ("positive" in key_point) and len(key_point["positive"]) > 0:
-            sentence_begin = "It " if candle_text != "" else candle
             positive_text = ""
-            positive_text += (
-                f"{sentence_begin} shows slightly better results at forecasting"
-            )
+            candle_is_empty = (candle_text == "") or (candle_text == "\n")
+            positive_text += "" if candle_is_empty else  random.choice(random_connective_words_positive)
+            sentence_begin = candle if candle_is_empty else "It "
+            positive_text += f"{sentence_begin} {random.choice(shows_alternatives)} slightly better results at forecasting"
             for point, data in key_point.get("positive").items():
                 for period, period_data in data.items():
+                    period_text = ""
                     for item in period_data:
-                        pure_key = item.replace("_trend", "").replace("_all","")
+                        pure_key = item.replace("_trend", "").replace("_all", "")
                         contains_all = f"{pure_key}_all" in period_data
 
                         if ("_trend" in item) and contains_all:
                             continue
-                        positive_text += f", {explanations[item]}"
-                    positive_text += f" for {period} Days"
+                        period_text += f", {explanations[item]}"
+                    period_text += f" for {period} Days"
+                    period_text = replace_first_commafrom_text(period_text)
+                    positive_text += period_text
 
-            positive_text = replace_first_commafrom_text(positive_text)
-            positive_text = replace_last_comma_with_and(positive_text)
-            positive_text += " when compared to random selection of stocks"
             positive_text += ". "
             candle_text += positive_text
 
         if ("negative" in key_point) and len(key_point["negative"]) > 0:
-            sentence_begin = "It " if candle_text != "" else candle
             negative_text = ""
-            negative_text += f"{sentence_begin} shows worse results  at forecasting"
+            candle_is_empty = (candle_text == "") or (candle_text == "\n")
+            negative_text += (
+                ""
+                if candle_is_empty
+                else random.choice(random_connective_words_positive)
+            )
+            sentence_begin = candle if candle_is_empty else "It"
+            negative_text += f"{sentence_begin} {random.choice(shows_alternatives)} worse results  at forecasting"
             for point, data in key_point.get("negative").items():
                 for period, period_data in data.items():
+                    period_text = ""
                     for item in period_data:
-                        pure_key = item.replace("_trend","").replace("_all","")
+                        pure_key = item.replace("_trend", "").replace("_all", "")
                         contains_all = f"{pure_key}_all" in period_data
 
                         if ("_trend" in item) and contains_all:
                             continue
-                        negative_text += f", {explanations[item]}"
-                    negative_text += f" for {period} Days"
+                        period_text += f", {explanations[item]}"
+                    period_text += f" for {period} Days"
+                    period_text = replace_first_commafrom_text(period_text)
+                    negative_text += period_text
 
-            negative_text = replace_first_commafrom_text(negative_text)
-            negative_text = replace_last_comma_with_and(negative_text)
-            negative_text += " when compared to random selection of stocks"
-            negative_text += ". "
             candle_text += negative_text
-
+            candle_text += " when compared to random selection of stocks."
         new_explanations += candle_text
 
     new_explanations = new_explanations.replace("I. ", "Inverted ")
@@ -386,6 +384,16 @@ def replace_first_commafrom_text(text):
 def replace_last_comma_with_and(text):
     parts = text.rsplit(", ", 1)
     return " and ".join(parts) if len(parts) > 1 else text
+
+
+def replace_last_comma(text):
+    parts = text.rsplit(", ", 1)
+    return "".join(parts) if len(parts) > 1 else text
+
+
+def replace_last_text(main_text,text_to_replace,replace_with):
+    parts = main_text.rsplit(text_to_replace, 1)
+    return f" {replace_with} ".join(parts) if len(parts) > 1 else main_text
 
 
 def write_all_inferal_analysis(document_order):
