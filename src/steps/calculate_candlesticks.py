@@ -261,6 +261,7 @@ def calculate_meta_data(patterns, df, stock_sector, stock, pattern, dates):
                 "pattern": pattern_with_names[pattern],
                 "stock": stock,
                 "meta_data": meta_data,
+                "meta_summary": meta_summary(meta_data),
                 "Close": row["Close"],
                 "High": row["High"],
                 "Low": row["Low"],
@@ -270,6 +271,15 @@ def calculate_meta_data(patterns, df, stock_sector, stock, pattern, dates):
 
     return pattern_data
 
+def meta_summary(meta_data):
+    return_data = {}
+    for criteria, future_data in meta_data["ma_future"].items():
+        return_data[criteria] = {}
+        for duration,data in future_data.items():
+            if data != None:
+                future_ma_value = data["change_percent_from_today"]
+                return_data[criteria][duration] = future_ma_value
+    return return_data
 
 def calculate_candleSticks(input_directory, output_directory, market):
     os.makedirs(output_directory, exist_ok=True)
