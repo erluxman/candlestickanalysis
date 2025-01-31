@@ -187,19 +187,17 @@ def write_all_descriptive_analysis(document_order):
 def analyze_candle_patterns(
     table_data, sector="technology", market_trend="bullish", table_no=1
 ):
-    analysis = f"""The Table no. {table_no} examines candlestick pattern predictive capabilities in the {sector.capitalize()} sector 
-during a long-term {market_trend} market. \n\n"""
-    random_connective_words_negative = [
-        "however",
-        "on the other hand",
-        "conversely",
-        "in contrast",
-    ]
+
+    analysis = f"""Table {table_no} examines the predictive capabilities of candlestick patterns in the {sector.capitalize()} sector 
+during a sustained {market_trend} market phase.\n\n"""
+
     random_connective_words_positive = [
         "Furthermore, ",
         "Additionally, ",
+        "Moreover, ",
         "Likewise, ",
         "Similarly, ",
+        "Importantly, ",
         "And, ",
     ]
     stats_description = ""
