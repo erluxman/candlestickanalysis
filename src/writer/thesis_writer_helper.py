@@ -206,12 +206,12 @@ during a sustained {market_trend} market phase.\n"""
     key_points = {}
     new_explanations = ""
     explanations = {
-        "hit_percentage_high_trend": "High criteria with trend",
-        "hit_percentage_high_all": "High criteria regardless of trend",
-        "hit_percentage_low_trend": "Low criteria with trend",
-        "hit_percentage_low_all": "Low criteria regardless of trend",
-        "hit_percentage_close_trend": "Close criteria with trend",
-        "hit_percentage_close_all": "Close criteria regardless of trend",
+        "hit_percentage_high_trend": "Highs(following a trend)",
+        "hit_percentage_high_all": "Highs",
+        "hit_percentage_low_trend": "Lows (following a trend)",
+        "hit_percentage_low_all": "Lows",
+        "hit_percentage_close_trend": "Closes(following a trend)",
+        "hit_percentage_close_all": "Closes",
     }
     for period, candles in table_data.items():
         if period == "commentry":
@@ -303,47 +303,70 @@ during a sustained {market_trend} market phase.\n"""
         ) > 0:
             significantly_positive_text = ""
             significantly_positive_text += (
-                f"{candle} shows significantly positive results for "
+                f"{candle} shows significantly better results at forecasting"
             )
             for point, data in key_point.get("significantly_positive").items():
                 for period, period_data in data.items():
+
                     for item in period_data:
+                        pure_key = item.replace("_trend","").replace("_all","")
+                        contains_all = f"{pure_key}_all" in period_data
+
+                        if ("_trend" in item) and contains_all:
+                            continue
                         significantly_positive_text += f", {explanations[item]}"
                     significantly_positive_text += f" for {period} Days"
-            significantly_positive_text += ". "
             significantly_positive_text = replace_first_commafrom_text(
                 significantly_positive_text
             )
             significantly_positive_text = replace_last_comma_with_and(
                 significantly_positive_text
             )
+            significantly_positive_text += (
+                " when compared to random selection of stocks"
+            )
+            significantly_positive_text += ". "
             candle_text += significantly_positive_text
         if ("positive" in key_point) and len(key_point["positive"]) > 0:
+            if candle_text != "":
+                candle_text += random.choice(random_connective_words_positive)
             positive_text = ""
-            positive_text += f"{candle} shows positive results for "
+            positive_text += f"{candle} shows slightly better results at forecasting"
             for point, data in key_point.get("positive").items():
                 for period, period_data in data.items():
                     for item in period_data:
+                        pure_key = item.replace("_trend", "").replace("_all","")
+                        contains_all = f"{pure_key}_all" in period_data
+
+                        if ("_trend" in item) and contains_all:
+                            continue
                         positive_text += f", {explanations[item]}"
                     positive_text += f" for {period} Days"
 
-            positive_text += ". "
             positive_text = replace_first_commafrom_text(positive_text)
             positive_text = replace_last_comma_with_and(positive_text)
+            positive_text += " when compared to random selection of stocks"
+            positive_text += ". "
             candle_text += positive_text
 
         if ("negative" in key_point) and len(key_point["negative"]) > 0:
             negative_text = ""
-            negative_text += f"{candle} shows negative results for "
+            negative_text += f"{candle} shows worse results  at forecasting"
             for point, data in key_point.get("negative").items():
                 for period, period_data in data.items():
                     for item in period_data:
+                        pure_key = item.replace("_trend","").replace("_all","")
+                        contains_all = f"{pure_key}_all" in period_data
+                        
+                        if ("_trend" in item) and contains_all:
+                            continue
                         negative_text += f", {explanations[item]}"
                     negative_text += f" for {period} Days"
 
-            negative_text += ". "
             negative_text = replace_first_commafrom_text(negative_text)
             negative_text = replace_last_comma_with_and(negative_text)
+            negative_text += " when compared to random selection of stocks"
+            negative_text += ". "
             candle_text += negative_text
 
         new_explanations += candle_text
