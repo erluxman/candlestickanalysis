@@ -408,6 +408,206 @@ during a sustained {market_trend} market phase.\n"""
     return analysis
 
 
+def inferal_analysis(
+    table_data, sector="technology", market_trend="bullish", table_no=1
+):
+
+    analysis = f"""Table {table_no} examines the predictive capabilities of candlestick patterns in the {sector.capitalize()} sector 
+during a sustained {market_trend} market phase.\n"""
+
+    random_connective_words_positive = [
+        "Furthermore, ",
+        "Additionally, ",
+        "Moreover, ",
+        "Likewise, ",
+        "Similarly, ",
+        "And, ",
+    ]
+    shows_alternatives = ["shows", "displays", "yields", "renders"]
+    stats_description = ""
+    used_connectives = True
+    is_positive_explanation = True
+    key_points = {}
+    new_explanations = ""
+    explanations = {
+        "high_trend": "Highs(following a trend)",
+        "high_all": "Highs",
+        "low_trend": "Lows (following a trend)",
+        "low_all": "Lows",
+        "close_trend": "Closes(following a trend)",
+        "close_all": "Closes",
+    }
+    for period, candles in table_data.items():
+        if period == "commentry":
+            continue
+        random_performance = candles.get("Random", {})
+        random_bearish_performance = candles.get("Random*", {})
+
+        for candle, candle_data in candles.items():
+            if candle not in key_points:
+                key_points[candle] = {}
+
+            criteria_success = []
+            if candle == "Random" or candle == "Random*":
+                continue
+            is_bullish = (
+                True if (candle == "Hammer") or (candle == "I. Hammer") else False
+            )
+            for key, value in candle_data.items():
+                candle_value = value["p_value"]
+                if candle_value =="❌":
+                    continue
+                if (0.01) > candle_value:
+                    if "significantly_positive" not in key_points[candle]:
+                        key_points[candle]["significantly_positive"] = {"periods": {}}
+
+                    if (
+                        period
+                        not in key_points[candle]["significantly_positive"]["periods"]
+                    ):
+                        key_points[candle]["significantly_positive"]["periods"][
+                            period
+                        ] = []
+
+                    key_points[candle]["significantly_positive"]["periods"][
+                        period
+                    ].append(key)
+
+                elif 0.05 > candle_value:
+                    if "positive" not in key_points[candle]:
+                        key_points[candle]["positive"] = {"periods": {}}
+
+                    if period not in key_points[candle]["positive"]["periods"]:
+                        key_points[candle]["positive"]["periods"][period] = []
+
+                    key_points[candle]["positive"]["periods"][period].append(key)
+
+                elif 0.1 < candle_value:
+                    if "negative" not in key_points[candle]:
+                        key_points[candle]["negative"] = {"periods": {}}
+
+                    if period not in key_points[candle]["negative"]["periods"]:
+                        key_points[candle]["negative"]["periods"][period] = []
+
+                    key_points[candle]["negative"]["periods"][period].append(key)
+
+    for candle, key_point in key_points.items():
+        candle_text = ""
+        if candle == "Random" or candle == "Random*":
+            continue
+        if candle in key_points and len(key_points[candle].keys()) > 0:
+            candle_text += "\n"
+
+        if ("significantly_positive" in key_point) and len(
+            key_point["significantly_positive"]
+        ) > 0:
+            significantly_positive_text = ""
+            significantly_positive_text += f"{candle} {random.choice(shows_alternatives)} significantly better results at forecasting"
+            for point, data in key_point.get("significantly_positive").items():
+                for period, period_data in data.items():
+                    period_text = ""
+                    period_keys = list(data.keys())
+                    period_is_first = period_keys.index(period) == 0
+                    period_is_last = period_keys.index(period) == len(period_keys) - 1
+                    if period_is_first != True and period_is_last != True:
+                        period_text += (
+                            f". {random.choice(random_connective_words_positive)}"
+                        )
+                    elif period_is_first != True and period_is_last == True:
+                        period_text += f", and"
+
+                    for item in period_data:
+                        pure_key = item.replace("_trend", "").replace("_all", "")
+                        contains_all = f"{pure_key}_all" in period_data
+
+                        if ("_trend" in item) and contains_all:
+                            continue
+                        period_text += f", {explanations[item]}"
+                    period_text += f" for {period} Days"
+                    period_text = replace_first_commafrom_text(period_text)
+                    significantly_positive_text += period_text
+
+            significantly_positive_text += ". "
+            candle_text += significantly_positive_text
+        if ("positive" in key_point) and len(key_point["positive"]) > 0:
+            positive_text = ""
+            candle_is_empty = (candle_text == "") or (candle_text == "\n")
+            positive_text += (
+                ""
+                if candle_is_empty
+                else random.choice(random_connective_words_positive)
+            )
+            sentence_begin = candle if candle_is_empty else "It "
+            positive_text += f"{sentence_begin} {random.choice(shows_alternatives)} slightly better results at forecasting"
+            for point, data in key_point.get("positive").items():
+                for period, period_data in data.items():
+                    period_text = ""
+                    period_keys = list(data.keys())
+                    period_is_first = period_keys.index(period) == 0
+                    period_is_last = period_keys.index(period) == len(period_keys) - 1
+                    if period_is_first != True and period_is_last != True:
+                        period_text += f". { random.choice(random_connective_words_positive)} it {random.choice(shows_alternatives)} slightly better at "
+                    elif period_is_first != True and period_is_last == True:
+                        period_text += f", and"
+
+                    for item in period_data:
+                        pure_key = item.replace("_trend", "").replace("_all", "")
+                        contains_all = f"{pure_key}_all" in period_data
+
+                        if ("_trend" in item) and contains_all:
+                            continue
+                        period_text += f" {explanations[item]}"
+                    period_text += f" for {period} Days"
+                    period_text = replace_first_commafrom_text(period_text)
+                    positive_text += period_text
+
+            positive_text += ". "
+            candle_text += positive_text
+
+        if ("negative" in key_point) and len(key_point["negative"]) > 0:
+            negative_text = ""
+            candle_is_empty = (candle_text == "") or (candle_text == "\n")
+            negative_text += (
+                ""
+                if candle_is_empty
+                else random.choice(random_connective_words_positive)
+            )
+            sentence_begin = candle if candle_is_empty else "It"
+            negative_text += f"{sentence_begin} {random.choice(shows_alternatives)} worse results  at forecasting"
+            for point, data in key_point.get("negative").items():
+                for period, period_data in data.items():
+                    period_text = ""
+                    period_keys = list(data.keys())
+                    period_is_first = period_keys.index(period) == 0
+                    period_is_last = period_keys.index(period) == len(period_keys) - 1
+                    if period_is_first != True and period_is_last != True:
+                        period_text += (
+                            f", { random.choice(random_connective_words_positive)}"
+                        )
+                    elif period_is_first != True and period_is_last == True:
+                        period_text += f", and"
+
+                    for item in period_data:
+                        pure_key = item.replace("_trend", "").replace("_all", "")
+                        contains_all = f"{pure_key}_all" in period_data
+
+                        if ("_trend" in item) and contains_all:
+                            continue
+                        period_text += f", {explanations[item]}"
+                    period_text += f" for {period} Days"
+                    period_text = replace_first_commafrom_text(period_text)
+                    negative_text += period_text
+
+            candle_text += negative_text
+            candle_text += " when compared to random selection of stocks."
+        new_explanations += candle_text
+
+    new_explanations = new_explanations.replace("I. ", "Inverted ")
+    # analysis += stats_description
+    analysis += new_explanations
+    return analysis
+
+
 def replace_first_commafrom_text(text):
     return text.replace(",", "", 1)
 
@@ -433,7 +633,7 @@ def write_all_inferal_analysis(document_order):
     table_no = 11
 
     descriptive_analysis_file = (
-        f"{np_data_path_descriptive_stats}/descriptive_analytics.json"
+        f"{np_data_path_descriptive_stats}/inferal_analysis.json"
     )
     thesis_body = writer.thesis_body()
     with open(descriptive_analysis_file, "r") as file:
@@ -442,9 +642,10 @@ def write_all_inferal_analysis(document_order):
         for sector, tickers in sectors_under_study.items():
             for long_trend in long_trends:
                 table_data = descriptive_data[sector][long_trend.lower()]
-                # writer.add_paragraph(
-                #     thesis_body, get_random_inferal_analysis_text(table_no)
-                # )
+                writer.add_paragraph(
+                    thesis_body,
+                    inferal_analysis(table_data, sector, long_trend, table_no),
+                )
                 add_table_inferal(thesis_body, table_data, sector, long_trend)
 
                 writer.add_paragraph(
