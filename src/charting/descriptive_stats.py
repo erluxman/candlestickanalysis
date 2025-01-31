@@ -84,7 +84,15 @@ def create_whisker_plot(data_rows):
                         marker_color="orange" if trend == "bullish" else "blue",
                     )
                 )
-
+                # Add a horizontal line at y=0
+                fig.add_shape(
+                    type="line",
+                    x0=-0.5,
+                    x1=len(patterns) - 0.5,
+                    y0=0,
+                    y1=0,
+                    line=dict(color="grey", width=1, dash="dash"),
+                )
         # Update layout for cleaner presentation
         fig.update_layout(
             # title=f"{duration}-Day Return Rate Distribution",
@@ -111,6 +119,23 @@ def create_whisker_plot(data_rows):
             ),
         )
 
+        fig.add_trace(
+            go.Scatter(
+                x=[None],
+                y=[None],
+                mode="markers",
+                marker=dict(
+                    size=10,
+                    symbol="square",
+                    color="orange",
+                    line=dict(
+                        width=2, color="darkorange"
+                    ),  # Darker border around the rectangle
+                ),
+                name="Bullish",
+                legendgroup="bullish",
+            )
+        )
         # Create custom legend
         fig.add_trace(
             go.Scatter(
@@ -122,22 +147,6 @@ def create_whisker_plot(data_rows):
                 symbol="square",
                 color="blue",
                 line=dict(width=2, color="darkblue")  # Darker border around the rectangle
-            ),
-            name="Bullish",
-            legendgroup="bullish",
-            )
-        )
-
-        fig.add_trace(
-            go.Scatter(
-            x=[None],
-            y=[None],
-            mode="markers",
-            marker=dict(
-                size=10,
-                symbol="square",
-                color="orange",
-                line=dict(width=2, color="darkorange")  # Darker border around the rectangle
             ),
             name="Bearish",
             legendgroup="bearish",
