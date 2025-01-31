@@ -75,9 +75,7 @@ def create_whisker_plot(data_rows):
                         go.Box(
                             y=data,
                             name=f"{trend.capitalize()} {pattern}",
-                            marker_color=trend_color,
                             boxpoints=False,
-                            showlegend=False,
                             xaxis="x",  # Use primary x-axis
                             offsetgroup=pattern,
                             alignmentgroup=pattern,
@@ -87,7 +85,7 @@ def create_whisker_plot(data_rows):
 
         # Update layout for cleaner presentation
         fig.update_layout(
-            title=f"{duration}-Day Return Rate Distribution",
+            # title=f"{duration}-Day Return Rate Distribution",
             xaxis=dict(
                 tickvals=[np.mean(v) for v in pos_mapping.values()],
                 ticktext=patterns,
