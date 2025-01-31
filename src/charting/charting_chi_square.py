@@ -50,8 +50,8 @@ def create_whisker_plot(df, output_file):
                 x=trend_df["Pattern"],
                 y=trend_df["PValue"],
                 name=trend,
-                boxpoints="all",
-                boxmean=True
+                boxpoints=False,
+                boxmean=True,
             )
         )
 
