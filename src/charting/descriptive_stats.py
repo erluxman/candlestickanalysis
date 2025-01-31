@@ -67,21 +67,22 @@ def create_whisker_plot(data_rows):
             current_pos += 1
 
         # Add traces for each trend and pattern
-        for trend, trend_color in [("bullish", "blue"), ("bearish", "orange")]:
+        for trend in ["bullish", "bearish"]:
             for pattern in patterns:
                 data = trends[trend].get(pattern, [])
                 if data:  # Only add if data exists
                     fig.add_trace(
-                        go.Box(
-                            y=data,
-                            name=f"{trend.capitalize()} {pattern}",
-                            boxpoints=False,
-                            xaxis="x",  # Use primary x-axis
-                            offsetgroup=pattern,
-                            alignmentgroup=pattern,
-                            x0=pos_mapping[pattern][0 if trend == "bullish" else 1],
-                        )
+                    go.Box(
+                        y=data,
+                        name=f"{trend.capitalize()} {pattern}",
+                        boxpoints=False,
+                        xaxis="x",  # Use primary x-axis
+                        offsetgroup=pattern,
+                        alignmentgroup=pattern,
+                        x0=pos_mapping[pattern][0 if trend == "bullish" else 1],
+                        showlegend=False,  # Disable legend for each trace
                     )
+                )
 
         # Update layout for cleaner presentation
         fig.update_layout(
