@@ -328,10 +328,11 @@ during a sustained {market_trend} market phase.\n"""
             significantly_positive_text += ". "
             candle_text += significantly_positive_text
         if ("positive" in key_point) and len(key_point["positive"]) > 0:
-            if candle_text != "":
-                candle_text += random.choice(random_connective_words_positive)
+            sentence_begin = "It " if candle_text != "" else candle
             positive_text = ""
-            positive_text += f"{candle} shows slightly better results at forecasting"
+            positive_text += (
+                f"{sentence_begin} shows slightly better results at forecasting"
+            )
             for point, data in key_point.get("positive").items():
                 for period, period_data in data.items():
                     for item in period_data:
@@ -350,14 +351,15 @@ during a sustained {market_trend} market phase.\n"""
             candle_text += positive_text
 
         if ("negative" in key_point) and len(key_point["negative"]) > 0:
+            sentence_begin = "It " if candle_text != "" else candle
             negative_text = ""
-            negative_text += f"{candle} shows worse results  at forecasting"
+            negative_text += f"{sentence_begin} shows worse results  at forecasting"
             for point, data in key_point.get("negative").items():
                 for period, period_data in data.items():
                     for item in period_data:
                         pure_key = item.replace("_trend","").replace("_all","")
                         contains_all = f"{pure_key}_all" in period_data
-                        
+
                         if ("_trend" in item) and contains_all:
                             continue
                         negative_text += f", {explanations[item]}"
