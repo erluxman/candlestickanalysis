@@ -2,6 +2,7 @@ import pandas as pd
 import plotly.express as px
 import src.steps.docx_output.docx_writer as writer
 
+
 def save_chart(fig):
     thesis_body = writer.thesis_body()
 
@@ -51,6 +52,25 @@ def style_chart(fig, title):
             fillcolor=trace.marker.color,  # Explicitly retain fill color
         ),
         selector=dict(type="box"),
+    )
+    fig.update_layout(
+        xaxis=dict(
+            showgrid=True,  # Show x-axis grid
+            gridcolor="grey",  # Grid line color
+            gridwidth=1,  # Grid line thickness
+        ),
+        yaxis=dict(
+            showgrid=True,  # Show y-axis grid
+            gridcolor="grey",
+            gridwidth=1,
+        ),
+    )
+    fig.add_hline(
+        y=0,
+        line=dict(
+            color="grey",  # Line color
+            width=1,  # Line thickness
+        ),
     )
     return fig
 
