@@ -9,7 +9,5 @@ from src.steps.compute_descriptive_stats import *
 # calculate_candleSticks()
 # ##### compose_transformation_result()
 # compute_descriptive_stats()
-
-write_thesis()
-
-# show_stastical_chart()
+show_stastical_chart()
+# write_thesis()

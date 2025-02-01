@@ -5,7 +5,7 @@ import json
 
 def process_return_rate_data(data):
     """Flatten the JSON structure into a nested dictionary organized by observation_duration"""
-    data_rows = {}  # Structure: data_rows[observation_duration][trend][pattern] = list
+    data_rows = []  # Structure: data_rows[observation_duration][trend][pattern] = list
 
     for sector, sector_data in data.items():
         for trend, trend_data in sector_data.items():
@@ -20,31 +20,17 @@ def process_return_rate_data(data):
                                 observation_duration,
                                 observation_data,
                             ) in criteria_data.items():
+                                data_rows.append(
+                                    {
+                                        "Timeframe": observation_duration,
+                                        "Return Rate": observation_data,
+                                        "Trend": trend,
+                                        "Pattern": pattern,
+                                        "Criteria": criteria,
+                                        "Sector": sector,
+                                    }
+                                )
 
-                                # new format
-                                data_rows.setdefault(trend, {})
-                                data_rows[trend].setdefault(pattern, {})
-                                data_rows[trend][pattern].setdefault(
-                                    criteria, [])
-                                if observation_data:
-                                    current_data = data_rows[trend][pattern][criteria]
-                                    current_data.append(observation_data)
-
-                                # Initialize nested structure
-                                # data_rows.setdefault(observation_duration, {})
-                                # data_rows[observation_duration].setdefault(trend, {})
-                                # data_rows[observation_duration][trend].setdefault(
-                                #     pattern, []
-                                # )
-
-                                # # Add data if exists
-                                # if observation_data:
-                                #     data_rows[observation_duration][trend][
-                                #         pattern
-                                #     ].append(observation_data)
-
-    # Save and return the reorganized data
-    # Hammer (bullishXbearish)
     output_path = "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/data/step4_descriptive_stats/np/processed_return_rate_data.json"
     with open(output_path, "w") as outfile:
         json.dump(data_rows, outfile, indent=4)
@@ -83,18 +69,18 @@ def create_whisker_plot(data_rows):
                 data = trends[trend].get(pattern, [])
                 if data:  # Only add if data exists
                     fig.add_trace(
-                    go.Box(
-                        y=data,
-                        name=f"{trend.capitalize()} {pattern}",
-                        boxpoints=False,
-                        xaxis="x",  # Use primary x-axis
-                        offsetgroup=pattern,
-                        alignmentgroup=pattern,
-                        x0=pos_mapping[pattern][0 if trend == "bullish" else 1],
-                        showlegend=False,  # Disable legend for each trace
-                        marker_color="orange" if trend == "bullish" else "blue",
+                        go.Box(
+                            y=data,
+                            name=f"{trend.capitalize()} {pattern}",
+                            boxpoints=False,
+                            xaxis="x",  # Use primary x-axis
+                            offsetgroup=pattern,
+                            alignmentgroup=pattern,
+                            x0=pos_mapping[pattern][0 if trend == "bullish" else 1],
+                            showlegend=False,  # Disable legend for each trace
+                            marker_color="orange" if trend == "bullish" else "blue",
+                        )
                     )
-                )
                 # Add a horizontal line at y=0
                 fig.add_shape(
                     type="line",
@@ -108,10 +94,10 @@ def create_whisker_plot(data_rows):
         fig.update_layout(
             # title=f"{duration}-Day Return Rate Distribution",
             xaxis=dict(
-            tickvals=[np.mean(v) for v in pos_mapping.values()],
-            ticktext=patterns,
-            title=f"Candlestick Patterns {duration} Days",
-            showgrid=True,
+                tickvals=[np.mean(v) for v in pos_mapping.values()],
+                ticktext=patterns,
+                title=f"Candlestick Patterns {duration} Days",
+                showgrid=True,
             ),
             yaxis=dict(title="Return Rate (%)", range=[-5, 5], gridcolor="lightgrey"),
             boxmode="group",
@@ -121,12 +107,12 @@ def create_whisker_plot(data_rows):
             height=600,
             width=1200,
             legend=dict(
-            orientation="h",
-            yanchor="bottom",
-            y=1.02,
-            xanchor="center",
-            x=0.5,
-            itemsizing="constant",
+                orientation="h",
+                yanchor="bottom",
+                y=1.02,
+                xanchor="center",
+                x=0.5,
+                itemsizing="constant",
             ),
         )
 
@@ -150,29 +136,31 @@ def create_whisker_plot(data_rows):
         # Create custom legend
         fig.add_trace(
             go.Scatter(
-            x=[None],
-            y=[None],
-            mode="markers",
-            marker=dict(
-                size=10,
-                symbol="square",
-                color="blue",
-                line=dict(width=2, color="darkblue")  # Darker border around the rectangle
-            ),
-            name="Bearish",
-            legendgroup="bearish",
+                x=[None],
+                y=[None],
+                mode="markers",
+                marker=dict(
+                    size=10,
+                    symbol="square",
+                    color="blue",
+                    line=dict(
+                        width=2, color="darkblue"
+                    ),  # Darker border around the rectangle
+                ),
+                name="Bearish",
+                legendgroup="bearish",
             )
         )
 
         # Update legend to show in top right
         fig.update_layout(
             legend=dict(
-            orientation="v",
-            yanchor="top",
-            y=1,
-            xanchor="right",
-            x=1.1,  # Adjust x to create a gap between chart and legend
-            itemsizing="constant",
+                orientation="v",
+                yanchor="top",
+                y=1,
+                xanchor="right",
+                x=1.1,  # Adjust x to create a gap between chart and legend
+                itemsizing="constant",
             )
         )
 
