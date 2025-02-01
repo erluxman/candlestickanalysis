@@ -7,69 +7,113 @@ import json
 
 def process_data_for_whisker(data):
     """Flatten the nested JSON structure into a DataFrame for whisker plot"""
-    data_rows = []
+    data_rows = {}
     for sector, sector_data in data.items():
         for trend, trend_data in sector_data.items():
             for timeframe, timeframe_data in trend_data.items():
                 for pattern, pattern_data in timeframe_data.items():
                     for metric, metric_data in pattern_data.items():
                         # Handle "❌" values and convert to None
+                        if "_trend" in metric:
+                            continue
+                        criteria = metric.split("_")[0]
                         p_value = (
                             metric_data["p_value"]
                             if metric_data["p_value"] != "❌"
                             else None
                         )
 
-                        data_rows.append(
-                            {
-                                "Sector": sector,
-                                "Trend": trend,
-                                "Timeframe": timeframe,
-                                "Pattern": pattern,
-                                "PValue": p_value,
-                            }
-                        )
+                        if p_value:
+                            data_rows.setdefault(trend, {})
+                            data_rows[trend].setdefault(pattern, {})
+                            data_rows[trend][pattern].setdefault(criteria, [])
+                            current_data = data_rows[trend][pattern][criteria]
+                            current_data.append(p_value)
+                            data_rows[trend][pattern][criteria] = current_data
 
-    df = pd.DataFrame(data_rows)
-    df = df.dropna()  # Remove rows with missing p-values
-    df["PValue"] = df["PValue"].astype(float)
-    return df
+    return data_rows
+
 
 def create_whisker_plot(df, output_file):
-    """Create a whisker plot for candlestick patterns"""
-    # Define the order for the patterns
-    pattern_order = sorted(df["Pattern"].unique())
+    print("printing basic plot")  # Print a message indicating the start of the plot generation
 
-    # Create the box plot
-    fig = go.Figure()
+    # Generate random data for demonstration
+    random_data = {
+        "Criteria": np.random.choice(["High", "Low","Close"], 100),  # Generate 100 random trends
+        "Pattern": np.random.choice(["Hammer", "I. Hammer", "Shooting Star","Hanging Man"], 100),  # Generate 100 random patterns
+        "PValue": np.random.rand(100)  # Generate 100 random p-values
+    }
 
-    for trend in df["Trend"].unique():
-        trend_df = df[df["Trend"] == trend]
-        fig.add_trace(
-            go.Box(
-                x=trend_df["Pattern"],
-                y=trend_df["PValue"],
-                name=trend,
-                boxpoints=False,
-                boxmean=True,
-            )
-        )
+    order_of_candles = ["Hammer", "I. Hammer", "Shooting Star", "Hanging Man"]
 
-    # Update layout
-    fig.update_layout(
-        plot_bgcolor="white",
-        height=600,
-        width=1000,
-        title_text="Candlestick Pattern P-Values Whisker Plot",
-        xaxis_title="Candlestick Pattern",
-        yaxis_title="P-Value",
-        boxmode="group"
+    df = pd.DataFrame(random_data)  # Create a DataFrame from the random data
+
+    # Ensure the 'Pattern' column is ordered according to 'order_of_candles'
+    df["Pattern"] = pd.Categorical(df["Pattern"], categories=order_of_candles, ordered=True)
+    df = df.sort_values("Pattern")
+    # Define custom colors for the trends
+    trend_colors = {
+        "High": "black",
+        "Low": "white",
+        "Close": "gray"
+    }
+
+    # Create a box plot using Plotly Express with custom colors
+    fig = px.box(
+        df,
+        x="Pattern",
+        y="PValue",
+        color="Criteria",
+        points=False,
+        color_discrete_map=trend_colors,
     )
+    fig.update_traces(marker=dict(line=dict(color="black")), selector=dict(type='box'))
 
-    # Save and show
-    fig.write_html(output_file)
-    fig.show()
-    print(f"Whisker plot saved to {output_file}")
+    # Create a box plot using Plotly Express
+
+    # fig = px.box(df, x="Pattern", y="PValue", color="Trend", points="all")
+    fig.update_layout(
+        title="Random Data Whisker Plot",
+        xaxis_title="Pattern",
+        yaxis_title="P-Value",
+        dragmode=False,  # Disable drag mode
+        hovermode="closest",  # Set hover mode to closest
+        showlegend=True,  # Show legend
+        margin=dict(l=40, r=40, t=40, b=40),  # Set margins
+        xaxis=dict(fixedrange=True),  # Disable zoom on x-axis
+        yaxis=dict(fixedrange=True)  # Disable zoom on y-axis
+    )
+    fig.show()  # Display the plot
+
+    # pattern_order = sorted(df["Pattern"].unique())
+
+    # fig = go.Figure()
+
+    # for trend in df["Trend"].unique():
+    #     trend_df = df[df["Trend"] == trend]
+    #     fig.add_trace(
+    #         go.Box(
+    #             x=trend_df["Pattern"],
+    #             y=trend_df["PValue"],
+    #             name=trend,
+    #             boxpoints=False,
+    #             boxmean=True,
+    #         )
+    #     )
+
+    # fig.update_layout(
+    #     plot_bgcolor="white",
+    #     height=600,
+    #     width=1000,
+    #     title_text="Candlestick Pattern P-Values Whisker Plot",
+    #     xaxis_title="Candlestick Pattern",
+    #     yaxis_title="P-Value",
+    #     boxmode="group",
+    # )
+
+    # fig.write_html(output_file)
+    # fig.show()
+    # print(f"Whisker plot saved to {output_file}")
 
 
 def show_chart():
@@ -78,4 +122,5 @@ def show_chart():
     with open(path_of_file) as f:
         data = json.load(f)
     df = process_data_for_whisker(data)
+    print("fdad")
     create_whisker_plot(df, "candlestick_whisker_plot.html")

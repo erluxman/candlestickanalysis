@@ -143,8 +143,31 @@ def write_dummy_docx():
     )
     add_chart(body, lambda ax: ax.scatter([1, 2, 3, 4, 5], [10, 20, 25, 30, 40]))
     add_chart(body, lambda ax: ax.boxplot([20, 30, 40, 50, 60, 70, 80, 90, 100]))
+    # plot([20, 30, 40, 50, 60, 70, 80, 90, 100], positions=[1], widths=0.6)
+    # ax.boxplot([15, 25, 35, 45, 55, 65, 75, 85, 95], positions=[2], widths=0.6)
+    # ax.set_xticks([1, 2])
+    # ax.set_xticklabels(['Boxplot 1', 'Boxplot 2'])
     add_chart(body, lambda ax: ax.plot([1, 2, 3, 4, 5], [10, 20, 30, 40, 50]))
+    fig, axs = plt.subplots(1, 3, figsize=(12, 4))
+    data1 = [20, 30, 40, 50, 60, 70, 80, 90, 100]
+    data2 = [15, 25, 35, 45, 55, 65, 75, 85, 95]
+    data3 = [10, 20, 30, 40, 50, 60, 70, 80, 90]
 
+    axs[0].boxplot(data1)
+    axs[0].set_title('Boxplot 1')
+
+    axs[1].boxplot(data2)
+    axs[1].set_title('Boxplot 2')
+
+    axs[2].boxplot(data3)
+    axs[2].set_title('Boxplot 3')
+
+    plt.tight_layout()
+    chart_image = BytesIO()
+    plt.savefig(chart_image, format="png")
+    chart_image.seek(0)
+    body.add_picture(chart_image, width=Inches(6.0))
+    plt.close(fig)
     reference = thesis_ref()
     long_table_data = [["Index", "Description"]] + [
         [str(i), f"Description for item {i}"] for i in range(1, 21)
