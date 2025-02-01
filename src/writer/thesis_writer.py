@@ -1,9 +1,10 @@
+from src.charting.charting_chi_square import write_chart_to_thesis
 from src.writer.thesis_writer_helper import *
 
 
 def write_thesis():
     clear_thesis()
-    write_dummy_thesis()
+    # write_dummy_thesis()
     # write_candlestick_selection("4.1")
     # write_sectors_under_investigation("4.2")
     # write_longterm_trends("4.3")
@@ -17,5 +18,5 @@ def write_thesis():
     # may be boxplot or whisker plot will also be good one for this
     # may be scatter plot and box plots will be best
     # apply_apa_guidelines()
+    write_chart_to_thesis()
     open_thesis()
-    

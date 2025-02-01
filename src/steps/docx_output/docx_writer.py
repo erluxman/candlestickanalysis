@@ -88,8 +88,6 @@ ref_path = "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/src/steps/doc
 
 
 def open_thesis():
-    desktop_path ="/Users/laxmanbhattarai/Desktop/thesis.docx"
-    shutil.copy(thesis_path, desktop_path)
     os.system(f"open {thesis_path}")
 
 
