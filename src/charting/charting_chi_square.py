@@ -35,14 +35,60 @@ def process_data_for_whisker(data):
     return data_rows
 
 
-def create_whisker_plot(df):
+def save_chart(fig):
     thesis_body = writer.thesis_body()
+
+    file_name = (
+        "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/src/charting/temp.png"
+    )
+    fig.write_image(
+        file_name,
+        width=1920,
+        height=1080,
+        scale=2,
+    )
+    writer.add_image(thesis_body, file_name)
+    writer.save_document(thesis_body, writer.thesis_path)
+
+
+def style_chart(fig, title):
+    fig.update_layout(
+        title={
+            "text": title,
+            "x": 0.5,  # Center the title
+            "xanchor": "center",
+            "font": {"size": 50},
+        },
+        xaxis_title="Pattern",
+        yaxis_title="P-Value",
+        dragmode=False,  # Disable drag mode
+        showlegend=True,  # Show legend
+        margin=dict(t=100),  # Add extra space to the top
+        plot_bgcolor="white",  # Set background color to white
+        paper_bgcolor="white",  # Set paper background color to white
+        font=dict(size=35),  # Increase font size by 5
+        xaxis=dict(title_font=dict(size=35), tickfont=dict(size=35)),
+        yaxis=dict(title_font=dict(size=35), tickfont=dict(size=35)),
+        legend=dict(font=dict(size=35)),
+    )
+    return fig
+
+
+def get_dummy_data():
+    trend_colors = {"High": "black", "Low": "white", "Close": "gray"}
+    candles = ["Hammer", "I. Hammer", "Shooting Star", "Hanging Man"]
+    return {
+        "Criteria": np.random.choice(list(trend_colors.keys()), 100),
+        "Pattern": np.random.choice(candles, 100),  # Generate 100 random patterns
+        "PValue": np.random.rand(100),  # Generate 100 random p-values
+    }
+
+
+def create_whisker_plot(df):
     trend_colors = {"High": "black", "Low": "white", "Close": "gray"}
     candles = ["Hammer", "I. Hammer", "Shooting Star", "Hanging Man"]
     random_data = {
-        "Criteria": np.random.choice(
-            list(trend_colors.keys()), 100
-        ),  # Generate 100 random trends
+        "Criteria": np.random.choice(list(trend_colors.keys()), 100),
         "Pattern": np.random.choice(candles, 100),  # Generate 100 random patterns
         "PValue": np.random.rand(100),  # Generate 100 random p-values
     }
@@ -72,37 +118,8 @@ def create_whisker_plot(df):
         selector=dict(type="box"),
     )
 
-    fig.update_layout(
-        title={
-            "text": "Random Data Whisker Plot",
-            "x": 0.5,  # Center the title
-            "xanchor": "center",
-            "font": {"size": 50},
-        },
-        xaxis_title="Pattern",
-        yaxis_title="P-Value",
-        dragmode=False,  # Disable drag mode
-        showlegend=True,  # Show legend
-        margin=dict(t=100),  # Add extra space to the top
-        plot_bgcolor="white",  # Set background color to white
-        paper_bgcolor="white",  # Set paper background color to white
-        font=dict(size=35),  # Increase font size by 5
-        xaxis=dict(title_font=dict(size=35), tickfont=dict(size=35)),
-        yaxis=dict(title_font=dict(size=35), tickfont=dict(size=35)),
-        legend=dict(font=dict(size=35)),
-    )
-
-    file_name = (
-        "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/src/charting/temp.png"
-    )
-    fig.write_image(
-        file_name,
-        width=1920,
-        height=1080,
-        scale=2,
-    )
-    writer.add_image(thesis_body, file_name)
-    writer.save_document(thesis_body, writer.thesis_path)
+    fig = style_chart(fig, "Random Data Whisker Plot")
+    save_chart(fig)
 
 
 def write_chart_to_thesis():
