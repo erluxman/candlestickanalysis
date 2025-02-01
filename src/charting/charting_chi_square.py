@@ -131,10 +131,8 @@ def create_whisker_plot(
     for key, values in qualified_values.items():
         df = df[df[key].isin(values)]
 
-    df["Pattern"] = pd.Categorical(
-        df["Pattern"], categories=qualified_values[x], ordered=True
-    )
-    df = df.sort_values("Pattern")
+    df[x] = pd.Categorical(df[x], categories=qualified_values[x], ordered=True)
+    df = df.sort_values(x)
 
     df = df[df["PValue"].apply(filter_function)]
 
@@ -165,7 +163,11 @@ def write_chart_to_thesis():
         get_dummy_data(),
         qualified_values={
             "Criteria": ["High", "Low", "Close"],
-            "Pattern": ["I. Hammer", "Shooting Star", "Hammer"],
+            "Pattern": [
+                "Hammer",
+                "Shooting Star",
+                "I. Hammer",
+            ],
         },
         filter_function=lambda x: x < 0.5,
         x="Pattern",
