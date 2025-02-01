@@ -99,8 +99,8 @@ def create_whisker_plot(data_rows):
             xaxis=dict(
             tickvals=[np.mean(v) for v in pos_mapping.values()],
             ticktext=patterns,
-            title="Candlestick Patterns",
-            showgrid=False,
+            title=f"Candlestick Patterns {duration} Days",
+            showgrid=True,
             ),
             yaxis=dict(title="Return Rate (%)", range=[-5, 5], gridcolor="lightgrey"),
             boxmode="group",

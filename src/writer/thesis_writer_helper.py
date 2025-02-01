@@ -178,7 +178,7 @@ def write_all_descriptive_analysis(document_order):
                 writer.add_paragraph(
                     thesis_body,
                     f"Table {table_no}. Candles Observation for {sector} Stocks in {long_trend} Market",
-                    small_font=True,
+                    # small_font=True,
                 )
                 table_no += 1
     writer.save_document(thesis_body, writer.thesis_path)
