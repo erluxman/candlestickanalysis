@@ -119,14 +119,13 @@ candle_colors = [
 
 
 def create_whisker_plot(
-    random_input,
+    df,
     qualified_values,
     filter_function,
     x,
     y,
     color,
 ):
-    df = pd.DataFrame(random_input)
 
     for key, values in qualified_values.items():
         df = df[df[key].isin(values)]
