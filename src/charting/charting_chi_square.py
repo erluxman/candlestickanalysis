@@ -84,7 +84,8 @@ def get_dummy_data():
     }
 
 
-def create_whisker_plot(df):
+def create_whisker_plot(df, qualified_values):
+
     trend_colors = {"High": "black", "Low": "white", "Close": "gray"}
     candles = ["Hammer", "I. Hammer", "Shooting Star", "Hanging Man"]
     random_data = {
@@ -94,6 +95,9 @@ def create_whisker_plot(df):
     }
 
     df = pd.DataFrame(random_data)  # Create a DataFrame from the random data
+    
+    for key, values in qualified_values.items():
+        df = df[df[key].isin(values)]
 
     df["Pattern"] = pd.Categorical(df["Pattern"], categories=candles, ordered=True)
     df = df.sort_values("Pattern")
@@ -123,9 +127,14 @@ def create_whisker_plot(df):
 
 
 def write_chart_to_thesis():
-    # Load your data (replace this with your actual data loading)
     path_of_file = "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/data/step4_descriptive_stats/np/inferal_analysis.json"
     with open(path_of_file) as f:
         data = json.load(f)
     df = process_data_for_whisker(data)
-    create_whisker_plot(df)
+    create_whisker_plot(
+        df,
+        qualified_values={
+            "Criteria": ["High", "Low","Close"],
+            "Pattern": ["Hammer", "I. Hammer"],
+        },
+    )
