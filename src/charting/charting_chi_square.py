@@ -138,5 +138,5 @@ def write_chart_to_thesis():
             "Criteria": ["High", "Low", "Close"],
             "Pattern": ["Hammer", "I. Hammer"],
         },
-        filter_function=lambda PValue: PValue < 0.5,
+        filter_function=lambda x: x < 0.5,
     )
