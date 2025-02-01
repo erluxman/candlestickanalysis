@@ -84,7 +84,7 @@ def get_dummy_data():
     }
 
 
-def create_whisker_plot(df, qualified_values):
+def create_whisker_plot(df, qualified_values,filter_function):
 
     trend_colors = {"High": "black", "Low": "white", "Close": "gray"}
     candles = ["Hammer", "I. Hammer", "Shooting Star", "Hanging Man"]
@@ -101,6 +101,7 @@ def create_whisker_plot(df, qualified_values):
 
     df["Pattern"] = pd.Categorical(df["Pattern"], categories=candles, ordered=True)
     df = df.sort_values("Pattern")
+    df = df[df["PValue"].apply(filter_function)]
 
     fig = px.box(
         df,
@@ -134,7 +135,8 @@ def write_chart_to_thesis():
     create_whisker_plot(
         df,
         qualified_values={
-            "Criteria": ["High", "Low","Close"],
+            "Criteria": ["High", "Low", "Close"],
             "Pattern": ["Hammer", "I. Hammer"],
         },
+        filter_function=lambda PValue: PValue < 0.5,
     )
