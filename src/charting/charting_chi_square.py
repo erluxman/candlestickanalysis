@@ -59,8 +59,6 @@ def style_chart(fig, title):
             "xanchor": "center",
             "font": {"size": 50},
         },
-        xaxis_title="Pattern",
-        yaxis_title="P-Value",
         dragmode=False,  # Disable drag mode
         showlegend=True,  # Show legend
         margin=dict(t=100),  # Add extra space to the top
@@ -69,49 +67,14 @@ def style_chart(fig, title):
         font=dict(size=35),  # Increase font size by 5
         xaxis=dict(title_font=dict(size=35), tickfont=dict(size=35)),
         yaxis=dict(title_font=dict(size=35), tickfont=dict(size=35)),
-        legend=dict(font=dict(size=35)),
+        legend=dict(
+            font=dict(size=35),
+            itemclick=False,
+            tracegroupgap=30,
+            borderwidth=2,
+            bordercolor="black",
+        ),
     )
-    return fig
-
-
-def get_dummy_data():
-    trend_colors = {"High": "black", "Low": "white", "Close": "gray"}
-    candles = ["Hammer", "I. Hammer", "Shooting Star", "Hanging Man"]
-    return {
-        "Criteria": np.random.choice(list(trend_colors.keys()), 100),
-        "Pattern": np.random.choice(candles, 100),  # Generate 100 random patterns
-        "PValue": np.random.rand(100),  # Generate 100 random p-values
-    }
-
-
-def create_whisker_plot(df, qualified_values,filter_function):
-
-    trend_colors = {"High": "black", "Low": "white", "Close": "gray"}
-    candles = ["Hammer", "I. Hammer", "Shooting Star", "Hanging Man"]
-    random_data = {
-        "Criteria": np.random.choice(list(trend_colors.keys()), 100),
-        "Pattern": np.random.choice(candles, 100),  # Generate 100 random patterns
-        "PValue": np.random.rand(100),  # Generate 100 random p-values
-    }
-
-    df = pd.DataFrame(random_data)  # Create a DataFrame from the random data
-    
-    for key, values in qualified_values.items():
-        df = df[df[key].isin(values)]
-
-    df["Pattern"] = pd.Categorical(df["Pattern"], categories=candles, ordered=True)
-    df = df.sort_values("Pattern")
-    df = df[df["PValue"].apply(filter_function)]
-
-    fig = px.box(
-        df,
-        x="Pattern",
-        y="PValue",
-        color="Criteria",
-        points=False,
-        color_discrete_map=trend_colors,
-    )
-
     fig.for_each_trace(
         lambda trace: trace.update(
             line=dict(
@@ -122,8 +85,61 @@ def create_whisker_plot(df, qualified_values,filter_function):
         ),
         selector=dict(type="box"),
     )
+    return fig
+
+
+def get_dummy_data():
+    trend_colors = {"High": "black", "Low": "white", "Close": "gray"}
+    candles = ["Hammer", "I. Hammer", "Shooting Star", "Hanging Man"]
+    dictionary = {
+        "Criteria": np.random.choice(list(trend_colors.keys()), 100),
+        "Pattern": np.random.choice(candles, 100),  # Generate 100 random patterns
+        "PValue": np.random.rand(100),  # Generate 100 random p-values
+    }
+    list_of_dicts = [
+        {"Criteria": criteria, "Pattern": pattern, "PValue": p_value}
+        for criteria, pattern, p_value in zip(
+            dictionary["Criteria"], dictionary["Pattern"], dictionary["PValue"]
+        )
+    ]
+
+    return pd.DataFrame(list_of_dicts)
+
+
+def create_whisker_plot(
+    random_input,
+    qualified_values,
+    filter_function,
+    x,
+    y,
+    color,
+):
+
+    trend_colors = {"High": "black", "Low": "white", "Close": "gray"}
+
+    df = pd.DataFrame(random_input)
+
+    for key, values in qualified_values.items():
+        df = df[df[key].isin(values)]
+
+    df["Pattern"] = pd.Categorical(
+        df["Pattern"], categories=qualified_values[x], ordered=True
+    )
+    df = df.sort_values("Pattern")
+
+    df = df[df["PValue"].apply(filter_function)]
+
+    fig = px.box(
+        df,
+        x=x,
+        y=y,
+        color=color,
+        points=False,
+        color_discrete_map=trend_colors,
+    )
 
     fig = style_chart(fig, "Random Data Whisker Plot")
+    fig.update_traces(selector=dict(type="box", size=100))
     save_chart(fig)
 
 
@@ -133,10 +149,13 @@ def write_chart_to_thesis():
         data = json.load(f)
     df = process_data_for_whisker(data)
     create_whisker_plot(
-        df,
+        get_dummy_data(),
         qualified_values={
             "Criteria": ["High", "Low", "Close"],
-            "Pattern": ["Hammer", "I. Hammer"],
+            "Pattern": ["I. Hammer", "Shooting Star", "Hammer"],
         },
         filter_function=lambda x: x < 0.5,
+        x="Pattern",
+        y="PValue",
+        color="Criteria",
     )
