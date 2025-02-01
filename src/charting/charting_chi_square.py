@@ -6,7 +6,7 @@ import numpy as np
 import json
 
 
-def process_data_for_whisker(data,ignore_bad_returns=True):
+def process_data_for_whisker(data, ignore_bad_returns=True):
     """Flatten the nested JSON structure into a DataFrame for whisker plot"""
     data_rows = []
     for sector, sector_data in data.items():
@@ -151,29 +151,10 @@ def create_whisker_plot(df, qualified_values, filter_function, x, y, color, titl
     save_chart(fig)
 
 
-def write_chart_to_thesis():
+def write_inferencal_charts():
     path_of_file = "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/data/step4_descriptive_stats/np/inferal_analysis.json"
     with open(path_of_file) as f:
         data = json.load(f)
-        # create_whisker_plot(
-        #     get_dummy_data(),
-        #     qualified_values={
-        #         "Criteria": [
-        #             "High",
-        #             "Close",
-        #             "Low",
-        #         ],
-        #         "Pattern": [
-        #             "Shooting Star",
-        #             "I. Hammer",
-        #             "Hammer",
-        #         ],
-        #     },
-        #     filter_function=lambda x: x < 1,
-        #     x="Pattern",
-        #     y="PValue",
-        #     color="Criteria",
-        # )
         create_whisker_plot(
             process_data_for_whisker(data),
             qualified_values={
@@ -215,3 +196,13 @@ def write_chart_to_thesis():
             y="p Value",
             color="Criteria",
         )
+        
+def write_descriptive_charts():
+    path_of_file = "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/data/step4_descriptive_stats/np/processed_return_rate_data.json"
+    with open(path_of_file) as f:
+        data = json.load(f)
+        
+
+def write_chart_to_thesis():
+    write_inferencal_charts()
+    write_descriptive_charts()
