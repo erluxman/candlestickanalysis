@@ -67,11 +67,17 @@ def create_whisker_plot(df, output_file):
         points=False,
         color_discrete_map=trend_colors,
     )
-    fig.update_traces(marker=dict(line=dict(color="black")), selector=dict(type='box'))
-
+    fig.for_each_trace(
+        lambda trace: trace.update(
+            line=dict(color='grey' if trace.name == 'High' else 'black', width=1.5),  # Set border color to grey if 'High', otherwise black
+            fillcolor=trace.marker.color  # Explicitly retain fill color
+        ),
+        selector=dict(type='box')
+    )
     # Create a box plot using Plotly Express
 
     # fig = px.box(df, x="Pattern", y="PValue", color="Trend", points="all")
+
     fig.update_layout(
         title="Random Data Whisker Plot",
         xaxis_title="Pattern",
@@ -81,9 +87,20 @@ def create_whisker_plot(df, output_file):
         showlegend=True,  # Show legend
         margin=dict(l=40, r=40, t=40, b=40),  # Set margins
         xaxis=dict(fixedrange=True),  # Disable zoom on x-axis
-        yaxis=dict(fixedrange=True)  # Disable zoom on y-axis
+        yaxis=dict(fixedrange=True),  # Disable zoom on y-axis
+        plot_bgcolor="white",  # Set background color to white
+        paper_bgcolor="white"  # Set paper background color to white
+    )
+    fig.write_image(
+        "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/src/charting/testchart.png",
+        width=1920,
+        height=1080,
+        scale=2,
     )
     fig.show()  # Display the plot
+
+    # Save the plot with higher resolution
+    print(f"Whisker plot saved to {output_file}")
 
     # pattern_order = sorted(df["Pattern"].unique())
 
