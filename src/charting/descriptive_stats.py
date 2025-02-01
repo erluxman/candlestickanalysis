@@ -69,7 +69,7 @@ def write_descriptive_charts():
             ],
             "Pattern": [
                 "Hammer",
-                # "Shooting Star",
+                # "Shooting Star", # just pass the fields that you want filter records with
                 # "I. Hammer",
             ],
             "Sector": [

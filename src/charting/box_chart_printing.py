@@ -89,6 +89,7 @@ def create_whisker_plot(df, qualified_values, filter_function, x, y, color, titl
         y=y,
         color=color,
         points=False,
+        notched=True,
         color_discrete_map=trend_colors,
     )
 
