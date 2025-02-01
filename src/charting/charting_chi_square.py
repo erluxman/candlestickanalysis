@@ -6,9 +6,9 @@ import numpy as np
 import json
 
 
-def process_data_for_whisker(data):
+def process_data_for_whisker(data,ignore_bad_returns=True):
     """Flatten the nested JSON structure into a DataFrame for whisker plot"""
-    data_rows = {}
+    data_rows = []
     for sector, sector_data in data.items():
         for trend, trend_data in sector_data.items():
             for timeframe, timeframe_data in trend_data.items():
@@ -17,22 +17,26 @@ def process_data_for_whisker(data):
                         # Handle "❌" values and convert to None
                         if "_trend" in metric:
                             continue
-                        criteria = metric.split("_")[0]
+                        criteria = metric.split("_")[0].title()
                         p_value = (
                             metric_data["p_value"]
                             if metric_data["p_value"] != "❌"
-                            else None
+                            else (None if ignore_bad_returns else 1)
                         )
 
                         if p_value:
-                            data_rows.setdefault(trend, {})
-                            data_rows[trend].setdefault(pattern, {})
-                            data_rows[trend][pattern].setdefault(criteria, [])
-                            current_data = data_rows[trend][pattern][criteria]
-                            current_data.append(p_value)
-                            data_rows[trend][pattern][criteria] = current_data
+                            data_rows.append(
+                                {
+                                    "Trend": trend,
+                                    "Pattern": pattern,
+                                    "Criteria": criteria,
+                                    "p Value": p_value,
+                                    "Timeframe": timeframe,
+                                    "Sector": sector,
+                                }
+                            )
 
-    return data_rows
+    return pd.DataFrame(data_rows)
 
 
 def save_chart(fig):
@@ -118,14 +122,7 @@ candle_colors = [
 ]
 
 
-def create_whisker_plot(
-    df,
-    qualified_values,
-    filter_function,
-    x,
-    y,
-    color,
-):
+def create_whisker_plot(df, qualified_values, filter_function, x, y, color, title):
 
     for key, values in qualified_values.items():
         df = df[df[key].isin(values)]
@@ -134,7 +131,7 @@ def create_whisker_plot(
         )
     df = df.sort_values(list(qualified_values.keys()))
 
-    df = df[df["PValue"].apply(filter_function)]
+    df = df[df[y].apply(filter_function)]
 
     trend_colors = {
         value: candle_colors[i % len(candle_colors)]
@@ -150,7 +147,7 @@ def create_whisker_plot(
         color_discrete_map=trend_colors,
     )
 
-    fig = style_chart(fig, "Random Data Whisker Plot")
+    fig = style_chart(fig, title=title)
     save_chart(fig)
 
 
@@ -158,23 +155,63 @@ def write_chart_to_thesis():
     path_of_file = "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/data/step4_descriptive_stats/np/inferal_analysis.json"
     with open(path_of_file) as f:
         data = json.load(f)
-    df = process_data_for_whisker(data)
-    create_whisker_plot(
-        get_dummy_data(),
-        qualified_values={
-            "Criteria": [
-                "High",
-                "Close",
-                "Low",
-            ],
-            "Pattern": [
-                "Shooting Star",
-                "I. Hammer",
-                "Hammer",
-            ],
-        },
-        filter_function=lambda x: x < 1,
-        x="Pattern",
-        y="PValue",
-        color="Criteria",
-    )
+        # create_whisker_plot(
+        #     get_dummy_data(),
+        #     qualified_values={
+        #         "Criteria": [
+        #             "High",
+        #             "Close",
+        #             "Low",
+        #         ],
+        #         "Pattern": [
+        #             "Shooting Star",
+        #             "I. Hammer",
+        #             "Hammer",
+        #         ],
+        #     },
+        #     filter_function=lambda x: x < 1,
+        #     x="Pattern",
+        #     y="PValue",
+        #     color="Criteria",
+        # )
+        create_whisker_plot(
+            process_data_for_whisker(data),
+            qualified_values={
+                "Criteria": [
+                    "High",
+                    "Close",
+                    "Low",
+                ],
+                "Pattern": [
+                    "Shooting Star",
+                    "I. Hammer",
+                    "Hammer",
+                ],
+            },
+            title="When bad returns are ignored",
+            filter_function=lambda x: x <= 1,
+            x="Pattern",
+            y="p Value",
+            color="Criteria",
+        )
+
+        create_whisker_plot(
+            process_data_for_whisker(data, ignore_bad_returns=False),
+            qualified_values={
+                "Criteria": [
+                    "High",
+                    "Close",
+                    "Low",
+                ],
+                "Pattern": [
+                    "Shooting Star",
+                    "I. Hammer",
+                    "Hammer",
+                ],
+            },
+            title="When bad returns considered",
+            filter_function=lambda x: x <= 1,
+            x="Pattern",
+            y="p Value",
+            color="Criteria",
+        )
