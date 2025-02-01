@@ -1,5 +1,7 @@
 import pandas as pd
 import plotly.express as px
+from src.charting.descriptive_stats import write_descriptive_charts
+from src.charting.box_chart_printing import create_whisker_plot
 import src.steps.docx_output.docx_writer as writer
 import plotly.graph_objects as go
 import numpy as np
@@ -37,118 +39,6 @@ def process_data_for_whisker(data, ignore_bad_returns=True):
                             )
 
     return pd.DataFrame(data_rows)
-
-
-def save_chart(fig):
-    thesis_body = writer.thesis_body()
-
-    file_name = (
-        "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/src/charting/temp.png"
-    )
-    fig.write_image(
-        file_name,
-        width=1920,
-        height=1080,
-        scale=2,
-    )
-    writer.add_image(thesis_body, file_name)
-    writer.save_document(thesis_body, writer.thesis_path)
-
-
-def style_chart(fig, title):
-    fig.update_layout(
-        title={
-            "text": title,
-            "x": 0.5,  # Center the title
-            "xanchor": "center",
-            "font": {"size": 50},
-        },
-        dragmode=False,  # Disable drag mode
-        showlegend=True,  # Show legend
-        margin=dict(t=100),  # Add extra space to the top
-        plot_bgcolor="white",  # Set background color to white
-        paper_bgcolor="white",  # Set paper background color to white
-        font=dict(size=35),  # Increase font size by 5
-        xaxis=dict(title_font=dict(size=35), tickfont=dict(size=35)),
-        yaxis=dict(title_font=dict(size=35), tickfont=dict(size=35)),
-        legend=dict(
-            font=dict(size=35),
-            itemclick=False,
-            tracegroupgap=30,
-            borderwidth=2,
-            bordercolor="black",
-        ),
-    )
-    fig.for_each_trace(
-        lambda trace: trace.update(
-            line=dict(
-                color="black",
-                width=1.5,
-            ),  # Set border color to grey if 'High', otherwise black
-            fillcolor=trace.marker.color,  # Explicitly retain fill color
-        ),
-        selector=dict(type="box"),
-    )
-    return fig
-
-
-def get_dummy_data():
-    trend_colors = {"High": "black", "Low": "white", "Close": "gray"}
-    candles = ["Hammer", "I. Hammer", "Shooting Star", "Hanging Man"]
-    dictionary = {
-        "Criteria": np.random.choice(list(trend_colors.keys()), 100),
-        "Pattern": np.random.choice(candles, 100),  # Generate 100 random patterns
-        "PValue": np.random.rand(100),  # Generate 100 random p-values
-    }
-    list_of_dicts = [
-        {"Criteria": criteria, "Pattern": pattern, "PValue": p_value}
-        for criteria, pattern, p_value in zip(
-            dictionary["Criteria"], dictionary["Pattern"], dictionary["PValue"]
-        )
-    ]
-
-    return pd.DataFrame(list_of_dicts)
-
-
-candle_colors = [
-    "darkslateblue",
-    "white",
-    "gray",
-    "green",
-    "blue",
-    "red",
-    "yellow",
-    "purple",
-]
-
-
-def create_whisker_plot(df, qualified_values, filter_function, x, y, color, title):
-
-    for key, values in qualified_values.items():
-        df = df[df[key].isin(values)]
-        df[key] = pd.Categorical(
-            df[key], categories=qualified_values[key], ordered=True
-        )
-    df = df.sort_values(list(qualified_values.keys()))
-
-    df = df[df[y].apply(filter_function)]
-
-    trend_colors = {
-        value: candle_colors[i % len(candle_colors)]
-        for i, value in enumerate(qualified_values[color])
-    }
-
-    fig = px.box(
-        df,
-        x=x,
-        y=y,
-        color=color,
-        points=False,
-        color_discrete_map=trend_colors,
-    )
-
-    fig = style_chart(fig, title=title)
-    save_chart(fig)
 
 
 def write_inferencal_charts():
@@ -196,13 +86,8 @@ def write_inferencal_charts():
             y="p Value",
             color="Criteria",
         )
-        
-def write_descriptive_charts():
-    path_of_file = "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/data/step4_descriptive_stats/np/processed_return_rate_data.json"
-    with open(path_of_file) as f:
-        data = json.load(f)
-        
+
 
 def write_chart_to_thesis():
-    write_inferencal_charts()
     write_descriptive_charts()
+    write_inferencal_charts()
