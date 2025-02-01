@@ -78,7 +78,7 @@ def style_chart(fig, title):
     fig.for_each_trace(
         lambda trace: trace.update(
             line=dict(
-                color="grey" if trace.name == "High" else "black",
+                color="black",
                 width=1.5,
             ),  # Set border color to grey if 'High', otherwise black
             fillcolor=trace.marker.color,  # Explicitly retain fill color
@@ -105,6 +105,7 @@ def get_dummy_data():
 
     return pd.DataFrame(list_of_dicts)
 
+candle_colors = ["purple","white","gray","green","blue","red","yellow","purple"]
 
 def create_whisker_plot(
     random_input,
@@ -115,7 +116,7 @@ def create_whisker_plot(
     color,
 ):
 
-    trend_colors = {"High": "black", "Low": "white", "Close": "gray"}
+    # trend_colors = {"High": "black", "Low": "white", "Close": "gray"}
 
     df = pd.DataFrame(random_input)
 
@@ -128,6 +129,8 @@ def create_whisker_plot(
     df = df.sort_values("Pattern")
 
     df = df[df["PValue"].apply(filter_function)]
+    
+    trend_colors = {value: candle_colors[i % len(candle_colors)] for i, value in enumerate(qualified_values[color])}
 
     fig = px.box(
         df,
