@@ -105,7 +105,18 @@ def get_dummy_data():
 
     return pd.DataFrame(list_of_dicts)
 
-candle_colors = ["purple","white","gray","green","blue","red","yellow","purple"]
+
+candle_colors = [
+    "darkslateblue",
+    "white",
+    "gray",
+    "green",
+    "blue",
+    "red",
+    "yellow",
+    "purple",
+]
+
 
 def create_whisker_plot(
     random_input,
@@ -115,9 +126,6 @@ def create_whisker_plot(
     y,
     color,
 ):
-
-    # trend_colors = {"High": "black", "Low": "white", "Close": "gray"}
-
     df = pd.DataFrame(random_input)
 
     for key, values in qualified_values.items():
@@ -129,8 +137,11 @@ def create_whisker_plot(
     df = df.sort_values("Pattern")
 
     df = df[df["PValue"].apply(filter_function)]
-    
-    trend_colors = {value: candle_colors[i % len(candle_colors)] for i, value in enumerate(qualified_values[color])}
+
+    trend_colors = {
+        value: candle_colors[i % len(candle_colors)]
+        for i, value in enumerate(qualified_values[color])
+    }
 
     fig = px.box(
         df,
@@ -142,7 +153,6 @@ def create_whisker_plot(
     )
 
     fig = style_chart(fig, "Random Data Whisker Plot")
-    fig.update_traces(selector=dict(type="box", size=100))
     save_chart(fig)
 
 
