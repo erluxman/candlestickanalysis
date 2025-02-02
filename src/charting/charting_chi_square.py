@@ -64,6 +64,7 @@ def write_inferencal_charts():
             x="Pattern",
             y="p Value",
             color="Criteria",
+            grid_gap=0.05,
         )
 
         create_whisker_plot(
@@ -85,6 +86,7 @@ def write_inferencal_charts():
             x="Pattern",
             y="p Value",
             color="Criteria",
+            grid_gap=0.05,
         )
 
 

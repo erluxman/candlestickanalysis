@@ -83,4 +83,5 @@ def write_descriptive_charts():
         x="Sector",
         y="Return Rate",
         color="Criteria",
+        grid_gap=0.5
     )

@@ -19,7 +19,7 @@ def save_chart(fig):
     writer.save_document(thesis_body, writer.thesis_path)
 
 
-def style_chart(fig, title):
+def style_chart(fig, title, grid_gap):
     fig.update_layout(
         title={
             "text": title,
@@ -57,12 +57,16 @@ def style_chart(fig, title):
         xaxis=dict(
             showgrid=True,  # Show x-axis grid
             gridcolor="grey",  # Grid line color
-            gridwidth=1,  # Grid line thickness
+            gridwidth=1,
+            tickmode="linear",
+            dtick=grid_gap,  # Grid line thickness
         ),
         yaxis=dict(
             showgrid=True,  # Show y-axis grid
             gridcolor="grey",
             gridwidth=1,
+            tickmode="linear",
+            dtick=grid_gap,  # Show 10 lines in y-axis
         ),
     )
     fig.add_hline(
@@ -87,7 +91,9 @@ candle_colors = [
 ]
 
 
-def create_whisker_plot(df, qualified_values, filter_function, x, y, color, title):
+def create_whisker_plot(
+    df, qualified_values, filter_function, x, y, color, title, grid_gap
+):
 
     for key, values in qualified_values.items():
         df = df[df[key].isin(values)]
@@ -113,5 +119,5 @@ def create_whisker_plot(df, qualified_values, filter_function, x, y, color, titl
         color_discrete_map=trend_colors,
     )
 
-    fig = style_chart(fig, title=title)
+    fig = style_chart(fig, title=title, grid_gap=grid_gap)
     save_chart(fig)
