@@ -72,8 +72,8 @@ def style_chart(fig, title, grid_gap):
     fig.add_hline(
         y=0,
         line=dict(
-            color="grey",  # Line color
-            width=1,  # Line thickness
+            color="black",  # Line color
+            width=3,  # Line thickness
         ),
     )
     return fig

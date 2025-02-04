@@ -45,49 +45,30 @@ def write_inferencal_charts():
     path_of_file = "/Users/laxmanbhattarai/projects/personal/mba/thesis_v2/data/step4_descriptive_stats/np/inferal_analysis.json"
     with open(path_of_file) as f:
         data = json.load(f)
-        create_whisker_plot(
-            process_data_for_whisker(data),
-            qualified_values={
-                "Criteria": [
-                    "High",
-                    "Close",
-                    "Low",
-                ],
-                "Pattern": [
-                    "Shooting Star",
-                    "I. Hammer",
-                    "Hammer",
-                ],
-            },
-            title="When bad returns are ignored",
-            filter_function=lambda x: x <= 1,
-            x="Pattern",
-            y="p Value",
-            color="Criteria",
-            grid_gap=0.05,
-        )
 
-        create_whisker_plot(
-            process_data_for_whisker(data, ignore_bad_returns=False),
-            qualified_values={
-                "Criteria": [
-                    "High",
-                    "Close",
-                    "Low",
-                ],
-                "Pattern": [
-                    "Shooting Star",
-                    "I. Hammer",
-                    "Hammer",
-                ],
-            },
-            title="When bad returns considered",
-            filter_function=lambda x: x <= 1,
-            x="Pattern",
-            y="p Value",
-            color="Criteria",
-            grid_gap=0.05,
-        )
+        # for period in ["2", "4", "8"]:
+        # for critera in ["Low", "High", "Close"]:
+        for trend in ["bullish", "bearish"]:
+            create_whisker_plot(
+                process_data_for_whisker(data),
+                qualified_values={
+                    "Criteria": ["High", "Low", "Close"],
+                    "Pattern": [
+                        "Hammer",
+                        "Shooting Star",  # just pass the fields that you want filter records with
+                        "I. Hammer",
+                        "Hanging Man",
+                    ],
+                    "Trend": [trend],
+                },
+                # title=f"{period} Day, {critera} in {trend} p Value discard -ve return {"✅" if discarded else "❌" }",
+                title=f" {trend} p Value discard -ve return discarded",
+                filter_function=lambda x: 0 <= x <= 0.5,
+                x="Pattern",
+                y="p Value",
+                color="Pattern",
+                grid_gap=0.05,
+            )
 
 
 def write_chart_to_thesis():

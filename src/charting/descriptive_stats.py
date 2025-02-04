@@ -59,29 +59,34 @@ def write_descriptive_charts():
     # process_descriptive_data(read_raw_data())
     df = read_processed_data()
 
-    create_whisker_plot(
-        df,
-        qualified_values={
-            "Criteria": [
-                "High",
-                "Close",
-                "Low",
-            ],
-            "Pattern": [
-                "Hammer",
-                # "Shooting Star", # just pass the fields that you want filter records with
-                # "I. Hammer",
-            ],
-            "Sector": [
-                "Banking",
-                "Hydropower",
-                "Finance",
-            ],
-        },
-        title="Descriptive Stats is used",
-        filter_function=lambda x: -5 <= x <= 5,
-        x="Sector",
-        y="Return Rate",
-        color="Criteria",
-        grid_gap=0.5
-    )
+    for period in ["2", "4", "8"]:
+        for critera in ["Low", "High", "Close"]:
+            for trend in ["bullish", "bearish"]:
+
+                create_whisker_plot(
+                    df,
+                    qualified_values={
+                        "Criteria": [critera],
+                        "Pattern": [
+                            "Hammer",
+                            "Shooting Star",  # just pass the fields that you want filter records with
+                            "I. Hammer",
+                            "Hanging Man",
+                        ],
+                        "Sector": [
+                            "Banking",
+                            "Hydropower",
+                            "Micro Finance",
+                            "Expensive Stocks",
+                            "Low Floating Stocks",
+                        ],
+                        "Timeframe": [period],
+                        "Trend":[trend]
+                    },
+                    title=f"{period} Day, {critera} in {trend} return rate ",
+                    filter_function=lambda x: -5 <= x <= 5,
+                    x="Pattern",
+                    y="Return Rate",
+                    color="Sector",
+                    grid_gap=0.5,
+                )
