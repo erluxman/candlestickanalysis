@@ -1,1 +1,1892 @@
-{"Banking": {"bullish": {"2": {"Hammer": {"occurance_trend": 57, "all_occurance": 114, "hit_percentage_high_trend": 78.95, "hit_percentage_high_all": 81.58, "hit_percentage_low_trend": 71.93, "hit_percentage_low_all": 72.81, "hit_percentage_close_trend": 47.37, "hit_percentage_close_all": 50.88}, "I. Hammer": {"occurance_trend": 107, "all_occurance": 232, "hit_percentage_high_trend": 42.06, "hit_percentage_high_all": 39.22, "hit_percentage_low_trend": 40.19, "hit_percentage_low_all": 38.36, "hit_percentage_close_trend": 57.01, "hit_percentage_close_all": 53.45}, "Random": {"occurance_trend": 614, "all_occurance": 1454, "hit_percentage_high_trend": 49.19, "hit_percentage_high_all": 48.01, "hit_percentage_low_trend": 47.88, "hit_percentage_low_all": 47.87, "hit_percentage_close_trend": 48.53, "hit_percentage_close_all": 47.32}, "Random*": {"occurance_trend": 660, "all_occurance": 1454, "hit_percentage_high_trend": 45.45, "hit_percentage_high_all": 49.52, "hit_percentage_low_trend": 46.06, "hit_percentage_low_all": 48.56, "hit_percentage_close_trend": 46.67, "hit_percentage_close_all": 49.38}, "Hanging Man": {"occurance_trend": 101, "all_occurance": 233, "hit_percentage_high_trend": 25.74, "hit_percentage_high_all": 25.75, "hit_percentage_low_trend": 31.68, "hit_percentage_low_all": 31.33, "hit_percentage_close_trend": 42.57, "hit_percentage_close_all": 45.49}, "Shooting Star": {"occurance_trend": 62, "all_occurance": 136, "hit_percentage_high_trend": 69.35, "hit_percentage_high_all": 69.85, "hit_percentage_low_trend": 62.9, "hit_percentage_low_all": 65.44, "hit_percentage_close_trend": 38.71, "hit_percentage_close_all": 41.18}}, "4": {"Hammer": {"occurance_trend": 59, "all_occurance": 114, "hit_percentage_high_trend": 67.8, "hit_percentage_high_all": 74.56, "hit_percentage_low_trend": 69.49, "hit_percentage_low_all": 70.18, "hit_percentage_close_trend": 45.76, "hit_percentage_close_all": 46.49}, "I. Hammer": {"occurance_trend": 109, "all_occurance": 232, "hit_percentage_high_trend": 53.21, "hit_percentage_high_all": 51.29, "hit_percentage_low_trend": 53.21, "hit_percentage_low_all": 51.29, "hit_percentage_close_trend": 62.39, "hit_percentage_close_all": 59.91}, "Random": {"occurance_trend": 624, "all_occurance": 1454, "hit_percentage_high_trend": 48.72, "hit_percentage_high_all": 48.42, "hit_percentage_low_trend": 50.64, "hit_percentage_low_all": 50.34, "hit_percentage_close_trend": 50.32, "hit_percentage_close_all": 50.89}, "Random*": {"occurance_trend": 616, "all_occurance": 1454, "hit_percentage_high_trend": 50.32, "hit_percentage_high_all": 50.48, "hit_percentage_low_trend": 48.7, "hit_percentage_low_all": 48.42, "hit_percentage_close_trend": 49.03, "hit_percentage_close_all": 48.28}, "Hanging Man": {"occurance_trend": 97, "all_occurance": 233, "hit_percentage_high_trend": 30.93, "hit_percentage_high_all": 33.48, "hit_percentage_low_trend": 30.93, "hit_percentage_low_all": 37.34, "hit_percentage_close_trend": 48.45, "hit_percentage_close_all": 48.93}, "Shooting Star": {"occurance_trend": 52, "all_occurance": 136, "hit_percentage_high_trend": 53.85, "hit_percentage_high_all": 55.88, "hit_percentage_low_trend": 53.85, "hit_percentage_low_all": 59.56, "hit_percentage_close_trend": 42.31, "hit_percentage_close_all": 41.18}}, "8": {"Hammer": {"occurance_trend": 44, "all_occurance": 114, "hit_percentage_high_trend": 68.18, "hit_percentage_high_all": 71.05, "hit_percentage_low_trend": 68.18, "hit_percentage_low_all": 69.3, "hit_percentage_close_trend": 52.27, "hit_percentage_close_all": 49.12}, "I. Hammer": {"occurance_trend": 98, "all_occurance": 232, "hit_percentage_high_trend": 52.04, "hit_percentage_high_all": 51.29, "hit_percentage_low_trend": 57.14, "hit_percentage_low_all": 54.31, "hit_percentage_close_trend": 62.24, "hit_percentage_close_all": 58.19}, "Random": {"occurance_trend": 620, "all_occurance": 1454, "hit_percentage_high_trend": 45.16, "hit_percentage_high_all": 49.11, "hit_percentage_low_trend": 46.45, "hit_percentage_low_all": 51.58, "hit_percentage_close_trend": 46.13, "hit_percentage_close_all": 51.03}, "Random*": {"occurance_trend": 520, "all_occurance": 1454, "hit_percentage_high_trend": 60.38, "hit_percentage_high_all": 48.97, "hit_percentage_low_trend": 59.23, "hit_percentage_low_all": 46.35, "hit_percentage_close_trend": 60.0, "hit_percentage_close_all": 47.32}, "Hanging Man": {"occurance_trend": 83, "all_occurance": 233, "hit_percentage_high_trend": 33.73, "hit_percentage_high_all": 34.33, "hit_percentage_low_trend": 42.17, "hit_percentage_low_all": 39.06, "hit_percentage_close_trend": 49.4, "hit_percentage_close_all": 48.07}, "Shooting Star": {"occurance_trend": 43, "all_occurance": 136, "hit_percentage_high_trend": 55.81, "hit_percentage_high_all": 47.79, "hit_percentage_low_trend": 58.14, "hit_percentage_low_all": 52.21, "hit_percentage_close_trend": 48.84, "hit_percentage_close_all": 37.5}}}, "bearish": {"2": {"Hammer": {"occurance_trend": 46, "all_occurance": 111, "hit_percentage_high_trend": 86.96, "hit_percentage_high_all": 81.08, "hit_percentage_low_trend": 80.43, "hit_percentage_low_all": 73.87, "hit_percentage_close_trend": 39.13, "hit_percentage_close_all": 43.24}, "I. Hammer": {"occurance_trend": 132, "all_occurance": 220, "hit_percentage_high_trend": 30.3, "hit_percentage_high_all": 26.36, "hit_percentage_low_trend": 30.3, "hit_percentage_low_all": 26.82, "hit_percentage_close_trend": 43.18, "hit_percentage_close_all": 37.27}, "Random": {"occurance_trend": 528, "all_occurance": 1412, "hit_percentage_high_trend": 34.09, "hit_percentage_high_all": 39.52, "hit_percentage_low_trend": 38.64, "hit_percentage_low_all": 38.95, "hit_percentage_close_trend": 37.12, "hit_percentage_close_all": 39.38}, "Random*": {"occurance_trend": 758, "all_occurance": 1412, "hit_percentage_high_trend": 44.85, "hit_percentage_high_all": 59.35, "hit_percentage_low_trend": 40.63, "hit_percentage_low_all": 59.35, "hit_percentage_close_trend": 43.54, "hit_percentage_close_all": 59.92}, "Hanging Man": {"occurance_trend": 92, "all_occurance": 247, "hit_percentage_high_trend": 38.04, "hit_percentage_high_all": 34.82, "hit_percentage_low_trend": 35.87, "hit_percentage_low_all": 36.03, "hit_percentage_close_trend": 57.61, "hit_percentage_close_all": 61.13}, "Shooting Star": {"occurance_trend": 37, "all_occurance": 140, "hit_percentage_high_trend": 81.08, "hit_percentage_high_all": 76.43, "hit_percentage_low_trend": 78.38, "hit_percentage_low_all": 78.57, "hit_percentage_close_trend": 56.76, "hit_percentage_close_all": 47.86}}, "4": {"Hammer": {"occurance_trend": 57, "all_occurance": 111, "hit_percentage_high_trend": 63.16, "hit_percentage_high_all": 68.47, "hit_percentage_low_trend": 63.16, "hit_percentage_low_all": 63.96, "hit_percentage_close_trend": 38.6, "hit_percentage_close_all": 40.54}, "I. Hammer": {"occurance_trend": 144, "all_occurance": 220, "hit_percentage_high_trend": 28.47, "hit_percentage_high_all": 27.73, "hit_percentage_low_trend": 29.17, "hit_percentage_low_all": 28.64, "hit_percentage_close_trend": 42.36, "hit_percentage_close_all": 40.0}, "Random": {"occurance_trend": 418, "all_occurance": 1412, "hit_percentage_high_trend": 30.14, "hit_percentage_high_all": 38.24, "hit_percentage_low_trend": 34.45, "hit_percentage_low_all": 38.24, "hit_percentage_close_trend": 31.58, "hit_percentage_close_all": 39.38}, "Random*": {"occurance_trend": 780, "all_occurance": 1412, "hit_percentage_high_trend": 37.44, "hit_percentage_high_all": 61.47, "hit_percentage_low_trend": 34.62, "hit_percentage_low_all": 61.19, "hit_percentage_close_trend": 36.67, "hit_percentage_close_all": 60.34}, "Hanging Man": {"occurance_trend": 76, "all_occurance": 247, "hit_percentage_high_trend": 36.84, "hit_percentage_high_all": 46.96, "hit_percentage_low_trend": 36.84, "hit_percentage_low_all": 45.75, "hit_percentage_close_trend": 57.89, "hit_percentage_close_all": 63.16}, "Shooting Star": {"occurance_trend": 40, "all_occurance": 140, "hit_percentage_high_trend": 70.0, "hit_percentage_high_all": 69.29, "hit_percentage_low_trend": 72.5, "hit_percentage_low_all": 71.43, "hit_percentage_close_trend": 60.0, "hit_percentage_close_all": 52.86}}, "8": {"Hammer": {"occurance_trend": 65, "all_occurance": 111, "hit_percentage_high_trend": 53.85, "hit_percentage_high_all": 56.76, "hit_percentage_low_trend": 49.23, "hit_percentage_low_all": 52.25, "hit_percentage_close_trend": 29.23, "hit_percentage_close_all": 31.53}, "I. Hammer": {"occurance_trend": 119, "all_occurance": 220, "hit_percentage_high_trend": 31.09, "hit_percentage_high_all": 30.91, "hit_percentage_low_trend": 26.05, "hit_percentage_low_all": 27.73, "hit_percentage_close_trend": 35.29, "hit_percentage_close_all": 35.91}, "Random": {"occurance_trend": 324, "all_occurance": 1412, "hit_percentage_high_trend": 38.27, "hit_percentage_high_all": 36.97, "hit_percentage_low_trend": 41.36, "hit_percentage_low_all": 35.98, "hit_percentage_close_trend": 41.36, "hit_percentage_close_all": 39.38}, "Random*": {"occurance_trend": 826, "all_occurance": 1412, "hit_percentage_high_trend": 24.21, "hit_percentage_high_all": 62.75, "hit_percentage_low_trend": 23.0, "hit_percentage_low_all": 63.74, "hit_percentage_close_trend": 23.0, "hit_percentage_close_all": 60.06}, "Hanging Man": {"occurance_trend": 44, "all_occurance": 247, "hit_percentage_high_trend": 47.73, "hit_percentage_high_all": 55.06, "hit_percentage_low_trend": 47.73, "hit_percentage_low_all": 55.06, "hit_percentage_close_trend": 56.82, "hit_percentage_close_all": 64.78}, "Shooting Star": {"occurance_trend": 37, "all_occurance": 140, "hit_percentage_high_trend": 64.86, "hit_percentage_high_all": 65.0, "hit_percentage_low_trend": 62.16, "hit_percentage_low_all": 72.14, "hit_percentage_close_trend": 43.24, "hit_percentage_close_all": 52.86}}}}, "Hydropower": {"bearish": {"2": {"Hammer": {"occurance_trend": 39, "all_occurance": 74, "hit_percentage_high_trend": 64.1, "hit_percentage_high_all": 58.11, "hit_percentage_low_trend": 58.97, "hit_percentage_low_all": 55.41, "hit_percentage_close_trend": 41.03, "hit_percentage_close_all": 35.14}, "I. Hammer": {"occurance_trend": 106, "all_occurance": 171, "hit_percentage_high_trend": 34.91, "hit_percentage_high_all": 33.33, "hit_percentage_low_trend": 33.96, "hit_percentage_low_all": 33.33, "hit_percentage_close_trend": 46.23, "hit_percentage_close_all": 45.61}, "Random": {"occurance_trend": 420, "all_occurance": 1036, "hit_percentage_high_trend": 33.33, "hit_percentage_high_all": 37.45, "hit_percentage_low_trend": 39.05, "hit_percentage_low_all": 41.31, "hit_percentage_close_trend": 44.76, "hit_percentage_close_all": 45.37}, "Random*": {"occurance_trend": 580, "all_occurance": 1036, "hit_percentage_high_trend": 47.59, "hit_percentage_high_all": 61.2, "hit_percentage_low_trend": 43.1, "hit_percentage_low_all": 57.72, "hit_percentage_close_trend": 39.66, "hit_percentage_close_all": 54.25}, "Hanging Man": {"occurance_trend": 50, "all_occurance": 114, "hit_percentage_high_trend": 50.0, "hit_percentage_high_all": 36.84, "hit_percentage_low_trend": 56.0, "hit_percentage_low_all": 42.98, "hit_percentage_close_trend": 72.0, "hit_percentage_close_all": 56.14}, "Shooting Star": {"occurance_trend": 39, "all_occurance": 133, "hit_percentage_high_trend": 76.92, "hit_percentage_high_all": 74.44, "hit_percentage_low_trend": 74.36, "hit_percentage_low_all": 78.95, "hit_percentage_close_trend": 58.97, "hit_percentage_close_all": 58.65}}, "4": {"Hammer": {"occurance_trend": 41, "all_occurance": 74, "hit_percentage_high_trend": 53.66, "hit_percentage_high_all": 52.7, "hit_percentage_low_trend": 51.22, "hit_percentage_low_all": 55.41, "hit_percentage_close_trend": 36.59, "hit_percentage_close_all": 36.49}, "I. Hammer": {"occurance_trend": 97, "all_occurance": 171, "hit_percentage_high_trend": 32.99, "hit_percentage_high_all": 35.67, "hit_percentage_low_trend": 32.99, "hit_percentage_low_all": 33.92, "hit_percentage_close_trend": 41.24, "hit_percentage_close_all": 44.44}, "Random": {"occurance_trend": 362, "all_occurance": 1036, "hit_percentage_high_trend": 35.36, "hit_percentage_high_all": 37.07, "hit_percentage_low_trend": 46.41, "hit_percentage_low_all": 41.31, "hit_percentage_close_trend": 44.2, "hit_percentage_close_all": 43.82}, "Random*": {"occurance_trend": 588, "all_occurance": 1036, "hit_percentage_high_trend": 39.8, "hit_percentage_high_all": 62.74, "hit_percentage_low_trend": 32.99, "hit_percentage_low_all": 58.69, "hit_percentage_close_trend": 34.35, "hit_percentage_close_all": 56.18}, "Hanging Man": {"occurance_trend": 51, "all_occurance": 114, "hit_percentage_high_trend": 49.02, "hit_percentage_high_all": 45.61, "hit_percentage_low_trend": 47.06, "hit_percentage_low_all": 52.63, "hit_percentage_close_trend": 58.82, "hit_percentage_close_all": 55.26}, "Shooting Star": {"occurance_trend": 40, "all_occurance": 133, "hit_percentage_high_trend": 80.0, "hit_percentage_high_all": 72.93, "hit_percentage_low_trend": 82.5, "hit_percentage_low_all": 78.95, "hit_percentage_close_trend": 62.5, "hit_percentage_close_all": 58.65}}, "8": {"Hammer": {"occurance_trend": 48, "all_occurance": 74, "hit_percentage_high_trend": 50.0, "hit_percentage_high_all": 54.05, "hit_percentage_low_trend": 45.83, "hit_percentage_low_all": 51.35, "hit_percentage_close_trend": 35.42, "hit_percentage_close_all": 40.54}, "I. Hammer": {"occurance_trend": 98, "all_occurance": 171, "hit_percentage_high_trend": 40.82, "hit_percentage_high_all": 35.67, "hit_percentage_low_trend": 34.69, "hit_percentage_low_all": 31.58, "hit_percentage_close_trend": 45.92, "hit_percentage_close_all": 41.52}, "Random": {"occurance_trend": 346, "all_occurance": 1036, "hit_percentage_high_trend": 32.95, "hit_percentage_high_all": 38.22, "hit_percentage_low_trend": 41.04, "hit_percentage_low_all": 39.0, "hit_percentage_close_trend": 39.31, "hit_percentage_close_all": 39.96}, "Random*": {"occurance_trend": 590, "all_occurance": 1036, "hit_percentage_high_trend": 39.32, "hit_percentage_high_all": 61.78, "hit_percentage_low_trend": 34.58, "hit_percentage_low_all": 61.0, "hit_percentage_close_trend": 35.59, "hit_percentage_close_all": 60.04}, "Hanging Man": {"occurance_trend": 36, "all_occurance": 114, "hit_percentage_high_trend": 50.0, "hit_percentage_high_all": 51.75, "hit_percentage_low_trend": 50.0, "hit_percentage_low_all": 50.0, "hit_percentage_close_trend": 58.33, "hit_percentage_close_all": 56.14}, "Shooting Star": {"occurance_trend": 44, "all_occurance": 133, "hit_percentage_high_trend": 79.55, "hit_percentage_high_all": 72.18, "hit_percentage_low_trend": 77.27, "hit_percentage_low_all": 74.44, "hit_percentage_close_trend": 77.27, "hit_percentage_close_all": 62.41}}}, "bullish": {"2": {"Hammer": {"occurance_trend": 38, "all_occurance": 93, "hit_percentage_high_trend": 84.21, "hit_percentage_high_all": 73.12, "hit_percentage_low_trend": 76.32, "hit_percentage_low_all": 72.04, "hit_percentage_close_trend": 47.37, "hit_percentage_close_all": 41.94}, "I. Hammer": {"occurance_trend": 127, "all_occurance": 243, "hit_percentage_high_trend": 43.31, "hit_percentage_high_all": 44.44, "hit_percentage_low_trend": 44.88, "hit_percentage_low_all": 44.03, "hit_percentage_close_trend": 59.06, "hit_percentage_close_all": 59.67}, "Random": {"occurance_trend": 534, "all_occurance": 1182, "hit_percentage_high_trend": 44.94, "hit_percentage_high_all": 49.41, "hit_percentage_low_trend": 52.06, "hit_percentage_low_all": 53.47, "hit_percentage_close_trend": 48.69, "hit_percentage_close_all": 49.92}, "Random*": {"occurance_trend": 572, "all_occurance": 1182, "hit_percentage_high_trend": 48.95, "hit_percentage_high_all": 47.38, "hit_percentage_low_trend": 40.56, "hit_percentage_low_all": 41.96, "hit_percentage_close_trend": 43.71, "hit_percentage_close_all": 45.69}, "Hanging Man": {"occurance_trend": 77, "all_occurance": 147, "hit_percentage_high_trend": 42.86, "hit_percentage_high_all": 38.78, "hit_percentage_low_trend": 42.86, "hit_percentage_low_all": 33.33, "hit_percentage_close_trend": 62.34, "hit_percentage_close_all": 55.1}, "Shooting Star": {"occurance_trend": 53, "all_occurance": 134, "hit_percentage_high_trend": 75.47, "hit_percentage_high_all": 68.66, "hit_percentage_low_trend": 83.02, "hit_percentage_low_all": 76.12, "hit_percentage_close_trend": 49.06, "hit_percentage_close_all": 41.79}}, "4": {"Hammer": {"occurance_trend": 37, "all_occurance": 93, "hit_percentage_high_trend": 72.97, "hit_percentage_high_all": 68.82, "hit_percentage_low_trend": 70.27, "hit_percentage_low_all": 66.67, "hit_percentage_close_trend": 45.95, "hit_percentage_close_all": 43.01}, "I. Hammer": {"occurance_trend": 107, "all_occurance": 243, "hit_percentage_high_trend": 43.93, "hit_percentage_high_all": 49.79, "hit_percentage_low_trend": 49.53, "hit_percentage_low_all": 49.79, "hit_percentage_close_trend": 65.42, "hit_percentage_close_all": 62.96}, "Random": {"occurance_trend": 600, "all_occurance": 1182, "hit_percentage_high_trend": 48.33, "hit_percentage_high_all": 50.25, "hit_percentage_low_trend": 52.67, "hit_percentage_low_all": 52.79, "hit_percentage_close_trend": 49.0, "hit_percentage_close_all": 50.76}, "Random*": {"occurance_trend": 458, "all_occurance": 1182, "hit_percentage_high_trend": 63.76, "hit_percentage_high_all": 47.38, "hit_percentage_low_trend": 57.21, "hit_percentage_low_all": 44.16, "hit_percentage_close_trend": 62.45, "hit_percentage_close_all": 46.36}, "Hanging Man": {"occurance_trend": 73, "all_occurance": 147, "hit_percentage_high_trend": 39.73, "hit_percentage_high_all": 40.82, "hit_percentage_low_trend": 42.47, "hit_percentage_low_all": 38.78, "hit_percentage_close_trend": 52.05, "hit_percentage_close_all": 51.7}, "Shooting Star": {"occurance_trend": 59, "all_occurance": 134, "hit_percentage_high_trend": 66.1, "hit_percentage_high_all": 61.19, "hit_percentage_low_trend": 74.58, "hit_percentage_low_all": 67.16, "hit_percentage_close_trend": 47.46, "hit_percentage_close_all": 41.04}}, "8": {"Hammer": {"occurance_trend": 32, "all_occurance": 93, "hit_percentage_high_trend": 84.38, "hit_percentage_high_all": 62.37, "hit_percentage_low_trend": 81.25, "hit_percentage_low_all": 63.44, "hit_percentage_close_trend": 40.62, "hit_percentage_close_all": 40.86}, "I. Hammer": {"occurance_trend": 102, "all_occurance": 243, "hit_percentage_high_trend": 57.84, "hit_percentage_high_all": 55.14, "hit_percentage_low_trend": 60.78, "hit_percentage_low_all": 54.32, "hit_percentage_close_trend": 70.59, "hit_percentage_close_all": 64.61}, "Random": {"occurance_trend": 656, "all_occurance": 1182, "hit_percentage_high_trend": 50.3, "hit_percentage_high_all": 51.61, "hit_percentage_low_trend": 53.35, "hit_percentage_low_all": 54.48, "hit_percentage_close_trend": 53.05, "hit_percentage_close_all": 53.98}, "Random*": {"occurance_trend": 348, "all_occurance": 1182, "hit_percentage_high_trend": 80.46, "hit_percentage_high_all": 44.33, "hit_percentage_low_trend": 74.71, "hit_percentage_low_all": 40.78, "hit_percentage_close_trend": 75.86, "hit_percentage_close_all": 41.79}, "Hanging Man": {"occurance_trend": 75, "all_occurance": 147, "hit_percentage_high_trend": 41.33, "hit_percentage_high_all": 42.86, "hit_percentage_low_trend": 38.67, "hit_percentage_low_all": 36.73, "hit_percentage_close_trend": 52.0, "hit_percentage_close_all": 53.74}, "Shooting Star": {"occurance_trend": 69, "all_occurance": 134, "hit_percentage_high_trend": 59.42, "hit_percentage_high_all": 55.22, "hit_percentage_low_trend": 60.87, "hit_percentage_low_all": 61.19, "hit_percentage_close_trend": 44.93, "hit_percentage_close_all": 33.58}}}}, "Micro Finance": {"bullish": {"2": {"Hammer": {"occurance_trend": 52, "all_occurance": 134, "hit_percentage_high_trend": 75.0, "hit_percentage_high_all": 77.61, "hit_percentage_low_trend": 71.15, "hit_percentage_low_all": 75.37, "hit_percentage_close_trend": 46.15, "hit_percentage_close_all": 49.25}, "I. Hammer": {"occurance_trend": 150, "all_occurance": 285, "hit_percentage_high_trend": 44.0, "hit_percentage_high_all": 41.05, "hit_percentage_low_trend": 46.0, "hit_percentage_low_all": 45.26, "hit_percentage_close_trend": 56.0, "hit_percentage_close_all": 51.23}, "Random": {"occurance_trend": 866, "all_occurance": 1718, "hit_percentage_high_trend": 48.96, "hit_percentage_high_all": 51.34, "hit_percentage_low_trend": 54.73, "hit_percentage_low_all": 54.48, "hit_percentage_close_trend": 52.66, "hit_percentage_close_all": 52.62}, "Random*": {"occurance_trend": 704, "all_occurance": 1718, "hit_percentage_high_trend": 60.23, "hit_percentage_high_all": 46.1, "hit_percentage_low_trend": 52.56, "hit_percentage_low_all": 43.19, "hit_percentage_close_trend": 56.25, "hit_percentage_close_all": 45.29}, "Hanging Man": {"occurance_trend": 118, "all_occurance": 238, "hit_percentage_high_trend": 27.97, "hit_percentage_high_all": 34.03, "hit_percentage_low_trend": 24.58, "hit_percentage_low_all": 31.51, "hit_percentage_close_trend": 44.92, "hit_percentage_close_all": 52.1}, "Shooting Star": {"occurance_trend": 92, "all_occurance": 198, "hit_percentage_high_trend": 55.43, "hit_percentage_high_all": 60.61, "hit_percentage_low_trend": 69.57, "hit_percentage_low_all": 69.7, "hit_percentage_close_trend": 42.39, "hit_percentage_close_all": 45.45}}, "4": {"Hammer": {"occurance_trend": 48, "all_occurance": 134, "hit_percentage_high_trend": 72.92, "hit_percentage_high_all": 73.88, "hit_percentage_low_trend": 75.0, "hit_percentage_low_all": 75.37, "hit_percentage_close_trend": 54.17, "hit_percentage_close_all": 57.46}, "I. Hammer": {"occurance_trend": 147, "all_occurance": 285, "hit_percentage_high_trend": 47.62, "hit_percentage_high_all": 46.67, "hit_percentage_low_trend": 48.98, "hit_percentage_low_all": 48.77, "hit_percentage_close_trend": 55.78, "hit_percentage_close_all": 56.49}, "Random": {"occurance_trend": 894, "all_occurance": 1718, "hit_percentage_high_trend": 51.9, "hit_percentage_high_all": 53.67, "hit_percentage_low_trend": 53.91, "hit_percentage_low_all": 54.71, "hit_percentage_close_trend": 51.68, "hit_percentage_close_all": 53.9}, "Random*": {"occurance_trend": 640, "all_occurance": 1718, "hit_percentage_high_trend": 65.94, "hit_percentage_high_all": 44.47, "hit_percentage_low_trend": 63.44, "hit_percentage_low_all": 43.19, "hit_percentage_close_trend": 65.62, "hit_percentage_close_all": 44.12}, "Hanging Man": {"occurance_trend": 105, "all_occurance": 238, "hit_percentage_high_trend": 33.33, "hit_percentage_high_all": 33.19, "hit_percentage_low_trend": 35.24, "hit_percentage_low_all": 36.55, "hit_percentage_close_trend": 45.71, "hit_percentage_close_all": 47.48}, "Shooting Star": {"occurance_trend": 101, "all_occurance": 198, "hit_percentage_high_trend": 54.46, "hit_percentage_high_all": 55.56, "hit_percentage_low_trend": 53.47, "hit_percentage_low_all": 57.07, "hit_percentage_close_trend": 41.58, "hit_percentage_close_all": 41.92}}, "8": {"Hammer": {"occurance_trend": 57, "all_occurance": 134, "hit_percentage_high_trend": 71.93, "hit_percentage_high_all": 76.87, "hit_percentage_low_trend": 75.44, "hit_percentage_low_all": 80.6, "hit_percentage_close_trend": 56.14, "hit_percentage_close_all": 58.21}, "I. Hammer": {"occurance_trend": 119, "all_occurance": 285, "hit_percentage_high_trend": 59.66, "hit_percentage_high_all": 53.68, "hit_percentage_low_trend": 57.98, "hit_percentage_low_all": 53.68, "hit_percentage_close_trend": 63.03, "hit_percentage_close_all": 58.6}, "Random": {"occurance_trend": 884, "all_occurance": 1718, "hit_percentage_high_trend": 53.17, "hit_percentage_high_all": 54.02, "hit_percentage_low_trend": 54.52, "hit_percentage_low_all": 56.23, "hit_percentage_close_trend": 54.52, "hit_percentage_close_all": 54.83}, "Random*": {"occurance_trend": 548, "all_occurance": 1718, "hit_percentage_high_trend": 72.63, "hit_percentage_high_all": 43.66, "hit_percentage_low_trend": 70.07, "hit_percentage_low_all": 41.56, "hit_percentage_close_trend": 70.44, "hit_percentage_close_all": 43.07}, "Hanging Man": {"occurance_trend": 102, "all_occurance": 238, "hit_percentage_high_trend": 31.37, "hit_percentage_high_all": 30.25, "hit_percentage_low_trend": 35.29, "hit_percentage_low_all": 33.61, "hit_percentage_close_trend": 38.24, "hit_percentage_close_all": 39.92}, "Shooting Star": {"occurance_trend": 99, "all_occurance": 198, "hit_percentage_high_trend": 51.52, "hit_percentage_high_all": 50.51, "hit_percentage_low_trend": 43.43, "hit_percentage_low_all": 47.98, "hit_percentage_close_trend": 35.35, "hit_percentage_close_all": 37.37}}}, "bearish": {"2": {"Hammer": {"occurance_trend": 102, "all_occurance": 181, "hit_percentage_high_trend": 68.63, "hit_percentage_high_all": 68.51, "hit_percentage_low_trend": 61.76, "hit_percentage_low_all": 60.22, "hit_percentage_close_trend": 25.49, "hit_percentage_close_all": 33.15}, "I. Hammer": {"occurance_trend": 224, "all_occurance": 334, "hit_percentage_high_trend": 35.27, "hit_percentage_high_all": 38.32, "hit_percentage_low_trend": 33.93, "hit_percentage_low_all": 32.63, "hit_percentage_close_trend": 46.88, "hit_percentage_close_all": 46.11}, "Random": {"occurance_trend": 854, "all_occurance": 2070, "hit_percentage_high_trend": 41.69, "hit_percentage_high_all": 43.77, "hit_percentage_low_trend": 42.62, "hit_percentage_low_all": 43.57, "hit_percentage_close_trend": 47.78, "hit_percentage_close_all": 45.22}, "Random*": {"occurance_trend": 1090, "all_occurance": 2070, "hit_percentage_high_trend": 45.5, "hit_percentage_high_all": 55.46, "hit_percentage_low_trend": 44.95, "hit_percentage_low_all": 56.23, "hit_percentage_close_trend": 40.0, "hit_percentage_close_all": 53.91}, "Hanging Man": {"occurance_trend": 127, "all_occurance": 295, "hit_percentage_high_trend": 46.46, "hit_percentage_high_all": 41.69, "hit_percentage_low_trend": 51.97, "hit_percentage_low_all": 49.49, "hit_percentage_close_trend": 59.84, "hit_percentage_close_all": 60.68}, "Shooting Star": {"occurance_trend": 81, "all_occurance": 229, "hit_percentage_high_trend": 76.54, "hit_percentage_high_all": 74.24, "hit_percentage_low_trend": 86.42, "hit_percentage_low_all": 81.66, "hit_percentage_close_trend": 53.09, "hit_percentage_close_all": 50.66}}, "4": {"Hammer": {"occurance_trend": 104, "all_occurance": 181, "hit_percentage_high_trend": 57.69, "hit_percentage_high_all": 57.46, "hit_percentage_low_trend": 54.81, "hit_percentage_low_all": 51.93, "hit_percentage_close_trend": 33.65, "hit_percentage_close_all": 35.91}, "I. Hammer": {"occurance_trend": 213, "all_occurance": 334, "hit_percentage_high_trend": 42.25, "hit_percentage_high_all": 39.22, "hit_percentage_low_trend": 36.62, "hit_percentage_low_all": 34.73, "hit_percentage_close_trend": 48.83, "hit_percentage_close_all": 45.51}, "Random": {"occurance_trend": 786, "all_occurance": 2070, "hit_percentage_high_trend": 41.98, "hit_percentage_high_all": 41.93, "hit_percentage_low_trend": 42.75, "hit_percentage_low_all": 42.71, "hit_percentage_close_trend": 42.49, "hit_percentage_close_all": 44.06}, "Random*": {"occurance_trend": 1094, "all_occurance": 2070, "hit_percentage_high_trend": 41.5, "hit_percentage_high_all": 57.97, "hit_percentage_low_trend": 40.95, "hit_percentage_low_all": 57.2, "hit_percentage_close_trend": 41.32, "hit_percentage_close_all": 55.85}, "Hanging Man": {"occurance_trend": 91, "all_occurance": 295, "hit_percentage_high_trend": 57.14, "hit_percentage_high_all": 49.83, "hit_percentage_low_trend": 54.95, "hit_percentage_low_all": 53.56, "hit_percentage_close_trend": 68.13, "hit_percentage_close_all": 62.03}, "Shooting Star": {"occurance_trend": 81, "all_occurance": 229, "hit_percentage_high_trend": 70.37, "hit_percentage_high_all": 69.87, "hit_percentage_low_trend": 71.6, "hit_percentage_low_all": 74.67, "hit_percentage_close_trend": 49.38, "hit_percentage_close_all": 54.15}}, "8": {"Hammer": {"occurance_trend": 118, "all_occurance": 181, "hit_percentage_high_trend": 44.92, "hit_percentage_high_all": 46.96, "hit_percentage_low_trend": 43.22, "hit_percentage_low_all": 46.96, "hit_percentage_close_trend": 36.44, "hit_percentage_close_all": 37.57}, "I. Hammer": {"occurance_trend": 193, "all_occurance": 334, "hit_percentage_high_trend": 37.31, "hit_percentage_high_all": 38.92, "hit_percentage_low_trend": 35.75, "hit_percentage_low_all": 35.63, "hit_percentage_close_trend": 43.52, "hit_percentage_close_all": 44.91}, "Random": {"occurance_trend": 644, "all_occurance": 2070, "hit_percentage_high_trend": 42.24, "hit_percentage_high_all": 38.74, "hit_percentage_low_trend": 46.89, "hit_percentage_low_all": 39.42, "hit_percentage_close_trend": 48.14, "hit_percentage_close_all": 41.93}, "Random*": {"occurance_trend": 1194, "all_occurance": 2070, "hit_percentage_high_trend": 31.16, "hit_percentage_high_all": 61.26, "hit_percentage_low_trend": 28.64, "hit_percentage_low_all": 60.58, "hit_percentage_close_trend": 27.97, "hit_percentage_close_all": 58.07}, "Hanging Man": {"occurance_trend": 70, "all_occurance": 295, "hit_percentage_high_trend": 48.57, "hit_percentage_high_all": 54.58, "hit_percentage_low_trend": 51.43, "hit_percentage_low_all": 59.32, "hit_percentage_close_trend": 54.29, "hit_percentage_close_all": 63.39}, "Shooting Star": {"occurance_trend": 86, "all_occurance": 229, "hit_percentage_high_trend": 69.77, "hit_percentage_high_all": 66.81, "hit_percentage_low_trend": 69.77, "hit_percentage_low_all": 69.87, "hit_percentage_close_trend": 56.98, "hit_percentage_close_all": 56.33}}}}, "Expensive Stocks": {"bullish": {"2": {"Hammer": {"occurance_trend": 42, "all_occurance": 88, "hit_percentage_high_trend": 71.43, "hit_percentage_high_all": 71.59, "hit_percentage_low_trend": 66.67, "hit_percentage_low_all": 69.32, "hit_percentage_close_trend": 50.0, "hit_percentage_close_all": 45.45}, "I. Hammer": {"occurance_trend": 134, "all_occurance": 235, "hit_percentage_high_trend": 34.33, "hit_percentage_high_all": 40.0, "hit_percentage_low_trend": 39.55, "hit_percentage_low_all": 40.43, "hit_percentage_close_trend": 46.27, "hit_percentage_close_all": 50.64}, "Random": {"occurance_trend": 598, "all_occurance": 1290, "hit_percentage_high_trend": 43.48, "hit_percentage_high_all": 44.5, "hit_percentage_low_trend": 45.15, "hit_percentage_low_all": 44.19, "hit_percentage_close_trend": 44.15, "hit_percentage_close_all": 44.96}, "Random*": {"occurance_trend": 584, "all_occurance": 1290, "hit_percentage_high_trend": 57.19, "hit_percentage_high_all": 54.73, "hit_percentage_low_trend": 54.79, "hit_percentage_low_all": 54.11, "hit_percentage_close_trend": 55.82, "hit_percentage_close_all": 53.64}, "Hanging Man": {"occurance_trend": 82, "all_occurance": 178, "hit_percentage_high_trend": 43.9, "hit_percentage_high_all": 37.08, "hit_percentage_low_trend": 39.02, "hit_percentage_low_all": 39.89, "hit_percentage_close_trend": 60.98, "hit_percentage_close_all": 60.11}, "Shooting Star": {"occurance_trend": 71, "all_occurance": 159, "hit_percentage_high_trend": 69.01, "hit_percentage_high_all": 62.26, "hit_percentage_low_trend": 70.42, "hit_percentage_low_all": 69.18, "hit_percentage_close_trend": 49.3, "hit_percentage_close_all": 45.91}}, "4": {"Hammer": {"occurance_trend": 27, "all_occurance": 88, "hit_percentage_high_trend": 74.07, "hit_percentage_high_all": 68.18, "hit_percentage_low_trend": 74.07, "hit_percentage_low_all": 68.18, "hit_percentage_close_trend": 59.26, "hit_percentage_close_all": 47.73}, "I. Hammer": {"occurance_trend": 107, "all_occurance": 235, "hit_percentage_high_trend": 38.32, "hit_percentage_high_all": 43.83, "hit_percentage_low_trend": 44.86, "hit_percentage_low_all": 44.26, "hit_percentage_close_trend": 51.4, "hit_percentage_close_all": 53.62}, "Random": {"occurance_trend": 566, "all_occurance": 1290, "hit_percentage_high_trend": 45.23, "hit_percentage_high_all": 46.67, "hit_percentage_low_trend": 45.94, "hit_percentage_low_all": 45.27, "hit_percentage_close_trend": 45.94, "hit_percentage_close_all": 49.3}, "Random*": {"occurance_trend": 512, "all_occurance": 1290, "hit_percentage_high_trend": 59.77, "hit_percentage_high_all": 52.25, "hit_percentage_low_trend": 59.77, "hit_percentage_low_all": 53.95, "hit_percentage_close_trend": 59.38, "hit_percentage_close_all": 49.61}, "Hanging Man": {"occurance_trend": 76, "all_occurance": 178, "hit_percentage_high_trend": 43.42, "hit_percentage_high_all": 40.45, "hit_percentage_low_trend": 47.37, "hit_percentage_low_all": 42.7, "hit_percentage_close_trend": 56.58, "hit_percentage_close_all": 57.87}, "Shooting Star": {"occurance_trend": 51, "all_occurance": 159, "hit_percentage_high_trend": 68.63, "hit_percentage_high_all": 60.38, "hit_percentage_low_trend": 62.75, "hit_percentage_low_all": 62.89, "hit_percentage_close_trend": 50.98, "hit_percentage_close_all": 44.65}}, "8": {"Hammer": {"occurance_trend": 22, "all_occurance": 88, "hit_percentage_high_trend": 81.82, "hit_percentage_high_all": 67.05, "hit_percentage_low_trend": 81.82, "hit_percentage_low_all": 65.91, "hit_percentage_close_trend": 63.64, "hit_percentage_close_all": 51.14}, "I. Hammer": {"occurance_trend": 82, "all_occurance": 235, "hit_percentage_high_trend": 48.78, "hit_percentage_high_all": 48.51, "hit_percentage_low_trend": 47.56, "hit_percentage_low_all": 46.81, "hit_percentage_close_trend": 57.32, "hit_percentage_close_all": 54.04}, "Random": {"occurance_trend": 628, "all_occurance": 1290, "hit_percentage_high_trend": 46.82, "hit_percentage_high_all": 50.23, "hit_percentage_low_trend": 48.09, "hit_percentage_low_all": 52.09, "hit_percentage_close_trend": 49.36, "hit_percentage_close_all": 52.71}, "Random*": {"occurance_trend": 430, "all_occurance": 1290, "hit_percentage_high_trend": 73.49, "hit_percentage_high_all": 48.37, "hit_percentage_low_trend": 71.16, "hit_percentage_low_all": 46.05, "hit_percentage_close_trend": 69.77, "hit_percentage_close_all": 45.89}, "Hanging Man": {"occurance_trend": 77, "all_occurance": 178, "hit_percentage_high_trend": 37.66, "hit_percentage_high_all": 41.01, "hit_percentage_low_trend": 35.06, "hit_percentage_low_all": 38.76, "hit_percentage_close_trend": 46.75, "hit_percentage_close_all": 52.81}, "Shooting Star": {"occurance_trend": 70, "all_occurance": 159, "hit_percentage_high_trend": 52.86, "hit_percentage_high_all": 55.97, "hit_percentage_low_trend": 60.0, "hit_percentage_low_all": 60.38, "hit_percentage_close_trend": 42.86, "hit_percentage_close_all": 42.77}}}, "bearish": {"2": {"Hammer": {"occurance_trend": 53, "all_occurance": 98, "hit_percentage_high_trend": 77.36, "hit_percentage_high_all": 75.51, "hit_percentage_low_trend": 81.13, "hit_percentage_low_all": 77.55, "hit_percentage_close_trend": 50.94, "hit_percentage_close_all": 41.84}, "I. Hammer": {"occurance_trend": 117, "all_occurance": 209, "hit_percentage_high_trend": 35.04, "hit_percentage_high_all": 36.84, "hit_percentage_low_trend": 31.62, "hit_percentage_low_all": 35.41, "hit_percentage_close_trend": 39.32, "hit_percentage_close_all": 44.5}, "Random": {"occurance_trend": 510, "all_occurance": 1304, "hit_percentage_high_trend": 47.45, "hit_percentage_high_all": 46.32, "hit_percentage_low_trend": 48.63, "hit_percentage_low_all": 47.85, "hit_percentage_close_trend": 47.84, "hit_percentage_close_all": 47.39}, "Random*": {"occurance_trend": 708, "all_occurance": 1304, "hit_percentage_high_trend": 37.57, "hit_percentage_high_all": 52.91, "hit_percentage_low_trend": 36.72, "hit_percentage_low_all": 51.38, "hit_percentage_close_trend": 36.72, "hit_percentage_close_all": 51.53}, "Hanging Man": {"occurance_trend": 62, "all_occurance": 166, "hit_percentage_high_trend": 27.42, "hit_percentage_high_all": 37.35, "hit_percentage_low_trend": 37.1, "hit_percentage_low_all": 37.95, "hit_percentage_close_trend": 58.06, "hit_percentage_close_all": 60.84}, "Shooting Star": {"occurance_trend": 60, "all_occurance": 164, "hit_percentage_high_trend": 78.33, "hit_percentage_high_all": 68.9, "hit_percentage_low_trend": 80.0, "hit_percentage_low_all": 73.17, "hit_percentage_close_trend": 55.0, "hit_percentage_close_all": 48.17}}, "4": {"Hammer": {"occurance_trend": 53, "all_occurance": 98, "hit_percentage_high_trend": 67.92, "hit_percentage_high_all": 66.33, "hit_percentage_low_trend": 56.6, "hit_percentage_low_all": 61.22, "hit_percentage_close_trend": 28.3, "hit_percentage_close_all": 36.73}, "I. Hammer": {"occurance_trend": 108, "all_occurance": 209, "hit_percentage_high_trend": 26.85, "hit_percentage_high_all": 34.93, "hit_percentage_low_trend": 21.3, "hit_percentage_low_all": 31.1, "hit_percentage_close_trend": 36.11, "hit_percentage_close_all": 43.06}, "Random": {"occurance_trend": 472, "all_occurance": 1304, "hit_percentage_high_trend": 48.73, "hit_percentage_high_all": 46.17, "hit_percentage_low_trend": 50.85, "hit_percentage_low_all": 46.63, "hit_percentage_close_trend": 46.19, "hit_percentage_close_all": 46.78}, "Random*": {"occurance_trend": 692, "all_occurance": 1304, "hit_percentage_high_trend": 34.97, "hit_percentage_high_all": 53.83, "hit_percentage_low_trend": 33.53, "hit_percentage_low_all": 52.91, "hit_percentage_close_trend": 36.71, "hit_percentage_close_all": 53.22}, "Hanging Man": {"occurance_trend": 58, "all_occurance": 166, "hit_percentage_high_trend": 43.1, "hit_percentage_high_all": 42.77, "hit_percentage_low_trend": 48.28, "hit_percentage_low_all": 45.18, "hit_percentage_close_trend": 60.34, "hit_percentage_close_all": 57.83}, "Shooting Star": {"occurance_trend": 52, "all_occurance": 164, "hit_percentage_high_trend": 71.15, "hit_percentage_high_all": 67.07, "hit_percentage_low_trend": 71.15, "hit_percentage_low_all": 67.68, "hit_percentage_close_trend": 53.85, "hit_percentage_close_all": 50.61}}, "8": {"Hammer": {"occurance_trend": 54, "all_occurance": 98, "hit_percentage_high_trend": 55.56, "hit_percentage_high_all": 58.16, "hit_percentage_low_trend": 53.7, "hit_percentage_low_all": 57.14, "hit_percentage_close_trend": 29.63, "hit_percentage_close_all": 36.73}, "I. Hammer": {"occurance_trend": 111, "all_occurance": 209, "hit_percentage_high_trend": 27.03, "hit_percentage_high_all": 32.06, "hit_percentage_low_trend": 27.93, "hit_percentage_low_all": 32.54, "hit_percentage_close_trend": 33.33, "hit_percentage_close_all": 37.8}, "Random": {"occurance_trend": 434, "all_occurance": 1304, "hit_percentage_high_trend": 44.7, "hit_percentage_high_all": 45.4, "hit_percentage_low_trend": 51.61, "hit_percentage_low_all": 48.16, "hit_percentage_close_trend": 47.0, "hit_percentage_close_all": 46.01}, "Random*": {"occurance_trend": 674, "all_occurance": 1304, "hit_percentage_high_trend": 35.61, "hit_percentage_high_all": 54.45, "hit_percentage_low_trend": 31.16, "hit_percentage_low_all": 51.84, "hit_percentage_close_trend": 34.12, "hit_percentage_close_all": 53.99}, "Hanging Man": {"occurance_trend": 51, "all_occurance": 166, "hit_percentage_high_trend": 39.22, "hit_percentage_high_all": 46.99, "hit_percentage_low_trend": 33.33, "hit_percentage_low_all": 48.19, "hit_percentage_close_trend": 50.98, "hit_percentage_close_all": 61.45}, "Shooting Star": {"occurance_trend": 59, "all_occurance": 164, "hit_percentage_high_trend": 72.88, "hit_percentage_high_all": 67.68, "hit_percentage_low_trend": 67.8, "hit_percentage_low_all": 67.07, "hit_percentage_close_trend": 61.02, "hit_percentage_close_all": 54.27}}}}, "Low Floating Stocks": {"bullish": {"2": {"Hammer": {"occurance_trend": 38, "all_occurance": 86, "hit_percentage_high_trend": 78.95, "hit_percentage_high_all": 70.93, "hit_percentage_low_trend": 76.32, "hit_percentage_low_all": 72.09, "hit_percentage_close_trend": 42.11, "hit_percentage_close_all": 40.7}, "I. Hammer": {"occurance_trend": 73, "all_occurance": 149, "hit_percentage_high_trend": 49.32, "hit_percentage_high_all": 42.95, "hit_percentage_low_trend": 36.99, "hit_percentage_low_all": 35.57, "hit_percentage_close_trend": 63.01, "hit_percentage_close_all": 56.38}, "Random": {"occurance_trend": 494, "all_occurance": 942, "hit_percentage_high_trend": 48.18, "hit_percentage_high_all": 51.17, "hit_percentage_low_trend": 52.23, "hit_percentage_low_all": 51.8, "hit_percentage_close_trend": 46.96, "hit_percentage_close_all": 50.32}, "Random*": {"occurance_trend": 402, "all_occurance": 942, "hit_percentage_high_trend": 62.19, "hit_percentage_high_all": 46.92, "hit_percentage_low_trend": 57.71, "hit_percentage_low_all": 46.92, "hit_percentage_close_trend": 64.18, "hit_percentage_close_all": 48.83}, "Hanging Man": {"occurance_trend": 58, "all_occurance": 113, "hit_percentage_high_trend": 37.93, "hit_percentage_high_all": 30.09, "hit_percentage_low_trend": 37.93, "hit_percentage_low_all": 32.74, "hit_percentage_close_trend": 58.62, "hit_percentage_close_all": 46.02}, "Shooting Star": {"occurance_trend": 39, "all_occurance": 76, "hit_percentage_high_trend": 74.36, "hit_percentage_high_all": 60.53, "hit_percentage_low_trend": 84.62, "hit_percentage_low_all": 68.42, "hit_percentage_close_trend": 46.15, "hit_percentage_close_all": 39.47}}, "4": {"Hammer": {"occurance_trend": 29, "all_occurance": 86, "hit_percentage_high_trend": 72.41, "hit_percentage_high_all": 68.6, "hit_percentage_low_trend": 72.41, "hit_percentage_low_all": 68.6, "hit_percentage_close_trend": 31.03, "hit_percentage_close_all": 39.53}, "I. Hammer": {"occurance_trend": 59, "all_occurance": 149, "hit_percentage_high_trend": 47.46, "hit_percentage_high_all": 44.97, "hit_percentage_low_trend": 54.24, "hit_percentage_low_all": 44.97, "hit_percentage_close_trend": 66.1, "hit_percentage_close_all": 59.06}, "Random": {"occurance_trend": 490, "all_occurance": 942, "hit_percentage_high_trend": 55.92, "hit_percentage_high_all": 54.99, "hit_percentage_low_trend": 50.61, "hit_percentage_low_all": 51.38, "hit_percentage_close_trend": 55.51, "hit_percentage_close_all": 53.72}, "Random*": {"occurance_trend": 360, "all_occurance": 942, "hit_percentage_high_trend": 59.44, "hit_percentage_high_all": 42.89, "hit_percentage_low_trend": 65.56, "hit_percentage_low_all": 45.86, "hit_percentage_close_trend": 60.0, "hit_percentage_close_all": 44.16}, "Hanging Man": {"occurance_trend": 65, "all_occurance": 113, "hit_percentage_high_trend": 30.77, "hit_percentage_high_all": 27.43, "hit_percentage_low_trend": 32.31, "hit_percentage_low_all": 32.74, "hit_percentage_close_trend": 46.15, "hit_percentage_close_all": 45.13}, "Shooting Star": {"occurance_trend": 30, "all_occurance": 76, "hit_percentage_high_trend": 60.0, "hit_percentage_high_all": 52.63, "hit_percentage_low_trend": 66.67, "hit_percentage_low_all": 65.79, "hit_percentage_close_trend": 33.33, "hit_percentage_close_all": 31.58}}, "8": {"Hammer": {"occurance_trend": 29, "all_occurance": 86, "hit_percentage_high_trend": 65.52, "hit_percentage_high_all": 68.6, "hit_percentage_low_trend": 68.97, "hit_percentage_low_all": 66.28, "hit_percentage_close_trend": 34.48, "hit_percentage_close_all": 47.67}, "I. Hammer": {"occurance_trend": 55, "all_occurance": 149, "hit_percentage_high_trend": 52.73, "hit_percentage_high_all": 53.69, "hit_percentage_low_trend": 50.91, "hit_percentage_low_all": 51.01, "hit_percentage_close_trend": 58.18, "hit_percentage_close_all": 63.09}, "Random": {"occurance_trend": 518, "all_occurance": 942, "hit_percentage_high_trend": 52.51, "hit_percentage_high_all": 53.72, "hit_percentage_low_trend": 55.6, "hit_percentage_low_all": 56.48, "hit_percentage_close_trend": 52.51, "hit_percentage_close_all": 54.78}, "Random*": {"occurance_trend": 300, "all_occurance": 942, "hit_percentage_high_trend": 79.33, "hit_percentage_high_all": 43.1, "hit_percentage_low_trend": 74.0, "hit_percentage_low_all": 40.34, "hit_percentage_close_trend": 79.33, "hit_percentage_close_all": 42.04}, "Hanging Man": {"occurance_trend": 70, "all_occurance": 113, "hit_percentage_high_trend": 32.86, "hit_percentage_high_all": 29.2, "hit_percentage_low_trend": 27.14, "hit_percentage_low_all": 28.32, "hit_percentage_close_trend": 44.29, "hit_percentage_close_all": 39.82}, "Shooting Star": {"occurance_trend": 32, "all_occurance": 76, "hit_percentage_high_trend": 46.88, "hit_percentage_high_all": 46.05, "hit_percentage_low_trend": 43.75, "hit_percentage_low_all": 47.37, "hit_percentage_close_trend": 21.88, "hit_percentage_close_all": 23.68}}}, "bearish": {"2": {"Hammer": {"occurance_trend": 62, "all_occurance": 110, "hit_percentage_high_trend": 61.29, "hit_percentage_high_all": 56.36, "hit_percentage_low_trend": 69.35, "hit_percentage_low_all": 64.55, "hit_percentage_close_trend": 41.94, "hit_percentage_close_all": 40.0}, "I. Hammer": {"occurance_trend": 88, "all_occurance": 147, "hit_percentage_high_trend": 38.64, "hit_percentage_high_all": 38.78, "hit_percentage_low_trend": 32.95, "hit_percentage_low_all": 32.65, "hit_percentage_close_trend": 52.27, "hit_percentage_close_all": 52.38}, "Random": {"occurance_trend": 414, "all_occurance": 972, "hit_percentage_high_trend": 41.06, "hit_percentage_high_all": 40.53, "hit_percentage_low_trend": 39.61, "hit_percentage_low_all": 38.89, "hit_percentage_close_trend": 42.03, "hit_percentage_close_all": 40.53}, "Random*": {"occurance_trend": 510, "all_occurance": 972, "hit_percentage_high_trend": 47.45, "hit_percentage_high_all": 58.64, "hit_percentage_low_trend": 48.63, "hit_percentage_low_all": 59.88, "hit_percentage_close_trend": 44.71, "hit_percentage_close_all": 57.41}, "Hanging Man": {"occurance_trend": 73, "all_occurance": 179, "hit_percentage_high_trend": 52.05, "hit_percentage_high_all": 48.04, "hit_percentage_low_trend": 42.47, "hit_percentage_low_all": 43.58, "hit_percentage_close_trend": 61.64, "hit_percentage_close_all": 59.22}, "Shooting Star": {"occurance_trend": 30, "all_occurance": 97, "hit_percentage_high_trend": 70.0, "hit_percentage_high_all": 74.23, "hit_percentage_low_trend": 80.0, "hit_percentage_low_all": 83.51, "hit_percentage_close_trend": 46.67, "hit_percentage_close_all": 49.48}}, "4": {"Hammer": {"occurance_trend": 65, "all_occurance": 110, "hit_percentage_high_trend": 63.08, "hit_percentage_high_all": 57.27, "hit_percentage_low_trend": 67.69, "hit_percentage_low_all": 61.82, "hit_percentage_close_trend": 47.69, "hit_percentage_close_all": 41.82}, "I. Hammer": {"occurance_trend": 91, "all_occurance": 147, "hit_percentage_high_trend": 43.96, "hit_percentage_high_all": 43.54, "hit_percentage_low_trend": 37.36, "hit_percentage_low_all": 34.69, "hit_percentage_close_trend": 51.65, "hit_percentage_close_all": 51.02}, "Random": {"occurance_trend": 346, "all_occurance": 972, "hit_percentage_high_trend": 32.95, "hit_percentage_high_all": 37.86, "hit_percentage_low_trend": 40.46, "hit_percentage_low_all": 39.3, "hit_percentage_close_trend": 40.46, "hit_percentage_close_all": 38.68}, "Random*": {"occurance_trend": 534, "all_occurance": 972, "hit_percentage_high_trend": 43.45, "hit_percentage_high_all": 62.14, "hit_percentage_low_trend": 38.58, "hit_percentage_low_all": 60.7, "hit_percentage_close_trend": 38.58, "hit_percentage_close_all": 61.32}, "Hanging Man": {"occurance_trend": 65, "all_occurance": 179, "hit_percentage_high_trend": 50.77, "hit_percentage_high_all": 51.4, "hit_percentage_low_trend": 49.23, "hit_percentage_low_all": 50.84, "hit_percentage_close_trend": 61.54, "hit_percentage_close_all": 64.8}, "Shooting Star": {"occurance_trend": 29, "all_occurance": 97, "hit_percentage_high_trend": 65.52, "hit_percentage_high_all": 67.01, "hit_percentage_low_trend": 75.86, "hit_percentage_low_all": 76.29, "hit_percentage_close_trend": 55.17, "hit_percentage_close_all": 52.58}}, "8": {"Hammer": {"occurance_trend": 68, "all_occurance": 110, "hit_percentage_high_trend": 52.94, "hit_percentage_high_all": 52.73, "hit_percentage_low_trend": 55.88, "hit_percentage_low_all": 57.27, "hit_percentage_close_trend": 35.29, "hit_percentage_close_all": 39.09}, "I. Hammer": {"occurance_trend": 93, "all_occurance": 147, "hit_percentage_high_trend": 46.24, "hit_percentage_high_all": 40.82, "hit_percentage_low_trend": 39.78, "hit_percentage_low_all": 35.37, "hit_percentage_close_trend": 50.54, "hit_percentage_close_all": 45.58}, "Random": {"occurance_trend": 288, "all_occurance": 972, "hit_percentage_high_trend": 43.06, "hit_percentage_high_all": 38.68, "hit_percentage_low_trend": 45.14, "hit_percentage_low_all": 37.24, "hit_percentage_close_trend": 45.83, "hit_percentage_close_all": 39.3}, "Random*": {"occurance_trend": 560, "all_occurance": 972, "hit_percentage_high_trend": 29.29, "hit_percentage_high_all": 61.32, "hit_percentage_low_trend": 28.21, "hit_percentage_low_all": 62.76, "hit_percentage_close_trend": 27.86, "hit_percentage_close_all": 60.7}, "Hanging Man": {"occurance_trend": 50, "all_occurance": 179, "hit_percentage_high_trend": 46.0, "hit_percentage_high_all": 54.19, "hit_percentage_low_trend": 46.0, "hit_percentage_low_all": 60.34, "hit_percentage_close_trend": 54.0, "hit_percentage_close_all": 65.36}, "Shooting Star": {"occurance_trend": 34, "all_occurance": 97, "hit_percentage_high_trend": 73.53, "hit_percentage_high_all": 71.13, "hit_percentage_low_trend": 70.59, "hit_percentage_low_all": 75.26, "hit_percentage_close_trend": 58.82, "hit_percentage_close_all": 60.82}}}}}
+{
+  "Banking": {
+    "bullish": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 57,
+          "all_occurance": 114,
+          "hit_percentage_high_trend": 78.95,
+          "hit_percentage_high_all": 81.58,
+          "hit_percentage_low_trend": 71.93,
+          "hit_percentage_low_all": 72.81,
+          "hit_percentage_close_trend": 47.37,
+          "hit_percentage_close_all": 50.88
+        },
+        "I. Hammer": {
+          "occurance_trend": 107,
+          "all_occurance": 232,
+          "hit_percentage_high_trend": 42.06,
+          "hit_percentage_high_all": 39.22,
+          "hit_percentage_low_trend": 40.19,
+          "hit_percentage_low_all": 38.36,
+          "hit_percentage_close_trend": 57.01,
+          "hit_percentage_close_all": 53.45
+        },
+        "Random": {
+          "occurance_trend": 614,
+          "all_occurance": 1454,
+          "hit_percentage_high_trend": 49.19,
+          "hit_percentage_high_all": 48.01,
+          "hit_percentage_low_trend": 47.88,
+          "hit_percentage_low_all": 47.87,
+          "hit_percentage_close_trend": 48.53,
+          "hit_percentage_close_all": 47.32
+        },
+        "Random*": {
+          "occurance_trend": 660,
+          "all_occurance": 1454,
+          "hit_percentage_high_trend": 45.45,
+          "hit_percentage_high_all": 49.52,
+          "hit_percentage_low_trend": 46.06,
+          "hit_percentage_low_all": 48.56,
+          "hit_percentage_close_trend": 46.67,
+          "hit_percentage_close_all": 49.38
+        },
+        "Hanging Man": {
+          "occurance_trend": 101,
+          "all_occurance": 233,
+          "hit_percentage_high_trend": 25.74,
+          "hit_percentage_high_all": 25.75,
+          "hit_percentage_low_trend": 31.68,
+          "hit_percentage_low_all": 31.33,
+          "hit_percentage_close_trend": 42.57,
+          "hit_percentage_close_all": 45.49
+        },
+        "Shooting Star": {
+          "occurance_trend": 62,
+          "all_occurance": 136,
+          "hit_percentage_high_trend": 69.35,
+          "hit_percentage_high_all": 69.85,
+          "hit_percentage_low_trend": 62.9,
+          "hit_percentage_low_all": 65.44,
+          "hit_percentage_close_trend": 38.71,
+          "hit_percentage_close_all": 41.18
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 59,
+          "all_occurance": 114,
+          "hit_percentage_high_trend": 67.8,
+          "hit_percentage_high_all": 74.56,
+          "hit_percentage_low_trend": 69.49,
+          "hit_percentage_low_all": 70.18,
+          "hit_percentage_close_trend": 45.76,
+          "hit_percentage_close_all": 46.49
+        },
+        "I. Hammer": {
+          "occurance_trend": 109,
+          "all_occurance": 232,
+          "hit_percentage_high_trend": 53.21,
+          "hit_percentage_high_all": 51.29,
+          "hit_percentage_low_trend": 53.21,
+          "hit_percentage_low_all": 51.29,
+          "hit_percentage_close_trend": 62.39,
+          "hit_percentage_close_all": 59.91
+        },
+        "Random": {
+          "occurance_trend": 624,
+          "all_occurance": 1454,
+          "hit_percentage_high_trend": 48.72,
+          "hit_percentage_high_all": 48.42,
+          "hit_percentage_low_trend": 50.64,
+          "hit_percentage_low_all": 50.34,
+          "hit_percentage_close_trend": 50.32,
+          "hit_percentage_close_all": 50.89
+        },
+        "Random*": {
+          "occurance_trend": 616,
+          "all_occurance": 1454,
+          "hit_percentage_high_trend": 50.32,
+          "hit_percentage_high_all": 50.48,
+          "hit_percentage_low_trend": 48.7,
+          "hit_percentage_low_all": 48.42,
+          "hit_percentage_close_trend": 49.03,
+          "hit_percentage_close_all": 48.28
+        },
+        "Hanging Man": {
+          "occurance_trend": 97,
+          "all_occurance": 233,
+          "hit_percentage_high_trend": 30.93,
+          "hit_percentage_high_all": 33.48,
+          "hit_percentage_low_trend": 30.93,
+          "hit_percentage_low_all": 37.34,
+          "hit_percentage_close_trend": 48.45,
+          "hit_percentage_close_all": 48.93
+        },
+        "Shooting Star": {
+          "occurance_trend": 52,
+          "all_occurance": 136,
+          "hit_percentage_high_trend": 53.85,
+          "hit_percentage_high_all": 55.88,
+          "hit_percentage_low_trend": 53.85,
+          "hit_percentage_low_all": 59.56,
+          "hit_percentage_close_trend": 42.31,
+          "hit_percentage_close_all": 41.18
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 44,
+          "all_occurance": 114,
+          "hit_percentage_high_trend": 68.18,
+          "hit_percentage_high_all": 71.05,
+          "hit_percentage_low_trend": 68.18,
+          "hit_percentage_low_all": 69.3,
+          "hit_percentage_close_trend": 52.27,
+          "hit_percentage_close_all": 49.12
+        },
+        "I. Hammer": {
+          "occurance_trend": 98,
+          "all_occurance": 232,
+          "hit_percentage_high_trend": 52.04,
+          "hit_percentage_high_all": 51.29,
+          "hit_percentage_low_trend": 57.14,
+          "hit_percentage_low_all": 54.31,
+          "hit_percentage_close_trend": 62.24,
+          "hit_percentage_close_all": 58.19
+        },
+        "Random": {
+          "occurance_trend": 620,
+          "all_occurance": 1454,
+          "hit_percentage_high_trend": 45.16,
+          "hit_percentage_high_all": 49.11,
+          "hit_percentage_low_trend": 46.45,
+          "hit_percentage_low_all": 51.58,
+          "hit_percentage_close_trend": 46.13,
+          "hit_percentage_close_all": 51.03
+        },
+        "Random*": {
+          "occurance_trend": 520,
+          "all_occurance": 1454,
+          "hit_percentage_high_trend": 60.38,
+          "hit_percentage_high_all": 48.97,
+          "hit_percentage_low_trend": 59.23,
+          "hit_percentage_low_all": 46.35,
+          "hit_percentage_close_trend": 60.0,
+          "hit_percentage_close_all": 47.32
+        },
+        "Hanging Man": {
+          "occurance_trend": 83,
+          "all_occurance": 233,
+          "hit_percentage_high_trend": 33.73,
+          "hit_percentage_high_all": 34.33,
+          "hit_percentage_low_trend": 42.17,
+          "hit_percentage_low_all": 39.06,
+          "hit_percentage_close_trend": 49.4,
+          "hit_percentage_close_all": 48.07
+        },
+        "Shooting Star": {
+          "occurance_trend": 43,
+          "all_occurance": 136,
+          "hit_percentage_high_trend": 55.81,
+          "hit_percentage_high_all": 47.79,
+          "hit_percentage_low_trend": 58.14,
+          "hit_percentage_low_all": 52.21,
+          "hit_percentage_close_trend": 48.84,
+          "hit_percentage_close_all": 37.5
+        }
+      }
+    },
+    "bearish": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 46,
+          "all_occurance": 111,
+          "hit_percentage_high_trend": 86.96,
+          "hit_percentage_high_all": 81.08,
+          "hit_percentage_low_trend": 80.43,
+          "hit_percentage_low_all": 73.87,
+          "hit_percentage_close_trend": 39.13,
+          "hit_percentage_close_all": 43.24
+        },
+        "I. Hammer": {
+          "occurance_trend": 132,
+          "all_occurance": 220,
+          "hit_percentage_high_trend": 30.3,
+          "hit_percentage_high_all": 26.36,
+          "hit_percentage_low_trend": 30.3,
+          "hit_percentage_low_all": 26.82,
+          "hit_percentage_close_trend": 43.18,
+          "hit_percentage_close_all": 37.27
+        },
+        "Random": {
+          "occurance_trend": 528,
+          "all_occurance": 1412,
+          "hit_percentage_high_trend": 34.09,
+          "hit_percentage_high_all": 39.52,
+          "hit_percentage_low_trend": 38.64,
+          "hit_percentage_low_all": 38.95,
+          "hit_percentage_close_trend": 37.12,
+          "hit_percentage_close_all": 39.38
+        },
+        "Random*": {
+          "occurance_trend": 758,
+          "all_occurance": 1412,
+          "hit_percentage_high_trend": 44.85,
+          "hit_percentage_high_all": 59.35,
+          "hit_percentage_low_trend": 40.63,
+          "hit_percentage_low_all": 59.35,
+          "hit_percentage_close_trend": 43.54,
+          "hit_percentage_close_all": 59.92
+        },
+        "Hanging Man": {
+          "occurance_trend": 92,
+          "all_occurance": 247,
+          "hit_percentage_high_trend": 38.04,
+          "hit_percentage_high_all": 34.82,
+          "hit_percentage_low_trend": 35.87,
+          "hit_percentage_low_all": 36.03,
+          "hit_percentage_close_trend": 57.61,
+          "hit_percentage_close_all": 61.13
+        },
+        "Shooting Star": {
+          "occurance_trend": 37,
+          "all_occurance": 140,
+          "hit_percentage_high_trend": 81.08,
+          "hit_percentage_high_all": 76.43,
+          "hit_percentage_low_trend": 78.38,
+          "hit_percentage_low_all": 78.57,
+          "hit_percentage_close_trend": 56.76,
+          "hit_percentage_close_all": 47.86
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 57,
+          "all_occurance": 111,
+          "hit_percentage_high_trend": 63.16,
+          "hit_percentage_high_all": 68.47,
+          "hit_percentage_low_trend": 63.16,
+          "hit_percentage_low_all": 63.96,
+          "hit_percentage_close_trend": 38.6,
+          "hit_percentage_close_all": 40.54
+        },
+        "I. Hammer": {
+          "occurance_trend": 144,
+          "all_occurance": 220,
+          "hit_percentage_high_trend": 28.47,
+          "hit_percentage_high_all": 27.73,
+          "hit_percentage_low_trend": 29.17,
+          "hit_percentage_low_all": 28.64,
+          "hit_percentage_close_trend": 42.36,
+          "hit_percentage_close_all": 40.0
+        },
+        "Random": {
+          "occurance_trend": 418,
+          "all_occurance": 1412,
+          "hit_percentage_high_trend": 30.14,
+          "hit_percentage_high_all": 38.24,
+          "hit_percentage_low_trend": 34.45,
+          "hit_percentage_low_all": 38.24,
+          "hit_percentage_close_trend": 31.58,
+          "hit_percentage_close_all": 39.38
+        },
+        "Random*": {
+          "occurance_trend": 780,
+          "all_occurance": 1412,
+          "hit_percentage_high_trend": 37.44,
+          "hit_percentage_high_all": 61.47,
+          "hit_percentage_low_trend": 34.62,
+          "hit_percentage_low_all": 61.19,
+          "hit_percentage_close_trend": 36.67,
+          "hit_percentage_close_all": 60.34
+        },
+        "Hanging Man": {
+          "occurance_trend": 76,
+          "all_occurance": 247,
+          "hit_percentage_high_trend": 36.84,
+          "hit_percentage_high_all": 46.96,
+          "hit_percentage_low_trend": 36.84,
+          "hit_percentage_low_all": 45.75,
+          "hit_percentage_close_trend": 57.89,
+          "hit_percentage_close_all": 63.16
+        },
+        "Shooting Star": {
+          "occurance_trend": 40,
+          "all_occurance": 140,
+          "hit_percentage_high_trend": 70.0,
+          "hit_percentage_high_all": 69.29,
+          "hit_percentage_low_trend": 72.5,
+          "hit_percentage_low_all": 71.43,
+          "hit_percentage_close_trend": 60.0,
+          "hit_percentage_close_all": 52.86
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 65,
+          "all_occurance": 111,
+          "hit_percentage_high_trend": 53.85,
+          "hit_percentage_high_all": 56.76,
+          "hit_percentage_low_trend": 49.23,
+          "hit_percentage_low_all": 52.25,
+          "hit_percentage_close_trend": 29.23,
+          "hit_percentage_close_all": 31.53
+        },
+        "I. Hammer": {
+          "occurance_trend": 119,
+          "all_occurance": 220,
+          "hit_percentage_high_trend": 31.09,
+          "hit_percentage_high_all": 30.91,
+          "hit_percentage_low_trend": 26.05,
+          "hit_percentage_low_all": 27.73,
+          "hit_percentage_close_trend": 35.29,
+          "hit_percentage_close_all": 35.91
+        },
+        "Random": {
+          "occurance_trend": 324,
+          "all_occurance": 1412,
+          "hit_percentage_high_trend": 38.27,
+          "hit_percentage_high_all": 36.97,
+          "hit_percentage_low_trend": 41.36,
+          "hit_percentage_low_all": 35.98,
+          "hit_percentage_close_trend": 41.36,
+          "hit_percentage_close_all": 39.38
+        },
+        "Random*": {
+          "occurance_trend": 826,
+          "all_occurance": 1412,
+          "hit_percentage_high_trend": 24.21,
+          "hit_percentage_high_all": 62.75,
+          "hit_percentage_low_trend": 23.0,
+          "hit_percentage_low_all": 63.74,
+          "hit_percentage_close_trend": 23.0,
+          "hit_percentage_close_all": 60.06
+        },
+        "Hanging Man": {
+          "occurance_trend": 44,
+          "all_occurance": 247,
+          "hit_percentage_high_trend": 47.73,
+          "hit_percentage_high_all": 55.06,
+          "hit_percentage_low_trend": 47.73,
+          "hit_percentage_low_all": 55.06,
+          "hit_percentage_close_trend": 56.82,
+          "hit_percentage_close_all": 64.78
+        },
+        "Shooting Star": {
+          "occurance_trend": 37,
+          "all_occurance": 140,
+          "hit_percentage_high_trend": 64.86,
+          "hit_percentage_high_all": 65.0,
+          "hit_percentage_low_trend": 62.16,
+          "hit_percentage_low_all": 72.14,
+          "hit_percentage_close_trend": 43.24,
+          "hit_percentage_close_all": 52.86
+        }
+      }
+    }
+  },
+  "Hydropower": {
+    "bearish": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 39,
+          "all_occurance": 74,
+          "hit_percentage_high_trend": 64.1,
+          "hit_percentage_high_all": 58.11,
+          "hit_percentage_low_trend": 58.97,
+          "hit_percentage_low_all": 55.41,
+          "hit_percentage_close_trend": 41.03,
+          "hit_percentage_close_all": 35.14
+        },
+        "I. Hammer": {
+          "occurance_trend": 106,
+          "all_occurance": 171,
+          "hit_percentage_high_trend": 34.91,
+          "hit_percentage_high_all": 33.33,
+          "hit_percentage_low_trend": 33.96,
+          "hit_percentage_low_all": 33.33,
+          "hit_percentage_close_trend": 46.23,
+          "hit_percentage_close_all": 45.61
+        },
+        "Random": {
+          "occurance_trend": 420,
+          "all_occurance": 1036,
+          "hit_percentage_high_trend": 33.33,
+          "hit_percentage_high_all": 37.45,
+          "hit_percentage_low_trend": 39.05,
+          "hit_percentage_low_all": 41.31,
+          "hit_percentage_close_trend": 44.76,
+          "hit_percentage_close_all": 45.37
+        },
+        "Random*": {
+          "occurance_trend": 580,
+          "all_occurance": 1036,
+          "hit_percentage_high_trend": 47.59,
+          "hit_percentage_high_all": 61.2,
+          "hit_percentage_low_trend": 43.1,
+          "hit_percentage_low_all": 57.72,
+          "hit_percentage_close_trend": 39.66,
+          "hit_percentage_close_all": 54.25
+        },
+        "Hanging Man": {
+          "occurance_trend": 50,
+          "all_occurance": 114,
+          "hit_percentage_high_trend": 50.0,
+          "hit_percentage_high_all": 36.84,
+          "hit_percentage_low_trend": 56.0,
+          "hit_percentage_low_all": 42.98,
+          "hit_percentage_close_trend": 72.0,
+          "hit_percentage_close_all": 56.14
+        },
+        "Shooting Star": {
+          "occurance_trend": 39,
+          "all_occurance": 133,
+          "hit_percentage_high_trend": 76.92,
+          "hit_percentage_high_all": 74.44,
+          "hit_percentage_low_trend": 74.36,
+          "hit_percentage_low_all": 78.95,
+          "hit_percentage_close_trend": 58.97,
+          "hit_percentage_close_all": 58.65
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 41,
+          "all_occurance": 74,
+          "hit_percentage_high_trend": 53.66,
+          "hit_percentage_high_all": 52.7,
+          "hit_percentage_low_trend": 51.22,
+          "hit_percentage_low_all": 55.41,
+          "hit_percentage_close_trend": 36.59,
+          "hit_percentage_close_all": 36.49
+        },
+        "I. Hammer": {
+          "occurance_trend": 97,
+          "all_occurance": 171,
+          "hit_percentage_high_trend": 32.99,
+          "hit_percentage_high_all": 35.67,
+          "hit_percentage_low_trend": 32.99,
+          "hit_percentage_low_all": 33.92,
+          "hit_percentage_close_trend": 41.24,
+          "hit_percentage_close_all": 44.44
+        },
+        "Random": {
+          "occurance_trend": 362,
+          "all_occurance": 1036,
+          "hit_percentage_high_trend": 35.36,
+          "hit_percentage_high_all": 37.07,
+          "hit_percentage_low_trend": 46.41,
+          "hit_percentage_low_all": 41.31,
+          "hit_percentage_close_trend": 44.2,
+          "hit_percentage_close_all": 43.82
+        },
+        "Random*": {
+          "occurance_trend": 588,
+          "all_occurance": 1036,
+          "hit_percentage_high_trend": 39.8,
+          "hit_percentage_high_all": 62.74,
+          "hit_percentage_low_trend": 32.99,
+          "hit_percentage_low_all": 58.69,
+          "hit_percentage_close_trend": 34.35,
+          "hit_percentage_close_all": 56.18
+        },
+        "Hanging Man": {
+          "occurance_trend": 51,
+          "all_occurance": 114,
+          "hit_percentage_high_trend": 49.02,
+          "hit_percentage_high_all": 45.61,
+          "hit_percentage_low_trend": 47.06,
+          "hit_percentage_low_all": 52.63,
+          "hit_percentage_close_trend": 58.82,
+          "hit_percentage_close_all": 55.26
+        },
+        "Shooting Star": {
+          "occurance_trend": 40,
+          "all_occurance": 133,
+          "hit_percentage_high_trend": 80.0,
+          "hit_percentage_high_all": 72.93,
+          "hit_percentage_low_trend": 82.5,
+          "hit_percentage_low_all": 78.95,
+          "hit_percentage_close_trend": 62.5,
+          "hit_percentage_close_all": 58.65
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 48,
+          "all_occurance": 74,
+          "hit_percentage_high_trend": 50.0,
+          "hit_percentage_high_all": 54.05,
+          "hit_percentage_low_trend": 45.83,
+          "hit_percentage_low_all": 51.35,
+          "hit_percentage_close_trend": 35.42,
+          "hit_percentage_close_all": 40.54
+        },
+        "I. Hammer": {
+          "occurance_trend": 98,
+          "all_occurance": 171,
+          "hit_percentage_high_trend": 40.82,
+          "hit_percentage_high_all": 35.67,
+          "hit_percentage_low_trend": 34.69,
+          "hit_percentage_low_all": 31.58,
+          "hit_percentage_close_trend": 45.92,
+          "hit_percentage_close_all": 41.52
+        },
+        "Random": {
+          "occurance_trend": 346,
+          "all_occurance": 1036,
+          "hit_percentage_high_trend": 32.95,
+          "hit_percentage_high_all": 38.22,
+          "hit_percentage_low_trend": 41.04,
+          "hit_percentage_low_all": 39.0,
+          "hit_percentage_close_trend": 39.31,
+          "hit_percentage_close_all": 39.96
+        },
+        "Random*": {
+          "occurance_trend": 590,
+          "all_occurance": 1036,
+          "hit_percentage_high_trend": 39.32,
+          "hit_percentage_high_all": 61.78,
+          "hit_percentage_low_trend": 34.58,
+          "hit_percentage_low_all": 61.0,
+          "hit_percentage_close_trend": 35.59,
+          "hit_percentage_close_all": 60.04
+        },
+        "Hanging Man": {
+          "occurance_trend": 36,
+          "all_occurance": 114,
+          "hit_percentage_high_trend": 50.0,
+          "hit_percentage_high_all": 51.75,
+          "hit_percentage_low_trend": 50.0,
+          "hit_percentage_low_all": 50.0,
+          "hit_percentage_close_trend": 58.33,
+          "hit_percentage_close_all": 56.14
+        },
+        "Shooting Star": {
+          "occurance_trend": 44,
+          "all_occurance": 133,
+          "hit_percentage_high_trend": 79.55,
+          "hit_percentage_high_all": 72.18,
+          "hit_percentage_low_trend": 77.27,
+          "hit_percentage_low_all": 74.44,
+          "hit_percentage_close_trend": 77.27,
+          "hit_percentage_close_all": 62.41
+        }
+      }
+    },
+    "bullish": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 38,
+          "all_occurance": 93,
+          "hit_percentage_high_trend": 84.21,
+          "hit_percentage_high_all": 73.12,
+          "hit_percentage_low_trend": 76.32,
+          "hit_percentage_low_all": 72.04,
+          "hit_percentage_close_trend": 47.37,
+          "hit_percentage_close_all": 41.94
+        },
+        "I. Hammer": {
+          "occurance_trend": 127,
+          "all_occurance": 243,
+          "hit_percentage_high_trend": 43.31,
+          "hit_percentage_high_all": 44.44,
+          "hit_percentage_low_trend": 44.88,
+          "hit_percentage_low_all": 44.03,
+          "hit_percentage_close_trend": 59.06,
+          "hit_percentage_close_all": 59.67
+        },
+        "Random": {
+          "occurance_trend": 534,
+          "all_occurance": 1182,
+          "hit_percentage_high_trend": 44.94,
+          "hit_percentage_high_all": 49.41,
+          "hit_percentage_low_trend": 52.06,
+          "hit_percentage_low_all": 53.47,
+          "hit_percentage_close_trend": 48.69,
+          "hit_percentage_close_all": 49.92
+        },
+        "Random*": {
+          "occurance_trend": 572,
+          "all_occurance": 1182,
+          "hit_percentage_high_trend": 48.95,
+          "hit_percentage_high_all": 47.38,
+          "hit_percentage_low_trend": 40.56,
+          "hit_percentage_low_all": 41.96,
+          "hit_percentage_close_trend": 43.71,
+          "hit_percentage_close_all": 45.69
+        },
+        "Hanging Man": {
+          "occurance_trend": 77,
+          "all_occurance": 147,
+          "hit_percentage_high_trend": 42.86,
+          "hit_percentage_high_all": 38.78,
+          "hit_percentage_low_trend": 42.86,
+          "hit_percentage_low_all": 33.33,
+          "hit_percentage_close_trend": 62.34,
+          "hit_percentage_close_all": 55.1
+        },
+        "Shooting Star": {
+          "occurance_trend": 53,
+          "all_occurance": 134,
+          "hit_percentage_high_trend": 75.47,
+          "hit_percentage_high_all": 68.66,
+          "hit_percentage_low_trend": 83.02,
+          "hit_percentage_low_all": 76.12,
+          "hit_percentage_close_trend": 49.06,
+          "hit_percentage_close_all": 41.79
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 37,
+          "all_occurance": 93,
+          "hit_percentage_high_trend": 72.97,
+          "hit_percentage_high_all": 68.82,
+          "hit_percentage_low_trend": 70.27,
+          "hit_percentage_low_all": 66.67,
+          "hit_percentage_close_trend": 45.95,
+          "hit_percentage_close_all": 43.01
+        },
+        "I. Hammer": {
+          "occurance_trend": 107,
+          "all_occurance": 243,
+          "hit_percentage_high_trend": 43.93,
+          "hit_percentage_high_all": 49.79,
+          "hit_percentage_low_trend": 49.53,
+          "hit_percentage_low_all": 49.79,
+          "hit_percentage_close_trend": 65.42,
+          "hit_percentage_close_all": 62.96
+        },
+        "Random": {
+          "occurance_trend": 600,
+          "all_occurance": 1182,
+          "hit_percentage_high_trend": 48.33,
+          "hit_percentage_high_all": 50.25,
+          "hit_percentage_low_trend": 52.67,
+          "hit_percentage_low_all": 52.79,
+          "hit_percentage_close_trend": 49.0,
+          "hit_percentage_close_all": 50.76
+        },
+        "Random*": {
+          "occurance_trend": 458,
+          "all_occurance": 1182,
+          "hit_percentage_high_trend": 63.76,
+          "hit_percentage_high_all": 47.38,
+          "hit_percentage_low_trend": 57.21,
+          "hit_percentage_low_all": 44.16,
+          "hit_percentage_close_trend": 62.45,
+          "hit_percentage_close_all": 46.36
+        },
+        "Hanging Man": {
+          "occurance_trend": 73,
+          "all_occurance": 147,
+          "hit_percentage_high_trend": 39.73,
+          "hit_percentage_high_all": 40.82,
+          "hit_percentage_low_trend": 42.47,
+          "hit_percentage_low_all": 38.78,
+          "hit_percentage_close_trend": 52.05,
+          "hit_percentage_close_all": 51.7
+        },
+        "Shooting Star": {
+          "occurance_trend": 59,
+          "all_occurance": 134,
+          "hit_percentage_high_trend": 66.1,
+          "hit_percentage_high_all": 61.19,
+          "hit_percentage_low_trend": 74.58,
+          "hit_percentage_low_all": 67.16,
+          "hit_percentage_close_trend": 47.46,
+          "hit_percentage_close_all": 41.04
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 32,
+          "all_occurance": 93,
+          "hit_percentage_high_trend": 84.38,
+          "hit_percentage_high_all": 62.37,
+          "hit_percentage_low_trend": 81.25,
+          "hit_percentage_low_all": 63.44,
+          "hit_percentage_close_trend": 40.62,
+          "hit_percentage_close_all": 40.86
+        },
+        "I. Hammer": {
+          "occurance_trend": 102,
+          "all_occurance": 243,
+          "hit_percentage_high_trend": 57.84,
+          "hit_percentage_high_all": 55.14,
+          "hit_percentage_low_trend": 60.78,
+          "hit_percentage_low_all": 54.32,
+          "hit_percentage_close_trend": 70.59,
+          "hit_percentage_close_all": 64.61
+        },
+        "Random": {
+          "occurance_trend": 656,
+          "all_occurance": 1182,
+          "hit_percentage_high_trend": 50.3,
+          "hit_percentage_high_all": 51.61,
+          "hit_percentage_low_trend": 53.35,
+          "hit_percentage_low_all": 54.48,
+          "hit_percentage_close_trend": 53.05,
+          "hit_percentage_close_all": 53.98
+        },
+        "Random*": {
+          "occurance_trend": 348,
+          "all_occurance": 1182,
+          "hit_percentage_high_trend": 80.46,
+          "hit_percentage_high_all": 44.33,
+          "hit_percentage_low_trend": 74.71,
+          "hit_percentage_low_all": 40.78,
+          "hit_percentage_close_trend": 75.86,
+          "hit_percentage_close_all": 41.79
+        },
+        "Hanging Man": {
+          "occurance_trend": 75,
+          "all_occurance": 147,
+          "hit_percentage_high_trend": 41.33,
+          "hit_percentage_high_all": 42.86,
+          "hit_percentage_low_trend": 38.67,
+          "hit_percentage_low_all": 36.73,
+          "hit_percentage_close_trend": 52.0,
+          "hit_percentage_close_all": 53.74
+        },
+        "Shooting Star": {
+          "occurance_trend": 69,
+          "all_occurance": 134,
+          "hit_percentage_high_trend": 59.42,
+          "hit_percentage_high_all": 55.22,
+          "hit_percentage_low_trend": 60.87,
+          "hit_percentage_low_all": 61.19,
+          "hit_percentage_close_trend": 44.93,
+          "hit_percentage_close_all": 33.58
+        }
+      }
+    }
+  },
+  "Micro Finance": {
+    "bullish": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 52,
+          "all_occurance": 134,
+          "hit_percentage_high_trend": 75.0,
+          "hit_percentage_high_all": 77.61,
+          "hit_percentage_low_trend": 71.15,
+          "hit_percentage_low_all": 75.37,
+          "hit_percentage_close_trend": 46.15,
+          "hit_percentage_close_all": 49.25
+        },
+        "I. Hammer": {
+          "occurance_trend": 150,
+          "all_occurance": 285,
+          "hit_percentage_high_trend": 44.0,
+          "hit_percentage_high_all": 41.05,
+          "hit_percentage_low_trend": 46.0,
+          "hit_percentage_low_all": 45.26,
+          "hit_percentage_close_trend": 56.0,
+          "hit_percentage_close_all": 51.23
+        },
+        "Random": {
+          "occurance_trend": 866,
+          "all_occurance": 1718,
+          "hit_percentage_high_trend": 48.96,
+          "hit_percentage_high_all": 51.34,
+          "hit_percentage_low_trend": 54.73,
+          "hit_percentage_low_all": 54.48,
+          "hit_percentage_close_trend": 52.66,
+          "hit_percentage_close_all": 52.62
+        },
+        "Random*": {
+          "occurance_trend": 704,
+          "all_occurance": 1718,
+          "hit_percentage_high_trend": 60.23,
+          "hit_percentage_high_all": 46.1,
+          "hit_percentage_low_trend": 52.56,
+          "hit_percentage_low_all": 43.19,
+          "hit_percentage_close_trend": 56.25,
+          "hit_percentage_close_all": 45.29
+        },
+        "Hanging Man": {
+          "occurance_trend": 118,
+          "all_occurance": 238,
+          "hit_percentage_high_trend": 27.97,
+          "hit_percentage_high_all": 34.03,
+          "hit_percentage_low_trend": 24.58,
+          "hit_percentage_low_all": 31.51,
+          "hit_percentage_close_trend": 44.92,
+          "hit_percentage_close_all": 52.1
+        },
+        "Shooting Star": {
+          "occurance_trend": 92,
+          "all_occurance": 198,
+          "hit_percentage_high_trend": 55.43,
+          "hit_percentage_high_all": 60.61,
+          "hit_percentage_low_trend": 69.57,
+          "hit_percentage_low_all": 69.7,
+          "hit_percentage_close_trend": 42.39,
+          "hit_percentage_close_all": 45.45
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 48,
+          "all_occurance": 134,
+          "hit_percentage_high_trend": 72.92,
+          "hit_percentage_high_all": 73.88,
+          "hit_percentage_low_trend": 75.0,
+          "hit_percentage_low_all": 75.37,
+          "hit_percentage_close_trend": 54.17,
+          "hit_percentage_close_all": 57.46
+        },
+        "I. Hammer": {
+          "occurance_trend": 147,
+          "all_occurance": 285,
+          "hit_percentage_high_trend": 47.62,
+          "hit_percentage_high_all": 46.67,
+          "hit_percentage_low_trend": 48.98,
+          "hit_percentage_low_all": 48.77,
+          "hit_percentage_close_trend": 55.78,
+          "hit_percentage_close_all": 56.49
+        },
+        "Random": {
+          "occurance_trend": 894,
+          "all_occurance": 1718,
+          "hit_percentage_high_trend": 51.9,
+          "hit_percentage_high_all": 53.67,
+          "hit_percentage_low_trend": 53.91,
+          "hit_percentage_low_all": 54.71,
+          "hit_percentage_close_trend": 51.68,
+          "hit_percentage_close_all": 53.9
+        },
+        "Random*": {
+          "occurance_trend": 640,
+          "all_occurance": 1718,
+          "hit_percentage_high_trend": 65.94,
+          "hit_percentage_high_all": 44.47,
+          "hit_percentage_low_trend": 63.44,
+          "hit_percentage_low_all": 43.19,
+          "hit_percentage_close_trend": 65.62,
+          "hit_percentage_close_all": 44.12
+        },
+        "Hanging Man": {
+          "occurance_trend": 105,
+          "all_occurance": 238,
+          "hit_percentage_high_trend": 33.33,
+          "hit_percentage_high_all": 33.19,
+          "hit_percentage_low_trend": 35.24,
+          "hit_percentage_low_all": 36.55,
+          "hit_percentage_close_trend": 45.71,
+          "hit_percentage_close_all": 47.48
+        },
+        "Shooting Star": {
+          "occurance_trend": 101,
+          "all_occurance": 198,
+          "hit_percentage_high_trend": 54.46,
+          "hit_percentage_high_all": 55.56,
+          "hit_percentage_low_trend": 53.47,
+          "hit_percentage_low_all": 57.07,
+          "hit_percentage_close_trend": 41.58,
+          "hit_percentage_close_all": 41.92
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 57,
+          "all_occurance": 134,
+          "hit_percentage_high_trend": 71.93,
+          "hit_percentage_high_all": 76.87,
+          "hit_percentage_low_trend": 75.44,
+          "hit_percentage_low_all": 80.6,
+          "hit_percentage_close_trend": 56.14,
+          "hit_percentage_close_all": 58.21
+        },
+        "I. Hammer": {
+          "occurance_trend": 119,
+          "all_occurance": 285,
+          "hit_percentage_high_trend": 59.66,
+          "hit_percentage_high_all": 53.68,
+          "hit_percentage_low_trend": 57.98,
+          "hit_percentage_low_all": 53.68,
+          "hit_percentage_close_trend": 63.03,
+          "hit_percentage_close_all": 58.6
+        },
+        "Random": {
+          "occurance_trend": 884,
+          "all_occurance": 1718,
+          "hit_percentage_high_trend": 53.17,
+          "hit_percentage_high_all": 54.02,
+          "hit_percentage_low_trend": 54.52,
+          "hit_percentage_low_all": 56.23,
+          "hit_percentage_close_trend": 54.52,
+          "hit_percentage_close_all": 54.83
+        },
+        "Random*": {
+          "occurance_trend": 548,
+          "all_occurance": 1718,
+          "hit_percentage_high_trend": 72.63,
+          "hit_percentage_high_all": 43.66,
+          "hit_percentage_low_trend": 70.07,
+          "hit_percentage_low_all": 41.56,
+          "hit_percentage_close_trend": 70.44,
+          "hit_percentage_close_all": 43.07
+        },
+        "Hanging Man": {
+          "occurance_trend": 102,
+          "all_occurance": 238,
+          "hit_percentage_high_trend": 31.37,
+          "hit_percentage_high_all": 30.25,
+          "hit_percentage_low_trend": 35.29,
+          "hit_percentage_low_all": 33.61,
+          "hit_percentage_close_trend": 38.24,
+          "hit_percentage_close_all": 39.92
+        },
+        "Shooting Star": {
+          "occurance_trend": 99,
+          "all_occurance": 198,
+          "hit_percentage_high_trend": 51.52,
+          "hit_percentage_high_all": 50.51,
+          "hit_percentage_low_trend": 43.43,
+          "hit_percentage_low_all": 47.98,
+          "hit_percentage_close_trend": 35.35,
+          "hit_percentage_close_all": 37.37
+        }
+      }
+    },
+    "bearish": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 102,
+          "all_occurance": 181,
+          "hit_percentage_high_trend": 68.63,
+          "hit_percentage_high_all": 68.51,
+          "hit_percentage_low_trend": 61.76,
+          "hit_percentage_low_all": 60.22,
+          "hit_percentage_close_trend": 25.49,
+          "hit_percentage_close_all": 33.15
+        },
+        "I. Hammer": {
+          "occurance_trend": 224,
+          "all_occurance": 334,
+          "hit_percentage_high_trend": 35.27,
+          "hit_percentage_high_all": 38.32,
+          "hit_percentage_low_trend": 33.93,
+          "hit_percentage_low_all": 32.63,
+          "hit_percentage_close_trend": 46.88,
+          "hit_percentage_close_all": 46.11
+        },
+        "Random": {
+          "occurance_trend": 854,
+          "all_occurance": 2070,
+          "hit_percentage_high_trend": 41.69,
+          "hit_percentage_high_all": 43.77,
+          "hit_percentage_low_trend": 42.62,
+          "hit_percentage_low_all": 43.57,
+          "hit_percentage_close_trend": 47.78,
+          "hit_percentage_close_all": 45.22
+        },
+        "Random*": {
+          "occurance_trend": 1090,
+          "all_occurance": 2070,
+          "hit_percentage_high_trend": 45.5,
+          "hit_percentage_high_all": 55.46,
+          "hit_percentage_low_trend": 44.95,
+          "hit_percentage_low_all": 56.23,
+          "hit_percentage_close_trend": 40.0,
+          "hit_percentage_close_all": 53.91
+        },
+        "Hanging Man": {
+          "occurance_trend": 127,
+          "all_occurance": 295,
+          "hit_percentage_high_trend": 46.46,
+          "hit_percentage_high_all": 41.69,
+          "hit_percentage_low_trend": 51.97,
+          "hit_percentage_low_all": 49.49,
+          "hit_percentage_close_trend": 59.84,
+          "hit_percentage_close_all": 60.68
+        },
+        "Shooting Star": {
+          "occurance_trend": 81,
+          "all_occurance": 229,
+          "hit_percentage_high_trend": 76.54,
+          "hit_percentage_high_all": 74.24,
+          "hit_percentage_low_trend": 86.42,
+          "hit_percentage_low_all": 81.66,
+          "hit_percentage_close_trend": 53.09,
+          "hit_percentage_close_all": 50.66
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 104,
+          "all_occurance": 181,
+          "hit_percentage_high_trend": 57.69,
+          "hit_percentage_high_all": 57.46,
+          "hit_percentage_low_trend": 54.81,
+          "hit_percentage_low_all": 51.93,
+          "hit_percentage_close_trend": 33.65,
+          "hit_percentage_close_all": 35.91
+        },
+        "I. Hammer": {
+          "occurance_trend": 213,
+          "all_occurance": 334,
+          "hit_percentage_high_trend": 42.25,
+          "hit_percentage_high_all": 39.22,
+          "hit_percentage_low_trend": 36.62,
+          "hit_percentage_low_all": 34.73,
+          "hit_percentage_close_trend": 48.83,
+          "hit_percentage_close_all": 45.51
+        },
+        "Random": {
+          "occurance_trend": 786,
+          "all_occurance": 2070,
+          "hit_percentage_high_trend": 41.98,
+          "hit_percentage_high_all": 41.93,
+          "hit_percentage_low_trend": 42.75,
+          "hit_percentage_low_all": 42.71,
+          "hit_percentage_close_trend": 42.49,
+          "hit_percentage_close_all": 44.06
+        },
+        "Random*": {
+          "occurance_trend": 1094,
+          "all_occurance": 2070,
+          "hit_percentage_high_trend": 41.5,
+          "hit_percentage_high_all": 57.97,
+          "hit_percentage_low_trend": 40.95,
+          "hit_percentage_low_all": 57.2,
+          "hit_percentage_close_trend": 41.32,
+          "hit_percentage_close_all": 55.85
+        },
+        "Hanging Man": {
+          "occurance_trend": 91,
+          "all_occurance": 295,
+          "hit_percentage_high_trend": 57.14,
+          "hit_percentage_high_all": 49.83,
+          "hit_percentage_low_trend": 54.95,
+          "hit_percentage_low_all": 53.56,
+          "hit_percentage_close_trend": 68.13,
+          "hit_percentage_close_all": 62.03
+        },
+        "Shooting Star": {
+          "occurance_trend": 81,
+          "all_occurance": 229,
+          "hit_percentage_high_trend": 70.37,
+          "hit_percentage_high_all": 69.87,
+          "hit_percentage_low_trend": 71.6,
+          "hit_percentage_low_all": 74.67,
+          "hit_percentage_close_trend": 49.38,
+          "hit_percentage_close_all": 54.15
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 118,
+          "all_occurance": 181,
+          "hit_percentage_high_trend": 44.92,
+          "hit_percentage_high_all": 46.96,
+          "hit_percentage_low_trend": 43.22,
+          "hit_percentage_low_all": 46.96,
+          "hit_percentage_close_trend": 36.44,
+          "hit_percentage_close_all": 37.57
+        },
+        "I. Hammer": {
+          "occurance_trend": 193,
+          "all_occurance": 334,
+          "hit_percentage_high_trend": 37.31,
+          "hit_percentage_high_all": 38.92,
+          "hit_percentage_low_trend": 35.75,
+          "hit_percentage_low_all": 35.63,
+          "hit_percentage_close_trend": 43.52,
+          "hit_percentage_close_all": 44.91
+        },
+        "Random": {
+          "occurance_trend": 644,
+          "all_occurance": 2070,
+          "hit_percentage_high_trend": 42.24,
+          "hit_percentage_high_all": 38.74,
+          "hit_percentage_low_trend": 46.89,
+          "hit_percentage_low_all": 39.42,
+          "hit_percentage_close_trend": 48.14,
+          "hit_percentage_close_all": 41.93
+        },
+        "Random*": {
+          "occurance_trend": 1194,
+          "all_occurance": 2070,
+          "hit_percentage_high_trend": 31.16,
+          "hit_percentage_high_all": 61.26,
+          "hit_percentage_low_trend": 28.64,
+          "hit_percentage_low_all": 60.58,
+          "hit_percentage_close_trend": 27.97,
+          "hit_percentage_close_all": 58.07
+        },
+        "Hanging Man": {
+          "occurance_trend": 70,
+          "all_occurance": 295,
+          "hit_percentage_high_trend": 48.57,
+          "hit_percentage_high_all": 54.58,
+          "hit_percentage_low_trend": 51.43,
+          "hit_percentage_low_all": 59.32,
+          "hit_percentage_close_trend": 54.29,
+          "hit_percentage_close_all": 63.39
+        },
+        "Shooting Star": {
+          "occurance_trend": 86,
+          "all_occurance": 229,
+          "hit_percentage_high_trend": 69.77,
+          "hit_percentage_high_all": 66.81,
+          "hit_percentage_low_trend": 69.77,
+          "hit_percentage_low_all": 69.87,
+          "hit_percentage_close_trend": 56.98,
+          "hit_percentage_close_all": 56.33
+        }
+      }
+    }
+  },
+  "Expensive Stocks": {
+    "bullish": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 42,
+          "all_occurance": 88,
+          "hit_percentage_high_trend": 71.43,
+          "hit_percentage_high_all": 71.59,
+          "hit_percentage_low_trend": 66.67,
+          "hit_percentage_low_all": 69.32,
+          "hit_percentage_close_trend": 50.0,
+          "hit_percentage_close_all": 45.45
+        },
+        "I. Hammer": {
+          "occurance_trend": 134,
+          "all_occurance": 235,
+          "hit_percentage_high_trend": 34.33,
+          "hit_percentage_high_all": 40.0,
+          "hit_percentage_low_trend": 39.55,
+          "hit_percentage_low_all": 40.43,
+          "hit_percentage_close_trend": 46.27,
+          "hit_percentage_close_all": 50.64
+        },
+        "Random": {
+          "occurance_trend": 598,
+          "all_occurance": 1290,
+          "hit_percentage_high_trend": 43.48,
+          "hit_percentage_high_all": 44.5,
+          "hit_percentage_low_trend": 45.15,
+          "hit_percentage_low_all": 44.19,
+          "hit_percentage_close_trend": 44.15,
+          "hit_percentage_close_all": 44.96
+        },
+        "Random*": {
+          "occurance_trend": 584,
+          "all_occurance": 1290,
+          "hit_percentage_high_trend": 57.19,
+          "hit_percentage_high_all": 54.73,
+          "hit_percentage_low_trend": 54.79,
+          "hit_percentage_low_all": 54.11,
+          "hit_percentage_close_trend": 55.82,
+          "hit_percentage_close_all": 53.64
+        },
+        "Hanging Man": {
+          "occurance_trend": 82,
+          "all_occurance": 178,
+          "hit_percentage_high_trend": 43.9,
+          "hit_percentage_high_all": 37.08,
+          "hit_percentage_low_trend": 39.02,
+          "hit_percentage_low_all": 39.89,
+          "hit_percentage_close_trend": 60.98,
+          "hit_percentage_close_all": 60.11
+        },
+        "Shooting Star": {
+          "occurance_trend": 71,
+          "all_occurance": 159,
+          "hit_percentage_high_trend": 69.01,
+          "hit_percentage_high_all": 62.26,
+          "hit_percentage_low_trend": 70.42,
+          "hit_percentage_low_all": 69.18,
+          "hit_percentage_close_trend": 49.3,
+          "hit_percentage_close_all": 45.91
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 27,
+          "all_occurance": 88,
+          "hit_percentage_high_trend": 74.07,
+          "hit_percentage_high_all": 68.18,
+          "hit_percentage_low_trend": 74.07,
+          "hit_percentage_low_all": 68.18,
+          "hit_percentage_close_trend": 59.26,
+          "hit_percentage_close_all": 47.73
+        },
+        "I. Hammer": {
+          "occurance_trend": 107,
+          "all_occurance": 235,
+          "hit_percentage_high_trend": 38.32,
+          "hit_percentage_high_all": 43.83,
+          "hit_percentage_low_trend": 44.86,
+          "hit_percentage_low_all": 44.26,
+          "hit_percentage_close_trend": 51.4,
+          "hit_percentage_close_all": 53.62
+        },
+        "Random": {
+          "occurance_trend": 566,
+          "all_occurance": 1290,
+          "hit_percentage_high_trend": 45.23,
+          "hit_percentage_high_all": 46.67,
+          "hit_percentage_low_trend": 45.94,
+          "hit_percentage_low_all": 45.27,
+          "hit_percentage_close_trend": 45.94,
+          "hit_percentage_close_all": 49.3
+        },
+        "Random*": {
+          "occurance_trend": 512,
+          "all_occurance": 1290,
+          "hit_percentage_high_trend": 59.77,
+          "hit_percentage_high_all": 52.25,
+          "hit_percentage_low_trend": 59.77,
+          "hit_percentage_low_all": 53.95,
+          "hit_percentage_close_trend": 59.38,
+          "hit_percentage_close_all": 49.61
+        },
+        "Hanging Man": {
+          "occurance_trend": 76,
+          "all_occurance": 178,
+          "hit_percentage_high_trend": 43.42,
+          "hit_percentage_high_all": 40.45,
+          "hit_percentage_low_trend": 47.37,
+          "hit_percentage_low_all": 42.7,
+          "hit_percentage_close_trend": 56.58,
+          "hit_percentage_close_all": 57.87
+        },
+        "Shooting Star": {
+          "occurance_trend": 51,
+          "all_occurance": 159,
+          "hit_percentage_high_trend": 68.63,
+          "hit_percentage_high_all": 60.38,
+          "hit_percentage_low_trend": 62.75,
+          "hit_percentage_low_all": 62.89,
+          "hit_percentage_close_trend": 50.98,
+          "hit_percentage_close_all": 44.65
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 22,
+          "all_occurance": 88,
+          "hit_percentage_high_trend": 81.82,
+          "hit_percentage_high_all": 67.05,
+          "hit_percentage_low_trend": 81.82,
+          "hit_percentage_low_all": 65.91,
+          "hit_percentage_close_trend": 63.64,
+          "hit_percentage_close_all": 51.14
+        },
+        "I. Hammer": {
+          "occurance_trend": 82,
+          "all_occurance": 235,
+          "hit_percentage_high_trend": 48.78,
+          "hit_percentage_high_all": 48.51,
+          "hit_percentage_low_trend": 47.56,
+          "hit_percentage_low_all": 46.81,
+          "hit_percentage_close_trend": 57.32,
+          "hit_percentage_close_all": 54.04
+        },
+        "Random": {
+          "occurance_trend": 628,
+          "all_occurance": 1290,
+          "hit_percentage_high_trend": 46.82,
+          "hit_percentage_high_all": 50.23,
+          "hit_percentage_low_trend": 48.09,
+          "hit_percentage_low_all": 52.09,
+          "hit_percentage_close_trend": 49.36,
+          "hit_percentage_close_all": 52.71
+        },
+        "Random*": {
+          "occurance_trend": 430,
+          "all_occurance": 1290,
+          "hit_percentage_high_trend": 73.49,
+          "hit_percentage_high_all": 48.37,
+          "hit_percentage_low_trend": 71.16,
+          "hit_percentage_low_all": 46.05,
+          "hit_percentage_close_trend": 69.77,
+          "hit_percentage_close_all": 45.89
+        },
+        "Hanging Man": {
+          "occurance_trend": 77,
+          "all_occurance": 178,
+          "hit_percentage_high_trend": 37.66,
+          "hit_percentage_high_all": 41.01,
+          "hit_percentage_low_trend": 35.06,
+          "hit_percentage_low_all": 38.76,
+          "hit_percentage_close_trend": 46.75,
+          "hit_percentage_close_all": 52.81
+        },
+        "Shooting Star": {
+          "occurance_trend": 70,
+          "all_occurance": 159,
+          "hit_percentage_high_trend": 52.86,
+          "hit_percentage_high_all": 55.97,
+          "hit_percentage_low_trend": 60.0,
+          "hit_percentage_low_all": 60.38,
+          "hit_percentage_close_trend": 42.86,
+          "hit_percentage_close_all": 42.77
+        }
+      }
+    },
+    "bearish": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 53,
+          "all_occurance": 98,
+          "hit_percentage_high_trend": 77.36,
+          "hit_percentage_high_all": 75.51,
+          "hit_percentage_low_trend": 81.13,
+          "hit_percentage_low_all": 77.55,
+          "hit_percentage_close_trend": 50.94,
+          "hit_percentage_close_all": 41.84
+        },
+        "I. Hammer": {
+          "occurance_trend": 117,
+          "all_occurance": 209,
+          "hit_percentage_high_trend": 35.04,
+          "hit_percentage_high_all": 36.84,
+          "hit_percentage_low_trend": 31.62,
+          "hit_percentage_low_all": 35.41,
+          "hit_percentage_close_trend": 39.32,
+          "hit_percentage_close_all": 44.5
+        },
+        "Random": {
+          "occurance_trend": 510,
+          "all_occurance": 1304,
+          "hit_percentage_high_trend": 47.45,
+          "hit_percentage_high_all": 46.32,
+          "hit_percentage_low_trend": 48.63,
+          "hit_percentage_low_all": 47.85,
+          "hit_percentage_close_trend": 47.84,
+          "hit_percentage_close_all": 47.39
+        },
+        "Random*": {
+          "occurance_trend": 708,
+          "all_occurance": 1304,
+          "hit_percentage_high_trend": 37.57,
+          "hit_percentage_high_all": 52.91,
+          "hit_percentage_low_trend": 36.72,
+          "hit_percentage_low_all": 51.38,
+          "hit_percentage_close_trend": 36.72,
+          "hit_percentage_close_all": 51.53
+        },
+        "Hanging Man": {
+          "occurance_trend": 62,
+          "all_occurance": 166,
+          "hit_percentage_high_trend": 27.42,
+          "hit_percentage_high_all": 37.35,
+          "hit_percentage_low_trend": 37.1,
+          "hit_percentage_low_all": 37.95,
+          "hit_percentage_close_trend": 58.06,
+          "hit_percentage_close_all": 60.84
+        },
+        "Shooting Star": {
+          "occurance_trend": 60,
+          "all_occurance": 164,
+          "hit_percentage_high_trend": 78.33,
+          "hit_percentage_high_all": 68.9,
+          "hit_percentage_low_trend": 80.0,
+          "hit_percentage_low_all": 73.17,
+          "hit_percentage_close_trend": 55.0,
+          "hit_percentage_close_all": 48.17
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 53,
+          "all_occurance": 98,
+          "hit_percentage_high_trend": 67.92,
+          "hit_percentage_high_all": 66.33,
+          "hit_percentage_low_trend": 56.6,
+          "hit_percentage_low_all": 61.22,
+          "hit_percentage_close_trend": 28.3,
+          "hit_percentage_close_all": 36.73
+        },
+        "I. Hammer": {
+          "occurance_trend": 108,
+          "all_occurance": 209,
+          "hit_percentage_high_trend": 26.85,
+          "hit_percentage_high_all": 34.93,
+          "hit_percentage_low_trend": 21.3,
+          "hit_percentage_low_all": 31.1,
+          "hit_percentage_close_trend": 36.11,
+          "hit_percentage_close_all": 43.06
+        },
+        "Random": {
+          "occurance_trend": 472,
+          "all_occurance": 1304,
+          "hit_percentage_high_trend": 48.73,
+          "hit_percentage_high_all": 46.17,
+          "hit_percentage_low_trend": 50.85,
+          "hit_percentage_low_all": 46.63,
+          "hit_percentage_close_trend": 46.19,
+          "hit_percentage_close_all": 46.78
+        },
+        "Random*": {
+          "occurance_trend": 692,
+          "all_occurance": 1304,
+          "hit_percentage_high_trend": 34.97,
+          "hit_percentage_high_all": 53.83,
+          "hit_percentage_low_trend": 33.53,
+          "hit_percentage_low_all": 52.91,
+          "hit_percentage_close_trend": 36.71,
+          "hit_percentage_close_all": 53.22
+        },
+        "Hanging Man": {
+          "occurance_trend": 58,
+          "all_occurance": 166,
+          "hit_percentage_high_trend": 43.1,
+          "hit_percentage_high_all": 42.77,
+          "hit_percentage_low_trend": 48.28,
+          "hit_percentage_low_all": 45.18,
+          "hit_percentage_close_trend": 60.34,
+          "hit_percentage_close_all": 57.83
+        },
+        "Shooting Star": {
+          "occurance_trend": 52,
+          "all_occurance": 164,
+          "hit_percentage_high_trend": 71.15,
+          "hit_percentage_high_all": 67.07,
+          "hit_percentage_low_trend": 71.15,
+          "hit_percentage_low_all": 67.68,
+          "hit_percentage_close_trend": 53.85,
+          "hit_percentage_close_all": 50.61
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 54,
+          "all_occurance": 98,
+          "hit_percentage_high_trend": 55.56,
+          "hit_percentage_high_all": 58.16,
+          "hit_percentage_low_trend": 53.7,
+          "hit_percentage_low_all": 57.14,
+          "hit_percentage_close_trend": 29.63,
+          "hit_percentage_close_all": 36.73
+        },
+        "I. Hammer": {
+          "occurance_trend": 111,
+          "all_occurance": 209,
+          "hit_percentage_high_trend": 27.03,
+          "hit_percentage_high_all": 32.06,
+          "hit_percentage_low_trend": 27.93,
+          "hit_percentage_low_all": 32.54,
+          "hit_percentage_close_trend": 33.33,
+          "hit_percentage_close_all": 37.8
+        },
+        "Random": {
+          "occurance_trend": 434,
+          "all_occurance": 1304,
+          "hit_percentage_high_trend": 44.7,
+          "hit_percentage_high_all": 45.4,
+          "hit_percentage_low_trend": 51.61,
+          "hit_percentage_low_all": 48.16,
+          "hit_percentage_close_trend": 47.0,
+          "hit_percentage_close_all": 46.01
+        },
+        "Random*": {
+          "occurance_trend": 674,
+          "all_occurance": 1304,
+          "hit_percentage_high_trend": 35.61,
+          "hit_percentage_high_all": 54.45,
+          "hit_percentage_low_trend": 31.16,
+          "hit_percentage_low_all": 51.84,
+          "hit_percentage_close_trend": 34.12,
+          "hit_percentage_close_all": 53.99
+        },
+        "Hanging Man": {
+          "occurance_trend": 51,
+          "all_occurance": 166,
+          "hit_percentage_high_trend": 39.22,
+          "hit_percentage_high_all": 46.99,
+          "hit_percentage_low_trend": 33.33,
+          "hit_percentage_low_all": 48.19,
+          "hit_percentage_close_trend": 50.98,
+          "hit_percentage_close_all": 61.45
+        },
+        "Shooting Star": {
+          "occurance_trend": 59,
+          "all_occurance": 164,
+          "hit_percentage_high_trend": 72.88,
+          "hit_percentage_high_all": 67.68,
+          "hit_percentage_low_trend": 67.8,
+          "hit_percentage_low_all": 67.07,
+          "hit_percentage_close_trend": 61.02,
+          "hit_percentage_close_all": 54.27
+        }
+      }
+    }
+  },
+  "Low Floating Stocks": {
+    "bullish": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 38,
+          "all_occurance": 86,
+          "hit_percentage_high_trend": 78.95,
+          "hit_percentage_high_all": 70.93,
+          "hit_percentage_low_trend": 76.32,
+          "hit_percentage_low_all": 72.09,
+          "hit_percentage_close_trend": 42.11,
+          "hit_percentage_close_all": 40.7
+        },
+        "I. Hammer": {
+          "occurance_trend": 73,
+          "all_occurance": 149,
+          "hit_percentage_high_trend": 49.32,
+          "hit_percentage_high_all": 42.95,
+          "hit_percentage_low_trend": 36.99,
+          "hit_percentage_low_all": 35.57,
+          "hit_percentage_close_trend": 63.01,
+          "hit_percentage_close_all": 56.38
+        },
+        "Random": {
+          "occurance_trend": 494,
+          "all_occurance": 942,
+          "hit_percentage_high_trend": 48.18,
+          "hit_percentage_high_all": 51.17,
+          "hit_percentage_low_trend": 52.23,
+          "hit_percentage_low_all": 51.8,
+          "hit_percentage_close_trend": 46.96,
+          "hit_percentage_close_all": 50.32
+        },
+        "Random*": {
+          "occurance_trend": 402,
+          "all_occurance": 942,
+          "hit_percentage_high_trend": 62.19,
+          "hit_percentage_high_all": 46.92,
+          "hit_percentage_low_trend": 57.71,
+          "hit_percentage_low_all": 46.92,
+          "hit_percentage_close_trend": 64.18,
+          "hit_percentage_close_all": 48.83
+        },
+        "Hanging Man": {
+          "occurance_trend": 58,
+          "all_occurance": 113,
+          "hit_percentage_high_trend": 37.93,
+          "hit_percentage_high_all": 30.09,
+          "hit_percentage_low_trend": 37.93,
+          "hit_percentage_low_all": 32.74,
+          "hit_percentage_close_trend": 58.62,
+          "hit_percentage_close_all": 46.02
+        },
+        "Shooting Star": {
+          "occurance_trend": 39,
+          "all_occurance": 76,
+          "hit_percentage_high_trend": 74.36,
+          "hit_percentage_high_all": 60.53,
+          "hit_percentage_low_trend": 84.62,
+          "hit_percentage_low_all": 68.42,
+          "hit_percentage_close_trend": 46.15,
+          "hit_percentage_close_all": 39.47
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 29,
+          "all_occurance": 86,
+          "hit_percentage_high_trend": 72.41,
+          "hit_percentage_high_all": 68.6,
+          "hit_percentage_low_trend": 72.41,
+          "hit_percentage_low_all": 68.6,
+          "hit_percentage_close_trend": 31.03,
+          "hit_percentage_close_all": 39.53
+        },
+        "I. Hammer": {
+          "occurance_trend": 59,
+          "all_occurance": 149,
+          "hit_percentage_high_trend": 47.46,
+          "hit_percentage_high_all": 44.97,
+          "hit_percentage_low_trend": 54.24,
+          "hit_percentage_low_all": 44.97,
+          "hit_percentage_close_trend": 66.1,
+          "hit_percentage_close_all": 59.06
+        },
+        "Random": {
+          "occurance_trend": 490,
+          "all_occurance": 942,
+          "hit_percentage_high_trend": 55.92,
+          "hit_percentage_high_all": 54.99,
+          "hit_percentage_low_trend": 50.61,
+          "hit_percentage_low_all": 51.38,
+          "hit_percentage_close_trend": 55.51,
+          "hit_percentage_close_all": 53.72
+        },
+        "Random*": {
+          "occurance_trend": 360,
+          "all_occurance": 942,
+          "hit_percentage_high_trend": 59.44,
+          "hit_percentage_high_all": 42.89,
+          "hit_percentage_low_trend": 65.56,
+          "hit_percentage_low_all": 45.86,
+          "hit_percentage_close_trend": 60.0,
+          "hit_percentage_close_all": 44.16
+        },
+        "Hanging Man": {
+          "occurance_trend": 65,
+          "all_occurance": 113,
+          "hit_percentage_high_trend": 30.77,
+          "hit_percentage_high_all": 27.43,
+          "hit_percentage_low_trend": 32.31,
+          "hit_percentage_low_all": 32.74,
+          "hit_percentage_close_trend": 46.15,
+          "hit_percentage_close_all": 45.13
+        },
+        "Shooting Star": {
+          "occurance_trend": 30,
+          "all_occurance": 76,
+          "hit_percentage_high_trend": 60.0,
+          "hit_percentage_high_all": 52.63,
+          "hit_percentage_low_trend": 66.67,
+          "hit_percentage_low_all": 65.79,
+          "hit_percentage_close_trend": 33.33,
+          "hit_percentage_close_all": 31.58
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 29,
+          "all_occurance": 86,
+          "hit_percentage_high_trend": 65.52,
+          "hit_percentage_high_all": 68.6,
+          "hit_percentage_low_trend": 68.97,
+          "hit_percentage_low_all": 66.28,
+          "hit_percentage_close_trend": 34.48,
+          "hit_percentage_close_all": 47.67
+        },
+        "I. Hammer": {
+          "occurance_trend": 55,
+          "all_occurance": 149,
+          "hit_percentage_high_trend": 52.73,
+          "hit_percentage_high_all": 53.69,
+          "hit_percentage_low_trend": 50.91,
+          "hit_percentage_low_all": 51.01,
+          "hit_percentage_close_trend": 58.18,
+          "hit_percentage_close_all": 63.09
+        },
+        "Random": {
+          "occurance_trend": 518,
+          "all_occurance": 942,
+          "hit_percentage_high_trend": 52.51,
+          "hit_percentage_high_all": 53.72,
+          "hit_percentage_low_trend": 55.6,
+          "hit_percentage_low_all": 56.48,
+          "hit_percentage_close_trend": 52.51,
+          "hit_percentage_close_all": 54.78
+        },
+        "Random*": {
+          "occurance_trend": 300,
+          "all_occurance": 942,
+          "hit_percentage_high_trend": 79.33,
+          "hit_percentage_high_all": 43.1,
+          "hit_percentage_low_trend": 74.0,
+          "hit_percentage_low_all": 40.34,
+          "hit_percentage_close_trend": 79.33,
+          "hit_percentage_close_all": 42.04
+        },
+        "Hanging Man": {
+          "occurance_trend": 70,
+          "all_occurance": 113,
+          "hit_percentage_high_trend": 32.86,
+          "hit_percentage_high_all": 29.2,
+          "hit_percentage_low_trend": 27.14,
+          "hit_percentage_low_all": 28.32,
+          "hit_percentage_close_trend": 44.29,
+          "hit_percentage_close_all": 39.82
+        },
+        "Shooting Star": {
+          "occurance_trend": 32,
+          "all_occurance": 76,
+          "hit_percentage_high_trend": 46.88,
+          "hit_percentage_high_all": 46.05,
+          "hit_percentage_low_trend": 43.75,
+          "hit_percentage_low_all": 47.37,
+          "hit_percentage_close_trend": 21.88,
+          "hit_percentage_close_all": 23.68
+        }
+      }
+    },
+    "bearish": {
+      "2": {
+        "Hammer": {
+          "occurance_trend": 62,
+          "all_occurance": 110,
+          "hit_percentage_high_trend": 61.29,
+          "hit_percentage_high_all": 56.36,
+          "hit_percentage_low_trend": 69.35,
+          "hit_percentage_low_all": 64.55,
+          "hit_percentage_close_trend": 41.94,
+          "hit_percentage_close_all": 40.0
+        },
+        "I. Hammer": {
+          "occurance_trend": 88,
+          "all_occurance": 147,
+          "hit_percentage_high_trend": 38.64,
+          "hit_percentage_high_all": 38.78,
+          "hit_percentage_low_trend": 32.95,
+          "hit_percentage_low_all": 32.65,
+          "hit_percentage_close_trend": 52.27,
+          "hit_percentage_close_all": 52.38
+        },
+        "Random": {
+          "occurance_trend": 414,
+          "all_occurance": 972,
+          "hit_percentage_high_trend": 41.06,
+          "hit_percentage_high_all": 40.53,
+          "hit_percentage_low_trend": 39.61,
+          "hit_percentage_low_all": 38.89,
+          "hit_percentage_close_trend": 42.03,
+          "hit_percentage_close_all": 40.53
+        },
+        "Random*": {
+          "occurance_trend": 510,
+          "all_occurance": 972,
+          "hit_percentage_high_trend": 47.45,
+          "hit_percentage_high_all": 58.64,
+          "hit_percentage_low_trend": 48.63,
+          "hit_percentage_low_all": 59.88,
+          "hit_percentage_close_trend": 44.71,
+          "hit_percentage_close_all": 57.41
+        },
+        "Hanging Man": {
+          "occurance_trend": 73,
+          "all_occurance": 179,
+          "hit_percentage_high_trend": 52.05,
+          "hit_percentage_high_all": 48.04,
+          "hit_percentage_low_trend": 42.47,
+          "hit_percentage_low_all": 43.58,
+          "hit_percentage_close_trend": 61.64,
+          "hit_percentage_close_all": 59.22
+        },
+        "Shooting Star": {
+          "occurance_trend": 30,
+          "all_occurance": 97,
+          "hit_percentage_high_trend": 70.0,
+          "hit_percentage_high_all": 74.23,
+          "hit_percentage_low_trend": 80.0,
+          "hit_percentage_low_all": 83.51,
+          "hit_percentage_close_trend": 46.67,
+          "hit_percentage_close_all": 49.48
+        }
+      },
+      "4": {
+        "Hammer": {
+          "occurance_trend": 65,
+          "all_occurance": 110,
+          "hit_percentage_high_trend": 63.08,
+          "hit_percentage_high_all": 57.27,
+          "hit_percentage_low_trend": 67.69,
+          "hit_percentage_low_all": 61.82,
+          "hit_percentage_close_trend": 47.69,
+          "hit_percentage_close_all": 41.82
+        },
+        "I. Hammer": {
+          "occurance_trend": 91,
+          "all_occurance": 147,
+          "hit_percentage_high_trend": 43.96,
+          "hit_percentage_high_all": 43.54,
+          "hit_percentage_low_trend": 37.36,
+          "hit_percentage_low_all": 34.69,
+          "hit_percentage_close_trend": 51.65,
+          "hit_percentage_close_all": 51.02
+        },
+        "Random": {
+          "occurance_trend": 346,
+          "all_occurance": 972,
+          "hit_percentage_high_trend": 32.95,
+          "hit_percentage_high_all": 37.86,
+          "hit_percentage_low_trend": 40.46,
+          "hit_percentage_low_all": 39.3,
+          "hit_percentage_close_trend": 40.46,
+          "hit_percentage_close_all": 38.68
+        },
+        "Random*": {
+          "occurance_trend": 534,
+          "all_occurance": 972,
+          "hit_percentage_high_trend": 43.45,
+          "hit_percentage_high_all": 62.14,
+          "hit_percentage_low_trend": 38.58,
+          "hit_percentage_low_all": 60.7,
+          "hit_percentage_close_trend": 38.58,
+          "hit_percentage_close_all": 61.32
+        },
+        "Hanging Man": {
+          "occurance_trend": 65,
+          "all_occurance": 179,
+          "hit_percentage_high_trend": 50.77,
+          "hit_percentage_high_all": 51.4,
+          "hit_percentage_low_trend": 49.23,
+          "hit_percentage_low_all": 50.84,
+          "hit_percentage_close_trend": 61.54,
+          "hit_percentage_close_all": 64.8
+        },
+        "Shooting Star": {
+          "occurance_trend": 29,
+          "all_occurance": 97,
+          "hit_percentage_high_trend": 65.52,
+          "hit_percentage_high_all": 67.01,
+          "hit_percentage_low_trend": 75.86,
+          "hit_percentage_low_all": 76.29,
+          "hit_percentage_close_trend": 55.17,
+          "hit_percentage_close_all": 52.58
+        }
+      },
+      "8": {
+        "Hammer": {
+          "occurance_trend": 68,
+          "all_occurance": 110,
+          "hit_percentage_high_trend": 52.94,
+          "hit_percentage_high_all": 52.73,
+          "hit_percentage_low_trend": 55.88,
+          "hit_percentage_low_all": 57.27,
+          "hit_percentage_close_trend": 35.29,
+          "hit_percentage_close_all": 39.09
+        },
+        "I. Hammer": {
+          "occurance_trend": 93,
+          "all_occurance": 147,
+          "hit_percentage_high_trend": 46.24,
+          "hit_percentage_high_all": 40.82,
+          "hit_percentage_low_trend": 39.78,
+          "hit_percentage_low_all": 35.37,
+          "hit_percentage_close_trend": 50.54,
+          "hit_percentage_close_all": 45.58
+        },
+        "Random": {
+          "occurance_trend": 288,
+          "all_occurance": 972,
+          "hit_percentage_high_trend": 43.06,
+          "hit_percentage_high_all": 38.68,
+          "hit_percentage_low_trend": 45.14,
+          "hit_percentage_low_all": 37.24,
+          "hit_percentage_close_trend": 45.83,
+          "hit_percentage_close_all": 39.3
+        },
+        "Random*": {
+          "occurance_trend": 560,
+          "all_occurance": 972,
+          "hit_percentage_high_trend": 29.29,
+          "hit_percentage_high_all": 61.32,
+          "hit_percentage_low_trend": 28.21,
+          "hit_percentage_low_all": 62.76,
+          "hit_percentage_close_trend": 27.86,
+          "hit_percentage_close_all": 60.7
+        },
+        "Hanging Man": {
+          "occurance_trend": 50,
+          "all_occurance": 179,
+          "hit_percentage_high_trend": 46.0,
+          "hit_percentage_high_all": 54.19,
+          "hit_percentage_low_trend": 46.0,
+          "hit_percentage_low_all": 60.34,
+          "hit_percentage_close_trend": 54.0,
+          "hit_percentage_close_all": 65.36
+        },
+        "Shooting Star": {
+          "occurance_trend": 34,
+          "all_occurance": 97,
+          "hit_percentage_high_trend": 73.53,
+          "hit_percentage_high_all": 71.13,
+          "hit_percentage_low_trend": 70.59,
+          "hit_percentage_low_all": 75.26,
+          "hit_percentage_close_trend": 58.82,
+          "hit_percentage_close_all": 60.82
+        }
+      }
+    }
+  }
+}
