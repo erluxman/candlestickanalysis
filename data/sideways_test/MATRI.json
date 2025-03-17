@@ -1,0 +1,1312 @@
+[
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-03-16",
+        "Open": "1273.1",
+        "High": "1322",
+        "Low": "1247",
+        "Close": "1288",
+        "Percent Change": "-0.85 %",
+        "Volume": "1,402.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-03-12",
+        "Open": "1308",
+        "High": "1333",
+        "Low": "1257",
+        "Close": "1299",
+        "Percent Change": "0.78 %",
+        "Volume": "1,513.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-03-11",
+        "Open": "1270.1",
+        "High": "1294",
+        "Low": "1244.7",
+        "Close": "1289",
+        "Percent Change": "-0.54 %",
+        "Volume": "1,621.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-03-10",
+        "Open": "1293.6",
+        "High": "1320",
+        "Low": "1276.7",
+        "Close": "1296",
+        "Percent Change": "-1.81 %",
+        "Volume": "1,815.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-03-09",
+        "Open": "1328.9",
+        "High": "1329",
+        "Low": "1290",
+        "Close": "1319.9",
+        "Percent Change": "-0.01 %",
+        "Volume": "3,729.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-03-06",
+        "Open": "1325",
+        "High": "1326",
+        "Low": "1300.1",
+        "Close": "1320",
+        "Percent Change": "-0.45 %",
+        "Volume": "2,138.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-03-05",
+        "Open": "1324",
+        "High": "1410",
+        "Low": "1300",
+        "Close": "1326",
+        "Percent Change": "0.68 %",
+        "Volume": "4,306.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-03-04",
+        "Open": "1340",
+        "High": "1340",
+        "Low": "1309",
+        "Close": "1317",
+        "Percent Change": "-1.72 %",
+        "Volume": "4,020.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-03-03",
+        "Open": "1333",
+        "High": "1362",
+        "Low": "1333",
+        "Close": "1340",
+        "Percent Change": "-1.40 %",
+        "Volume": "2,918.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-03-02",
+        "Open": "1350",
+        "High": "1365",
+        "Low": "1330",
+        "Close": "1359",
+        "Percent Change": "0.67 %",
+        "Volume": "3,656.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-27",
+        "Open": "1374",
+        "High": "1374",
+        "Low": "1333",
+        "Close": "1350",
+        "Percent Change": "0.15 %",
+        "Volume": "1,688.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-25",
+        "Open": "1332",
+        "High": "1352",
+        "Low": "1325",
+        "Close": "1348",
+        "Percent Change": "-0.15 %",
+        "Volume": "3,750.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-24",
+        "Open": "1360",
+        "High": "1370.1",
+        "Low": "1327.1",
+        "Close": "1350",
+        "Percent Change": "0.01 %",
+        "Volume": "2,342.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-23",
+        "Open": "1340.2",
+        "High": "1371.9",
+        "Low": "1333",
+        "Close": "1349.9",
+        "Percent Change": "-0.91 %",
+        "Volume": "4,725.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-20",
+        "Open": "1360",
+        "High": "1410",
+        "Low": "1350",
+        "Close": "1362.3",
+        "Percent Change": "-0.35 %",
+        "Volume": "3,320.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-18",
+        "Open": "1407",
+        "High": "1407",
+        "Low": "1367.1",
+        "Close": "1367.1",
+        "Percent Change": "-1.40 %",
+        "Volume": "6,368.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-17",
+        "Open": "1430",
+        "High": "1430",
+        "Low": "1365",
+        "Close": "1386.5",
+        "Percent Change": "-1.60 %",
+        "Volume": "14,259.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-16",
+        "Open": "1436.1",
+        "High": "1464.8",
+        "Low": "1370",
+        "Close": "1409",
+        "Percent Change": "0.07 %",
+        "Volume": "14,926.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-13",
+        "Open": "1285",
+        "High": "1408",
+        "Low": "1255.4",
+        "Close": "1408",
+        "Percent Change": "10.00 %",
+        "Volume": "21,189.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-12",
+        "Open": "1275",
+        "High": "1297",
+        "Low": "1250",
+        "Close": "1280",
+        "Percent Change": "2.40 %",
+        "Volume": "4,816.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-11",
+        "Open": "1265",
+        "High": "1265",
+        "Low": "1239.9",
+        "Close": "1250",
+        "Percent Change": "0.73 %",
+        "Volume": "2,658.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-10",
+        "Open": "1240",
+        "High": "1285",
+        "Low": "1235.1",
+        "Close": "1241",
+        "Percent Change": "0.08 %",
+        "Volume": "4,330.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-09",
+        "Open": "1247",
+        "High": "1255",
+        "Low": "1231.2",
+        "Close": "1240",
+        "Percent Change": "-0.56 %",
+        "Volume": "1,160.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-06",
+        "Open": "1257",
+        "High": "1270",
+        "Low": "1233",
+        "Close": "1247",
+        "Percent Change": "-0.72 %",
+        "Volume": "2,552.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-05",
+        "Open": "1251",
+        "High": "1258",
+        "Low": "1242",
+        "Close": "1256",
+        "Percent Change": "-0.95 %",
+        "Volume": "2,518.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-04",
+        "Open": "1262.1",
+        "High": "1280",
+        "Low": "1260",
+        "Close": "1268",
+        "Percent Change": "-1.48 %",
+        "Volume": "1,877.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-03",
+        "Open": "1313",
+        "High": "1339",
+        "Low": "1286",
+        "Close": "1287",
+        "Percent Change": "-0.31 %",
+        "Volume": "4,679.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-02-02",
+        "Open": "1213",
+        "High": "1308.4",
+        "Low": "1190.1",
+        "Close": "1291",
+        "Percent Change": "8.53 %",
+        "Volume": "10,406.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-28",
+        "Open": "1170.3",
+        "High": "1214.9",
+        "Low": "1170",
+        "Close": "1189.5",
+        "Percent Change": "-0.29 %",
+        "Volume": "2,373.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-27",
+        "Open": "1200",
+        "High": "1215",
+        "Low": "1180",
+        "Close": "1192.9",
+        "Percent Change": "0.08 %",
+        "Volume": "1,596.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-26",
+        "Open": "1200",
+        "High": "1207",
+        "Low": "1190",
+        "Close": "1192",
+        "Percent Change": "0.34 %",
+        "Volume": "2,249.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-23",
+        "Open": "1161",
+        "High": "1204",
+        "Low": "1161",
+        "Close": "1188",
+        "Percent Change": "1.05 %",
+        "Volume": "2,530.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-22",
+        "Open": "1175",
+        "High": "1185",
+        "Low": "1170",
+        "Close": "1175.6",
+        "Percent Change": "0.91 %",
+        "Volume": "2,480.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-21",
+        "Open": "1170",
+        "High": "1190",
+        "Low": "1165",
+        "Close": "1165",
+        "Percent Change": "-0.43 %",
+        "Volume": "1,686.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-20",
+        "Open": "1151.1",
+        "High": "1190.5",
+        "Low": "1151.1",
+        "Close": "1170",
+        "Percent Change": "-0.09 %",
+        "Volume": "1,103.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-19",
+        "Open": "1150",
+        "High": "1212",
+        "Low": "1150",
+        "Close": "1171",
+        "Percent Change": "-0.12 %",
+        "Volume": "1,417.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-16",
+        "Open": "1200",
+        "High": "1200",
+        "Low": "1172.3",
+        "Close": "1172.4",
+        "Percent Change": "-2.29 %",
+        "Volume": "2,183.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-15",
+        "Open": "1212",
+        "High": "1236",
+        "Low": "1195.2",
+        "Close": "1199.9",
+        "Percent Change": "-1.00 %",
+        "Volume": "2,374.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-13",
+        "Open": "1229",
+        "High": "1245",
+        "Low": "1212",
+        "Close": "1212",
+        "Percent Change": "-1.47 %",
+        "Volume": "1,560.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-12",
+        "Open": "1263",
+        "High": "1263",
+        "Low": "1230.1",
+        "Close": "1230.1",
+        "Percent Change": "-0.96 %",
+        "Volume": "605.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-09",
+        "Open": "1244.1",
+        "High": "1278",
+        "Low": "1242",
+        "Close": "1242",
+        "Percent Change": "-1.81 %",
+        "Volume": "2,179.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-08",
+        "Open": "1275",
+        "High": "1290",
+        "Low": "1251.2",
+        "Close": "1264.9",
+        "Percent Change": "1.19 %",
+        "Volume": "2,988.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-07",
+        "Open": "1231",
+        "High": "1256",
+        "Low": "1231",
+        "Close": "1250",
+        "Percent Change": "1.03 %",
+        "Volume": "1,637.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-06",
+        "Open": "1258",
+        "High": "1260",
+        "Low": "1236",
+        "Close": "1237.3",
+        "Percent Change": "0.11 %",
+        "Volume": "2,441.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-05",
+        "Open": "1232.5",
+        "High": "1256.9",
+        "Low": "1232.3",
+        "Close": "1236",
+        "Percent Change": "-1.59 %",
+        "Volume": "1,732.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-02",
+        "Open": "1278",
+        "High": "1278",
+        "Low": "1233",
+        "Close": "1256",
+        "Percent Change": "-0.08 %",
+        "Volume": "2,781.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2025-01-01",
+        "Open": "1260",
+        "High": "1260",
+        "Low": "1235",
+        "Close": "1257",
+        "Percent Change": "-0.24 %",
+        "Volume": "1,750.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-31",
+        "Open": "1254.4",
+        "High": "1289",
+        "Low": "1240.1",
+        "Close": "1260",
+        "Percent Change": "-1.56 %",
+        "Volume": "2,095.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-29",
+        "Open": "1255",
+        "High": "1320",
+        "Low": "1247.1",
+        "Close": "1280",
+        "Percent Change": "1.99 %",
+        "Volume": "4,833.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-26",
+        "Open": "1250",
+        "High": "1257",
+        "Low": "1245.3",
+        "Close": "1255",
+        "Percent Change": "0.40 %",
+        "Volume": "1,375.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-24",
+        "Open": "1240",
+        "High": "1260",
+        "Low": "1240",
+        "Close": "1250",
+        "Percent Change": "0.81 %",
+        "Volume": "2,082.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-23",
+        "Open": "1269.4",
+        "High": "1269.4",
+        "Low": "1235",
+        "Close": "1240",
+        "Percent Change": "-0.37 %",
+        "Volume": "833.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-22",
+        "Open": "1246",
+        "High": "1255",
+        "Low": "1223.2",
+        "Close": "1244.6",
+        "Percent Change": "-1.14 %",
+        "Volume": "4,739.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-19",
+        "Open": "1250",
+        "High": "1275",
+        "Low": "1245",
+        "Close": "1258.9",
+        "Percent Change": "-0.48 %",
+        "Volume": "2,708.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-18",
+        "Open": "1262",
+        "High": "1283",
+        "Low": "1250.1",
+        "Close": "1265",
+        "Percent Change": "0.56 %",
+        "Volume": "3,517.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-17",
+        "Open": "1254",
+        "High": "1270",
+        "Low": "1245",
+        "Close": "1258",
+        "Percent Change": "0.32 %",
+        "Volume": "1,501.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-16",
+        "Open": "1299.5",
+        "High": "1299.5",
+        "Low": "1250.5",
+        "Close": "1254",
+        "Percent Change": "-1.58 %",
+        "Volume": "2,604.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-12",
+        "Open": "1282.5",
+        "High": "1310",
+        "Low": "1274.1",
+        "Close": "1274.1",
+        "Percent Change": "-0.65 %",
+        "Volume": "2,389.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-11",
+        "Open": "1267",
+        "High": "1290",
+        "Low": "1242",
+        "Close": "1282.5",
+        "Percent Change": "0.35 %",
+        "Volume": "2,648.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-10",
+        "Open": "1317",
+        "High": "1317",
+        "Low": "1275",
+        "Close": "1278",
+        "Percent Change": "-1.08 %",
+        "Volume": "4,118.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-09",
+        "Open": "1290",
+        "High": "1301",
+        "Low": "1281",
+        "Close": "1292",
+        "Percent Change": "-0.62 %",
+        "Volume": "1,897.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-08",
+        "Open": "1315.5",
+        "High": "1315.5",
+        "Low": "1295",
+        "Close": "1300",
+        "Percent Change": "-1.14 %",
+        "Volume": "2,719.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-05",
+        "Open": "1337",
+        "High": "1337",
+        "Low": "1315",
+        "Close": "1315",
+        "Percent Change": "-1.57 %",
+        "Volume": "3,071.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-04",
+        "Open": "1345",
+        "High": "1355",
+        "Low": "1335",
+        "Close": "1336",
+        "Percent Change": "-0.45 %",
+        "Volume": "3,991.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-03",
+        "Open": "1350",
+        "High": "1360",
+        "Low": "1341.1",
+        "Close": "1342",
+        "Percent Change": "-0.37 %",
+        "Volume": "1,473.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-02",
+        "Open": "1343",
+        "High": "1369.8",
+        "Low": "1340",
+        "Close": "1347",
+        "Percent Change": "0.30 %",
+        "Volume": "2,783.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-12-01",
+        "Open": "1345",
+        "High": "1360",
+        "Low": "1341",
+        "Close": "1343",
+        "Percent Change": "-2.11 %",
+        "Volume": "2,391.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-28",
+        "Open": "1391",
+        "High": "1394",
+        "Low": "1370",
+        "Close": "1372",
+        "Percent Change": "-1.15 %",
+        "Volume": "3,348.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-27",
+        "Open": "1390",
+        "High": "1400",
+        "Low": "1375",
+        "Close": "1388",
+        "Percent Change": "0.59 %",
+        "Volume": "3,852.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-26",
+        "Open": "1348.6",
+        "High": "1385",
+        "Low": "1348.6",
+        "Close": "1379.9",
+        "Percent Change": "0.36 %",
+        "Volume": "2,353.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-25",
+        "Open": "1384",
+        "High": "1397",
+        "Low": "1369.1",
+        "Close": "1375",
+        "Percent Change": "-0.65 %",
+        "Volume": "1,814.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-24",
+        "Open": "1385",
+        "High": "1395",
+        "Low": "1370",
+        "Close": "1384",
+        "Percent Change": "0.29 %",
+        "Volume": "2,915.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-21",
+        "Open": "1405",
+        "High": "1420",
+        "Low": "1380",
+        "Close": "1380",
+        "Percent Change": "-1.85 %",
+        "Volume": "4,452.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-20",
+        "Open": "1393",
+        "High": "1410",
+        "Low": "1391",
+        "Close": "1406",
+        "Percent Change": "0.43 %",
+        "Volume": "1,907.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-19",
+        "Open": "1410",
+        "High": "1430",
+        "Low": "1392",
+        "Close": "1400",
+        "Percent Change": "-0.71 %",
+        "Volume": "3,938.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-17",
+        "Open": "1401",
+        "High": "1461.6",
+        "Low": "1401",
+        "Close": "1410",
+        "Percent Change": "0.36 %",
+        "Volume": "6,549.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-14",
+        "Open": "1406",
+        "High": "1438",
+        "Low": "1391",
+        "Close": "1405",
+        "Percent Change": "-0.50 %",
+        "Volume": "4,069.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-13",
+        "Open": "1415",
+        "High": "1450",
+        "Low": "1410",
+        "Close": "1412",
+        "Percent Change": "-1.40 %",
+        "Volume": "2,929.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-12",
+        "Open": "1425",
+        "High": "1479.8",
+        "Low": "1425",
+        "Close": "1432.1",
+        "Percent Change": "-1.44 %",
+        "Volume": "2,486.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-11",
+        "Open": "1425",
+        "High": "1482",
+        "Low": "1425",
+        "Close": "1453",
+        "Percent Change": "0.21 %",
+        "Volume": "6,669.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-10",
+        "Open": "1381",
+        "High": "1450",
+        "Low": "1381",
+        "Close": "1450",
+        "Percent Change": "3.20 %",
+        "Volume": "5,796.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-06",
+        "Open": "1420",
+        "High": "1425",
+        "Low": "1394",
+        "Close": "1405",
+        "Percent Change": "-1.12 %",
+        "Volume": "976.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-11-05",
+        "Open": "1367.1",
+        "High": "1421",
+        "Low": "1367.1",
+        "Close": "1420.9",
+        "Percent Change": "1.86 %",
+        "Volume": "1,033.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-30",
+        "Open": "1425",
+        "High": "1425",
+        "Low": "1391",
+        "Close": "1395",
+        "Percent Change": "-2.11 %",
+        "Volume": "1,392.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-29",
+        "Open": "1400",
+        "High": "1428",
+        "Low": "1400",
+        "Close": "1425",
+        "Percent Change": "0.92 %",
+        "Volume": "1,963.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-28",
+        "Open": "1400",
+        "High": "1412",
+        "Low": "1383",
+        "Close": "1412",
+        "Percent Change": "1.58 %",
+        "Volume": "2,704.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-27",
+        "Open": "1385",
+        "High": "1400",
+        "Low": "1381.1",
+        "Close": "1390",
+        "Percent Change": "-0.71 %",
+        "Volume": "1,395.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-24",
+        "Open": "1386",
+        "High": "1409",
+        "Low": "1381.6",
+        "Close": "1400",
+        "Percent Change": "-0.36 %",
+        "Volume": "1,759.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-23",
+        "Open": "1390",
+        "High": "1417.8",
+        "Low": "1390",
+        "Close": "1405",
+        "Percent Change": "-0.57 %",
+        "Volume": "3,625.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-22",
+        "Open": "1380.1",
+        "High": "1415",
+        "Low": "1380.1",
+        "Close": "1413",
+        "Percent Change": "1.29 %",
+        "Volume": "2,663.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-21",
+        "Open": "1393",
+        "High": "1430",
+        "Low": "1390",
+        "Close": "1395",
+        "Percent Change": "-1.20 %",
+        "Volume": "3,567.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-20",
+        "Open": "1460.6",
+        "High": "1460.6",
+        "Low": "1412",
+        "Close": "1412",
+        "Percent Change": "-1.40 %",
+        "Volume": "5,324.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-17",
+        "Open": "1451",
+        "High": "1457",
+        "Low": "1431.1",
+        "Close": "1432",
+        "Percent Change": "-1.85 %",
+        "Volume": "3,110.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-16",
+        "Open": "1421",
+        "High": "1460",
+        "Low": "1421",
+        "Close": "1459",
+        "Percent Change": "0.62 %",
+        "Volume": "2,269.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-15",
+        "Open": "1458.9",
+        "High": "1458.9",
+        "Low": "1425",
+        "Close": "1450",
+        "Percent Change": "0.69 %",
+        "Volume": "1,201.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-09",
+        "Open": "1420",
+        "High": "1446.5",
+        "Low": "1420",
+        "Close": "1440",
+        "Percent Change": "0.35 %",
+        "Volume": "2,459.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-08",
+        "Open": "1420.1",
+        "High": "1449",
+        "Low": "1420.1",
+        "Close": "1435",
+        "Percent Change": "-0.97 %",
+        "Volume": "3,312.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-07",
+        "Open": "1449.5",
+        "High": "1505",
+        "Low": "1420.6",
+        "Close": "1449",
+        "Percent Change": "-2.03 %",
+        "Volume": "4,638.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-06",
+        "Open": "1425",
+        "High": "1484",
+        "Low": "1425",
+        "Close": "1479",
+        "Percent Change": "1.72 %",
+        "Volume": "4,714.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-02",
+        "Open": "1440.9",
+        "High": "1478",
+        "Low": "1420",
+        "Close": "1454",
+        "Percent Change": "-1.09 %",
+        "Volume": "3,798.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-10-01",
+        "Open": "1421",
+        "High": "1470",
+        "Low": "1402",
+        "Close": "1470",
+        "Percent Change": "1.38 %",
+        "Volume": "5,359.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-30",
+        "Open": "1415.2",
+        "High": "1451",
+        "Low": "1400.1",
+        "Close": "1450",
+        "Percent Change": "0.49 %",
+        "Volume": "1,864.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-29",
+        "Open": "1420.5",
+        "High": "1445",
+        "Low": "1401",
+        "Close": "1443",
+        "Percent Change": "-0.44 %",
+        "Volume": "2,980.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-26",
+        "Open": "1436.7",
+        "High": "1523",
+        "Low": "1408",
+        "Close": "1449.4",
+        "Percent Change": "-1.13 %",
+        "Volume": "3,193.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-25",
+        "Open": "1428.9",
+        "High": "1514",
+        "Low": "1400.4",
+        "Close": "1466",
+        "Percent Change": "0.55 %",
+        "Volume": "5,774.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-24",
+        "Open": "1509.2",
+        "High": "1509.2",
+        "Low": "1415",
+        "Close": "1458",
+        "Percent Change": "-5.32 %",
+        "Volume": "3,134.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-23",
+        "Open": "1436.7",
+        "High": "1540",
+        "Low": "1410",
+        "Close": "1540",
+        "Percent Change": "5.05 %",
+        "Volume": "4,487.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-22",
+        "Open": "1488",
+        "High": "1517",
+        "Low": "1415",
+        "Close": "1466",
+        "Percent Change": "0.41 %",
+        "Volume": "2,980.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-18",
+        "Open": "1500",
+        "High": "1505",
+        "Low": "1421",
+        "Close": "1460",
+        "Percent Change": "-1.02 %",
+        "Volume": "5,873.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-16",
+        "Open": "1467.1",
+        "High": "1475",
+        "Low": "1413",
+        "Close": "1475",
+        "Percent Change": "-1.01 %",
+        "Volume": "7,182.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-15",
+        "Open": "1499",
+        "High": "1520",
+        "Low": "1460",
+        "Close": "1490",
+        "Percent Change": "-0.67 %",
+        "Volume": "3,912.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-12",
+        "Open": "1470",
+        "High": "1587",
+        "Low": "1441",
+        "Close": "1500",
+        "Percent Change": "3.95 %",
+        "Volume": "8,220.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-11",
+        "Open": "1460.2",
+        "High": "1488.7",
+        "Low": "1431",
+        "Close": "1443",
+        "Percent Change": "-3.15 %",
+        "Volume": "4,818.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-10",
+        "Open": "1558.2",
+        "High": "1558.2",
+        "Low": "1446",
+        "Close": "1490",
+        "Percent Change": "-2.49 %",
+        "Volume": "7,024.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-09",
+        "Open": "1500",
+        "High": "1528",
+        "Low": "1412",
+        "Close": "1528",
+        "Percent Change": "1.87 %",
+        "Volume": "11,398.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-08",
+        "Open": "1569.8",
+        "High": "1600",
+        "Low": "1500",
+        "Close": "1500",
+        "Percent Change": "-4.45 %",
+        "Volume": "13,504.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-05",
+        "Open": "1520",
+        "High": "1599",
+        "Low": "1490",
+        "Close": "1569.8",
+        "Percent Change": "1.21 %",
+        "Volume": "10,501.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-04",
+        "Open": "1567.8",
+        "High": "1690.8",
+        "Low": "1540",
+        "Close": "1551",
+        "Percent Change": "0.90 %",
+        "Volume": "35,953.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-03",
+        "Open": "1410.1",
+        "High": "1537.1",
+        "Low": "1410.1",
+        "Close": "1537.1",
+        "Percent Change": "10.00 %",
+        "Volume": "14,487.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-02",
+        "Open": "1340.4",
+        "High": "1397.4",
+        "Low": "1340.4",
+        "Close": "1397.4",
+        "Percent Change": "3.43 %",
+        "Volume": "2,683.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-09-01",
+        "Open": "1388",
+        "High": "1435",
+        "Low": "1345",
+        "Close": "1351",
+        "Percent Change": "-0.73 %",
+        "Volume": "6,397.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-08-29",
+        "Open": "1395",
+        "High": "1431",
+        "Low": "1360",
+        "Close": "1361",
+        "Percent Change": "-3.13 %",
+        "Volume": "8,089.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-08-28",
+        "Open": "1450",
+        "High": "1487",
+        "Low": "1400",
+        "Close": "1405",
+        "Percent Change": "-1.75 %",
+        "Volume": "5,524.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-08-27",
+        "Open": "1470",
+        "High": "1498",
+        "Low": "1425",
+        "Close": "1430",
+        "Percent Change": "-3.38 %",
+        "Volume": "6,109.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-08-25",
+        "Open": "1465",
+        "High": "1599",
+        "Low": "1425",
+        "Close": "1480",
+        "Percent Change": "1.02 %",
+        "Volume": "12,980.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-08-22",
+        "Open": "1435",
+        "High": "1485",
+        "Low": "1433",
+        "Close": "1465",
+        "Percent Change": "0.21 %",
+        "Volume": "8,512.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-08-21",
+        "Open": "1555",
+        "High": "1580",
+        "Low": "1445",
+        "Close": "1462",
+        "Percent Change": "-5.98 %",
+        "Volume": "17,465.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-08-18",
+        "Open": "1716",
+        "High": "1716",
+        "Low": "1555",
+        "Close": "1555",
+        "Percent Change": "-7.58 %",
+        "Volume": "20,531.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-08-15",
+        "Open": "1577.7",
+        "High": "1701.4",
+        "Low": "1577.7",
+        "Close": "1682.5",
+        "Percent Change": "8.77 %",
+        "Volume": "63,003.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-08-14",
+        "Open": "1434.3",
+        "High": "1546.8",
+        "Low": "1434.3",
+        "Close": "1546.8",
+        "Percent Change": "10.00 %",
+        "Volume": "5,416.00"
+    },
+    {
+        "Symbol": "MATRI",
+        "Date": "2024-08-13",
+        "Open": "1303.9",
+        "High": "1406.2",
+        "Low": "1303.9",
+        "Close": "1406.2",
+        "Percent Change": "10.00 %",
+        "Volume": "1,391.00"
+    }
+]

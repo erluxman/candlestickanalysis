@@ -1,0 +1,2792 @@
+[
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-03-16",
+        "Open": "610",
+        "High": "632",
+        "Low": "604",
+        "Close": "607.1",
+        "Percent Change": "-0.15 %",
+        "Volume": "20,645.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-03-12",
+        "Open": "619",
+        "High": "622",
+        "Low": "603.1",
+        "Close": "608",
+        "Percent Change": "-0.16 %",
+        "Volume": "19,873.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-03-11",
+        "Open": "630",
+        "High": "631",
+        "Low": "603",
+        "Close": "609",
+        "Percent Change": "-2.64 %",
+        "Volume": "21,822.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-03-10",
+        "Open": "630",
+        "High": "640",
+        "Low": "625.2",
+        "Close": "625.5",
+        "Percent Change": "-1.34 %",
+        "Volume": "9,447.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-03-09",
+        "Open": "641.9",
+        "High": "644.9",
+        "Low": "630",
+        "Close": "634",
+        "Percent Change": "-1.25 %",
+        "Volume": "13,462.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-03-06",
+        "Open": "648.5",
+        "High": "653.8",
+        "Low": "632",
+        "Close": "642",
+        "Percent Change": "0.34 %",
+        "Volume": "19,879.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-03-05",
+        "Open": "649.8",
+        "High": "650",
+        "Low": "635",
+        "Close": "639.8",
+        "Percent Change": "-1.11 %",
+        "Volume": "14,159.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-03-04",
+        "Open": "651",
+        "High": "669.1",
+        "Low": "642.1",
+        "Close": "647",
+        "Percent Change": "-1.37 %",
+        "Volume": "24,184.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-03-03",
+        "Open": "685.4",
+        "High": "685.4",
+        "Low": "656",
+        "Close": "656",
+        "Percent Change": "-2.38 %",
+        "Volume": "21,832.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-03-02",
+        "Open": "660.9",
+        "High": "672",
+        "Low": "648",
+        "Close": "672",
+        "Percent Change": "3.70 %",
+        "Volume": "29,448.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-27",
+        "Open": "650",
+        "High": "650.9",
+        "Low": "638",
+        "Close": "648",
+        "Percent Change": "1.54 %",
+        "Volume": "19,996.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-25",
+        "Open": "653.8",
+        "High": "653.9",
+        "Low": "638",
+        "Close": "638.2",
+        "Percent Change": "-0.44 %",
+        "Volume": "17,587.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-24",
+        "Open": "650",
+        "High": "660",
+        "Low": "641",
+        "Close": "641",
+        "Percent Change": "-1.23 %",
+        "Volume": "21,198.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-23",
+        "Open": "639",
+        "High": "663",
+        "Low": "628",
+        "Close": "649",
+        "Percent Change": "-0.46 %",
+        "Volume": "25,123.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-20",
+        "Open": "642",
+        "High": "669",
+        "Low": "632",
+        "Close": "652",
+        "Percent Change": "1.48 %",
+        "Volume": "41,788.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-18",
+        "Open": "668.1",
+        "High": "668.1",
+        "Low": "640",
+        "Close": "642.5",
+        "Percent Change": "-1.91 %",
+        "Volume": "36,235.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-17",
+        "Open": "682.3",
+        "High": "682.3",
+        "Low": "640",
+        "Close": "655",
+        "Percent Change": "-2.09 %",
+        "Volume": "51,468.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-16",
+        "Open": "627",
+        "High": "670",
+        "Low": "622.9",
+        "Close": "669",
+        "Percent Change": "8.78 %",
+        "Volume": "84,922.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-13",
+        "Open": "626",
+        "High": "628",
+        "Low": "612.1",
+        "Close": "615",
+        "Percent Change": "-0.73 %",
+        "Volume": "31,399.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-12",
+        "Open": "619",
+        "High": "630",
+        "Low": "610",
+        "Close": "619.5",
+        "Percent Change": "0.90 %",
+        "Volume": "31,373.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-11",
+        "Open": "617.1",
+        "High": "620",
+        "Low": "601.3",
+        "Close": "614",
+        "Percent Change": "1.49 %",
+        "Volume": "31,121.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-10",
+        "Open": "609.9",
+        "High": "617",
+        "Low": "603",
+        "Close": "605",
+        "Percent Change": "-1.63 %",
+        "Volume": "16,038.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-09",
+        "Open": "626.9",
+        "High": "626.9",
+        "Low": "602",
+        "Close": "615",
+        "Percent Change": "0.00 %",
+        "Volume": "26,106.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-06",
+        "Open": "603",
+        "High": "636",
+        "Low": "600",
+        "Close": "615",
+        "Percent Change": "1.99 %",
+        "Volume": "43,975.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-05",
+        "Open": "585",
+        "High": "617.1",
+        "Low": "575",
+        "Close": "603",
+        "Percent Change": "4.51 %",
+        "Volume": "44,965.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-04",
+        "Open": "604",
+        "High": "604",
+        "Low": "577",
+        "Close": "577",
+        "Percent Change": "-3.03 %",
+        "Volume": "21,368.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-03",
+        "Open": "613",
+        "High": "613",
+        "Low": "594.9",
+        "Close": "595",
+        "Percent Change": "-1.00 %",
+        "Volume": "25,010.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-02-02",
+        "Open": "595",
+        "High": "609",
+        "Low": "586.3",
+        "Close": "601",
+        "Percent Change": "1.09 %",
+        "Volume": "33,041.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-28",
+        "Open": "580",
+        "High": "615",
+        "Low": "580",
+        "Close": "594.5",
+        "Percent Change": "2.50 %",
+        "Volume": "18,614.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-27",
+        "Open": "575",
+        "High": "592",
+        "Low": "548",
+        "Close": "580",
+        "Percent Change": "2.11 %",
+        "Volume": "43,421.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-26",
+        "Open": "601.9",
+        "High": "601.9",
+        "Low": "568",
+        "Close": "568",
+        "Percent Change": "-3.75 %",
+        "Volume": "61,245.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-23",
+        "Open": "608.4",
+        "High": "608.4",
+        "Low": "590.1",
+        "Close": "590.1",
+        "Percent Change": "-1.98 %",
+        "Volume": "36,276.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-22",
+        "Open": "606",
+        "High": "610",
+        "Low": "599",
+        "Close": "602",
+        "Percent Change": "-0.66 %",
+        "Volume": "30,579.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-21",
+        "Open": "613",
+        "High": "620",
+        "Low": "605",
+        "Close": "606",
+        "Percent Change": "-1.14 %",
+        "Volume": "28,765.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-20",
+        "Open": "620.1",
+        "High": "644",
+        "Low": "613",
+        "Close": "613",
+        "Percent Change": "-2.08 %",
+        "Volume": "27,828.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-19",
+        "Open": "620",
+        "High": "649",
+        "Low": "608",
+        "Close": "626",
+        "Percent Change": "0.90 %",
+        "Volume": "21,954.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-16",
+        "Open": "633",
+        "High": "641",
+        "Low": "620.2",
+        "Close": "620.4",
+        "Percent Change": "-2.76 %",
+        "Volume": "31,867.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-15",
+        "Open": "640",
+        "High": "664",
+        "Low": "620",
+        "Close": "638",
+        "Percent Change": "-1.85 %",
+        "Volume": "26,658.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-13",
+        "Open": "664",
+        "High": "669",
+        "Low": "646.1",
+        "Close": "650",
+        "Percent Change": "-0.93 %",
+        "Volume": "19,277.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-12",
+        "Open": "688.6",
+        "High": "699",
+        "Low": "651",
+        "Close": "656.1",
+        "Percent Change": "-2.81 %",
+        "Volume": "9,000.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-09",
+        "Open": "708.9",
+        "High": "723",
+        "Low": "669.1",
+        "Close": "675.1",
+        "Percent Change": "-2.86 %",
+        "Volume": "18,413.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-08",
+        "Open": "673",
+        "High": "705",
+        "Low": "673",
+        "Close": "695",
+        "Percent Change": "3.12 %",
+        "Volume": "26,578.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-07",
+        "Open": "675",
+        "High": "679.8",
+        "Low": "665.1",
+        "Close": "674",
+        "Percent Change": "1.35 %",
+        "Volume": "19,737.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-06",
+        "Open": "662",
+        "High": "670",
+        "Low": "661.1",
+        "Close": "665",
+        "Percent Change": "0.61 %",
+        "Volume": "15,398.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-05",
+        "Open": "651",
+        "High": "680",
+        "Low": "651",
+        "Close": "661",
+        "Percent Change": "-0.30 %",
+        "Volume": "14,740.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-02",
+        "Open": "651",
+        "High": "663",
+        "Low": "645",
+        "Close": "663",
+        "Percent Change": "1.61 %",
+        "Volume": "22,356.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2025-01-01",
+        "Open": "632",
+        "High": "655",
+        "Low": "631",
+        "Close": "652.5",
+        "Percent Change": "3.41 %",
+        "Volume": "16,860.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-31",
+        "Open": "651.09",
+        "High": "651.09",
+        "Low": "620",
+        "Close": "631",
+        "Percent Change": "-3.96 %",
+        "Volume": "40,813.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-29",
+        "Open": "670.4",
+        "High": "670.4",
+        "Low": "653.8",
+        "Close": "657",
+        "Percent Change": "-2.67 %",
+        "Volume": "28,323.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-26",
+        "Open": "683",
+        "High": "690",
+        "Low": "675",
+        "Close": "675",
+        "Percent Change": "-2.88 %",
+        "Volume": "19,611.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-24",
+        "Open": "689",
+        "High": "705",
+        "Low": "688",
+        "Close": "695",
+        "Percent Change": "2.66 %",
+        "Volume": "25,126.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-23",
+        "Open": "670",
+        "High": "679.9",
+        "Low": "670",
+        "Close": "677",
+        "Percent Change": "1.21 %",
+        "Volume": "11,052.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-22",
+        "Open": "691.9",
+        "High": "691.9",
+        "Low": "666.5",
+        "Close": "668.9",
+        "Percent Change": "-1.63 %",
+        "Volume": "17,224.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-19",
+        "Open": "689",
+        "High": "704",
+        "Low": "678",
+        "Close": "680",
+        "Percent Change": "-1.89 %",
+        "Volume": "21,540.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-18",
+        "Open": "700",
+        "High": "708",
+        "Low": "692",
+        "Close": "693.1",
+        "Percent Change": "-0.27 %",
+        "Volume": "14,048.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-17",
+        "Open": "686.1",
+        "High": "709.9",
+        "Low": "685",
+        "Close": "695",
+        "Percent Change": "-0.67 %",
+        "Volume": "16,449.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-16",
+        "Open": "720",
+        "High": "720",
+        "Low": "697",
+        "Close": "699.7",
+        "Percent Change": "-2.82 %",
+        "Volume": "30,775.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-12",
+        "Open": "746",
+        "High": "746",
+        "Low": "720",
+        "Close": "720",
+        "Percent Change": "-2.96 %",
+        "Volume": "17,291.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-11",
+        "Open": "738",
+        "High": "742",
+        "Low": "723.4",
+        "Close": "742",
+        "Percent Change": "2.06 %",
+        "Volume": "12,058.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-10",
+        "Open": "737",
+        "High": "737",
+        "Low": "711",
+        "Close": "727",
+        "Percent Change": "0.48 %",
+        "Volume": "14,484.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-09",
+        "Open": "716",
+        "High": "733.5",
+        "Low": "715",
+        "Close": "723.5",
+        "Percent Change": "0.50 %",
+        "Volume": "32,971.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-08",
+        "Open": "745.1",
+        "High": "748.9",
+        "Low": "715",
+        "Close": "719.9",
+        "Percent Change": "-3.37 %",
+        "Volume": "34,647.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-05",
+        "Open": "778",
+        "High": "778",
+        "Low": "733.3",
+        "Close": "745",
+        "Percent Change": "-2.36 %",
+        "Volume": "57,289.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-04",
+        "Open": "777.7",
+        "High": "792",
+        "Low": "760",
+        "Close": "763",
+        "Percent Change": "-1.93 %",
+        "Volume": "20,817.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-03",
+        "Open": "746.8",
+        "High": "790",
+        "Low": "746.8",
+        "Close": "778",
+        "Percent Change": "2.10 %",
+        "Volume": "34,318.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-02",
+        "Open": "773",
+        "High": "773",
+        "Low": "758",
+        "Close": "762",
+        "Percent Change": "0.13 %",
+        "Volume": "31,054.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-12-01",
+        "Open": "768.4",
+        "High": "782.3",
+        "Low": "755",
+        "Close": "761",
+        "Percent Change": "-2.93 %",
+        "Volume": "55,041.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-28",
+        "Open": "801",
+        "High": "801",
+        "Low": "782",
+        "Close": "784",
+        "Percent Change": "-2.00 %",
+        "Volume": "38,945.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-27",
+        "Open": "808.1",
+        "High": "815",
+        "Low": "799",
+        "Close": "800",
+        "Percent Change": "-1.11 %",
+        "Volume": "31,713.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-26",
+        "Open": "773",
+        "High": "827",
+        "Low": "770",
+        "Close": "809",
+        "Percent Change": "6.73 %",
+        "Volume": "143,726.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-25",
+        "Open": "749.9",
+        "High": "762.8",
+        "Low": "745.3",
+        "Close": "758",
+        "Percent Change": "1.74 %",
+        "Volume": "18,154.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-24",
+        "Open": "764",
+        "High": "765",
+        "Low": "743",
+        "Close": "745",
+        "Percent Change": "-0.67 %",
+        "Volume": "25,910.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-21",
+        "Open": "788.8",
+        "High": "788.8",
+        "Low": "750",
+        "Close": "750",
+        "Percent Change": "-3.47 %",
+        "Volume": "32,219.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-20",
+        "Open": "754.7",
+        "High": "784.9",
+        "Low": "725",
+        "Close": "777",
+        "Percent Change": "0.91 %",
+        "Volume": "34,078.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-19",
+        "Open": "797",
+        "High": "812",
+        "Low": "768",
+        "Close": "770",
+        "Percent Change": "-3.39 %",
+        "Volume": "62,456.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-17",
+        "Open": "830",
+        "High": "830",
+        "Low": "795",
+        "Close": "797",
+        "Percent Change": "-2.79 %",
+        "Volume": "44,806.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-14",
+        "Open": "815",
+        "High": "840",
+        "Low": "810",
+        "Close": "819.9",
+        "Percent Change": "1.35 %",
+        "Volume": "71,367.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-13",
+        "Open": "785",
+        "High": "810",
+        "Low": "761",
+        "Close": "809",
+        "Percent Change": "4.93 %",
+        "Volume": "84,962.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-12",
+        "Open": "782",
+        "High": "784.3",
+        "Low": "770",
+        "Close": "771",
+        "Percent Change": "0.26 %",
+        "Volume": "30,102.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-11",
+        "Open": "790",
+        "High": "790",
+        "Low": "762",
+        "Close": "769",
+        "Percent Change": "-0.77 %",
+        "Volume": "38,885.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-10",
+        "Open": "775",
+        "High": "782",
+        "Low": "770",
+        "Close": "775",
+        "Percent Change": "1.97 %",
+        "Volume": "33,205.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-06",
+        "Open": "768",
+        "High": "770",
+        "Low": "750",
+        "Close": "760",
+        "Percent Change": "0.53 %",
+        "Volume": "20,975.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-11-05",
+        "Open": "777",
+        "High": "785",
+        "Low": "750",
+        "Close": "756",
+        "Percent Change": "-0.80 %",
+        "Volume": "13,210.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-30",
+        "Open": "790",
+        "High": "790",
+        "Low": "760.1",
+        "Close": "762.1",
+        "Percent Change": "-1.79 %",
+        "Volume": "16,268.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-29",
+        "Open": "769.9",
+        "High": "794.8",
+        "Low": "769.9",
+        "Close": "776",
+        "Percent Change": "2.78 %",
+        "Volume": "62,063.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-28",
+        "Open": "740.5",
+        "High": "755",
+        "Low": "733",
+        "Close": "755",
+        "Percent Change": "3.99 %",
+        "Volume": "25,748.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-27",
+        "Open": "730",
+        "High": "738.9",
+        "Low": "726",
+        "Close": "726",
+        "Percent Change": "-0.55 %",
+        "Volume": "13,295.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-24",
+        "Open": "749",
+        "High": "749",
+        "Low": "722.3",
+        "Close": "730",
+        "Percent Change": "-0.68 %",
+        "Volume": "27,707.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-23",
+        "Open": "744.6",
+        "High": "759",
+        "Low": "721",
+        "Close": "735",
+        "Percent Change": "0.68 %",
+        "Volume": "40,894.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-22",
+        "Open": "715",
+        "High": "741",
+        "Low": "715",
+        "Close": "730",
+        "Percent Change": "2.10 %",
+        "Volume": "22,440.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-21",
+        "Open": "750",
+        "High": "751",
+        "Low": "710",
+        "Close": "715",
+        "Percent Change": "-4.67 %",
+        "Volume": "43,991.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-20",
+        "Open": "759.6",
+        "High": "770",
+        "Low": "744.6",
+        "Close": "750",
+        "Percent Change": "-3.24 %",
+        "Volume": "36,319.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-17",
+        "Open": "780",
+        "High": "790",
+        "Low": "768.2",
+        "Close": "775.1",
+        "Percent Change": "-0.50 %",
+        "Volume": "37,798.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-16",
+        "Open": "785.1",
+        "High": "793",
+        "Low": "775",
+        "Close": "779",
+        "Percent Change": "0.13 %",
+        "Volume": "22,385.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-15",
+        "Open": "750",
+        "High": "778.2",
+        "Low": "750",
+        "Close": "778",
+        "Percent Change": "3.73 %",
+        "Volume": "20,459.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-09",
+        "Open": "754",
+        "High": "754",
+        "Low": "729.1",
+        "Close": "750",
+        "Percent Change": "1.08 %",
+        "Volume": "18,495.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-08",
+        "Open": "750",
+        "High": "760",
+        "Low": "734",
+        "Close": "742",
+        "Percent Change": "-2.37 %",
+        "Volume": "19,338.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-07",
+        "Open": "782",
+        "High": "799",
+        "Low": "745.1",
+        "Close": "760",
+        "Percent Change": "-2.06 %",
+        "Volume": "42,991.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-06",
+        "Open": "739",
+        "High": "785",
+        "Low": "726",
+        "Close": "776",
+        "Percent Change": "4.86 %",
+        "Volume": "30,246.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-02",
+        "Open": "760.7",
+        "High": "770",
+        "Low": "726.5",
+        "Close": "740",
+        "Percent Change": "-0.78 %",
+        "Volume": "57,813.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-10-01",
+        "Open": "685",
+        "High": "745.8",
+        "Low": "685",
+        "Close": "745.8",
+        "Percent Change": "10.00 %",
+        "Volume": "48,246.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-30",
+        "Open": "650",
+        "High": "681",
+        "Low": "650",
+        "Close": "678",
+        "Percent Change": "4.95 %",
+        "Volume": "22,733.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-29",
+        "Open": "640",
+        "High": "649.8",
+        "Low": "619.3",
+        "Close": "646",
+        "Percent Change": "0.76 %",
+        "Volume": "27,398.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-26",
+        "Open": "655",
+        "High": "679.9",
+        "Low": "640",
+        "Close": "641.1",
+        "Percent Change": "-3.91 %",
+        "Volume": "28,895.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-25",
+        "Open": "652",
+        "High": "678",
+        "Low": "640",
+        "Close": "667.2",
+        "Percent Change": "2.33 %",
+        "Volume": "41,328.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-24",
+        "Open": "674",
+        "High": "683",
+        "Low": "651",
+        "Close": "652",
+        "Percent Change": "-3.26 %",
+        "Volume": "32,341.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-23",
+        "Open": "710",
+        "High": "718",
+        "Low": "664",
+        "Close": "674",
+        "Percent Change": "-6.00 %",
+        "Volume": "54,570.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-22",
+        "Open": "730",
+        "High": "744.6",
+        "Low": "710.1",
+        "Close": "717",
+        "Percent Change": "0.14 %",
+        "Volume": "22,077.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-18",
+        "Open": "739.1",
+        "High": "740",
+        "Low": "711",
+        "Close": "716",
+        "Percent Change": "-3.11 %",
+        "Volume": "49,198.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-16",
+        "Open": "770",
+        "High": "775",
+        "Low": "735",
+        "Close": "739",
+        "Percent Change": "-4.65 %",
+        "Volume": "47,704.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-15",
+        "Open": "812",
+        "High": "814.9",
+        "Low": "770",
+        "Close": "775",
+        "Percent Change": "-3.13 %",
+        "Volume": "38,926.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-12",
+        "Open": "780",
+        "High": "800",
+        "Low": "770.3",
+        "Close": "800",
+        "Percent Change": "3.24 %",
+        "Volume": "48,357.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-11",
+        "Open": "780",
+        "High": "791",
+        "Low": "770",
+        "Close": "774.9",
+        "Percent Change": "-0.01 %",
+        "Volume": "33,593.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-10",
+        "Open": "788.4",
+        "High": "800",
+        "Low": "766.4",
+        "Close": "775",
+        "Percent Change": "0.26 %",
+        "Volume": "46,410.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-09",
+        "Open": "793.4",
+        "High": "807",
+        "Low": "770",
+        "Close": "773",
+        "Percent Change": "-2.89 %",
+        "Volume": "58,420.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-08",
+        "Open": "813.7",
+        "High": "824.8",
+        "Low": "793",
+        "Close": "796",
+        "Percent Change": "-0.25 %",
+        "Volume": "39,278.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-05",
+        "Open": "828.2",
+        "High": "828.2",
+        "Low": "791.1",
+        "Close": "798",
+        "Percent Change": "-1.72 %",
+        "Volume": "56,542.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-04",
+        "Open": "860",
+        "High": "870",
+        "Low": "812",
+        "Close": "812",
+        "Percent Change": "-5.69 %",
+        "Volume": "72,423.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-03",
+        "Open": "870",
+        "High": "897",
+        "Low": "853",
+        "Close": "861",
+        "Percent Change": "-0.35 %",
+        "Volume": "59,212.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-02",
+        "Open": "810",
+        "High": "864",
+        "Low": "802.5",
+        "Close": "864",
+        "Percent Change": "8.68 %",
+        "Volume": "104,690.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-09-01",
+        "Open": "805.3",
+        "High": "831",
+        "Low": "795",
+        "Close": "795",
+        "Percent Change": "-0.76 %",
+        "Volume": "59,784.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-29",
+        "Open": "834",
+        "High": "839",
+        "Low": "801.1",
+        "Close": "801.1",
+        "Percent Change": "-2.07 %",
+        "Volume": "55,780.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-28",
+        "Open": "859.8",
+        "High": "876",
+        "Low": "817",
+        "Close": "818",
+        "Percent Change": "-2.97 %",
+        "Volume": "76,568.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-27",
+        "Open": "873",
+        "High": "891",
+        "Low": "835",
+        "Close": "843",
+        "Percent Change": "-3.44 %",
+        "Volume": "68,007.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-25",
+        "Open": "919",
+        "High": "929",
+        "Low": "869",
+        "Close": "873",
+        "Percent Change": "-5.01 %",
+        "Volume": "104,778.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-22",
+        "Open": "932.2",
+        "High": "980",
+        "Low": "917",
+        "Close": "919",
+        "Percent Change": "0.55 %",
+        "Volume": "113,658.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-21",
+        "Open": "876.2",
+        "High": "929.9",
+        "Low": "876.2",
+        "Close": "914",
+        "Percent Change": "2.24 %",
+        "Volume": "104,804.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-18",
+        "Open": "923.2",
+        "High": "950",
+        "Low": "885",
+        "Close": "894",
+        "Percent Change": "-5.10 %",
+        "Volume": "170,903.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-15",
+        "Open": "980",
+        "High": "1041",
+        "Low": "940",
+        "Close": "942",
+        "Percent Change": "-4.07 %",
+        "Volume": "169,295.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-14",
+        "Open": "933.3",
+        "High": "985",
+        "Low": "915",
+        "Close": "982",
+        "Percent Change": "7.32 %",
+        "Volume": "163,272.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-13",
+        "Open": "877",
+        "High": "946.1",
+        "Low": "855",
+        "Close": "915",
+        "Percent Change": "6.38 %",
+        "Volume": "173,287.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-12",
+        "Open": "850",
+        "High": "890",
+        "Low": "850",
+        "Close": "860.1",
+        "Percent Change": "2.39 %",
+        "Volume": "103,194.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-11",
+        "Open": "831.3",
+        "High": "847",
+        "Low": "815",
+        "Close": "840",
+        "Percent Change": "3.07 %",
+        "Volume": "97,966.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-08",
+        "Open": "863",
+        "High": "863",
+        "Low": "815",
+        "Close": "815",
+        "Percent Change": "-3.89 %",
+        "Volume": "87,322.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-07",
+        "Open": "776.5",
+        "High": "870",
+        "Low": "745.8",
+        "Close": "848",
+        "Percent Change": "7.03 %",
+        "Volume": "140,199.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-06",
+        "Open": "865",
+        "High": "870",
+        "Low": "792.3",
+        "Close": "792.3",
+        "Percent Change": "-10.00 %",
+        "Volume": "250,116.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-05",
+        "Open": "931",
+        "High": "932.9",
+        "Low": "880.3",
+        "Close": "880.3",
+        "Percent Change": "-5.45 %",
+        "Volume": "182,455.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-08-01",
+        "Open": "875.1",
+        "High": "943.8",
+        "Low": "875.1",
+        "Close": "931",
+        "Percent Change": "8.51 %",
+        "Volume": "233,614.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-31",
+        "Open": "781",
+        "High": "858",
+        "Low": "781",
+        "Close": "858",
+        "Percent Change": "10.00 %",
+        "Volume": "173,974.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-30",
+        "Open": "770",
+        "High": "795",
+        "Low": "756.6",
+        "Close": "780",
+        "Percent Change": "2.36 %",
+        "Volume": "140,000.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-29",
+        "Open": "775",
+        "High": "786",
+        "Low": "761",
+        "Close": "762",
+        "Percent Change": "-1.68 %",
+        "Volume": "92,753.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-28",
+        "Open": "785.4",
+        "High": "799",
+        "Low": "744",
+        "Close": "775",
+        "Percent Change": "0.65 %",
+        "Volume": "67,123.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-25",
+        "Open": "784",
+        "High": "788",
+        "Low": "760",
+        "Close": "770",
+        "Percent Change": "0.13 %",
+        "Volume": "80,657.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-24",
+        "Open": "779",
+        "High": "799",
+        "Low": "760",
+        "Close": "769",
+        "Percent Change": "-0.79 %",
+        "Volume": "109,796.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-23",
+        "Open": "762",
+        "High": "779",
+        "Low": "758",
+        "Close": "775.1",
+        "Percent Change": "2.66 %",
+        "Volume": "76,787.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-22",
+        "Open": "756",
+        "High": "770",
+        "Low": "743.5",
+        "Close": "755",
+        "Percent Change": "0.00 %",
+        "Volume": "80,471.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-21",
+        "Open": "755",
+        "High": "773.9",
+        "Low": "740",
+        "Close": "755",
+        "Percent Change": "0.48 %",
+        "Volume": "131,346.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-18",
+        "Open": "762",
+        "High": "775",
+        "Low": "751.2",
+        "Close": "751.4",
+        "Percent Change": "-0.78 %",
+        "Volume": "88,983.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-17",
+        "Open": "744.5",
+        "High": "772",
+        "Low": "726",
+        "Close": "757.3",
+        "Percent Change": "1.94 %",
+        "Volume": "87,353.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-16",
+        "Open": "706.1",
+        "High": "754",
+        "Low": "706.1",
+        "Close": "742.9",
+        "Percent Change": "3.18 %",
+        "Volume": "69,515.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-15",
+        "Open": "750.3",
+        "High": "750.3",
+        "Low": "718",
+        "Close": "720",
+        "Percent Change": "-2.12 %",
+        "Volume": "47,245.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-14",
+        "Open": "743.5",
+        "High": "758",
+        "Low": "721.3",
+        "Close": "735.6",
+        "Percent Change": "0.91 %",
+        "Volume": "43,428.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-11",
+        "Open": "710",
+        "High": "739",
+        "Low": "701",
+        "Close": "729",
+        "Percent Change": "4.16 %",
+        "Volume": "96,658.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-10",
+        "Open": "707",
+        "High": "710",
+        "Low": "698",
+        "Close": "699.9",
+        "Percent Change": "0.39 %",
+        "Volume": "46,320.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-09",
+        "Open": "694.2",
+        "High": "706.9",
+        "Low": "694.2",
+        "Close": "697.2",
+        "Percent Change": "0.03 %",
+        "Volume": "32,717.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-08",
+        "Open": "709.9",
+        "High": "710.1",
+        "Low": "695",
+        "Close": "697",
+        "Percent Change": "-0.44 %",
+        "Volume": "58,770.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-07",
+        "Open": "710.5",
+        "High": "714",
+        "Low": "700.1",
+        "Close": "700.1",
+        "Percent Change": "-1.46 %",
+        "Volume": "42,944.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-04",
+        "Open": "738",
+        "High": "738",
+        "Low": "710.5",
+        "Close": "710.5",
+        "Percent Change": "-2.27 %",
+        "Volume": "61,645.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-03",
+        "Open": "700",
+        "High": "735",
+        "Low": "692",
+        "Close": "727",
+        "Percent Change": "3.41 %",
+        "Volume": "84,106.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-02",
+        "Open": "710.8",
+        "High": "740",
+        "Low": "700.1",
+        "Close": "703",
+        "Percent Change": "0.88 %",
+        "Volume": "43,786.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-07-01",
+        "Open": "692",
+        "High": "712",
+        "Low": "692",
+        "Close": "696.9",
+        "Percent Change": "-0.44 %",
+        "Volume": "31,571.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-30",
+        "Open": "710",
+        "High": "717.9",
+        "Low": "698",
+        "Close": "700",
+        "Percent Change": "-1.55 %",
+        "Volume": "43,110.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-27",
+        "Open": "717.4",
+        "High": "744",
+        "Low": "710",
+        "Close": "711",
+        "Percent Change": "-2.87 %",
+        "Volume": "68,000.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-26",
+        "Open": "729.2",
+        "High": "760",
+        "Low": "729.2",
+        "Close": "732",
+        "Percent Change": "-1.61 %",
+        "Volume": "72,413.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-25",
+        "Open": "754.6",
+        "High": "775",
+        "Low": "740",
+        "Close": "744",
+        "Percent Change": "-3.36 %",
+        "Volume": "83,904.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-24",
+        "Open": "765.4",
+        "High": "790.5",
+        "Low": "755.1",
+        "Close": "769.9",
+        "Percent Change": "-1.42 %",
+        "Volume": "107,114.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-23",
+        "Open": "779",
+        "High": "798.6",
+        "Low": "775",
+        "Close": "781",
+        "Percent Change": "0.79 %",
+        "Volume": "109,737.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-20",
+        "Open": "758",
+        "High": "793",
+        "Low": "750",
+        "Close": "774.9",
+        "Percent Change": "3.32 %",
+        "Volume": "112,673.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-19",
+        "Open": "736.7",
+        "High": "758",
+        "Low": "728",
+        "Close": "750",
+        "Percent Change": "1.81 %",
+        "Volume": "129,003.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-18",
+        "Open": "720",
+        "High": "745",
+        "Low": "715.2",
+        "Close": "736.7",
+        "Percent Change": "1.06 %",
+        "Volume": "102,035.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-16",
+        "Open": "735",
+        "High": "745.5",
+        "Low": "720",
+        "Close": "729",
+        "Percent Change": "-1.47 %",
+        "Volume": "63,411.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-13",
+        "Open": "740",
+        "High": "747.5",
+        "Low": "711.5",
+        "Close": "739.9",
+        "Percent Change": "0.94 %",
+        "Volume": "80,523.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-12",
+        "Open": "731",
+        "High": "744.5",
+        "Low": "725",
+        "Close": "733",
+        "Percent Change": "0.27 %",
+        "Volume": "75,199.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-11",
+        "Open": "703",
+        "High": "739.5",
+        "Low": "695",
+        "Close": "731",
+        "Percent Change": "5.64 %",
+        "Volume": "128,856.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-10",
+        "Open": "657",
+        "High": "704",
+        "Low": "646",
+        "Close": "692",
+        "Percent Change": "7.12 %",
+        "Volume": "99,039.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-09",
+        "Open": "660",
+        "High": "665",
+        "Low": "645",
+        "Close": "646",
+        "Percent Change": "-1.43 %",
+        "Volume": "45,107.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-06",
+        "Open": "668.1",
+        "High": "673",
+        "Low": "655",
+        "Close": "655.4",
+        "Percent Change": "-1.89 %",
+        "Volume": "40,441.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-05",
+        "Open": "670.1",
+        "High": "679.9",
+        "Low": "668",
+        "Close": "668",
+        "Percent Change": "-0.30 %",
+        "Volume": "30,061.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-04",
+        "Open": "670",
+        "High": "671.9",
+        "Low": "663.2",
+        "Close": "670",
+        "Percent Change": "0.30 %",
+        "Volume": "27,244.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-03",
+        "Open": "679",
+        "High": "679",
+        "Low": "665.3",
+        "Close": "668",
+        "Percent Change": "-0.22 %",
+        "Volume": "40,976.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-06-02",
+        "Open": "666",
+        "High": "675",
+        "Low": "660.1",
+        "Close": "669.5",
+        "Percent Change": "1.90 %",
+        "Volume": "59,114.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-30",
+        "Open": "676.9",
+        "High": "676.9",
+        "Low": "653",
+        "Close": "657",
+        "Percent Change": "-1.93 %",
+        "Volume": "45,855.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-29",
+        "Open": "685",
+        "High": "685.3",
+        "Low": "660",
+        "Close": "669.9",
+        "Percent Change": "-0.31 %",
+        "Volume": "47,225.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-27",
+        "Open": "665.1",
+        "High": "680",
+        "Low": "665",
+        "Close": "672",
+        "Percent Change": "0.16 %",
+        "Volume": "44,813.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-26",
+        "Open": "673",
+        "High": "678",
+        "Low": "668",
+        "Close": "670.9",
+        "Percent Change": "-0.01 %",
+        "Volume": "38,820.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-22",
+        "Open": "690",
+        "High": "693",
+        "Low": "670.4",
+        "Close": "671",
+        "Percent Change": "-2.04 %",
+        "Volume": "70,854.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-21",
+        "Open": "670.9",
+        "High": "693.6",
+        "Low": "670",
+        "Close": "685",
+        "Percent Change": "2.24 %",
+        "Volume": "66,176.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-20",
+        "Open": "670",
+        "High": "696",
+        "Low": "668.1",
+        "Close": "670",
+        "Percent Change": "-1.90 %",
+        "Volume": "72,783.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-19",
+        "Open": "706.8",
+        "High": "706.8",
+        "Low": "683",
+        "Close": "683",
+        "Percent Change": "-1.44 %",
+        "Volume": "68,364.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-16",
+        "Open": "693.9",
+        "High": "718",
+        "Low": "687",
+        "Close": "693",
+        "Percent Change": "-2.12 %",
+        "Volume": "82,143.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-15",
+        "Open": "700.3",
+        "High": "715.8",
+        "Low": "700.3",
+        "Close": "708",
+        "Percent Change": "-0.91 %",
+        "Volume": "47,687.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-14",
+        "Open": "699",
+        "High": "717",
+        "Low": "699",
+        "Close": "714.5",
+        "Percent Change": "0.18 %",
+        "Volume": "35,815.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-13",
+        "Open": "699.1",
+        "High": "719.1",
+        "Low": "699.1",
+        "Close": "713.2",
+        "Percent Change": "0.03 %",
+        "Volume": "85,980.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-12",
+        "Open": "725.2",
+        "High": "725.2",
+        "Low": "690",
+        "Close": "713",
+        "Percent Change": "0.28 %",
+        "Volume": "61,527.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-09",
+        "Open": "688.9",
+        "High": "730",
+        "Low": "688.9",
+        "Close": "711",
+        "Percent Change": "1.15 %",
+        "Volume": "85,563.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-08",
+        "Open": "690",
+        "High": "705.8",
+        "Low": "681.5",
+        "Close": "702.9",
+        "Percent Change": "3.67 %",
+        "Volume": "81,824.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-07",
+        "Open": "713",
+        "High": "713",
+        "Low": "677.6",
+        "Close": "678",
+        "Percent Change": "-3.14 %",
+        "Volume": "59,810.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-06",
+        "Open": "712.1",
+        "High": "729",
+        "Low": "700",
+        "Close": "700",
+        "Percent Change": "-2.78 %",
+        "Volume": "89,365.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-05",
+        "Open": "711",
+        "High": "734",
+        "Low": "711",
+        "Close": "720",
+        "Percent Change": "-0.69 %",
+        "Volume": "86,171.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-05-02",
+        "Open": "711",
+        "High": "743.6",
+        "Low": "680",
+        "Close": "725",
+        "Percent Change": "1.97 %",
+        "Volume": "223,183.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-30",
+        "Open": "745.1",
+        "High": "746",
+        "Low": "710",
+        "Close": "711",
+        "Percent Change": "-4.58 %",
+        "Volume": "224,124.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-29",
+        "Open": "760",
+        "High": "762",
+        "Low": "741",
+        "Close": "745.1",
+        "Percent Change": "-1.99 %",
+        "Volume": "121,068.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-28",
+        "Open": "785.4",
+        "High": "785.4",
+        "Low": "760.1",
+        "Close": "760.2",
+        "Percent Change": "-1.27 %",
+        "Volume": "111,346.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-25",
+        "Open": "775",
+        "High": "794.5",
+        "Low": "757",
+        "Close": "770",
+        "Percent Change": "0.14 %",
+        "Volume": "103,424.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-24",
+        "Open": "770.1",
+        "High": "770.1",
+        "Low": "740.1",
+        "Close": "768.9",
+        "Percent Change": "1.84 %",
+        "Volume": "110,945.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-22",
+        "Open": "771.4",
+        "High": "827",
+        "Low": "754.6",
+        "Close": "755",
+        "Percent Change": "-4.08 %",
+        "Volume": "150,131.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-21",
+        "Open": "804",
+        "High": "805",
+        "Low": "765.6",
+        "Close": "787.1",
+        "Percent Change": "-4.01 %",
+        "Volume": "129,366.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-18",
+        "Open": "844.9",
+        "High": "845",
+        "Low": "819.2",
+        "Close": "820",
+        "Percent Change": "-9.39 %",
+        "Volume": "218,705.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-16",
+        "Open": "823",
+        "High": "905.3",
+        "Low": "800",
+        "Close": "905",
+        "Percent Change": "9.96 %",
+        "Volume": "212,626.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-15",
+        "Open": "812",
+        "High": "845.4",
+        "Low": "812",
+        "Close": "823",
+        "Percent Change": "-0.66 %",
+        "Volume": "75,837.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-14",
+        "Open": "799.7",
+        "High": "831",
+        "Low": "799.7",
+        "Close": "828.5",
+        "Percent Change": "1.53 %",
+        "Volume": "62,527.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-10",
+        "Open": "835",
+        "High": "854.8",
+        "Low": "812.2",
+        "Close": "816",
+        "Percent Change": "-4.23 %",
+        "Volume": "133,529.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-09",
+        "Open": "901.5",
+        "High": "901.5",
+        "Low": "850",
+        "Close": "852",
+        "Percent Change": "-3.62 %",
+        "Volume": "186,879.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-07",
+        "Open": "854.9",
+        "High": "885.3",
+        "Low": "854.9",
+        "Close": "884",
+        "Percent Change": "3.40 %",
+        "Volume": "220,985.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-04",
+        "Open": "853",
+        "High": "930.2",
+        "Low": "846",
+        "Close": "854.9",
+        "Percent Change": "-1.72 %",
+        "Volume": "270,698.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-03",
+        "Open": "862.4",
+        "High": "877",
+        "Low": "845.3",
+        "Close": "869.9",
+        "Percent Change": "-1.15 %",
+        "Volume": "136,836.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-02",
+        "Open": "853",
+        "High": "904",
+        "Low": "850",
+        "Close": "880",
+        "Percent Change": "1.16 %",
+        "Volume": "173,197.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-04-01",
+        "Open": "861.5",
+        "High": "877",
+        "Low": "855",
+        "Close": "869.9",
+        "Percent Change": "-1.04 %",
+        "Volume": "115,371.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-31",
+        "Open": "881",
+        "High": "888",
+        "Low": "860.2",
+        "Close": "879",
+        "Percent Change": "-0.11 %",
+        "Volume": "144,150.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-28",
+        "Open": "840.9",
+        "High": "890",
+        "Low": "833",
+        "Close": "880",
+        "Percent Change": "2.56 %",
+        "Volume": "186,907.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-27",
+        "Open": "860.6",
+        "High": "870",
+        "Low": "820.1",
+        "Close": "858",
+        "Percent Change": "-2.28 %",
+        "Volume": "69,174.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-26",
+        "Open": "854.6",
+        "High": "878",
+        "Low": "838.1",
+        "Close": "878",
+        "Percent Change": "0.69 %",
+        "Volume": "93,160.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-25",
+        "Open": "837.9",
+        "High": "922.7",
+        "Low": "790",
+        "Close": "872",
+        "Percent Change": "1.99 %",
+        "Volume": "343,485.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-21",
+        "Open": "927.1",
+        "High": "927.1",
+        "Low": "852",
+        "Close": "855",
+        "Percent Change": "-9.62 %",
+        "Volume": "327,548.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-20",
+        "Open": "850",
+        "High": "946",
+        "Low": "820.5",
+        "Close": "946",
+        "Percent Change": "10.00 %",
+        "Volume": "139,705.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-19",
+        "Open": "846.3",
+        "High": "930",
+        "Low": "783.1",
+        "Close": "860",
+        "Percent Change": "-0.41 %",
+        "Volume": "190,766.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-18",
+        "Open": "800",
+        "High": "863.5",
+        "Low": "775.1",
+        "Close": "863.5",
+        "Percent Change": "10.00 %",
+        "Volume": "292,380.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-17",
+        "Open": "750",
+        "High": "785",
+        "Low": "750",
+        "Close": "785",
+        "Percent Change": "4.67 %",
+        "Volume": "136,140.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-14",
+        "Open": "755",
+        "High": "830",
+        "Low": "728",
+        "Close": "750",
+        "Percent Change": "-0.66 %",
+        "Volume": "168,293.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-13",
+        "Open": "713",
+        "High": "767",
+        "Low": "695",
+        "Close": "755",
+        "Percent Change": "7.55 %",
+        "Volume": "190,425.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-12",
+        "Open": "684.4",
+        "High": "713.8",
+        "Low": "662",
+        "Close": "702",
+        "Percent Change": "4.62 %",
+        "Volume": "134,207.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-10",
+        "Open": "654",
+        "High": "674",
+        "Low": "645",
+        "Close": "671",
+        "Percent Change": "2.60 %",
+        "Volume": "101,983.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-07",
+        "Open": "670",
+        "High": "670",
+        "Low": "643",
+        "Close": "654",
+        "Percent Change": "-2.10 %",
+        "Volume": "120,326.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-06",
+        "Open": "605.9",
+        "High": "668",
+        "Low": "585",
+        "Close": "668",
+        "Percent Change": "8.09 %",
+        "Volume": "99,214.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-05",
+        "Open": "625",
+        "High": "625",
+        "Low": "596",
+        "Close": "618",
+        "Percent Change": "-0.96 %",
+        "Volume": "92,213.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-04",
+        "Open": "591.7",
+        "High": "627.3",
+        "Low": "591.7",
+        "Close": "624",
+        "Percent Change": "7.57 %",
+        "Volume": "1,300.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-03-03",
+        "Open": "575",
+        "High": "595",
+        "Low": "575",
+        "Close": "580.1",
+        "Percent Change": "-0.50 %",
+        "Volume": "23,695.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-29",
+        "Open": "618",
+        "High": "619.9",
+        "Low": "580",
+        "Close": "583",
+        "Percent Change": "-5.05 %",
+        "Volume": "57,875.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-28",
+        "Open": "628",
+        "High": "628",
+        "Low": "614",
+        "Close": "614",
+        "Percent Change": "-2.23 %",
+        "Volume": "36,112.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-27",
+        "Open": "621.2",
+        "High": "636.4",
+        "Low": "610",
+        "Close": "628",
+        "Percent Change": "1.78 %",
+        "Volume": "49,522.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-26",
+        "Open": "664.9",
+        "High": "664.9",
+        "Low": "615",
+        "Close": "617",
+        "Percent Change": "-5.35 %",
+        "Volume": "99,486.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-25",
+        "Open": "620",
+        "High": "668.3",
+        "Low": "620",
+        "Close": "651.9",
+        "Percent Change": "5.16 %",
+        "Volume": "165,634.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-22",
+        "Open": "577.3",
+        "High": "647.9",
+        "Low": "577.3",
+        "Close": "619.9",
+        "Percent Change": "5.25 %",
+        "Volume": "225,994.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-21",
+        "Open": "562",
+        "High": "590.5",
+        "Low": "562",
+        "Close": "589",
+        "Percent Change": "2.79 %",
+        "Volume": "39,680.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-20",
+        "Open": "558.6",
+        "High": "581",
+        "Low": "558.6",
+        "Close": "573",
+        "Percent Change": "0.53 %",
+        "Volume": "28,511.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-18",
+        "Open": "578.2",
+        "High": "581",
+        "Low": "567.3",
+        "Close": "570",
+        "Percent Change": "-2.40 %",
+        "Volume": "34,801.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-15",
+        "Open": "609",
+        "High": "615",
+        "Low": "580.1",
+        "Close": "584",
+        "Percent Change": "-3.63 %",
+        "Volume": "56,571.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-14",
+        "Open": "562.1",
+        "High": "619",
+        "Low": "562",
+        "Close": "606",
+        "Percent Change": "7.26 %",
+        "Volume": "208,840.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-13",
+        "Open": "565",
+        "High": "574.9",
+        "Low": "560",
+        "Close": "565",
+        "Percent Change": "-0.88 %",
+        "Volume": "32,650.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-12",
+        "Open": "565",
+        "High": "571",
+        "Low": "565",
+        "Close": "570",
+        "Percent Change": "1.79 %",
+        "Volume": "21,952.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-11",
+        "Open": "574",
+        "High": "576",
+        "Low": "560",
+        "Close": "560",
+        "Percent Change": "-0.88 %",
+        "Volume": "6,907.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-08",
+        "Open": "558",
+        "High": "569",
+        "Low": "558",
+        "Close": "565",
+        "Percent Change": "-0.18 %",
+        "Volume": "13,808.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-07",
+        "Open": "562",
+        "High": "573",
+        "Low": "558",
+        "Close": "566",
+        "Percent Change": "-0.53 %",
+        "Volume": "17,875.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-06",
+        "Open": "550.1",
+        "High": "570",
+        "Low": "550.1",
+        "Close": "569",
+        "Percent Change": "1.61 %",
+        "Volume": "16,740.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-05",
+        "Open": "549.4",
+        "High": "566",
+        "Low": "549.4",
+        "Close": "560",
+        "Percent Change": "0.38 %",
+        "Volume": "20,859.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-04",
+        "Open": "540.5",
+        "High": "563",
+        "Low": "540.5",
+        "Close": "557.9",
+        "Percent Change": "1.70 %",
+        "Volume": "14,486.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-02-01",
+        "Open": "551.2",
+        "High": "565",
+        "Low": "548.1",
+        "Close": "548.6",
+        "Percent Change": "-0.89 %",
+        "Volume": "33,671.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-31",
+        "Open": "555.1",
+        "High": "574",
+        "Low": "553",
+        "Close": "553.5",
+        "Percent Change": "-1.79 %",
+        "Volume": "17,519.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-30",
+        "Open": "557",
+        "High": "573",
+        "Low": "557",
+        "Close": "563.6",
+        "Percent Change": "0.25 %",
+        "Volume": "9,331.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-29",
+        "Open": "566",
+        "High": "577",
+        "Low": "557",
+        "Close": "562.2",
+        "Percent Change": "0.39 %",
+        "Volume": "18,328.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-28",
+        "Open": "563.9",
+        "High": "563.9",
+        "Low": "555.1",
+        "Close": "560",
+        "Percent Change": "0.18 %",
+        "Volume": "5,549.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-25",
+        "Open": "547.8",
+        "High": "575",
+        "Low": "547.8",
+        "Close": "559",
+        "Percent Change": "0.02 %",
+        "Volume": "22,132.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-24",
+        "Open": "554",
+        "High": "571.1",
+        "Low": "554",
+        "Close": "558.9",
+        "Percent Change": "-0.20 %",
+        "Volume": "20,287.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-23",
+        "Open": "550",
+        "High": "569",
+        "Low": "550",
+        "Close": "560",
+        "Percent Change": "0.36 %",
+        "Volume": "17,756.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-22",
+        "Open": "560",
+        "High": "571",
+        "Low": "555",
+        "Close": "558",
+        "Percent Change": "-1.95 %",
+        "Volume": "38,087.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-21",
+        "Open": "563.1",
+        "High": "584",
+        "Low": "560",
+        "Close": "569.1",
+        "Percent Change": "-0.68 %",
+        "Volume": "43,304.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-18",
+        "Open": "563",
+        "High": "582",
+        "Low": "563",
+        "Close": "573",
+        "Percent Change": "-0.17 %",
+        "Volume": "38,463.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-17",
+        "Open": "595",
+        "High": "611",
+        "Low": "570",
+        "Close": "574",
+        "Percent Change": "-2.88 %",
+        "Volume": "93,494.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-16",
+        "Open": "565",
+        "High": "598",
+        "Low": "565",
+        "Close": "591",
+        "Percent Change": "6.01 %",
+        "Volume": "89,109.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-14",
+        "Open": "550",
+        "High": "564",
+        "Low": "550",
+        "Close": "557.5",
+        "Percent Change": "2.11 %",
+        "Volume": "18,271.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-11",
+        "Open": "540.1",
+        "High": "558.4",
+        "Low": "540.1",
+        "Close": "546",
+        "Percent Change": "-0.55 %",
+        "Volume": "15,426.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-10",
+        "Open": "550",
+        "High": "564",
+        "Low": "545.5",
+        "Close": "549",
+        "Percent Change": "1.10 %",
+        "Volume": "57,002.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-09",
+        "Open": "537.5",
+        "High": "547",
+        "Low": "536.1",
+        "Close": "543",
+        "Percent Change": "3.04 %",
+        "Volume": "20,627.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-08",
+        "Open": "516",
+        "High": "536.6",
+        "Low": "516",
+        "Close": "527",
+        "Percent Change": "0.38 %",
+        "Volume": "13,690.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-07",
+        "Open": "525",
+        "High": "540",
+        "Low": "522.4",
+        "Close": "525",
+        "Percent Change": "-1.69 %",
+        "Volume": "18,700.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-04",
+        "Open": "537.1",
+        "High": "553",
+        "Low": "534",
+        "Close": "534",
+        "Percent Change": "-2.55 %",
+        "Volume": "20,013.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-03",
+        "Open": "534.1",
+        "High": "550",
+        "Low": "523.5",
+        "Close": "548",
+        "Percent Change": "0.55 %",
+        "Volume": "15,056.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-02",
+        "Open": "543",
+        "High": "548.8",
+        "Low": "536",
+        "Close": "545",
+        "Percent Change": "-0.55 %",
+        "Volume": "12,650.00"
+    },
+    {
+        "Symbol": "GUFL",
+        "Date": "2024-01-01",
+        "Open": "536",
+        "High": "557",
+        "Low": "536",
+        "Close": "548",
+        "Percent Change": "0.55 %",
+        "Volume": "32,321.00"
+    }
+]

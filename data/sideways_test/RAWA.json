@@ -1,0 +1,2792 @@
+[
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-03-16",
+        "Open": "894.5",
+        "High": "894.5",
+        "Low": "843.1",
+        "Close": "872",
+        "Percent Change": "-0.57 %",
+        "Volume": "4,138.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-03-12",
+        "Open": "876.1",
+        "High": "890",
+        "Low": "860",
+        "Close": "877",
+        "Percent Change": "0.23 %",
+        "Volume": "5,710.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-03-11",
+        "Open": "892",
+        "High": "895",
+        "Low": "858.1",
+        "Close": "875",
+        "Percent Change": "-2.72 %",
+        "Volume": "8,856.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-03-10",
+        "Open": "875",
+        "High": "917.7",
+        "Low": "870.1",
+        "Close": "899.5",
+        "Percent Change": "1.64 %",
+        "Volume": "8,874.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-03-09",
+        "Open": "886",
+        "High": "899.9",
+        "Low": "879.3",
+        "Close": "885",
+        "Percent Change": "-1.25 %",
+        "Volume": "6,913.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-03-06",
+        "Open": "909",
+        "High": "909",
+        "Low": "895.2",
+        "Close": "896.2",
+        "Percent Change": "0.48 %",
+        "Volume": "3,827.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-03-05",
+        "Open": "890",
+        "High": "918",
+        "Low": "890",
+        "Close": "891.9",
+        "Percent Change": "-0.91 %",
+        "Volume": "13,351.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-03-04",
+        "Open": "900",
+        "High": "949",
+        "Low": "895",
+        "Close": "900.1",
+        "Percent Change": "-0.87 %",
+        "Volume": "11,455.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-03-03",
+        "Open": "920",
+        "High": "934",
+        "Low": "900.1",
+        "Close": "908",
+        "Percent Change": "-1.84 %",
+        "Volume": "8,007.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-03-02",
+        "Open": "944",
+        "High": "944",
+        "Low": "905",
+        "Close": "925",
+        "Percent Change": "-0.86 %",
+        "Volume": "17,844.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-27",
+        "Open": "933.3",
+        "High": "933.3",
+        "Low": "917",
+        "Close": "933",
+        "Percent Change": "1.97 %",
+        "Volume": "10,700.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-25",
+        "Open": "915",
+        "High": "947.5",
+        "Low": "915",
+        "Close": "915",
+        "Percent Change": "-0.54 %",
+        "Volume": "45,788.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-24",
+        "Open": "930",
+        "High": "953.8",
+        "Low": "905",
+        "Close": "920",
+        "Percent Change": "-0.97 %",
+        "Volume": "36,766.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-23",
+        "Open": "950",
+        "High": "958.8",
+        "Low": "922",
+        "Close": "929",
+        "Percent Change": "-3.83 %",
+        "Volume": "32,188.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-20",
+        "Open": "969",
+        "High": "990",
+        "Low": "936",
+        "Close": "966",
+        "Percent Change": "1.68 %",
+        "Volume": "52,376.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-18",
+        "Open": "916.9",
+        "High": "986.3",
+        "Low": "916",
+        "Close": "950",
+        "Percent Change": "5.67 %",
+        "Volume": "112,917.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-17",
+        "Open": "880.2",
+        "High": "924",
+        "Low": "867",
+        "Close": "899",
+        "Percent Change": "4.17 %",
+        "Volume": "51,383.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-16",
+        "Open": "831",
+        "High": "885",
+        "Low": "817",
+        "Close": "863",
+        "Percent Change": "3.85 %",
+        "Volume": "19,182.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-13",
+        "Open": "832.1",
+        "High": "853.9",
+        "Low": "830",
+        "Close": "831",
+        "Percent Change": "-1.07 %",
+        "Volume": "8,343.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-12",
+        "Open": "824.1",
+        "High": "855",
+        "Low": "824.1",
+        "Close": "840",
+        "Percent Change": "0.12 %",
+        "Volume": "8,199.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-11",
+        "Open": "840",
+        "High": "840",
+        "Low": "825.1",
+        "Close": "839",
+        "Percent Change": "1.30 %",
+        "Volume": "5,141.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-10",
+        "Open": "839",
+        "High": "840",
+        "Low": "818.1",
+        "Close": "828.2",
+        "Percent Change": "-0.58 %",
+        "Volume": "14,439.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-09",
+        "Open": "862.5",
+        "High": "875",
+        "Low": "833",
+        "Close": "833",
+        "Percent Change": "-3.42 %",
+        "Volume": "14,781.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-06",
+        "Open": "886.9",
+        "High": "890",
+        "Low": "859",
+        "Close": "862.5",
+        "Percent Change": "-4.70 %",
+        "Volume": "18,276.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-05",
+        "Open": "933.3",
+        "High": "933.3",
+        "Low": "883.3",
+        "Close": "905",
+        "Percent Change": "-1.09 %",
+        "Volume": "15,274.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-04",
+        "Open": "919",
+        "High": "937",
+        "Low": "882.7",
+        "Close": "915",
+        "Percent Change": "1.55 %",
+        "Volume": "22,369.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-03",
+        "Open": "915",
+        "High": "926.1",
+        "Low": "869",
+        "Close": "901",
+        "Percent Change": "-0.77 %",
+        "Volume": "65,297.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-02-02",
+        "Open": "823.2",
+        "High": "922",
+        "Low": "823.2",
+        "Close": "908",
+        "Percent Change": "8.10 %",
+        "Volume": "106,065.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-28",
+        "Open": "827",
+        "High": "852",
+        "Low": "813",
+        "Close": "840",
+        "Percent Change": "3.58 %",
+        "Volume": "36,509.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-27",
+        "Open": "820",
+        "High": "820",
+        "Low": "803.6",
+        "Close": "811",
+        "Percent Change": "-0.61 %",
+        "Volume": "24,234.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-26",
+        "Open": "820",
+        "High": "825",
+        "Low": "805",
+        "Close": "816",
+        "Percent Change": "0.82 %",
+        "Volume": "29,784.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-23",
+        "Open": "800.2",
+        "High": "821.9",
+        "Low": "800.2",
+        "Close": "809.4",
+        "Percent Change": "0.30 %",
+        "Volume": "13,808.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-22",
+        "Open": "803.1",
+        "High": "819.8",
+        "Low": "803.1",
+        "Close": "807",
+        "Percent Change": "0.00 %",
+        "Volume": "9,735.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-21",
+        "Open": "796",
+        "High": "822",
+        "Low": "796",
+        "Close": "807",
+        "Percent Change": "0.12 %",
+        "Volume": "18,431.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-20",
+        "Open": "827.9",
+        "High": "827.9",
+        "Low": "805",
+        "Close": "806",
+        "Percent Change": "-1.56 %",
+        "Volume": "9,755.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-19",
+        "Open": "811",
+        "High": "825",
+        "Low": "805",
+        "Close": "818.8",
+        "Percent Change": "0.96 %",
+        "Volume": "18,037.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-16",
+        "Open": "785",
+        "High": "815",
+        "Low": "785",
+        "Close": "811",
+        "Percent Change": "1.63 %",
+        "Volume": "26,128.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-15",
+        "Open": "778",
+        "High": "821.9",
+        "Low": "778",
+        "Close": "798",
+        "Percent Change": "0.63 %",
+        "Volume": "16,632.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-13",
+        "Open": "788",
+        "High": "795.1",
+        "Low": "780",
+        "Close": "793",
+        "Percent Change": "-0.88 %",
+        "Volume": "4,721.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-12",
+        "Open": "786.1",
+        "High": "817.4",
+        "Low": "786.1",
+        "Close": "800",
+        "Percent Change": "-0.12 %",
+        "Volume": "4,619.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-09",
+        "Open": "776.4",
+        "High": "818.2",
+        "Low": "776.4",
+        "Close": "801",
+        "Percent Change": "1.11 %",
+        "Volume": "32,605.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-08",
+        "Open": "808",
+        "High": "808",
+        "Low": "750",
+        "Close": "792.2",
+        "Percent Change": "-0.23 %",
+        "Volume": "8,409.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-07",
+        "Open": "787",
+        "High": "819",
+        "Low": "787",
+        "Close": "794",
+        "Percent Change": "-1.12 %",
+        "Volume": "14,700.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-06",
+        "Open": "779",
+        "High": "870",
+        "Low": "763.5",
+        "Close": "803",
+        "Percent Change": "1.03 %",
+        "Volume": "36,480.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-05",
+        "Open": "784",
+        "High": "830",
+        "Low": "753.1",
+        "Close": "794.8",
+        "Percent Change": "-0.65 %",
+        "Volume": "11,250.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-02",
+        "Open": "779.1",
+        "High": "820",
+        "Low": "765",
+        "Close": "800",
+        "Percent Change": "0.63 %",
+        "Volume": "20,382.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2025-01-01",
+        "Open": "746",
+        "High": "805",
+        "Low": "745",
+        "Close": "795",
+        "Percent Change": "4.61 %",
+        "Volume": "17,192.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-31",
+        "Open": "777",
+        "High": "815",
+        "Low": "747",
+        "Close": "760",
+        "Percent Change": "-3.05 %",
+        "Volume": "10,310.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-29",
+        "Open": "790",
+        "High": "805.7",
+        "Low": "766.5",
+        "Close": "783.9",
+        "Percent Change": "-2.62 %",
+        "Volume": "4,944.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-26",
+        "Open": "790",
+        "High": "865",
+        "Low": "790",
+        "Close": "805",
+        "Percent Change": "-0.11 %",
+        "Volume": "4,665.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-24",
+        "Open": "796",
+        "High": "815",
+        "Low": "795",
+        "Close": "805.9",
+        "Percent Change": "1.12 %",
+        "Volume": "15,326.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-23",
+        "Open": "749.7",
+        "High": "799",
+        "Low": "734.8",
+        "Close": "797",
+        "Percent Change": "4.18 %",
+        "Volume": "12,271.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-22",
+        "Open": "775.2",
+        "High": "775.2",
+        "Low": "717",
+        "Close": "765",
+        "Percent Change": "0.66 %",
+        "Volume": "10,369.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-19",
+        "Open": "800.7",
+        "High": "800.7",
+        "Low": "755",
+        "Close": "760",
+        "Percent Change": "-3.18 %",
+        "Volume": "6,835.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-18",
+        "Open": "809.8",
+        "High": "809.8",
+        "Low": "762.4",
+        "Close": "785",
+        "Percent Change": "-1.13 %",
+        "Volume": "14,611.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-17",
+        "Open": "805.6",
+        "High": "805.6",
+        "Low": "750",
+        "Close": "794",
+        "Percent Change": "0.52 %",
+        "Volume": "13,257.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-16",
+        "Open": "822",
+        "High": "822",
+        "Low": "780.6",
+        "Close": "789.9",
+        "Percent Change": "-2.24 %",
+        "Volume": "8,987.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-12",
+        "Open": "810",
+        "High": "816.9",
+        "Low": "751.7",
+        "Close": "808",
+        "Percent Change": "1.64 %",
+        "Volume": "15,162.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-11",
+        "Open": "808.8",
+        "High": "808.8",
+        "Low": "778",
+        "Close": "795",
+        "Percent Change": "0.25 %",
+        "Volume": "4,548.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-10",
+        "Open": "821",
+        "High": "821",
+        "Low": "791",
+        "Close": "793",
+        "Percent Change": "-1.52 %",
+        "Volume": "8,678.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-09",
+        "Open": "804",
+        "High": "869",
+        "Low": "804",
+        "Close": "805.2",
+        "Percent Change": "-1.80 %",
+        "Volume": "19,055.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-08",
+        "Open": "857",
+        "High": "869",
+        "Low": "807",
+        "Close": "820",
+        "Percent Change": "-3.98 %",
+        "Volume": "18,585.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-05",
+        "Open": "827",
+        "High": "896",
+        "Low": "811",
+        "Close": "854",
+        "Percent Change": "1.24 %",
+        "Volume": "26,567.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-04",
+        "Open": "811",
+        "High": "890",
+        "Low": "785",
+        "Close": "843.5",
+        "Percent Change": "4.16 %",
+        "Volume": "56,288.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-03",
+        "Open": "814.5",
+        "High": "820",
+        "Low": "791.1",
+        "Close": "809.8",
+        "Percent Change": "1.40 %",
+        "Volume": "10,934.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-02",
+        "Open": "812.9",
+        "High": "817",
+        "Low": "790.1",
+        "Close": "798.6",
+        "Percent Change": "0.20 %",
+        "Volume": "8,021.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-12-01",
+        "Open": "801",
+        "High": "809",
+        "Low": "785.2",
+        "Close": "797",
+        "Percent Change": "1.46 %",
+        "Volume": "11,651.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-28",
+        "Open": "818",
+        "High": "818",
+        "Low": "785.1",
+        "Close": "785.5",
+        "Percent Change": "-3.61 %",
+        "Volume": "15,176.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-27",
+        "Open": "785",
+        "High": "816.9",
+        "Low": "785",
+        "Close": "814.9",
+        "Percent Change": "1.74 %",
+        "Volume": "7,379.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-26",
+        "Open": "777",
+        "High": "813",
+        "Low": "777",
+        "Close": "801",
+        "Percent Change": "1.10 %",
+        "Volume": "18,593.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-25",
+        "Open": "771.4",
+        "High": "810",
+        "Low": "756.1",
+        "Close": "792.3",
+        "Percent Change": "0.66 %",
+        "Volume": "36,594.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-24",
+        "Open": "831.1",
+        "High": "831.1",
+        "Low": "787",
+        "Close": "787.1",
+        "Percent Change": "-4.13 %",
+        "Volume": "21,705.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-21",
+        "Open": "815",
+        "High": "875",
+        "Low": "805",
+        "Close": "821",
+        "Percent Change": "-0.73 %",
+        "Volume": "17,873.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-20",
+        "Open": "810",
+        "High": "835",
+        "Low": "794",
+        "Close": "827",
+        "Percent Change": "0.10 %",
+        "Volume": "12,070.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-19",
+        "Open": "813",
+        "High": "883",
+        "Low": "813",
+        "Close": "826.2",
+        "Percent Change": "-0.34 %",
+        "Volume": "47,874.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-17",
+        "Open": "848",
+        "High": "848",
+        "Low": "807",
+        "Close": "829",
+        "Percent Change": "-2.13 %",
+        "Volume": "33,207.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-14",
+        "Open": "950.6",
+        "High": "950.6",
+        "Low": "838.8",
+        "Close": "847",
+        "Percent Change": "-9.12 %",
+        "Volume": "40,579.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-13",
+        "Open": "831.1",
+        "High": "932",
+        "Low": "804",
+        "Close": "932",
+        "Percent Change": "9.91 %",
+        "Volume": "50,825.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-12",
+        "Open": "845",
+        "High": "848",
+        "Low": "816.1",
+        "Close": "848",
+        "Percent Change": "0.36 %",
+        "Volume": "51,179.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-11",
+        "Open": "835",
+        "High": "845",
+        "Low": "815",
+        "Close": "845",
+        "Percent Change": "1.20 %",
+        "Volume": "32,092.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-10",
+        "Open": "799",
+        "High": "835",
+        "Low": "786",
+        "Close": "835",
+        "Percent Change": "5.95 %",
+        "Volume": "64,073.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-06",
+        "Open": "782",
+        "High": "803",
+        "Low": "766",
+        "Close": "788.1",
+        "Percent Change": "2.48 %",
+        "Volume": "35,685.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-11-05",
+        "Open": "765",
+        "High": "780",
+        "Low": "750",
+        "Close": "769",
+        "Percent Change": "0.67 %",
+        "Volume": "15,351.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-30",
+        "Open": "784",
+        "High": "784",
+        "Low": "763.9",
+        "Close": "763.9",
+        "Percent Change": "-1.56 %",
+        "Volume": "25,150.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-29",
+        "Open": "754",
+        "High": "784",
+        "Low": "742",
+        "Close": "776",
+        "Percent Change": "0.91 %",
+        "Volume": "13,855.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-28",
+        "Open": "752",
+        "High": "784",
+        "Low": "737",
+        "Close": "769",
+        "Percent Change": "0.26 %",
+        "Volume": "30,439.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-27",
+        "Open": "799.2",
+        "High": "799.2",
+        "Low": "741.1",
+        "Close": "767",
+        "Percent Change": "-4.03 %",
+        "Volume": "45,166.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-24",
+        "Open": "905.7",
+        "High": "905.7",
+        "Low": "799.2",
+        "Close": "799.2",
+        "Percent Change": "-10.00 %",
+        "Volume": "32,700.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-23",
+        "Open": "842.8",
+        "High": "890",
+        "Low": "774",
+        "Close": "888",
+        "Percent Change": "3.26 %",
+        "Volume": "53,636.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-22",
+        "Open": "774.2",
+        "High": "861",
+        "Low": "750",
+        "Close": "860",
+        "Percent Change": "8.86 %",
+        "Volume": "34,297.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-21",
+        "Open": "768.4",
+        "High": "798",
+        "Low": "750",
+        "Close": "790",
+        "Percent Change": "0.77 %",
+        "Volume": "56,395.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-20",
+        "Open": "759.3",
+        "High": "811",
+        "Low": "732.2",
+        "Close": "784",
+        "Percent Change": "1.20 %",
+        "Volume": "40,863.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-17",
+        "Open": "740",
+        "High": "777",
+        "Low": "725",
+        "Close": "774.7",
+        "Percent Change": "5.12 %",
+        "Volume": "46,355.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-16",
+        "Open": "718.8",
+        "High": "737",
+        "Low": "714",
+        "Close": "737",
+        "Percent Change": "3.08 %",
+        "Volume": "17,557.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-15",
+        "Open": "700",
+        "High": "719",
+        "Low": "700",
+        "Close": "715",
+        "Percent Change": "0.85 %",
+        "Volume": "21,532.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-09",
+        "Open": "721.1",
+        "High": "721.1",
+        "Low": "666.3",
+        "Close": "709",
+        "Percent Change": "0.28 %",
+        "Volume": "25,069.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-08",
+        "Open": "742",
+        "High": "742",
+        "Low": "695.4",
+        "Close": "707",
+        "Percent Change": "-4.20 %",
+        "Volume": "12,358.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-07",
+        "Open": "742",
+        "High": "750",
+        "Low": "717.1",
+        "Close": "738",
+        "Percent Change": "0.96 %",
+        "Volume": "22,087.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-06",
+        "Open": "695.9",
+        "High": "757.8",
+        "Low": "682",
+        "Close": "731",
+        "Percent Change": "2.94 %",
+        "Volume": "40,764.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-02",
+        "Open": "719.6",
+        "High": "761",
+        "Low": "702.1",
+        "Close": "710.1",
+        "Percent Change": "-3.28 %",
+        "Volume": "13,998.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-10-01",
+        "Open": "700",
+        "High": "734.2",
+        "Low": "679.8",
+        "Close": "734.2",
+        "Percent Change": "5.25 %",
+        "Volume": "30,907.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-30",
+        "Open": "662",
+        "High": "697.6",
+        "Low": "656.8",
+        "Close": "697.6",
+        "Percent Change": "3.35 %",
+        "Volume": "20,341.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-29",
+        "Open": "695.9",
+        "High": "724",
+        "Low": "664",
+        "Close": "675",
+        "Percent Change": "-4.94 %",
+        "Volume": "16,762.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-26",
+        "Open": "733.9",
+        "High": "764.9",
+        "Low": "696.5",
+        "Close": "710.1",
+        "Percent Change": "-5.13 %",
+        "Volume": "30,847.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-25",
+        "Open": "774",
+        "High": "822",
+        "Low": "716",
+        "Close": "748.5",
+        "Percent Change": "-1.38 %",
+        "Volume": "25,313.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-24",
+        "Open": "800",
+        "High": "800",
+        "Low": "746",
+        "Close": "759",
+        "Percent Change": "-3.92 %",
+        "Volume": "14,105.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-23",
+        "Open": "735.3",
+        "High": "790",
+        "Low": "735",
+        "Close": "790",
+        "Percent Change": "5.33 %",
+        "Volume": "71,886.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-22",
+        "Open": "821",
+        "High": "831.9",
+        "Low": "740",
+        "Close": "750",
+        "Percent Change": "-8.65 %",
+        "Volume": "71,914.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-18",
+        "Open": "749.7",
+        "High": "821",
+        "Low": "721",
+        "Close": "821",
+        "Percent Change": "7.32 %",
+        "Volume": "26,600.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-16",
+        "Open": "720",
+        "High": "765",
+        "Low": "684",
+        "Close": "765",
+        "Percent Change": "5.37 %",
+        "Volume": "93,044.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-15",
+        "Open": "672.9",
+        "High": "726",
+        "Low": "672.9",
+        "Close": "726",
+        "Percent Change": "10.00 %",
+        "Volume": "69,908.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-12",
+        "Open": "588",
+        "High": "660",
+        "Low": "588",
+        "Close": "660",
+        "Percent Change": "10.00 %",
+        "Volume": "51,342.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-11",
+        "Open": "599",
+        "High": "610.9",
+        "Low": "597",
+        "Close": "600",
+        "Percent Change": "0.84 %",
+        "Volume": "6,045.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-10",
+        "Open": "599.6",
+        "High": "611",
+        "Low": "590",
+        "Close": "595",
+        "Percent Change": "1.19 %",
+        "Volume": "6,075.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-09",
+        "Open": "590",
+        "High": "600",
+        "Low": "583",
+        "Close": "588",
+        "Percent Change": "-0.34 %",
+        "Volume": "7,077.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-08",
+        "Open": "602",
+        "High": "615",
+        "Low": "585.2",
+        "Close": "590",
+        "Percent Change": "-0.19 %",
+        "Volume": "11,577.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-05",
+        "Open": "585.1",
+        "High": "625",
+        "Low": "584",
+        "Close": "591.1",
+        "Percent Change": "-0.99 %",
+        "Volume": "10,954.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-04",
+        "Open": "628.9",
+        "High": "628.9",
+        "Low": "596",
+        "Close": "597",
+        "Percent Change": "-4.25 %",
+        "Volume": "5,027.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-03",
+        "Open": "625",
+        "High": "639",
+        "Low": "607.6",
+        "Close": "623.5",
+        "Percent Change": "-0.56 %",
+        "Volume": "8,580.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-02",
+        "Open": "613",
+        "High": "635.2",
+        "Low": "600.1",
+        "Close": "627",
+        "Percent Change": "4.33 %",
+        "Volume": "11,808.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-09-01",
+        "Open": "624",
+        "High": "626",
+        "Low": "600.3",
+        "Close": "601",
+        "Percent Change": "-1.96 %",
+        "Volume": "8,040.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-29",
+        "Open": "609.6",
+        "High": "632",
+        "Low": "606",
+        "Close": "613",
+        "Percent Change": "-1.45 %",
+        "Volume": "5,011.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-28",
+        "Open": "630",
+        "High": "634",
+        "Low": "606",
+        "Close": "622",
+        "Percent Change": "0.65 %",
+        "Volume": "9,138.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-27",
+        "Open": "615",
+        "High": "620",
+        "Low": "603.1",
+        "Close": "618",
+        "Percent Change": "-0.96 %",
+        "Volume": "20,892.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-25",
+        "Open": "630.1",
+        "High": "650",
+        "Low": "600",
+        "Close": "624",
+        "Percent Change": "-2.19 %",
+        "Volume": "10,743.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-22",
+        "Open": "658.5",
+        "High": "659",
+        "Low": "633.1",
+        "Close": "638",
+        "Percent Change": "-1.22 %",
+        "Volume": "12,873.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-21",
+        "Open": "651",
+        "High": "663",
+        "Low": "637",
+        "Close": "645.9",
+        "Percent Change": "-1.69 %",
+        "Volume": "8,188.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-18",
+        "Open": "710",
+        "High": "710",
+        "Low": "652.1",
+        "Close": "657",
+        "Percent Change": "-6.28 %",
+        "Volume": "9,689.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-15",
+        "Open": "705.8",
+        "High": "724",
+        "Low": "700",
+        "Close": "701",
+        "Percent Change": "1.30 %",
+        "Volume": "32,152.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-14",
+        "Open": "655.2",
+        "High": "693",
+        "Low": "655.2",
+        "Close": "692",
+        "Percent Change": "3.75 %",
+        "Volume": "19,207.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-13",
+        "Open": "680",
+        "High": "690",
+        "Low": "660",
+        "Close": "667",
+        "Percent Change": "-1.91 %",
+        "Volume": "14,482.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-12",
+        "Open": "690",
+        "High": "710",
+        "Low": "668",
+        "Close": "680",
+        "Percent Change": "-0.57 %",
+        "Volume": "17,234.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-11",
+        "Open": "677",
+        "High": "689",
+        "Low": "662",
+        "Close": "683.9",
+        "Percent Change": "2.84 %",
+        "Volume": "23,468.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-08",
+        "Open": "680",
+        "High": "696.9",
+        "Low": "653",
+        "Close": "665",
+        "Percent Change": "-2.21 %",
+        "Volume": "26,686.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-07",
+        "Open": "636",
+        "High": "692",
+        "Low": "621",
+        "Close": "680",
+        "Percent Change": "7.42 %",
+        "Volume": "18,310.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-06",
+        "Open": "700.4",
+        "High": "705",
+        "Low": "630",
+        "Close": "633",
+        "Percent Change": "-7.82 %",
+        "Volume": "31,663.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-05",
+        "Open": "631",
+        "High": "687.5",
+        "Low": "615",
+        "Close": "686.7",
+        "Percent Change": "9.87 %",
+        "Volume": "29,067.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-08-01",
+        "Open": "615.9",
+        "High": "639.9",
+        "Low": "615.9",
+        "Close": "625",
+        "Percent Change": "0.06 %",
+        "Volume": "19,295.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-31",
+        "Open": "625",
+        "High": "648",
+        "Low": "621.2",
+        "Close": "624.6",
+        "Percent Change": "-0.06 %",
+        "Volume": "20,757.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-30",
+        "Open": "620",
+        "High": "635",
+        "Low": "615.6",
+        "Close": "625",
+        "Percent Change": "0.97 %",
+        "Volume": "12,213.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-29",
+        "Open": "610",
+        "High": "625",
+        "Low": "608",
+        "Close": "619",
+        "Percent Change": "0.65 %",
+        "Volume": "18,221.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-28",
+        "Open": "633.4",
+        "High": "633.4",
+        "Low": "605",
+        "Close": "615",
+        "Percent Change": "-0.97 %",
+        "Volume": "10,341.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-25",
+        "Open": "609.3",
+        "High": "640",
+        "Low": "609.1",
+        "Close": "621",
+        "Percent Change": "0.32 %",
+        "Volume": "17,431.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-24",
+        "Open": "610",
+        "High": "635",
+        "Low": "607.3",
+        "Close": "619",
+        "Percent Change": "0.65 %",
+        "Volume": "19,594.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-23",
+        "Open": "590",
+        "High": "620.2",
+        "Low": "590",
+        "Close": "615",
+        "Percent Change": "4.24 %",
+        "Volume": "23,812.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-22",
+        "Open": "588.2",
+        "High": "608",
+        "Low": "587.1",
+        "Close": "590",
+        "Percent Change": "-1.19 %",
+        "Volume": "12,499.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-21",
+        "Open": "600",
+        "High": "618",
+        "Low": "591.2",
+        "Close": "597.1",
+        "Percent Change": "0.35 %",
+        "Volume": "11,425.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-18",
+        "Open": "610",
+        "High": "615",
+        "Low": "594",
+        "Close": "595",
+        "Percent Change": "-2.46 %",
+        "Volume": "25,460.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-17",
+        "Open": "620",
+        "High": "640",
+        "Low": "598",
+        "Close": "610",
+        "Percent Change": "0.00 %",
+        "Volume": "22,253.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-16",
+        "Open": "578",
+        "High": "615",
+        "Low": "578",
+        "Close": "610",
+        "Percent Change": "3.92 %",
+        "Volume": "22,296.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-15",
+        "Open": "595.5",
+        "High": "609",
+        "Low": "570.6",
+        "Close": "587",
+        "Percent Change": "0.53 %",
+        "Volume": "28,551.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-14",
+        "Open": "578.3",
+        "High": "600",
+        "Low": "568",
+        "Close": "583.9",
+        "Percent Change": "2.98 %",
+        "Volume": "23,562.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-11",
+        "Open": "578.3",
+        "High": "588",
+        "Low": "560",
+        "Close": "567",
+        "Percent Change": "0.00 %",
+        "Volume": "14,856.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-10",
+        "Open": "579",
+        "High": "579",
+        "Low": "556.8",
+        "Close": "567",
+        "Percent Change": "-0.51 %",
+        "Volume": "5,556.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-09",
+        "Open": "577",
+        "High": "577",
+        "Low": "557.2",
+        "Close": "569.9",
+        "Percent Change": "0.33 %",
+        "Volume": "8,270.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-08",
+        "Open": "571.2",
+        "High": "582.6",
+        "Low": "551.5",
+        "Close": "568",
+        "Percent Change": "1.43 %",
+        "Volume": "2,967.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-07",
+        "Open": "556",
+        "High": "589.9",
+        "Low": "556",
+        "Close": "560",
+        "Percent Change": "-1.23 %",
+        "Volume": "5,506.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-04",
+        "Open": "576.2",
+        "High": "576.2",
+        "Low": "563",
+        "Close": "567",
+        "Percent Change": "0.35 %",
+        "Volume": "5,478.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-03",
+        "Open": "571.9",
+        "High": "583",
+        "Low": "552",
+        "Close": "565",
+        "Percent Change": "-1.21 %",
+        "Volume": "10,739.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-02",
+        "Open": "574.2",
+        "High": "619",
+        "Low": "561.1",
+        "Close": "571.9",
+        "Percent Change": "1.58 %",
+        "Volume": "6,933.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-07-01",
+        "Open": "546.9",
+        "High": "567.1",
+        "Low": "546.9",
+        "Close": "563",
+        "Percent Change": "0.90 %",
+        "Volume": "4,645.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-30",
+        "Open": "546.5",
+        "High": "567",
+        "Low": "546.5",
+        "Close": "558",
+        "Percent Change": "0.18 %",
+        "Volume": "9,664.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-27",
+        "Open": "583.9",
+        "High": "583.9",
+        "Low": "557",
+        "Close": "557",
+        "Percent Change": "-2.96 %",
+        "Volume": "6,084.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-26",
+        "Open": "591",
+        "High": "591.6",
+        "Low": "565",
+        "Close": "574",
+        "Percent Change": "-1.03 %",
+        "Volume": "15,906.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-25",
+        "Open": "582",
+        "High": "592",
+        "Low": "560.1",
+        "Close": "580",
+        "Percent Change": "1.33 %",
+        "Volume": "15,469.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-24",
+        "Open": "569",
+        "High": "592.6",
+        "Low": "560.1",
+        "Close": "572.4",
+        "Percent Change": "2.21 %",
+        "Volume": "17,058.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-23",
+        "Open": "559",
+        "High": "565",
+        "Low": "548",
+        "Close": "560",
+        "Percent Change": "2.00 %",
+        "Volume": "10,255.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-20",
+        "Open": "573.2",
+        "High": "573.2",
+        "Low": "547",
+        "Close": "549",
+        "Percent Change": "-2.31 %",
+        "Volume": "8,163.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-19",
+        "Open": "566.1",
+        "High": "573",
+        "Low": "549.8",
+        "Close": "562",
+        "Percent Change": "1.26 %",
+        "Volume": "13,120.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-18",
+        "Open": "567",
+        "High": "567",
+        "Low": "550.2",
+        "Close": "555",
+        "Percent Change": "-0.89 %",
+        "Volume": "5,604.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-16",
+        "Open": "560",
+        "High": "573",
+        "Low": "548.8",
+        "Close": "560",
+        "Percent Change": "0.00 %",
+        "Volume": "27,822.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-13",
+        "Open": "571.2",
+        "High": "575",
+        "Low": "543",
+        "Close": "560",
+        "Percent Change": "0.00 %",
+        "Volume": "18,941.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-12",
+        "Open": "580.2",
+        "High": "580.2",
+        "Low": "541.2",
+        "Close": "560",
+        "Percent Change": "-1.56 %",
+        "Volume": "26,922.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-11",
+        "Open": "575",
+        "High": "598.2",
+        "Low": "565",
+        "Close": "568.9",
+        "Percent Change": "0.69 %",
+        "Volume": "20,718.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-10",
+        "Open": "549.7",
+        "High": "592.9",
+        "Low": "540",
+        "Close": "565",
+        "Percent Change": "4.82 %",
+        "Volume": "33,085.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-09",
+        "Open": "523.7",
+        "High": "540",
+        "Low": "519",
+        "Close": "539",
+        "Percent Change": "4.97 %",
+        "Volume": "34,105.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-06",
+        "Open": "505",
+        "High": "520",
+        "Low": "500",
+        "Close": "513.5",
+        "Percent Change": "1.93 %",
+        "Volume": "8,063.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-05",
+        "Open": "514",
+        "High": "514",
+        "Low": "500",
+        "Close": "503.8",
+        "Percent Change": "-1.22 %",
+        "Volume": "8,092.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-04",
+        "Open": "528.3",
+        "High": "534",
+        "Low": "510",
+        "Close": "510",
+        "Percent Change": "-1.54 %",
+        "Volume": "9,658.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-03",
+        "Open": "527",
+        "High": "535",
+        "Low": "516.7",
+        "Close": "518",
+        "Percent Change": "-0.37 %",
+        "Volume": "25,304.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-06-02",
+        "Open": "505.9",
+        "High": "522.9",
+        "Low": "492",
+        "Close": "519.9",
+        "Percent Change": "4.82 %",
+        "Volume": "37,829.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-30",
+        "Open": "504.9",
+        "High": "504.9",
+        "Low": "480",
+        "Close": "496",
+        "Percent Change": "0.20 %",
+        "Volume": "14,525.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-29",
+        "Open": "507",
+        "High": "507",
+        "Low": "494",
+        "Close": "495",
+        "Percent Change": "-0.56 %",
+        "Volume": "11,241.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-27",
+        "Open": "501.8",
+        "High": "505.9",
+        "Low": "486",
+        "Close": "497.8",
+        "Percent Change": "1.18 %",
+        "Volume": "17,646.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-26",
+        "Open": "519.9",
+        "High": "524.9",
+        "Low": "490",
+        "Close": "492",
+        "Percent Change": "-4.47 %",
+        "Volume": "20,350.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-22",
+        "Open": "517",
+        "High": "517",
+        "Low": "499",
+        "Close": "515",
+        "Percent Change": "1.18 %",
+        "Volume": "13,693.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-21",
+        "Open": "489",
+        "High": "511",
+        "Low": "479",
+        "Close": "509",
+        "Percent Change": "5.17 %",
+        "Volume": "29,958.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-20",
+        "Open": "482",
+        "High": "490.9",
+        "Low": "472.5",
+        "Close": "484",
+        "Percent Change": "1.47 %",
+        "Volume": "18,052.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-19",
+        "Open": "480",
+        "High": "494.1",
+        "Low": "466",
+        "Close": "477",
+        "Percent Change": "0.42 %",
+        "Volume": "6,849.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-16",
+        "Open": "489",
+        "High": "489",
+        "Low": "466",
+        "Close": "475",
+        "Percent Change": "-2.66 %",
+        "Volume": "15,417.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-15",
+        "Open": "487",
+        "High": "507",
+        "Low": "470",
+        "Close": "488",
+        "Percent Change": "2.09 %",
+        "Volume": "11,875.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-14",
+        "Open": "473",
+        "High": "489",
+        "Low": "460.5",
+        "Close": "478",
+        "Percent Change": "2.80 %",
+        "Volume": "10,765.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-13",
+        "Open": "465",
+        "High": "475",
+        "Low": "457",
+        "Close": "465",
+        "Percent Change": "-1.90 %",
+        "Volume": "9,463.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-12",
+        "Open": "468",
+        "High": "474",
+        "Low": "461",
+        "Close": "474",
+        "Percent Change": "-0.48 %",
+        "Volume": "615.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-09",
+        "Open": "476.3",
+        "High": "495",
+        "Low": "452.2",
+        "Close": "476.3",
+        "Percent Change": "1.99 %",
+        "Volume": "4,684.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-08",
+        "Open": "462",
+        "High": "480.3",
+        "Low": "455",
+        "Close": "467",
+        "Percent Change": "-0.85 %",
+        "Volume": "6,837.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-07",
+        "Open": "479.9",
+        "High": "479.9",
+        "Low": "466.5",
+        "Close": "471",
+        "Percent Change": "-0.84 %",
+        "Volume": "5,134.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-06",
+        "Open": "483",
+        "High": "489.9",
+        "Low": "462.2",
+        "Close": "475",
+        "Percent Change": "0.25 %",
+        "Volume": "2,269.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-05",
+        "Open": "487",
+        "High": "487",
+        "Low": "468",
+        "Close": "473.8",
+        "Percent Change": "-1.90 %",
+        "Volume": "1,975.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-05-02",
+        "Open": "481",
+        "High": "498",
+        "Low": "475",
+        "Close": "483",
+        "Percent Change": "-1.53 %",
+        "Volume": "3,547.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-30",
+        "Open": "495",
+        "High": "498",
+        "Low": "470",
+        "Close": "490.5",
+        "Percent Change": "0.55 %",
+        "Volume": "4,795.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-29",
+        "Open": "498",
+        "High": "498",
+        "Low": "468.7",
+        "Close": "487.8",
+        "Percent Change": "-0.22 %",
+        "Volume": "4,059.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-28",
+        "Open": "477",
+        "High": "494",
+        "Low": "477",
+        "Close": "488.9",
+        "Percent Change": "2.28 %",
+        "Volume": "7,204.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-25",
+        "Open": "487.5",
+        "High": "490",
+        "Low": "467",
+        "Close": "478",
+        "Percent Change": "0.00 %",
+        "Volume": "9,634.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-24",
+        "Open": "478.3",
+        "High": "507",
+        "Low": "461.4",
+        "Close": "478",
+        "Percent Change": "1.92 %",
+        "Volume": "2,880.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-22",
+        "Open": "496",
+        "High": "496",
+        "Low": "465",
+        "Close": "469",
+        "Percent Change": "-3.87 %",
+        "Volume": "6,938.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-21",
+        "Open": "478",
+        "High": "492",
+        "Low": "459.4",
+        "Close": "487.9",
+        "Percent Change": "3.81 %",
+        "Volume": "3,895.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-18",
+        "Open": "470",
+        "High": "475",
+        "Low": "463",
+        "Close": "470",
+        "Percent Change": "-1.05 %",
+        "Volume": "3,608.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-16",
+        "Open": "487.6",
+        "High": "487.6",
+        "Low": "470.4",
+        "Close": "475",
+        "Percent Change": "-0.65 %",
+        "Volume": "8,515.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-15",
+        "Open": "499.8",
+        "High": "515",
+        "Low": "478",
+        "Close": "478.1",
+        "Percent Change": "-2.43 %",
+        "Volume": "2,129.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-14",
+        "Open": "494",
+        "High": "505",
+        "Low": "490",
+        "Close": "490",
+        "Percent Change": "-1.80 %",
+        "Volume": "5,743.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-10",
+        "Open": "494",
+        "High": "510",
+        "Low": "490",
+        "Close": "499",
+        "Percent Change": "2.25 %",
+        "Volume": "30,853.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-09",
+        "Open": "483",
+        "High": "493",
+        "Low": "473",
+        "Close": "488",
+        "Percent Change": "1.27 %",
+        "Volume": "21,655.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-07",
+        "Open": "462",
+        "High": "482",
+        "Low": "462",
+        "Close": "481.9",
+        "Percent Change": "2.53 %",
+        "Volume": "5,405.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-04",
+        "Open": "480",
+        "High": "480",
+        "Low": "464",
+        "Close": "470",
+        "Percent Change": "-0.63 %",
+        "Volume": "2,939.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-03",
+        "Open": "474",
+        "High": "483",
+        "Low": "467.5",
+        "Close": "473",
+        "Percent Change": "-2.07 %",
+        "Volume": "5,113.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-02",
+        "Open": "479",
+        "High": "485",
+        "Low": "470",
+        "Close": "483",
+        "Percent Change": "2.33 %",
+        "Volume": "17,230.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-04-01",
+        "Open": "485",
+        "High": "485",
+        "Low": "465",
+        "Close": "472",
+        "Percent Change": "-1.03 %",
+        "Volume": "4,079.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-31",
+        "Open": "487",
+        "High": "487",
+        "Low": "468.5",
+        "Close": "476.9",
+        "Percent Change": "-0.23 %",
+        "Volume": "3,290.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-28",
+        "Open": "479.9",
+        "High": "479.9",
+        "Low": "464",
+        "Close": "478",
+        "Percent Change": "1.06 %",
+        "Volume": "4,805.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-27",
+        "Open": "485",
+        "High": "485",
+        "Low": "468",
+        "Close": "473",
+        "Percent Change": "-0.84 %",
+        "Volume": "7,025.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-26",
+        "Open": "472.2",
+        "High": "479",
+        "Low": "460",
+        "Close": "477",
+        "Percent Change": "3.02 %",
+        "Volume": "5,080.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-25",
+        "Open": "470",
+        "High": "483.4",
+        "Low": "458",
+        "Close": "463",
+        "Percent Change": "-0.49 %",
+        "Volume": "1,810.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-21",
+        "Open": "482.9",
+        "High": "482.9",
+        "Low": "464.6",
+        "Close": "465.3",
+        "Percent Change": "-2.25 %",
+        "Volume": "2,648.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-20",
+        "Open": "487",
+        "High": "487",
+        "Low": "467",
+        "Close": "476",
+        "Percent Change": "-0.42 %",
+        "Volume": "2,545.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-19",
+        "Open": "479.4",
+        "High": "498",
+        "Low": "467.1",
+        "Close": "478",
+        "Percent Change": "1.70 %",
+        "Volume": "7,943.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-18",
+        "Open": "470",
+        "High": "482.8",
+        "Low": "466",
+        "Close": "470",
+        "Percent Change": "-1.05 %",
+        "Volume": "2,794.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-17",
+        "Open": "468.1",
+        "High": "477",
+        "Low": "462.1",
+        "Close": "475",
+        "Percent Change": "-0.42 %",
+        "Volume": "3,961.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-14",
+        "Open": "489.6",
+        "High": "494",
+        "Low": "471",
+        "Close": "477",
+        "Percent Change": "-0.63 %",
+        "Volume": "13,246.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-13",
+        "Open": "494.8",
+        "High": "494.8",
+        "Low": "473.5",
+        "Close": "480",
+        "Percent Change": "-1.42 %",
+        "Volume": "14,778.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-12",
+        "Open": "493",
+        "High": "502",
+        "Low": "476",
+        "Close": "486.9",
+        "Percent Change": "-0.63 %",
+        "Volume": "13,813.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-10",
+        "Open": "489",
+        "High": "499",
+        "Low": "477",
+        "Close": "490",
+        "Percent Change": "-1.01 %",
+        "Volume": "17,999.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-07",
+        "Open": "478.8",
+        "High": "507.9",
+        "Low": "469",
+        "Close": "495",
+        "Percent Change": "5.43 %",
+        "Volume": "10,733.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-06",
+        "Open": "450",
+        "High": "480",
+        "Low": "450",
+        "Close": "469.5",
+        "Percent Change": "4.33 %",
+        "Volume": "13,391.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-05",
+        "Open": "488",
+        "High": "488",
+        "Low": "450",
+        "Close": "450",
+        "Percent Change": "-5.96 %",
+        "Volume": "10,775.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-04",
+        "Open": "451",
+        "High": "478.5",
+        "Low": "451",
+        "Close": "478.5",
+        "Percent Change": "8.21 %",
+        "Volume": "50.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-03-03",
+        "Open": "444",
+        "High": "455",
+        "Low": "430.2",
+        "Close": "442.2",
+        "Percent Change": "-0.41 %",
+        "Volume": "10,565.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-29",
+        "Open": "470",
+        "High": "470",
+        "Low": "443",
+        "Close": "444",
+        "Percent Change": "-3.90 %",
+        "Volume": "7,983.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-28",
+        "Open": "478.3",
+        "High": "487",
+        "Low": "460",
+        "Close": "462",
+        "Percent Change": "-1.49 %",
+        "Volume": "6,740.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-27",
+        "Open": "480",
+        "High": "483.4",
+        "Low": "461",
+        "Close": "469",
+        "Percent Change": "-1.05 %",
+        "Volume": "5,445.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-26",
+        "Open": "452.6",
+        "High": "488.5",
+        "Low": "452.6",
+        "Close": "474",
+        "Percent Change": "3.02 %",
+        "Volume": "3,793.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-25",
+        "Open": "459",
+        "High": "485.9",
+        "Low": "456",
+        "Close": "460.1",
+        "Percent Change": "-1.48 %",
+        "Volume": "7,424.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-22",
+        "Open": "485",
+        "High": "510",
+        "Low": "467",
+        "Close": "467",
+        "Percent Change": "-5.08 %",
+        "Volume": "7,415.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-21",
+        "Open": "515.1",
+        "High": "535.9",
+        "Low": "491.5",
+        "Close": "492",
+        "Percent Change": "-2.57 %",
+        "Volume": "7,507.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-20",
+        "Open": "504.7",
+        "High": "515",
+        "Low": "500.1",
+        "Close": "505",
+        "Percent Change": "-1.94 %",
+        "Volume": "9,308.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-18",
+        "Open": "509",
+        "High": "515",
+        "Low": "500.2",
+        "Close": "515",
+        "Percent Change": "-0.75 %",
+        "Volume": "8,593.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-15",
+        "Open": "517",
+        "High": "522.9",
+        "Low": "510",
+        "Close": "518.9",
+        "Percent Change": "0.37 %",
+        "Volume": "13,296.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-14",
+        "Open": "542",
+        "High": "542",
+        "Low": "515",
+        "Close": "517",
+        "Percent Change": "-2.80 %",
+        "Volume": "20,315.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-13",
+        "Open": "532",
+        "High": "552",
+        "Low": "525",
+        "Close": "531.9",
+        "Percent Change": "-2.01 %",
+        "Volume": "36,279.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-12",
+        "Open": "529.2",
+        "High": "547",
+        "Low": "525.2",
+        "Close": "542.8",
+        "Percent Change": "0.54 %",
+        "Volume": "23,418.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-11",
+        "Open": "527",
+        "High": "547",
+        "Low": "504",
+        "Close": "539.9",
+        "Percent Change": "4.45 %",
+        "Volume": "43,108.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-08",
+        "Open": "514",
+        "High": "519",
+        "Low": "505",
+        "Close": "516.9",
+        "Percent Change": "-1.35 %",
+        "Volume": "7,176.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-07",
+        "Open": "515",
+        "High": "529.8",
+        "Low": "508",
+        "Close": "524",
+        "Percent Change": "0.00 %",
+        "Volume": "12,163.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-06",
+        "Open": "513",
+        "High": "539",
+        "Low": "502",
+        "Close": "524",
+        "Percent Change": "2.36 %",
+        "Volume": "17,252.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-05",
+        "Open": "512",
+        "High": "519",
+        "Low": "502",
+        "Close": "511.9",
+        "Percent Change": "-0.02 %",
+        "Volume": "12,832.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-04",
+        "Open": "550",
+        "High": "550",
+        "Low": "510",
+        "Close": "512",
+        "Percent Change": "-5.17 %",
+        "Volume": "49,899.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-02-01",
+        "Open": "524",
+        "High": "540",
+        "Low": "496.5",
+        "Close": "539.9",
+        "Percent Change": "3.83 %",
+        "Volume": "54,973.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-31",
+        "Open": "504.9",
+        "High": "544.5",
+        "Low": "504.9",
+        "Close": "520",
+        "Percent Change": "5.05 %",
+        "Volume": "51,302.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-30",
+        "Open": "459",
+        "High": "495",
+        "Low": "451.5",
+        "Close": "495",
+        "Percent Change": "10.00 %",
+        "Volume": "53,904.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-29",
+        "Open": "441",
+        "High": "466",
+        "Low": "441",
+        "Close": "450",
+        "Percent Change": "0.00 %",
+        "Volume": "6,715.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-28",
+        "Open": "429",
+        "High": "472.1",
+        "Low": "429",
+        "Close": "450",
+        "Percent Change": "3.45 %",
+        "Volume": "6,032.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-25",
+        "Open": "440",
+        "High": "442",
+        "Low": "426",
+        "Close": "435",
+        "Percent Change": "-0.46 %",
+        "Volume": "9,456.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-24",
+        "Open": "452",
+        "High": "453.2",
+        "Low": "435.8",
+        "Close": "437",
+        "Percent Change": "-1.58 %",
+        "Volume": "12,224.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-23",
+        "Open": "440",
+        "High": "446",
+        "Low": "430.2",
+        "Close": "444",
+        "Percent Change": "1.60 %",
+        "Volume": "6,841.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-22",
+        "Open": "455",
+        "High": "458",
+        "Low": "432",
+        "Close": "437",
+        "Percent Change": "-2.67 %",
+        "Volume": "9,239.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-21",
+        "Open": "448",
+        "High": "466",
+        "Low": "447.2",
+        "Close": "449",
+        "Percent Change": "2.05 %",
+        "Volume": "19,825.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-18",
+        "Open": "469.2",
+        "High": "469.2",
+        "Low": "429.3",
+        "Close": "440",
+        "Percent Change": "-4.35 %",
+        "Volume": "16,499.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-17",
+        "Open": "492.5",
+        "High": "494.5",
+        "Low": "445",
+        "Close": "460",
+        "Percent Change": "-4.76 %",
+        "Volume": "22,516.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-16",
+        "Open": "501.8",
+        "High": "503",
+        "Low": "482",
+        "Close": "483",
+        "Percent Change": "-1.83 %",
+        "Volume": "19,717.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-14",
+        "Open": "463.8",
+        "High": "498.7",
+        "Low": "457",
+        "Close": "492",
+        "Percent Change": "8.16 %",
+        "Volume": "26,988.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-11",
+        "Open": "445",
+        "High": "459",
+        "Low": "444",
+        "Close": "454.9",
+        "Percent Change": "1.09 %",
+        "Volume": "15,540.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-10",
+        "Open": "451",
+        "High": "468.1",
+        "Low": "446",
+        "Close": "450",
+        "Percent Change": "-1.96 %",
+        "Volume": "10,877.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-09",
+        "Open": "435",
+        "High": "477.9",
+        "Low": "435",
+        "Close": "459",
+        "Percent Change": "3.64 %",
+        "Volume": "41,854.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-08",
+        "Open": "415",
+        "High": "446",
+        "Low": "415",
+        "Close": "442.9",
+        "Percent Change": "4.95 %",
+        "Volume": "20,506.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-07",
+        "Open": "447.7",
+        "High": "450.8",
+        "Low": "416.5",
+        "Close": "422",
+        "Percent Change": "-3.87 %",
+        "Volume": "40,592.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-04",
+        "Open": "422",
+        "High": "454",
+        "Low": "414.1",
+        "Close": "439",
+        "Percent Change": "6.04 %",
+        "Volume": "31,533.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-03",
+        "Open": "403",
+        "High": "414",
+        "Low": "403",
+        "Close": "414",
+        "Percent Change": "2.73 %",
+        "Volume": "5,683.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-02",
+        "Open": "411.8",
+        "High": "416",
+        "Low": "399.9",
+        "Close": "403",
+        "Percent Change": "-2.14 %",
+        "Volume": "12,673.00"
+    },
+    {
+        "Symbol": "RAWA",
+        "Date": "2024-01-01",
+        "Open": "420",
+        "High": "435",
+        "Low": "411.8",
+        "Close": "411.8",
+        "Percent Change": "-1.98 %",
+        "Volume": "16,251.00"
+    }
+]
